@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 47 題",
+    "question": "下列有關細胞外液（extracellular fluid）的敘述，何者錯誤？",
+    "options": {
+      "A": "氯離子為細胞外液之主要陰離子",
+      "B": "鉀離子為細胞外液之主要陽離子",
+      "C": "造成細胞內外液之主要陽離子分布不同，須賴位於細胞膜上$Na^+$/$K^+$ ATPase之作用",
+      "D": "一位體重70公斤的成年男性，其細胞外液量約為14公升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 48 題",
+    "question": "Horner syndrome的病人分布於臉面的交感神經受損，最不可能出現下列何項特徵？",
+    "options": {
+      "A": "額頭排汗減少",
+      "B": "眼皮下垂",
+      "C": "瞳孔持續放大",
+      "D": "眼球下陷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 49 題",
+    "question": "下列關於語言優勢腦半球（dominant hemisphere）或語言互補式特化（complementary specialization） 半球的描述，下列何項最適當？",
+    "options": {
+      "A": "多數人負責語言理解和製造的語言優勢腦半球皆位於右腦半球",
+      "B": "語言優勢腦半球和人臉及負向表情辨識的優勢腦半球通常位於不同半球",
+      "C": "語言優勢腦半球是一個將語言的視空間化表徵特性轉化為時間表徵特性的腦半球",
+      "D": "Wernicke's aphasia是專指語言優勢腦半球的Wernicke's area受損，使語言的製造上出現問題，但語言理 解是正常的"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 50 題",
+    "question": "下列有關神經肌肉聯結或神經肌接頭（neuromuscular junction）之敘述，何項最不適當？",
+    "options": {
+      "A": "當junction的後方是骨骼肌的肌梭外肌纖維（extrafusal muscle fiber），junction的前方往往是alpha- motor neuron",
+      "B": "在該處產生的endplate potential，是指junction前方運動神經元軸突末端膨紐（terminal bouton）細胞 膜上產生的graded potential",
+      "C": "junction前方運動神經元釋放的神經傳導物質通常是乙醯膽鹼，junction後方的肌纖維細胞膜上的乙醯膽 鹼受體本身為一陽離子通道",
+      "D": "在該junction處發現的miniature endplate potential，可用於推論出該junction前方的神經元在釋放神 經傳導物質時可能是以vesicle為單位的量子釋放（quantal release）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 51 題",
+    "question": "下列何種神經傳導物質不會貯存在突觸前的囊泡裡？",
+    "options": {
+      "A": "腺苷三磷酸（ATP）",
+      "B": "催產素（oxytocin）",
+      "C": "一氧化氮（NO）",
+      "D": "組織胺（histamine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 52 題",
+    "question": "下列何種受體屬於代謝型受體（metabotropic receptor）？",
+    "options": {
+      "A": "AMPA受體（AMPA recepter）",
+      "B": "NMDA受體（NMDA recepter）",
+      "C": "甘胺酸受體（glycine recepter）",
+      "D": "蕈毒類受體（muscarinic recepter）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 53 題",
+    "question": "下列何種部位的損傷，最可能導致患者兩眼左視野消失？",
+    "options": {
+      "A": "right optic tract",
+      "B": "left optic nerve",
+      "C": "optic chiasm",
+      "D": "optic disc"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 54 題",
+    "question": "下列何者屬於單突觸反射作用（monosynaptic reflex）？",
+    "options": {
+      "A": "起始於皮膚痛覺受器受到刺激的縮回反射（withdrawal reflex）",
+      "B": "狗經訓練後，聽到鈴聲而分泌唾液的條件反射（conditional reflex）",
+      "C": "起始於肌肉受到牽張（stretch）的膝跳反射（knee jerk reflex）",
+      "D": "起始於肌肉張力增加的伸肌反射（extensor reflex）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 55 題",
+    "question": "下列何者可以最快速度提供ATP供肌纖維收縮之用？",
+    "options": {
+      "A": "有氧磷酸化（oxidative phosphorylation）",
+      "B": "糖解作用（glycolysis）",
+      "C": "肝糖分解作用（glycogenolysis）",
+      "D": "磷酸肌酸（creatine phosphate）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 56 題",
+    "question": "下列那些肌細胞具有自發性去極化（spontaneous depolarization）的能力？",
+    "options": {
+      "A": "skeletal muscle and specialized cardiac muscle",
+      "B": "skeletal muscle and multi-unit smooth muscle",
+      "C": "single-unit smooth muscle and multi-unit smooth muscle",
+      "D": "single-unit smooth muscle and specialized cardiac muscle"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 57 題",
+    "question": "急診來了一位患者，半年前他曾經進行健康檢查，檢查人員抽取 1 mL的血液，經離心後測量血漿 （plasma）體積為 0.6 mL，並告訴他正常。今日他因身體不適來到急診室，再次進行血液檢查後，醫生告 訴患者出現貧血現象。下列那一個數值，最可能是今日此患者在急診室測到的血比容（hematocrit）？",
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 58 題",
+    "question": "心臟組織的傳導速度由快到慢的排列，下列何者正確？",
+    "options": {
+      "A": "Purkinje system＞atrial pathways＞SA node",
+      "B": "Purkinje system＞SA node＞atrial pathways",
+      "C": "SA node＞Purkinje system＞atrial pathways",
+      "D": "atrial pathways＞Purkinje system＞SA node"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 59 題",
+    "question": "下列有關淋巴系統運作，何者最不易發生？",
+    "options": {
+      "A": "交感神經興奮促使淋巴管平滑肌收縮，可減緩淋巴液流速",
+      "B": "增加骨骼肌泵活動，可增加淋巴液流速",
+      "C": "淋巴管的平滑肌自發性節律收縮，可將淋巴液往心臟方向推動",
+      "D": "淋巴管的瓣膜可以幫助往心臟方向推動淋巴液"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 60 題",
+    "question": "循環系統作用受到體內恆定機制嚴謹調控，下列何項敘述最不可能發生？",
+    "options": {
+      "A": "血液體積上升，可導致周邊靜脈壓上升，心臟收縮末期容積增加",
+      "B": "周邊靜脈壓上升，可導致心搏量增加，動脈壓上升",
+      "C": "周邊靜脈壓上升，靜脈回流心臟增加，可導致心輸出量上升",
+      "D": "血液體積上升，可導致尿液流失鈉離子與水分增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 61 題",
+    "question": "吸氣時有時會延長主動脈和肺動脈瓣膜關閉差距的時間，這會造成那一心音分裂（splitting）？",
+    "options": {
+      "A": "第一心音",
+      "B": "第二心音",
+      "C": "第三心音",
+      "D": "第四心音"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 62 題",
+    "question": "在整個呼吸循環（respiratory cycle）中，肺泡內壓（alveolar pressure, Palv）於何時達到最高點？",
+    "options": {
+      "A": "開始吸氣時",
+      "B": "吸氣階段中途",
+      "C": "吸氣結束，開始呼氣之前",
+      "D": "呼氣階段中途"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 63 題",
+    "question": "相較於健康者，肺氣腫（emphysema）的病患有下列那些特徵？①呼吸道阻力（airway resistance）增 加　②肺臟順應性（lung compliance）減少　③生理無效腔（physiological dead space）增加　④體動 脈（systemic artery）血中血氧飽和度百分比（oxygen saturation percentage, ）不變",
+    "options": {
+      "A": "①②③④",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "僅①④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 64 題",
+    "question": "關於腸道內分泌荷爾蒙（hormones）的生理功能敘述，下列何者最適當？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin, CCK）主要促進胃排空（gastric emptying），並可促進胃結腸反射 （gastrocolic reflex）",
+      "B": "膽囊收縮素（cholecystokinin, CCK）可因感受腸道酸鹼值（pH）下降而分泌，主要促進奧迪氏括約肌 （sphincter of Oddi）收縮",
+      "C": "胰泌素（secretin）主要促進胰臟碳酸根離子（HCO3 -）釋放，並抑制胃部氫離子（$H^+$）分泌",
+      "D": "胰泌素（secretin）可因感受腸道中之酸鹼值（pH）上升而分泌，主要促進胰臟製造消化酵素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 65 題",
+    "question": "關於不帶有spike potentials的腸道慢波（slow waves）的敘述，下列何者最適當？",
+    "options": {
+      "A": "起源與卡氏間質細胞（interstitial cells of Cajal, ICC）有關，常導致腸道平滑肌之收縮",
+      "B": "起源與潘氏細胞（Paneth cell）有關，常導致腸道平滑肌之收縮",
+      "C": "起源與卡氏間質細胞（interstitial cells of Cajal, ICC）有關，很少導致腸道平滑肌之收縮",
+      "D": "起源與潘氏細胞（Paneth cell）有關，很少導致腸道平滑肌之收縮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 66 題",
+    "question": "下列何者不是身體得到$H^+$的來源或狀況？",
+    "options": {
+      "A": "腹瀉而造成流失碳酸鹽（bicarbonate）",
+      "B": "換氣不足（hypoventilation）",
+      "C": "腎臟排除銨離子（NH4 +）",
+      "D": "由蛋白質及其他有機物在代謝過程中產生非揮發性酸（nonvolatile acid）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 67 題",
+    "question": "若受試者的腎血流量（renal blood flow）為1,250 mL/min，血比容（hematocrit）為50%，腎絲球過濾率 （glomerular filtration rate）125 mL/min，則其腎臟之過濾分數（filtration fraction）最接近下列 何者？",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 68 題",
+    "question": "下列何種因素最不具有促進泌乳激素（prolactin）分泌的作用？",
+    "options": {
+      "A": "睡眠",
+      "B": "壓力",
+      "C": "懷孕",
+      "D": "給與多巴胺（dopamine）受體致效劑"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 69 題",
+    "question": "一位被評估為身材矮小的6歲女童，血中生長激素濃度卻落在該年齡層正常範圍，下列何者為最可能的致病 原因？",
+    "options": {
+      "A": "腦下垂體前葉生長激素釋放激素（GHRH）受體結構缺損",
+      "B": "生長激素受體結構缺損",
+      "C": "腦下垂體前葉所分泌之體抑素（somatostatin）不足",
+      "D": "動情素合成分泌功能缺損"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 70 題",
+    "question": "欲檢測人類腎上腺皮質之功能狀況，下列何種激素之血中濃度最具代表性？",
+    "options": {
+      "A": "皮質醇（cortisol）",
+      "B": "皮質酮（corticosterone）",
+      "C": "促腎上腺皮質激素（ACTH）",
+      "D": "皮釋素（CRH）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 71 題",
+    "question": "下列何者促進血鈣濃度升高的能力最強？",
+    "options": {
+      "A": "calcitonin",
+      "B": "parathyroid hormone",
+      "C": "prolactin",
+      "D": "oxytocin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 72 題",
+    "question": "飯後胰島素明顯增加，相對而言，下列何種組織是其最主要的作用標的，以促使葡萄糖進入其細胞而降低血 糖？",
+    "options": {
+      "A": "腎臟組織",
+      "B": "大腦皮質",
+      "C": "脂肪組織",
+      "D": "小腸黏膜"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 73 題",
+    "question": "下列有關生殖生理功能和調控的敘述，何者最不適當？",
+    "options": {
+      "A": "睪固酮（testosterone）抑制腦下垂體前葉（anterior pituitary）分泌黃體生成素（luteinizing hormone, LH）",
+      "B": "抑制素（inhibin）抑制萊氏細胞（Leydig cell）分泌睪固酮（testosterone）",
+      "C": "睪固酮（testosterone）促進Wolffian duct分化",
+      "D": "二氫睪固酮（dihydrotestosterone, DHT）促進前列腺（prostate）發育"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

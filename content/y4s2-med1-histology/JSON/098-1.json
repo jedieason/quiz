@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 33 題",
+    "question": "有關眼球之水樣液（aqueous humor），下列敘述何項正確？",
+    "options": {
+      "A": "只存在於眼球內前房（anterior chamber）",
+      "B": "由水晶體（lens）生成並釋出",
+      "C": "會經過Schlemm 氏管而回到血液循環系統",
+      "D": "對眼壓（intraocular pressure）的形成不扮演任何角色"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 34 題",
+    "question": "骨單位（osteon）的組成不包括下列何者？",
+    "options": {
+      "A": "哈氏管（Haversian canal）",
+      "B": "同心圍繞的骨板（concentric lamella）",
+      "C": "骨細胞及小管",
+      "D": "間質骨板（interstitial lamella）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 35 題",
+    "question": "下列何者是肝臟中具吞噬功能的細胞？",
+    "options": {
+      "A": "肝細胞",
+      "B": "內皮細胞",
+      "C": "伊藤細胞（Ito cells）",
+      "D": "庫弗氏細胞（Kupffer cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 36 題",
+    "question": "“Weibel-Palade 體（Weibel-Palade body）＂主要位於下列何種細胞？",
+    "options": {
+      "A": "動脈之內皮細胞",
+      "B": "動脈之平滑肌細胞",
+      "C": "靜脈之內皮細胞",
+      "D": "靜脈之平滑肌細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 37 題",
+    "question": "有關男性生殖系統，下列敘述何項錯誤？",
+    "options": {
+      "A": "輸精管（ductus deferens）的上皮是偽複層柱狀上皮（pseudostratified columnar epithelium）",
+      "B": "黃體刺激素（LH）會刺激萊氏細胞（Leydig cell）產生雄性素（testosterone）",
+      "C": "輸精管（ductus deferens）具有內層縱走，中層環走，外層縱走之三層平滑肌管壁",
+      "D": "Sertoli 細胞所分泌之抑制素（inhibin）可促進腦下垂體前葉黃體刺激素（LH）之釋放"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 38 題",
+    "question": "促性腺激素（gonadotrophins）分泌不足時，性腺機能不足（idiopathic hypogonadotropic hypogonadism） 病人之睪丸結構，缺少下列何種細胞？",
+    "options": {
+      "A": "內皮細胞（endothelial cells）",
+      "B": "睪丸支持細胞（Sertoli cells）",
+      "C": "睪丸間質細胞（Leydig cells）",
+      "D": "精細管周類肌細胞（peritubular myoid cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 39 題",
+    "question": "下列何者不是細胞凋亡（apoptosis）的特徵？",
+    "options": {
+      "A": "DNA 片段化",
+      "B": "凋亡小體形成",
+      "C": "細胞膜疱狀化（blebbing）",
+      "D": "細胞腫脹"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 40 題",
+    "question": "聲波的傳遞不經過下列那一個結構？",
+    "options": {
+      "A": "前庭膜（Reissner’s membrane）",
+      "B": "內淋巴液（endolymph）",
+      "C": "壺腹脊（crista ampullaris）",
+      "D": "基底膜（basilar membrane）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 41 題",
+    "question": "有關甲狀腺（thyroid gland）與副甲狀腺（parathyroid gland），下列敘述何項錯誤？",
+    "options": {
+      "A": "嗜氧細胞（oxyphil cell）會分泌副甲狀腺素（parathyroid hormone）",
+      "B": "副甲狀腺素（parathyroid hormone）可以增進小腸對鈣質的吸收",
+      "C": "甲狀腺球蛋白（thyroglobulin）在濾泡細胞（follicle cells）粗糙性內質網（rER）內合成",
+      "D": "甲狀腺濾泡旁細胞可分泌降鈣素（calcitonin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

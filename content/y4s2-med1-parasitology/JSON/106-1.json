@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 75 題",
+    "question": "下列有關蟠尾絲蟲（Onchocerca volvulus）感染人體的敘述，有幾項敘述是正確的？①微絲蟲（microfilaria）也會出現在尿液 中 ②微絲蟲（microfilaria）可能引起失明 ③病患皮膚可能呈現豹皮花紋（leopard skin） ④病患肺部可能有硬幣大小的結 節病變（coin lesion）",
+    "options": {
+      "A": "1項",
+      "B": "2項",
+      "C": "3項",
+      "D": "4項"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 76 題",
+    "question": "下列有關旋毛蟲（Trichinella spiralis）感染的敘述，有幾項是正確的？①食入未熟之帶蟲豬肉為人類常見的感染途徑 ②蟲體 在骨骼肌發育及囊化 ③感染後最早出現的症狀為肌肉痛 ④豬為終宿主也同時為中間宿主",
+    "options": {
+      "A": "1項",
+      "B": "2項",
+      "C": "3項",
+      "D": "4項"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 77 題",
+    "question": "下列何種人體寄生蟲之絲狀幼蟲的尾端會呈現分叉狀（notched tail）？",
+    "options": {
+      "A": "美洲鉤蟲（Necator americanus）",
+      "B": "十二指腸鉤蟲（Ancylostoma duodenale）",
+      "C": "糞小桿線蟲（Strongyloides stercoralis）",
+      "D": "蟯蟲（Enterobius vermicularis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 78 題",
+    "question": "下列有關中華肝吸蟲（Clonorchis sinensis）感染人體的敘述，何者錯誤？",
+    "options": {
+      "A": "因食入帶蟲淡水魚肉而感染",
+      "B": "其囊幼（metacercaria）具感染人體之能力",
+      "C": "其蟲卵易與橫川吸蟲（Metagonimus yokogawai）蟲卵區分",
+      "D": "在慢性重度感染者可能引發膽管癌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 79 題",
+    "question": "俗稱的片山熱（Katayama fever）是由何種寄生蟲感染引起的？",
+    "options": {
+      "A": "橫川吸蟲（Metagonimus yokogawai）",
+      "B": "日本血吸蟲（Schistosoma japonicum）",
+      "C": "中華肝吸蟲（Clonorchis sinensis）",
+      "D": "衛氏肺吸蟲（Paragonimus westermani）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 80 題",
+    "question": "下列敘述中，何者錯誤？",
+    "options": {
+      "A": "大腸纖毛蟲（Balantidium coli）及梨形鞭毛蟲（Giardia lamblia）之滋養體（trophozoites）都具有兩個細胞核",
+      "B": "目前治療陰道滴蟲症（vaginal trichomoniasis）的首選用藥為metronidazole",
+      "C": "自來水廠之過濾及一般氯處理殺菌方式，即可移除及殺死水中隱胞子蟲（Cryptosporidium spp.）的卵囊",
+      "D": "野外露營如果無法煮沸飲水，可利用碘液處理方式殺死水中梨形鞭毛蟲（Giardia lamblia）的囊體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 81 題",
+    "question": "下列有關阿米巴之敘述中，何者錯誤？",
+    "options": {
+      "A": "利用PCR技術可鑑別痢疾阿米巴（Entamoeba histolytica）及迪斯帕阿米巴（Entamoeba dispar）",
+      "B": "Metronidazole為痢疾阿米巴症之首選治療藥物",
+      "C": "痢疾阿米巴（Entamoeba histolytica）的滋養體（trophozoites）會吞噬紅血球",
+      "D": "人體寄生性阿米巴之寄生部位均在大腸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 82 題",
+    "question": "下列那些原蟲的感染型（infective form）通常具有四個細胞核？",
+    "options": {
+      "A": "梨形鞭毛蟲（Giardia lamblia）及大腸阿米巴（Entamoeba coli）",
+      "B": "梨形鞭毛蟲（Giardia lamblia）及痢疾阿米巴（Entamoeba histolytica）",
+      "C": "哈氏阿米巴（Entamoeba hartmanni）及嗜碘阿米巴（Iodamoeba bütschlii）",
+      "D": "微小阿米巴（Endolimax nana）及雙核阿米巴（Dientamoeba fragilis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 51 題",
+    "question": "下列敘述何者錯誤？",
+    "options": {
+      "A": "agonist 與allosteric inhibitor 同時存在之下，其效用會比單獨agonist 存在之效用低",
+      "B": "當antagonist 與agonist 作用於相同位置，稱之為competitive inhibitor",
+      "C": "agonist 與competitive inhibitor 同時存在之下，不論劑量多大，其效用會比單獨agonist 存在之效用低",
+      "D": "agonist 與allosteric activator 同時存在之下，其效用會比單獨agonist 存在之效用高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 52 題",
+    "question": "鹼化尿液較會促進下列何者再次吸收？",
+    "options": {
+      "A": "amphetamine",
+      "B": "cromolyn",
+      "C": "ethacrynic acid",
+      "D": "methyldopa"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 53 題",
+    "question": "下列何種藥物對鈉離子通道之結合與分離速率最快？",
+    "options": {
+      "A": "quinidine",
+      "B": "amiodarone",
+      "C": "flecainide",
+      "D": "lidocaine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 54 題",
+    "question": "肺結核治療劑isoniazid 常和pyridoxine 合併使用，以預防因長期服用isoniazid 所產生的何種副作用？",
+    "options": {
+      "A": "口乾（dryness of the mouth）",
+      "B": "肝炎（hepatitis）",
+      "C": "周邊神經病變（peripheral neuropathy）",
+      "D": "腎絲球腎炎（glomerulonephritis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 55 題",
+    "question": "下列何種藥物應在病人感染瘧疾數天之後給予，以便清除病人肝臟中裂殖蟲（schizonts）及靜止蟲體 （hypnozoites）？",
+    "options": {
+      "A": "primaquine",
+      "B": "artemisinin",
+      "C": "proguanil",
+      "D": "sulfadoxine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 56 題",
+    "question": "下列何種抗癌藥物服用後會造成急性出血性膀胱炎的副作用？",
+    "options": {
+      "A": "doxorubicin",
+      "B": "fluorouracil",
+      "C": "vincristine",
+      "D": "cyclophosphamide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 57 題",
+    "question": "下列有關GM-CSF（sargramostim）和G-CSF（filgrastim）生長因子之敘述，何者錯誤？",
+    "options": {
+      "A": "GM-CSF 和G-CSF 皆可增加neutrophil 數目",
+      "B": "兩者均可增加末梢血液中stem cells 數目",
+      "C": "GM-CSF 可增加 eosinophil 數目",
+      "D": "GM-CSF 產生之不良作用小於G-CSF"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 58 題",
+    "question": "下列有關免疫抑制劑與其不良作用（adverse reaction）之配對，何者錯誤？",
+    "options": {
+      "A": "anti-CD 3 單株抗體：類感冒症狀",
+      "B": "corticosteroids：電解質不平衡",
+      "C": "cyclosporine：重度骨髓抑制",
+      "D": "azathioprine：骨髓抑制"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 59 題",
+    "question": "下列何種藥物可結合至 FK-binding protein，抑制calcineurin，進而抑制T cell 活化？",
+    "options": {
+      "A": "cyclosporine",
+      "B": "sirolimus",
+      "C": "tacrolimus",
+      "D": "cyclophosphamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 60 題",
+    "question": "糖皮質素（glucocorticoids）在炎症細胞（inflammatory cells）中，透過下列何種主要的作用機轉來產 生抗發炎作用？",
+    "options": {
+      "A": "抑制phospholipase A2 的活性",
+      "B": "抑制phospholipase C 的活性",
+      "C": "促進phospholipase A2 的活性",
+      "D": "促進phospholipase C 的活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 61 題",
+    "question": "下列何者非vitamin D 及其衍生物的臨床適應症？",
+    "options": {
+      "A": "骨質疏鬆（osteoporosis）",
+      "B": "骨軟化症（osteomalacia）",
+      "C": "腎功能衰竭（renal failure）",
+      "D": "副甲狀腺功能亢進症（hyperparathyroidism）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 62 題",
+    "question": "下列何者不是生長激素（growth hormone）在臨床上可使用的適應症？",
+    "options": {
+      "A": "普拉德－威利症（Prader-Willi syndrome）",
+      "B": "透納氏症（Turner syndrome）",
+      "C": "短腸症（short bowel syndrome）",
+      "D": "腕隧道症候群（carpal tunnel syndrome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 63 題",
+    "question": "下列胰島素製劑中，依照其起始作用（onset）由快到慢的排列，何者正確？",
+    "options": {
+      "A": "lispro insulin＞glargine insulin＞regular insulin",
+      "B": "regular insulin＞lispro insulin＞glargine insulin",
+      "C": "lispro insulin＞regular insulin＞glargine insulin",
+      "D": "regular insulin＞glargine insulin＞lispro insulin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 64 題",
+    "question": "下列有關降血糖藥物作用機轉的描述，何者錯誤？",
+    "options": {
+      "A": "glipizide 具有促進胰島素分泌的作用",
+      "B": "metformin 具有抑制肝臟製造過多葡萄糖的作用",
+      "C": "rosiglitazone 具有減少胰島素抗性（insulin resistance）的作用，主要針對第一型糖尿病使用",
+      "D": "acarbose 具有抑制腸道內負責分解雙醣、寡醣及多醣的酵素，進而延遲及減少醣類的分解吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 65 題",
+    "question": "有關exenatide 降血糖的作用之敘述，下列何者錯誤？",
+    "options": {
+      "A": "降低餐後血糖",
+      "B": "活化peroxisome proliferator-activated receptor-γ（PPAR-γ）受體",
+      "C": "降低食慾",
+      "D": "增加葡萄糖所誘導的胰島素釋放作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 66 題",
+    "question": "要治療患有支氣管氣喘之病人的青光眼症，下列何種藥物較不適合？",
+    "options": {
+      "A": "dorzolamide",
+      "B": "latanoprost",
+      "C": "brinzolamide",
+      "D": "timolol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 67 題",
+    "question": "下列何種藥物，最適合用於治療與Sjögren’s syndrome 有關之口乾症？",
+    "options": {
+      "A": "bethanechol",
+      "B": "cevimeline",
+      "C": "donepezil",
+      "D": "neostigmine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 68 題",
+    "question": "下列何類藥物噴劑是急診室治療急性氣喘的第一線用藥？",
+    "options": {
+      "A": "chromones",
+      "B": "glucocorticoids",
+      "C": "β2-agonists",
+      "D": "leukotriene modulators"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 69 題",
+    "question": "【背景題幹：下列何類藥物噴劑是急診室治療急性氣喘的第一線用藥？】\n承上題，若該藥物噴劑對病患之急性氣喘發作並無緩解時，應立即靜脈注射下列何種藥物？",
+    "options": {
+      "A": "zileuton",
+      "B": "glucocorticoids",
+      "C": "terbutaline",
+      "D": "tiotropium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物對於化學治療劑引起的噁心、嘔吐，有很好的預防作用？",
+    "options": {
+      "A": "buspirone",
+      "B": "ketanserin",
+      "C": "tegaserod",
+      "D": "ondansetron"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 71 題",
+    "question": "下列何種藥物可用於治療失眠，而它是作用於melatonin 的receptor？",
+    "options": {
+      "A": "diphenhydramine",
+      "B": "promethazine",
+      "C": "ramelteon",
+      "D": "cyproheptadine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 72 題",
+    "question": "下列何種藥物之半衰期最長？",
+    "options": {
+      "A": "alprazolam",
+      "B": "chlordiazepoxide",
+      "C": "flurazepam",
+      "D": "zaleplon"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 73 題",
+    "question": "下列有關治療巴金森氏症的藥物levodopa 的描述，何者正確？",
+    "options": {
+      "A": "levodopa 口服效果差，需以靜脈注射的方式投藥",
+      "B": "levodopa 通常不可以與selegiline（deprenyl）併用",
+      "C": "levodopa 經常與bromocriptine 併用，以延長其作用的時間",
+      "D": "levodopa 會導致食慾下降"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 74 題",
+    "question": "關於pentazocine 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "高劑量的pentazocine 會造成血壓的上升",
+      "B": "可以與morphine 併用，以達最大的止痛效果",
+      "C": "比morphine 較不易產生欣快感",
+      "D": "口服有效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 75 題",
+    "question": "下列何種藥物是甲醇（methanol）中毒時的最佳解毒劑？",
+    "options": {
+      "A": "hydroxocobalamin",
+      "B": "fomepizole",
+      "C": "esmolol",
+      "D": "pralidoxime"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

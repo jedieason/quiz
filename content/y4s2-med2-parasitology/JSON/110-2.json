@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 29 題",
+    "question": "關於蟠尾絲蟲（Onchocerca volvulus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "微絲蟲會侵犯患者眼睛造成失明",
+      "B": "自皮膚切片（skin snips）發現微絲蟲為主要診斷方法",
+      "C": "患者可能出現鼠蹊懸垂（hanging groin）",
+      "D": "患者常會出現肺部結節（pulmonary nodules）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 30 題",
+    "question": "下列何者不適用於旋毛蟲（Trichinella spiralis）感染的診斷？",
+    "options": {
+      "A": "檢查患者糞便中之蟲卵",
+      "B": "特異性抗體檢查",
+      "C": "臨床症狀",
+      "D": "骨骼肌切片檢查（biopsy of skeletal muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 31 題",
+    "question": "下列何種寄生蟲的幼蟲可以在人體小腸絨毛內發育，並完成生活史？",
+    "options": {
+      "A": "短小包膜絛蟲（Hymenolepis nana）",
+      "B": "豬肉絛蟲（Taenia solium）",
+      "C": "多房性包生絛蟲（Echinococcus multilocularis）",
+      "D": "曼森裂頭絛蟲（Spirometra mansonoides）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 32 題",
+    "question": "有關瘧原蟲（Plasmodium spp.）生活史與形態的敘述，下列何者正確？",
+    "options": {
+      "A": "人體內裂殖子（merozoite）會轉變成為大 ／小配子母細胞（macro- / micro-gametocyte）",
+      "B": "大 ／小配子母細胞受精後，會被瘧蚊攝入體內，變成卵動子（ookinete），進行減數分裂後，產生孢子體 （sporozoite）",
+      "C": "造成復發的主因是因為孢子體進入肝臟細胞後，轉變成為休眠之裂殖生殖期（schizogony）所致",
+      "D": "瘧色素（hemozoin）是一種含鐵的蛋白質，係由瘧原蟲產生，主要原料源自於宿主的乳鐵蛋白 （lactoferrin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 33 題",
+    "question": "有關隱孢子蟲症（cryptosporidiosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "患者有嚴重腹瀉，並伴隨乳糜瀉（celiac disease）發生",
+      "B": "蟲體會入侵小腸的肌肉層（muscularis）進行兩次無性生殖，待孢子成熟後再入侵上皮細胞的刷狀緣（brush border）發育",
+      "C": "愛滋病患常見的伺機性（opportunistic）寄生蟲感染症之一",
+      "D": "發育中的卵囊為紡錘形，未成熟卵囊只見一個孢子母細胞（sporoblast），會在體外繼續發育為兩個孢子細 胞（sporocyst）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 34 題",
+    "question": "白蛉（sandfly）為下列何種人類寄生蟲病之主要傳播病媒？",
+    "options": {
+      "A": "黑水熱（blackwater fever）",
+      "B": "黑死病（black death）",
+      "C": "黑熱病（kala-azar）",
+      "D": "斷骨熱（breakbone fever）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 35 題",
+    "question": "下列何者為傳播人巴貝氏原蟲症（human babesiosis）之主要病媒？",
+    "options": {
+      "A": "革蜱屬（Dermacentor spp.）",
+      "B": "硬蜱屬（Ixodes spp.）",
+      "C": "花蜱屬（Amblyomma spp.）",
+      "D": "血蜱屬（Haemaphysalis spp.）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

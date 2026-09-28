@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 33 題",
+    "question": "有關內耳（inner ear），下列敘述何項錯誤？",
+    "options": {
+      "A": "內耳包括骨性與膜性迷路（bony and membranous labyrinth）",
+      "B": "內淋巴液（endolymph）充滿整個膜性迷路（membranous labyrinth）",
+      "C": "前庭膜（vestibular membrane）將中階（scala media）與前庭階（scala vestibuli）分開",
+      "D": "壺腹嵴（cristae ampullaris）感受直線加速運動（linear acceleration）及地心引力（gravity）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 34 題",
+    "question": "有關女性生殖系統之排卵過程，下列敘述何項錯誤？",
+    "options": {
+      "A": "排卵前會有黃體刺激素（LH）之大量釋放（LH surge）",
+      "B": "排出後的卵不含放射冠（corona radiata）",
+      "C": "卵的第一次減數分裂（meiosis）在排卵前完成",
+      "D": "卵的第二次減數分裂（meiosis）在卵受精時（fertilization）完成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 35 題",
+    "question": "有關Clara 細胞，下列何項敘述錯誤？",
+    "options": {
+      "A": "屬不具纖毛之單層立方細胞（simple cuboidal epithelium）",
+      "B": "可以分泌類似肺泡表面作用劑（surfactant-like material）",
+      "C": "具有氣體的交換功能",
+      "D": "分布於終端小支氣管（terminal bronchioles）內"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 36 題",
+    "question": "胰臟之腺泡中央細胞（centroacinar cells）的來源是什麼？",
+    "options": {
+      "A": "產酵素細胞（zymogenic cells）",
+      "B": "蘭氏小島（islet of Langerhans）細胞",
+      "C": "小葉間管（interlobular duct）細胞",
+      "D": "閏管（intercalated duct）細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 37 題",
+    "question": "有關心血管系統，下列敘述何者錯誤？",
+    "options": {
+      "A": "有些心房心肌細胞含有顆粒",
+      "B": "心室間隔膜狀區（membranous portion）是由結締組織構成",
+      "C": "心室間隔或心房間隔表層皆無內皮細胞",
+      "D": "心室間隔的膜狀區內含有A-V 束（A-V bundle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 38 題",
+    "question": "有關成熟骨骼肌纖維和心肌纖維的比較，下列敘述何者正確？",
+    "options": {
+      "A": "兩者都屬多核細胞",
+      "B": "兩者都藉肌間盤（intercalated disk）連結相鄰的肌細胞",
+      "C": "皆有基底板（basal lamina）包被",
+      "D": "兩者都具有絲分裂的能力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 39 題",
+    "question": "下列有關類骨質（osteoid）的敘述何者正確？",
+    "options": {
+      "A": "是完全鈣化的骨基質",
+      "B": "是骨基質鈣化前的有機質",
+      "C": "是破骨細胞的分泌物",
+      "D": "是形成軟骨的前驅物質"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 40 題",
+    "question": "正常皮膚老化之特徵，不包含下列何者？",
+    "options": {
+      "A": "蘭格罕氏細胞（Langerhans cells）逐年減少",
+      "B": "真皮乳頭層（papillary dermis）彈性纖維減少",
+      "C": "真皮網狀層（reticular dermis）彈性纖維減少",
+      "D": "真皮上皮接合處（dermal-epidermal junction）變平"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 41 題",
+    "question": "糖尿病腎絲球病變（diabetic glomerulopathy）進程中，不包括下列何者之變化？",
+    "options": {
+      "A": "足細胞數增加",
+      "B": "足突消失（foot process effacement）",
+      "C": "腎絲球基底膜（glomerular basement membrane）結構破壞",
+      "D": "腎小球間質細胞（mesangial cells）形態改變"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

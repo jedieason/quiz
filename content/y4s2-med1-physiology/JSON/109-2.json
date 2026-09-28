@@ -1,0 +1,329 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 47 題",
+    "question": "當頭部轉動時所產生的角加速度（angular acceleration），主要由下列那一個構造負責偵測？",
+    "options": {
+      "A": "organ of Corti",
+      "B": "cochlear ducts",
+      "C": "semicircular canals",
+      "D": "utricle and saccule"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 48 題",
+    "question": "下列有關大腦皮質對語言功能調控的敘述，何者最恰當？",
+    "options": {
+      "A": "弓狀束（arcuate fasciculus）受損會導致傳導性失語症（conduction aphasia）",
+      "B": "Broca’s area受損的病人，可能展現流利的口語能力，但語言內容卻無意義",
+      "C": "慣用右手的人，他的Wernicke’s area一般也都在右大腦皮質",
+      "D": "語言皮質都位於大腦的頂葉（parietal lobe）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 49 題",
+    "question": "下列何者最可能是人類味蕾感受鮮味（umami taste）的媒介物？",
+    "options": {
+      "A": "glucose",
+      "B": "glycerol",
+      "C": "NaCl",
+      "D": "glutamate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 50 題",
+    "question": "Basal ganglia如何影響motor cortex的活性？",
+    "options": {
+      "A": "透過direct pathway降低motor cortex的活性，透過indirect pathway增強motor cortex的活性",
+      "B": "透過direct pathway增強motor cortex的活性，透過indirect pathway降低motor cortex的活性",
+      "C": "direct pathway與indirect pathway均降低motor cortex的活性",
+      "D": "direct pathway與indirect pathway均增強motor cortex的活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 51 題",
+    "question": "梅尼爾氏症候群出現眩暈感（vertigo）的症狀，最可能是因為下列何處受到異常刺激？",
+    "options": {
+      "A": "內耳",
+      "B": "聽覺皮質",
+      "C": "小腦",
+      "D": "視神經交叉"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 52 題",
+    "question": "生物時鐘之節律（circadian rhythms）主要由下列那一個結構調控？",
+    "options": {
+      "A": "dentate gyrus",
+      "B": "suprachiasmatic nucleus",
+      "C": "globus pallidus",
+      "D": "solitary nucleus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 53 題",
+    "question": "在升降梯加速與減速時，負責偵測身體之垂直位移，並引起適當反射以保持平衡之主要結構為何？",
+    "options": {
+      "A": "utricle",
+      "B": "saccule",
+      "C": "semicircular ducts",
+      "D": "cochlea"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 54 題",
+    "question": "下列有關單一單位（single-unit）與多單位（multi-unit）平滑肌的差異，何者正確？",
+    "options": {
+      "A": "single-unit在無任何外在刺激下仍維持低程度張力（tone），而multi-unit則不會",
+      "B": "single-unit不會產生自發性動作電位（spontaneous action potential），而multi-unit則會",
+      "C": "single-unit被拉長時不會產生收縮，而multi-unit則會",
+      "D": "single-unit肌肉收縮強度會受激素（hormones）調節，而multi-unit則不會"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 55 題",
+    "question": "下列那一種疾病起因於缺少菸鹼酸膽鹼型受器（nicotinic cholinergic receptor），並可以用乙醯膽鹼分解酶抑 制劑（acetylcholinesterase inhibitor）加以治療？",
+    "options": {
+      "A": "muscle cramps",
+      "B": "hypocalcemic tetany",
+      "C": "muscular dystrophy",
+      "D": "myasthenia gravis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 56 題",
+    "question": "下列何者和凝血機制的調控最無關？",
+    "options": {
+      "A": "fibrinogen",
+      "B": "protein C",
+      "C": "C-reactive protein",
+      "D": "thrombin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 57 題",
+    "question": "正常情況下，下列何者所含的血液容積最大？",
+    "options": {
+      "A": "心臟",
+      "B": "動脈",
+      "C": "靜脈",
+      "D": "微血管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 58 題",
+    "question": "下列那一項因素最可能造成右心房壓升高？",
+    "options": {
+      "A": "加強心臟幫浦功能",
+      "B": "降低靜脈回流",
+      "C": "擴張小動脈，降低周邊阻力",
+      "D": "大量失血後，血液量減少"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 59 題",
+    "question": "從事舉重運動時，造成運動者當下血管周邊總阻力（total peripheral resistance; TPR）上升的最主要原因為 何？",
+    "options": {
+      "A": "肌肉收縮壓迫血管",
+      "B": "心輸出量增加，血壓上升",
+      "C": "肌肉局部代謝物因子增加",
+      "D": "感壓受器反射（baroreceptor reflex）作用增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 60 題",
+    "question": "下列有關肺部界面活性劑（surfactant）之敘述，何者錯誤？",
+    "options": {
+      "A": "為第二型肺泡細胞（type II alveolar cells）所分泌",
+      "B": "其缺乏時，肺泡不易擴張",
+      "C": "可增加肺順應性（lung compliance）",
+      "D": "可增加肺泡的表面張力（surface tension）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 61 題",
+    "question": "居住於平地的居民，登上3000公尺的高山並待了七天，下列何種生理變化最不可能發生？",
+    "options": {
+      "A": "血比容（hematocrit）增加",
+      "B": "動脈氧分壓（PaO2）下降",
+      "C": "動脈二氧化碳分壓（PaCO2） 增加",
+      "D": "肺泡通氣量（alveolar ventilation）增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 62 題",
+    "question": "一位健康者站立且平靜呼吸時，下列那一個生理變化是肺底小於肺尖？",
+    "options": {
+      "A": "肺通氣量",
+      "B": "血液灌流量",
+      "C": "肺通氣量與血液灌流量之比值（ ）",
+      "D": "肺順應性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 63 題",
+    "question": "下列有關小腸migrating myoelectrical complex（MMC）之敘述，何者正確？",
+    "options": {
+      "A": "小腸分泌的motilin激素可以促進MMC",
+      "B": "當食物從胃完全排空至十二指腸時，MMC會暫時停止",
+      "C": "當大部分食物被消化吸收後，分節收縮（segmentation contraction）會取代MMC",
+      "D": "MMC之功能主要是混合食糜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 64 題",
+    "question": "下列何者為直接刺激胰臟分泌消化酵素之最主要激素（hormone）？ [圖片]",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "胰泌素（secretin）",
+      "D": "體抑素（somatostatin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 65 題",
+    "question": "正常情況下，下列那一段腎小管對水分的通透性（permeability）最大？",
+    "options": {
+      "A": "亨利氏彎管的細下降枝（thin descending limb）",
+      "B": "亨利氏彎管的細上升枝（thin ascending limb）",
+      "C": "亨利氏彎管的粗上升枝（thick ascending limb）",
+      "D": "集尿管（collecting duct）的髓質部（inner medullary portion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 66 題",
+    "question": "嚴格限制澱粉和肉類的攝取量，只吃水果和蔬菜，每日的鉀攝取量由65 mmol/day 遽增到130 mmol/day。三週 後身體內最可能發生的生理變化為何？",
+    "options": {
+      "A": "血中的鉀離子濃度會大幅度上升（>1 mmol/L）",
+      "B": "鈉離子的排出速率（sodium excretion rate）會大幅度上升",
+      "C": "血漿中的aldosterone濃度會上升",
+      "D": "腎臟近端腎小管的鉀排出量會大量增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 67 題",
+    "question": "將雄鼠之腦下垂體前葉（anterior pituitary）移植到另一隻雄鼠之腎臟包膜（renal capsule）內，數週後移植的 腦下垂體前葉生長情況良好，則接受移植之雄鼠其血中激素與沒接受移植之雄性對照鼠的比較，其變化之情 形最接近下列何者？（FSH：follicle stimulating hormone；LH：luteinizing hormone；TSH：thyroid-stimulating hormone；PRL：prolactin；↑：明顯增加；-：幾乎不變）",
+    "options": {
+      "A": "FSH↑；LH↑；TSH↑；PRL↑",
+      "B": "FSH-；LH-；TSH-；PRL-",
+      "C": "FSH↑；LH↑；TSH-；PRL-",
+      "D": "FSH-；LH-；TSH-；PRL↑"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 68 題",
+    "question": "下列何種激素（hormone）是屬於最典型的tropic hormone？",
+    "options": {
+      "A": "thyroxine",
+      "B": "insulin-like growth factor-1（IGF-1）",
+      "C": "prostaglandin E2",
+      "D": "thyroid stimulating hormone（TSH）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 69 題",
+    "question": "Tetraiodothyronine於血液循環中，最主要是靠下列何者運輸？",
+    "options": {
+      "A": "albumin",
+      "B": "transthyretin",
+      "C": "thyroxine-binding globulin（TBG）",
+      "D": "immunoglobulin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 70 題",
+    "question": "下列何者與男性生殖器官的形成最不相關？",
+    "options": {
+      "A": "濾泡促素（FSH）",
+      "B": "染色體Y",
+      "C": "雄性素（androgen）",
+      "D": "Müllerian-inhibiting substance"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 71 題",
+    "question": "下列何者與分娩過程最不相關？",
+    "options": {
+      "A": "adrenocorticotropic hormone（ACTH）",
+      "B": "oxytocin",
+      "C": "prostaglandin",
+      "D": "prolactin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 72 題",
+    "question": "一位21歲的男性因視力障礙及頭痛就醫，醫師除了發現病患有腦壓增高的現象外，也有視野雙側顳側 （bitemporal）偏盲現象。經腦部電腦斷層掃描後，最可能的診斷為下列何者？",
+    "options": {
+      "A": "枕葉部腫瘤（occipital lobe tumor）",
+      "B": "顳葉部腫瘤（temporal lobe tumor）",
+      "C": "額葉部腫瘤（frontal lobe tumor）",
+      "D": "腦下垂體腫瘤（pituitary tumor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 73 題",
+    "question": "【背景題幹：一位21歲的男性因視力障礙及頭痛就醫，醫師除了發現病患有腦壓增高的現象外，也有視野雙側顳側 （bitemporal）偏盲現象。經腦部電腦斷層掃描後，最可能的診斷為下列何者？】\n承上題，該病患向醫師表示，近半年來性慾（libido）及陰莖勃起功能（erectile function）都變差。經檢測血 液樣本，發現某一激素的濃度偏高。此血中濃度偏高之激素，最有可能為下列何者？",
+    "options": {
+      "A": "adrenocorticotropic hormone（ACTH）",
+      "B": "prolactin",
+      "C": "luteinizing hormone（LH）",
+      "D": "follicle-stimulating hormone（FSH）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 1 題",
+    "question": "與細胞膜局部電位（local potential）有關的描述，下列何者錯誤？",
+    "options": {
+      "A": "局部電位與細胞膜之組成有關",
+      "B": "僅神經細胞才具有局部電位",
+      "C": "局部電位決定動作電位（action potential）發生（initiation）與傳遞（propagation）之性質",
+      "D": "局部電位無不反應期（refractory period）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 2 題",
+    "question": "骨骼肌細胞（skeletal muscle cells）之靜止膜電位（resting membrane potential）主要受下列何種離子 孔道（ion channels）之啟閉狀態（gating status）所影響？",
+    "options": {
+      "A": "鈉",
+      "B": "鉀",
+      "C": "鈣",
+      "D": "氯"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 3 題",
+    "question": "當胃內胃酸分泌pH 值＜3 時，會分泌下列何種胜肽至胃腔中，抑制胃泌素（gastrin）之分泌？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃抑素（gastric inhibitory polypeptide）",
+      "C": "胰泌素（secretin）",
+      "D": "體抑素（somatostatin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 4 題",
+    "question": "Nicotinic receptors 主要分布位置不包括下列何者？",
+    "options": {
+      "A": "副交感神經所支配的器官",
+      "B": "骨骼肌的終板",
+      "C": "交感神經節之節後神經細胞",
+      "D": "副交感神經節之節後神經細胞"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 5 題",
+    "question": "癌症細胞常有過度分裂繁殖之現象。治療癌症之藥物也常針對此特性。下列何種藥物可以抑制微管 組合（microtubule assembly）進而妨礙有絲分裂？",
+    "options": {
+      "A": "methotrexate",
+      "B": "5-fluorouracil",
+      "C": "cyclophosphamide",
+      "D": "vinca alkaloids (vincristine)"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 6 題",
+    "question": "下列何種維他命缺乏時會造成疾病，但不直接在葡萄糖分解代謝產生ATP 中擔任co-enzyme？",
+    "options": {
+      "A": "Thiamine",
+      "B": "Riboflavin",
+      "C": "Niacin",
+      "D": "Vitamin D"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 7 題",
+    "question": "小孩子於出生後至青春期前，常需要接受疫苗注射。下列物質何者無法作為疫苗而產生免疫效果？",
+    "options": {
+      "A": "核糖核酸（RNA）",
+      "B": "去氧核糖核酸（DNA）",
+      "C": "純化之蛋白",
+      "D": "死亡或減弱毒性之病毒"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 8 題",
+    "question": "下列那一個胺基酸在蛋白質的α螺旋（α-helix）結構中很少出現？",
+    "options": {
+      "A": "脯胺酸（proline）",
+      "B": "甲硫胺酸（methionine）",
+      "C": "色胺酸（tryptophan）",
+      "D": "組胺酸（histidine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 9 題",
+    "question": "雙鏈DNA 因加熱而變性（denature）時，在波長260nm 的照射下，其吸光度（absorbance）有增加 的現象，此現象稱為增色效應，其原因為何？",
+    "options": {
+      "A": "變性時其亂度增加而引起的反應",
+      "B": "變性時其體積增加，因而吸光度也隨之而增加",
+      "C": "因鹼基中的嘧啶與嘌呤外露而增加其吸光度",
+      "D": "因五碳糖和磷酸根外露而增加其吸光度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 10 題",
+    "question": "cAMP 是真核細胞（eukaryotic cells）的第二信使（second messenger）之一，可直接調控下列何種蛋 白質之功能？",
+    "options": {
+      "A": "活化Adenylate cyclase",
+      "B": "活化Protein kinase A",
+      "C": "抑制G protein",
+      "D": "抑制Calmodulin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 11 題",
+    "question": "在呼吸鏈中，下列何者電子的傳遞可被一氧化碳所抑制？",
+    "options": {
+      "A": "cytochrome（a＋a3）",
+      "B": "coenzyme Q",
+      "C": "cytochrome（b＋c1）",
+      "D": "cytochrome c"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或 Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 12 題",
+    "question": "膽固醇（cholesterol）是心血管疾病的重要危險因子，下列敘述何者錯誤？",
+    "options": {
+      "A": "身體內膽固醇一部分是經腸道吸收",
+      "B": "身體內也可以合成膽固醇，以acetyl-CoA 當原料",
+      "C": "膽固醇在肝臟是合成膽酸（bile acid）的原料",
+      "D": "降膽固醇藥物statin 是膽固醇合成反應的HMG-CoA synthase 之抑制劑"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 13 題",
+    "question": "18 歲少女未婚懷孕，未得良好產前照護，營養不足沒有補充綜合維他命或鐵劑，懷孕末期容易疲倦 體力衰弱，嬰兒在35 週出生，活動力較差，抽血檢查發現媽媽及嬰兒含鐵蛋白（ferritin）均較低。 下列何種情況最可能同時發生在媽媽及嬰兒？",
+    "options": {
+      "A": "周邊神經病變",
+      "B": "甲狀腺腫大",
+      "C": "小球性貧血",
+      "D": "維生素B12 缺乏"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 14 題",
+    "question": "下列何種病人在其周邊血液會有盔狀細胞（Helmet cell）？",
+    "options": {
+      "A": "乙型海洋性貧血病人",
+      "B": "大腸癌病人",
+      "C": "大腸桿菌菌血症",
+      "D": "脾腫大"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 15 題",
+    "question": "20 歲男性從孩童時代起就一再出現復發性深部靜脈血栓（deep vein thrombosis）。下列何者是最常造 成此類血栓的致病原因？",
+    "options": {
+      "A": "家族性高膽固醇血症（Familial hypercholesterolemia）",
+      "B": "遺傳性高凝血狀態（Inherited hypercoagulability）",
+      "C": "紅血球增多症（Polycythemia Vera）",
+      "D": "高血壓（Hypertension）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 16 題",
+    "question": "以下何者不是cerebral cortex 之調節功能？",
+    "options": {
+      "A": "Language comprehension",
+      "B": "Respiration, circulation & digestion",
+      "C": "Final sensory perception",
+      "D": "Voluntary movement"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 17 題",
+    "question": "有關Long-term potentiation 的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種與學習及記憶有關的機制",
+      "B": "會導致action potential 的amplitude 增大",
+      "C": "其機轉可能與NMDA receptor 有關",
+      "D": "會強化synaptic transmission"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 18 題",
+    "question": "「動作單位（motor unit）」指的是：",
+    "options": {
+      "A": "單一運動神經元加上它支配的所有肌肉纖維",
+      "B": "一條肌肉纖維加上所有支配它的動作神經元",
+      "C": "供應單一肌肉的所有動作神經元",
+      "D": "一組拮抗肌群"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 19 題",
+    "question": "延腦缺血但尚未發生中樞機能減低（central depression）時，其中樞化學反射的結果為何？",
+    "options": {
+      "A": "血管收縮",
+      "B": "動脈壓下降",
+      "C": "血管容積度（compliance）增加",
+      "D": "顱內壓（intracranial pressure）下降"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 20 題",
+    "question": "若微循環動脈端之靜水壓為35 mmHg，靜脈端之靜水壓為15 mmHg，微血管滲透壓為22 mmHg，組 織間隙靜水壓為1 mmHg，組織間隙滲透壓為0 mmHg，則其再吸收壓（reabsorption pressure）為多 少mmHg？",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "14",
+      "D": "22"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 21 題",
+    "question": "有關肺泡（alveolus）的描述，下列何者錯誤？",
+    "options": {
+      "A": "為呼吸系統中氣體交換之區域",
+      "B": "末端細支氣管（terminal bronchioles）具有肺泡",
+      "C": "第一型細胞是一種連續扁平的上皮細胞",
+      "D": "第二型細胞可分泌表面作用素（surfactant）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 22 題",
+    "question": "若潮氣容積為450 毫升，無效腔為150 毫升，每分鐘的呼吸頻率為12 次，則每分鐘的通氣量（minute  ventilation）為多少毫升？",
+    "options": {
+      "A": "1800",
+      "B": "3600",
+      "C": "5400",
+      "D": "7200"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 23 題",
+    "question": "下列何者最容易造成代謝性酸中毒（metabolic acidosis）？",
+    "options": {
+      "A": "嚴重嘔吐（severe vomiting）",
+      "B": "嚴重腹瀉（severe diarrhea）",
+      "C": "過度換氣（hyperventilation）",
+      "D": "消化性潰瘍（peptic ulcer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 24 題",
+    "question": "腎臟髓質的高滲透度環境主要是因為氯化鈉與下列那一種物質累積所造成？",
+    "options": {
+      "A": "尿酸",
+      "B": "銨離子",
+      "C": "尿素",
+      "D": "蛋白質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 25 題",
+    "question": "當遠側腎小管管腔內溶質增加時，可引起下列何種反應？",
+    "options": {
+      "A": "入球小動脈收縮",
+      "B": "腎小球濾過率增加",
+      "C": "收集管再吸收鈉離子減少",
+      "D": "腎素分泌增加"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 26 題",
+    "question": "壓力（stress）會促使內分泌系統那一個軸線（axis）活化？",
+    "options": {
+      "A": "下視丘－腦下腺－睪丸",
+      "B": "下視丘－腦下腺－卵巢",
+      "C": "下視丘－腦下腺－甲狀腺",
+      "D": "下視丘－腦下腺－腎上腺皮質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 27 題",
+    "question": "碘與酪胺酸（tyrosine）的結合主要是靠：",
+    "options": {
+      "A": "甲狀腺過氧化酶（peroxidase）",
+      "B": "甲狀腺蛋白酶（protease）",
+      "C": "甲狀腺脫碘酶（deiodinase）",
+      "D": "甲狀腺脫氫酶（dehydrogenase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 28 題",
+    "question": "血管緊縮素-Ｉ（angiotensin I）轉變成血管緊縮素-Ⅱ發生在那一個器官？",
+    "options": {
+      "A": "肺",
+      "B": "肝",
+      "C": "腎",
+      "D": "心"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 29 題",
+    "question": "精子（spermatozoa）形成後未射精前貯存於：",
+    "options": {
+      "A": "曲細精管（seminiferous tubules）",
+      "B": "貯精囊（seminal vesicle）",
+      "C": "副睪（epididymis）",
+      "D": "尿道球腺體（bulbourethral gland）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 30 題",
+    "question": "臨床上，擬作用於中樞神經的藥物需考量能否順利通透血腦屏障（blood-brain barrier，簡稱BBB）。有 關BBB 之敘述，何者錯誤？",
+    "options": {
+      "A": "BBB 主要存在於choroid plexus 及腦組織之capillary membranes",
+      "B": "Pineal gland 及area postrema 附近缺乏BBB",
+      "C": "在BBB 處決定物質通透除了依據分子大小及osmolarity 變化外，也含有特定受器分子（receptor molecules）以利hormones 之運送",
+      "D": "多數血漿蛋白可自由通透BBB"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 31 題",
+    "question": "右側視神經束（optic tract）受損的患者，下列有關其視野（visual field）檢查結果的敘述，何者正確？",
+    "options": {
+      "A": "左眼視覺功能缺失，而右眼正常",
+      "B": "患者無法偵測投射在右眼右半視網膜（retina）的物體影像",
+      "C": "患者可以偵測投射在左眼右半視網膜（retina）的物體影像",
+      "D": "兩眼均無法偵測右側視野（visual field）的物體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 32 題",
+    "question": "60 歲男性，因胸痛冒冷汗被送到急診室，診斷為心肌梗塞，在急診室緊急給與t-PA（tissue plasminogen  activator）藥物，以下敘述何者錯誤？",
+    "options": {
+      "A": "心肌無法從心房或心室的血液中得到養分，必須仰賴額外的冠狀動脈系統",
+      "B": "由膽固醇、不正常的平滑肌細胞和吞噬細胞等組成的動脈粥狀硬化（atherosclerosis）是造成梗塞 的主因",
+      "C": "給與血管擴張劑，因可以減少周邊阻力，降低afterload，可以減輕梗塞之心臟的負荷",
+      "D": "t-PA 主要可以抑制血小板聚集，阻礙後續血栓之形成，故用於心肌梗塞之治療"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 33 題",
+    "question": "23 歲女性，偶爾會有胸悶情形，聽診發現心臟左下側緣有一收縮期心雜音，以下敘述何者正確？",
+    "options": {
+      "A": "在心室開始舒張（ventricular filling）之前，心房會先行收縮以利將血流打入心室",
+      "B": "在心臟之收縮與舒張週期（cardiac cycle）中，收縮期（systolic phase）較舒張期（diastolic phase） 來得長",
+      "C": "心臟舒張時，主動脈及肺動脈瓣均保持開啟",
+      "D": "若二尖瓣（mitral valve）無法緊密關閉，則可能會有收縮期心雜音"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 34 題",
+    "question": "李小弟因吸入異物，導致區域性的呼吸道阻塞，10 分鐘後經由父母親陪同至急診室求診，以血氧 計（pulse oximeter）偵測體循環之動脈血氧飽和度（oxygen saturation）為90％，可推估此患者體循 環之動脈血氧分壓（PaO2）約為多少mmHg？",
+    "options": {
+      "A": "90",
+      "B": "80",
+      "C": "60",
+      "D": "40"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 35 題",
+    "question": "腎臟中腎素（renin）是由何種細胞分泌的？",
+    "options": {
+      "A": "近腎絲球細胞（jextaglomerular cells）",
+      "B": "緻密斑（macula densa）",
+      "C": "腎絲球間質細胞（mesangial cells）",
+      "D": "入球小動脈內皮細胞（endothelial cells of afferent arteriole）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 36 題",
+    "question": "34 歲已婚女性，罹患腦下垂體泌乳激素瘤（prolactinoma），規則以藥物治療可維持正常生理週期。 最近病患主訴6 週無月經，合併噁心、嘔吐。則此時應建議先作那項荷爾蒙檢查？",
+    "options": {
+      "A": "尿液中之人體絨毛膜性促素（hCG）",
+      "B": "泌乳激素（prolactin）",
+      "C": "甲促素（TSH）",
+      "D": "收集24 小時尿液中之腎上腺皮質荷爾蒙（cortisol）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

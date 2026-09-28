@@ -1,0 +1,250 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 42 題",
+    "question": "Acid-fast stain 是用於觀察下列那一種感染原的染色方法？",
+    "options": {
+      "A": "Listeria monocytogenes",
+      "B": "Treponema pallidum",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Chlamydia trachomatis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 43 題",
+    "question": "下列那一種Staphylococcal enterotoxin 型最易引發食物中毒？",
+    "options": {
+      "A": "Staphylococcal enterotoxin A",
+      "B": "Staphylococcal enterotoxin B",
+      "C": "Staphylococcal enterotoxin C",
+      "D": "Staphylococcal enterotoxin D"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 44 題",
+    "question": "下列有關百日咳毒素（pertussis toxin）的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種外毒素（exotoxin）",
+      "B": "藉著在細胞膜上打洞而毒殺宿主細胞",
+      "C": "會增加呼吸道黏液的分泌",
+      "D": "是組成百日咳疫苗的成分之一"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 45 題",
+    "question": "成人身上發生的化膿性關節炎（purulent arthritis）最常因下列那種細菌感染所引起？",
+    "options": {
+      "A": "脆弱擬桿菌（Bacteroides fragilis）",
+      "B": "大腸桿菌（Escherichia coli）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "淋病球菌（Neisseria gonorrhoeae）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或 Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 46 題",
+    "question": "大腸桿菌（Escherichia coli）所引起各種不同型態的腹瀉症（diarrhea）主要取決於：",
+    "options": {
+      "A": "共同感染的其他細菌之種類",
+      "B": "此菌的體表抗原性",
+      "C": "宿主的免疫力",
+      "D": "此菌所產生的毒力因素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 47 題",
+    "question": "細菌表面的pili 或fimbriae 通常造成宿主致病力的機轉為何？",
+    "options": {
+      "A": "附著至特定的細胞表面",
+      "B": "增強細菌的移動力",
+      "C": "抵抗吞噬作用",
+      "D": "增強內毒素的作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 48 題",
+    "question": "Rifampin 為治療結核病的第一線藥物，其抑菌機轉為何？",
+    "options": {
+      "A": "與細菌的penicillin binding protein 結合，阻斷細菌細胞壁的合成",
+      "B": "與細菌的30S 核糖體蛋白結合，阻斷細菌蛋白質的生成",
+      "C": "與細菌DNA-dependent RNA polymerase 結合，阻斷細菌RNA 合成的起始（initiation of RNA synthesis）",
+      "D": "與細菌Dihydrofolate reductase 結合，阻斷細菌葉酸的代謝路徑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 49 題",
+    "question": "一名60 歲患有糖尿病的農夫在夏季豪雨過後下田整理農地，三天後出現發燒和倦怠，送醫就診發現 有輕微肺炎症狀。由其血液檢體分離出一株革蘭氏陰性、不發酵醣類的桿菌。下列何者最有可能是 這名農夫所罹患的感染症？",
+    "options": {
+      "A": "炭疽病（anthrax）",
+      "B": "破傷風（tetanus）",
+      "C": "傷寒（enteric fever）",
+      "D": "類鼻疽（melioidosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 50 題",
+    "question": "【背景題幹：一名60 歲患有糖尿病的農夫在夏季豪雨過後下田整理農地，三天後出現發燒和倦怠，送醫就診發現 有輕微肺炎症狀。由其血液檢體分離出一株革蘭氏陰性、不發酵醣類的桿菌。下列何者最有可能是 這名農夫所罹患的感染症？】\n承上題，此人所感染的致病菌在生理特徵和致病性方面與下列那種細菌最相近？",
+    "options": {
+      "A": "流感嗜血桿菌（Haemophilus influenzae）",
+      "B": "白喉桿菌（Corynebacterium diphtheriae）",
+      "C": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "D": "嗜肺性退伍軍人桿菌（Legionella pneumophila）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 51 題",
+    "question": "某人因角膜發炎並有畏光、疼痛和流淚等症狀，經眼科醫師診斷後，認為該人受披衣菌感染，是為 砂眼（trachoma）。下列何種抗生素常用於此眼疾的治療？",
+    "options": {
+      "A": "doxycycline",
+      "B": "vancomycin",
+      "C": "penicillin",
+      "D": "bacitracin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 52 題",
+    "question": "嗜肺性退伍軍人桿菌（Legionella pneumophila）為新興傳染病原之一，會造成許多流行性及散發性的 感染症。此細菌主要是如何傳播的？",
+    "options": {
+      "A": "由病媒傳染給人",
+      "B": "由人直接傳染給人",
+      "C": "由動物傳染給人",
+      "D": "由空氣微粒傳染給人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 53 題",
+    "question": "下列何者與病毒造成寄主細胞之轉型（transformation）無關？",
+    "options": {
+      "A": "Adenovirus E1A",
+      "B": "Papillomavirus E6",
+      "C": "HIV Nef",
+      "D": "Simian virus 40（SV40）T antigen"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 54 題",
+    "question": "抑制單純疱疹病毒之藥物acyclovir，其標的為何？",
+    "options": {
+      "A": "直接破壞病毒的組成，造成病毒結構解離",
+      "B": "阻止病毒從寄主細胞中釋放出來",
+      "C": "病毒胸腺激酶（thymidine kinase）",
+      "D": "抑制病毒RNA 合成酶（RNA polymerase）的作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 55 題",
+    "question": "下列那一種病毒感染可能引起軍隊中常發生之發燒、咳嗽、喉嚨痛、咽喉炎及頸腺炎（cervical  adenitis）等病徵之疾病？",
+    "options": {
+      "A": "副流行性感冒病毒（Parainfluenza virus）",
+      "B": "人類乳突狀病毒（HPV）",
+      "C": "單純疱疹病毒（Herpes simplex virus）",
+      "D": "腺病毒（Adenovirus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 56 題",
+    "question": "下列有關正黏液病毒（Orthomyxoviridae）及副黏液病毒（Paramyxoviridae）科病毒比較之敘述，何 者正確？",
+    "options": {
+      "A": "兩者都會造成細胞融合（Syncytium）",
+      "B": "基因體皆有分段（segmented）",
+      "C": "兩者RNA splicing 皆發生在核內",
+      "D": "兩者皆可經由呼吸道傳染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 57 題",
+    "question": "下列有關疱疹病毒（Herpesvirus）之敘述，何者錯誤？",
+    "options": {
+      "A": "雙股DNA 病毒",
+      "B": "唇部疱疹（cold sore）主要由第一型單純疱疹病毒（HSV-1）所引起",
+      "C": "病毒感染後，病人痊癒，終生免疫，不再犯病",
+      "D": "人類疱疹病毒第八型（HHV-8）感染產生卡波西氏肉瘤（Kaposi’s sarcoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 58 題",
+    "question": "某國小一年級女童來自農村，家中飼養雞、鴨及豬等動物，於八月多雨之酷暑下突然開始發燒、嘔 吐、頭痛，此外還抽筋、意識不清、手部震顫，角弓反張，最後該病人牙關緊閉、四肢僵硬，並呈 現昏迷之現象。該患者可能被何種病原菌所感染？",
+    "options": {
+      "A": "登革病毒（Dengue virus）",
+      "B": "禽流感病毒（Influenza virus）",
+      "C": "日本腦炎病毒（Japanese encephalitis virus）",
+      "D": "C 型肝炎病毒（HCV）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 59 題",
+    "question": "下列何種病毒，其核酸為雙鏈負股RNA，經由糞口途徑傳染，發病初期出現如感冒樣症狀，發燒、 嘔吐、咳嗽、流鼻水，1 至2 天後會造成腸黏膜發炎、絨毛萎縮，這時候會出現水瀉，有如蛋花湯般 的水便？",
+    "options": {
+      "A": "輪狀病毒（Rotavirus）",
+      "B": "腸病毒71 型（EV71）",
+      "C": "鼻病毒（Rhinovirus）",
+      "D": "小兒麻痺病毒（Poliovirus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 60 題",
+    "question": "新型隱球菌（Cryptococcus neoformans）型態上之特徵為何？",
+    "options": {
+      "A": "無莢膜（without capsule）之兩型性（dimorphic）圓球狀酵母菌",
+      "B": "雪茄型酵母菌（cigar-shaped yeast），不具兩型性",
+      "C": "中裂型具有薄層莢膜兩型性（dimorphic）橢圓形酵母菌",
+      "D": "具寬厚莢膜圓球狀酵母菌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 61 題",
+    "question": "從病患肺部中取出之檢體切片經Periodic acid-Schiff（PAS）染色後，發現許多紫紅色之寬闊帶狀 （Broad, ribbon-like），無隔膜菌絲（Coenocytic hyphae）穿過組織，診斷上極可能推向是那一種真 菌疾病？",
+    "options": {
+      "A": "新型隱球菌症（Cryptococcosis）",
+      "B": "麴菌症（Aspergillosis）",
+      "C": "孢子絲菌症（Sporotrichosis）",
+      "D": "接合菌症（Zygomycosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

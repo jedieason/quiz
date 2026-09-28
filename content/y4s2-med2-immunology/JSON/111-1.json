@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 18 題",
+    "question": "對於免疫系統消滅病原體的描述何者錯誤？",
+    "options": {
+      "A": "自然殺手細胞（natural killer cell）可藉由抗原特異性受體直接辨識抗原並清除病毒",
+      "B": "巨噬細胞（macrophage）可以吞噬細菌並利用溶酶體（lysosome）的酵素分解細菌",
+      "C": "被活化後的補體（complement）可以結合到細菌的細胞壁上穿孔並造成細菌死亡",
+      "D": "抗體可以阻斷病毒和細胞結合的接受器來防止病毒對細胞的感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 19 題",
+    "question": "濾泡輔助性T細胞（T follicular helper cells, TFH cells）主要分泌的細胞素為何？",
+    "options": {
+      "A": "IL-21",
+      "B": "IL-22",
+      "C": "IL-23",
+      "D": "IL-27"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 20 題",
+    "question": "腫瘤免疫學是研究免疫系統和癌細胞之間的交互作用，希望發現可以用來發展治療癌症的新療法。關於免疫 系統和腫瘤的互動，下列那個敘述最不適當？",
+    "options": {
+      "A": "健康人體內腫瘤細胞形成時通常可以被T細胞和自然殺手細胞辨識之後清除",
+      "B": "傳統治療方法中有單株抗體藥物，例如rituximab或trastuzumab（Herceptin）在體內結合到癌細胞後，可以啟 動補體活化或是ADCC（antibody-dependent cell-mediated cytotoxicity）來清除腫瘤細胞",
+      "C": "chimeric antigen receptor (CAR)-T 療法是取出健康人的T細胞，培養並改造這些T細胞使其表現專一性對抗腫 瘤的CARs，再打回癌症病人來攻擊清除腫瘤細胞",
+      "D": "checkpoint blockade 療法是要干擾在T細胞上的抑制受體，利用anti-CTLA-4或 anti-PD-1抗體來喚醒免疫系統 的T細胞攻擊腫瘤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 21 題",
+    "question": "腫瘤細胞會表現下列何種分子以抑制宿主免疫反應？",
+    "options": {
+      "A": "CD28",
+      "B": "PD-L1",
+      "C": "PD-1",
+      "D": "CTLA-4"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 22 題",
+    "question": "調理作用（opsonization）產生原因之一是因為吞噬細胞（phagocytic cell）表面上具有下列何種受體，以辨識 附著於病菌上的調理素（opsonin）？",
+    "options": {
+      "A": "Toll-like receptors",
+      "B": "complement receptors",
+      "C": "lectin-like receptors",
+      "D": "chemokine receptors"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 23 題",
+    "question": "共濟失調微血管擴張症候群（ataxia-telangiectasia）會出現免疫系統異常，導致B細胞與 T細胞數量減少。主 要因為下列何種機轉所致？",
+    "options": {
+      "A": "V(D)J重組過程出現缺陷",
+      "B": "無法產生IgM抗體",
+      "C": "MHC class I辨識產生缺陷",
+      "D": "MHC class II辨識產生缺陷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 24 題",
+    "question": "B細胞抗原接受器的基因重組（gene rearrangement）對B細胞早期發育十分重要，有關B細胞抗原接受器也就 是免疫球蛋白（immunoglobulin）的基因重組，下列敘述何者錯誤？",
+    "options": {
+      "A": "免疫球蛋白基因重組是發生在B細胞發育的早期，而且先從重鏈基因的D和J片段開始重組，接著才是V-DJ的 片段重組",
+      "B": "免疫球蛋白基因的輕鏈先從κ輕鏈基因做V及J片段的重組，如果兩個染色體都重組失敗才會做λ輕鏈基因的 重組",
+      "C": "VDJ或VJ片段重組的交接位置所做出來的蛋白剛好就是在重鏈或輕鏈CDR1、CDR2及CDR3的位置，因此這 三個區域的胺基酸序列的歧異度最大，也是抗原的結合位",
+      "D": "當第一條染色體的免疫球蛋白基因的重鏈或輕鏈基因完成重組後，第二條染色體的免疫球蛋白基因就停止重 組，因此一個B細胞只會表現一種抗原受體，這種機制稱為對偶基因排除現象（allelic exclusion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 25 題",
+    "question": "成熟的CD4 T細胞活化後，不同轉錄因子可調控細胞分化為不同的effector T細胞，不同effector T細胞可以產 出特定的細胞激素，下列轉錄因子和細胞激素的配對，那一組相關性最低？",
+    "options": {
+      "A": "GATA3：IL-4",
+      "B": "Foxp3：TGF-β",
+      "C": "RORγT：IL-12",
+      "D": "T-bet：IFN-γ"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 26 題",
+    "question": "2018年諾貝爾醫學獎得主Tasuku Honjo因為發現PD-1分子而獲獎，他另外一個著名的發現是AID（activation- induced cytidine deaminase）分子，下列有關AID的敘述何者錯誤？",
+    "options": {
+      "A": "AID在germinal center B細胞表現量高，可促進somatic hypermutation",
+      "B": "B細胞所產生的抗體轉換為IgE時，也是由AID分子調控",
+      "C": "class switch recombination（CSR）起因為AID將cytosine轉變成uridine，之後的DNA修復過程產生DNA雙股斷 裂，最後造成DNA重組",
+      "D": "class switch recombination由特定的DNA序列recombination signal sequence（RSS）所主導，造成抗體重鏈的 固定區（constant region of heavy chain）從IgM轉換成其他類型"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 27 題",
+    "question": "小明每年到了秋冬交換之際總會罹患流行性感冒，他很納悶去年才得到流感，為何今年又再感染，下列何者 是最有可能的原因或情況？",
+    "options": {
+      "A": "流感病毒可能潛伏在神經節裡面，每當冬天來臨時，因為免疫力的降低使得流感病毒從神經節中出來感染肺 部細胞",
+      "B": "流感病毒是RNA病毒，當病毒複製時會產生點突變，即便同型流感病毒，也會因為點突變造成抗原轉移 （antigenic shift）使免疫系統無法完全辨認，讓病毒有機可乘",
+      "C": "小明受流感病毒感染後所產生的抗原原罪（original antigenic sin）現象，造成抗體負回饋調控免疫反應，讓 B細胞無法做新的抗體去對付已經變種的流感病毒，因此再度感染",
+      "D": "只要小明每年施打流感疫苗就可以完全不會罹患流行性感冒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 28 題",
+    "question": "T細胞與B細胞都參與氣喘或是異位性皮膚炎等過敏性疾病的病理機制，此類病人體內最常檢測到：",
+    "options": {
+      "A": "高比例可分泌IL-5的T細胞與血清中高濃度IgA",
+      "B": "高比例可分泌IL-5的T細胞與血清中高濃度IgE",
+      "C": "高比例可分泌IFN-γ的T細胞與血清中高濃度IgA",
+      "D": "高比例可分泌IFN-γ的T細胞與血清中高濃度IgE"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

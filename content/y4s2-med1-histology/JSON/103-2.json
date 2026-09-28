@@ -1,0 +1,115 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 33 題",
+    "question": "下圖是以何種顯微鏡觀察血管管腔表面的構造？ [圖片]",
+    "options": {
+      "A": "光學顯微鏡（light microscope）",
+      "B": "穿透式電子顯微鏡（transmission electron microscope）",
+      "C": "掃描式電子顯微鏡（scanning electron microscope）",
+      "D": "雷射掃描共軛焦顯微鏡（laser scanning confocal microscope）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 34 題",
+    "question": "下列有關纖維軟骨（fibrocartilage）之敘述，何者錯誤？",
+    "options": {
+      "A": "含Type I 膠原纖維（collagen fibers）",
+      "B": "具軟骨膜（perichondrium）",
+      "C": "架構近似緻密規則結締組織",
+      "D": "存在於椎間盤（intervertebral discs）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 35 題",
+    "question": "中樞神經系統裡具有吞噬功能的細胞是下列何者？",
+    "options": {
+      "A": "微小膠細胞（microglia）",
+      "B": "星狀膠細胞（astrocytes）",
+      "C": "寡樹突膠細胞（oligodendrocytes）",
+      "D": "許旺細胞（Schwann cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 36 題",
+    "question": "T 淋巴球（T lymphocytes）在下列何者進行分化而形成具免疫能力（immunocompetent）的細胞？",
+    "options": {
+      "A": "淋巴結（lymph nodes）",
+      "B": "脾（spleen）",
+      "C": "扁桃體（tonsils）",
+      "D": "胸腺（thymus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 37 題",
+    "question": "下列構造，何者與增加小腸吸收表面積無關？",
+    "options": {
+      "A": "絨毛（villi）",
+      "B": "微絨毛（microvilli）",
+      "C": "腸腺（intestinal glands）",
+      "D": "環皺襞（plicae circulares）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 38 題",
+    "question": "呼吸系統中氣體的交換無法在下列何處進行？",
+    "options": {
+      "A": "呼吸性小支氣管（respiratory bronchioles）",
+      "B": "肺泡囊（alveolar sacs）",
+      "C": "肺泡管（alveolar ducts）",
+      "D": "終端小支氣管（terminal bronchioles）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 39 題",
+    "question": "有關腦下垂體（pituitary gland），下列敘述何項錯誤？",
+    "options": {
+      "A": "胚胎發育過程中，腦下垂體前葉與後葉均源自於間腦（diencephalon）",
+      "B": "腦下垂體後葉分泌抗利尿激素（ADH/vasopressin）之神經細胞本體位於下視丘之神經核",
+      "C": "腦下垂體前葉內，分泌激乳素（prolactin）或生長激素（growth hormone）的細胞是嗜酸性細胞 （acidophil）",
+      "D": "嬰兒吸吮母親乳頭會刺激催產素（oxytocin）之釋放"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 40 題",
+    "question": "細精管（seminiferous tubule）內的各種細胞中，細胞核最小的是：",
+    "options": {
+      "A": "塞托利氏細胞（Sertoli cell）",
+      "B": "精細胞（spermatid）",
+      "C": "精母細胞（spermatocyte）",
+      "D": "精原細胞（spermatogonium）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 41 題",
+    "question": "聲波傳至柯蒂氏器（organ of Corti）後再經由下列何者傳至中樞？",
+    "options": {
+      "A": "基底神經節（basal ganglion）",
+      "B": "螺旋神經節（spiral ganglion）",
+      "C": "脊神經節（spinal ganglion）",
+      "D": "交感神經節（sympathetic ganglion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

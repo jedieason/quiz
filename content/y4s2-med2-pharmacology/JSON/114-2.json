@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 51 題",
+    "question": "在藥物研發的臨床試驗過程中，那一階段主要是確定藥物的治療效能，及藥物的治療劑量範圍？",
+    "options": {
+      "A": "第一階段（phase 1）",
+      "B": "第二階段（phase 2）",
+      "C": "第三階段（phase 3）",
+      "D": "第四階段（phase 4）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 52 題",
+    "question": "5-Fluorouracil 為臨床常用的抗腫瘤藥物，下列何者為其抗癌作用機轉？",
+    "options": {
+      "A": "與DNA 進行烷基化結合（alkylating）",
+      "B": "抑制topoisomerase II",
+      "C": "抑制thymidylate synthase",
+      "D": "抑制dihydrofolate reductase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 53 題",
+    "question": "下列抗腫瘤藥物中，何者造成之腎毒性最強？",
+    "options": {
+      "A": "carboplatin",
+      "B": "dacarbazine",
+      "C": "temozolomide",
+      "D": "mechlorethamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 54 題",
+    "question": "下列藥物中，何者可抑制squalene epoxidase，其主要臨床用途為治療指甲癬（onychomycosis）？",
+    "options": {
+      "A": "nystatin",
+      "B": "terbinafine",
+      "C": "voriconazole",
+      "D": "itraconazole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 55 題",
+    "question": "下列關於抗生素應用之敘述，何者錯誤？",
+    "options": {
+      "A": "cefepime 可單獨用於對penicillin G 產生抗藥性的鏈球菌（streptococci）感染",
+      "B": "ceftolozane-tazobactam 可併用於抗藥性革蘭氏陰性菌株的感染",
+      "C": "ceftazidime 可單獨用來治療能產生碳青黴烯酶（carbapenemase）的菌種感染",
+      "D": "ceftazidime-avibactam 需合併metronidazole 以用於治療複雜性腹腔內感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 56 題",
+    "question": "下列藥物中，何者為anti-CD19 chimeric antigen receptor (CAR) T cells 產品，用於治療relapsed  large B-cell lymphoma？",
+    "options": {
+      "A": "abatacept",
+      "B": "siponimod",
+      "C": "teriflunomide",
+      "D": "tisagenlecleucel"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 57 題",
+    "question": "下列何種藥物無法治療血小板缺乏症（thrombocytopenia）？",
+    "options": {
+      "A": "romiplostim",
+      "B": "oprelvekin",
+      "C": "eltrombopag",
+      "D": "plerixafor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 58 題",
+    "question": "鐮刀型紅血球疾病（sickle cell disease）屬於溶血性貧血症，下列有關此疾病治療藥物hydroxyurea 之敘 述，何者錯誤？",
+    "options": {
+      "A": "可抑制ribonucleotide reductase 而產生抗癌作用",
+      "B": "可減少紅血球內β-hemoglobin S 的聚合反應",
+      "C": "可減低靜脈內栓塞現象（veno-occlusive events）",
+      "D": "可減少fetal hemoglobin γ生成，而緩解症狀"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 59 題",
+    "question": "下列何者為降血糖藥物canagliflozin 的主要作用機轉？",
+    "options": {
+      "A": "dipeptidyl peptidase 4（DPP-4）抑制劑",
+      "B": "glucagon-like peptide-1（GLP-1）受體致效劑",
+      "C": "sodium-glucose co-transporter 2（SGLT2）抑制劑",
+      "D": "α-glucosidase 抑制劑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 60 題",
+    "question": "下列關於thioamides 藥理機制之敘述，何者錯誤？",
+    "options": {
+      "A": "抑制甲狀腺過氧化酶（thyroid peroxidase）和阻斷碘的有機化過程（iodine organification）",
+      "B": "propylthiouracil 可抑制周邊T4的去碘作用，減少T3生成",
+      "C": "抑制甲狀腺素釋放",
+      "D": "降低碘酪胺酸（iodotyrosines）之偶合反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 61 題",
+    "question": "下列關於維生素D 與其相關活性產物的敘述，何者錯誤？",
+    "options": {
+      "A": "可能產生高血鈣症之副作用",
+      "B": "可用於改善骨質疏鬆症",
+      "C": "paricalcitol 可治療慢性腎臟疾病引起的副甲狀腺機能亢進",
+      "D": "可使血液中的磷濃度下降"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 62 題",
+    "question": "下列關於thiazide 類利尿劑的敘述，何者錯誤？",
+    "options": {
+      "A": "可用於改善骨質疏鬆症（osteoporosis）",
+      "B": "可用於治療高鈣尿症（hypercalciuria）",
+      "C": "可用於治療高尿酸血症（hyperuricemia）",
+      "D": "可用於治療腎因性尿崩症（nephrogenic diabetes insipidus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 63 題",
+    "question": "Sotalol 可用於治療心律不整，其最主要的作用機制為何？",
+    "options": {
+      "A": "抑制氯離子通道",
+      "B": "抑制鈉離子通道",
+      "C": "抑制鉀離子通道",
+      "D": "抑制鈣離子通道"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 64 題",
+    "question": "下列藥物產生療效之主要作用機制，何者正確？",
+    "options": {
+      "A": "ranolazine：抑制鈣離子通道以舒張動脈",
+      "B": "nitroprusside：抑制phosphodiesterase 以增加cGMP",
+      "C": "nitroglycerin：舒張靜脈以減少心臟前負荷（preload）",
+      "D": "nicardipine：增加鉀離子傳導以降低周邊血管阻力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 65 題",
+    "question": "Neostigmine 最不適合用於下列何種疾病的治療？",
+    "options": {
+      "A": "重症肌無力（myasthenia gravis）",
+      "B": "術後癱瘓性腸阻塞（paralytic ileus）",
+      "C": "心搏過緩（bradycardia）",
+      "D": "術後之尿液滯留（urinary retention）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 66 題",
+    "question": "70 歲王先生在接受白內障開刀手術時，出現了虹膜鬆脫症候群（floppy iris syndrome），經檢視王先生平 時服用的藥物，推測最可能是由下列何者所造成？",
+    "options": {
+      "A": "降血壓藥atenolol",
+      "B": "降血糖藥sitagliptin",
+      "C": "慢性阻塞性肺病用藥ipratropium",
+      "D": "良性攝護腺肥大用藥tamsulosin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 67 題",
+    "question": "下列胃腸道藥物中，何者對女性腸躁症伴隨腹瀉，最有療效？",
+    "options": {
+      "A": "tegaserod",
+      "B": "alosetron",
+      "C": "prucalopride",
+      "D": "granisetron"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 68 題",
+    "question": "有位70 歲老人，患有心臟病及慢性阻塞肺部疾病，常伴隨著偶發性氣管痙攣的症狀。下列何者可以有效解除 此病人的氣管痙攣症狀，且較不易引發心律不整的副作用？",
+    "options": {
+      "A": "prednisone",
+      "B": "salmeterol",
+      "C": "zafirlukast",
+      "D": "ipratropium"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 69 題",
+    "question": "下列那一個藥物應避免使用於HLA-B*5801 基因變異的痛風病人？",
+    "options": {
+      "A": "colchicine",
+      "B": "allopurinol",
+      "C": "meclofenamate",
+      "D": "febuxostat"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 70 題",
+    "question": "下列關於組織胺（histamine）受體的敘述，何者最適當？",
+    "options": {
+      "A": "epinephrine 藉由拮抗組織胺H1受體以治療急性過敏反應（anaphylaxis）",
+      "B": "組織胺H1受體拮抗劑常用於治療氣喘",
+      "C": "第一代組織胺H1受體拮抗劑可用於協助入眠",
+      "D": "組織胺H2受體拮抗劑常用於治療過敏性鼻炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 71 題",
+    "question": "癌症病人做化療時易引起噁心嘔吐，若在化療開始前先給與下列何種藥物，則可以有效緩解該噁心嘔吐的症 狀？",
+    "options": {
+      "A": "ketanserin",
+      "B": "cyproheptadine",
+      "C": "ritanserin",
+      "D": "ondansetron"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 72 題",
+    "question": "下列關於sodium channel blockers 類之抗癲癇藥物的敘述，何者錯誤？",
+    "options": {
+      "A": "phenytoin 是結合在inactivated state 的sodium channel，使其快速進入resting state",
+      "B": "lamotrigine 具有use-dependent blocking 的作用，對高頻放電的神經產生比較強的抑制作用",
+      "C": "oxcarbazepine 會加重Dravet syndrome 的癲癇反應",
+      "D": "carbamazepine 可能會引發Stevens-Johnson syndrome，而產生生命危險"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 73 題",
+    "question": "下列局部麻醉劑中，何者為長效型醯胺類（amide）且具有較明顯的心臟毒性？",
+    "options": {
+      "A": "bupivacaine",
+      "B": "procaine",
+      "C": "lidocaine",
+      "D": "cocaine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 74 題",
+    "question": "Entacapone 併用levodopa 來治療巴金森氏病，主要因為該藥具有下列何種作用？",
+    "options": {
+      "A": "抑制腦部monoamine oxidase B，增加腦部levodopa 的含量",
+      "B": "抑制周邊組織catechol-O-methyltransferase，延長levodopa 的作用",
+      "C": "增加周邊組織3-O-methyldopa 的含量，加強levodopa 的作用",
+      "D": "促進中樞神經末梢dopamine 的釋放"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 75 題",
+    "question": "Acetylcysteine 可用於治療acetaminophen 中毒，下列何者為其解毒之主要作用機制？",
+    "options": {
+      "A": "抑制轉胺酵素（aminotransferase）活性",
+      "B": "增加肝臟cytochrome P450 酵素活性",
+      "C": "增加肝臟內glutathione 含量",
+      "D": "抑制促發炎酵素cyclooxygenase-2 表現"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

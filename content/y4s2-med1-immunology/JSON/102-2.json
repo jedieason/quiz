@@ -1,0 +1,161 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 62 題",
+    "question": "免疫球蛋白（immunoglobulin, Ig）的分子結構中，那個區域最具多樣性序列（hyper-variable sequence）？",
+    "options": {
+      "A": "CDR（complementarity-determining region）",
+      "B": "CL（constant region of light chain）",
+      "C": "Fc（fragment crystallizable）",
+      "D": "hinge region"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 63 題",
+    "question": "有關不同類型（isotype）免疫球蛋白在人體內分布的情形，下列敘述何者正確？",
+    "options": {
+      "A": "血清中含量最高的是IgA",
+      "B": "腸胃道黏膜中含量最高的為IgE",
+      "C": "體組織液中有高含量的IgG",
+      "D": "IgM 可以穿過胎盤，保護胎兒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 64 題",
+    "question": "下列何種檢驗常用來預測超急性排斥（hyperacute graft rejection）之發生與否？",
+    "options": {
+      "A": "混合淋巴球反應（mixed lymphocyte reaction）",
+      "B": "免疫球蛋白（immunoglobulin）定量分析",
+      "C": "淋巴球表面標記（lymphocyte surface marker）分析",
+      "D": "既存抗體（preexisting antibody）偵測試驗"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 65 題",
+    "question": "下列那種細胞最不可能與維持oral tolerance 有關？",
+    "options": {
+      "A": "第三型輔助性T 細胞（TH3）",
+      "B": "調節性T 細胞（regulatory T cell）",
+      "C": "第十七型輔助性T 細胞（TH17）",
+      "D": "第二型輔助性T 細胞（TH2）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 66 題",
+    "question": "Toll-like receptor 4 是辨識細菌的何種成分？",
+    "options": {
+      "A": "lipopeptide",
+      "B": "lipopolysaccharide",
+      "C": "DNA",
+      "D": "RNA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 67 題",
+    "question": "裸鼠（nude mice）有嚴重的免疫缺損，請問裸鼠的免疫缺損和下列那一種人類的疾病最類似？",
+    "options": {
+      "A": "DiGeorge syndrome",
+      "B": "common variable immunodeficiency",
+      "C": "severe combined immunodeficiency",
+      "D": "Omenn syndrome"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 68 題",
+    "question": "由菊花花粉中分離出一種蛋白質，可被50%以上菊花過敏病人血清中的IgE 抗體所辨識，此蛋白質 最可能的特性為何？",
+    "options": {
+      "A": "分子量大於150KD",
+      "B": "水溶性差",
+      "C": "具蛋白水解酵素（protease）功能",
+      "D": "容易刺激T 細胞產生IFN-γ"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 69 題",
+    "question": "與過敏性氣喘好發率有關的衛生假說（hygiene hypothesis），下列那一項敘述最正確？",
+    "options": {
+      "A": "遺傳因子與發病與否最相關",
+      "B": "飲食與發病與否最相關",
+      "C": "嬰幼兒時期遭受病毒或是細菌感染，可降低發病率",
+      "D": "生長在已開發國家比起未開發國家，發病率往往較低"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 70 題",
+    "question": "下列那一種免疫球蛋白受器常表現在肥大細胞（mast cell）表面上，並在結合IgE 與過敏原後，可引 發過敏反應？",
+    "options": {
+      "A": "FcαRI",
+      "B": "FcεRI",
+      "C": "FcγRI",
+      "D": "FcγRIII"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 71 題",
+    "question": "如果孕婦的血型是AB 型Rh 陰性，而胎兒的血型是B 型Rh 陽性，關於這個懷孕的健康風險，下列 何者正確？",
+    "options": {
+      "A": "胎兒的不同血型血球會攻擊母體，造成母親的自體免疫疾病",
+      "B": "如果母親第一次懷孕，本次懷孕胎兒受到母體免疫系統攻擊的機會增加",
+      "C": "如果母親之前懷過與本次懷孕同血型的胎兒，本次懷孕胎兒受到母體免疫系統攻擊的機會增加",
+      "D": "胎兒產生的抗體在懷孕末期會經過胎盤攻擊母體細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 72 題",
+    "question": "治療類風濕性關節炎的生物製劑如抗腫瘤壞死因子α 抗體（anti-TNF-α antibodies）及人類腫瘤壞 死因子受體蛋白質分子（recombinant human TNF receptor, etanercept），效果顯著，但罹患下列何種 疾病的機率增加？",
+    "options": {
+      "A": "人類免疫不全病毒感染（human immunodeficiency virus infection）",
+      "B": "結核病（tuberculosis）",
+      "C": "多發性硬化症（multiple sclerosis）",
+      "D": "植入物抗宿主疾患（graft-versus-host disease）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 73 題",
+    "question": "干擾素能阻礙微生物在細胞內繁殖。下列何者歸類於第二類干擾素？",
+    "options": {
+      "A": "IL-6",
+      "B": "IFN-α",
+      "C": "IFN-β",
+      "D": "IFN-γ"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 74 題",
+    "question": "在未致敏（unsensitized）的病患，進行器官移植手術，初期的排斥反應與何者有關？",
+    "options": {
+      "A": "捐贈者的T 細胞",
+      "B": "捐贈者的自然殺手細胞（natural killer cell）",
+      "C": "捐贈者的樹狀細胞（dendritic cell）",
+      "D": "捐贈者的漿細胞（plasma cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

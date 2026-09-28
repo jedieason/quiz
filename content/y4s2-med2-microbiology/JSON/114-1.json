@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 1 題",
+    "question": "細菌若具有攝取並利用外源性胸腺嘧啶（exogenous thymidine）之能力，通常對於下列何種抗生素具有抗藥 性？",
+    "options": {
+      "A": "甲氧苄啶（trimethoprim）",
+      "B": "立汎黴素（rifampin）",
+      "C": "克林黴素（clindamycin）",
+      "D": "安比西林（ampicillin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 2 題",
+    "question": "下列有關原生質體（protoplast）之敘述，何者最適當？",
+    "options": {
+      "A": "具有莢膜（capsule）結構之菌體",
+      "B": "細胞壁（cell wall）結構缺損之菌體",
+      "C": "只發生在革蘭氏陽性菌",
+      "D": "能生長於嚴苛環境（如高溫、高鹽等環境）的古細菌（archaea）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 3 題",
+    "question": "下列與細菌有關的構造及衍生物，何種較能防止抗生素清除細菌的作用？",
+    "options": {
+      "A": "鞭毛（flagellum）",
+      "B": "線毛（pilus）",
+      "C": "生物膜（biofilm）",
+      "D": "莢膜（capsule）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 4 題",
+    "question": "結核菌素皮膚測試（tuberculin skin test）所使用的purified protein derivatives（PPDs）是從結核桿 菌何處純化出來的結合蛋白質？",
+    "options": {
+      "A": "細菌細胞壁",
+      "B": "宿主細胞核",
+      "C": "細菌染色體",
+      "D": "細菌質體"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 5 題",
+    "question": "下列那一株菌會污染海鮮，並產生熱穩定溶血素（thermostable direct hemolysin, Kanagawa hemolysin） 引起食物中毒？",
+    "options": {
+      "A": "大腸桿菌（Escherichia coli）",
+      "B": "霍亂弧菌（Vibrio cholera）",
+      "C": "腸炎弧菌（Vibrio parahaemolyticus）",
+      "D": "金黃色葡萄球菌（Staphylococcus aureus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 6 題",
+    "question": "細菌的超級抗原（superantigens）主要具有下列何種特性？",
+    "options": {
+      "A": "能在真核細胞的細胞膜上打洞",
+      "B": "不需經抗原處理（antigen processing），本身就可活化免疫細胞",
+      "C": "可抑制巨噬細胞（macrophages）的吞噬作用",
+      "D": "可抑制巨噬細胞內的顆粒釋放內容物（degranulation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 7 題",
+    "question": "有關以色列放線菌（Actinomyces israelii）之敘述，下列何者最適當？",
+    "options": {
+      "A": "屬絕對需氧菌",
+      "B": "具臼齒（molar）狀菌落",
+      "C": "通常對青黴素（penicillin）具抗性",
+      "D": "和丙酸桿菌（Propionibacterium）皆為革蘭氏陰性菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 8 題",
+    "question": "超級抗藥性結核菌（extensively drug-resistant TB, XDR-TB）的定義是多重抗藥性結核菌（multidrug- resistant Mycobacterium tuberculosis , MDR-TB），除對卡納黴素（kanamycin）、阿米卡星（amikacin） 與捲曲黴素（capreomycin）三種藥物中任一種具有抗藥性，且對下列那一類藥物具有抗藥性？",
+    "options": {
+      "A": "他唑巴坦（tazobactam）",
+      "B": "伊曲康唑（itraconazole）",
+      "C": "氟喹諾酮（fluoroquinolone）",
+      "D": "米替福新（miltefosine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 9 題",
+    "question": "關於普氏立克次體（Rickettsia prowazekii）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "是造成流行性斑疹傷寒（epidemic typhus）的病原菌",
+      "B": "能透過人類體蝨（human body louse）叮咬而傳染",
+      "C": "病原菌不會潛伏於人體",
+      "D": "血清學診斷可以用微免疫螢光試驗（microimmunofluorescence, MIF）為參考方法"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 10 題",
+    "question": "下列有關病毒感染細胞之病變機制，何者最適當？",
+    "options": {
+      "A": "單純疱疹病毒（herpes simplex virus）感染之細胞核內可形成Cowdry type A 包涵體（Cowdry type A inclusion body）",
+      "B": "腸病毒（enterovirus）感染之細胞會發生細胞融合（syncytia）現象",
+      "C": "德國麻疹病毒（rubella virus）感染之細胞質會形成Negri 包涵體（Negri body）",
+      "D": "腺病毒（adenovirus）主要是透過與細胞膜的融合入侵細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 11 題",
+    "question": "抗流感病毒（influenza virus）藥物金剛烷胺（amantadine），其主要作用是抑制該病毒複製的何項步驟？",
+    "options": {
+      "A": "接觸（attachment）",
+      "B": "穿過細胞膜進入細胞及解散外殼",
+      "C": "病毒轉錄",
+      "D": "蛋白質合成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 12 題",
+    "question": "下列那一個肝炎病毒感染最有可能在一般人造成約1%～2%的致死率，但在懷孕婦女則可能有高達20%的致死 率？",
+    "options": {
+      "A": "Hepatitis A virus",
+      "B": "Hepatitis C virus",
+      "C": "Hepatitis D virus",
+      "D": "Hepatitis E virus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 13 題",
+    "question": "有關水痘病毒的敘述，下列何者最不適當？",
+    "options": {
+      "A": "水痘病毒會復發（reactivation），但終身只會得到一次帶狀疱疹",
+      "B": "有治療水痘病毒感染的抗病毒藥物",
+      "C": "有水痘病毒疫苗",
+      "D": "潛伏在神經細胞中"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 14 題",
+    "question": "有關腸病毒（enterovirus）的敘述，何者最不適當？",
+    "options": {
+      "A": "腸病毒只在腸胃道細胞複製",
+      "B": "屬於小RNA 病毒科（Picornaviridae）",
+      "C": "糞口為主要傳染管道",
+      "D": "大部分的腸病毒感染不會造成如肢體麻痺（paralytic disease）等重症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 15 題",
+    "question": "關於狂犬病病毒（Rabies virus）的敘述，下列何者最適當？",
+    "options": {
+      "A": "感染後，病毒不會在肌肉細胞複製",
+      "B": "被帶有狂犬病病毒的狗咬傷後立刻施打抗病毒免疫球蛋白，再配合疫苗施打，可有效防止狂犬病的發生",
+      "C": "狂犬病病毒的基因體為環狀DNA",
+      "D": "犬類是狂犬病病毒的唯一宿主"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 16 題",
+    "question": "下列何種念珠菌芽管測試（germ tube test）為陽性？",
+    "options": {
+      "A": "Candida tropicalis",
+      "B": "Candida albicans",
+      "C": "Candida parapsilosis",
+      "D": "Candida krusei"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 17 題",
+    "question": "下列那一種抗真菌（anti-fungal）藥物，主要抑制真菌細胞麥角固醇（ergosterol）的合成？",
+    "options": {
+      "A": "華光黴素 Z（nikkomycin Z）",
+      "B": "卡泊芬淨（caspofungin）",
+      "C": "酮康唑（ketoconazole）",
+      "D": "制黴菌素（nystatin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

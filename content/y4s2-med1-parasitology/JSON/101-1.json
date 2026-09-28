@@ -1,0 +1,103 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 75 題",
+    "question": "在臺灣，虎皮蛙（Rana rugulosa）及金線蛙（Rana plancyi）是下列何種人類寄生蟲的保蚴宿主（paratenic  host）？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "衛氏肺吸蟲（Paragonimus westermani）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 76 題",
+    "question": "下列何種人體寄生蟲感染常引起嗜伊紅性腦膜炎或腦膜腦炎（eosinophilic meningitis or  meningoencephalitis）？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "旋毛蟲（Trichinella spiralis）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "有鉤絛蟲（Taenia solium）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 77 題",
+    "question": "李先生參加農耕隊服務於巴西，回國後腳部皮膚有出疹現象，診斷為泳者之癢（swimmer’s itch）， 請問下列敘述何者正確？",
+    "options": {
+      "A": "止癢劑（antipruritic）及抗組織胺（antihistamine）可舒緩症狀",
+      "B": "使用mebendazole 可治療痊癒",
+      "C": "在皮下組織一段時間後會在骨骼肌中形成包囊",
+      "D": "是因人類血吸蟲尾動幼蟲（cercaria）感染而引起"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 78 題",
+    "question": "日本血吸蟲（Schistosoma japonicum）那一發育時期的蟲體會感染人？",
+    "options": {
+      "A": "蟲卵",
+      "B": "纖毛幼蟲（miracidium）",
+      "C": "尾動幼蟲（cercaria）",
+      "D": "囊狀幼蟲（metacercaria）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 79 題",
+    "question": "下列有關瘧疾的敘述，何者正確？",
+    "options": {
+      "A": "西非的黑人及其後裔，血型多為Duffy 陰性，不會感染間日瘧",
+      "B": "卵形瘧原蟲的滋養體在血液抹片上之鑑定特徵，是看其是否有帶狀型滋養體（band form trophozoites）",
+      "C": "三日瘧原蟲較喜侵入網織紅血球（reticulocytes）中分裂增殖",
+      "D": "全球各地的惡性瘧都已出現chloroquine-resistance"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 80 題",
+    "question": "下列有關阿米巴的敘述，何者錯誤？",
+    "options": {
+      "A": "寄生人體的阿米巴類，大多數的種類無致病性",
+      "B": "寄生人體的阿米巴類都會形成囊體",
+      "C": "腸道寄生的阿米巴可以用hematoxylin 及trichrome stain 來染色",
+      "D": "細胞核的形態是阿米巴的分類依據之一"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 81 題",
+    "question": "錐鼻蟲（reduviid bug）可以媒介下列何種寄生蟲病？",
+    "options": {
+      "A": "查加斯氏病（Chagas’ disease）",
+      "B": "利什曼症（Leishmaniasis）",
+      "C": "睡眠病（Sleeping sickness）",
+      "D": "黑熱病（Kala-azar）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 82 題",
+    "question": "下列何者為傳播人畜共通萊姆病（Lyme disease）之病媒？",
+    "options": {
+      "A": "鹿蜱（Ixodes dammini）",
+      "B": "鼠蚤（Xenopsylla cheopis）",
+      "C": "體蝨（body louse）",
+      "D": "臭蟲（bedbug）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

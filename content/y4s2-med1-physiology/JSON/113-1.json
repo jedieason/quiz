@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 47 題",
+    "question": "細胞膜主要由蛋白質與下列何種化學物質組成？",
+    "options": {
+      "A": "甘油",
+      "B": "三酸甘油酯",
+      "C": "磷脂質",
+      "D": "膽固醇"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 48 題",
+    "question": "下列何種視網膜內的細胞是具有一閾值，超過即能夠產生動作電位（action potential）？",
+    "options": {
+      "A": "雙極細胞（bipolar cell）",
+      "B": "水平細胞（horizontal cell）",
+      "C": "無軸突細胞（amacrine cell）",
+      "D": "節細胞（ganglion cell）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 49 題",
+    "question": "自主神經系統的節前神經元細胞本體除位於一些腦神經的運動神經核外，也會存在脊髓的下列何處？",
+    "options": {
+      "A": "dorsal root ganglion",
+      "B": "substantia gelatinosa",
+      "C": "Rexed's laminae IX",
+      "D": "intermediolateral column"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 50 題",
+    "question": "下列何項反應，交感神經和副交感神經的作用通常是較為一致的？ [圖片]",
+    "options": {
+      "A": "增加唾液分泌量",
+      "B": "增加心臟跳動速率",
+      "C": "增加胃腸蠕動",
+      "D": "增加膀胱括約肌收縮"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 51 題",
+    "question": "大腦皮質接收感官傳入的刺激訊息，並將這些訊息再傳出至其他特定的大腦皮質或神經核做進一步的處理。 因此，大腦皮質傳出訊息的神經元通常是大型的錐體神經元（pyramidal neuron，又稱Betz cell），且其 樹突分布深廣，軸突包覆有較完整髓鞘，且以麩胺酸為主要的突觸傳遞物質。大腦皮質雖厚達六層，上述這 些負責傳出訊息的大型錐體神經元，其細胞體之分布密度通常在下列那一層最高？",
+    "options": {
+      "A": "第Ia層",
+      "B": "第Ib層",
+      "C": "第II層",
+      "D": "第V層"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 52 題",
+    "question": "下列何項缺損，最不可能影響人類在進入缺乏光源的暗周期期間，血液中褪黑激素（melatonin）濃度先升 後降的現象？",
+    "options": {
+      "A": "retinohypothalamic tract的神經束因缺血而萎縮（atrophy）",
+      "B": "geniculate ganglion中的神經細胞因缺血而凋亡",
+      "C": "松果體（pineal gland）嚴重鈣化結石造成分泌細胞凋亡",
+      "D": "因持續服用抗癌藥物，使N-acetyltransferase活性受到強烈的抑制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 53 題",
+    "question": "下列有關漸進電位（graded potential）的敘述，何者錯誤？",
+    "options": {
+      "A": "漸進電位有加成性，包括時間加成與空間加成",
+      "B": "漸進電位可能會隨刺激大小而改變其大小",
+      "C": "漸進電位可以是去極化，也可以是過極化",
+      "D": "漸進電位若為去極化，則不隨距離而消減"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 54 題",
+    "question": "苯二氮平（benzodiazepines, BZDs）藥物有幫助睡眠的效果，因為它會結合至下列何種傳導物質受體的BZD 結合位置？",
+    "options": {
+      "A": "多巴胺（dopamine）",
+      "B": "麩胺酸（glutamate）",
+      "C": "γ-胺基丁酸（GABA）",
+      "D": "甘胺酸（glycine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 55 題",
+    "question": "誘發平滑肌收縮的鈣離子是結合到下列何種蛋白？",
+    "options": {
+      "A": "旋轉素（troponin）",
+      "B": "旋轉肌凝素（tropomyosin）",
+      "C": "攜鈣素（calmodulin）",
+      "D": "肌凝蛋白輕鏈（myosin light chain）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 56 題",
+    "question": "興奮dynamic γ-motor neuron時，其所支配之骨骼肌會產生何種變化？",
+    "options": {
+      "A": "張力（tone）降低",
+      "B": "對該骨骼肌長度變化之敏感度增加",
+      "C": "牽張反射（strech reflex）消失",
+      "D": "不受影響"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 57 題",
+    "question": "面對一位患有惡性貧血的患者，下列營養補充劑中，何者最適合用來改善症狀？",
+    "options": {
+      "A": "維生素A",
+      "B": "維生素B12",
+      "C": "維生素D",
+      "D": "維生素K"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 58 題",
+    "question": "對正常的心臟週期而言，在第一心音與第二心音之間，會發生下列何項生理變化？",
+    "options": {
+      "A": "心房於此時去極化",
+      "B": "心室容積快速下降",
+      "C": "心房壓力先上升之後下降",
+      "D": "心室壓力維持不變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 59 題",
+    "question": "下列何種情況最有可能增加心輸出量（cardiac output）？",
+    "options": {
+      "A": "慢性中度貧血（moderate chronic anemia）",
+      "B": "心肌梗塞（myocardial infarction）",
+      "C": "心肌炎（myocarditis）",
+      "D": "增加靜脈順應性（increase of venous compliance）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 60 題",
+    "question": "在大失血造成動脈壓下降時，體內循環系統為維持恆定，會產生一連串接續反應將血壓朝向正常值回復，該 過程中最不可能發生者為下列何項？",
+    "options": {
+      "A": "分布到心臟的副交感神經活性增加，使心房竇房結心跳速率增快",
+      "B": "分布到心室心肌細胞的交感神經活性增加，增強心室收縮與心搏量",
+      "C": "分布到靜脈的交感神經活性增加，增加靜脈回流與心臟舒張末期容積",
+      "D": "分布到微動脈的交感神經活性增加，減少微動脈半徑，增加周邊總阻力"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 61 題",
+    "question": "下列那一因子最可能引起冠狀動脈（coronary artery）血管收縮？",
+    "options": {
+      "A": "腺苷酸（adenosine）之局部濃度增加",
+      "B": "心跳速率減緩",
+      "C": "nitric oxide之局部濃度增加",
+      "D": "心臟代謝率增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 62 題",
+    "question": "某健康者在海平面呼吸一般空氣，正常情況下，比較各處氧分壓（ ）的大小關係，下列排序何者正確？ ①吸入的氣體（inspired air，在鼻腔中測量）　②肺泡內氣體（alveolar air）　③呼出的氣體 （expired air，在鼻腔中測量）",
+    "options": {
+      "A": "①＞②＞③",
+      "B": "①＞③＞②",
+      "C": "①＝②＞③",
+      "D": "①＞②＝③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 63 題",
+    "question": "已知某藥物會抑制碳酸酐酶（carbonic anhydrase），但是無法穿透血腦障壁（blood-brain barrier）。 實驗中，大白鼠分為兩組，控制組未曾經過藥物處理，實驗組則事先接受該藥物注射進入體動脈（systemic artery）血中。若讓兩組大白鼠分別吸入比平時更高濃度的二氧化碳（$CO_2$），會發生下列何種反應？",
+    "options": {
+      "A": "兩組大白鼠的肺泡通氣量（alveolar ventilation）相同",
+      "B": "實驗組的主動脈體（aortic body）化學感受器（chemoreceptor）活性（activity）比控制組更強",
+      "C": "控制組的舌咽神經（glossopharyngeal nerve）放電頻率（firing frequency）比實驗組更低",
+      "D": "兩組大白鼠的中樞化學感受器（central chemoreceptor）活性相同"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 64 題",
+    "question": "下列關於胰泌素（secretin）的敘述，何者正確？",
+    "options": {
+      "A": "作用在胰臟管細胞（pancreatic duct cell），協助酸鹼中和",
+      "B": "由胰臟（pancreas）製造，促進胃酸分泌",
+      "C": "透過抑制Gq蛋白，促進胃酸分泌",
+      "D": "作用於氯離子通道（$Cl^-$ channel），協助酸鹼中和"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 65 題",
+    "question": "對於腸細胞（enterocyte）吸收的糖類物質與方式的敘述，下列何者最正確？",
+    "options": {
+      "A": "葡萄糖（glucose）主要透過鈉依賴型葡萄糖共同運輸蛋白-2（sodium-dependent glucose cotransporter-2, SGLT-2）直接吸收",
+      "B": "果糖（fructose）主要透過葡萄糖運輸蛋白-4（glucose transporter-4, GLUT-4）直接吸收",
+      "C": "半乳糖（galactose）主要透過鈉依賴型葡萄糖共同運輸蛋白-1（sodium-dependent glucose transporter-1, SGLT-1）直接吸收",
+      "D": "乳糖（lactose）主要透過葡萄糖運輸蛋白-5（glucose transporter-5, GLUT-5）直接吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 66 題",
+    "question": "在亨利氏彎管上行枝粗管的管腔膜（apical membrane）上，最主要以何種同向運輸子（cotransporter）進 行鈉的再吸收？",
+    "options": {
+      "A": "$Na^+$－$K^+$－2Cl-",
+      "B": "$Na^+$－glucose",
+      "C": "$Na^+$－phosphate",
+      "D": "$Na^+$－$Cl^-$"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 67 題",
+    "question": "人在限制喝水（water deprivation）4小時之後，尿液滲透壓及血漿antidiuretic hormone（ADH）濃度較 開始限水時基礎值（baseline）有何變化？",
+    "options": {
+      "A": "尿液滲透壓及血漿ADH濃度均增加",
+      "B": "尿液滲透壓減少，血漿ADH濃度增加",
+      "C": "尿液滲透壓增加，血漿ADH濃度減少",
+      "D": "尿液滲透壓及血漿ADH濃度均減少"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 68 題",
+    "question": "有關腎上腺皮質分泌雄性素（androgen）作用的敘述，下列何者最不適當？",
+    "options": {
+      "A": "其分泌作用主要受到促性腺激素（gonadotropins）的調控",
+      "B": "其先質dehydroepiandrosterone sulfate（DHEAS）血中濃度通常在20歲左右達到高峰",
+      "C": "在青春期前男性，若腎上腺雄性素分泌過量，可能造成假性性早熟（precocious pseudopuberty）",
+      "D": "在成年女性，若腎上腺雄性素分泌過量，可能造成腎上腺性徵異常綜合症（adrenogenital syndrome）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 69 題",
+    "question": "身體對抗急性壓力反應，下列何者敘述最為適當？",
+    "options": {
+      "A": "壓力刺激可造成血中促腎上腺皮質素（ACTH）濃度升高，也會同時活化交感神經",
+      "B": "循環中促腎上腺皮質素（ACTH）存在，對於兒茶酚胺類荷爾蒙對心血管的作用具有允許作用（permissive action）",
+      "C": "醣皮質素（glucocorticoid）的升高，是造成壓力反應中脂肪分解作用的主要原因",
+      "D": "切除交感神經的動物，仍可保有完整之對抗壓力反應的能力"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 70 題",
+    "question": "有關甲狀腺素對各組織器官的作用，下列何者最不恰當？",
+    "options": {
+      "A": "心臟：促進心臟對兒茶酚胺的反應",
+      "B": "肌肉：增加蛋白質合成作用",
+      "C": "神經系統：促進大腦發育",
+      "D": "脂肪組織：促進脂肪分解作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 71 題",
+    "question": "有關身體對低血鈣狀況的可能反應，下列敘述何者最不恰當？",
+    "options": {
+      "A": "副甲狀腺素分泌增加",
+      "B": "肝臟分泌之1,25-(OH)2D3 增加",
+      "C": "尿液中鈣排泄作用減少",
+      "D": "小腸鈣吸收作用增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 72 題",
+    "question": "下列有關胰島素分泌調控的敘述，何者錯誤？",
+    "options": {
+      "A": "副交感神經活性升高會抑制胰島素的分泌",
+      "B": "胰島素的分泌作用主要受血糖濃度的調控",
+      "C": "在高血糖狀態下，類升糖素胜肽-1（glucagon-like peptide-1）可有效增強胰島素的分泌作用",
+      "D": "升糖素（glucagon）升高可促進胰島素的分泌作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 73 題",
+    "question": "透明帶（zona pellucida）不存在於下列何者？",
+    "options": {
+      "A": "secondary oocyte",
+      "B": "zygote",
+      "C": "morula",
+      "D": "implanted blastocyst"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

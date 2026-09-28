@@ -1,0 +1,269 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 79 題",
+    "question": "一位55 歲婦女因過去一個月來有陰道出血的情況而就醫。她最後一次月經是在四年前。身體檢查並 無特別異常。子宮內膜切片顯示有惡性腺體細胞存在。下列何種基因與此病的發生有最明顯的相關 性？",
+    "options": {
+      "A": "BRCA1",
+      "B": "E-cadherin",
+      "C": "KIT",
+      "D": "PTEN"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 80 題",
+    "question": "陳先生今年48 歲，常常覺得疲累，最近幾年愈來愈明顯。身體檢查發現有輕微黃疸外並無特別異常。 血清學檢查發現IgG anti-HCV 及HCV RNA 陽性，anti-HAV 及HBsAg 陰性。血清AST 及ALT 值升 高。他的情況追蹤幾個月並沒有明顯的變化。下列何者是肝臟最可能的病理變化？",
+    "options": {
+      "A": "毛玻璃樣肝細胞（ground-glass hepatocyte）",
+      "B": "門脈區旁肝細胞壞死（periportal necrosis）",
+      "C": "瀰漫性小泡性脂肪變性（diffuse microvesicular steatosis）",
+      "D": "次大塊性壞死（submassive necrosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 81 題",
+    "question": "肺癌中的那一類型最有可能出現副腫瘤症候群（paraneoplastic syndrome），產生腎上腺皮質促素 （ACTH）？",
+    "options": {
+      "A": "腺癌",
+      "B": "鱗狀細胞癌",
+      "C": "小細胞癌",
+      "D": "惡性間皮瘤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 82 題",
+    "question": "一位12 歲女孩主訴兩側頸部及腋下淋巴結腫大。淋巴結病理切片檢查顯示瀰漫性淋巴細胞增生，並破 壞原有淋巴結之結構。淋巴細胞表現CD3 及TdT，但並不具CD20、CD56 或CD30 之標記。此病人 之淋巴瘤（lymphoma）應屬何型？",
+    "options": {
+      "A": "小淋巴球淋巴瘤（Small lymphocytic lymphoma）",
+      "B": "T 淋巴母細胞淋巴瘤（T lymphoblastic lymphoma）",
+      "C": "套膜細胞淋巴瘤（Mantle cell lymphoma）",
+      "D": "鼻類NK/T 細胞淋巴瘤（Nasal NK/T cell lymphoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 83 題",
+    "question": "罹患Alzheimer 氏病的病人，死後解剖時下列何者最符合腦的表現？",
+    "options": {
+      "A": "腦重1010 公克",
+      "B": "腦室縮小",
+      "C": "腦迴寬而扁平",
+      "D": "腦溝變窄"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 84 題",
+    "question": "一位50 歲女性，最近幾個月來她覺得下腹部有下墜感。子宮頸抹片檢查並無異常。她接受子宮切除 手術。下圖所示是手術所切除的標本。下列何者為最可能的診斷？ [圖片]",
+    "options": {
+      "A": "腺肌症（adenomyosis）",
+      "B": "子宮內膜癌（endometrial cancer）",
+      "C": "子宮內膜息肉（endometrial polyp）",
+      "D": "肌瘤（leiomyoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 85 題",
+    "question": "35 歲女性由於高血鈣而接受副甲狀腺的手術。病理檢查證實病變具有完整包被。顯微鏡下病變由chief  cell 組成，細胞中沒有出現有絲分裂的形態。在包被外的邊緣尚可見殘存一圈正常副甲狀腺的組織。 下列副甲狀腺疾病中，何者最符合此病人的臨床及病理特徵？",
+    "options": {
+      "A": "Primary hyperplasia",
+      "B": "Secondary hyperplasia",
+      "C": "Adenoma",
+      "D": "Carcinoma"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 86 題",
+    "question": "一位56 歲男性，因頸部淋巴結腫大來求診，切片發現為「分泌多量黏液的腺癌轉移」，以下部位中， 最有可能的原發病灶為：",
+    "options": {
+      "A": "小腦",
+      "B": "攝護腺",
+      "C": "鼻咽部",
+      "D": "結腸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 87 題",
+    "question": "過敏性氣喘，主要的組織變化發生在：",
+    "options": {
+      "A": "支氣管（major bronchi）",
+      "B": "小支氣管及細支氣管（small bronchi and bronchioles）",
+      "C": "肺泡（alveoli）",
+      "D": "肺微血管（capillaries）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 88 題",
+    "question": "26 歲男性愛滋病患皮膚上發現一小結狀病變。切片顯示其中有多數中性球浸潤，血管增生，以及許 多革蘭氏陰性桿菌。下列病變中何者最符合上述病理變化？",
+    "options": {
+      "A": "Kaposi sarcoma",
+      "B": "Pyogenic granuloma",
+      "C": "Bacillary angiomatosis",
+      "D": "Mycobacterial granuloma"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 89 題",
+    "question": "下圖所示為腦脊髓液的顯微鏡下所見，則該圖最符合下列那一個情況？ [圖片]",
+    "options": {
+      "A": "急性化膿性腦膜炎",
+      "B": "慢性非化膿性腦膜炎",
+      "C": "腦膜瘤",
+      "D": "癌性腦膜炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 90 題",
+    "question": "病人主訴慢性咳嗽，X 光顯示右肺有一圓形病灶。組織檢查顯示病變中央壞死，其周圍有巨噬細胞、 淋巴球及類上皮細胞，其最可能的診斷為：",
+    "options": {
+      "A": "膿瘍（abscess）",
+      "B": "肉芽腫（granuloma）",
+      "C": "栓塞（embolus）",
+      "D": "癌（cancer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 91 題",
+    "question": "第三、四腦室旁及乳頭體（mamillary body）點狀出血並出現神經學症狀，係因下列何者所造成？",
+    "options": {
+      "A": "thiamine 缺乏",
+      "B": "riboflavin 缺乏",
+      "C": "銅過量",
+      "D": "鐵過量"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 92 題",
+    "question": "40 歲女性發現自己左側乳房有數顆小團塊，經乳房超音波檢查發現右側乳房也有數顆小的腫塊，以 細針抽吸做腫瘤細胞學檢查結果為陽性，有惡性細胞存在。則下列何者為最可能之診斷？",
+    "options": {
+      "A": "侵襲性乳突狀癌（Invasive papillary carcinoma）",
+      "B": "浸潤性管狀癌（Infiltrating ductal carcinoma）",
+      "C": "浸潤性小葉癌（Infiltrating lobular carcinoma）",
+      "D": "髓樣癌（Medullary carcinoma）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或 Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 93 題",
+    "question": "醫師解剖一位50 歲的男性，發現其腹腔內有白粉筆樣的脂肪壞死、出血區及雞湯樣液體，此病理變 化最可能是下列那一項引起？",
+    "options": {
+      "A": "消化性潰瘍穿孔（Perforated peptic ulcer）",
+      "B": "缺血性結腸炎（Ischemic colitis）",
+      "C": "漿液性腺癌（Serous adenocarcinoma）",
+      "D": "急性出血性胰臟炎（Acute hemorrhagic pancreatitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 94 題",
+    "question": "一位24 歲男性，最近幾個月來常有間歇性腹痛、發燒及輕微腹瀉，壓力大時更容易發作。身體檢查 發現有直腸旁　管存在。大腸鏡檢查可見有些區域的黏膜有水腫、潰瘍變化，有些則正常。在病變 區域切片檢查，顯微鏡下可見有潰瘍、急性與慢性發炎細胞浸潤，及非乾酪性肉芽腫（noncaseating  granulomas）的變化。下列何者是最可能的診斷？",
+    "options": {
+      "A": "阿米巴蟲病（Amebiasis）",
+      "B": "克隆氏病（Crohn disease）",
+      "C": "偽膜性結腸炎（Pseudomembranous colitis）",
+      "D": "潰瘍性結腸炎（Ulcerative colitis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 95 題",
+    "question": "塵肺病中與惡性間皮瘤（malignant mesothelioma）最相關的物質是：",
+    "options": {
+      "A": "碳",
+      "B": "鉛",
+      "C": "矽",
+      "D": "石綿"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 96 題",
+    "question": "75 歲老先生有服用dihydrotestosterone（DHT）習慣，半年來有小便困難、夜尿次數增加等情形，因 感冒服用一些感冒成藥，隔天小便解不出來，急診就醫經導尿處理，病人接受攝護腺刮除術，病理 檢查如下圖所示。下列診斷敘述何者最適當？",
+    "options": {
+      "A": "分化良好的攝護腺癌",
+      "B": "良性攝護腺增生",
+      "C": "攝護腺發炎及纖維化",
+      "D": "與服用感冒成藥無關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 97 題",
+    "question": "一位10 歲小孩，自嬰兒以來即歷經多次肺炎及腦膜炎併發菌血症。小孩並無肝脾腫大或身體外觀之 缺陷。病人貧血，血小板及白血球數略高。血色素電泳結果為Hb A2 1%，Hb F 7%以及Hb S 92%。 病人容易經常感染的原因為何？",
+    "options": {
+      "A": "內皮細胞與紅血球間的黏附（adhesion）減少",
+      "B": "免疫球蛋白的製造減少",
+      "C": "嗜中性白血球的功能減少",
+      "D": "脾臟因多次缺血性壞死，造成功能喪失"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 98 題",
+    "question": "一男嬰足月出生活動力正常，但產後4 天發現臍帶結紮處有滲出血水，背部有局部瘀血斑，嬰兒最 有可能缺乏下列何種營養素？",
+    "options": {
+      "A": "維生素K",
+      "B": "維生素B12",
+      "C": "葉酸",
+      "D": "鐵"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 99 題",
+    "question": "一位61 歲男性主訴倦怠，四個月以來逐漸嚴重。病人血清肌酸酐及尿素氮明顯增加，尿液試紙檢驗， 無血尿、尿蛋白或尿糖情形，但本斯瓊司氏蛋白（Bence Jones proteins）測試陽性。腎切片檢查如下 圖所示。病人之基本病因為何？ [圖片] [圖片]",
+    "options": {
+      "A": "風濕熱（Rheumatic fever）",
+      "B": "多發性骨髓瘤（Multiple myeloma）",
+      "C": "僵直性脊椎炎（Ankylosing spondylitis）",
+      "D": "系統性硬化症（Systemic sclerosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 100 題",
+    "question": "一位4 歲小孩因為反覆的細菌性感染就醫。周邊血液的白血球分析顯示其白血球缺乏myeloperoxidase。 下列何者最可以解釋這名小孩容易受到感染的原因？",
+    "options": {
+      "A": "白血球黏附（adhesion）的缺陷",
+      "B": "無法產生HOCl －",
+      "C": "無法產生H2O2",
+      "D": "嗜中性白血球去顆粒作用（degranulation）的缺陷"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

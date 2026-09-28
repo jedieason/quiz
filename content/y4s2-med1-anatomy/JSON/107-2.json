@@ -1,0 +1,383 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 1 題",
+    "question": "下列何者不經由下小腦腳（inferior cerebellar peduncle）進入小腦？",
+    "options": {
+      "A": "前庭小腦徑（vestibulocerebellar tract）",
+      "B": "橄欖核小腦徑（olivocerebellar tract）",
+      "C": "背側脊髓小腦徑（dorsal spinocerebellar tract）",
+      "D": "腹側脊髓小腦徑（ventral spinocerebellar tract）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 2 題",
+    "question": "有關三叉神經之敘述，下列何者錯誤？",
+    "options": {
+      "A": "含一般體運動傳出神經纖維",
+      "B": "其分支攜帶副交感神經纖維",
+      "C": "含本體感覺神經纖維",
+      "D": "其神經核分布於延腦、橋腦與中腦"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 3 題",
+    "question": "下列何者受到傷害，最可能造成病人口咽處黏膜一般感覺缺失？",
+    "options": {
+      "A": "迷走神經（vagus nerve）",
+      "B": "舌咽神經（glossopharyngeal nerve）",
+      "C": "頸襻（ansa cervicalis）",
+      "D": "喉返神經（recurrent laryngeal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 4 題",
+    "question": "下列何者的收縮與張口動作最無關係？",
+    "options": {
+      "A": "內翼肌（medial pterygoid muscle）",
+      "B": "外翼肌（lateral pterygoid muscle）",
+      "C": "下頜舌骨肌（mylohyoid muscle）",
+      "D": "頦舌肌（geniohyoid muscle）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 5 題",
+    "question": "鼓膜張肌（tensor tympani）由何神經支配？",
+    "options": {
+      "A": "第五顱神經第三支",
+      "B": "副神經（accessory nerve）之顱根（cranial root），轉經迷走神經（vagus nerve）",
+      "C": "第八顱神經",
+      "D": "第七顱神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 6 題",
+    "question": "肺韌帶（pulmonary ligament）位於肺臟何處？",
+    "options": {
+      "A": "尖端（apex）",
+      "B": "基底面（base）",
+      "C": "肋骨面（costal surface）",
+      "D": "根部（root）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 7 題",
+    "question": "主胰管（major pancreatic duct）與膽管（common bile duct）共同開口於十二指腸何處？",
+    "options": {
+      "A": "上段（superior part）",
+      "B": "下行段（descending part）",
+      "C": "下段（inferior part）",
+      "D": "上行段（ascending part）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 8 題",
+    "question": "橫膈的右腳（right crus of the diaphragm）圍繞著下列那一個構造？",
+    "options": {
+      "A": "主動脈",
+      "B": "下腔靜脈",
+      "C": "食道",
+      "D": "肝門靜脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 9 題",
+    "question": "下列何者最可能緊貼在排空後的膀胱上方？",
+    "options": {
+      "A": "直腸",
+      "B": "子宮",
+      "C": "陰道",
+      "D": "輸卵管"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 10 題",
+    "question": "下列何者伴行小隱靜脈（small saphenous vein），且傳遞小腿後外側與小腳趾的皮膚感覺？",
+    "options": {
+      "A": "隱神經（saphenous nerve）",
+      "B": "腓腸神經（sural nerve）",
+      "C": "腓深神經（deep fibular nerve）",
+      "D": "腓淺神經（superficial fibular nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 11 題",
+    "question": "車禍頸部受傷，造成右手拇指感覺喪失，其餘四指正常，最可能是右側那一條頸部脊神經受損？",
+    "options": {
+      "A": "C5",
+      "B": "C6",
+      "C": "C7",
+      "D": "C8"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 12 題",
+    "question": "踩到玻璃劃破足底外側動脈（lateral plantar artery）造成出血，如果採用加壓止血法，按壓下列何處最為適 當？",
+    "options": {
+      "A": "股三角（femoral triangle）",
+      "B": "膕窩（popliteal fossa）",
+      "C": "跗骨隧道（tarsal tunnel）",
+      "D": "足背（dorsalis pedis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 13 題",
+    "question": "關於背側脊髓小腦徑（dorsal spinocerebellar tract）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "背側脊髓小腦徑主要經由下小腦腳（inferior cerebellar peduncle）進入小腦",
+      "B": "可將訊息傳入脊髓小腦（spinocerebellum）",
+      "C": "背側脊髓小腦徑位於脊髓（spinal cord）之背側束（dorsal funiculus）",
+      "D": "背側脊髓小腦徑主要將訊息傳入同側小腦"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 14 題",
+    "question": "聽覺傳導路徑（auditory pathway）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "初級聽覺皮質（primary auditory cortex）位於顳葉（temporal lobe）",
+      "B": "上橄欖核（superior olivary nucleus）參與聽覺之傳導",
+      "C": "右邊內耳之聽覺訊息可傳入左右兩邊之內側膝狀體（medial geniculate body）",
+      "D": "左邊內側膝狀體（medial geniculate body）之聽覺訊息，可傳入左右兩邊之初級聽覺皮質（primary auditory cortex）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 15 題",
+    "question": "關於面神經（facial nerve）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "面神經核（facial nucleus）位於橋腦（pons）",
+      "B": "右側面神經核（facial nucleus）損傷，可導致右側顏面表情肌全麻痺（right facial palsy）",
+      "C": "面神經核（facial nucleus）之神經元，屬於下運動神經元（lower motor neuron）",
+      "D": "面神經（facial nerve）可傳遞咀嚼肌之本體感覺（proprioception）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 16 題",
+    "question": "有關海馬系統（hippocampal formation）之最主要傳出纖維（efferent fiber），可形成下列何構造？",
+    "options": {
+      "A": "穹束（fornix）",
+      "B": "胼胝體（corpus callosum）",
+      "C": "終紋（stria terminalis）",
+      "D": "丘腦髓紋（stria medullaris thalami）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 17 題",
+    "question": "上頸神經節（superior cervical ganglion）相對於下列何脊椎骨高度？",
+    "options": {
+      "A": "第一、二頸椎",
+      "B": "第四頸椎",
+      "C": "第六頸椎",
+      "D": "第一胸椎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 18 題",
+    "question": "有關舌骨上肌（suprahyoid muscles）之敘述，下列何者正確？",
+    "options": {
+      "A": "二腹肌的後腹（posterior belly of digastric muscle）由顏面神經（facial nerve）支配",
+      "B": "二腹肌的前腹（anterior belly of digastric muscle）由舌下神經（hypoglossal nerve）支配",
+      "C": "下頜舌骨肌（mylohyoid muscle）由舌下神經（hypoglossal nerve）支配",
+      "D": "莖突舌骨肌（stylohyoid muscle）由下頜神經（mandibular nerve）支配"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 19 題",
+    "question": "顏面靜脈（facial vein）的感染，最可能經由下列何血管擴散至顱內的海綿竇（cavernous sinus）？",
+    "options": {
+      "A": "下頜後靜脈（retromandibular vein）",
+      "B": "上眼靜脈（superior ophthalmic vein）",
+      "C": "舌靜脈（lingual vein）",
+      "D": "上頜靜脈（maxillary vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 20 題",
+    "question": "在心搏週期（cardiac cycle）中，血流進入冠狀動脈最主要是在：",
+    "options": {
+      "A": "肺動脈瓣打開時",
+      "B": "左心室收縮時",
+      "C": "主動脈瓣關閉時",
+      "D": "右心房舒張時"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 21 題",
+    "question": "引發咳嗽反射最敏感的呼吸道黏膜位於：",
+    "options": {
+      "A": "隆凸（carina）",
+      "B": "氣管（trachea）",
+      "C": "主支氣管（main bronchus）",
+      "D": "節支氣管（segmental bronchus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 22 題",
+    "question": "右側頭臂靜脈（brachiocephalic vein）匯入上腔靜脈（superior vena cava）的位置，對應於體表最有可能 在：",
+    "options": {
+      "A": "胸骨柄（manubrium）右緣",
+      "B": "胸骨柄（manubrium）左緣",
+      "C": "胸骨體（body）正下方",
+      "D": "右側第三肋間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 23 題",
+    "question": "下列何者不是主動脈的直接分支？",
+    "options": {
+      "A": "食道動脈（esophageal artery）",
+      "B": "後肋間動脈（posterior intercostal artery）",
+      "C": "支氣管動脈（bronchial artery）",
+      "D": "內胸動脈（internal thoracic artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 24 題",
+    "question": "下列何者最不可能由右冠狀動脈供應？",
+    "options": {
+      "A": "右心房",
+      "B": "房室結",
+      "C": "節制帶（moderator band）",
+      "D": "房室束"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 25 題",
+    "question": "下列何者不直接匯入下腔靜脈（inferior vena cava）？",
+    "options": {
+      "A": "左腎靜脈（left renal vein）",
+      "B": "左肝靜脈（left hepatic vein）",
+      "C": "左腎上腺靜脈（left suprarenal vein）",
+      "D": "左第三、四腰靜脈（left L3, 4 lumbar veins）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 26 題",
+    "question": "下列何者不存在精索（spermatic cord）內？",
+    "options": {
+      "A": "髂腹下神經（iliohypogastric nerve）",
+      "B": "輸精管（ductus deferens）",
+      "C": "提睪肌動脈（cremasteric artery）",
+      "D": "鞘突遺跡（vestige of vaginal process）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 27 題",
+    "question": "有關男女性生殖器官之配對，下列何者不是同源構造？",
+    "options": {
+      "A": "陰莖頭（glans of penis）- 陰蒂頭（glans of clitoris）",
+      "B": "陰莖海綿球（bulb of corpus spongiosum）- 前庭球（vestibular bulb）",
+      "C": "陰囊（scrotum）- 大陰唇（labia majora）",
+      "D": "前列腺（prostate gland）- 前庭腺（vestibular gland）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 28 題",
+    "question": "穿過陰莖腳（crura）走入陰莖海綿體（corpus cavernosum）內，去支配陰莖勃起組織的動脈是：",
+    "options": {
+      "A": "陰莖球體動脈（arteries of the bulb of the penis）",
+      "B": "陰莖深動脈（deep arteries of the penis）",
+      "C": "陰莖背動脈（dorsal arteries of the penis）",
+      "D": "陰部外動脈（external pudendal arteries）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 29 題",
+    "question": "供應及支配下肢內收肌群（adductor muscles）的血管與神經，分別是：",
+    "options": {
+      "A": "閉孔動脈（obturator artery）與閉孔神經（obturator nerve）",
+      "B": "閉孔動脈（obturator artery）與股神經（femoral nerve）",
+      "C": "深股動脈（deep femoral artery）與閉孔神經（obturator nerve）",
+      "D": "深股動脈（deep femoral artery）與股神經（femoral nerve）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 30 題",
+    "question": "當患者出現翼狀肩胛骨（winging of the scapula）的症狀時，最常見的原因是由於那一條神經與其支配的肌 肉受損所引發？",
+    "options": {
+      "A": "腋神經（axillary nerve）與三角肌（deltoid muscle）",
+      "B": "長胸神經（long thoracic nerve）與前鋸肌（serratus anterior）",
+      "C": "肩胛上神經（suprascapular nerve）與棘上肌（supraspinatus）",
+      "D": "下肩胛下神經（inferior subscapular nerve）與大圓肌（teres major）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 31 題",
+    "question": "正常情形下，肌皮神經（musculocutaneous nerve）的末端會形成那一條皮神經？",
+    "options": {
+      "A": "上臂內側皮神經（medial cutaneous nerve of arm）",
+      "B": "前臂內側皮神經（medial cutaneous nerve of forearm）",
+      "C": "前臂外側皮神經（lateral cutaneous nerve of forearm）",
+      "D": "前臂後側皮神經（posterior cutaneous nerve of forearm）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

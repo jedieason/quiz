@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 74 題",
+    "question": "血紅素S（Hemoglobin S）是由於其中的胺基酸Glu被置換成Val，致使血紅素S有聚集（aggregation）的現象， 其原因為何？",
+    "options": {
+      "A": "血紅素S間形成共價鍵（covalent bond）",
+      "B": "血紅素S間形成雙硫鍵（disulfide bond）",
+      "C": "血紅素S間的疏水性交互作用（hydrophobic interactions）增加",
+      "D": "血紅素S間的離子交互作用（ionic interactions）增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 75 題",
+    "question": "配體（Ligand）與蛋白質之同向異位性作用（homotropic allosteric interaction）的定義為何？",
+    "options": {
+      "A": "一分子的配體與蛋白質上的結合位點（binding site）結合後，會影響第二個相同的配體分子結合到同一位點 上",
+      "B": "一分子的配體與蛋白質上的結合位點（binding site）結合後，會影響該蛋白質其他配體結合位點與配體的結 合能力",
+      "C": "二個不同的配體能與同一個蛋白質結合位點（binding site）結合",
+      "D": "配體與蛋白質結合位點（binding site）結合後，不會造成該蛋白質其他部分的結構變化（conformational change）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 76 題",
+    "question": "一合乎Michaelis-Menten動力學之酵素，若其反應的初速度（initial reaction rate）為0.8 Vmax時，受質的濃度應 為：",
+    "options": {
+      "A": "2 Km",
+      "B": "3 Km",
+      "C": "4 Km",
+      "D": "5 Km"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 77 題",
+    "question": "輔酶thiamine pyrophosphate（TPP）在參與丙酮酸脫羧酶（pyruvate decarboxylase）催化反應時，負責轉移下 列何種基團？",
+    "options": {
+      "A": "methyl group",
+      "B": "acyl group",
+      "C": "aldehyde group",
+      "D": "carboxyl group"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 78 題",
+    "question": "下列何種生物能自行合成cobalamin（vitamin B12）？",
+    "options": {
+      "A": "脊椎動物",
+      "B": "昆蟲",
+      "C": "微生物",
+      "D": "植物"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 79 題",
+    "question": "下列何種反應是一種deamination的作用？",
+    "options": {
+      "A": "胞嘧啶（cytosine）變成次黃嘌呤（hypoxanthine）",
+      "B": "5'-甲基胞嘧啶（5'-methylcytosine）變成胸腺嘧啶（thymine）",
+      "C": "腺嘌呤（adenine）變成黃嘌呤（xanthine）",
+      "D": "鳥糞嘌呤（guanine）變成尿嘧啶（uracil）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 80 題",
+    "question": "DNA-DNA，DNA-RNA，RNA-RNA所形成的雜交配對，在中性pH下，三者間的相對穩定度為何？",
+    "options": {
+      "A": "DNA-DNA>RNA-RNA>DNA-RNA",
+      "B": "RNA-DNA>RNA-RNA>DNA-DNA",
+      "C": "RNA-RNA>DNA-DNA>DNA-RNA",
+      "D": "RNA-RNA>DNA-RNA>DNA-DNA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 81 題",
+    "question": "下列有關Klenow fragment的敘述，何者錯誤？",
+    "options": {
+      "A": "具有DNA polymerase活性",
+      "B": "具有3'→5'exonuclease活性",
+      "C": "屬於DNA polymerase I的片段",
+      "D": "具有topoisomerase活性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 82 題",
+    "question": "下列何種反應參與大腸桿菌複製叉（replication forks）中的DNA合成反應？",
+    "options": {
+      "A": "DNA解旋酶（helicase）具內切酶活性，切割DNA",
+      "B": "引子合成酶（primase）合成RNA引子",
+      "C": "DNA拓樸異構酶I（topoisomerase I）具外切酶活性，切割DNA",
+      "D": "DNA聚合酶II（DNA polymerase II）合成DNA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 83 題",
+    "question": "胺醯-tRNA合成酶（aminoacyl-tRNA synthetase）的功能為何？",
+    "options": {
+      "A": "能使 tRNA和相對應的胺基酸進行酯化作用（esterification）",
+      "B": "能與特定的蛋白質結合後，間接促進tRNA與胺基酸進行酯化作用（esterification）",
+      "C": "存在於核糖體（ribosome）中，促進胜肽鍵（peptide bond）的合成",
+      "D": "需要GTP的作用才能活化胺基酸"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 84 題",
+    "question": "下列何者是原核細胞蛋白質合成之延伸期（elongation）的最佳敘述？",
+    "options": {
+      "A": "每一胜肽鍵的合成只需消耗二個高能磷酸組（high-energy phosphoryl groups）",
+      "B": "胺醯-tRNA（aminoacyl-tRNA）首先進入核糖體的P位（P site）",
+      "C": "EF-Tu延伸因子（elongation factor EF-Tu）是有利於蛋白質合成時核糖體的移位作用（translocation）",
+      "D": "肽基轉移酶（peptidyl-transferase）是一種ribozyme"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 85 題",
+    "question": "在人體內，下列何者之生合成並非由tyrosine代謝而形成？",
+    "options": {
+      "A": "S-adenosylmethionine",
+      "B": "epinephrine",
+      "C": "melanin",
+      "D": "dopamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 86 題",
+    "question": "蛋白質的降解可經由ubiquitin-proteasome的路徑，下列何者是催化將ubiquitin直接結合至待降解之蛋白質上的 主要酵素？",
+    "options": {
+      "A": "E1",
+      "B": "E2",
+      "C": "E3",
+      "D": "E4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 87 題",
+    "question": "下列有關葡萄糖氧化的五碳糖磷酸途徑（pentose phosphate pathway）功能之敘述，何者正確？",
+    "options": {
+      "A": "負責催化每莫耳葡萄糖產生36莫耳ATP",
+      "B": "負責催化每莫耳葡萄糖產生5莫耳$CO_2$",
+      "C": "供應合成核苷酸（nucleotide）所需要之核糖（ribose）的來源",
+      "D": "主要功能是產生NADH及FADH2進入呼吸鏈氧化產生能量"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 88 題",
+    "question": "下列那一種黏多醣類（mucopolysaccharide）含有alpha 1→4糖苷鍵（glycosidic bond），臨床上用來當抗凝血 劑（anticoagulant）？",
+    "options": {
+      "A": "chondroitin sulfate A",
+      "B": "heparin",
+      "C": "hyaluronic acid",
+      "D": "dermatan sulfate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 89 題",
+    "question": "經由糖解作用（glycolysis）產生的丙酮酸（pyruvate）必須直接先被轉換為下列何種分子，才能繼續以克式循 環（Krebs cycle，亦稱citric acid cycle或TCA cycle）進行氧化？",
+    "options": {
+      "A": "lactic acid",
+      "B": "acetyl-CoA",
+      "C": "S-adenosylmethionine",
+      "D": "phosphoenolpyruvate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 90 題",
+    "question": "下列何者並非膽固醇（cholesterol）生合成之前驅物？",
+    "options": {
+      "A": "乙酸（acetate）",
+      "B": "異戊二烯（isoprene）",
+      "C": "二氫鞘氨醇（sphinganine）",
+      "D": "鯊烯（squalene）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 91 題",
+    "question": "Carnitine palmitoyl transferases（CPTs）的損壞最可能會導致下列何種物質無法直接進入粒線體中？",
+    "options": {
+      "A": "NADH",
+      "B": "succinyl CoA",
+      "C": "triacylglycerol",
+      "D": "long-chain fatty acids"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 92 題",
+    "question": "關於acetyl-CoA carboxylase在脂肪生成（lipogenesis）中的敘述，下列何者錯誤？",
+    "options": {
+      "A": "催化反應的產物之一為malonyl-CoA",
+      "B": "反應過程需直接消耗NADH",
+      "C": "催化的化學反應為脂肪酸合成的速率限制步驟",
+      "D": "肌肉中AMP上升時，經由活化AMPK，進而抑制acetyl-CoA carboxylase的酵素活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 93 題",
+    "question": "Aspartate-argininosuccinate shunt是代謝胺基酸之重要途徑，其與下列那兩種代謝環之連結有關？",
+    "options": {
+      "A": "citric acid cycle和urea cycle",
+      "B": "urea cycle和Cori cycle",
+      "C": "citric acid cycle和glyoxylate cycle",
+      "D": "glucose-alanine cycle和urea cycle"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 94 題",
+    "question": "下列那個胺基酸的代謝異常是最常導致白化症（albinism）的原因？",
+    "options": {
+      "A": "離胺酸（lysine）",
+      "B": "精胺酸（arginine）",
+      "C": "色胺酸（tryptophan）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 95 題",
+    "question": "下列那一種克式循環（Krebs cycle，亦稱citric acid cycle或TCA cycle）的中間產物可以不經由NADH的產生， 而將其電子直接傳遞給電子傳遞鏈中的複合體II（complex II）進行氧化？",
+    "options": {
+      "A": "succinate",
+      "B": "citrate",
+      "C": "α-ketoglutarate",
+      "D": "malate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 96 題",
+    "question": "粒線體電子傳遞鏈的Complex III主要是把電子傳遞到：",
+    "options": {
+      "A": "cytochrome c",
+      "B": "succinate",
+      "C": "NADH",
+      "D": "ubiquinone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 97 題",
+    "question": "在phosphatidylinositol 3-kinase（PI-3K）訊息傳遞路徑中，下列何者可經由與PIP3（3,4,5-phosphatidylinositol trisphosphate）的結合而被活化？",
+    "options": {
+      "A": "cGMP",
+      "B": "protein kinase B",
+      "C": "protein kinase G",
+      "D": "calmodulin kinase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 98 題",
+    "question": "肌肉細胞的細胞質中，關於鈣離子的敘述下列何者錯誤？",
+    "options": {
+      "A": "細胞內大部分的鈣離子皆與蛋白質結合",
+      "B": "鈣離子濃度在細胞內質網內高於在細胞外液",
+      "C": "鈣離子透過與攜鈣素（calmodulin）結合進而調節多重細胞功能",
+      "D": "鈣離子為次級訊息傳遞者（secondary messenger），其與二醯基甘油（diacylglycerol）對protein kinase C活性 的調節作用是相反的"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 99 題",
+    "question": "下列那一個激素無法促進脂肪細胞（adipocyte）內脂肪的代謝以產生ATP？",
+    "options": {
+      "A": "insulin",
+      "B": "glucagon",
+      "C": "epinephrine",
+      "D": "glucocorticoids"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 100 題",
+    "question": "將重組DNA進行基因定點突變（site-directed mutagenesis）之過程，不需要下列何者？",
+    "options": {
+      "A": "反轉錄酶（reverse transcriptase）",
+      "B": "DNA聚合酶（DNA polymerase）",
+      "C": "deoxyribonucleoside triphosphate",
+      "D": "突變的引子（mutated primers）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

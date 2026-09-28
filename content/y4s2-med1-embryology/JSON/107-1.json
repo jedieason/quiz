@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 32 題",
+    "question": "呼吸器官的原基（respiratory primordium）起源於下列何者的尾端（caudal end）？",
+    "options": {
+      "A": "第一咽囊（pharyngeal pouch）",
+      "B": "第二咽囊（pharyngeal pouch）",
+      "C": "第三咽囊（pharyngeal pouch）",
+      "D": "第四咽囊（pharyngeal pouch）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 33 題",
+    "question": "下列何種器官由前腸（foregut）衍生而來？",
+    "options": {
+      "A": "脾臟（spleen）",
+      "B": "膽囊（gallbladder）",
+      "C": "闌尾（appendix）",
+      "D": "空腸（jejunum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 34 題",
+    "question": "下列何者分泌穆勒氏抑制物（Müllerian inhibiting substance, MIS），使副中腎管（paramesonephric duct） 退化？",
+    "options": {
+      "A": "睪丸支持細胞（Sertoli cell）",
+      "B": "睪丸間質細胞（Leydig cell）",
+      "C": "原始生殖細胞（primordial germ cell）",
+      "D": "濾泡細胞（follicular cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 35 題",
+    "question": "下列那一項構造，位於胚胎之胸心包膜（pleuropericardial membrane）內？",
+    "options": {
+      "A": "膈神經（phrenic nerve）",
+      "B": "肺芽（lung bud）",
+      "C": "背側主動脈（dorsal aorta）",
+      "D": "食道（esophagus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 36 題",
+    "question": "在中樞神經系統的發育中，下列何者是衍生自基板神經母細胞（neuroblasts of basal plates）：",
+    "options": {
+      "A": "背角（dorsal horn）",
+      "B": "下丘（inferior colliculus）",
+      "C": "薄核（gracile nucleus）",
+      "D": "紅核（red nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

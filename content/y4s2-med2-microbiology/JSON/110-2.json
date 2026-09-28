@@ -1,0 +1,213 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 1 題",
+    "question": "患者經電腦斷層掃描發現肝膿瘍（liver abscesses），從膿瘍處培養出一株厭氧性革蘭氏陰性菌，具多形性 （pleomorphic）的形態，此菌會產生一種外毒素（exotoxin）屬於鋅螯合蛋白酶（Zinc metalloprotease）。最可 能是下列何種菌株？",
+    "options": {
+      "A": "痤瘡丙酸桿菌（Propionibacterium acnes）",
+      "B": "動物雙岐桿菌（Bifidobacterium animalis）",
+      "C": "脆弱擬桿菌（Bacteroides fragilis）",
+      "D": "牙齦紫質單胞菌（Porphyromonas gingivalis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 2 題",
+    "question": "下列何種類型的痲瘋病主要會造成臉部損害變形？",
+    "options": {
+      "A": "類結核型痲瘋病（tuberculoid leprosy）",
+      "B": "中間型痲瘋病（intermediate leprosy）",
+      "C": "腫瘤型痲瘋病（lepromatous leprosy）",
+      "D": "丘疹型痲瘋病（papular leprosy）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 3 題",
+    "question": "磺胺類藥物（sulfonamides）能選擇性抑制細菌生長，對哺乳類細胞不具有明顯毒性之原因為：",
+    "options": {
+      "A": "哺乳類細胞無胜肽聚糖結構（peptidoglycan）",
+      "B": "哺乳類細胞膜不含固醇（sterols）",
+      "C": "哺乳類細胞不合成葉酸（folic acid）",
+      "D": "哺乳類細胞具有核糖體（ribosome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 4 題",
+    "question": "下列有關革蘭氏陰性細菌之敘述，何者最適當？",
+    "options": {
+      "A": "不具有胜肽聚醣（Peptidoglycan）之結構",
+      "B": "革蘭氏染色結果呈藍色",
+      "C": "不會產生孢子",
+      "D": "利用有性生殖及無性生殖進行複製"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 5 題",
+    "question": "因突變造成序列出現停止密碼（stop codon）而提早終止蛋白質的合成稱之為：",
+    "options": {
+      "A": "緘默突變（silent mutation）",
+      "B": "無效突變（null mutation）",
+      "C": "無意義突變（nonsense mutation）",
+      "D": "錯義突變（missense mutation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 6 題",
+    "question": "關於斑疹傷寒（Scrub typhus）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "病原菌為Orientia tsutsugamushi",
+      "B": "人類是透過帶菌的體蝨（body louse）叮咬致病",
+      "C": "症狀包括頭疼、發燒、肌肉疼痛、皮疹等",
+      "D": "doxycycline為治療的首選藥物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 7 題",
+    "question": "一位患者隔餐食用放在室溫含有雞蛋的馬鈴薯沙拉，隔天中午開始發燒、腹痛、上吐下瀉，排出的糞便不含 血。下列那一株細菌是最有可能造成食物中毒的原因？",
+    "options": {
+      "A": "痢疾志賀桿菌（Shigella dysenteriae）",
+      "B": "產生志賀毒素的大腸桿菌（Shiga toxin-producing Escherichia coli）",
+      "C": "霍亂弧菌（Vibrio cholerae）",
+      "D": "傷寒沙門氏桿菌（Salmonella Typhi）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 8 題",
+    "question": "下列何種革蘭氏陽性絕對厭氧菌會造成婦女陰道感染？",
+    "options": {
+      "A": "無乳鏈球菌（Streptococcus agalactiae）",
+      "B": "動彎桿菌（Mobiluncus curtisii）",
+      "C": "鬆脆類桿菌（Bacteroides fragilis）",
+      "D": "白色念珠菌（Candida albicans）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 9 題",
+    "question": "下列有關肉毒桿菌毒素（botulinum toxin）之敘述，何者最適當？",
+    "options": {
+      "A": "作用於神經細胞",
+      "B": "造成痙攣性癱瘓（spastic paralysis）",
+      "C": "耐熱性毒素（heat-resistant toxin）",
+      "D": "為革蘭氏陰性菌分泌之外毒素（exotoxin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 10 題",
+    "question": "以細胞學方式鑑定病毒，下列何種病毒感染細胞後會引發細胞融合（syncytia）並形成巨大細胞？",
+    "options": {
+      "A": "腸病毒（enterovirus）",
+      "B": "登革病毒（dengue virus）",
+      "C": "人類免疫缺失病毒（human immunodeficiency virus）",
+      "D": "狂犬病病毒（rabies virus）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 11 題",
+    "question": "下列何種病毒感染最容易引起嬰兒先天性白內障（congenital cataract）之病徵？",
+    "options": {
+      "A": "單純疱疹病毒（herpes simplex virus）",
+      "B": "腸病毒（enterovirus）",
+      "C": "腺病毒（adenovirus）",
+      "D": "德國麻疹病毒（rubella virus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 12 題",
+    "question": "下列病毒，那幾種最可能經由性行為感染？①肝炎病毒A型（HAV） ②單純疱疹病毒（herpes simplex virus） ③茲卡病毒（Zika virus） ④麻疹病毒（measles virus）",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①③"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 13 題",
+    "question": "目前對愛滋病的治療用藥不包含下列何種類型的藥物？",
+    "options": {
+      "A": "Reverse transcriptase inhibitor",
+      "B": "Protease inhibitor",
+      "C": "Integrase inhibitor",
+      "D": "Neuraminidase inhibitor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 14 題",
+    "question": "下列有關副黏液病毒（paramyxovirus）的敘述，何者最適當？",
+    "options": {
+      "A": "病毒基因體（genome）即是mRNA，可以被直接轉譯成蛋白質",
+      "B": "病毒顆粒中並未包裹RNA聚合酶（RNA polymerase）",
+      "C": "病毒感染後引發細胞融合（syncytium）",
+      "D": "在病毒複製過程中，所有病毒蛋白的產量是一致的"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 15 題",
+    "question": "下列何種病毒不屬於小RNA病毒科（Picornaviridae）？",
+    "options": {
+      "A": "A型肝炎病毒（hepatitis A virus）",
+      "B": "腸病毒（enterovirus）",
+      "C": "鼻病毒（rhinovirus）",
+      "D": "冠狀病毒（coronavirus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 16 題",
+    "question": "下列有關絲狀病毒（filovirus）的敘述，何者正確？",
+    "options": {
+      "A": "病毒可經由蝙蝠及猴子感染人類，也可以人傳人",
+      "B": "2018年的伊波拉（Ebola）病毒大流行發生在海地",
+      "C": "病毒基因為正股(+)RNA",
+      "D": "伊波拉（Ebola）病毒的顆粒是子彈型"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 17 題",
+    "question": "關於格特隱球菌（Cryptococcus gattii）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "為具有莢膜（capsule）的酵母菌",
+      "B": "主要的環境棲地（habitat）為尤加利樹（Eucalyptus tree）",
+      "C": "較常感染健全免疫（immunocompetent）的患者",
+      "D": "造成的臨床神經學症狀較輕微"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

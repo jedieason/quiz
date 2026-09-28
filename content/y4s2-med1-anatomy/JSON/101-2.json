@@ -1,0 +1,349 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 1 題",
+    "question": "若病人出現周圍型顏面神經（facial palsy of peripheral type）損傷，且合併同側舌頭前三分之二味覺 喪失，其損傷部位最不可能在：",
+    "options": {
+      "A": "膝狀神經節（geniculate ganglion）附近",
+      "B": "中耳鼓室（tympanic cavity）",
+      "C": "內聽道（internal acoustic meatus）附近",
+      "D": "顏面神經穿過腮腺（parotid gland）處"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 2 題",
+    "question": "頭頸部諸副交感神經之神經節當中解剖位置最後（posterior）者為：",
+    "options": {
+      "A": "下頜下神經節（submandibular ganglion）",
+      "B": "翼腭神經節（pterygopalatine ganglion）",
+      "C": "耳神經節（otic ganglion）",
+      "D": "睫狀神經節（ciliary ganglion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 3 題",
+    "question": "內頸動脈血管瘤壓迫視交叉的左緣，下列何者的視覺最可能缺損？",
+    "options": {
+      "A": "右眼之左視野",
+      "B": "左眼之左視野",
+      "C": "左眼之右視野",
+      "D": "右眼之右視野"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 4 題",
+    "question": "下列有關眼部肌肉之控制，何者錯誤？",
+    "options": {
+      "A": "上瞼板肌（superior tarsal muscle）由動眼神經（oculomotor nerve）支配",
+      "B": "上斜肌（superior oblique muscle）由第四顱神經支配",
+      "C": "張開瞼裂（palpebral fissure）之主要控制神經為第三顱神經",
+      "D": "閉緊瞼裂（palpebral fissure）之主要控制神經為第七顱神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 5 題",
+    "question": "病患舌頭吐出時，偏向左方，下列何者最可能受傷？",
+    "options": {
+      "A": "右側第九顱神經",
+      "B": "右側頦舌肌（genioglossus）",
+      "C": "左側第十二顱神經",
+      "D": "左側第五顱神經第三分支"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 6 題",
+    "question": "肝臟裸區（bare area）的形成與下列何者相關？",
+    "options": {
+      "A": "病變造成",
+      "B": "胃貼近此處",
+      "C": "膽囊貼近此處",
+      "D": "橫膈貼近此處"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 7 題",
+    "question": "在後腹壁，沿薦椎翼（ala）下行，組成薦神經叢的神經為：",
+    "options": {
+      "A": "閉孔神經（obturator nerve）",
+      "B": "股神經（femoral nerve）",
+      "C": "腰薦神經幹（lumbosacral trunk）",
+      "D": "生殖股神經（genitofemoral nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 8 題",
+    "question": "連接椎弓（vertebral arch）與椎體（vertebral body）的骨性結構是：",
+    "options": {
+      "A": "關節突（articular process）",
+      "B": "橫突（transverse process）",
+      "C": "椎板（vertebral lamina）",
+      "D": "椎腳（vertebral pedicle）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 9 題",
+    "question": "通過第三及第四腰椎間的椎間盤的平面為：",
+    "options": {
+      "A": "橫幽門面（transpyloric plane）",
+      "B": "橫臍面（transumbilical plane）",
+      "C": "橫腸骨結節面（transtubercular plane）",
+      "D": "腸骨嵴間面（intercristal plane）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 10 題",
+    "question": "腹膜覆蓋下腹壁動脈（inferior epigastric artery）會形成下列何結構？",
+    "options": {
+      "A": "臍正中襞（median umbilical fold）",
+      "B": "臍內側襞（medial umbilical fold）",
+      "C": "臍外側襞（lateral umbilical fold）",
+      "D": "臍旁襞（paraumbilical fold）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 11 題",
+    "question": "腹股溝管（Inguinal canal）的前壁由下列何者組成？",
+    "options": {
+      "A": "腹外斜肌腱膜（Aponeurosis）",
+      "B": "腹橫肌膜（Fascia transversalis）",
+      "C": "腹內斜肌",
+      "D": "腹橫肌"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 12 題",
+    "question": "下列何項關於胸骨劍突（xiphoid process）的敘述錯誤？",
+    "options": {
+      "A": "其外型因人而異，可尖、可鈍，也可能分枝",
+      "B": "在體表的投射點表示心臟下緣",
+      "C": "在體表的投射點表示肝臟的上界",
+      "D": "相對於第十二胸椎的高度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 13 題",
+    "question": "下列何者不是髂內動脈（internal iliac artery）的分支？",
+    "options": {
+      "A": "閉孔動脈",
+      "B": "直腸上動脈",
+      "C": "直腸中動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 14 題",
+    "question": "下列何者位於輸卵管的外側？",
+    "options": {
+      "A": "懸韌帶",
+      "B": "樞紐韌帶",
+      "C": "卵巢韌帶",
+      "D": "子宮圓韌帶"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 15 題",
+    "question": "下列何者發生阻塞，最不影響輸精管的血液供應？",
+    "options": {
+      "A": "睪丸動脈",
+      "B": "膀胱下動脈",
+      "C": "直腸中動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 16 題",
+    "question": "臀下神經（inferior gluteal nerve）受到壓迫損傷，下列何者會受影響？",
+    "options": {
+      "A": "臀大肌",
+      "B": "臀中肌",
+      "C": "臀小肌",
+      "D": "闊筋膜張肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 17 題",
+    "question": "支配下孖肌（inferior gemellus）的神經受損，下列何者也可能退化萎縮？",
+    "options": {
+      "A": "上孖肌（superior gemellus）",
+      "B": "梨狀肌（piriformis）",
+      "C": "股方肌（quadratus femoris）",
+      "D": "閉孔內肌（obturator internus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 18 題",
+    "question": "直腸中動脈發生阻塞，下列何者最不受影響？",
+    "options": {
+      "A": "膀胱",
+      "B": "陰道",
+      "C": "儲精囊",
+      "D": "前列腺"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 19 題",
+    "question": "下列何者在小腿沒有神經伴行？",
+    "options": {
+      "A": "脛後動脈（posterior tibial artery）",
+      "B": "脛前動脈（anterior tibial artery）",
+      "C": "腓動脈（peroneal artery）",
+      "D": "小隱靜脈（small saphenous vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 20 題",
+    "question": "手肘彎曲時，尺骨頭（head of ulna）與下列何者接觸？",
+    "options": {
+      "A": "尺骨切迹（ulnar notch）",
+      "B": "冠狀窩（coronoid fossa）",
+      "C": "橈骨窩（radial fossa）",
+      "D": "鷹嘴窩（olecranon fossa）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 21 題",
+    "question": "內收肌裂孔（adductor hiatus）為位於下列何者的構造？",
+    "options": {
+      "A": "內收長肌（adductor longus）",
+      "B": "內收短肌（adductor brevis）",
+      "C": "內收大肌（adductor magnus）",
+      "D": "恥骨肌（pectineus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 22 題",
+    "question": "下列關節活動度中，何者最大？",
+    "options": {
+      "A": "第五掌骨（5th metacarpal bone）與其近端指骨間的關節",
+      "B": "第一掌骨（1st metacarpal bone）與其近端指骨間的關節",
+      "C": "第五掌骨（5th metacarpal bone）與腕骨間的關節",
+      "D": "第一掌骨（1st metacarpal bone）與腕骨間的關節"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 23 題",
+    "question": "肩胛骨內緣背翻，無法貼近胸壁，此現象最可能肇因於下列何者之損傷？",
+    "options": {
+      "A": "前鋸肌（serratus anterior）",
+      "B": "斜方肌（trapezius）",
+      "C": "大菱形肌（rhomboid major）",
+      "D": "肩胛提肌（levator scapulae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 24 題",
+    "question": "下列何者穿過內收肌裂孔（adductor hiatus）？",
+    "options": {
+      "A": "深股動脈（deep artery of thigh）",
+      "B": "股神經（femoral nerve）",
+      "C": "隱神經（saphenous nerve）",
+      "D": "膕動脈（popliteal artery）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律 給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 25 題",
+    "question": "內蹠神經（medial plantar nerve）受傷時，最不會影響下列何種動作？",
+    "options": {
+      "A": "腳拇趾內收",
+      "B": "腳拇趾外展",
+      "C": "腳拇趾屈曲",
+      "D": "腳趾屈曲"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 26 題",
+    "question": "下列關於肱動脈的敘述，何者錯誤？",
+    "options": {
+      "A": "肱動脈位在手臂內側，肱三頭肌及肱肌的前面",
+      "B": "與腋神經伴行的深肱動脈為肱動脈的分支",
+      "C": "腋動脈通過大圓肌下緣後稱為肱動脈",
+      "D": "肱動脈在手臂與正中神經伴行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 27 題",
+    "question": "下列何者的力量不足，最可能造成咳嗽時漏尿之現象？",
+    "options": {
+      "A": "梨狀肌",
+      "B": "臀大肌",
+      "C": "提肛肌",
+      "D": "閉孔內肌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 28 題",
+    "question": "青春期前，大部分的胸腺位在下列何處？",
+    "options": {
+      "A": "上縱膈腔",
+      "B": "前縱膈腔",
+      "C": "中縱膈腔",
+      "D": "後縱膈腔"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

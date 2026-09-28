@@ -1,0 +1,260 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 42 題",
+    "question": "傷寒桿菌（Salmonella Typhi）的重要毒力因素，也被用以製成疫苗的Vi 抗原所含的成分是：",
+    "options": {
+      "A": "溶血素（hemolysin）",
+      "B": "莢膜多糖體（capsular polysaccharides）",
+      "C": "胜肽聚糖（peptidoglycan）",
+      "D": "鞭毛素（flagellin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 43 題",
+    "question": "臨床上患者呈現「Strawberry tongne」之特徵很可能是感染下列何種疾病？",
+    "options": {
+      "A": "Scarlet fever",
+      "B": "Streptococcal toxin shock syndrome",
+      "C": "Staphylococcal toxin shock syndrome",
+      "D": "Rheumatic fever"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 44 題",
+    "question": "關於細菌基因形成operon 的敘述，何者錯誤？",
+    "options": {
+      "A": "通常由數個相關基因組成",
+      "B": "由一個promoter 控制轉錄",
+      "C": "轉錄時不能同時進行基因的轉譯",
+      "D": "轉錄之RNA 通常包含數個基因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 45 題",
+    "question": "下列何者對於預防外傷病人發生破傷風（tetanus）和氣性壞疽（gas gangrene）均極重要？",
+    "options": {
+      "A": "給予抗毒素",
+      "B": "送入高壓氧艙",
+      "C": "清除壞死組織",
+      "D": "給予疫苗"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 46 題",
+    "question": "下列關於Bacillus anthracis 感染的敘述，何者錯誤？",
+    "options": {
+      "A": "經由皮膚感染是人類最罕見的傳染方式",
+      "B": "在草食性動物最常見的感染途徑是食入孢子",
+      "C": "吸入性傳染是在畜牧業從業人員常見的感染途徑",
+      "D": "生化武器攻擊最常用的是吸入性的感染途徑"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 47 題",
+    "question": "某國小爆發數十名學童先後在5 日內發生下痢的事件，症狀包含腹瀉、發燒、嘔吐、裏急後重（tenesmus）。 由其中十多名患者的糞便中及該校師生用來洗手的地下水中，分離出一株不發酵乳糖、無運動性之 腸內桿菌科（Enterobacteriaceae）細菌。衛生單位對患者施以居家隔離，消毒地下水，並對全校師生 投予抗生素後，疫情幸未再擴大。下列菌屬中，何者最有可能是造成此次事件的元兇？",
+    "options": {
+      "A": "埃希氏菌屬（Escherichia）",
+      "B": "沙門氏菌屬（Salmonella）",
+      "C": "志賀氏菌屬（Shigella）",
+      "D": "耶爾辛氏菌屬（Yersinia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 48 題",
+    "question": "【背景題幹：某國小爆發數十名學童先後在5 日內發生下痢的事件，症狀包含腹瀉、發燒、嘔吐、裏急後重（tenesmus）。 由其中十多名患者的糞便中及該校師生用來洗手的地下水中，分離出一株不發酵乳糖、無運動性之 腸內桿菌科（Enterobacteriaceae）細菌。衛生單位對患者施以居家隔離，消毒地下水，並對全校師生 投予抗生素後，疫情幸未再擴大。下列菌屬中，何者最有可能是造成此次事件的元兇？】\n承上題，下列有關此菌屬的敘述，何者錯誤？",
+    "options": {
+      "A": "能造成吞噬細胞之凋亡（apoptosis）",
+      "B": "人類是唯一的貯存宿主（reservoir）",
+      "C": "易侵入病人血液，造成敗血症（sepsis）",
+      "D": "常藉由人與人直接接觸而散播"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 49 題",
+    "question": "一人因胃部疼痛而求診，內視鏡檢查發現是胃潰瘍，經採胃部切片檢驗後發現為幽門桿菌感染，因 此醫師開了三種抗生素給患者服用，其一是clarithromycin。此抗生素之主要作用機轉為何？",
+    "options": {
+      "A": "抑制該菌之細胞壁合成",
+      "B": "抑制該菌之核酸合成",
+      "C": "抑制該菌之蛋白質合成",
+      "D": "抑制該菌之細胞膜合成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 50 題",
+    "question": "一位70 歲老先生，平常有抽菸的習慣，有經常性的咳嗽，直到日前咳嗽加劇且痰液變黃，並伴隨高 燒、寒顫、腹瀉、全身痠痛疲倦等症狀。一開始到一般診所就診，初步診斷為急性支氣管炎，服藥 後病情不但沒改善，反而加重變成了神智不清；後來轉送到大醫院住院。經檢查後，醫師告知是為 嗜肺性退伍軍人菌（Legionella pneumophila）感染之「退伍軍人症」。下列相關敘述，何者錯誤？",
+    "options": {
+      "A": "該致病菌是一種好氧的革蘭氏陰性桿菌",
+      "B": "水是該致病菌的天然生長處",
+      "C": "院內感染來源可能來自於空調系統的冷卻水塔",
+      "D": "該菌主要藉人與人之間互相傳染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 51 題",
+    "question": "單純疱疹病毒（Herpes simplex virus）之治療藥物樂威素（Acyclovir），其抑制病毒複製之機轉為何？",
+    "options": {
+      "A": "阻止病毒胸腺激酶（thymidine kinase）作用",
+      "B": "阻止病毒DNA 之複製",
+      "C": "阻止病毒附著於寄主細胞上",
+      "D": "阻止病毒之解體（uncoating）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 52 題",
+    "question": "HIV-1 經由黏膜感染進入人體時，主要藉由何種細胞攜帶進入淋巴結？",
+    "options": {
+      "A": "NK cell",
+      "B": "CD8 T cell",
+      "C": "Dendritic cell",
+      "D": "CD4 T cell"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 53 題",
+    "question": "下列那一種疾病不是由Epstein-Barr 病毒（EBV）引起的？",
+    "options": {
+      "A": "毛狀口腔白斑病（Hairy oral leukoplakia）",
+      "B": "角膜結膜炎（Keratoconjunctivitis）",
+      "C": "傳染性單核球增多症（Infectious mononucleosis）",
+      "D": "伯奇氏淋巴瘤（Burkitt lymphoma）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 54 題",
+    "question": "下列那一病毒感染，不經由抑制寄主腫瘤抑制基因之功能形成腫瘤？",
+    "options": {
+      "A": "腺病毒（Adenovirus）",
+      "B": "人類嗜T 淋巴球病毒（HTLV-1）",
+      "C": "人類乳突病毒（HPV）",
+      "D": "多瘤病毒（SV40）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 55 題",
+    "question": "一位有多位性伴侶之少女在陰道出現潰瘍性瘡傷，並有發癢、疼痛、排尿困難及全身性症狀，並持 續發燒10 天左右，Papanicolaou（Pap）抹片檢查顯示多核巨大細胞（syncytia）及Cowdry A 型包涵 體，此少女之病徵是由何病毒感染所引起的？",
+    "options": {
+      "A": "單純疱疹病毒（Herpes simplex virus）",
+      "B": "人類乳突病毒（HPV）",
+      "C": "細小病毒B19（Parvovirus B19）",
+      "D": "德國麻疹病毒（Rubella virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 56 題",
+    "question": "某醫院育嬰室之25 歲護士，回家後出現流鼻水、輕微咳嗽及稍微發燒現象，此狀況延續了數天，咳 嗽變的更嚴重，並發出“吠”的聲音，激動時會有喘鳴聲。除此之外，該護士看來無異樣，除了一直 咳嗽，經X 光檢查發現頸部內下聲門明顯變窄。此症狀由下列何種病毒感染所引起？",
+    "options": {
+      "A": "副流行性感冒病毒（Parainfluenza virus）",
+      "B": "流行性感冒病毒（Influenza virus）",
+      "C": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "D": "鼻病毒（Rhinovirus）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均 給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 57 題",
+    "question": "構成真菌細胞壁之主要成分為何？",
+    "options": {
+      "A": "幾丁質（Chitin）以及α-1-4-葡萄聚醣（α-1-4-glucan）",
+      "B": "幾丁質以及β-1-3-葡萄聚醣（β-1-3-glucan）",
+      "C": "肽醣（Peptidoglycan）以及β-1-4-葡萄聚醣",
+      "D": "幾丁質以及α-1-6-葡萄聚醣（α-1-6-glucan）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 58 題",
+    "question": "Azoles 抗真菌藥物，由構造上可分成Imidazoles 及Triazoles 兩大類。下列何者屬於Imidazoles？",
+    "options": {
+      "A": "Fluconazole",
+      "B": "Ketoconazole",
+      "C": "Itraconazole",
+      "D": "Voriconazole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 59 題",
+    "question": "一位微生物實驗室助理吳小姐25 歲，右手食指指甲發展成類似灰指甲（Onychomycosis）症狀有6 個月，但感染指甲周邊皮膚並沒有脫皮、起水泡或搔癢。吳小姐自小學起就有咬指甲之習慣，最近發現 指甲變得很醜，於是到醫院皮膚科就診。皮膚科醫師以指甲剪取樣，其中一部分在門診以10% KOH 處 理並且以顯微鏡觀察，結果顯示指甲中有酵母菌（Yeast）、及長短不一之菌絲（Hyphae）。兩星期 後指甲培養之結果出來，感染之病原菌很可能是一種平滑（Smooth）菌落、乳白色（Creamy）、出 芽型酵母菌（Budding yeast）；有假菌絲（Pseudohyphae）及芽管（Germ tube）產生，PCR 分析也 證明該菌之種類。於是醫師就開Terbinafine 口服處方，兩個月後吳小姐的指甲也就復原。該菌最可 能是下列那一病原？",
+    "options": {
+      "A": "Trichophyton rubrum",
+      "B": "Epidermophyton floccosum",
+      "C": "Microsporum canis",
+      "D": "Candida albicans"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 60 題",
+    "question": "下列那一類抗生素是藉由干擾細菌RNA 合成的機制，且可用來治療結核桿菌及痲瘋分枝桿菌的感染， 但口服後尿液會呈橘紅色？",
+    "options": {
+      "A": "isoniazid",
+      "B": "ethionamide",
+      "C": "cycloserine",
+      "D": "rifampin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 61 題",
+    "question": "下列何種疾病之病原菌非藉由節肢動物為傳播媒介？",
+    "options": {
+      "A": "萊姆病（Lyme disease）",
+      "B": "梅毒（Syphilis）",
+      "C": "落磯山斑疹熱（Rocky mountain spotted fever）",
+      "D": "斑疹傷寒（Murine endemic typhus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

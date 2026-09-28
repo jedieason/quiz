@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 75 題",
+    "question": "下列何種人體寄生蟲具有腸道自體感染（intestinal autoinfection）的現象？",
+    "options": {
+      "A": "蛔蟲（Ascaris lumbricoides）",
+      "B": "糞小桿線蟲（Strongyloides stercoralis）",
+      "C": "美洲鉤蟲（Necator americanus）",
+      "D": "鞭蟲（Trichuris trichiura）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 76 題",
+    "question": "蠕蟲類寄生蟲之敘述，下列何者正確？",
+    "options": {
+      "A": "組織之蠕蟲感染，大多會有嗜伊紅性白血球增高現象",
+      "B": "它常在人體內繁殖，造成嚴重病害",
+      "C": "只有寄生在腸道之寄生蟲，其蟲卵可由糞便中發現",
+      "D": "可分泌血球分解酵素而造成病害，如日本血吸蟲"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 77 題",
+    "question": "下列關於梨形鞭毛蟲之敘述，何者錯誤？",
+    "options": {
+      "A": "滋養體（trophozoite）具兩個細胞核，藉吸盤（sucking disk）附著於小腸絨毛上",
+      "B": "目前治療梨形鞭毛蟲症的首選用藥為metronidazole",
+      "C": "野外露營如果無法煮沸飲水，可利用碘液處理方式殺死水中的囊體",
+      "D": "自來水廠的過濾及一般殺菌的氯處理方式即可消滅水中的囊體"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 78 題",
+    "question": "以實驗室飼養之未被感染的錐鼻蟲（reduviid bugs）吸食病人的血液作動物接種試驗（xenodiagnosis）， 常用來診斷下列何種感染症？",
+    "options": {
+      "A": "瘧疾（malaria）",
+      "B": "非洲睡眠病（sleeping sickness）",
+      "C": "恰加斯氏病（Chagas’ disease）",
+      "D": "弓蟲症（toxoplasmosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 79 題",
+    "question": "下列有關黑寡婦毒蜘蛛（Latrodectus mactans）之敘述，何者錯誤？",
+    "options": {
+      "A": "無論雄性或雌性黑寡婦毒蜘蛛都會叮咬人類，造成傷害",
+      "B": "α-Latrotoxin 是黑寡婦毒蜘蛛毒素的主要成分",
+      "C": "Latrotoxin 主要作用於neuromuscular junction，使乙醯膽鹼快速大量釋放，結果會引起肌肉過度去 極化，造成肌肉痙攣",
+      "D": "現已有抗毒血清，約在注射後10～20 分鐘內便有顯著之效果"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 80 題",
+    "question": "某君到非洲旅遊回來一段時間後因皮下潰瘍經診斷為感染麥地那蟲（Dracunculus medinensis），該 君最可能是如何被感染的呢？",
+    "options": {
+      "A": "被斑虻（Chrysops）叮咬",
+      "B": "被幼蟲鑽進而感染",
+      "C": "喝到感染劍水蚤的水",
+      "D": "吃到沒有煮熟的蛇肉"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 81 題",
+    "question": "人類感染下列那些絛蟲時，無法以糞便檢查做為診斷方法？①廣節裂頭絛蟲（Diphyllobothrium latum） ②曼森裂頭絛蟲（Spirometra mansonoides） ③犬複殖器絛蟲（Dipylidium caninum） ④顆粒性包 生絛蟲（Echinococcus granulosus）",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 82 題",
+    "question": "人體罹患巴貝氏原蟲症（babesiosis）是因受何種節肢動物叮咬而感染？",
+    "options": {
+      "A": "體蝨（body louse）",
+      "B": "臭蟲（bedbug）",
+      "C": "恙蟎（chigger）",
+      "D": "蜱（tick）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

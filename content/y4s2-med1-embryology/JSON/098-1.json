@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 29 題",
+    "question": "下列何構造是由內胚層細胞衍生而成？",
+    "options": {
+      "A": "背根神經節",
+      "B": "腎上腺髓質",
+      "C": "牙齒之琺瑯質",
+      "D": "呼吸道之內襯上皮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 30 題",
+    "question": "下列何者代表舌頭形成的第一個象徵？",
+    "options": {
+      "A": "鰓弓下隆起（Hypobranchial eminence）",
+      "B": "外側舌芽（Lateral tongue bud）",
+      "C": "中央舌芽（Median tongue bud）",
+      "D": "連合部（Copula）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 31 題",
+    "question": "胎兒肺臟發育晚期之肺泡期（alveolar period）中，末端小囊（terminal saccule）相當於下列何種結構？",
+    "options": {
+      "A": "細支氣管（bronchiole）",
+      "B": "肺泡（Alveolus）",
+      "C": "肺泡孔（Alveolar pore）",
+      "D": "肺泡管（Alveolar duct）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 32 題",
+    "question": "下列何者最有可能引起白內障（cataract）、心臟缺陷及耳聾等先天性異常現象？",
+    "options": {
+      "A": "德國麻疹病毒（rubella virus）",
+      "B": "巨細胞病毒（cytomegalovirus）",
+      "C": "弓漿蟲（Taxoplasma gondii）",
+      "D": "梅毒螺旋體（Treponema phallidum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

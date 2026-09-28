@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 51 題",
+    "question": "下列有關新藥臨床試驗之敘述，何者錯誤？",
+    "options": {
+      "A": "臨床一期試驗一般情況下不納入病人，旨在檢驗人體對試驗藥物之最大容忍安全劑量",
+      "B": "臨床二期試驗納入病人，旨在檢驗藥物的功效，不需與現行臨床使用的有效藥物做比較",
+      "C": "臨床三期試驗納入較多病人，大都只採用單一藥物劑量",
+      "D": "臨床四期試驗在藥物上市後才開始"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 52 題",
+    "question": "下列關於trimethoprim與sulfamethoxazole（TMP-SMZ）之敘述，何者正確？",
+    "options": {
+      "A": "皆能抑制二氫蝶酸合成酶（dihydropteroate synthase）以阻斷DNA合成",
+      "B": "TMP：SMZ=1：5配方是因為TMP脂溶性較高",
+      "C": "可使用在泌尿道感染，但無法用於治療肺囊蟲肺炎（P jirovecii pneumonia）",
+      "D": "TMP-SMZ藥物的多數副作用主要來自於TMP"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 53 題",
+    "question": "下列有關抗癌藥oxaliplatin之敘述，何者錯誤？",
+    "options": {
+      "A": "病人對carboplatin產生抗藥性時，對oxaliplatin也會產生交叉抗藥性（cross-resistance）",
+      "B": "為FOLFOX合併用藥之一，可治療轉移性大腸直腸癌",
+      "C": "主要的劑量限制毒性（dose-limiting toxicity）為產生神經毒性",
+      "D": "可用於治療實質固態瘤（solid tumor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 54 題",
+    "question": "下列癌症標靶治療藥物（targeted anticancer agents）與其機轉配對，何者正確？",
+    "options": {
+      "A": "carfilzomib—抑制Bcr-Abl tyrosine kinase的活性",
+      "B": "dasatinib—抑制26S proteosome的活性",
+      "C": "lapatinib—抑制PI3K的活性",
+      "D": "sunitinib—抑制VEGFR的活性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 55 題",
+    "question": "下列藥物中，何者可抑制黴菌的squalene epoxidase，使sterol squalene堆積於菌體內而達殺菌作用？",
+    "options": {
+      "A": "griseofulvin",
+      "B": "nystatin",
+      "C": "terbinafine",
+      "D": "voriconazole"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 56 題",
+    "question": "下列藥物中，何者主要與活化態淋巴球表面之CD25結合，而拮抗IL-2受體，可用於預防腎臟移植患者發生急 性器官排斥？",
+    "options": {
+      "A": "basiliximab",
+      "B": "canakinumab",
+      "C": "dupilumab",
+      "D": "omalizumab"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 57 題",
+    "question": "下列藥物中，何者能促進plasminogen活化形成plasmin，以促進血栓分解？",
+    "options": {
+      "A": "bivalirudin",
+      "B": "tenecteplase",
+      "C": "apixaban",
+      "D": "vorapaxar"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 58 題",
+    "question": "下列何種降血脂藥，可藉由抑制microsomal triglyceride transfer protein（MTP），而阻斷肝臟生成及 釋放VLDL？",
+    "options": {
+      "A": "lomitapide",
+      "B": "cholestyramine",
+      "C": "fenofibrate",
+      "D": "mipomersen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 59 題",
+    "question": "碘-131（131I）常用於治療甲狀腺毒症（thyrotoxicosis），下列關於此藥之敘述，何者錯誤？",
+    "options": {
+      "A": "釋放β射線，破壞甲狀腺組織",
+      "B": "孕婦禁用",
+      "C": "哺餵母乳婦女可以減量使用",
+      "D": "併用potassium iodide會降低其療效"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 60 題",
+    "question": "下列何者為醛固酮拮抗劑（aldosterone antagonist），可用於治療高血壓和心肌梗塞後之心衰竭？",
+    "options": {
+      "A": "eplerenone",
+      "B": "etoposide",
+      "C": "mestranol",
+      "D": "oxandrolone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 61 題",
+    "question": "下列降血糖藥與作用機轉的配對，何者錯誤？",
+    "options": {
+      "A": "pioglitazone—peroxisome proliferator-activated receptor gamma（PPAR-γ）agonist",
+      "B": "metformin—AMP-activated protein kinase（AMPK）activator",
+      "C": "exenatide—glucagon-like peptide-1（GLP-1）receptor agonist",
+      "D": "empagliflozin—sodium-glucose co-transporter 2（SGLT2）activator"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 62 題",
+    "question": "下列何種利尿劑，高血鉀病患不宜使用？",
+    "options": {
+      "A": "amiloride",
+      "B": "metolazone",
+      "C": "indapamide",
+      "D": "bumetanide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 63 題",
+    "question": "下列藥物中，何者為phosphodiesterase type 3之抑制劑，可用於治療心衰竭？",
+    "options": {
+      "A": "empagliflozin",
+      "B": "tadalafil",
+      "C": "riociguat",
+      "D": "milrinone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 64 題",
+    "question": "下列降血壓藥物中，何者最容易引起反射性心律加快（reflex tachycardia）的現象？",
+    "options": {
+      "A": "carvedilol",
+      "B": "diltiazem",
+      "C": "nifedipine",
+      "D": "propranolol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 65 題",
+    "question": "Atropine過量時，最不容易出現下列何種情況？",
+    "options": {
+      "A": "心跳加快",
+      "B": "唾液大量分泌",
+      "C": "瞳孔放大",
+      "D": "尿液滯留"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 66 題",
+    "question": "使用dopamine靜脈輸注時，最不會產生下列何種作用？",
+    "options": {
+      "A": "活化D1 receptor達到利鈉（natriuresis）效果",
+      "B": "活化D2 receptor加快腸蠕動",
+      "C": "活化β1 adrenergic receptor加快心跳",
+      "D": "活化α1 adrenergic receptor提升血壓"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 67 題",
+    "question": "下列何種藥物用於治療氣喘發作時，最需監測血中濃度，以避免產生噁心、嘔吐和心律不整副作用？",
+    "options": {
+      "A": "ipratropium",
+      "B": "corticosteroid",
+      "C": "theophylline",
+      "D": "albuterol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 68 題",
+    "question": "下列鴉片類藥物loperamide與diphenoxylate之比較，何者正確？",
+    "options": {
+      "A": "兩者皆具有耐藥性（tolerance）",
+      "B": "兩者皆可通過血腦屏障（blood-brain barrier）",
+      "C": "長期使用時，兩者皆有成癮性（addiction）",
+      "D": "兩者皆不具止痛作用（analgesia）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 69 題",
+    "question": "Sumatriptan治療偏頭痛的作用機制為何？",
+    "options": {
+      "A": "阻斷血管平滑肌的鈣離子通道使血管舒張",
+      "B": "抑制環氧酶（cyclooxygenase）而減少前列腺素生成",
+      "C": "拮抗血清素（serotonin）受體，以減少神經末梢釋放血管舒張物質",
+      "D": "產生直接血管收縮作用，且減少對痛覺神經末梢的刺激"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 70 題",
+    "question": "下列藥物何者是前列腺素的衍生物，具有子宮平滑肌收縮作用，臨床上可用來引產？",
+    "options": {
+      "A": "oxytocin",
+      "B": "dinoprostone",
+      "C": "ergonovine",
+      "D": "fasudil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 71 題",
+    "question": "下列關於非固醇類抗發炎藥（NSAIDs）之敘述，何者錯誤？",
+    "options": {
+      "A": "降低血管對緩激肽（bradykinin）和組織胺（histamine）的敏感性",
+      "B": "重複給藥後，藥物可出現於關節滑液（synovial fluid）中，以治療關節炎",
+      "C": "藥物會增強發炎所導致的血管舒張作用",
+      "D": "選擇性COX-2抑制劑會增加水腫、高血壓或心肌梗塞的發生率"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 72 題",
+    "question": "下列有關局部麻醉劑的敘述，何者錯誤？",
+    "options": {
+      "A": "lidocaine的作用是抑制sodium channels",
+      "B": "bupivacaine的作用是興奮opioid receptors",
+      "C": "cocaine會產生血管收縮的效果",
+      "D": "benzocaine會產生methemoglobinemia的副作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 73 題",
+    "question": "請排序下列抗憂鬱藥物（antidepressants）的分類，依序為selective serotonin reuptake inhibitor、 serotonin-norepinephrine reuptake inhibitor、tricyclic antidepressant及unicyclic antidepressant：",
+    "options": {
+      "A": "citalopram、duloxetine、imipramine、bupropion",
+      "B": "duloxetine、citalopram、bupropion、imipramine",
+      "C": "citalopram、imipramine、duloxetine、bupropion",
+      "D": "duloxetine、bupropion、imipramine、citalopram"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 74 題",
+    "question": "下列何者為鴉片衍生物，具有明顯止咳作用，且最不具有成癮性？",
+    "options": {
+      "A": "methadone",
+      "B": "dextromethorphan",
+      "C": "codeine",
+      "D": "loperamide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 75 題",
+    "question": "下列藥物中，何者可抑制alcohol dehydrogenase，用於治療甲醇中毒？",
+    "options": {
+      "A": "flumazenil",
+      "B": "fomepizole",
+      "C": "pralidoxime",
+      "D": "physostigmine"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 76 題",
+    "question": "大腦梗塞數月後，電腦斷層出現4公分囊性（cystic）區域，該處最可能發生何種病理變化？",
+    "options": {
+      "A": "液化壞死（liquefactive necrosis）",
+      "B": "凝固性壞死（coagulative necrosis）",
+      "C": "乾酪性壞死（caseous necrosis）",
+      "D": "凋亡（apoptosis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 77 題",
+    "question": "組織纖維化（fibrosis），與下列何者最有關？",
+    "options": {
+      "A": "transforming growth factor-β",
+      "B": "interleukin-1",
+      "C": "selectin",
+      "D": "histamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 78 題",
+    "question": "下列病毒中，何者引起的主要臨床表徵是因其會造成潛伏感染（latent infection），感染並潛藏在感覺神經元 細胞內所致？①單純疱疹病毒（Herpes simplex virus） ②脊髓灰質炎病毒（Poliovirus） ③水痘帶狀皰疹病 毒（Varicella zoster virus）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 79 題",
+    "question": "象腿症（elephantiasis）最可能出現於：",
+    "options": {
+      "A": "猩紅熱（scarlet fever）",
+      "B": "弓漿蟲病（toxoplasmosis）",
+      "C": "膿痂疹（impetigo）",
+      "D": "絲蟲病（filariasis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 80 題",
+    "question": "下列惡性腫瘤之細胞形態特徵，何者最不可能出現在良性細胞？",
+    "options": {
+      "A": "Atypical mitoses",
+      "B": "High nuclear/cytoplasmic ratio",
+      "C": "Hyperchromasia",
+      "D": "Pleomorphism"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 81 題",
+    "question": "在心肌病變（cardiomyopathy）以心臟收縮功能障礙（systolic dysfunction）為主要致病機制的疾病中，下列何 者是可能的致病原因？①酒精成癮 ②doxorubicin 治療 ③TTN基因突變 ④類澱粉沉積（amyloidosis）",
+    "options": {
+      "A": "僅①②",
+      "B": "①②③",
+      "C": "僅②③",
+      "D": "僅③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 82 題",
+    "question": "下列何種疾病通常會增加部分凝血活酶時間（partial thromboplastin time）？①A型血友病（Hemophilia A）  ②栓塞性血小板低下紫斑（Thrombotic thrombocytopenic purpura） ③Von Willebrand disease ④Glanzmann thrombasthenia",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅①④",
+      "D": "①③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 83 題",
+    "question": "胸腺的淋巴濾泡增生（thymic follicular hyperplasia）最常見於何種疾病？",
+    "options": {
+      "A": "類風濕性關節炎（rheumatoid arthritis）",
+      "B": "重症肌無力（myasthenia gravis）",
+      "C": "葛瑞夫茲病（Graves disease）",
+      "D": "硬皮症（scleroderma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 84 題",
+    "question": "下列何種腫瘤，最常併發純紅血球再生不良（pure red cell aplasia）？",
+    "options": {
+      "A": "畸胎瘤（teratoma）",
+      "B": "胸腺瘤（thymoma）",
+      "C": "腦膜瘤（meningioma）",
+      "D": "生殖細胞瘤（germinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 85 題",
+    "question": "下列那一種貧血與藥物之使用最不相關？",
+    "options": {
+      "A": "葡萄糖-6-磷酸脫氫酶（glucose-6-phosphate dehydrogenase, G6PD）缺乏併發貧血",
+      "B": "大球性貧血（macrocytic anemia）",
+      "C": "再生不良性貧血（aplastic anemia）",
+      "D": "小球性貧血（microcytic anemia）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 86 題",
+    "question": "45歲以下，不抽菸的年輕女性，下列何者是最常見的原發性肺癌？",
+    "options": {
+      "A": "鱗狀細胞癌（squamous cell carcinoma）",
+      "B": "腺癌（adenocarcinoma）",
+      "C": "小細胞癌（small cell carcinoma）",
+      "D": "大細胞癌（large cell carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 87 題",
+    "question": "下列何者不屬於瀰漫性阻塞性肺疾病？",
+    "options": {
+      "A": "肺氣腫（emphysema）",
+      "B": "慢性支氣管炎（chronic bronchitis）",
+      "C": "支氣管擴張（bronchiectasis）",
+      "D": "急性呼吸窘迫症候群（ARDS）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 88 題",
+    "question": "下列有關氣喘的敘述，何者最不適當？",
+    "options": {
+      "A": "與第二型輔助T細胞（TH2 cells）活化有關",
+      "B": "屬於第二型過敏反應",
+      "C": "可見到嗜酸性白血球增加",
+      "D": "支氣管黏液中有Curschmann spirals"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 89 題",
+    "question": "下列何者不是常見的造成急性胰臟炎的原因？",
+    "options": {
+      "A": "酗酒",
+      "B": "胰管阻塞",
+      "C": "高三酸甘油脂血症",
+      "D": "低血鈣"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 90 題",
+    "question": "有關唾液腺腫瘤的敘述，下列何者最不適當？",
+    "options": {
+      "A": "多形性腺瘤（pleomorphic adenoma）是最常見的唾液腺良性腫瘤",
+      "B": "鱗狀細胞癌（squamous cell carcinoma）是最常見的唾液腺惡性腫瘤",
+      "C": "黏液表皮樣癌（mucoepidermoid carcinoma）常見MAML2的基因轉位",
+      "D": "腺樣囊狀癌（adenoid cystic carcinoma）常可見神經周圍侵犯（perineural invasion）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 91 題",
+    "question": "60歲男性發現右耳前、下頜骨（mandible）上方有一圓形界線明顯的腫瘤，手術切下腫瘤在顯微鏡下可見狹 窄的囊狀裂縫上覆蓋兩層上皮細胞，並有豐富的淋巴細胞，局部區域出現淋巴生成中心（germinal center）， 下列關於此腫瘤之敘述，何者最不適當？",
+    "options": {
+      "A": "最常發生在腮腺",
+      "B": "約10%為雙側性",
+      "C": "具有明顯上皮及間質的分化，常出現軟骨樣的物質",
+      "D": "抽菸者罹患比率較非吸菸者高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 92 題",
+    "question": "Brunn巢（Brunn nests）最常位於膀胱的那一部位？",
+    "options": {
+      "A": "固有層",
+      "B": "內層肌肉",
+      "C": "外層肌肉",
+      "D": "外膜層"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 93 題",
+    "question": "腎臟之血管平滑肌脂肪瘤（angiomyolipoma）之重要臨床意義在於：",
+    "options": {
+      "A": "有25%左右的腫瘤在5至10年後會有惡性轉變",
+      "B": "易發生自發性出血",
+      "C": "早期便出現腎衰竭",
+      "D": "一半以上之散發性病例為雙側性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 94 題",
+    "question": "關於腦下垂體腺瘤之敘述，下列何者最適當？",
+    "options": {
+      "A": "如有腫瘤細胞浸潤至腦組織則可診斷為腦下垂體癌",
+      "B": "相較於正常垂體，腫瘤中含明顯的網狀纖維",
+      "C": "細胞的形態學變化是判斷腫瘤的良惡性極為可靠的指標",
+      "D": "體積較大的腫瘤常出現腫瘤內出血及壞死"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 95 題",
+    "question": "下列有關子宮內膜異位症（endometriosis）敘述， 何者最不適當？",
+    "options": {
+      "A": "子宮內膜異位症是指異位性（ectopic）子宮內膜組織出現於子宮外的位置",
+      "B": "子宮內膜異位症最常見的位置是卵巢",
+      "C": "子宮內膜異位症會增加不孕症的發生",
+      "D": "和子宮內膜異位症有關的卵巢癌主要是漿液性癌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 96 題",
+    "question": "有關源於子宮肌層的腫瘤（tumors of myometrium），下列敘述何者最不適當？",
+    "options": {
+      "A": "最常見的腫瘤為平滑肌瘤（leiomyoma）",
+      "B": "大部分的平滑肌瘤具有異常且複雜的染色體核型（karyotype）",
+      "C": "大部分的平滑肌瘤具有MED12基因的基因突變",
+      "D": "平滑肌瘤（leiomyoma）很少惡性轉化成平滑肌肉瘤（leiomyosarcoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 97 題",
+    "question": "下列有關卵巢亮細胞癌（clear cell carcinoma）的敘述， 何者最不適當？",
+    "options": {
+      "A": "良性（benign）或交界性（borderline tumor）卵巢亮細胞腫瘤比亮細胞癌常見",
+      "B": "治療與其他卵巢上皮癌相似",
+      "C": "常見的基因改變與子宮內膜樣癌（endometrioid carcinoma）相似",
+      "D": "晚期病人預後相當不好"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 98 題",
+    "question": "下列何種感染較不會引起周邊神經病變？",
+    "options": {
+      "A": "結核分枝桿菌（Mycobacterium tuberculosis）",
+      "B": "白喉（diphtheria）",
+      "C": "水痘–帶狀皰疹（varicella-zoster）",
+      "D": "痲瘋（leprosy）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 99 題",
+    "question": "對於第三、第四級星狀神經膠細胞瘤（astrocytoma, WHO grade III-IV）患者而言 ，下列何種基因突變相較於 wild-type具有較好之存活率？",
+    "options": {
+      "A": "NF1",
+      "B": "TP53",
+      "C": "IDH1",
+      "D": "EGFR"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 100 題",
+    "question": "45歲女性被發現有多顆腦瘤，切片檢查時，病理醫師施以thyroid transcription factor 1（TTF-1）免疫組織化 學染色，其目的是想了解：",
+    "options": {
+      "A": "是良性或惡性",
+      "B": "腫瘤細胞分裂的快慢",
+      "C": "是否肺腺癌轉移",
+      "D": "是否為非上皮性腫瘤"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

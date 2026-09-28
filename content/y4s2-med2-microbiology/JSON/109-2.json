@@ -1,0 +1,209 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 1 題",
+    "question": "在12月中旬，一位5歲男童出現發燒、頭痛、喉嚨痛、流鼻水、打噴嚏、無痰性乾咳、肌肉痛不舒服等症狀， 病情持續4天沒有好轉，卻進一步發展為細菌性肺炎（pneumonia）及肌炎（myositis），與該男童同住之家人 一星期後亦出現類似症狀，此男童最可能受下列何種病原感染？",
+    "options": {
+      "A": "麻疹病毒（Measles virus）",
+      "B": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "C": "流行性感冒病毒（Influenza virus）",
+      "D": "腸病毒71型（Enterovirus 71）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 2 題",
+    "question": "診斷結核分枝桿菌（Mycobacterium tuberculosis）感染症時，DNA技術（DNA technologies）與傳統培養法比 較，其優點不包括下列何者？",
+    "options": {
+      "A": "增加鑑定菌種之專一性",
+      "B": "敏感度較高",
+      "C": "可快速診斷",
+      "D": "可以精確且完整判讀對抗生素的抗藥性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 3 題",
+    "question": "有關B級β-內酰胺酶（class B β-lactamase）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "同屬於蛋白酶（protease）家族",
+      "B": "作用時需金屬離子",
+      "C": "無法分解carbapenems",
+      "D": "基因多位於質體上"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 4 題",
+    "question": "針對治療非多重抗藥性結核分枝桿菌（Mycobacterium tuberculosis）所引起的結核病，下列那些藥物是屬於世 界衛生組織（WHO）建議的第一線藥物？ ①異菸鹼醯（isoniazid） ② 硫胂密胺（melarsporol） ③ 兩性黴 素B（amphotericin B） ④ 乙胺丁醇（ethambutol）",
+    "options": {
+      "A": "①③",
+      "B": "②③",
+      "C": "①④",
+      "D": "②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 5 題",
+    "question": "有關傷寒沙門氏桿菌（Salmonella Typhi）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要的傳染途徑為糞口傳染（fecal-oral spread）",
+      "B": "大多由帶菌的家禽或家畜直接傳染給人",
+      "C": "細菌會感染腸道，也會感染肝臟與脾臟",
+      "D": "少數病人為無症狀帶原者，細菌通常潛伏在膽囊（gall bladder）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 6 題",
+    "question": "下列何者無法將金黃色葡萄球菌（Staphylococcus aureus）與表皮葡萄球菌（Staphylococcus epidermidis）區分 出來？",
+    "options": {
+      "A": "產生凝固酶（coagulase）的能力",
+      "B": "醱酵甘露醇（mannitol）的能力",
+      "C": "溶血（hemolysis）型態",
+      "D": "觸酶（catalase）試驗"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 7 題",
+    "question": "有關細菌基因表現的敘述，下列何者錯誤？",
+    "options": {
+      "A": "一條mRNA可以轉譯出多種蛋白質",
+      "B": "基因進行轉錄時，可同時進行轉譯工作",
+      "C": "lac操縱子基因表現主要受到定額感應系統（quorum-sensing system）的直接調控",
+      "D": "在色胺酸（tryptophan）操縱子（trp operon）的調控機制中，色胺酸是共同抑制子（co-repressor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 8 題",
+    "question": "對於厭氧性革蘭氏陽性球菌（anaerobic Gram-positive cocci）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "都不會產生芽胞（spores）",
+      "B": "可使用氨基醣苷類藥物（aminoglycosides）治療其感染症",
+      "C": "通常棲居於口腔、腸胃道、泌尿道以及皮膚",
+      "D": "多屬於伺機性（opportunistic）感染菌"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 9 題",
+    "question": "下列何者不是炭疽桿菌（Bacillus anthracis）常引起的疾病？",
+    "options": {
+      "A": "腸胃型炭疽（Gastrointestinal anthrax）",
+      "B": "肌肉壞死型炭疽（Myonecrotic anthrax）",
+      "C": "皮膚型炭疽（Cutaneous anthrax）",
+      "D": "吸入性炭疽（Inhalation anthrax）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 10 題",
+    "question": "下列何者非化膿性鏈球菌（Streptococcus pyogenes）常見的致病因子（virulence factor）？",
+    "options": {
+      "A": "耐熱（Heat-stable）毒素STa和STb",
+      "B": "鏈球菌溶血素（Streptolysin O）",
+      "C": "M 蛋白質（M protein）",
+      "D": "莢膜（Capsule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 11 題",
+    "question": "在愛滋病（AIDS）患者常見的卡波西肉瘤（Kaposi sarcoma），是由下列那種致病原伺機性感染所造成？",
+    "options": {
+      "A": "白色念珠菌（Candida albicans）",
+      "B": "人類黴漿菌（Mycoplasma hominis）",
+      "C": "第八型人類疱疹病毒（Human herpesvirus 8）",
+      "D": "新型隱球菌（Cryptococcus neoformans）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 12 題",
+    "question": "關於小DNA病毒（Parvovirus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "其基因體（genome）是線型雙股DNA",
+      "B": "小朋友如果感染小DNA病毒（Parvovirus）B19， 會在兩側臉頰產生整片發紅的現象，俗稱巴掌臉（slapped- cheek）",
+      "C": "在免疫缺乏的病人身上，B19會造成慢性貧血",
+      "D": "病毒本身不帶有DNA聚合酶（polymerase）， 因此只能在生長中的細胞裏複製"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 13 題",
+    "question": "有關流感病毒減毒疫苗（live attenuated influenza vaccine）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "適當生長溫度是攝氏25度",
+      "B": "大部分在鼻咽部感染",
+      "C": "容易刺激IgA抗體的產生",
+      "D": "適用於60歲以上之成人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 14 題",
+    "question": "腸病毒71型（Enterovirus EV71）造成死亡主要的原因是：",
+    "options": {
+      "A": "侵犯腸胃道，造成腸道細胞脫落，及嚴重的電解質不平衡",
+      "B": "感染後可以持續潛伏在腸道M細胞中，多次不斷再活化，因而造成持續性症狀",
+      "C": "侵犯不同部位的組織，尤其是神經系統",
+      "D": "病人體內產生的抗體可以和病毒結合，增加病毒的感染力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 15 題",
+    "question": "有關JC病毒（JC virus, JCV）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "會感染神經膠狀細胞（glial cell）",
+      "B": "其T（large T）抗原與DNA複製有關",
+      "C": "其t（small t）抗原與抑制p53及p105RB之功能有關",
+      "D": "在免疫不全病人能造成進行性多灶性白質腦病（progressive multifocal leukoencephalopathy, PML）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 16 題",
+    "question": "下列何者被人體吸入後 ，在肺部產生含許多內孢子（endospore）的球形體（spherule），並造成全身性黴菌 感染症（systemic mycoses）？",
+    "options": {
+      "A": "巴西副球黴菌（Paracoccidioides brasiliensis）",
+      "B": "莢膜組織胞漿菌（Histoplasma capsulatum）",
+      "C": "皮炎芽生菌（Blastomyces dermatitidis）",
+      "D": "粗球孢子菌（Coccidioides immitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 17 題",
+    "question": "抗真菌（anti-fungal）藥物中，下列何者之作用機轉非抑制麥角固醇（ergosterol）之合成？",
+    "options": {
+      "A": "多烯類（Polyenes）",
+      "B": "烯丙胺類（Allylamines）",
+      "C": "咪唑類（Imidazoles）",
+      "D": "三唑類（Triazoles）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 74 題",
+    "question": "下列何種蛋白質結構的變異，是導致成骨不全症（osteogenesis imperfecta）的原因？",
+    "options": {
+      "A": "纖黏蛋白（fibronectin）",
+      "B": "骨橋蛋白（osteopontin）",
+      "C": "角質蛋白（keratin）",
+      "D": "膠原蛋白（collagen）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 75 題",
+    "question": "在某些蛋白質中含有-Ser-Gly-Pro-Gly-的胺基酸序列，最有可能形成下列何種蛋白質的二級結構？",
+    "options": {
+      "A": "β-turn",
+      "B": "α-helix",
+      "C": "β-sheet",
+      "D": "zinc finger"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 76 題",
+    "question": "下列那個實驗技術可用於評估蛋白質的分子量？",
+    "options": {
+      "A": "十二烷基硫酸鈉聚丙烯醯胺凝膠電泳（SDS polyacrylamide gel electrophoresis）",
+      "B": "等電聚焦分離凝膠電泳（isoelectric focusing gel electrophoresis）",
+      "C": "離子交換樹脂管柱層析法（ion-exchange chromatography）",
+      "D": "紫外-可見光分光度法（ultraviolet-visible spectroscopy）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 77 題",
+    "question": "乙醯輔酶A（acetyl coenzyme A）分子中，乙醯基與coenzyme A之鍵結為：",
+    "options": {
+      "A": "amide",
+      "B": "Schiff 's base",
+      "C": "acid anhydride",
+      "D": "thioester"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 78 題",
+    "question": "生雞蛋的蛋白中之avidin會影響人類腸道對下列何種維生素的吸收？",
+    "options": {
+      "A": "folate",
+      "B": "biotin",
+      "C": "cobalamin",
+      "D": "pyridoxine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 79 題",
+    "question": "DNA的序列中，下列何者較易被甲基化？",
+    "options": {
+      "A": "TATA box",
+      "B": "CpG site",
+      "C": "CAAT box",
+      "D": "Telomere"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 80 題",
+    "question": "下列何者是B-型 DNA雙螺旋的最適詮釋？",
+    "options": {
+      "A": "右旋；每一鹼基對之間的間距為3.6 Å",
+      "B": "右旋；每一鹼基對之間的間距為3.4 Å",
+      "C": "左旋；每一鹼基對之間的間距為3.4 Å",
+      "D": "左旋；每一鹼基對之間的間距為3.6 Å"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 81 題",
+    "question": "下列何種酵素不直接參與大腸桿菌的methyl-directed mismatch repair？",
+    "options": {
+      "A": "DNA glycosylase",
+      "B": "DNA helicaseⅡ",
+      "C": "DNA ligase",
+      "D": "DNA polymeraseⅢ"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 82 題",
+    "question": "大腸桿菌（E. coli）在DNA複製過程中，延遲股（lagging strand）之合成，下列敘述何者正確？",
+    "options": {
+      "A": "主要是由DNA聚合酶Ⅰ型負責催化反應",
+      "B": "是一種持續性的合成反應",
+      "C": "由 3'端向5' 端的方向進行合成反應",
+      "D": "需先合成岡崎片段（Okazaki fragment）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 83 題",
+    "question": "在第一型內含子（group I intron）剪接（splicing）的過程中，需要下列何者協助？",
+    "options": {
+      "A": "鳥嘌呤核苷（guanine nucleoside）或鳥嘌呤核苷酸（guanine nucleotide）",
+      "B": "接合酶（ligase）",
+      "C": "小核RNAs（small nuclear RNAs）和接合酶（ligase）",
+      "D": "ATP、NAD+和小核RNAs（small nuclear RNAs）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 84 題",
+    "question": "在網狀紅血球（reticulocytes）缺乏鐵時會抑制血紅素（hemoglobin）之合成，其作用機轉主要是：",
+    "options": {
+      "A": "對cAMP responsive element binding protein（CREBP）進行磷酸化",
+      "B": "對steroid responsive element binding protein（SREBP）進行磷酸化",
+      "C": "對真核起始因子2（eIF2）進行磷酸化",
+      "D": "對真核起始因子4E（eIF4E）進行磷酸化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 85 題",
+    "question": "假設由900核苷酸配對（base pairs）所組成的DNA片段，不含非轉譯部分（untranslated region）。其相對 應的mRNA所轉譯產生的多胜肽（polypeptide）之分子量約為多少？",
+    "options": {
+      "A": "900",
+      "B": "5,000",
+      "C": "30,000",
+      "D": "100,000"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 86 題",
+    "question": "關於真核生物基因表現的敘述，下列何者錯誤？",
+    "options": {
+      "A": "mRNA的表現主要是由RNA polymerase II負責",
+      "B": "mRNA的3'端會進行磷酸化（phosphorylation）以穩定其結構",
+      "C": "DNA上之CpG island的甲基化可造成基因無法表現",
+      "D": "histones上的乙醯化程度可影響基因的表現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 87 題",
+    "question": "將一莫耳（mole）葡萄糖經由糖解作用（glycolysis）產生兩莫耳丙酮酸（pyruvate）的過程中，淨需要：",
+    "options": {
+      "A": "四莫耳ATP",
+      "B": "一莫耳NAD+",
+      "C": "一莫耳磷酸根（inorganic phosphate）",
+      "D": "兩莫耳ADP"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 88 題",
+    "question": "下列醣類分子均為葡萄糖聚合物，何者具有（β1→4）glycosidic bond？",
+    "options": {
+      "A": "amylose",
+      "B": "glycogen",
+      "C": "cellulose",
+      "D": "dextran"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 89 題",
+    "question": "遇緊急狀況時，腎上腺素（epinephrine）分泌增加，調控肝臟及骨骼肌的醣類代謝以提升血糖及骨骼肌運 動，下列相關敘述何者錯誤？",
+    "options": {
+      "A": "增加骨骼肌的肝醣分解（glycogenolysis）",
+      "B": "增加骨骼肌的糖解作用（glycolysis）",
+      "C": "增加肝臟的糖解作用（glycolysis）",
+      "D": "增加肝臟的糖質新生作用（gluconeogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 90 題",
+    "question": "嵌入型的膜蛋白（integral membrane protein）能夠被下列何種溶液萃取出來？",
+    "options": {
+      "A": "鹼性或酸性的緩衝溶液",
+      "B": "能移除陽離子的螯合劑（chelating agent）溶液",
+      "C": "含介面活性劑（surfactant）的溶液",
+      "D": "高濃度的鹽溶液"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 91 題",
+    "question": "關於通過細胞膜的促進性擴散作用（facilitated diffusion），下列敘述何者正確？",
+    "options": {
+      "A": "經由專一性膜蛋白質的作用，降低溶質通過細胞膜的活化能",
+      "B": "經由專一性膜蛋白質的作用，增加擴散性溶質之穿膜濃度梯度的大小",
+      "C": "被運載溶質的極性會影響脂雙層之特性",
+      "D": "細胞利用此機轉運輸氧氣、氮氣或甲烷等氣體通過細胞膜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 92 題",
+    "question": "下列何者不是血小板活化因子（platelet activating factor）的特性？",
+    "options": {
+      "A": "它是一種醚甘油磷酯（ether glycerophospholipid）",
+      "B": "其結構含有一個烷基（alkyl group）以醚鏈（ether linkage）鍵結在甘油的C1位置",
+      "C": "其結構含有一個醋酸鹽基（acetate group）以酯鏈（ester linkage）鍵結在甘油的C2位置",
+      "D": "它比縮醛磷脂（plasmalogen）更不易溶於水"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 93 題",
+    "question": "在哺乳類細胞中，N5-甲基四氫葉酸（N5-methyl tetrahydrofolate；N5-methyl H4 folate）直接參與下列那一 種胺基酸的生合成？",
+    "options": {
+      "A": "isoleucine",
+      "B": "leucine",
+      "C": "lysine",
+      "D": "methionine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 94 題",
+    "question": "下列那一組胺基酸直接參與肌酸（creatine）的生合成？",
+    "options": {
+      "A": "tyrosine, glycine, glutamine",
+      "B": "glutamate, cysteine, glycine",
+      "C": "glycine, arginine, methionine",
+      "D": "aspartate, glycine, cysteine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 95 題",
+    "question": "在粒線體中，NADH經由電子傳遞鏈（electron transport chain）進行氧化時，氫離子（$H^+$）如何移轉？",
+    "options": {
+      "A": "由粒線體內外膜間的間隙運送至細胞質",
+      "B": "由細胞質運送至粒線體內外膜間的間隙",
+      "C": "由粒線體內外膜間的間隙運送至粒線體基質（matrix）",
+      "D": "由粒線體基質（matrix）運送至粒線體內外膜間的間隙"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 96 題",
+    "question": "在電子傳遞鏈中，下列何種物質會將其所攜帶的電子直接傳遞給氧分子（$O_2$）？",
+    "options": {
+      "A": "NADH",
+      "B": "FADH2",
+      "C": "Coenzyme Q",
+      "D": "Cytochrome C"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 97 題",
+    "question": "下列關於受體酵素（receptor enzyme）的敘述何者正確？",
+    "options": {
+      "A": "通常不是膜蛋白質",
+      "B": "對細胞質內的受質（substrate）具有酵素活性",
+      "C": "對細胞外的配體（ligand）具有酵素活性",
+      "D": "在細胞外具有受質（substrate）結合位"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 98 題",
+    "question": "關於介白素（interleukins）之訊息傳遞何者正確？",
+    "options": {
+      "A": "其受體主要是絲胺酸激酶型受器（receptor serine kinase）",
+      "B": "活化轉錄因子STATs（signal transducers and activators of transcription）",
+      "C": "主要是活化cAMP",
+      "D": "主要由G protein參與反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 99 題",
+    "question": "糖皮質激素（glucocorticoids）主要是以下列何種方式進入細胞，調節基因轉錄作用？",
+    "options": {
+      "A": "與細胞膜上之受體結合再進入細胞，直接結合在DNA序列上",
+      "B": "與細胞膜上之受體結合後，經由訊息傳遞路徑",
+      "C": "直接通過細胞膜，進入細胞後直接結合在DNA序列上",
+      "D": "直接通過細胞膜，進入細胞後和受體結合，再結合在DNA序列上"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 100 題",
+    "question": "與利用質體（plasmid）作為選殖基因載體相比，下列何者是利用yeast artificial chromosome（YAC）作為 載體的優點？",
+    "options": {
+      "A": "在宿主細胞中，重組DNA分子放大效果最佳",
+      "B": "送入任何宿主細胞之效率佳",
+      "C": "使基因在宿主細胞中蛋白質合成效率更好",
+      "D": "有選殖更大DNA片段之功能"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

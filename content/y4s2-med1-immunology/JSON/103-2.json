@@ -1,0 +1,166 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 62 題",
+    "question": "下列何者為生命期較短，且具有吞噬作用之血球：",
+    "options": {
+      "A": "巨噬細胞（macrophage）",
+      "B": "淋巴細胞（lymphocyte）",
+      "C": "嗜中性細胞（neutrophil）",
+      "D": "自然殺手細胞（natural killer cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 63 題",
+    "question": "下列何者為補體（complement）的三種活化路徑之最初會合點？",
+    "options": {
+      "A": "ClqClrCls complex",
+      "B": "C4b",
+      "C": "C3 convertase",
+      "D": "C5 convertase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 64 題",
+    "question": "抗體重鏈VH 多變區（variable domain）結構中CDR3 區域多樣性來源不包括下列那一項？",
+    "options": {
+      "A": "class switch",
+      "B": "palindromic nucleotide addition",
+      "C": "V(D)J recombination",
+      "D": "somatic hypermutation"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 65 題",
+    "question": "下列有關pre-B 細胞受器（pre-B cell receptor）的敘述，何者正確？",
+    "options": {
+      "A": "為IgM",
+      "B": "辨識外來抗原",
+      "C": "具有免疫球蛋白之μ 鏈（μ chain）",
+      "D": "具有免疫球蛋白之λ 鏈（λ chain）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 66 題",
+    "question": "有關mixed lymphocyte reaction（MLR）的原理，下列何者錯誤？",
+    "options": {
+      "A": "MLR 可以用來偵測$CD4^+$ T 細胞增生之情形",
+      "B": "主要引起T 細胞增生的抗原為異體MHC 分子",
+      "C": "MLR 會加入51Cr 來偵測DNA 合成之情況",
+      "D": "實驗所需時間約3 至7 天"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 67 題",
+    "question": "有關非T 依賴型抗原（T-independent antigen）引起B 細胞反應的敘述，下列那一項最適當？",
+    "options": {
+      "A": "通常引發分泌大量IgG",
+      "B": "是對細菌入侵人體時的一種快速反應",
+      "C": "可以增加具有記憶性B 細胞的數量",
+      "D": "產生的抗體具有高親和力"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 68 題",
+    "question": "下列有關M 細胞（microfold cells）之敘述，何者正確？",
+    "options": {
+      "A": "主要位在lamina propria 上",
+      "B": "是主要腸道抗原或是微生物進入體內的路徑",
+      "C": "也會分泌酵素與黏液",
+      "D": "主要功能為呈現抗原並啟動免疫反應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 69 題",
+    "question": "有關主要組織相容性複合體（major histocompatibility complex，MHC）的功能描述，下列何者錯誤？",
+    "options": {
+      "A": "第一型MHC 蛋白可在體內所有有核的細胞上發現",
+      "B": "第二型MHC 蛋白只在巨噬細胞及T 細胞上發現",
+      "C": "毒殺性T 細胞可辨識與第一型MHC 蛋白結合的抗原",
+      "D": "輔助型T 細胞可辨識與第二型MHC 蛋白結合的抗原"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 70 題",
+    "question": "下列何種疾病不是靜脈注射免疫球蛋白製劑（IVIG）的適應症？",
+    "options": {
+      "A": "Com mon variable immunodeficiency",
+      "B": "X -linked agammaglobulinemia",
+      "C": "Agammaglobulinemia due to mutations in the mu heavy chain",
+      "D": "Selective I gA deficiency"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 71 題",
+    "question": "下列那一種細胞激素最有可能降低氣喘病的發生？",
+    "options": {
+      "A": "IL -4",
+      "B": "IL-5",
+      "C": "IL-12",
+      "D": "IL-13"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 72 題",
+    "question": "缺乏下列那種細胞激素，可能會引起發炎性腸道疾病（inflammatory bowel disease）？",
+    "options": {
+      "A": "TNF -α",
+      "B": "IL-10",
+      "C": "IL-1",
+      "D": "IFN-γ"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 73 題",
+    "question": "Immune surveillance 理論的敘述，下列那一項錯誤？",
+    "options": {
+      "A": "免疫系統可以偵測腫瘤細胞的存在",
+      "B": "免疫系統可以殺死生長中的腫瘤細胞",
+      "C": "免疫系統可以促進腫瘤發炎反應",
+      "D": "免疫系統可以經由主動免疫方式殺死腫瘤細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 74 題",
+    "question": "以生物製劑（biologics） 抗B 細胞單株抗體（rituximab）治療疾病，下列何者為正確？",
+    "options": {
+      "A": "人類抗原是CD（clusters of differentiation）52",
+      "B": "治療 Hodgkin's lymphoma",
+      "C": "經基因工程處理，免疫刺激性（immunogenic）低",
+      "D": "可以清除體內之漿細胞（plasma cells）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答 Ｂ或Ｃ或BC者均給分。"
+  }
+]

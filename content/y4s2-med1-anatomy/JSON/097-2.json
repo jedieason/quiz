@@ -1,0 +1,346 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 1 題",
+    "question": "天幕脫疝（tentorial herniation）時，何種構造最易掉入天幕切跡（tentorial notch）？",
+    "options": {
+      "A": "間腦（diencephalon）",
+      "B": "顳葉（temporal lobe）",
+      "C": "嗅球（olfactory bulb）",
+      "D": "腦下垂體（pituitary gland）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 2 題",
+    "question": "下列關於直接型腹股溝疝氣（direct inguinal hernia）的敘述何者錯誤？",
+    "options": {
+      "A": "發生於腹壁下動脈（inferior epigastric artery）內側區域",
+      "B": "發生於內側腹股溝窩（medial inguinal fossae）",
+      "C": "腹腔內構造常由腹股溝深環（deep inguinal ring）脫出",
+      "D": "發生於海氏三角（Hesselbach triangle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 3 題",
+    "question": "一中年女性手指麻且肌肉萎縮，診斷為腕隧道症候群，下列何者不通過腕隧道？",
+    "options": {
+      "A": "傳遞大拇指基部（掌面）的感覺神經分支",
+      "B": "支配外展拇短肌（abductor pollicis brevis）的運動神經",
+      "C": "傳遞第二指指尖（掌面）的感覺神經分支",
+      "D": "尺側屈腕肌（flexor carpi ulnaris）的肌腱"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 4 題",
+    "question": "頸動脈竇（carotid sinus）與頸動脈體（carotid body）是一壓力接受器（baroreceptor）與化學接受器 （chemoreceptor）位在總頸動脈分叉處，其訊息經由那一條神經傳入頭部？",
+    "options": {
+      "A": "舌咽神經（Glossopharyngeal nerve）",
+      "B": "頸襻（Ansa cervicalis）",
+      "C": "副神經（Accessory nerve）",
+      "D": "舌下神經（Hypoglossal nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 5 題",
+    "question": "實施中心靜脈壓（CVP）注射時，須摸到股動脈脈搏，在何處下針？",
+    "options": {
+      "A": "脈搏處內側",
+      "B": "脈搏處外側",
+      "C": "脈搏處",
+      "D": "脈搏處下方"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 6 題",
+    "question": "下列上肢肌肉中，何者止（insertion）於皮膚？",
+    "options": {
+      "A": "掌長肌（palmaris longus）",
+      "B": "掌短肌（palmaris brevis）",
+      "C": "小魚際肌（hypothenar muscles）",
+      "D": "魚際肌（thenar muscles）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 7 題",
+    "question": "下列何者的肌腱會從足底長韌帶（long plantar ligament）前端兩附著點間穿過？",
+    "options": {
+      "A": "腓短肌（peroneus brevis）",
+      "B": "腓長肌（peroneus longus）",
+      "C": "脛後肌（tibialis posterior）",
+      "D": "脛前肌（tibialis anterior）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 8 題",
+    "question": "下列何者不屬於深筋膜（deep fascia）的構造？",
+    "options": {
+      "A": "闊筋膜（fascia lata）",
+      "B": "半月板（meniscus）",
+      "C": "髂脛束（iliotibial tract）",
+      "D": "足底筋膜（plantar aponeurosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 9 題",
+    "question": "下列何者由尺側屈腕肌（flexor carpi ulnaris）的兩個頭之間穿過？",
+    "options": {
+      "A": "橈神經（radial nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "尺動脈（ulnar artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 10 題",
+    "question": "下列何者發生阻塞而最不會影響臀部的血液供應？",
+    "options": {
+      "A": "臀上動脈",
+      "B": "臀下動脈",
+      "C": "陰部內動脈",
+      "D": "旋股內側動脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 11 題",
+    "question": "子宮向前傾主要由下列何者牽引所造成？",
+    "options": {
+      "A": "懸韌帶",
+      "B": "卵巢韌帶",
+      "C": "子宮圓韌帶",
+      "D": "子宮薦韌帶"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 12 題",
+    "question": "下列何者內含卵巢動脈？",
+    "options": {
+      "A": "懸韌帶",
+      "B": "樞紐韌帶",
+      "C": "卵巢圓韌帶",
+      "D": "薦結節韌帶"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 13 題",
+    "question": "下列何者為女性骨盆段輸尿管的主要血液供應來源？",
+    "options": {
+      "A": "卵巢動脈",
+      "B": "陰道動脈",
+      "C": "子宮動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 14 題",
+    "question": "下列何者會直接跨越輸尿管？",
+    "options": {
+      "A": "卵巢",
+      "B": "輸卵管",
+      "C": "輸精管",
+      "D": "儲精囊"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 15 題",
+    "question": "下列何者為尿道外括約肌（external urethral sphincter）所在處？",
+    "options": {
+      "A": "膀胱頸",
+      "B": "膜部尿道",
+      "C": "前列腺尿道",
+      "D": "陰莖部尿道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 16 題",
+    "question": "下列何者傳遞心包膜及縱隔部壁層胸膜的知覺？",
+    "options": {
+      "A": "迷走神經",
+      "B": "大內臟神經",
+      "C": "膈神經",
+      "D": "肋間神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 17 題",
+    "question": "右心房的動脈供應主要來自下列何者？",
+    "options": {
+      "A": "右冠狀動脈",
+      "B": "右冠狀動脈的邊緣枝（marginal branch）",
+      "C": "左冠狀動脈的迴旋枝（circumflex branch）",
+      "D": "左冠狀動脈的前室間枝（anterior interventricular branch）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 18 題",
+    "question": "腹主動脈（abdominal aorta）分枝為左右總腸骨動脈（common iliac artery）處，相當於下列那個 體表位置？",
+    "options": {
+      "A": "恥骨聯合上緣",
+      "B": "恥骨上緣與臍連線的中點",
+      "C": "臍",
+      "D": "橫幽門面（transpyloric plane）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 19 題",
+    "question": "下列有關胸管的敘述，何者錯誤？",
+    "options": {
+      "A": "乳糜池（chyle cistern）的大小、外型是不固定的",
+      "B": "下六對肋間的淋巴亦下行匯入乳糜池（chyle cistern）",
+      "C": "胸管位在後縱隔腔（posterior mediastinum）",
+      "D": "胸管直接匯入上腔靜脈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 20 題",
+    "question": "前脈絡叢動脈（anterior choroidal artery）直接起自：",
+    "options": {
+      "A": "前大腦動脈（anterior cerebral artery）",
+      "B": "頸內動脈（internal carotid artery）",
+      "C": "後大腦動脈（posterior cerebral artery）",
+      "D": "眼動脈（ophthalmic artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 21 題",
+    "question": "下列中腦何結構由翼板（alar plate）所發育而來？",
+    "options": {
+      "A": "動眼神經核（oculomotor nucleus）",
+      "B": "大腦腳（cerebral peduncle）",
+      "C": "下丘（inferior colliculus）",
+      "D": "內縱束（medial longitudinal fasciculus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 22 題",
+    "question": "下列有關脊髓的內終絲（filum terminale internum）的敘述，何者正確？",
+    "options": {
+      "A": "附著在尾椎骨（coccyx）的內側面",
+      "B": "含有感覺及運動神經纖維",
+      "C": "起自脊髓圓錐（conus medullaris）尾端處",
+      "D": "由軟腦膜與蜘蛛網膜組織（pia-arachnoid tissue）所構成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 23 題",
+    "question": "眼外肌中，其肌腱附著於眼球外後上方者為：",
+    "options": {
+      "A": "外直肌（lateral rectus）",
+      "B": "上直肌（superior rectus）",
+      "C": "下直肌（inferior rectus）",
+      "D": "上斜肌（superior oblique）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 24 題",
+    "question": "腮腺（parotid gland）之分泌訊號藉由何神經傳遞？",
+    "options": {
+      "A": "面神經（facial nerve）",
+      "B": "上頜神經（maxillary nerve）",
+      "C": "舌咽神經（glossopharyngeal nerve）",
+      "D": "第八顱神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 25 題",
+    "question": "下列有關盲腸的敘述，何項錯誤？",
+    "options": {
+      "A": "盲腸沒有腸繫膜",
+      "B": "闌尾（appendix）附著在盲腸的後內方",
+      "C": "盲腸繫膜（mesoappendix）附著於後腹壁",
+      "D": "盲腸的血液供應來自迴結腸動脈（ileocolic artery）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 26 題",
+    "question": "下列有關頸襻（ansa cervicalis）之敘述，何者錯誤？",
+    "options": {
+      "A": "其分枝支配肩胛舌骨肌（omohyoid muscle）之上段",
+      "B": "其上根（superior root）源自於第一頸椎神經之腹側枝（ventral ramus）",
+      "C": "貼附於頸動脈鞘（carotid sheath）前外方",
+      "D": "其分枝鎖骨上神經（supraclavicular nerves）負責部分頸部皮膚之感覺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 27 題",
+    "question": "包含於頸部包裹筋膜（investing fascia）之中的肌肉包括下列何者？",
+    "options": {
+      "A": "二腹肌（digastric muscle）",
+      "B": "頸闊肌（platysma muscle）",
+      "C": "胸骨舌骨肌（sternohyoid muscle）",
+      "D": "斜方肌（trapezius muscle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 28 題",
+    "question": "第六頸椎之水平層面，頸動脈鞘（carotid sheath）並不包裹下列何者？",
+    "options": {
+      "A": "頸內動脈（internal carotid artery）",
+      "B": "第十顱神經",
+      "C": "頸內靜脈（internal jugular vein）",
+      "D": "頸深淋巴結（deep cervical lymph nodes）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

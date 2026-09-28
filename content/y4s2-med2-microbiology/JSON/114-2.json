@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 1 題",
+    "question": "下列那一種細菌是兼性厭氧菌（facultative anaerobes）？",
+    "options": {
+      "A": "大腸桿菌（Escherichia coli）",
+      "B": "結核桿菌（Mycobacteria tuberculosis）",
+      "C": "破傷風桿菌（Clostridium tetani）",
+      "D": "肉毒桿菌（Clostridium botulinum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 2 題",
+    "question": "大腸桿菌O157:H7 常引起出血性腹瀉，H7 的H 指的是細菌的那一部分？",
+    "options": {
+      "A": "鞭毛（flagella）",
+      "B": "脂多醣（lipopolysaccharide）",
+      "C": "核心多醣（core polysaccharide）",
+      "D": "莢膜（capsule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 3 題",
+    "question": "關於鈎端螺旋體病（leptospirosis）之敘述，下列何者最不適當？",
+    "options": {
+      "A": "病原體是Leptospira interrogans，為絕對嗜氧菌（obligate aerobe），容易培養",
+      "B": "雖具有主動穿透黏膜的能力，但不會透過性行為傳染",
+      "C": "通常以doxycycline 治療或預防",
+      "D": "嚙齒類動物是主要的保菌宿主（reservoir），其帶菌的尿液會污染土壤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 4 題",
+    "question": "廣泛性抗藥結核桿菌（extensively drug-resistant Mycobacteria tuberculosis, XDR TB）的定義，是指多 重抗藥結核桿菌（MDR TB）不只對氟喹諾酮（fluoroquinolones）具抗性，且對下列何種第二線抗生素也具抗 性？",
+    "options": {
+      "A": "胺基糖苷（aminoglycoside）",
+      "B": "四環黴素（tetracycline）",
+      "C": "beta-內酰胺（beta-lactam）",
+      "D": "紅黴素（erythromycin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 5 題",
+    "question": "下列何種產氣莢膜梭狀芽孢桿菌（Clostridium perfringens）的毒素，主要會造成氣狀壞疽（gas  gangrene）？",
+    "options": {
+      "A": "alpha 毒素",
+      "B": "beta 毒素",
+      "C": "epsilon 毒素",
+      "D": "iota 毒素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 6 題",
+    "question": "溶菌酶（lysozyme）為人類淚液或唾液中常見之蛋白質，具有抵禦細菌感染的功能，其預防細菌感染最主要之 機制為：",
+    "options": {
+      "A": "破壞細菌細胞膜完整性",
+      "B": "抑制細菌電子傳遞鏈運作",
+      "C": "分解胜肽聚醣（peptidoglycan）造成細菌細胞壁損壞",
+      "D": "切割線毛（pili）使細菌無法黏附於宿主組織或細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 7 題",
+    "question": "下列細菌與氧分子（$O_2$）相關之敘述，何者最不適當？",
+    "options": {
+      "A": "兼性厭氧菌（facultative anaerobic bacteria）雖可在無氧條件下存活，但無法在有氧環境下生長",
+      "B": "在一般的大氣環境下，微需氧菌（microaerophilic bacteria）無法正常的生長",
+      "C": "氧分子代謝過程中產生的過氧化氫（hydrogen peroxide），為對細菌有害的代謝產物",
+      "D": "絕對厭氧菌（obligate anaerobic bacteria）產生的孢子，可在有氧的環境下留存，並在合適的環境轉變 為具有生長活性之細菌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 8 題",
+    "question": "下列何種疾病最不可能經由蜱（tick）媒介傳染？",
+    "options": {
+      "A": "洛磯山斑疹熱（Rocky Mountain spotted fever）",
+      "B": "地方性回歸熱（Endemic relapsing fever）",
+      "C": "斑疹傷寒（Scrub typhus）",
+      "D": "萊姆病（Lyme disease）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 9 題",
+    "question": "下列那種感染症與無乳鏈球菌（Streptococcus agalactiae）最無關連？",
+    "options": {
+      "A": "新生兒腦膜炎（neonatal meningitis）",
+      "B": "新生兒肺炎（neonatal pneumonia）",
+      "C": "懷孕婦女的泌尿道感染（urinary tract infection）",
+      "D": "新生兒筋膜炎（neonatal fasciitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 10 題",
+    "question": "下列有關病毒複製之敘述，何者最不適當？",
+    "options": {
+      "A": "病毒的基因體複製是在病毒結構蛋白合成之後才開始進行",
+      "B": "所有病毒複製過程中均需合成RNA",
+      "C": "B 型肝炎病毒之外套膜來自寄主細胞之細胞膜",
+      "D": "在隱蝕期（eclipse period）時可測到極少量之感染性病毒"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 11 題",
+    "question": "下列有關致癌性病毒（oncogenic virus）的敘述，何者最適當？",
+    "options": {
+      "A": "多瘤病毒（polyomavirus, SV40）之T 抗原可與寄主細胞中之腫瘤抑制蛋白結合",
+      "B": "多瘤病毒（polyomavirus, SV40）可在人類形成腫瘤",
+      "C": "乳突瘤病毒（papillomavirus）之E7 蛋白可與寄主細胞中之p53 蛋白結合",
+      "D": "腺病毒（adenovirus）之E1B 可與寄主細胞中之p105RB 蛋白結合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 12 題",
+    "question": "下列那一個肝炎病毒尚未有疫苗可預防其感染，但已經可以經由抗病毒藥物治療病患使其痊癒？",
+    "options": {
+      "A": "HAV",
+      "B": "HBV",
+      "C": "HCV",
+      "D": "HDV"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 13 題",
+    "question": "有關流行性感冒病毒蛋白neuraminidase（NA）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "為一種酵素，能幫助病毒離開宿主細胞",
+      "B": "A 型流感病毒具有多種NA 亞型",
+      "C": "為抗病毒藥物金剛烷胺類（amantadine）主要抑制對象",
+      "D": "在病毒外套膜上形成四倍體（tetramer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 14 題",
+    "question": "有關輪狀病毒（rotaviruses）的特色，下列敘述何者最不適當？",
+    "options": {
+      "A": "是一個雙股RNA（double-stranded RNA）病毒",
+      "B": "被蛋白酶降解後形成的intermediate subviral particle（ISVP）不具感染力",
+      "C": "基因體（genome）由多段的RNA 組成",
+      "D": "對腸胃道環境的耐受性很高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 15 題",
+    "question": "關於麻疹（Measles）的敘述，下列何者最適當？",
+    "options": {
+      "A": "其致病原麻疹病毒屬黏液病毒（Myxovirus）",
+      "B": "麻疹病毒之基因體為八段單股的RNA",
+      "C": "麻疹病毒具有多種血清型",
+      "D": "病毒感染時，體內T 細胞會攻擊被病毒感染的上皮細胞，造成病人身上的大塊紅斑（maculopapular measles rash）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 16 題",
+    "question": "在2015～2016 年間爆發茲卡（Zika）病毒大流行，下列有關該病毒的敘述何者最不適當？",
+    "options": {
+      "A": "猴子是茲卡病毒的宿主之一",
+      "B": "不需要蚊子的媒介，病毒可以直接人傳人",
+      "C": "該病毒的遺傳基因為負股(-)RNA",
+      "D": "懷孕婦女被茲卡病毒感染會造成胎兒小腦症（microcephaly）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 17 題",
+    "question": "下列何種馬拉色菌（Malassezia）可以在不含脂質的培養基上生長？",
+    "options": {
+      "A": "Malassezia pachydermatis",
+      "B": "Malassezia furfur",
+      "C": "Malassezia globosa",
+      "D": "Malassezia japonica"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 1 題",
+    "question": "下列何者不是嗅覺傳導路徑的構造？",
+    "options": {
+      "A": "嗅球",
+      "B": "丘腦",
+      "C": "uncus",
+      "D": "limen insulae"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 2 題",
+    "question": "有關上小腦腳（superior cerebellar peduncle）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "含有ventral spinocerebellar tract",
+      "B": "含有連接小腦與下橄欖核（inferior olivary nucleus）之神經纖維",
+      "C": "含有連接小腦與紅核之神經纖維",
+      "D": "含有連接小腦與丘腦之神經纖維"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 3 題",
+    "question": "上段頸部脊髓之血流，主要來自下列何者？",
+    "options": {
+      "A": "椎動脈（vertebral artery）",
+      "B": "內頸動脈（internal carotid artery）",
+      "C": "外頸動脈（external carotid artery）",
+      "D": "內胸動脈（internal thoracic artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 4 題",
+    "question": "下列何者不參與瞳孔光反射？",
+    "options": {
+      "A": "pretectal area",
+      "B": "外膝狀體（lateral geniculate body）",
+      "C": "睫狀神經節（ciliary ganglion）",
+      "D": "短睫神經（short ciliary nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 5 題",
+    "question": "咀嚼肌的本體感覺（proprioception）主要傳入下列核區？",
+    "options": {
+      "A": "三叉神經脊髓核（spinal trigeminal nucleus）",
+      "B": "面神經運動核（facial motor nucleus）",
+      "C": "三叉神經中腦核（mesencephalic trigeminal nucleus）",
+      "D": "孤立束核（solitary nucleus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 6 題",
+    "question": "在門齒窩（incisive fossa）處注入麻醉劑，主要阻斷下列何神經？",
+    "options": {
+      "A": "鼻腭神經（nasopalatine n.）",
+      "B": "腭大神經（greater palatine n.）",
+      "C": "前上齒槽神經（anterior superior alveolar n.）",
+      "D": "腭小神經（lesser palatine n.）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 7 題",
+    "question": "手術時，不慎切斷動眼神經（oculomotor n.）主幹，下列何種情形最不可能產生？",
+    "options": {
+      "A": "上眼瞼下垂",
+      "B": "瞳孔放大",
+      "C": "淚液分泌減少",
+      "D": "睫狀肌（ciliary m.）麻痺"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 8 題",
+    "question": "下列何者不參與形成鼻腔頂部？",
+    "options": {
+      "A": "額骨（frontal）",
+      "B": "上頜骨（maxilla）",
+      "C": "篩骨（ethmoid）",
+      "D": "蝶骨（sphenoid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 9 題",
+    "question": "3條附著在莖突（styloid process）上的肌肉，受下列六條神經中的那些支配？  ①CN V3 ②CN VII ③CN IX ④CN X ⑤CN XI ⑥CN XII",
+    "options": {
+      "A": "①②⑤",
+      "B": "③④⑥",
+      "C": "①④⑤",
+      "D": "②③⑥"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 10 題",
+    "question": "下列何者攜帶副交感節前神經纖維至耳神經節（otic ganglion）？",
+    "options": {
+      "A": "鼓索神經（chorda tympani n.）",
+      "B": "大岩神經（greater petrosal n.）",
+      "C": "小岩神經（lesser petrosal n.）",
+      "D": "耳顳神經（auriculotemporal n.）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 11 題",
+    "question": "下列何者的起點及終點，都在中軸骨骼上？",
+    "options": {
+      "A": "胸大肌（pectoralis major）",
+      "B": "胸小肌（pectoralis minor）",
+      "C": "前鋸肌（serratus anterior）",
+      "D": "後鋸肌（serratus posterior）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 12 題",
+    "question": "下列何者受損時，會影響前移（protract）肩胛骨（scapula）的功能？",
+    "options": {
+      "A": "胸大肌（pectoralis major）",
+      "B": "胸小肌（pectoralis minor）",
+      "C": "鎖骨下肌（subclavius）",
+      "D": "前鋸肌（serratus anterior）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 13 題",
+    "question": "在正常情況下，房室節（atrioventricular node）最靠近下列何處？",
+    "options": {
+      "A": "右心房與上腔靜脈（superior vena cava）交接處",
+      "B": "右心房冠狀竇（coronary sinus）開口處",
+      "C": "心房中隔（interatrial septum）接近卵圓窩（oval fossa）處",
+      "D": "心房中隔接近冠狀竇開口處"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 14 題",
+    "question": "升結腸的動脈血主要來自：",
+    "options": {
+      "A": "腹腔動脈幹（celiac trunk）",
+      "B": "腸繫膜上動脈（superior mesenteric artery）",
+      "C": "腸繫膜下動脈（inferior mesenteric artery）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 15 題",
+    "question": "下列那一個器官最不可能出現在通過胃體的橫截面影像上？",
+    "options": {
+      "A": "肝臟",
+      "B": "脾臟",
+      "C": "腎臟",
+      "D": "空腸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 16 題",
+    "question": "有關腹直肌（rectus abdominis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "此肌向上附著在肋軟骨及胸骨，向下附著在恥骨",
+      "B": "白線（linea alba）為左右腹直肌間的構造",
+      "C": "支配此肌的腹壁下動脈（inferior epigastric artery）起自髂內動脈（internal iliac artery）",
+      "D": "胸內動脈（internal thoracic artery）的末稍進入其鞘膜內成為腹壁上動脈（superior epigastric artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 17 題",
+    "question": "下列何者位於膀胱的側下方？",
+    "options": {
+      "A": "子宮",
+      "B": "前列腺",
+      "C": "輸尿管",
+      "D": "閉孔內肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 18 題",
+    "question": "手術傷及下列何者最可能切斷卵巢動脈？",
+    "options": {
+      "A": "懸韌帶（suspensory ligament）",
+      "B": "薦棘韌帶（sacrospinous ligament）",
+      "C": "主韌帶（cardinal ligament）",
+      "D": "卵巢圓韌帶（ovarian ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 19 題",
+    "question": "下列何者不是骨盆壁筋膜（parietal pelvic fascia）的構造？",
+    "options": {
+      "A": "子宮圓韌帶（round ligament of uterus）",
+      "B": "主韌帶（cardinal ligament）",
+      "C": "子宮薦骨韌帶（utero-sacral ligament）",
+      "D": "恥骨子宮頸韌帶（pubo-cervical ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 20 題",
+    "question": "與男性陰囊（scrotum）發育同源的女性構造是？",
+    "options": {
+      "A": "大陰唇（labium majora）",
+      "B": "小陰唇（labium minora）",
+      "C": "陰蒂（clitoris）",
+      "D": "前庭球（bulbs of the vestibule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 21 題",
+    "question": "在坐骨棘（ischial spine）處施行陰部神經阻斷術（pudendal nerve block）時，下列何處的感覺最可能受到影響？",
+    "options": {
+      "A": "陰道上端（upper vagina）",
+      "B": "陰阜（mons pubis）",
+      "C": "陰道前庭（vestibule of vagina）",
+      "D": "子宮（uterus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 22 題",
+    "question": "車禍腰部受傷造成右小腿外側感覺喪失，最可能是右側那一條腰部脊神經受損？",
+    "options": {
+      "A": "L2",
+      "B": "L3",
+      "C": "L4",
+      "D": "L5"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 23 題",
+    "question": "內收大肌（adductor magnus）附著於股骨（femur）的下列那一構造？",
+    "options": {
+      "A": "大轉子（greater trochanter）",
+      "B": "小轉子（lesser trochanter）",
+      "C": "轉子間線（intertrochanteric line）",
+      "D": "粗線（linea aspera）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 24 題",
+    "question": "下列何者附著於尺骨的鷹嘴突（olecranon）？",
+    "options": {
+      "A": "橈側伸腕長肌（extensor carpi radialis longus）",
+      "B": "尺側伸腕肌（extensor carpi ulnaris）",
+      "C": "伸指肌（extensor digitorum）",
+      "D": "肘肌（anconeus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 25 題",
+    "question": "下列何者穿過旋後肌（supinator）？",
+    "options": {
+      "A": "橈神經的深支（deep branch of radial nerve）",
+      "B": "橈神經的淺支（superficial branch of radial nerve）",
+      "C": "尺神經的深支（deep branch of ulnar nerve）",
+      "D": "尺神經的淺支（superficial branch of ulnar nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 26 題",
+    "question": "下列何者不是豎脊肌（erector spinae）的一部分？",
+    "options": {
+      "A": "髂肋肌（iliocostalis）",
+      "B": "最長肌（longissimus）",
+      "C": "多裂肌（multifidus）",
+      "D": "棘肌（spinalis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 27 題",
+    "question": "固定脊髓的齒狀韌帶（denticulate ligament）是由下列何者形成？",
+    "options": {
+      "A": "硬脊膜的骨膜層（periosteal layer of dural mater）",
+      "B": "硬脊膜的腦膜層（meningeal layer of dural mater）",
+      "C": "蜘蛛膜（arachnoid mater）",
+      "D": "軟膜（pia mater）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 28 題",
+    "question": "甲狀腺亢進造成兩眼往右看時，嚴重複視，兩個影像平行；向左看時，並無複視。下列何者最可能受侵犯？",
+    "options": {
+      "A": "右內直肌",
+      "B": "右外直肌",
+      "C": "右上直肌",
+      "D": "右下直肌"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

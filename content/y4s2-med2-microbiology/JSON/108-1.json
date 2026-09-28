@@ -1,0 +1,209 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 1 題",
+    "question": "肺炎鏈球菌（Streptococcus pneumoniae）對青黴素（penicillin）產⽣抗性之原因，主要為下列何者？",
+    "options": {
+      "A": "產⽣青黴素分解酶（penicillinase）",
+      "B": "青黴素結合蛋⽩質（penicillin-binding protein）改變",
+      "C": "阻擋青黴素進入菌體",
+      "D": "細胞壁結構改變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 2 題",
+    "question": "對受到禽型分枝桿菌群（Mycobacterium avium Complex, MAC）感染的病患，建議使⽤下列那⼀種藥物合併 ⼄胺丁醇（ethambutol）及利福布丁（rifabutin）進⾏治療？",
+    "options": {
+      "A": "阿奇黴素（azithromycin）",
+      "B": "硝基甲嘧唑⼄醇（metronidazole）",
+      "C": "克拉維酸（clavulanic acid）",
+      "D": "棘⽩菌素（echinocandin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 3 題",
+    "question": "有關細菌抗藥性之敘述，下列何者錯誤？",
+    "options": {
+      "A": "廣泛抗藥性結核桿菌（XDR-TB）比多重抗藥性結核桿菌（MDR-TB）抗更多種藥物",
+      "B": "厭氧菌通常對胺基糖苷類（aminoglycosides）藥物具感受性",
+      "C": "具新德⾥⾦屬β-內酰胺酶（NDM）之細菌，對⼤多β-內酰胺（β-lactams）有抗藥性",
+      "D": "細菌青黴素結合蛋⽩質（penicillin-binding protein）之改變會導致對青黴素（penicillin）產⽣抗性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 4 題",
+    "question": "關於細菌致病島（pathogenicity island）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可位於細菌的染⾊體（chromosome）或質體（plasmid）中",
+      "B": "不存在於轉位⼦（transposon）之中",
+      "C": "可被單⼀因⼦活化，例如：溫度或pH值的改變",
+      "D": "由多數基因所組成，可製造多種致病因⼦（virulence factors）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 5 題",
+    "question": "關於單核細胞增多性李斯特菌（Listeria monocytogenes）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是具運動性（motile）的⾰蘭⽒陽性菌",
+      "B": "可在細胞質內複製，且利⽤肌動蛋⽩（actin）移動⾄鄰近細胞",
+      "C": "主要感染⽅式為吃進受此菌汙染的食物",
+      "D": "此菌能形成內芽胞（endospores）在低溫存活"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 6 題",
+    "question": "對於細菌莢膜（capsule）之敘述，下列何者正確？",
+    "options": {
+      "A": "主要成分為胜肽聚醣（peptidoglycan）",
+      "B": "所有細菌皆有多醣類莢膜",
+      "C": "導致⾰蘭⽒染⾊（Gram stain）反應的主要原因",
+      "D": "能幫助細菌抵抗吞噬作⽤（phagocytosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 7 題",
+    "question": "對於⾁毒桿菌（Clostridium botulinum）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "⾁毒素（Botulinum toxin）主要使細胞內的Rho-GTPase失去活性",
+      "B": "食入受此菌汙染的罐頭食品會造成⾁毒症",
+      "C": "嬰兒食入受到此菌芽胞污染的食物會造成⾁毒症",
+      "D": "⾁毒素可做為⽣化武器，造成吸入性⾁毒症（inhalation botulism）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 8 題",
+    "question": "關於韋爾病（Weil disease）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "其致病菌屬螺旋體（spirochete）",
+      "B": "包括黃疸、腎衰竭、廣泛⾎管炎、⼼肌炎等臨床症狀",
+      "C": "多數感染與從事⽔中活動或接觸動物有關",
+      "D": "常由患者糞便中分離到致病菌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 9 題",
+    "question": "有關細菌23S rRNA甲基化（methylation）會導致對下列那種藥物產⽣抗性？",
+    "options": {
+      "A": "慶⼤黴素（Gentamicin）",
+      "B": "磺胺甲基異唑（Sulfamethoxazole）",
+      "C": "四環黴素（Tetracycline）",
+      "D": "克林黴素（Clindamycin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 10 題",
+    "question": "下列那⼀種病毒有兩條單股RNA基因體，其中⼀條為雙義（ambisense）RNA？",
+    "options": {
+      "A": "拉薩病毒（Lassa virus）",
+      "B": "登⾰病毒（Dengue virus）",
+      "C": "中東呼吸症候群冠狀病毒（MERS-CoV）",
+      "D": "克⾥米亞-剛果出⾎熱病毒（Crimean-Congo hemorrhagic fever virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 11 題",
+    "question": "關於EB 病毒的敘述，下列何者正確？",
+    "options": {
+      "A": "受EB病毒感染的成⼈，通常會出現帶狀疱疹",
+      "B": "在愛滋病⼈體內，EB病毒主要感染T細胞，造成T細胞的過度增⽣",
+      "C": "在⿐咽癌病⼈⾎液中，會偵測到抗EB病毒蛋⽩質的抗體⼒價上升",
+      "D": "EB病毒感染B細胞之後，會進入潛伏狀態，完全不表現任何病毒RNA或蛋⽩質，以躲避免疫系統攻擊"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 12 題",
+    "question": "有關傳染性蛋⽩質（Prion）的敘述，下列何者正確？",
+    "options": {
+      "A": "具有抗原性",
+      "B": "可被福⾺林及紫外線去除活性",
+      "C": "無法有效刺激宿主產⽣⼲擾素（interferon）",
+      "D": "會造成肺泡細胞堅實化病變"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 13 題",
+    "question": "下列何種流感病毒蛋⽩質是屬於質⼦通道（proton channel），與病毒釋放到細胞質有關？",
+    "options": {
+      "A": "基質蛋⽩質（matrix protein, M1）",
+      "B": "膜蛋⽩質（membrane protein, M2）",
+      "C": "核殼體蛋⽩質（nucleocapsid protein, NP）",
+      "D": "RNA聚合酶（polymerase, PA）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 14 題",
+    "question": "對於痘科病毒（Poxvirus）的敘述，下列何者正確？",
+    "options": {
+      "A": "天花的撲滅，是因為全⾯接種猴痘科（monkeypox）病毒的死毒疫苗",
+      "B": "天花的撲滅，是因為全⾯接種天花病毒（variola virus）的減毒疫苗",
+      "C": "猴痘科病毒對動物的感染⽬前仍然流傳於非洲，但不會感染⼈類",
+      "D": "痘科病毒感染細胞後的複製過程在細胞質內進⾏，不需要宿主的DNA複製系統協助"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 15 題",
+    "question": "關於嬰兒玫瑰疹（roseola）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可由⼈類疱疹第六型病毒（human herpesvirus 6）感染所造成",
+      "B": "被感染的成⼈有可能產⽣單核球增多症（mononucleosis）",
+      "C": "被感染的幼兒通常不會發燒",
+      "D": "病⼈體內的病毒會在Ｔ細胞內造成潛伏性感染（latent infection）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 16 題",
+    "question": "有關⾺爾尼菲青黴菌（Talaromyces marneffer; formerly Penicillium memeffei）之敘述，下列何者正確？",
+    "options": {
+      "A": "37℃呈絲狀菌（hyphae）形態",
+      "B": "具關節孢⼦（arthroconidia）",
+      "C": "不會呈現類酵⺟菌（yeast-like）型態",
+      "D": "主要感染途徑為呼吸道（respiratory tract）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 17 題",
+    "question": "培養莢膜組織胞漿菌（Histoplasma capsulatum）時，為防⽌其他汙染真菌之⼲擾，通常於培養基中加入下 列何者？",
+    "options": {
+      "A": "環絲胺酸（Cycloserine）",
+      "B": "放線菌酮（Cycloheximide）",
+      "C": "氯法⿑明（Clofazimine）",
+      "D": "奎奴普丁（Quinupristin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

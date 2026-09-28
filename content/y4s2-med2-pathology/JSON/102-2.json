@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 76 題",
+    "question": "下列有關生長因子（growth factors）的敘述，何者錯誤？",
+    "options": {
+      "A": "表皮生長因子（epidermal growth factor）及轉化生長因子α（transforming growth factor α, TGF-α） 的共同受器（receptor）為表皮生長因子受器（epidermal growth factor receptor, EGFR）",
+      "B": "肝細胞生長因子（hepatocyte growth factor, HGF）的受器為c-MET",
+      "C": "對大部分上皮細胞而言，轉化生長因子β（transforming growth factor β, TGF-β）可抑制其生長",
+      "D": "轉化生長因子β（transforming growth factor β, TGF-β）會導致嚴重的炎症反應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 77 題",
+    "question": "下列何者最能鑑別蟹足腫（keloid）與增生性疤痕（hypertrophic scar）？",
+    "options": {
+      "A": "疤痕組織鼓起的高度",
+      "B": "疤痕組織的生長是否超過原傷口的界線及是否縮小",
+      "C": "疤痕組織內肌纖維母細胞（myofibroblasts）的量",
+      "D": "是否與轉化生長因子β（transforming growth factor β, TGF-β）所引起有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 78 題",
+    "question": "細胞壞死時，pyknosis 之變化為：",
+    "options": {
+      "A": "核變小，染色質鬆散",
+      "B": "核變小，染色質凝聚",
+      "C": "核變大，染色質鬆散",
+      "D": "核變大，染色質凝聚"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 79 題",
+    "question": "一位55 歲男性，有長年抽菸、嚼檳榔與酗酒習慣。因口腔鱗狀上皮細胞癌接受手術前合併化學與放 射線治療，之後發生吞嚥疼痛現象。內視鏡檢查發現食道下三分之一處有一直徑約1.5 公分不規則形潰 瘍，病理切片檢查如圖所示。最可能的診斷為： [圖片]",
+    "options": {
+      "A": "念珠菌（Candida）感染",
+      "B": "口腔鱗狀上皮細胞癌轉移至食道",
+      "C": "合併食道鱗狀上皮細胞癌",
+      "D": "單純疱疹病毒（herpes simplex virus）感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 80 題",
+    "question": "一位40 歲女性兩手時常感覺疼痛、腫脹。接觸到冷水時會特別容易疼痛，而且變得蒼白，持續約20 分鐘後恢復，但接下來會有灼熱疼痛的感覺。每天都會有心口灼熱的感覺。血液中抗細胞核 抗體（antinuclear antibody）、抗染色體中節抗體（anti-centromere antibody）呈陽性反應，其它抗SS-A 抗體（anti-SSA antibody）、抗SS-B 抗體（anti-SSB antibody）、抗史密斯抗體（anti-Sm antibody）、 抗雙股去氧核醣核酸抗體（anti-double stranded DNA antibody）等則呈現陰性反應。下列何者為此病 人罹患疾病典型的病理變化？  ①緻密的膠原纖維（collagen fiber）沉積於皮下組織  ②增生性腎絲球腎炎（diffuse proliferative glomerulonephritis）  ③食道肌肉層被膠原纖維取代",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 81 題",
+    "question": "氣性壞疽（gas gangrene）是下列何者所造成的壞死？",
+    "options": {
+      "A": "黴菌感染",
+      "B": "肺氣腫（pulmonary emphysema）",
+      "C": "梭狀芽孢桿菌（Clostridium）感染",
+      "D": "氣體栓塞（gas embolism）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 82 題",
+    "question": "下列何者與細胞周期G2/M transition 的調控關係（modulation）最低？",
+    "options": {
+      "A": "cyclin D",
+      "B": "CDK 1",
+      "C": "CDK 2",
+      "D": "cyclin B"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 83 題",
+    "question": "下列致癌基因的功能何者不可歸類為細胞內訊息傳遞的角色？",
+    "options": {
+      "A": "ABL",
+      "B": "BRAF",
+      "C": "ERBB2",
+      "D": "β-catenin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 84 題",
+    "question": "下列何種心包炎最易進展至窄縮性心包炎（constrictive pericarditis）？",
+    "options": {
+      "A": "漿液性心包炎（serous pericarditis）",
+      "B": "纖維蛋白性心包炎（fibrinous pericarditis）",
+      "C": "漿液纖維蛋白性心包炎（serofibrinous pericarditis）",
+      "D": "化膿性心包炎（suppurative pericarditis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 85 題",
+    "question": "一位22 歲男性病人，睪丸手術後即反應傷口劇痛，發現陰囊有巨大血腫塊。病人血球計數正常，凝血 酶原時間（PT）正常，部分促凝血酶原激酶時間（aPTT）延長，血纖維蛋白原（fibrinogen）正常。必 須加做下列那些測試才能獲得正確之診斷？①aPTT 矯正測試（correction studies of aPTT） ②出血 時間（bleeding time） ③第八或第九凝血因子測試（factor VIII or factor IX assays） ④第七凝血因 子測試（factor VII assay）",
+    "options": {
+      "A": "①③",
+      "B": "②④",
+      "C": "①②③",
+      "D": "①②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 86 題",
+    "question": "造成慢性肺高壓之原因，最不可能為下列何者？",
+    "options": {
+      "A": "肺栓塞",
+      "B": "慢性阻塞性肺病",
+      "C": "左心衰竭",
+      "D": "三尖瓣狹窄"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 87 題",
+    "question": "下列何種肺癌屬於神經內分泌細胞腫瘤？",
+    "options": {
+      "A": "腺癌",
+      "B": "鱗狀上皮細胞癌",
+      "C": "小細胞癌",
+      "D": "大細胞癌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 88 題",
+    "question": "下列何者可導致肺水腫？",
+    "options": {
+      "A": "右心衰竭",
+      "B": "血清白蛋白（albumin）濃度增加",
+      "C": "腎病症候群（nephrotic syndrome）",
+      "D": "肺動脈阻塞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 89 題",
+    "question": "一位40 歲病人主訴咳血，X 光顯示局部肺實質化（consolidation）併有新月形腎絲球腎炎（crescentic  glomerulonephritis）。其診斷最有可能為：",
+    "options": {
+      "A": "Goodpasture syndrome",
+      "B": "idiopathic pulmonary hemosiderosis",
+      "C": "肺高壓",
+      "D": "肺炎併發敗血症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 90 題",
+    "question": "【背景題幹：一位40 歲病人主訴咳血，X 光顯示局部肺實質化（consolidation）併有新月形腎絲球腎炎（crescentic  glomerulonephritis）。其診斷最有可能為：】\n承上題，其組織變化最不可能出現下列何者？",
+    "options": {
+      "A": "肺泡內出血",
+      "B": "巨噬細胞出現",
+      "C": "肺泡壁變薄",
+      "D": "抗基底膜抗體出現"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 91 題",
+    "question": "有關急性胰臟炎的敘述，下列何者錯誤？",
+    "options": {
+      "A": "組織學檢查常見脂肪壞死（fat necrosis）",
+      "B": "膽結石是急性胰臟炎的常見原因之一",
+      "C": "易出現高血鈣症（hypercalcemia）",
+      "D": "PRSS1 基因突變是造成遺傳性胰臟炎的最常見原因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 92 題",
+    "question": "有關胃癌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "瀰散型（diffuse type）常見CDH1 基因突變",
+      "B": "瀰散型（diffuse type）較腸型（intestinal type）更常見於高發生率的國家",
+      "C": "近年來胃癌發生率的下降，主要是腸型（intestinal type）的減少",
+      "D": "家族性胃癌大多是瀰散型（diffuse type）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 93 題",
+    "question": "一位40 歲男性為潰瘍性結腸炎（ulcerative colitis）的患者，最近1 個月出現皮膚癢、膚色變黃等現 象。肝臟切片發現膽小管周圍有發炎細胞浸潤，膽小管周圍有纖維組織包圍呈現洋蔥皮樣的排列 （onion-skin fibrosis），抗粒線體抗體（anti-mitochondrial antibody）呈現陰性反應，則下列何者為最 可能之診斷？",
+    "options": {
+      "A": "原發性硬化性膽管炎（primary sclerosing cholangitis）",
+      "B": "原發性膽道硬化症（primary biliary cirrhosis）",
+      "C": "先天性肝臟纖維化（congenital hepatic fibrosis）",
+      "D": "肝內結石（intrahepatic cholelithiasis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 94 題",
+    "question": "一位32 歲男性病人右側耳下有顆1.5 公分慢慢長大的腫瘤，持續約半年之久，就醫後經手術切除， 其病理切片檢查如圖示。請問下列診斷或敘述何者最適當？ [圖片]",
+    "options": {
+      "A": "軟骨瘤（chondroma）",
+      "B": "腮腺發炎併軟骨化生（sialadenitis with chondroid metaplasia）",
+      "C": "腺樣囊狀癌（adenoid cystic carcinoma）",
+      "D": "多形性腺瘤（pleomorphic adenoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 95 題",
+    "question": "在成年男性，下列何種病毒性疾病最易侵犯睪丸？",
+    "options": {
+      "A": "麻疹（measles）",
+      "B": "德國麻疹（rubella）",
+      "C": "腮腺炎（mumps）",
+      "D": "疱疹（herpes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 96 題",
+    "question": "一位56 歲女性，最近幾個月來腹圍逐漸變大。身體診查發現兩側卵巢有囊狀腫瘤及腹水存在。細胞 學檢查發現腹水中有惡性細胞。她接受腫瘤切除手術，標本的腫瘤囊壁表面可見許多乳突樣突起。 下列有關此病變的敘述，何者最正確？",
+    "options": {
+      "A": "血中β-human chorionic gonadotropin 濃度增加",
+      "B": "很可能出現腹腔偽黏液瘤（pseudomyxoma peritonei）",
+      "C": "卵巢腫瘤最可能是顆粒細胞瘤（granulosa cell tumor）",
+      "D": "顯微鏡下觀察卵巢腫瘤，常可見砂礫小體（psammoma bodies）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 97 題",
+    "question": "一位18 歲女性，因為這幾個月來覺得下腹部不適而就醫。骨盆腔檢查發現她左側卵巢有一個10 公 分大的腫瘤，右側卵巢及子宮大小正常。她接受腫瘤切除手術。肉眼觀察發現這是一個實體灰白色 的腫瘤。顯微鏡下可見腫瘤大多數是由不分化的間質細胞組成，部分細胞有軟骨或神經上皮分化。 有關此腫瘤的敘述，下列何者正確？",
+    "options": {
+      "A": "是一種惡性腫瘤",
+      "B": "腫瘤細胞源自卵巢的間質細胞",
+      "C": "此腫瘤常伴隨子宮內膜增生",
+      "D": "此腫瘤與BRCA1 基因異常有關"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 98 題",
+    "question": "一位54 歲女性發現子宮內有一個10 公分的腫瘤，隨後病人接受了全子宮切除術。巨觀下這個子宮 的腫瘤呈現紅棕色，顯微鏡下看到細胞密度很高的紡錘形腫瘤細胞，細胞核十分濃染，每個高倍鏡 視野下都可以看到約10～20 個有絲分裂。則最有可能的診斷是什麼？",
+    "options": {
+      "A": "子宮內膜息肉（endometrial polyp）",
+      "B": "子宮腺肌症（adenomyosis）",
+      "C": "平滑肌肉瘤（leiomyosarcoma）",
+      "D": "平滑肌瘤（leiomyoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 99 題",
+    "question": "一位20 歲男性，因情緒、記憶及行為改變，檢查發現大腦顳葉的內下側及額葉之眶回（orbital gyri） 有壞死及出血，請問此病灶最可能是由何種病毒引起？",
+    "options": {
+      "A": "第一型單純疱疹病毒（herpes simplex virus type 1）",
+      "B": "第二型單純疱疹病毒（herpes simplex virus type 2）",
+      "C": "帶狀疱疹病毒（varicella-zoster virus）",
+      "D": "巨細胞病毒（cytomegalovirus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 100 題",
+    "question": "圖示之腦部病變最符合下列那一項病況？ [圖片]",
+    "options": {
+      "A": "36 歲女性，有多種神經學症狀，一再緩解及復發",
+      "B": "31 歲男性，人類免疫不全病毒感染後失智",
+      "C": "成年病人頭痛、發燒及額竇炎",
+      "D": "60 歲高血壓的病人，出現嚴重頭痛及出血性腦脊髓液"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

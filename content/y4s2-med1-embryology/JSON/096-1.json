@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 29 題",
+    "question": "先天視網膜剝離症通常是由於下列何者沒有癒合所造成？",
+    "options": {
+      "A": "視杯（optic cup）的內外層",
+      "B": "視網膜與水晶體之間",
+      "C": "色素層與脈絡層／鞏膜間",
+      "D": "眼柄（optic stalk）基部"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 30 題",
+    "question": "胚胎發育時，十二指腸向右旋轉，導致腹胰芽也向背側移動而逐漸形成胰臟之何部分？",
+    "options": {
+      "A": "頭部",
+      "B": "鈎狀部和頭部下段",
+      "C": "尾部",
+      "D": "體部"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 31 題",
+    "question": "胎盤的絨毛間隙（intervillous space）內含有：",
+    "options": {
+      "A": "母體血液",
+      "B": "胎兒血液",
+      "C": "胎兒血漿及母體血液",
+      "D": "胎兒血液及母體血漿"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 32 題",
+    "question": "下列何者由橫隔（septum transversum）發育形成？",
+    "options": {
+      "A": "原始縱膈（primitive mediastinum）",
+      "B": "肋橫膈隱窩（costodiaphragmatic recess）",
+      "C": "橫膈膜周邊部分（peripheral portion of diaphragm）",
+      "D": "橫膈膜中央腱（central tendon of diaphragm）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

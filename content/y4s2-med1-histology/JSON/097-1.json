@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 33 題",
+    "question": "在眼球中，下列何者不屬於葡萄膜（uvea or tunica vasculosa）？",
+    "options": {
+      "A": "虹膜（iris）",
+      "B": "網膜色素層（pigment epithelium）",
+      "C": "睫狀體（ciliary body）",
+      "D": "脈絡膜（choroid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 34 題",
+    "question": "「淋巴結（lymph node）」具有下列何種特徵？",
+    "options": {
+      "A": "含有淋巴竇（lymphatic sinus）",
+      "B": "僅有輸出淋巴管",
+      "C": "有白髓（white pulp）和紅髓（red pulp）",
+      "D": "主要功能為過濾血液"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 35 題",
+    "question": "子宮頸陰道部的上皮組織屬於下列何者？",
+    "options": {
+      "A": "分泌黏膜之單層柱狀上皮組織（mucus-secreting simple columnar epithelium）",
+      "B": "複層無角質鱗狀上皮組織（stratified nonkeratinized squamous epithelium）",
+      "C": "過渡型上皮組織（transitional epithelium）",
+      "D": "單層立方上皮組織（simple cuboidal epithelium）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 36 題",
+    "question": "具有「膠質原纖維酸性蛋白（glial fibrillar acidic protein, GFAP）」的細胞是：",
+    "options": {
+      "A": "星狀膠細胞（astrocyte）",
+      "B": "腦室襯裏細胞（ependymal cell）",
+      "C": "寡突膠細胞（oligodendrocyte）",
+      "D": "微膠細胞（microglia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 37 題",
+    "question": "下列有關牙齒的敘述，何者正確？",
+    "options": {
+      "A": "星形網（stellate reticulum）是由間葉（mesenchyme）衍生而來",
+      "B": "琺瑯質（enamel）是由外胚層（ectoderm）衍生而來",
+      "C": "齒質（dentine）是人體中最硬的構造",
+      "D": "琺瑯質先形成之後，齒質再形成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 38 題",
+    "question": "破骨細胞（osteoclast）較常出現的區域是：",
+    "options": {
+      "A": "骺板細胞增殖區（zone of cell proliferation）",
+      "B": "骺板細胞肥大和軟骨鈣化區（zone of hypertrophy and calcification）",
+      "C": "骺板軟骨儲備區（zone of reserve cartilage）",
+      "D": "骺板骨化區（osteogenic zone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 39 題",
+    "question": "下列那一細胞層，僅出現在手掌或腳掌之厚皮膚？",
+    "options": {
+      "A": "角質層（stratum corneum）",
+      "B": "透明層（stratum lucidum）",
+      "C": "顆粒層（stratum granulosum）",
+      "D": "棘狀層（stratum spinosum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 40 題",
+    "question": "下列何者為單層膜的胞器？",
+    "options": {
+      "A": "核仁（nucleolus）",
+      "B": "粒線體（mitochondria）",
+      "C": "核膜（nuclear envelope）",
+      "D": "溶酶體（lysosome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 41 題",
+    "question": "早產兒有呼吸窘迫症，主要是因下列何種細胞之功能異常？",
+    "options": {
+      "A": "第一型肺泡細胞（typeⅠpneumocytes）",
+      "B": "第二型肺泡細胞（typeⅡpneumocytes）",
+      "C": "刷細胞（brush cells）",
+      "D": "Clara 細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

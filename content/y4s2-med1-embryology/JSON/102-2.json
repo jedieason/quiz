@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 29 題",
+    "question": "在非胚胎極（abembryonic pole）處，絨毛膜上的絨毛約於第幾個月退化完全，形成平滑絨毛膜 （chorion laeve）？",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 30 題",
+    "question": "下列何者由後腎中胚層（metanephric mesoderm）形成？",
+    "options": {
+      "A": "輸尿管（ureter）",
+      "B": "集尿管（collecting duct）",
+      "C": "近曲小管（proximal convoluted tubule）",
+      "D": "小腎盞（minor calyx）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 31 題",
+    "question": "心房中隔缺損（atrial septal defect）最常發生於下列何處？",
+    "options": {
+      "A": "卵圓孔（oval foramen）",
+      "B": "冠狀竇（coronary sinus）",
+      "C": "右心耳（right auricle）",
+      "D": "終嵴（crista terminalis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 32 題",
+    "question": "下列何者不是由膜內骨化（intramembranous ossification）方式形成？",
+    "options": {
+      "A": "上頜骨（maxilla）",
+      "B": "下頜骨（mandible）",
+      "C": "顳骨岩部（petrous part of temporal bone）",
+      "D": "頂骨（parietal bone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

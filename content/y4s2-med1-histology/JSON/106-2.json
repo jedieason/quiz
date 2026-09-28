@@ -1,0 +1,125 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 37 題",
+    "question": "成人中樞神經系統中，下列何者最常形成原發型腫瘤？",
+    "options": {
+      "A": "神經母細胞（neuroblasts）",
+      "B": "淋巴細胞（lymphocytes）",
+      "C": "纖維性星狀膠細胞（fibrous astrocytes）",
+      "D": "寡突神經膠質細胞（oligodendrocytes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 38 題",
+    "question": "在組織切片中，下列那一構造是纖維軟骨（fibrocartilage）才有，而規則緻密結締組織中沒有？",
+    "options": {
+      "A": "纖維母細胞（fibroblasts）",
+      "B": "膠原纖維（collagen fibers）",
+      "C": "基質（matrix）",
+      "D": "陷窩（lacuna）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 39 題",
+    "question": "可以讓相鄰的骨細胞（osteocytes）進行物質交換的構造是什麼？",
+    "options": {
+      "A": "緊密接合（tight junction）",
+      "B": "黏連接合（adhering junction）",
+      "C": "胞橋小體（desmosome）",
+      "D": "間隙接合（gap junction）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 40 題",
+    "question": "派亞氏斑（Peyer's patch）具有下列何種特徵？",
+    "options": {
+      "A": "是微血管聚集形成的構造",
+      "B": "是內分泌細胞聚集形成的構造",
+      "C": "是淋巴球聚集形成的構造",
+      "D": "是神經細胞聚集形成的構造"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 41 題",
+    "question": "下列有關胃腺壁細胞（parietal cells）的敘述，何者錯誤？",
+    "options": {
+      "A": "具有胞內小管系統（intracellular canaliculi）和微絨毛（microvilli）",
+      "B": "不存在於賁門（cardiac region）",
+      "C": "可在胞質內合成鹽酸（HCl）",
+      "D": "可分泌鹽酸（HCl）和內在因子（intrinsic factor），幫助維生素B12吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 42 題",
+    "question": "有關肝臟之組織，下列何者錯誤？",
+    "options": {
+      "A": "肝細胞中的脂蛋白複體（lipoprotein complex）在電鏡下呈密心小泡（dense-cored vesicle）形態",
+      "B": "肝細胞脂蛋白複體（lipoprotein complex）的脂質部分是由平滑內質網產生，蛋白質部分由粗糙內質網產生",
+      "C": "供應肝之血液循環不良時，肝門管小葉第一區（zone 1 of liver acinus）的細胞最先死亡且最後再生",
+      "D": "對毒物及膽汁淤滯（bile stasis）最慢反應的細胞是位於肝門管小葉第三區（zone 3 of liver acinus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 43 題",
+    "question": "有關呼吸系統之組織發生病變，下列敘述何者錯誤？",
+    "options": {
+      "A": "囊腫性纖維化（cystic fibrosis）是一種好發於小孩與年輕人的遺傳性、慢性阻塞呼吸疾病",
+      "B": "肺泡巨噬細胞（alveolar macrophage）可吞噬並分解結核桿菌（Mycobacterium tuberculosis）",
+      "C": "終末支氣管（terminal bronchiole）之後的空氣間隙呈永久性擴張（permanent enlargement）會導致肺氣腫 （emphysema）",
+      "D": "慢性支氣管炎（chronic bronchitis）或支氣管擴張（bronchiectasis）時，部分呼吸上皮會轉化為複層扁平上 皮（stratified squamous epithelium）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 44 題",
+    "question": "下列何種細胞與交感神經元同源？",
+    "options": {
+      "A": "腎上腺嗜鉻細胞（chromaffin cells）",
+      "B": "腎上腺皮質細胞（adrenocortical cells）",
+      "C": "副甲狀腺主細胞（parathyroid chief cells）",
+      "D": "甲狀腺濾泡細胞（thyroid follicular cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 45 題",
+    "question": "副睪（epididymis）之內襯上皮屬於：",
+    "options": {
+      "A": "偽複層柱狀上皮（pseudostratified columnar epithelium ）",
+      "B": "複層扁平上皮（stratified squamous epithelium）",
+      "C": "多層柱狀上皮（stratified columnar epithelium）",
+      "D": "移形上皮（transitional epithelium）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 46 題",
+    "question": "關於虹膜（iris）的敘述，何項錯誤？",
+    "options": {
+      "A": "虹膜屬於眼球之纖維層（tunica fibrosa）",
+      "B": "眼球之前房及後房（anterior & posterior chamber）是以虹膜為界限",
+      "C": "虹膜的開口（即瞳孔pupil）藉由平滑肌作用控制",
+      "D": "虹膜基質內含血管及神經纖維"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

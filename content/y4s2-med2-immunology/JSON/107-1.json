@@ -1,0 +1,139 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 18 題",
+    "question": "下列那一種分子在人類所有具有細胞核的細胞中都會表現？",
+    "options": {
+      "A": "IL-1",
+      "B": "IL-2",
+      "C": "MHC-I",
+      "D": "MHC-II"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 19 題",
+    "question": "下列那一項為免疫球蛋白（immunoglobulin）基因重組（gene rearrangement）的起始步驟？",
+    "options": {
+      "A": "重鏈（heavy chain）之V,J剪接",
+      "B": "重鏈（heavy chain）之V,D剪接",
+      "C": "重鏈（heavy chain）之D,J剪接",
+      "D": "輕鏈（light chain）之V,J剪接"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 20 題",
+    "question": "有關不同$CD4^+$ T細胞亞群（subset）的功能，下列敘述何者錯誤？",
+    "options": {
+      "A": "第一型輔助性T細胞（TH1）不會幫助巨噬細胞活化，及抗體之產生",
+      "B": "第二型輔助性T細胞（TH2）主要幫助B細胞產生抗體，以及幫助寄生蟲之清除",
+      "C": "調節性T細胞可藉由抑制抗原呈現細胞之功能，來抑制免疫反應之強度",
+      "D": "第十七型輔助性T細胞（TH17）會藉由幫助嗜中性白血球的趨化與活化，來控制早期的感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 21 題",
+    "question": "下列有關自體耐受性（self tolerance）的觀念何者錯誤？",
+    "options": {
+      "A": "胸腺與骨髓是維持自我耐受性的重要器官",
+      "B": "T淋巴細胞自胸腺成熟後，仍有調控機制在維持其周邊耐受性",
+      "C": "自胸腺分化來的調節性T細胞（regulatory T cell），可以抑制自體反應性T細胞的活性",
+      "D": "調節性T細胞（regulatory T cell）可有效清除腫瘤細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 22 題",
+    "question": "關於免疫球蛋白（抗體），下列敘述何者錯誤？",
+    "options": {
+      "A": "成熟的B淋巴球可製造特異性的免疫球蛋白",
+      "B": "IgＭ能通過胎盤使新生兒獲得抗體",
+      "C": "IgE濃度增加代表個體產生過敏反應或受寄生蟲感染",
+      "D": "每個抗體分子均由二對多肽鏈組成，共包含兩條重鏈與兩條輕鏈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 23 題",
+    "question": "人類免疫缺乏病毒（HIV）經由 CD4 分子進入白血球時，經常利用下列何者當作共同接受體？",
+    "options": {
+      "A": "CD40",
+      "B": "CD40 ligand",
+      "C": "CXCR4",
+      "D": "CCR4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 24 題",
+    "question": "因為22對染色體部分缺損（22q11.2）而造成的DiGeorge症候群，下列何者不屬於其常見症狀？",
+    "options": {
+      "A": "甲狀腺發育不全",
+      "B": "胸腺發育不全",
+      "C": "先天性心臟病",
+      "D": "臉型異常"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 25 題",
+    "question": "人體內T細胞大量分泌那些細胞激素，與引發遲發型（delayed-type）過敏反應的臨床症狀最相關？",
+    "options": {
+      "A": "IL-4 + IL-5",
+      "B": "IL-5 + IL-17",
+      "C": "IL-17 + IFN-γ",
+      "D": "IFN-γ + IL-4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 26 題",
+    "question": "許多新的生物製劑及擬人化的單株抗體已經被發展出來，以治療自體免疫病，但不包括下列那一項？",
+    "options": {
+      "A": "抗CD20抗體（CD20-specific monoclonal antibody）治療類風濕性關節炎（rheumatoid arthritis）及紅斑性 狼瘡（systemic lupus erythematosus）",
+      "B": "抗CD3抗體（CD3-specific monoclonal antibody）治療第一型糖尿病（type 1 diabetes mellitus）",
+      "C": "抗腫瘤壞死因子抗體（anti-TNF-α antibody）治療類風濕性關節炎",
+      "D": "抗DNA helicase抗體（anti-DNA helicase monoclonal antibody）治療紅斑性狼瘡"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 27 題",
+    "question": "腫瘤細胞有多種方式逃避免疫系統的偵查及消滅，而得以繼續長大，但不包括下列那一項？",
+    "options": {
+      "A": "不表現黏著分子（adhesion molecules）及共同刺激分子（co-stimulatory molecules）",
+      "B": "升高抗IgG抗體（anti-IgG antibody）之風濕因子（rheumatoid factor）以自我保護",
+      "C": "分泌出抑制T細胞作用的因子",
+      "D": "分泌出物質包裹自己，形成免疫優勢場所（tumor-induced privileged site）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 28 題",
+    "question": "下列何種免疫調節劑是影響到適應性免疫反應（adaptive immune responses），而不同於一般細胞毒性藥 物（cytotoxic agent）主要作用於所有正在分裂的細胞？",
+    "options": {
+      "A": "Azathioprine",
+      "B": "Cyclophosphamide",
+      "C": "Mycophenolate",
+      "D": "Rapamycin"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

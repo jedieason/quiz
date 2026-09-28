@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 33 題",
+    "question": "胰臟外分泌細胞是屬於何種分泌（secretion）方式？",
+    "options": {
+      "A": "部分分泌（merocrine）",
+      "B": "頂漿分泌（apocrine）",
+      "C": "全漿分泌（holocrine）",
+      "D": "擴散方式（diffusion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 34 題",
+    "question": "胸膜壁層（parietal pleura）的上皮屬於下列何者？",
+    "options": {
+      "A": "單層扁平上皮（simple squamous epithelium）",
+      "B": "單層柱狀上皮（simple columnar epithelium）",
+      "C": "單層立方上皮（simple cuboidal epithelium）",
+      "D": "移形上皮（transitional epithelium）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 35 題",
+    "question": "骨骺板（epiphyseal plate）中，下列何者的軟骨細胞會進行細胞凋亡（apoptosis）？",
+    "options": {
+      "A": "軟骨鈣化區（zone of calcified cartilage）",
+      "B": "軟骨肥大區（zone of hypertrophy）",
+      "C": "軟骨增生區（zone of proliferation）",
+      "D": "軟骨儲備區（zone of reserve cartilage）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 36 題",
+    "question": "下列何者是心肌細胞和平滑肌細胞皆有的構造？",
+    "options": {
+      "A": "三聯體（triad）",
+      "B": "緻密體（dense body）",
+      "C": "緊密接合（tight junction）",
+      "D": "間隙接合（gap junction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 37 題",
+    "question": "下列有關大靜脈的敘述，何者正確？",
+    "options": {
+      "A": "大靜脈的外膜（tunica adventitia）比中膜（tunica media）厚",
+      "B": "與彈性動脈比較，大靜脈的中膜（tunica media）有較多彈性板（elastic lamellae）",
+      "C": "大靜脈的外膜（tunica adventitia）缺少平滑肌細胞（smooth muscle cells）分布",
+      "D": "大靜脈的滋養管（vasa vasorum）主要位於中膜（tunica media），供應血管壁養分"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 38 題",
+    "question": "周細胞（pericytes）主要位於何種血管壁？",
+    "options": {
+      "A": "連續性微血管（continuous capillaries）",
+      "B": "中型靜脈（medium veins）",
+      "C": "肌型動脈（muscular arteries）",
+      "D": "小動脈（arterioles）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 39 題",
+    "question": "下列消化道中，那一部位黏膜為非角化複層扁平上皮（nonkeratinized stratified squamous epithelium）？",
+    "options": {
+      "A": "十二指腸",
+      "B": "盲腸",
+      "C": "胃",
+      "D": "食道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 40 題",
+    "question": "可被鉻鹽溶液染上的細胞是：",
+    "options": {
+      "A": "腎上腺皮質細胞（adrenocortical cells）",
+      "B": "腎上腺髓質細胞（adrenomedullary cells）",
+      "C": "副甲狀腺主細胞（chief cells of parathyroid gland）",
+      "D": "副甲狀腺嗜酸性細胞（oxyphil cells of parathyroid gland）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 41 題",
+    "question": "閉鎖黃體（atretic corpus luteum）為下列何者衍生而來？",
+    "options": {
+      "A": "顆粒層細胞（cells of the stratum granulosum）",
+      "B": "內鞘細胞（cells of the theca interna）",
+      "C": "外鞘細胞（cells of the theca externa）",
+      "D": "濾泡細胞（follicular cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

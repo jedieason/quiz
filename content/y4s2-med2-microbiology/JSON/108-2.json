@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 1 題",
+    "question": "關於奴卡氏菌屬（Nocardia species）之敘述，下列何者正確？",
+    "options": {
+      "A": "為革蘭氏陰性桿菌",
+      "B": "較少引起肺部及皮膚感染",
+      "C": "為細胞壁含黴菌酸（mycolic acid）之需氧菌",
+      "D": "不會產生索狀因子（cord factor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 2 題",
+    "question": "下列何種藥物最適合治療肺炎黴漿菌（Mycoplasma pneumoniae）所引起之肺炎？",
+    "options": {
+      "A": "青黴素（Penicillin）",
+      "B": "碳青黴烯（Carbapenem）",
+      "C": "頭孢子素（Cephalosporin）",
+      "D": "紅黴素（Erythromycin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 3 題",
+    "question": "關於分枝桿菌（Mycobacteria）之敘述，下列何者正確？",
+    "options": {
+      "A": "堪薩斯分枝桿菌（Mycobacterium kansasii ）為非致病之正常菌叢",
+      "B": "鳥型分枝桿菌（Mycobacterium avium）常見於感染愛滋病病人",
+      "C": "海洋分枝桿菌（Mycobacterium marinum）不會造成人類感染",
+      "D": "牛型分枝桿菌（Mycobacterium bovis）非人類致病菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 4 題",
+    "question": "糞腸球菌（Enterococcus faecalis）最有可能引發下列那種疾病？",
+    "options": {
+      "A": "肺炎（pneumonia）",
+      "B": "腦膜炎（meningitis）",
+      "C": "食物中毒（food poisoning）",
+      "D": "泌尿道感染（urinary tract infection）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 5 題",
+    "question": "有關A群鏈球菌（Group A Streptococci）之溶血素O （streptolysin O）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "對氧氣敏感（oxygen-labile）",
+      "B": "其所引起的抗體（ASO）之效價，是診斷鏈球菌咽喉炎所引起的風濕熱（rheumatic fever）的重要依據",
+      "C": "在此菌所引起的膿皮症（pyoderma）病患中容易測得高效價的抗體（ASO）",
+      "D": "與肺炎鏈球菌（S. pneumoniae）所產生之對氧氣敏感的毒素之抗原性相關"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 6 題",
+    "question": "金黃色葡萄球菌（Staphylococcus aureus）最不可能產生下列那種酵素？",
+    "options": {
+      "A": "玻尿酸酶（Hyaluronidase）",
+      "B": "纖溶酶（Fibrinolysin）",
+      "C": "凝固酶（Coagulase）",
+      "D": "C5a 蛋白酶（C5a peptidase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 7 題",
+    "question": "下列何種分枝桿菌（Mycobacteria）屬於慢速生長型（slow-growing）？",
+    "options": {
+      "A": "龜分枝桿菌（Mycobacterium chelonae）",
+      "B": "結核分枝桿菌（Mycobacterium tuberculosis）",
+      "C": "偶發分枝桿菌（Mycobacterium fortuitum）",
+      "D": "膿瘍分枝桿菌（Mycobacterium abscessus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 8 題",
+    "question": "一名受EB病毒（Epstein-Barr virus, EBV）感染的病人，其血清學檢查如下：anti-VCA IgM (+)、anti-VCA IgG  (+)、anti-EA (+/-)、anti-EBNA (-)，此病人的情況屬於下列何者？[VCA：病毒殼蛋白質抗原（viral capsid  antigen）；EA：早期抗原（early antigen）; EBNA：EB病毒核抗原（Epstein-Barr nuclear antigen）]",
+    "options": {
+      "A": "EB病毒感染的急性期（acute primary infection）",
+      "B": "EB病毒慢性感染期（chronic primary infection）",
+      "C": "曾被EB病毒感染（past infection）",
+      "D": "曾被EB病毒感染，現在病毒再活化（reactivation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 9 題",
+    "question": "下列何者不屬於目前美國食品與藥物管理局（FDA）認可的HIV抗病毒藥物？",
+    "options": {
+      "A": "蛋白酶抑制劑（protease inhibitor）",
+      "B": "嵌入酶抑制劑（integrase inhibitor）",
+      "C": "核苷類似物反轉錄酶抑制劑（nucleoside analog RT inhibitor）",
+      "D": "病毒出芽抑制劑（budding inhibitor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 10 題",
+    "question": "下列病毒中，現在何種能以施打減毒疫苗方式進行最佳預防？",
+    "options": {
+      "A": "單純疱疹病毒（Herpes simplex virus）",
+      "B": "第八型人類疱疹病毒（Human herpesvirus-8）",
+      "C": "EB病毒（Epstein-Barr virus）",
+      "D": "水痘-帶狀疱疹病毒（Varicella-zoster virus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 11 題",
+    "question": "下列何種病毒最常造成先天性疾病，並影響新生兒聽力與智能發展？",
+    "options": {
+      "A": "麻疹病毒（Measles virus）",
+      "B": "單純疱疹病毒（Herpes simplex virus）",
+      "C": "巨細胞病毒（Cytomegalovirus）",
+      "D": "B19細小病毒（Parvovirus B19）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 12 題",
+    "question": "感染下列何種病毒，若自行服用阿司匹靈（Aspirin）等水楊酸類（salicylates）退燒藥物後，最易增加兒童罹 患雷氏症候群（Reye syndrome）的風險？",
+    "options": {
+      "A": "德國麻疹病毒（Rubella virus）",
+      "B": "麻疹病毒（Measles virus）",
+      "C": "流感病毒（Influenza virus）",
+      "D": "狂犬病病毒（Rabies virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 13 題",
+    "question": "人類是下列何種病毒中，最明確的天然宿主？",
+    "options": {
+      "A": "辛德畢斯病毒（Sindbis virus）",
+      "B": "塞姆利基森林病毒（Semliki Forest virus）",
+      "C": "西尼羅腦炎病毒（West Nile encephalitis virus）",
+      "D": "基孔肯雅病毒（Chikungunya virus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 14 題",
+    "question": "有關花斑癬（pityriasis versicolor）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "最常見於年輕人",
+      "B": "致病原為粃糠馬拉色菌綜合菌（Malassezia furfur complex）",
+      "C": "致病原未歸類為自然界腐生菌",
+      "D": "無法由檢體直接做鏡檢診斷"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 15 題",
+    "question": "制黴菌素（Nystatin）之作用機轉，與下列何種藥物一樣？",
+    "options": {
+      "A": "氟胞嘧啶（Flucytosine）",
+      "B": "兩性黴素（Amphotericin B）",
+      "C": "卡泊芬淨（Caspofungin）",
+      "D": "糞殼菌素（Sordarin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 16 題",
+    "question": "治療愛滋病（AIDS）的藥物疊氮胸苷（azidothymidine, AZT），是針對病毒那個基因的產物？",
+    "options": {
+      "A": "env",
+      "B": "gag",
+      "C": "tat",
+      "D": "pol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 17 題",
+    "question": "真菌之無性孢子（asexual spores）可分成那兩大類？",
+    "options": {
+      "A": "分生孢子（conidia）及囊孢子（sporangiospores）",
+      "B": "瓶孢子（phialides）及分節孢子（arthrospores）",
+      "C": "厚膜孢子（chlamydospores）及分節孢子（arthrospores）",
+      "D": "分節孢子（arthrospores）及芽生孢子（blastospores）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

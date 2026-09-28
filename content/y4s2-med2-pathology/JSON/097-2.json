@@ -1,0 +1,311 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 76 題",
+    "question": "一名32 歲婦女因在右側乳房摸到腫塊而就醫，並接受切片檢查。她家人並未有乳癌病史。下列何種 病理變化代表此位婦女未來有最高的機會得到侵襲性乳癌？",
+    "options": {
+      "A": "頂漿腺變化（Apocrine change）",
+      "B": "異型乳腺管增生（Atypical ductal hyperplasia）",
+      "C": "複雜硬化性病變（Complex sclerosing lesion）",
+      "D": "纖維腺瘤併複雜表現（Fibroadenoma with complex features）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 77 題",
+    "question": "一名28 歲男性發現皮膚上有許多epidermal cysts，進一步檢查發現在下頷骨有一個骨瘤（osteoma）， 同時在大腸有無數個腺性息肉（adenomatous polyps）。下列何者是最可能的診斷？",
+    "options": {
+      "A": "家族性腺瘤息肉症（Familial adenomatous polyposis）",
+      "B": "Gardner 症候群",
+      "C": "Peutz-Jeghers 症候群",
+      "D": "Turcot 症候群"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 78 題",
+    "question": "急性發炎中，引起疼痛及血管通透性增加的是下列那一項？",
+    "options": {
+      "A": "補體（complement）",
+      "B": "組織胺（histamine）",
+      "C": "緩激肽（bradykinin）",
+      "D": "內毒素（endotoxin）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或 Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 79 題",
+    "question": "小腦的血管母細胞瘤（hemangioblastoma）最可能是下列那一個疾病或症候群的一部分？",
+    "options": {
+      "A": "第I 型神經纖維瘤病（neurofibromatosis type 1）",
+      "B": "第II 型神經纖維瘤病（neurofibromatosis type 2）",
+      "C": "von Hippel-Lindau 病",
+      "D": "結節性硬化（tuberous sclerosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 80 題",
+    "question": "下列女性均為35 歲，何者最容易罹患子宮內膜癌？",
+    "options": {
+      "A": "青少年期卵巢便已切除",
+      "B": "卵巢發育不全（ovarian agenesis）",
+      "C": "曾經多次生育",
+      "D": "患有多囊性卵巢症候群（polycystic ovarian syndrome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 81 題",
+    "question": "一個外觀不規則多囊狀的腎臟，切片檢查發現有undifferentiated mesenchyme、cartilage、immature collecting duct，請問這是何種腎臟疾病？",
+    "options": {
+      "A": "Cystic renal dysplasia",
+      "B": "Autosomal-dominant polycystic kidney disease",
+      "C": "Autosomal-recessive polycystic kidney disease",
+      "D": "Medullary sponge kidney"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 82 題",
+    "question": "一名50 歲女性，最近幾個月來覺得疲倦無力。身體及檢驗室檢查結果最主要發現是她的血紅素略低。 經過大腸鏡檢查後，她接受部分大腸切除。附圖所示是打開她所切除大腸標本的黏膜面變化。下列 何者是最主要的診斷？ [圖片]",
+    "options": {
+      "A": "管狀腺瘤（Tubular adenoma）",
+      "B": "腺癌（Adenocarcinoma）",
+      "C": "惡性淋巴瘤（Malignant lymphoma）",
+      "D": "胃腸間質細胞瘤（Gastrointestinal stromal tumor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 83 題",
+    "question": "一位70 歲男性病人因嗜睡、臉色蒼白，並有輕微心跳加快，被送到急診處就診。周邊血液檢查：血 色素及血容積比明顯下降，平均紅血球體積（MCV）增加，有巨血小板及多葉嗜中性球。臨床上， 下列那一因素的缺乏最常見？",
+    "options": {
+      "A": "嗜鈷蛋白（Cobalophilin）",
+      "B": "胃蛋白酶（Pepsin）",
+      "C": "內在因素（Intrinsic factor）",
+      "D": "鈷胺傳遞蛋白（Transcobalamin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 84 題",
+    "question": "在病理檢查一死胎時，發現在其心臟兩側的心肌中有多個小的腫瘤狀病變，顯微鏡下病變中細胞含 有多量肝糖，並呈蜘蛛狀細胞（spider cells）。下列何者最符合上述的病理變化？",
+    "options": {
+      "A": "Fibroelastoma",
+      "B": "Angiosarcoma",
+      "C": "Myxoma",
+      "D": "Rhabdomyoma"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 85 題",
+    "question": "65 歲老先生有40 年的抽菸習慣，每星期約兩包，約三個月前開始有慢性咳嗽，一星期前開始有咳血 絲，經胸部X 光檢查在左側肺門有顆約10 公分大腫瘤。請問該腫瘤與下列何種物質關係最密切？",
+    "options": {
+      "A": "Nicotin",
+      "B": "Carbon monoxide",
+      "C": "Nitrosamines",
+      "D": "Nitrous oxide compounds"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 86 題",
+    "question": "一個26 歲婦人2 年內多次關節痛之病史。病人同時在兩頰有皮膚疹。病人雖有全身性淋巴腫大，但 無關節腫脹或變形之情形。檢驗發現貧血、白血球減少、多株性丙球蛋白增加以及蛋白尿。血清學 螢光免疫檢查抗核抗體（Antinuclear antibody, ANA）測試為1：1024 倍陽性、為邊緣型。根據這些 結果，醫師應告訴病人下列何種訊息？",
+    "options": {
+      "A": "避免暴露於寒冷的環境中",
+      "B": "會有關節變形發生",
+      "C": "可能發生慢性腎衰竭之併發症",
+      "D": "日後終須做心臟瓣膜置換之手術"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 87 題",
+    "question": "有一中年男性，抽菸10 年，主訴慢性咳嗽，病理組織顯示支氣管上皮為鱗狀上皮，此變化最可能是：",
+    "options": {
+      "A": "萎縮（atrophy）",
+      "B": "化生（metaplasia）",
+      "C": "異生（dysplasia）",
+      "D": "癌症（cancer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 88 題",
+    "question": "一名有動作疾患（movement disorder）的老人因肺炎致死。腦病灶處發現如圖所示的包涵體，肉眼觀 察應該可見到的是： [圖片]",
+    "options": {
+      "A": "黑質（substantia nigra）色素增加",
+      "B": "黑質變為蒼白",
+      "C": "尾狀核（caudate nucleus）高度萎縮",
+      "D": "尾狀核高度色質溶解（chromatolysis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 89 題",
+    "question": "一位25 歲，性生活活躍的女性來門診求診，主訴有陰道分泌物，子宮頸抹片發現裏面有許多子宮頸 的鱗狀上皮細胞，這些細胞的細胞核內有包涵體（intranuclear inclusions）。則最可能的診斷為何？",
+    "options": {
+      "A": "念珠菌感染（Candida infection）",
+      "B": "單純 疱疹病毒感 染（Herpes simplex virus infection）",
+      "C": "毛滴蟲感染（Trichomonas infection）",
+      "D": "淋菌性感染（Gonococcal infection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 90 題",
+    "question": "21 歲女性病人兩天前開始出現右後側腰痛和排尿不適及疼痛。同時有發燒、畏寒、反胃和嘔吐。尿液分 析發現多量細菌及少數上皮細胞。實驗室數據顯示血液中白血球升高。小便也培養出大腸菌（E. coli）。 下列敘述中何者最可能代表她腎臟間質的病理變化？",
+    "options": {
+      "A": "白血球浸潤並含有多量嗜酸性白血球",
+      "B": "慢性肉芽腫發炎",
+      "C": "發炎細胞浸潤並含有多量泡沫狀巨噬細胞",
+      "D": "中性球浸潤及聚集在腎小管內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 91 題",
+    "question": "有關食道先天性異常之敘述，下列何者錯誤？",
+    "options": {
+      "A": "食道閉鎖（esophageal atresia）最常發生於接近氣管分叉處",
+      "B": "食道蹼（esophageal web）除了先天異常的原因外，也可以發生於長期食道逆流的病人身上",
+      "C": "食道閉鎖常於長大後才被發現",
+      "D": "食道瘻管中，最常見的形式是食道上方為盲端，食道下方與氣管形成瘻管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 92 題",
+    "question": "80 歲男性，有慢性高血壓，死於充血性心臟病，且有血性肋膜腔積水，右下肺有一楔形（wedge） 病灶在肺底周邊部，最可能的診斷為：",
+    "options": {
+      "A": "肺梗塞",
+      "B": "肺癌",
+      "C": "肺氣腫",
+      "D": "肺水腫"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 93 題",
+    "question": "一位69 歲女性病人主訴近一個月逐漸加劇之背痛病史。病人後下背部有疼痛點，但無脊柱後凸或側凸情 形。放射影圖顯示T11 脊椎體塌陷，在胸椎體或腰椎體有多個0.5 至1.5 公分大小之骨溶解（Osteolytic） 變化。骨髓抹片如附圖。下列何者正確？ [圖片]",
+    "options": {
+      "A": "血清具單株伽傌球蛋白病變（Monoclonal gammopathy）",
+      "B": "白血球 鹼性 磷酸酶指 數（Leukocyte alkaline phosphatase score）增高",
+      "C": "很少出現高鈣血症（Hypercalcemia）",
+      "D": "核型分析（Karyotyping）具t（9；22）轉位變化"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 94 題",
+    "question": "17 歲男性被診斷有左心心肌增厚，不正常的舒張灌注（diastolic filling）以及間歇性左心室外流阻塞 （intermittent outflow obstruction），此病人最可能的心臟病變是：",
+    "options": {
+      "A": "類澱粉症（Amyloidosis）",
+      "B": "肥大性心肌症（Hypertrophic cardiomyopathy）",
+      "C": "擴張性心肌症（Dilated cardiomyopathy）",
+      "D": "Loeffler 氏心肉膜心肌疾病（Loeffler’s endomyocardial disease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 95 題",
+    "question": "50 歲婦女上門求診，因左側腋下有腫塊3 週，經醫師檢查發現，左側腋下淋巴結腫大且硬，但不痛， 請問該婦女最有可能罹患下列何種疾病？",
+    "options": {
+      "A": "急性乳腺炎合併化膿",
+      "B": "乳房腺管癌",
+      "C": "乳房惡性淋巴瘤",
+      "D": "肺部小細胞癌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 96 題",
+    "question": "有一位25 歲產婦足月生產下一個嬰兒，具斜瞼裂，兩耳位置較低，並有右手掌斷掌紋及心臟雜音。 此嬰兒長大至約10 歲時其心智障礙仍然是相當輕微。病人可能具有下列何種染色體之變化？",
+    "options": {
+      "A": "單倍體（Haploidy）",
+      "B": "單體染色體（Monosomy）",
+      "C": "鑲嵌型染色體（Mosaicism）",
+      "D": "三倍體性（Triploidy）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 97 題",
+    "question": "急性發炎時，血管通透性改變的最主要原因是：",
+    "options": {
+      "A": "血管內皮細胞收縮",
+      "B": "血管內靜水壓增高",
+      "C": "血管內靜水壓下降",
+      "D": "血流停滯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 98 題",
+    "question": "針對某類型的淋巴瘤做染色體變異的分析研究，發現該類型淋巴瘤常見有3 種染色體的轉位變異： t（8；14）、t（2；8）、t（8；22），請問該類淋巴瘤最可能為下列何者？",
+    "options": {
+      "A": "Mantle cell lymphoma",
+      "B": "Follicular lymphoma",
+      "C": "Burkitt’s lymphoma",
+      "D": "Diffuse large B cell lymphoma"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 99 題",
+    "question": "14 歲女孩出現惡性高血壓（200/130 mmHg），腹部影像學檢查顯示一腎上腺腫瘤，尿中兒茶酚 胺（catecholamine）以及血清腎素（serum renin）均升高。下列腎臟血管變化中，何者與此腫瘤有最 密切的關係？",
+    "options": {
+      "A": "Hyaline arteriolosclerosis",
+      "B": "Hyperplastic arteriolosclerosis",
+      "C": "Atherosclerosis",
+      "D": "Thromboembolism"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 100 題",
+    "question": "若睪丸腫瘤在顯微鏡檢發現Schiller-Duval bodies，免疫組織染色α-fetoprotein 腫瘤細胞呈陽性，請問 下列何種診斷最適當？",
+    "options": {
+      "A": "Embryonal carcinoma",
+      "B": "Choriocarcinoma",
+      "C": "Seminoma",
+      "D": "Yolk sac tumor"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

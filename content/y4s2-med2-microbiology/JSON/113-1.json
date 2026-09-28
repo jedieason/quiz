@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 1 題",
+    "question": "一位牧場工人手臂上出現丘疹（papule），快速演變成潰瘍進而結痂壞死（necrotic eschar） ，淋巴腺亦出 現病變及水腫，經細菌分離，發現是一株會產孢子的細菌。此工人最有可能是受何菌感染？",
+    "options": {
+      "A": "枯草桿菌（Bacillus subtilis ）",
+      "B": "破傷風梭菌（Clostridium tetani）",
+      "C": "肉毒桿菌（Clostridium botulinum ）",
+      "D": "炭疽桿菌（ Bacillus anthracis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 2 題",
+    "question": "傷寒瑪莉是一位無症狀的傷寒沙門氏桿菌（Salmonella Typhi）帶原者，通常這株菌最常躲在帶原者的何種器 官中？",
+    "options": {
+      "A": "肝臟",
+      "B": "膽囊",
+      "C": "胰臟",
+      "D": "大腸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 3 題",
+    "question": "一位8 歲孩童在吃過漢堡及生菜沙拉後48 小時，出現出血性腹瀉症狀，到醫院後又發現其有溶血性尿毒症  （hemolytic uremic syndrome），最有可能的病原菌是：",
+    "options": {
+      "A": "侵襲性大腸桿菌EIEC（enteroinvasive E. coli）",
+      "B": "腸道凝集性大腸桿菌EAEC（enteroaggregative E. coli）",
+      "C": "病原性大腸桿菌EPEC（enteropathogenic E. coli）",
+      "D": "產志賀氏毒素大腸桿菌STEC（Shiga toxin-producing E. coli）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 4 題",
+    "question": "有關 β-內醯胺酶抑制劑（β-lactamase inhibitor）之敘述，下列何者最適當？",
+    "options": {
+      "A": "具有高度殺菌活性（bactericidal activity）",
+      "B": "為窄效型（narrow spectrum）抑制細胞壁生合成之抗生素",
+      "C": "與青黴素（penicillin）合併使用可達到藥物協同作用（synergistic effect）",
+      "D": "可用於治療耐甲氧西林金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 5 題",
+    "question": "下列有關脂多醣體（lipopolysaccharide）之敘述，何者最適當？",
+    "options": {
+      "A": "脂多醣體與脂胞壁酸（lipoteichoic acid）皆為革蘭氏陰性菌細胞壁特有之結構",
+      "B": "又稱為內毒素（endotoxin），核心多醣體（core polysaccharide）結構為其毒素毒性的來源",
+      "C": "具有引發發炎反應之活性",
+      "D": "煮沸加熱可去除其活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 6 題",
+    "question": "下列有關細菌構造之敘述，何者最適當？",
+    "options": {
+      "A": "僅革蘭氏陽性菌具有壁膜間隙（periplasmic space）之構造",
+      "B": "胜肽聚醣（peptidoglycan）為革蘭氏陰性菌才有之結構",
+      "C": "細菌具有粒線體，為產生ATP 之重要胞器",
+      "D": "部分細菌具有鞭毛（flagellum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 7 題",
+    "question": "培養流行性嗜血桿菌（Haemophilus influenzae）時，通常會使用何種培養基，以提供這細菌的生長？",
+    "options": {
+      "A": "甘露醇鹽瓊脂（mannitol salt agar）",
+      "B": "巧克力瓊脂（chocolate agar）",
+      "C": "馬康機瓊脂（MacConkey agar）",
+      "D": "血液培養基（blood agar）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 8 題",
+    "question": "產氣莢膜桿菌（Clostridium perfringens）菌株，依其所產生的毒素可分成不同型別；最常引起壞疽性腸炎 （necrotizing enteritis）的是屬於那一型？",
+    "options": {
+      "A": "A 型",
+      "B": "B 型",
+      "C": "C 型",
+      "D": "D 型"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 9 題",
+    "question": "下列那一種抗生素主要不是作用於細菌細胞壁？",
+    "options": {
+      "A": "異菸鹼醯（isoniazid）",
+      "B": "乙胺丁醇（ethambutol）",
+      "C": "利奈唑胺（linezolid）",
+      "D": "萬古黴素（vancomycin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 10 題",
+    "question": "下列有關普里昂（prion）的敘述，何者最不適當？",
+    "options": {
+      "A": "病人被普里昂感染只能在腦部測到其存在",
+      "B": "一般對抗病毒的化學及物理方法無法抑制普里昂的活性",
+      "C": "普里昂感染之病人腦內會產生海綿狀腦病變",
+      "D": "普里昂是以蛋白質的形式進行感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 11 題",
+    "question": "有關parvovirus B19 的敘述，下列何者最適當？",
+    "options": {
+      "A": "為雙股DNA 病毒",
+      "B": "主要傳播途徑為糞口傳染",
+      "C": "感染並引起紅血球的先驅細胞（erythroid precursor）溶解",
+      "D": "感染兒童時，造成嬰兒玫瑰疹"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 12 題",
+    "question": "藉由血清學的方式無法檢驗出正常的prion（PrP C）與異常的prion（PrP SC）的差異。一種新的檢驗方式稱作 “real-time quaking-induced conversion（RT-QuIC）”，可以快速檢驗出檢體內是否含有PrP SC。這是利 用prion 的那一種特性？",
+    "options": {
+      "A": "PrP C會聚集成纖絲（prion fibril）",
+      "B": "PrP SC會聚集成纖絲（prion fibril）",
+      "C": "PrP C會將PrP SC轉換成PrP C",
+      "D": "PrP SC的蛋白質半衰期較PrP C短"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 13 題",
+    "question": "痘病毒（poxvirus）與大多數其他人類DNA 病毒主要之差異為：",
+    "options": {
+      "A": "在細胞質複製",
+      "B": "其基因體為線型雙股DNA",
+      "C": "有自己的DNA 聚合酶",
+      "D": "利用strand-displacement 的方式複製其DNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 14 題",
+    "question": "有關病毒感染治療藥物之敘述，下列何者最不適當？",
+    "options": {
+      "A": "茚地那韋（indinavir）常用來治療單純疱疹病毒（herpes simplex virus）之感染",
+      "B": "利巴韋林（ribavirin）合併干擾素（interferon）可用於治療C 型肝炎病毒之感染",
+      "C": "被狂犬病動物咬到之病人，必須施打馬或人之抗狂犬病病毒血清或免疫球蛋白",
+      "D": "金剛烷胺（amantadine）可抑制A 型流行性感冒病毒（influenza A virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 15 題",
+    "question": "在托育中心的一歲男嬰，持續兩天水瀉並嘔吐，且有輕微發燒現象，之後因為脫水而住院。他最可能受到下 列何種病毒的感染？",
+    "options": {
+      "A": "輪狀病毒（rotavirus）",
+      "B": "流感病毒（influenza virus）",
+      "C": "B 型肝炎病毒（hepatitis B virus）",
+      "D": "EB 病毒（Epstein-Barr virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 16 題",
+    "question": "關於Emergomyces 之敘述，下列何者最不適當？",
+    "options": {
+      "A": "為溫度雙型性真菌，即25℃培養呈絲狀（mold form），37℃培養呈酵母狀（yeast form）",
+      "B": "主要經由呼吸道吸入孢子感染，常出現皮膚病灶",
+      "C": "多數被感染者都是健康人，並無明顯免疫不全的症狀",
+      "D": "可使用amphotericin B 和triazole 治療"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 17 題",
+    "question": "一般而言，棘白菌素（Echinocandin）對下列何種真菌感染的治療效果最好？",
+    "options": {
+      "A": "毛黴菌（Mucormycetes spp.）",
+      "B": "隱球菌（Cryptococcus spp.）",
+      "C": "鐮孢菌（Fusarium spp.）",
+      "D": "麴菌（Aspergillus spp.）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

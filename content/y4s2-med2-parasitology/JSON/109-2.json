@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 29 題",
+    "question": "下列何者與人體感染菲律賓毛線蟲（Capillaria philippinensis）無關？",
+    "options": {
+      "A": "因食入被蟲卵污染的魚肉而感染",
+      "B": "在腸道可能發生自體感染（autoinfection）",
+      "C": "可能引起低蛋白血症",
+      "D": "腹瀉病患必須補充電解質"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 30 題",
+    "question": "片山熱（Katayama fever）是由下列何種寄生蟲引致？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "日本血吸蟲（Schistosoma japonicum）",
+      "C": "伊羅棘口吸蟲（Echinostoma ilocanum）",
+      "D": "槍狀肝吸蟲（Dicrocoelium dendriticum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 31 題",
+    "question": "有關絛蟲「成蟲」之敘述，下列何者正確？",
+    "options": {
+      "A": "體型相當大，容易對宿主腸道造成刺激及全身症狀",
+      "B": "經由皮層（tegument）自中間宿主腸道攝取營養",
+      "C": "雌雄同體，行無性生殖",
+      "D": "頭節上具有用來定位及附著的器官"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 32 題",
+    "question": "有關瘧疾（malaria）致病機轉的敘述，下列何者錯誤？",
+    "options": {
+      "A": "局部組織血液流量減少係因惡性瘧原蟲（Plasmodium falciparum）的細胞附著現象（cytoadherence）所引起",
+      "B": "被瘧原蟲寄生的紅血球表面會產生結合體（ligand）蛋白，並與內皮細胞上的特定受體形成複合物（ligand- receptor complex）造成細胞附著能力增加",
+      "C": "患者自體的血小板凝集蛋白（thrombospondin）受到抑制，造成受到瘧原蟲寄生的紅血球集結成團，進而影 響血流",
+      "D": "造成患者貧血的部分原因，為體內未受瘧原蟲感染的紅血球被活化並遭受破壞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 33 題",
+    "question": "下列寄生蟲中，何者之成熟囊體（mature cyst）的平均體型（average size）最大？",
+    "options": {
+      "A": "嗜碘阿米巴（Iodamoeba bütschlii）",
+      "B": "哈氏阿米巴（Entamoeba hartmanni）",
+      "C": "大腸阿米巴（Entamoeba coli）",
+      "D": "痢疾阿米巴（Entamoeba histolytica）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 34 題",
+    "question": "病媒蜱（vector tick）可以藉由叮咬而傳播下列何種人類感染症？",
+    "options": {
+      "A": "黑熱病（kala-azar）",
+      "B": "戰壕熱（trench fever）",
+      "C": "黃熱病（yellow fever）",
+      "D": "回歸熱（relapsing fever）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 35 題",
+    "question": "恙蟎（chigger mite）可以傳播下列何種人類感染症？",
+    "options": {
+      "A": "落磯山斑疹熱（Rocky Mountain spotted fever）",
+      "B": "流行性斑疹傷寒（epidemic typhus）",
+      "C": "地方性斑疹傷寒（endemic typhus）",
+      "D": "叢林斑疹傷寒（scrub typhus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

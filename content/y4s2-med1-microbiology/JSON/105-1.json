@@ -1,0 +1,250 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 42 題",
+    "question": "炭疽桿菌edema factor、霍亂毒素及百日咳毒素，有何共同處？",
+    "options": {
+      "A": "都抑制寄主細胞的蛋白質合成",
+      "B": "“可導致細胞內cAMP濃度增高”",
+      "C": "有脂肪酵素活性（phospholipase C），可以溶化細胞膜",
+      "D": "都能引起寄主腹瀉（diarrhea）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 43 題",
+    "question": "有關志賀氏桿菌（Shigella）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "桿菌性痢疾（bacillary dysentery）的主要病原菌",
+      "B": "痢疾志賀氏桿菌（Shigella dysenteriae）可產生Shiga toxin",
+      "C": "具侵犯性，會侵入腸壁細胞並擴散至鄰近細胞",
+      "D": "引發感染需要超過108的菌量"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 44 題",
+    "question": "下列有關傷寒（typhoid fever）及其病原菌的敘述，何者錯誤？",
+    "options": {
+      "A": "傷寒桿菌（Salmonella typhi）可在人體的吞噬細胞內存活並繁殖",
+      "B": "病人的糞便檢體在發病第一週細菌培養常呈陽性結果",
+      "C": "傷寒帶原者，細菌多潛伏於膽囊",
+      "D": "菌體的Vi莢膜多็體（Vi capsular polysaccharides）可以作為疫苗"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 45 題",
+    "question": "下列那一項是Streptococcus pyogenes的superantigen？",
+    "options": {
+      "A": "M-protein",
+      "B": "F-protein",
+      "C": "heat-labile toxin（speA）",
+      "D": "Streptolysin S"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 46 題",
+    "question": "下列那一種Staphylococcal enterotoxin最易導致pseudomembranous enterocolitis？",
+    "options": {
+      "A": "Enterotoxin A",
+      "B": "Enterotoxin B",
+      "C": "Enterotoxin C",
+      "D": "Enterotoxin D"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 47 題",
+    "question": "一般細菌中能產生芽胞的桿菌，革蘭氏染色結果為：",
+    "options": {
+      "A": "紅色",
+      "B": "綠色",
+      "C": "深紫色",
+      "D": "黃色"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 48 題",
+    "question": "下列有關Bacillus anthracis臨床診斷感染之敘述，那一項錯誤？",
+    "options": {
+      "A": "可直接利用革蘭氏染色法檢查檢體中細菌的特徵",
+      "B": "臨床檢體中之細菌是桿狀但不會有莢膜（capsule）之形成",
+      "C": "可利用gamma phage造成細菌溶解",
+      "D": "可採用DFA test檢測細胞壁多醣體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 49 題",
+    "question": "下列何種病毒感染會造成單核球增多、嗜異性抗體（heterophile antibody）陰性以及肝炎的 症狀？",
+    "options": {
+      "A": "Epstein-Barr virus",
+      "B": "Human herpesvirus-6",
+      "C": "Human T-cell lymphotropic virus type 1",
+      "D": "Cytomegalovirus"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 50 題",
+    "question": "下列關於HIV（Human immunodeficiency virus）的敘述，何者錯誤？",
+    "options": {
+      "A": "M-tropic病毒會利用CXCR4當作其細胞的受器之一",
+      "B": "T-tropic病毒通常會隨著病人病程的進展而增加",
+      "C": "Kaposi’s sarcoma是常見於愛滋病人的癌症",
+      "D": "CD4 T細胞數目降至200/µL 以下，易出現伺機性感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 51 題",
+    "question": "膿性指頭炎（whitlow）是由那一種病毒所引起？",
+    "options": {
+      "A": "Cytomegalovirus",
+      "B": "Herpes simplex virus",
+      "C": "Human papillomavirus",
+      "D": "Human herpesvirus-6"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 52 題",
+    "question": "下列有關Parvoviridae的敘述，何者錯誤？",
+    "options": {
+      "A": "Adenovirus-associated virus屬於這一科的病毒",
+      "B": "雙股DNA病毒",
+      "C": "沒有外套（envelope）",
+      "D": "結構屬於二十面體的病毒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 53 題",
+    "question": "下列何種病毒具有雙層蛋白衣（double-layered capsid），需經胰蛋白酶消化成ISVP  （intermediate/infectious subviral particle）後才會增強其感染能力？",
+    "options": {
+      "A": "諾羅病毒（Norovirus）",
+      "B": "輪狀病毒（Rotavirus）",
+      "C": "副流感病毒（Parainfluenza virus）",
+      "D": "麻疹病毒（Measles virus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 54 題",
+    "question": "感染下列何種病毒，有機會經多年後復發引起亞急性硬化全腦炎（subacute sclerosing  panencephalitis)？",
+    "options": {
+      "A": "麻疹病毒（Measles virus）",
+      "B": "腮腺炎病毒（Mumps virus）",
+      "C": "立百病毒（Nipah virus）",
+      "D": "亨得拉病毒（Hendra virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 55 題",
+    "question": "有關Corynebacterium jeikeium之敘述，下列何者錯誤？",
+    "options": {
+      "A": "常由菌血症之住院病人所分離",
+      "B": "免疫功能不全之患者易受感染",
+      "C": "對大部分常用抗生素具感受性",
+      "D": "屬於嗜脂性棒狀桿菌（Lipophilic Corynebacteria）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 56 題",
+    "question": "現在已知的肝炎病毒中，下列那一項敘述錯誤？",
+    "options": {
+      "A": "A型和E型傳染途徑為糞口傳染",
+      "B": "A、C、D與E型之核酸均為RNA，唯有B型為部分雙股環狀（partially double-stranded cricular）DNA",
+      "C": "B和C型可導致慢性肝炎",
+      "D": "D型肝炎需A型之幫助來傳染和複製"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 57 題",
+    "question": "關於subcutaneous mycoses及其致病原之關聯，下列何者正確？",
+    "options": {
+      "A": "Sporotrichosis-Chaetomium spp.",
+      "B": "Chromoblastomycosis- Madurella spp.",
+      "C": "Eumycotic mycetoma-Aspergillus nidulans",
+      "D": "Subcutaneous zygomycosis-Sporothrix schenckii"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 58 題",
+    "question": "血清D-arabinitol含量主要用來偵測下列何種病原菌之感染？",
+    "options": {
+      "A": "Histoplasma capsulatum",
+      "B": "Penicillium marneffei",
+      "C": "Cryptococcus neoformans",
+      "D": "Candida albicans"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 59 題",
+    "question": "HIV-1各分離株（isolates）之間常有變異性，尤其那個基因差異最大？",
+    "options": {
+      "A": "env",
+      "B": "gag",
+      "C": "pol",
+      "D": "LTR"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 60 題",
+    "question": "一位52歲男性病患因長期胃痛至某醫學中心求診。醫師安排做胃鏡檢查，發現該病人在胃幽 門處有潰瘍，並採取若干胃黏膜組織，送細菌室培養。針對這些檢體，最適合的氣體培養環 境為何？",
+    "options": {
+      "A": "大氣環境（含約20%氧氣）",
+      "B": "無氧環境",
+      "C": "高氧環境（含約50%氧氣）",
+      "D": "低氧環境（含約5%氧氣）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 61 題",
+    "question": "【背景題幹：一位52歲男性病患因長期胃痛至某醫學中心求診。醫師安排做胃鏡檢查，發現該病人在胃幽 門處有潰瘍，並採取若干胃黏膜組織，送細菌室培養。針對這些檢體，最適合的氣體培養環 境為何？】\n承上題，診斷此菌感染的其他方法，如吹氣法、酵素偵測法，是檢測此菌所產生的那種酵 素？",
+    "options": {
+      "A": "蛋白酶（protease）",
+      "B": "尿素酶（urease）",
+      "C": "核酸酶（nuclease）",
+      "D": "凝血酶（coagulase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

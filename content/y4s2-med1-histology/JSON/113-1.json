@@ -1,0 +1,127 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 37 題",
+    "question": "下列有關使用福馬林（formalin）來固定生物組織的敘述，何者錯誤？",
+    "options": {
+      "A": "可與脂質（lipid）充分作用，保存細胞膜的完整性",
+      "B": "可使蛋白質（protein）變性，讓組織變硬",
+      "C": "可防止細胞的自溶作用（autolysis）",
+      "D": "可殺死細菌、真菌、病毒等致病微生物（pathogenic microorganisms）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 38 題",
+    "question": "氣管的內襯上皮（lining epithelium of trachea）是屬於：",
+    "options": {
+      "A": "單層柱狀上皮（simple columnar epithelium）",
+      "B": "複層扁平上皮（stratified squamous epithelium）",
+      "C": "複層柱狀上皮（stratified columnar epithelium）",
+      "D": "具纖毛的偽複層柱狀上皮（ciliated pseudostratified columnar epithelium）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 39 題",
+    "question": "下列關於軟骨（cartilage）的敘述，何者正確？",
+    "options": {
+      "A": "軟骨組織的附加生長（appositional growth）是直接由軟骨細胞（chondrocyte）分裂並分泌基質 （matrix）而成",
+      "B": "透明軟骨（hyaline cartilage）的基質（matrix）主要是由第一型膠原蛋白（type I collagen）構成",
+      "C": "軟骨組織是一個沒有血管的結構（avascular structure）",
+      "D": "軟骨組織的再生非常旺盛，受傷時可完整癒合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 40 題",
+    "question": "下列有關神經組織中之衛星細胞（satellite cell）的敘述，何者正確？",
+    "options": {
+      "A": "圍繞中樞神經系統的神經元細胞本體",
+      "B": "是大型的柱狀細胞",
+      "C": "在H&E染色，為多核的細胞",
+      "D": "不負責形成髓磷脂（myelin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 41 題",
+    "question": "關於第二型肺泡細胞（type-II pneumocyte）之敘述，下列何者正確？",
+    "options": {
+      "A": "在肺泡細胞中占40%，覆蓋95%的肺泡表面（alveolar air surface）",
+      "B": "與肺泡巨噬細胞（alveolar macrophage）共同組成氣血屏障（air-blood barrier）",
+      "C": "分泌界面活性劑（surfactant）",
+      "D": "是很薄的扁平（squamous）細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 42 題",
+    "question": "下列何種細胞具有黏原顆粒（mucinogen granules）？",
+    "options": {
+      "A": "胃賁門腺細胞（cardiac glandular cells）",
+      "B": "胰腺泡細胞（pancreatic acinar cells）",
+      "C": "耳下腺腺泡細胞（parotid acinar cells）",
+      "D": "潘氏細胞（Paneth cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 43 題",
+    "question": "下列何者最不可能出現在膽囊的固有層（lamina propria）？",
+    "options": {
+      "A": "穿孔型微血管（fenestrated capillary）",
+      "B": "小靜脈（venule）",
+      "C": "淋巴管（lymphatic vessel）",
+      "D": "黏液腺（mucous gland）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 44 題",
+    "question": "下列何者富含血管，負責提供養分及氧氣給毛囊（hair follicle）？",
+    "options": {
+      "A": "真皮乳頭（dermal papilla）",
+      "B": "玻璃膜（glassy membrane）",
+      "C": "內根鞘（internal root sheath）",
+      "D": "外根鞘（external root sheath）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 45 題",
+    "question": "下列何者的細胞內含有大量的脂肪小滴（lipid droplets），且可分泌糖皮質素（glucocorticoid）？",
+    "options": {
+      "A": "腎上腺皮質（adrenal cortex）的球小帶（zona glomerulosa）",
+      "B": "腎上腺皮質（adrenal cortex）的束狀帶（zona fasciculata）",
+      "C": "腎上腺皮質（adrenal cortex）的網狀帶（zona reticularis）",
+      "D": "腎上腺髓質（adrenal medulla）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 46 題",
+    "question": "附圖中的上皮（epithelium）主要出現於下列何者？",
+    "options": {
+      "A": "輸卵管（uterine tube）",
+      "B": "陰道（vagina）",
+      "C": "輸出小管（efferent ductules）",
+      "D": "尿道（urethra）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

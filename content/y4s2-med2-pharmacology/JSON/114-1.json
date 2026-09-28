@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 51 題",
+    "question": "下列何種拮抗作用（antagonism）完全不需與受體（receptors）結合即可產生？",
+    "options": {
+      "A": "competitive antagonism",
+      "B": "allosteric antagonism",
+      "C": "chemical antagonism",
+      "D": "physiologic antagonism"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 52 題",
+    "question": "下列抗生素中，何者長期使用最容易造成8 歲以下兒童產生牙齒、骨骼之傷害？",
+    "options": {
+      "A": "erythromycin",
+      "B": "omadacycline",
+      "C": "clindamycin",
+      "D": "cephalexin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 53 題",
+    "question": "下列抗病毒藥物中，何者可對抗HIV 病毒，用於治療愛滋病？",
+    "options": {
+      "A": "amantadine",
+      "B": "ganciclovir",
+      "C": "acyclovir",
+      "D": "zidovudine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 54 題",
+    "question": "下列免疫檢查點抑制劑（immune checkpoint inhibitor），何者不是作用在T 細胞？",
+    "options": {
+      "A": "pembrolizumab",
+      "B": "basiliximab",
+      "C": "atezolizumab",
+      "D": "ipilimumab"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 55 題",
+    "question": "下列抗癌藥物與其作用機轉之配對，何者正確？",
+    "options": {
+      "A": "etoposide—抑制thymidylate synthase",
+      "B": "irinotecan—抑制topoisomerase I",
+      "C": "pemetrexed—抑制topoisomerase II",
+      "D": "vinorelbine—抑制dihydrofolate reductase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 56 題",
+    "question": "下列藥物中，何者為長效型凝血因子IX 的製劑，用以預防或治療B 型血友病（hemophilia B）病人出血的問 題？",
+    "options": {
+      "A": "eloctate",
+      "B": "idelvion",
+      "C": "humate-P",
+      "D": "vonicog alfa"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 57 題",
+    "question": "下列藥物中，何者可增加血液循環中血小板的數量，最適合用於治療慢性免疫性血小板低下症（chronic  immune thrombocytopenia）？",
+    "options": {
+      "A": "plerixafor",
+      "B": "pteroylglutamic acid",
+      "C": "romiplostim",
+      "D": "hydroxocobalamin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 58 題",
+    "question": "當病人器官移植，使用免疫抑制劑mycophenolate mofetil（MMF）以緩解排斥作用發生，下列敘述何者正 確？",
+    "options": {
+      "A": "MMF 抑制淋巴細胞的pyrimidine 生合成",
+      "B": "mycophenolic acid 為不具活性之代謝成分",
+      "C": "MMF 主要由CYP450 3A 代謝",
+      "D": "使用MMF 可能產生嗜中性白血球低下症（neutropenia）之副作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 59 題",
+    "question": "下列關於finasteride 之敘述，何者錯誤？",
+    "options": {
+      "A": "可用於早期雄性禿治療",
+      "B": "可用於良性攝護腺肥大治療",
+      "C": "可口服使用",
+      "D": "是雄激素受體阻斷劑"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 60 題",
+    "question": "下列何者為RANK ligand（RANKL）單株抗體製劑，可作為治療骨質疏鬆症之藥物？",
+    "options": {
+      "A": "adalimumab",
+      "B": "infliximab",
+      "C": "romosozumab",
+      "D": "denosumab"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 61 題",
+    "question": "下列藥物中，何者具有礦物性皮質固醇（mineralocorticoid）活性，可治療腎上腺皮質機能不全症所導致之 鹽類流失？",
+    "options": {
+      "A": "fludrocortisone",
+      "B": "paramethasone",
+      "C": "hydrocortisone",
+      "D": "betamethasone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 62 題",
+    "question": "下列關於neprilysin inhibitor 的敘述，何者錯誤？",
+    "options": {
+      "A": "可減少brain natriuretic peptide（BNP）之降解",
+      "B": "可使血管擴張",
+      "C": "減少交感神經活性",
+      "D": "不適合與valsartan 併用於治療心衰竭"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 63 題",
+    "question": "下列關於nitrates 之敘述，何者錯誤？",
+    "options": {
+      "A": "青光眼病人當腦內壓高時，不宜使用nitrates",
+      "B": "連續使用長效型nitroglycerin 時，兩劑間隔需至少8 小時，以預防產生耐藥性",
+      "C": "長時間使用nitroprusside 易產生耐藥性",
+      "D": "爆裂性化學工廠工人的“Monday disease”消失係因其對nitrates 產生耐藥性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 64 題",
+    "question": "下列何種藥物作用於dopamine D1 receptor，可使周邊血管平滑肌舒張，靜脈注射用於治療嚴重性高血壓？",
+    "options": {
+      "A": "candesartan",
+      "B": "fenoldopam",
+      "C": "clonidine",
+      "D": "minoxidil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 65 題",
+    "question": "下列關於pralidoxime 的敘述，何者最不適當？",
+    "options": {
+      "A": "可幫助被磷酸化的acetylcholinesterase 恢復活性",
+      "B": "不可作為carbamate 類cholinesterase 抑制劑的解毒劑",
+      "C": "與diacetylmonoxime 相比，其中樞神經系統的穿透力較強",
+      "D": "過量時可能導致肌肉無力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 66 題",
+    "question": "陳先生清晨上廁所時昏倒，家人量血壓時發現收縮壓只有76 mmHg，而被送來醫院。就診時病人已清醒，血 壓為100/70 mmHg，心跳規則，每分鐘70 下，無其它不適。醫師評估後，認為是藥物引起的暫時性低血壓。 下列陳先生平常服用的藥物中，何者與他的血壓下降關聯最低？",
+    "options": {
+      "A": "tamsulosin",
+      "B": "verapamil",
+      "C": "carvedilol",
+      "D": "pseudoephedrine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 67 題",
+    "question": "在H2 antagonists 中，何者的first-pass hepatic metabolism 最小？",
+    "options": {
+      "A": "cimetidine",
+      "B": "nizatidine",
+      "C": "ranitidine",
+      "D": "famotidine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 68 題",
+    "question": "下列何種抗體藥物之標的為IL-5，用於治療嚴重型嗜酸性（eosinophilic）氣喘？",
+    "options": {
+      "A": "reslizumab",
+      "B": "omalizumab",
+      "C": "dupilumab",
+      "D": "alemtuzumab"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 69 題",
+    "question": "下列藥物中，何者最不適用於便秘的治療？",
+    "options": {
+      "A": "氧化鎂（MgO）",
+      "B": "lactulose 糖漿",
+      "C": "prucalopride",
+      "D": "palonosetron"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 70 題",
+    "question": "關於預防或治療偏頭痛的藥物，下列敘述何者正確？",
+    "options": {
+      "A": "aspirin 及ibuprofen 對於偏頭痛無明顯鎮痛作用",
+      "B": "lasmiditan 可作為偏頭痛急性發作的用藥，且較sumatriptan 無血管收縮之副作用",
+      "C": "結合calcitonin gene-related peptide（CGRP）或其受體的抗體可用於治療偏頭痛",
+      "D": "可口服的小分子calcitonin gene-related peptide（CGRP）受體拮抗劑ubrogepant 可預防偏頭痛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 71 題",
+    "question": "下列何者為前列腺素製劑，可與mifepristone 合併使用，作為早期懷孕人工流產之藥物？",
+    "options": {
+      "A": "latanoprost",
+      "B": "treprostinil",
+      "C": "misoprostol",
+      "D": "alprostadil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 72 題",
+    "question": "下列有關全身麻醉劑的敘述，何者錯誤？",
+    "options": {
+      "A": "isoflurane 及nitrous oxide 為吸入型麻醉藥",
+      "B": "propofol 及midazolam 為靜脈注射型麻醉藥",
+      "C": "etomidate 具有安眠效果，但無止痛作用",
+      "D": "propofol 藥效短的主要原因是其肝臟代謝快"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 73 題",
+    "question": "下列何者不是治療Huntington 舞蹈症的主要藥物？",
+    "options": {
+      "A": "tetrabenazine",
+      "B": "haloperidol",
+      "C": "fluphenazine",
+      "D": "ropinirole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 74 題",
+    "question": "下列那一個治療癲癇發作的藥物，其作用機制為抑制鈉離子通道，亦可改善癲癇病人的憂鬱症？",
+    "options": {
+      "A": "lamotrigine",
+      "B": "tiagabine",
+      "C": "clonazepam",
+      "D": "ethosuximide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 75 題",
+    "question": "下列金屬離子螯合劑中，何者最不適合用於治療慢性重金屬中毒？",
+    "options": {
+      "A": "unithiol",
+      "B": "deferasirox",
+      "C": "succimer",
+      "D": "dimercaprol"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

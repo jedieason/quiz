@@ -1,0 +1,104 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 75 題",
+    "question": "下列何種人體寄生蟲可以藉由母親哺乳途徑傳染給嬰兒？",
+    "options": {
+      "A": "東方毛線蟲（Trichostrongylus orientalis）",
+      "B": "肝毛線蟲（Capillaria hepatica）",
+      "C": "糞小桿線蟲（Strongyloides stercoralis）",
+      "D": "旋毛蟲（Trichinella spiralis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 76 題",
+    "question": "下列何種人體寄生蟲感染，會因為肛門搔癢干擾睡眠而對發育中的小孩造成間接性傷害？",
+    "options": {
+      "A": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "B": "蟯蟲（Enterobius vermicularis）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "廣東住血線蟲（Angiostrongylus cantonensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 77 題",
+    "question": "下列關於曼森血吸蟲（Schistosoma mansoni）的敘述，何者正確？",
+    "options": {
+      "A": "又名東方血吸蟲（Oriental blood fluke）",
+      "B": "成蟲寄生於下腸繫膜靜脈小分枝",
+      "C": "糞便檢查可看到蟲卵",
+      "D": "淡水螺是第二中間宿主"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 78 題",
+    "question": "人可當下列何種寄生蟲之終宿主及中間宿主？",
+    "options": {
+      "A": "曼森裂頭絛蟲（Spirometra mansonoides）",
+      "B": "顆粒性包生絛蟲（Echinococcus granulosus）",
+      "C": "有鈎絛蟲（Taenia solium）",
+      "D": "犬複殖器絛蟲（Dipylidium caninum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 79 題",
+    "question": "下列何種寄生蟲可能經血流由腸道移轉至腸外其他組織寄生？",
+    "options": {
+      "A": "梨形鞭毛蟲（Giardia lamblia）及大腸纖毛蟲（Balantidium coli）",
+      "B": "大腸纖毛蟲（Balantidium coli）及痢疾阿米巴（Entamoeba histolytica）",
+      "C": "痢疾阿米巴（Entamoeba histolytica）及嗜碘阿米巴（Iodamoeba buetschlii）",
+      "D": "微小阿米巴（Endolimax nana）及雙核阿米巴（Dientamoeba fragilis）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 80 題",
+    "question": "隔壁老王回山東老家探親，回來後開始腹瀉、發燒、貧血、並伴有肝脾腫大，髂骨穿刺在骨髓巨噬 細胞中發現無鞭毛體（amastigotes），血液及糞便檢查沒有其他發現，老王沒去過台灣及山東以外其 他地方，他最可能感染的寄生蟲病是：",
+    "options": {
+      "A": "黑熱病",
+      "B": "間日瘧",
+      "C": "日本血吸蟲症",
+      "D": "恰氏症（Chagas’ disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 81 題",
+    "question": "病媒蚊可傳播許多感染症，有些甚至是致命的，請問下列何種感染症不是經由病媒蚊所傳播？",
+    "options": {
+      "A": "黃熱病（yellow fever）",
+      "B": "回歸熱（relapsing fever）",
+      "C": "登革熱（dengue fever）",
+      "D": "日本腦炎（Japanese encephalitis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 82 題",
+    "question": "小兒過敏引發氣喘，是現今台灣臨床上頗為普遍的病症，請問下列何種節肢動物為臨床上造成小兒 氣喘最常見之致敏原？",
+    "options": {
+      "A": "恙蟎（chigger）",
+      "B": "家塵蟎（house dust mite）",
+      "C": "蜱（tick）",
+      "D": "體蝨（Pediculuc humanus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

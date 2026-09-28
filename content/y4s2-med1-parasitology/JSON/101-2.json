@@ -1,0 +1,101 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 75 題",
+    "question": "下列有關陰道滴蟲的敘述，何者錯誤？",
+    "options": {
+      "A": "根據非洲的研究顯示，陰道滴蟲症患者感染HIV 的機率較高",
+      "B": "男性患者通常無明顯症狀，但也可能引起攝護腺炎",
+      "C": "首選用藥為metronidazole",
+      "D": "由滋養體（trophozoite）及囊體（cyst）之形態來鑑別種類"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 76 題",
+    "question": "人類食用含有囊狀幼蟲的水生植物，可能感染下列那些寄生蟲？①橫川異形吸蟲（Metagonimus  yokogawai） ②薑片蟲（Fasciolopsis buski） ③牛羊肝吸蟲（Fasciola hepatica） ④衛氏肺吸蟲 （Paragonimus westermani）",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 77 題",
+    "question": "下列敘述，何者錯誤？",
+    "options": {
+      "A": "甘比亞錐蟲（Trypanosoma gambiense）只分布於東非",
+      "B": "錐鞭毛體（trypomastigote）具有波動膜（undulating membrane）",
+      "C": "甘比亞錐蟲沒有保蟲宿主",
+      "D": "非洲錐蟲症的檢查材料包括血液、淋巴液及腦脊髓液"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 78 題",
+    "question": "感染下列何種人體寄生蟲後，其幼蟲會在體內橫紋肌發達處形成內囊胞化幼蟲（encysted larva）並造 成肌炎（myositis）的臨床症狀？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "犬蛔蟲（Toxocara canis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 79 題",
+    "question": "何種絛蟲的幼蟲可以在人體小腸的絨毛內發育？",
+    "options": {
+      "A": "多房性包生絛蟲（Echinococcus multilocularis）",
+      "B": "短小包膜絛蟲（Hymenolepis nana）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "犬複殖器絛蟲（Dipylidium caninum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 80 題",
+    "question": "下列何種疾病之病原體是經由鼠蚤所傳播？",
+    "options": {
+      "A": "叢林斑疹傷寒（scrub typhus）",
+      "B": "落磯山斑疹熱（Rocky mountain spotted fever）",
+      "C": "地方性斑疹傷寒（endemic typhus）",
+      "D": "流行性斑疹傷寒（epidemic typhus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 81 題",
+    "question": "下列有關人體寄生蟲成蟲形態的敘述，何者錯誤？",
+    "options": {
+      "A": "十二指腸鉤蟲（Ancylostoma duodenale）具有兩對齒鉤",
+      "B": "蟯蟲（Enterobius vermicularis）具有頭翼（cephalic alae）",
+      "C": "牛羊肝吸蟲（Fasciola hepatica）具有頭錐（cephalic cone）",
+      "D": "廣節裂頭絛蟲（Diphyllobothrium latum）具有圓形吸盤（sucker）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 82 題",
+    "question": "下列關於隱胞子蟲（Cryptosporidium parvum）的敘述，何者錯誤？",
+    "options": {
+      "A": "寄生於小腸上皮細胞",
+      "B": "曾經因自來水之水源遭污染而造成大流行",
+      "C": "患者新鮮糞便中的卵囊（oocyst）不具傳染性",
+      "D": "通常為自癒性（self-limiting）疾病，但在愛滋病患者可能造成慢性腹瀉"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

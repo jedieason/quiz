@@ -1,0 +1,113 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 33 題",
+    "question": "有關部分分泌腺體（merocrine gland）之敘述，下列敘述何者正確？",
+    "options": {
+      "A": "分泌產物常與整個細胞一起釋出",
+      "B": "分泌產物常與細胞頂端部分一起釋出",
+      "C": "為乳腺之脂類的分泌方式",
+      "D": "為唾液腺之分泌方式"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 34 題",
+    "question": "有關軟骨的敘述，下列何者錯誤？",
+    "options": {
+      "A": "透明軟骨（hyaline cartilage）具有軟骨細胞（chondrocyte）與軟骨膜（perichondrium）",
+      "B": "纖維軟骨（fibrocartilage）具有軟骨母細胞（chondroblast）與軟骨膜（perichondrium）",
+      "C": "彈性軟骨（elastic cartilage）具有軟骨細胞（chondrocyte）與軟骨母細胞（chondroblast）",
+      "D": "纖維軟骨（fibrocartilage）具有軟骨細胞（chondrocyte）與纖維母細胞（fibroblast）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 35 題",
+    "question": "有關巴金森氏症（Parkinson’s disease），下列敘述何者錯誤？",
+    "options": {
+      "A": "為大腦黑質（substantia nigra）及基底核（basal ganglia）中神經元的多巴胺（dopamine）分泌不足所造成",
+      "B": "患者腦中之退化神經元中常含有由神經絲（neurofilaments）與特定蛋白質交織而成的內含體（Lewy bodies）",
+      "C": "通常會直接投予（口服或注射）多巴胺（dopamine）治療",
+      "D": "腦神經元退化後，通常會有明顯的神經膠樣變性（gliosis）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 36 題",
+    "question": "在毛囊（hair follicle）的橫切面中看到①內根鞘（internal root sheath） ②外根鞘（external root sheath） ③髓質 （medulla） ④皮質（cortex） ⑤玻璃膜（glassy membrane）等構造，這些構造由內而外依序為：",
+    "options": {
+      "A": "①→②→③→④→⑤",
+      "B": "①→③→②→④→⑤",
+      "C": "③→①→②→④→⑤",
+      "D": "③→④→①→②→⑤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 37 題",
+    "question": "以下何者不位於腸腺（crypts of Lieberkühn）？",
+    "options": {
+      "A": "再生幹細胞（regenerative stem cells）",
+      "B": "杯狀細胞（goblet cells）",
+      "C": "壁細胞（parietal cells）",
+      "D": "潘氏細胞（Paneth cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 38 題",
+    "question": "下列關於食道的敘述，何者正確？",
+    "options": {
+      "A": "上食道之外肌層（muscularis externa）僅含有平滑肌",
+      "B": "黏膜層（mucosa layer）具許多杯狀細胞（goblet cells）",
+      "C": "具黏膜下腺（submucosal gland）",
+      "D": "胸腔段有漿膜（serosa）包覆"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 39 題",
+    "question": "甲狀腺上皮細胞內將碘化甲狀腺球蛋白（iodinated thyroglobulin）分解成甲狀腺素的胞器是：",
+    "options": {
+      "A": "溶酶體（lysosomes）",
+      "B": "過氧化酶體（peroxisomes）",
+      "C": "粒線體（mitochondria）",
+      "D": "高爾基氏體（Golgi complex）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 40 題",
+    "question": "下列何組織具有腦砂（brain sand）？",
+    "options": {
+      "A": "腎上腺",
+      "B": "甲狀腺",
+      "C": "腦下垂體",
+      "D": "松果腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 41 題",
+    "question": "在男性的生殖輔助腺體（accessory glands）中，體積最大的是：",
+    "options": {
+      "A": "前列腺（prostate gland）",
+      "B": "精囊（seminal vesicles）",
+      "C": "尿道球腺（bulbourethral glands）",
+      "D": "尿道腺（urethral glands）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

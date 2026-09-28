@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 62 題",
+    "question": "T 淋巴球及巨噬細胞在Mycobacterium leprae 感染的兩種不同的型態中，有不同的反應，下列何者為是？",
+    "options": {
+      "A": "tuberculoid leprosy 包括granulomas 的形成，細菌數目較lepromatous leprosy 為多",
+      "B": "tuberculoid leprosy 中T 淋巴球產生細胞激素以IL-4, IL-5, IL-10 為主",
+      "C": "lepromatous leprosy 中T 淋巴球反應為正常，產生IL-2, IFN-γ, TNF-β 等",
+      "D": "lepromatous leprosy 時細菌數目多，巨噬細胞中的細菌仍生長迅速 情況：小明平常偶爾吃一點花生後就會很不舒服，有一天不小心吃了以花生油炸過的芝麻球，幾分鐘後就 喘不過氣來。請回答第63～65 題。"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 63 題",
+    "question": "此現象是那一種疾病發作？",
+    "options": {
+      "A": "自體免疫疾病",
+      "B": "過敏免疫疾病",
+      "C": "免疫缺損疾病",
+      "D": "免疫不合疾病"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 64 題",
+    "question": "小明體內對花生的特異性抗體，最可能是那一種？",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgE",
+      "D": "IgA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 65 題",
+    "question": "小明體內對花生也有特異性的T 細胞活性，最可能是那一種？",
+    "options": {
+      "A": "T 輔助細胞第一型（Th1 cells）",
+      "B": "T 輔助細胞第二型（Th2 cells）",
+      "C": "T 調節細胞（Treg cells）",
+      "D": "T 毒殺細胞（Tc cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 66 題",
+    "question": "人類主要組織相容抗原（HLA）表現型為A1, A3, B7, B27, DR1, DR3 的人所產生的毒殺性T 細胞 （Cytotoxic T cell）可毒殺受病毒感染的細胞，則該感染細胞最可能表現下列何種分子？",
+    "options": {
+      "A": "A3",
+      "B": "B8",
+      "C": "DR1",
+      "D": "CD8"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 67 題",
+    "question": "一般寄主對病毒感染的免疫反應，下列那一項敘述不正確？",
+    "options": {
+      "A": "抗體在急性感染期有阻斷病毒入侵寄主細胞的作用",
+      "B": "在病毒建立感染後，細胞媒介的反應對清除病毒的作用比較重要",
+      "C": "個體若有補體系統基因的缺損，並不會造成嚴重的病毒感染",
+      "D": "介白質-10（interleukin-10）是主要可以活化自然殺手細胞的細胞激素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 68 題",
+    "question": "缺乏下列那一種細胞激素（cytokine）易導致T 細胞無法分化成Th2 形式？",
+    "options": {
+      "A": "IL-2",
+      "B": "IL-4",
+      "C": "IL-8",
+      "D": "TGF-β"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 69 題",
+    "question": "下列何種細胞激素會促使NK 和T 細胞產生IFN-γ？",
+    "options": {
+      "A": "IL-4",
+      "B": "IL-6",
+      "C": "IL-10",
+      "D": "IL-12"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 70 題",
+    "question": "B 型淋巴細胞的抗體基因進行可變區（variable region）重組（recombination），此過程發生於下列那 一器官？",
+    "options": {
+      "A": "胸腺",
+      "B": "骨髓",
+      "C": "脾臟",
+      "D": "腸道淋巴組織"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 71 題",
+    "question": "下列有關主要組織相容複合體分子（MHC molecules）之描述，那一項錯誤？",
+    "options": {
+      "A": "高度多型性（highly polymorphic）之區域為胜肽（peptide）結合位置",
+      "B": "高度多型性（highly polymorphic）之區域為T 細胞受器（T cell receptor）辨識位置",
+      "C": "HLA-A、HLA-B、HLA-C 相互間之關係，稱之為多型性（polymorphism）",
+      "D": "能夠與共同接受器（co-receptor）結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 72 題",
+    "question": "對於B 型、T 型細胞的抗原受體（antigen receptor），下列那一種描述錯誤？",
+    "options": {
+      "A": "抗原受體的基因必須經重組後，蛋白質才能被表現",
+      "B": "抗原受體呈現於細胞膜上",
+      "C": "抗原受體依靠其他蛋白質複合體傳遞訊息",
+      "D": "細胞活化後，其抗原受體都會被分泌到細胞外"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 73 題",
+    "question": "當TAP1/TAP2 突變而不能將胜肽（peptide）輸送到內質網膜（endoplasmic reticulum）中，則會發生：",
+    "options": {
+      "A": "第一型主要組織相容複合體分子（MHC class I molecules）被滯留在內質網膜中",
+      "B": "第一型主要組織相容複合體分子只會存在於細胞膜（cytoplasmic membrane）上",
+      "C": "第二型主要組織相容複合體分子（MHC class II molecules）被滯留在內質網膜中",
+      "D": "第二型主要組織相容複合體分子只會存在於細胞膜（cytoplasmic membrane）上"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 74 題",
+    "question": "補體C5-C9 形成之胞膜破壞結構體（membrane attack complex）有缺乏時，會產生下列何種現象？",
+    "options": {
+      "A": "易有免疫複合體疾病（immune complex disease）",
+      "B": "易有自體免疫疾病（autoimmune disease）",
+      "C": "對於傳統補體路徑（classical complement pathways）之活化大有影響，因此凋亡細胞之清除受到影響",
+      "D": "無法防範細胞內細菌如Neisseria meningitidis 之感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 76 題",
+    "question": "骨化性肌炎（myositis ossificans）病灶中的骨頭組織，最可能為何種變化？",
+    "options": {
+      "A": "異生（dysplasia）",
+      "B": "增生（hyperplasia）",
+      "C": "萎縮（atrophy）",
+      "D": "化生（metaplasia）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 77 題",
+    "question": "漿細胞（plasma cell）內堆積大量免疫球蛋白，所形成的細胞內粉紅色物質，稱為：",
+    "options": {
+      "A": "Russell body",
+      "B": "amyloid",
+      "C": "Mallory-Denk body",
+      "D": "psammoma body"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 78 題",
+    "question": "下列疾病患者在使用小兒麻痺口服沙賓活病毒疫苗後，其中何者引起癱瘓性脊髓灰質炎（poliomyelitis）的風 險較高？",
+    "options": {
+      "A": "狄喬治氏症候群（DiGeorge syndrome）",
+      "B": "Bruton氏病（性聯丙種免疫球蛋白缺乏血症）（X-linked agammaglobulinemia [Bruton disease]）",
+      "C": "慢性肉芽腫疾病（chronic granulomatous disease）",
+      "D": "威斯科特－奧爾德里奇症候群（Wiskott-Aldrich syndrome）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 79 題",
+    "question": "下列疾病中，何者致病機轉主要跟自體抗體（autoantibody）的產生有關？①尋常型天皰瘡（pemphigus  vulgaris） ②多發性結節性動脈炎（polyarteritis nodosa） ③惡性貧血（pernicious anemia）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 80 題",
+    "question": "臨床上高度懷疑是肺癌的病人，同時呈現高血鈣（hypercalcemia）之現象時，則其肺部腫瘤之病理切片結果 最可能是：",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Pleomorphic carcinoma",
+      "C": "Small cell carcinoma",
+      "D": "Squamous cell carcinoma"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 81 題",
+    "question": "Li-Fraumeni症候群之特性為平均發病年齡比正常族群低，且可同時發生一種以上的癌症。它與下列何種基因 的變異關係最高？",
+    "options": {
+      "A": "RB",
+      "B": "TP53",
+      "C": "WT-1",
+      "D": "BRCA-1及BRCA-2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 82 題",
+    "question": "下列血管炎中，何者與吸菸的關係最為密切，在疾病早期階段，戒菸可以緩解疾病的惡化？",
+    "options": {
+      "A": "Churg-Strauss syndrome",
+      "B": "結節性多動脈炎（polyarteritis nodosa）",
+      "C": "血栓閉塞性血管炎（thromboangiitis obliterans）",
+      "D": "Henoch-Schönlein purpura"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 83 題",
+    "question": "下列何種先天性心臟病必須保持開放的動脈導管（ductus arteriosus），否則嬰兒出生後通常很快致命？",
+    "options": {
+      "A": "心室中隔缺損（ventricular septal defect）",
+      "B": "主動脈縮窄（coarctation of aorta）",
+      "C": "心房中隔缺損（atrial septal defect）",
+      "D": "主動脈閉鎖（aortic atresia）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 84 題",
+    "question": "有關何杰金氏淋巴瘤（Hodgkin lymphoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "整體來說，治療效果與存活率低於非何杰金氏淋巴瘤（non-Hodgkin lymphoma）",
+      "B": "大多數發生在淋巴結以外的器官",
+      "C": "典型腫瘤中，腫瘤細胞只占所有細胞的小部分",
+      "D": "病理亞型比臨床分期對存活率影響較大"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 85 題",
+    "question": "下列有關單株丙型球蛋白病變（monoclonal gammopathy）之敘述，何者錯誤？",
+    "options": {
+      "A": "常見於急性發炎之病人",
+      "B": "不一定會有Bence-Jones蛋白尿現象",
+      "C": "可能只含有免疫球蛋白之重鏈",
+      "D": "不一定會有漿細胞瘤或多發性骨髓瘤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 86 題",
+    "question": "下列有關機化性肺炎（organizing pneumonia）的敘述，何者錯誤？",
+    "options": {
+      "A": "肺泡中塞滿球狀之纖維母細胞增生（Masson body）",
+      "B": "病變不涉及小支氣管",
+      "C": "通常無間質性纖維化",
+      "D": "通常無蜂巢狀纖維化"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 87 題",
+    "question": "急性氣管炎合併肺部瀰漫性間質發炎，最可能是下列那一類感染引起？",
+    "options": {
+      "A": "病毒",
+      "B": "肺炎雙球菌",
+      "C": "葡萄球菌",
+      "D": "黴菌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 88 題",
+    "question": "肺膨脹不全（atelectasis）最少見於：",
+    "options": {
+      "A": "氣道阻塞",
+      "B": "肋膜腔積水",
+      "C": "肺泡表面張力素不足",
+      "D": "急性肺炎"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 89 題",
+    "question": "關於酒精性肝炎之敘述，何者錯誤？",
+    "options": {
+      "A": "AST通常比ALT高約兩倍以上",
+      "B": "典型可見肝臟脂肪堆積，Mallory-Denk bodies，嗜中性白血球（neutrophils）浸潤",
+      "C": "纖維化通常由portal areas開始，之後往central vein延伸",
+      "D": "酗酒而言，女性似乎比男性更容易受到肝臟損傷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 90 題",
+    "question": "下列關於hepatocellular adenoma的敘述何者錯誤？",
+    "options": {
+      "A": "為良性肝細胞的增生",
+      "B": "與maturity onset diabetes of the young type 3（MODY-3）有關的是HNF1-alpha inactivated hepatocellular adenoma",
+      "C": "beta-catenin activated adenoma在所有hepatocellular adenoma型別中，惡性化風險（risk for malignant transformation）最低",
+      "D": "gp130的突變出現在inflammatory type adenoma"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 91 題",
+    "question": "關於自身免疫性胃炎（autoimmune gastritis）何者錯誤？",
+    "options": {
+      "A": "針對壁細胞和內在因子的自體抗體（antibodies to parietal cells & intrinsic factor）可在血清及胃液中測得",
+      "B": "維生素B12缺乏（vitamin B12 deficiency）",
+      "C": "胃酸分泌不足，胃泌素（gastrin）分泌增加",
+      "D": "胃竇（antrum）內分泌細胞減少"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 92 題",
+    "question": "以下何種膀胱病灶最常發生FGFR3基因突變？",
+    "options": {
+      "A": "非侵襲性低惡性度泌尿上皮癌（noninvasive low-grade papillary urothelial carcinoma）",
+      "B": "非侵襲性高惡性度泌尿上皮癌（noninvasive high-grade papillary urothelial carcinoma）",
+      "C": "原位癌（carcinoma in situ）",
+      "D": "侵襲性高惡性度泌尿上皮癌（invasive high-grade papillary urothelial carcinoma）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 93 題",
+    "question": "在原發性膜性腎病變（primary membranous nephropathy）沉積在腎小球最主要的免疫球蛋白為：",
+    "options": {
+      "A": "IgG1",
+      "B": "IgG2",
+      "C": "IgG3",
+      "D": "IgG4"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 94 題",
+    "question": "亞急性肉芽腫性甲狀腺炎（subacute granulomatous thyroiditis）之致病機轉尚未完全清楚，但是目前認為此疾 病最可能是由下列何種感染所引發的？",
+    "options": {
+      "A": "細菌感染（bacterial infection）",
+      "B": "黴菌感染（fungal infection）",
+      "C": "病毒感染（viral infection）",
+      "D": "結核菌感染（tuberculosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 95 題",
+    "question": "下列何者不是前列腺癌（prostate cancer）較常見的基因變化？",
+    "options": {
+      "A": "TMPRSS2-ERG或TMPRSS2-ETV1基因融合（gene fusions）",
+      "B": "染色體8q24缺失（deletion）",
+      "C": "PTEN基因缺失（deletion）",
+      "D": "TP53基因缺失（deletion）或突變（mutation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 96 題",
+    "question": "下列有關成人睪丸生殖細胞腫瘤（testicular germ cell tumor）的敘述， 何者較不正確？",
+    "options": {
+      "A": "卵黃囊腫瘤（yolk sac tumor）常常為單一組織學型態，很少與其他組織學型態如胚胎癌（embryonal carcinoma）混合",
+      "B": "精母細胞瘤（seminoma）是最常見的組織學型態",
+      "C": "胚胎癌（embryonal carcinoma）的腫瘤生物特性較精母細胞瘤（seminoma）更具侵襲性",
+      "D": "由絨毛膜癌（choriocarcinoma）單一組織學型態所組成的睪丸腫瘤相當罕見"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 97 題",
+    "question": "50歲女性因例行性子宮頸抹片結果異常，接受進一步子宮頸切片檢查，發現異生的細胞取代了整層原有的子 宮上皮細胞，以原位雜交法（in situ hybridization）發現在這些異生的細胞有人類乳突病毒（human  papillomavirus）第16型的DNA，則下列何者為最可能之診斷？",
+    "options": {
+      "A": "尖形濕疣（condyloma acuminatum）",
+      "B": "慢性子宮頸炎併鱗狀細胞化生（chronic cervicitis with squamous metaplasia）",
+      "C": "子宮頸上皮內贅生第三級（cervical intraepithelial neoplasia III）",
+      "D": "子宮頸息肉（cervical polyp）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 98 題",
+    "question": "有關發育不良痣（dysplastic nevi）的敘述，下列何者正確？",
+    "options": {
+      "A": "通常較一般的痣（nevi）小，常小於5mm",
+      "B": "只見於曬到陽光的皮膚",
+      "C": "組織形態通常是皮內痣（intradermal nevi）",
+      "D": "大部分此類病灶都不會轉變成黑色素瘤（melanoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 99 題",
+    "question": "鏡下描述牛皮癬（psoriasis）有所謂的角化不全（parakeratosis），這是指下列何種表皮角質層的變化而言？",
+    "options": {
+      "A": "增厚",
+      "B": "形成玻璃質樣物質",
+      "C": "角質並不成熟，仍有細胞核存在",
+      "D": "變薄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 100 題",
+    "question": "惡性貧血（pernicious anemia）患者所伴隨發生的特殊神經病理學病變是在何部位？",
+    "options": {
+      "A": "大腦白質",
+      "B": "脊髓",
+      "C": "大腦皮質",
+      "D": "小腦"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

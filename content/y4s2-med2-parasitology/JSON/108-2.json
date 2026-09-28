@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 29 題",
+    "question": "有關鉤蟲（hookworm）感染的敘述，下列選項何者錯誤？①十二指腸鉤蟲（Ancylostoma duodenale）僅經皮 膚感染人體 ②重度感染且鐵質之攝取量不足，常引起缺鐵性貧血（iron deficiency anemia） ③感染後最早 發生的症狀為嗜伊紅性白血球增多",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 30 題",
+    "question": "下列何種寄生蟲感染會導致皮膚幼蟲移行症（cutaneous larva migrans）？",
+    "options": {
+      "A": "犬心絲蟲（Dirofilaria immitis）",
+      "B": "犬鉤蟲（Ancylostoma caninum）",
+      "C": "犬蛔蟲（Toxocara canis）",
+      "D": "肝毛細線蟲（Capillaria hepatica）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 31 題",
+    "question": "下列寄生蟲中，何者感染不會導致患者腦部病變？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "豬肉絛蟲（Taenia solium）",
+      "C": "單胞絛蟲（Echinococcus granulosus）",
+      "D": "棘口吸蟲（Echinostoma spp.）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 32 題",
+    "question": "下列何種絛蟲的蟲卵具有卵蓋（operculum）？",
+    "options": {
+      "A": "單胞絛蟲（Echinococcus granulosus）",
+      "B": "牛肉絛蟲（Taenia saginata）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "短小包膜絛蟲（Hymenolepis nana）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 33 題",
+    "question": "下列有關寄生蟲之敘述中，何者錯誤？",
+    "options": {
+      "A": "蘇丹境內同時有羅得西亞錐蟲（Trypanosoma brucei rhodesiense）及岡比亞錐蟲（T. b. gambiense）的分布",
+      "B": "有些黑熱病（kala-azar）患者如果治療不當，在一、兩年後同樣的病原蟲可能在皮膚產生病灶",
+      "C": "美國境內也曾有本土性枯西氏錐蟲（Trypanosoma cruzi）人體感染的病例",
+      "D": "歐美人士至東非野生動物保護區旅行，曾有因此感染羅得西亞錐蟲（Trypanosoma brucei rhodesiense）的病 例發生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 34 題",
+    "question": "下列各病症與其病原蟲之配對中，何者錯誤？",
+    "options": {
+      "A": "Romaña's sign－枯西氏錐蟲（Trypanosoma cruzi）",
+      "B": "Winterbottom's sign－岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "C": "Megaesophagus－杜氏利什曼原蟲（Leishmania donovani）",
+      "D": "Espundia－巴西利什曼原蟲（Leishmania braziliensis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 35 題",
+    "question": "有關蜱媒介人巴貝氏原蟲病（human babesiosis）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "巴貝氏原蟲（Babesia）感染宿主後主要寄生在紅血球內",
+      "B": "患者常呈現無症狀感染（asymptomatic infection）之高度寄生蟲血症（heavy parasitemia）",
+      "C": "感染致死之病例通常發生在脾臟切除（splenectomized）病人",
+      "D": "臨床感染診斷則以血液抹片配合免疫螢光抗體試驗（IFA）為主"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

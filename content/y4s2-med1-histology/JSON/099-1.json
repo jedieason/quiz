@@ -1,0 +1,115 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 33 題",
+    "question": "下列何者含有最少量基質（ground substance）？",
+    "options": {
+      "A": "間葉組織（mesenchyme）",
+      "B": "黏液結締組織（mucous connective tissue）",
+      "C": "規則緻密結締組織（dense regular connective tissue）",
+      "D": "不規則緻密結締組織（dense irregular connective tissue）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 34 題",
+    "question": "下列何者不是漿細胞（plasma cell）的特徵？",
+    "options": {
+      "A": "具車輪狀核",
+      "B": "細胞核偏一邊",
+      "C": "細胞質含許多粗糙內質網",
+      "D": "細胞質含許多平滑內質網"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 35 題",
+    "question": "下列何者位於骨骼肌內，主要功能是貯存鈣離子，以控制肌肉收縮？",
+    "options": {
+      "A": "肌漿網（sarcoplasmic reticulum）",
+      "B": "粗糙內質網（rough endoplasmic reticulum）",
+      "C": "高基氏體（Golgi apparatus）",
+      "D": "溶酶體（lysosome）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 36 題",
+    "question": "「梅斯納氏小體（Meissner’s corpuscle）」具有下列何種特徵？",
+    "options": {
+      "A": "分布於表皮",
+      "B": "分布於真皮的網狀層",
+      "C": "由淋巴細胞聚集形成的構造",
+      "D": "為觸覺接受器"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 37 題",
+    "question": "下列有關胃的敘述，何者正確？",
+    "options": {
+      "A": "胃酸由主細胞（chief cell）製造",
+      "B": "主細胞（chief cell）可分泌胃蛋白酶原",
+      "C": "具分化能力的幹細胞分布在胃腺底部",
+      "D": "分泌胃泌素（gastrin）之腸道內分泌細胞集中在賁門部"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 38 題",
+    "question": "下列何細胞具有胞內小管（intracellular canaliculi）？",
+    "options": {
+      "A": "腸內分泌細胞（enteroendocrine cell）",
+      "B": "頸黏液細胞（mucous neck cell）",
+      "C": "壁細胞（parietal cell）",
+      "D": "主細胞（chief cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 39 題",
+    "question": "有關前列腺（prostate gland），下列敘述何項正確？",
+    "options": {
+      "A": "具有儲存精子之功能",
+      "B": "腺泡（alveoli）內常含有前列腺凝塊（prostatic concretions）",
+      "C": "僅有尿道（urethra）穿過此腺體",
+      "D": "分泌活性不受賀爾蒙（hormone）影響"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 40 題",
+    "question": "腎絲球（corpuscle）之過濾屏障（filtration barrier）主要由下列那一結構組成？",
+    "options": {
+      "A": "微血管內皮細胞基底層的穿孔（fenestra）",
+      "B": "足細胞（podocyte）之過濾隙（filtration slit）",
+      "C": "微血管內皮細胞、足細胞及其癒合基底層（fused basal lamina）",
+      "D": "鮑氏囊（Bowman’s capsule）之臟層（visceral layer）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 41 題",
+    "question": "有關十二指腸潰瘍（duodenal ulcer），患者幽門竇（pyloric antrum）之黏膜層（mucosa）細胞的改 變，下列何者正確？",
+    "options": {
+      "A": "促胃酸激素細胞（gastrin-secreting cell）數目增加",
+      "B": "抑生長素細胞（somatostatin-secreting cell）數目增加",
+      "C": "壁細胞（parietal cell）之數目大量增加",
+      "D": "潘氏細胞（Paneth cell）數目大量增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 37 題",
+    "question": "用來治療陽萎的藥物「威而剛」（Viagra; Sildenafil citrate）會頗具選擇性地抑制在血管平滑肌內有 高度表現的一種cGMP phosphodiesterase，造成血管擴張、海綿體充血，海綿竇因此膨脹變大而達到 勃起的效果。下列關於威而剛作用之敘述，何者正確？",
+    "options": {
+      "A": "會增加cGMP 之新合成",
+      "B": "會抑制5’-GMP 轉化成cGMP",
+      "C": "會使血管平滑肌細胞內cGMP 增多",
+      "D": "會增加nitric oxide（NO）的釋放"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 38 題",
+    "question": "胰島素缺乏的第一型糖尿病（type I diabetes mellitus）病人，血糖控制極差時，可能發生酮酸中 毒（ketoacidosis），下列有關病人體內能量代謝之敘述，何者錯誤？",
+    "options": {
+      "A": "酮體（ketone body）主要是由葡萄糖代謝產生之acetyl-CoA 所轉化而成",
+      "B": "酮體可代替葡萄糖成為細胞能量來源",
+      "C": "Kreb’s cycle 之中間產物，如oxaloacetate 被移作糖質新生作用（gluconeogenesis）之材料，故血糖 會上升",
+      "D": "acetyl-CoA 因缺乏oxaloacetate，無法進行Kreb’s cycle，故轉化成酮體"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 39 題",
+    "question": "14 歲的小薇身材消瘦，因最近特別顯得病懨懨、並且抱怨口渴、頻尿、食慾變差及體重減輕而被媽 媽帶到醫院檢查，經一系列實驗室檢驗後，醫師診斷她患有第一型糖尿病（type I diabetes mellitus）。 第一型糖尿病是因為胰臟不能產生胰島素所致，治療必須每天注射多次的胰島素。下列關於胰島素 訊息傳導機制之敘述，何者錯誤？",
+    "options": {
+      "A": "胰島素與受體結合會引發受體蛋白之四級結構（quaternary structure）的變化",
+      "B": "胰島素與受體結合會活化一些protein kinase",
+      "C": "胰島素受體為一protein tyrosine kinase",
+      "D": "胰島素受體protein kinase 的受質均為transcription factor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 40 題",
+    "question": "有一種特殊的血紅素基因病變來自於終止密碼子（termination codon）之突變而造成polypeptide 之延 長或縮短。下列何者不是終止密碼子？",
+    "options": {
+      "A": "UAG",
+      "B": "UAA",
+      "C": "UGA",
+      "D": "UGG"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 41 題",
+    "question": "丙酮酸羧化酶（Pyruvate carboxylase）其輔酶生物素（biotin）主要功能是傳遞：",
+    "options": {
+      "A": "胺基（amino group）",
+      "B": "電子（electrons）",
+      "C": "醯基（acyl groups）",
+      "D": "二氧化碳（$CO_2$）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 42 題",
+    "question": "人體主要胺基酸基本結構為：",
+    "options": {
+      "A": "L-α form",
+      "B": "L-β form",
+      "C": "D-α form",
+      "D": "D-β form"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 43 題",
+    "question": "下列那一項是DNA 和RNA 共同的特性？",
+    "options": {
+      "A": "都是雙股螺旋鏈",
+      "B": "合成過程都具有校正機制避免錯誤",
+      "C": "核酸中都含有磷酸根、醣及鹼基",
+      "D": "在五碳醣的第二個位置都是-OH 基"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 44 題",
+    "question": "一分子的丙酮酸（pyruvate）經由丙酮酸脫氫酶（pyruvate dehydrogenase）以及檸檬酸循環（citric acid  cycle）代謝生成3 分子二氧化碳時，可以產生1 分子的FADH2，1 分子的ATP（或GTP），以及幾 分子的NADH？",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 45 題",
+    "question": "Alanine 及2-oxoglutarate 在alanine aminotransferase 作用下會形成glutamate 及何者？",
+    "options": {
+      "A": "aspartate",
+      "B": "oxaloacetate",
+      "C": "ketobutyrate",
+      "D": "pyruvate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 46 題",
+    "question": "Aspartate transaminase 又可稱為Glutamate:oxaloacetate transaminase 作用時需要下列何者當作輔助因 子？",
+    "options": {
+      "A": "pyridoxal phosphate",
+      "B": "thiamine",
+      "C": "FAD",
+      "D": "ATP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 47 題",
+    "question": "Mevalonate 是膽固醇的前驅物，每形成一分子的膽固醇須多少分子的Mevalonate？",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 48 題",
+    "question": "一個Palmitic acid 完全氧化後可以淨得多少ATP？",
+    "options": {
+      "A": "125",
+      "B": "129",
+      "C": "130",
+      "D": "140"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 49 題",
+    "question": "下列何種酵素活性之抑制可以提升cAMP 濃度，以減緩氣喘症狀？",
+    "options": {
+      "A": "phospholipase C",
+      "B": "adenylate cyclase",
+      "C": "protein kinase A",
+      "D": "cAMP phosphodiesterase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 50 題",
+    "question": "在標準條件下，下列何者在水解所釋出的自由能（free energy）最大？",
+    "options": {
+      "A": "creatine phosphate",
+      "B": "phosphoenolpyruvate",
+      "C": "ATP",
+      "D": "1,3-bisphosphoglycerate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 51 題",
+    "question": "下列何者的分子內含有半縮酮（hemiketal）？",
+    "options": {
+      "A": "環式D-ribose",
+      "B": "環式D-fructose",
+      "C": "環式D-glucose",
+      "D": "6-phosphogluconolactone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 52 題",
+    "question": "在E. coli 中修護較大之DNA 損壞如紫外線照射，是靠：",
+    "options": {
+      "A": "UvrA 及UvrB 蛋白尋找破壞之位置結合上去",
+      "B": "UvrC 切斷被破壞之鹼基",
+      "C": "Apunic endonuclease 切斷DNA 一股",
+      "D": "DNA 複製酶III 修補"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 1 題",
+    "question": "腦中風病患到院時兩眼同時看向右側，下列何者最可能受破壞？",
+    "options": {
+      "A": "右側paramedian pontine reticular formation（PPRF）",
+      "B": "右側大腦半球之額葉（frontal lobe）",
+      "C": "右側動眼神經（oculomotor nerve）",
+      "D": "右側上丘（superior colliculus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 2 題",
+    "question": "下列何者不參與角膜反射（corneal reflex）？",
+    "options": {
+      "A": "三叉神經感覺核",
+      "B": "面神經運動核",
+      "C": "上丘",
+      "D": "三叉神經視枝（ophthalmic division of trigeminal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 3 題",
+    "question": "下列何者由源自C1的神經透過舌下神經（CN XII）來支配？",
+    "options": {
+      "A": "胸骨舌骨肌（sternohyoid m.）",
+      "B": "頦舌骨肌（geniohyoid m.）",
+      "C": "胸骨甲狀肌（sternothyroid m.）",
+      "D": "莖突舌骨肌（stylohyoid m.）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 4 題",
+    "question": "車禍造成胸鎖乳突肌上1/3處的撕裂傷後，下頜骨角（angle of mandible）處的皮膚感覺喪失，下列何者最可 能受傷？",
+    "options": {
+      "A": "頦神經（mental nerve）",
+      "B": "面神經（facial nerve）",
+      "C": "枕小神經（lesser occipital nerve）",
+      "D": "耳大神經（great auricular nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 5 題",
+    "question": "肋間神經（intercostal nerve）之外側皮支（lateral cutaneous branch），一般由下列何處鑽出？",
+    "options": {
+      "A": "肋骨角（costal angle）",
+      "B": "肩胛骨線（scapular line）",
+      "C": "正中腋線（midaxillary line）",
+      "D": "正中鎖骨線（midclavicular line）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 6 題",
+    "question": "下列何者匯入乳糜池（cisterna chyli）？ ①腸淋巴幹（intestinal lymphatic trunk） ②左腰淋巴幹（left  lumbar lymphatic trunk） ③右腰淋巴幹（right lumbar lymphatic trunk）",
+    "options": {
+      "A": "僅①",
+      "B": "僅①②",
+      "C": "僅①③",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 7 題",
+    "question": "下列何者構成弓狀線（arcuate line）下方腹直肌前的鞘膜（rectus sheath anterior to the rectus  abdominis）？ ①Scarpa's fascia ②腹外斜肌（external abdominal oblique muscle）的腱膜 （aponeurosis） ③腹內斜肌（internal abdominal oblique muscle）的腱膜 ④腹橫肌（transversus  abdominis）的腱膜",
+    "options": {
+      "A": "①",
+      "B": "僅②",
+      "C": "僅②③",
+      "D": "②③④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 8 題",
+    "question": "下列何者不附著於坐骨棘（ischial spine）上？",
+    "options": {
+      "A": "尾骨肌（coccygeus）",
+      "B": "梨狀肌（piriformis）",
+      "C": "上孖肌（superior gemellus）",
+      "D": "薦棘韌帶（sacrospinous ligament）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 9 題",
+    "question": "下列何者附著於脛骨粗隆（tibial tuberosity）？",
+    "options": {
+      "A": "薦粗隆韌帶（sacrotuberous ligament）",
+      "B": "脛側副韌帶（tibial collateral ligament）",
+      "C": "腓側副韌帶（fibular collateral ligament）",
+      "D": "膝韌帶（patellar ligament）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 10 題",
+    "question": "下列那些肌肉與肋骨連結且與呼吸有關？",
+    "options": {
+      "A": "斜方肌（trapezius）、闊背肌（latissimus dorsi）",
+      "B": "大菱形肌（rhomboideus major）、提肩胛肌（levator scapulae）",
+      "C": "上後鋸肌（serratus posterior superior）、下後鋸肌（serratus posterior inferior）",
+      "D": "頭夾肌（splenius capitis）、頸夾肌（splenius cervicis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 11 題",
+    "question": "左側L5～S1腰椎間盤突出，突出位置偏中間，壓到的脊神經是：",
+    "options": {
+      "A": "L4",
+      "B": "L5及S1",
+      "C": "S1",
+      "D": "Co1"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 12 題",
+    "question": "關於韁核（habenular nucleus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "位於丘腦上部（epithalamus）",
+      "B": "與丘腦髓紋（stria medullaris thalami）相連接",
+      "C": "經由韁核腳間核神經路徑（habenular-interpeduncular tract）將訊息傳入中腦（midbrain）",
+      "D": "與短期記憶（short term memory）形成密切關聯"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 13 題",
+    "question": "關於楔狀核（cuneate nucleus）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可傳遞上肢震動覺",
+      "B": "發出楔狀核小腦徑（cuneocerebellar tract）",
+      "C": "可將感覺訊息傳入丘腦（thalamus）",
+      "D": "位於延髓（medulla oblongata）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 14 題",
+    "question": "下列何構造不位於小腦橋腦角（cerebellopontine angle）？",
+    "options": {
+      "A": "顏面神經（facial nerve）",
+      "B": "外旋神經（abducens nerve）",
+      "C": "前庭耳蝸神經（vestibulocochlear nerve）",
+      "D": "中間神經（nervus intermedius）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 15 題",
+    "question": "有關運動系統之敘述，下列何者錯誤？",
+    "options": {
+      "A": "大腦額葉（frontal lobe）與頂葉（parietal lobe）皆可發出神經纖維形成皮質脊髓徑（corticospinal tract）",
+      "B": "前庭脊髓徑（vestibulospinal tract）主要興奮屈肌群（flexor muscles）",
+      "C": "網狀系統（reticular formation）可參與運動的調控",
+      "D": "支配右側咀嚼肌之上運動神經元（upper motor neuron）來自兩側大腦半球"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 16 題",
+    "question": "關於聽小骨之敘述，下列何者錯誤？",
+    "options": {
+      "A": "鎚骨（malleus）接在鼓膜（tympanic membrane）",
+      "B": "砧骨（incus）與鎚骨（malleus）之間互相關節",
+      "C": "鐙骨（stapes）接到卵圓窗（oval window）",
+      "D": "鼓膜張肌（tensor tympani muscle）的肌腱附著在砧骨（incus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 17 題",
+    "question": "有關頸部交感神經幹（sympathetic trunk）之敘述，下列何者正確？",
+    "options": {
+      "A": "頸部交感神經幹無灰交通枝（gray rami communicantes）",
+      "B": "下頸神經節與第一胸神經節（first thoracic ganglion）經常合併而成星狀神經節（stellate ganglion）",
+      "C": "上頸神經節會發出灰交通枝（gray rami communicantes）至第五、六頸脊神經（cervical spinal nerves）",
+      "D": "中頸神經節不發出心神經（cardiac nerves）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 18 題",
+    "question": "下列那一肌肉收縮，可上提第二肋骨（second rib）？",
+    "options": {
+      "A": "前斜角肌（anterior scalene muscle）",
+      "B": "中斜角肌（middle scalene muscle）",
+      "C": "後斜角肌（posterior scalene muscle）",
+      "D": "鎖骨下肌（subclavius muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 19 題",
+    "question": "下列何者不參與形成前顱窩（anterior cranial fossa）？",
+    "options": {
+      "A": "顳骨（temporal bone）",
+      "B": "篩骨（ethmoid bone）",
+      "C": "蝶骨（sphenoid bone）",
+      "D": "額骨（frontal bone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 20 題",
+    "question": "下列那一條動脈是升主動脈（ascending aorta）的分支？",
+    "options": {
+      "A": "內胸動脈（internal thoracic artery）",
+      "B": "冠狀動脈（coronary artery）",
+      "C": "支氣管動脈（bronchial artery）",
+      "D": "肋間動脈（intercostal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 21 題",
+    "question": "在病人上身直立姿勢進行肋膜穿刺術時，下列那一個位置最有可能刺傷肺臟？",
+    "options": {
+      "A": "鎖骨中線（midclavicular line）第8肋間",
+      "B": "肩胛線（scapular line）第9肋間",
+      "C": "腋中線（midaxillary line）第9肋間",
+      "D": "胸椎旁第10肋間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 22 題",
+    "question": "肚臍的皮節（dermatome）是：",
+    "options": {
+      "A": "L1",
+      "B": "T12",
+      "C": "T10",
+      "D": "T8"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 23 題",
+    "question": "下列何者不會壓迫食道，形成生理性狹窄處而影響吞嚥？",
+    "options": {
+      "A": "主動脈弓",
+      "B": "支氣管",
+      "C": "肺動脈",
+      "D": "橫膈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 24 題",
+    "question": "下列何者不屬縱隔（mediastinum）構造？",
+    "options": {
+      "A": "食道",
+      "B": "胸腺",
+      "C": "肺臟",
+      "D": "胸主動脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 25 題",
+    "question": "下列那兩條靜脈的連接，組成門脈系統與體循環系統的吻合（portal-systemic anastomosis）？",
+    "options": {
+      "A": "腹壁上靜脈與旋髂淺靜脈（superior epigastric and superficial circumflex iliac vein）",
+      "B": "副臍靜脈與腹壁淺靜脈（paraumbilical veins and superficial epigastric vein）",
+      "C": "脾靜脈與下腸繫膜靜脈（splenic vein and inferior mesenteric vein）",
+      "D": "右與左胃網膜靜脈（right and left gastroepiploic vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 26 題",
+    "question": "脾臟破裂進行緊急手術，於脾動脈（splenic artery）發源處結紮該動脈以利止血，術後，下列何者的血流不 受影響？",
+    "options": {
+      "A": "背胰動脈（dorsal pancreatic artery）",
+      "B": "短胃動脈（short gastric artery）",
+      "C": "左胃動脈（left gastric artery）",
+      "D": "左胃網膜動脈（left gastroomental artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 27 題",
+    "question": "下列何者不是內髂動脈（internal iliac artery）的分支？",
+    "options": {
+      "A": "臍動脈（umbilical artery）",
+      "B": "正中薦動脈（median sacral）",
+      "C": "臀上動脈（superior gluteal artery）",
+      "D": "陰部動脈（pudenal artery）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 28 題",
+    "question": "男性球尿道腺（bulbourethral gland）感染發炎時，下列何者因位置關係最可能被感染？",
+    "options": {
+      "A": "會陰淺橫肌（superficial transverse perineal muscle）",
+      "B": "球海綿體肌（bulbospongiosus muscle）",
+      "C": "外尿道括約肌（external urethral sphincter muscle）",
+      "D": "坐骨海綿體肌（ischiocavernosus muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 29 題",
+    "question": "下列選項中，心臟科醫師會優先選擇，由何處進入施行心臟冠狀動脈的氣球擴張術（percutaneous  transluminal coronary angioplasty）？",
+    "options": {
+      "A": "股動脈（femoral artery）",
+      "B": "股靜脈（femoral vein）",
+      "C": "大隱靜脈（great saphenous vein）",
+      "D": "小隱靜脈（small saphenous vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 30 題",
+    "question": "橈神經（radial nerve）在大圓肌（teres major）下方處受到傷害，通常也會傷及與其伴行的那一條血管？",
+    "options": {
+      "A": "肱動脈（brachial artery）",
+      "B": "深肱動脈（deep brachial artery）",
+      "C": "前迴旋肱動脈（anterior circumflex humeral artery）",
+      "D": "後迴旋肱動脈（posterior circumflex humeral artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 31 題",
+    "question": "下列何者位於脊椎管腔（vertebral canal）內，且向上連至顱底的頂蓋膜（tectorial membrane）？",
+    "options": {
+      "A": "髓核（nucleus pulposus）",
+      "B": "環狀纖維（annulus fibrosus）",
+      "C": "前縱韌帶（anterior longitudinal ligament）",
+      "D": "後縱韌帶（posterior longitudinal ligament）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

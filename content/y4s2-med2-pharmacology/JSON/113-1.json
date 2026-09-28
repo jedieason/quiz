@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 51 題",
+    "question": "pKa=6 的弱酸性藥物，在pH 值為4 的酸性環境下，其離子型與非離子型藥物（[A -]：[HA]）的比例為何？",
+    "options": {
+      "A": "1：10",
+      "B": "10：1",
+      "C": "1：100",
+      "D": "100：1"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 52 題",
+    "question": "下列何者為肺囊蟲肺炎（pneumocystis pneumonia）之首選治療藥物組合？",
+    "options": {
+      "A": "trimethoprim - sulfamethoxazole",
+      "B": "vancomycin - gentamicin",
+      "C": "penicillin V - streptomycin",
+      "D": "amoxicillin - clavulanic acid"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 53 題",
+    "question": "長春花生物鹼類（vinca alkaloids）抗腫瘤藥物中，vincristine 較vinblastine 更容易出現下列何種副作 用？",
+    "options": {
+      "A": "骨髓抑制",
+      "B": "禿頭",
+      "C": "心臟毒性",
+      "D": "周邊神經病變"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 54 題",
+    "question": "下列關於癌症治療之敘述，何者錯誤？",
+    "options": {
+      "A": "具有KRAS 突變的大腸直腸癌，以FOLFOX 與cetuximab 併用可以得到顯著療效",
+      "B": "治療晚期或無法手術切除的肝癌，一般以sorafenib 作為單一藥物進行治療",
+      "C": "gemcitabine 可使用於治療轉移性胰臟癌",
+      "D": "erlotinib、afatinib 及osimertinib 皆可用於治療EGFR 突變的非小細胞肺癌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 55 題",
+    "question": "下列關於血清素（serotonin）受體之敘述，何者錯誤？",
+    "options": {
+      "A": "活化5-HT1B或5-HT1D可減少cAMP 生成",
+      "B": "活化腸道神經系統5-HT4可增加腸道蠕動",
+      "C": "活化5-HT2受體與chemoreceptor reflex 作用有關",
+      "D": "5-HT3受體是ligand-gated Na +/K + channel"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 56 題",
+    "question": "下列治療癌症抗體藥物之敘述，何者錯誤？",
+    "options": {
+      "A": "avelumab 主要結合在癌細胞上的PD-L1 表面蛋白",
+      "B": "nivolumab 主要結合在T 淋巴細胞上的PD-1 表面蛋白",
+      "C": "panitumumab 主要結合在大腸癌細胞表面的EGFR 蛋白",
+      "D": "pertuzumab 主要結合在乳癌細胞表面的VEGFR 蛋白"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 57 題",
+    "question": "有關erythropoietin 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "人體貧血時erythropoietin 合成會增加",
+      "B": "用於慢性腎疾和部分化療引發之貧血患者",
+      "C": "會產生血栓的副作用",
+      "D": "高血壓控制不良之患者可使用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 58 題",
+    "question": "下列直接性凝血酶抑制劑（direct thrombin inhibitors）中，何者可口服方式給藥，以降低非瓣膜性心房 顫動併發腦中風及系統性栓塞之風險？",
+    "options": {
+      "A": "lepirudin",
+      "B": "bivalirudin",
+      "C": "dabigatran",
+      "D": "argatroban"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 59 題",
+    "question": "下列關於repaglinide 之敘述，何者錯誤？",
+    "options": {
+      "A": "用於控制餐後血糖波動",
+      "B": "可用於對硫（sulfur）或磺脲類 (sulfonylurea）藥物嚴重過敏的第2 型糖尿病患者",
+      "C": "可單獨使用或與雙胍類（biguanides）藥物併用，以治療糖尿病",
+      "D": "不宜用於腎功能不全的患者和老年人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 60 題",
+    "question": "下列藥物中，何者在長期使用後可能導致骨質疏鬆症？",
+    "options": {
+      "A": "bazedoxifene",
+      "B": "calcitonin",
+      "C": "strontium ranelate",
+      "D": "anastrozole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 61 題",
+    "question": "長期使用類固醇，會導致醫源性庫欣氏症候群（iatrogenic Cushing syndrome），下列何者是比較少出現的 症狀？",
+    "options": {
+      "A": "月亮臉",
+      "B": "軀幹肥胖",
+      "C": "多毛",
+      "D": "低血糖"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 62 題",
+    "question": "下列何者為furosemide 產生利尿作用的主要機轉？",
+    "options": {
+      "A": "在亨利氏環上升支，抑制Na +/K +/2Cl –共同運送系統",
+      "B": "在亨利氏環上升支，抑制Na +/Cl –共同運送系統",
+      "C": "在近端腎小管，抑制Na +/K +/2Cl –共同運送系統",
+      "D": "在近端腎小管，抑制Na +/Cl –共同運送系統"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 63 題",
+    "question": "下列藥物中，何者不是藉由增加細胞內cGMP，而使血管擴張？",
+    "options": {
+      "A": "molsidomine",
+      "B": "bosentan",
+      "C": "sodium nitroprusside",
+      "D": "tadalafil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 64 題",
+    "question": "下列抗心律不整藥物中，何者不抑制K + channel？",
+    "options": {
+      "A": "adenosine",
+      "B": "amiodarone",
+      "C": "disopyramide",
+      "D": "dofetilide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 65 題",
+    "question": "Scopolamine 最不適用於下列何種情況？",
+    "options": {
+      "A": "需要散瞳時",
+      "B": "暈車",
+      "C": "排尿困難",
+      "D": "腹痛腹瀉"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 66 題",
+    "question": "下列藥物中，何者不具有降低血壓的效果？",
+    "options": {
+      "A": "doxazosin",
+      "B": "clonidine",
+      "C": "midodrine",
+      "D": "betaxolol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 67 題",
+    "question": "下列吸入性類固醇藥物中，何者需經由氣管酯解酶（esterase）代謝後產生活性物質，因此較不易產生口腔 念珠菌病（candidiasis）的副作用？",
+    "options": {
+      "A": "budesonide",
+      "B": "ciclesonide",
+      "C": "flunisolide",
+      "D": "mometasone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 68 題",
+    "question": "下列藥物中，何者最適合用於改善住院病人急性結腸假性阻塞（acute colonic pseudo-obstruction）的症 狀？",
+    "options": {
+      "A": "sucralfate",
+      "B": "bismuth",
+      "C": "neostigmine",
+      "D": "metoclopramide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 69 題",
+    "question": "下列藥物中，何者最不適用於緩解腹瀉型腸躁症（irritable bowel syndrome with diarrhea）的腹痛與腹 瀉症狀？",
+    "options": {
+      "A": "alosetron",
+      "B": "scopolamine",
+      "C": "octreotide",
+      "D": "linaclotide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 70 題",
+    "question": "下列藥物中，何者不能抑制IL-1 訊息傳遞路徑，因此無法用於治療關節炎？",
+    "options": {
+      "A": "apremilast",
+      "B": "anakinra",
+      "C": "canakinumab",
+      "D": "rilonacept"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 71 題",
+    "question": "下列cyclooxygenase（COX）的抑制藥物中，何者對COX-2 的選擇性最低？",
+    "options": {
+      "A": "celecoxib",
+      "B": "etodolac",
+      "C": "piroxicam",
+      "D": "meloxicam"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 72 題",
+    "question": "下列何者最不適合用於治療bipolar disorders 之mania？",
+    "options": {
+      "A": "valproic acid",
+      "B": "lithium",
+      "C": "carbamazepine",
+      "D": "fluoxetine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 73 題",
+    "question": "下列嗎啡類藥物（opioids）及其受體的敘述，何者錯誤？",
+    "options": {
+      "A": "mu（μ）opioid receptors 是Gi/o protein-coupled receptors",
+      "B": "opioid receptors 可以出現在pre-synaptic site 或是post-synaptic site",
+      "C": "endorphins 和dynorphins 兩者都是內生性的opioids",
+      "D": "tramadol 是kappa（κ）opioid receptor agonist"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 74 題",
+    "question": "Paroxetine 可用於憂鬱症的治療，下列何者為該藥物主要的作用機制？",
+    "options": {
+      "A": "抑制serotonin 的回收",
+      "B": "抑制norepinephrine 的回收",
+      "C": "阻斷dopamine D2受體",
+      "D": "阻斷5-HT2受體"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 75 題",
+    "question": "β-blockers 類藥物過量導致心搏過緩及低血壓時，最適合用下列何種藥物解毒？",
+    "options": {
+      "A": "theophylline",
+      "B": "caffeine",
+      "C": "metaproterenol",
+      "D": "glucagon"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

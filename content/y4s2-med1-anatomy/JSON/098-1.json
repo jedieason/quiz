@@ -1,0 +1,344 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 1 題",
+    "question": "下列副鼻竇（paranasal sinuses）何者因開口比較高，最容易因引流（drainage）不全而感染發炎？",
+    "options": {
+      "A": "上頜竇（Maxillary sinus）",
+      "B": "額竇（Frontal sinus）",
+      "C": "蝶竇（Sphenoid sinus）",
+      "D": "篩竇（Ethmoidal sinus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 2 題",
+    "question": "肱骨骨折最可能發生在何處？",
+    "options": {
+      "A": "肱骨近端（humerus, proximal part）",
+      "B": "肱骨螺旋溝（humerus, spiral groove）",
+      "C": "肱骨遠端（humerus, distal part）",
+      "D": "肱骨內上髁（medial epicondyle of humerus）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 3 題",
+    "question": "一老年女性跌倒，造成股骨頸骨折（fracture of femoral neck）並傷及鄰近構造時，下列何者最不可能 發生？",
+    "options": {
+      "A": "大腿極度外展（abduction）",
+      "B": "股神經（femoral nerve）斷裂",
+      "C": "內旋股動脈（medial circumflex femoral artery）斷裂",
+      "D": "股骨頭韌帶（ligament of head of femur）斷裂"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 4 題",
+    "question": "下列何者為總腓神經（common peroneal nerve）受傷時會出現的現象？",
+    "options": {
+      "A": "腳掌外翻",
+      "B": "足背彎曲（dorsiflex）",
+      "C": "鈎狀外翻足（calcaneovalgus）",
+      "D": "垂足（footdrop）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 5 題",
+    "question": "頭部外傷病人先有短暫意識喪失，然後有一段清醒之清明期（lucid interval），接著陷入深度昏迷， 此種臨床表現最有可能為何種出血狀態的典型表現？",
+    "options": {
+      "A": "硬膜上出血（epidural hemorrhage）",
+      "B": "硬膜下出血（subdural hemorrhage）",
+      "C": "蜘蛛膜下腔出血（subarachnoid hemorrhage）",
+      "D": "大腦鐮（cerebral falx）出血"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 6 題",
+    "question": "大多數人的右胃動脈（right gastric artery）源自下列何者？",
+    "options": {
+      "A": "腹腔動脈幹（celiac trunk）",
+      "B": "肝動脈（hepatic artery）",
+      "C": "胃十二指腸動脈（gastroduodenal artery）",
+      "D": "脾動脈（splenic artery）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 7 題",
+    "question": "橈動脈經過解剖學鼻煙盒（anatomical snuff box）後，穿過下列何者進入手掌？",
+    "options": {
+      "A": "對掌拇肌（opponens pollicis）",
+      "B": "第一掌側骨間肌（lst. palmar interosseous m.）",
+      "C": "第一背側骨間肌（lst. dorsal interosseous m.）",
+      "D": "外展拇短肌（abductor pollicis brevis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 8 題",
+    "question": "下列何者不供應盂肱關節（glenohumeral joint）的血液？",
+    "options": {
+      "A": "肩胛上動脈（suprascapular artery）",
+      "B": "肱動脈（brachial artery）",
+      "C": "旋肱前動脈（anterior circumflex humeral artery）",
+      "D": "旋肱後動脈（posterior circumflex humeral artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 9 題",
+    "question": "下列何者止於內側脛骨髁（medial tibial condyle）？",
+    "options": {
+      "A": "股薄肌（gracilis）",
+      "B": "半膜肌（semimembranosus）",
+      "C": "半腱肌（semitendinosus）",
+      "D": "縫匠肌（sartorius）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 10 題",
+    "question": "下列何者沒有通過肘窩（cubital fossa）？",
+    "options": {
+      "A": "肱動脈（brachial artery）",
+      "B": "肱二頭肌肌腱（tendon of biceps brachii）",
+      "C": "正中神經（median nerve）",
+      "D": "尺神經（ulnar nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 11 題",
+    "question": "下列何者為興奮膀胱迫尿肌的主要神經？",
+    "options": {
+      "A": "交感神經",
+      "B": "迷走神經",
+      "C": "陰部神經",
+      "D": "骨盆內臟神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 12 題",
+    "question": "下列何者不是喉返神經（recurrent laryngeal nerve）損傷的常見原因？",
+    "options": {
+      "A": "主動脈之血管瘤（aneurysm of the aorta）",
+      "B": "動脈導管（ductus arteriosus）閉鎖",
+      "C": "縱隔腔淋巴結腫大（enlargement of mediastinal lymph nodes）",
+      "D": "食道惡性腫瘤（esophageal carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 13 題",
+    "question": "下列何者緊貼前列腺的頂部（apex）？",
+    "options": {
+      "A": "直腸",
+      "B": "膀胱",
+      "C": "骨盆橫膈",
+      "D": "泌尿生殖橫膈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 14 題",
+    "question": "下列何者構成坐骨肛門窩（ischioanal fossae）的外側壁？",
+    "options": {
+      "A": "提肛肌",
+      "B": "梨狀肌",
+      "C": "尾骨肌",
+      "D": "閉孔內肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 15 題",
+    "question": "下列何者不是尿道嵴（urethral crest）上的構造？",
+    "options": {
+      "A": "精阜",
+      "B": "射精管開口",
+      "C": "前列腺管開口",
+      "D": "前列腺橢圓囊"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 16 題",
+    "question": "橫膈（diaphragm）上相對於第十二胸椎的裂口（opening）是下列何結構？",
+    "options": {
+      "A": "主動脈裂口（aortic opening）",
+      "B": "食道裂口（esophageal opening）",
+      "C": "腔靜脈裂口（caval opening）",
+      "D": "奇靜脈裂口（azygal opening）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 17 題",
+    "question": "腹股溝韌帶（inguinal ligament）是下列何肌的腱膜（aponeurosis）轉折所形成？",
+    "options": {
+      "A": "腹直肌",
+      "B": "腹外斜肌",
+      "C": "腹內斜肌",
+      "D": "腹橫肌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 18 題",
+    "question": "心臟下緣（inferior border）主要由下列何者形成？",
+    "options": {
+      "A": "大脈管根部",
+      "B": "右心房",
+      "C": "左心室",
+      "D": "右心室"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 19 題",
+    "question": "下列有關頸椎的敘述，何者錯誤？",
+    "options": {
+      "A": "椎動脈（vertebral artery）不穿過第七頸椎的橫突孔",
+      "B": "第一頸椎沒有棘突與椎體",
+      "C": "第二頸椎的齒突（dens）源自第一頸椎的椎體",
+      "D": "第七頸椎棘突末端呈明顯的分枝"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 20 題",
+    "question": "肝十二指腸韌帶（hepatoduodenal ligament）內不含下列何結構？",
+    "options": {
+      "A": "肝鐮狀韌帶（falciform ligament）",
+      "B": "肝門靜脈",
+      "C": "肝動脈",
+      "D": "膽管（Bile duct）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 21 題",
+    "question": "成人的脊髓尾端相對應於何段脊椎處？",
+    "options": {
+      "A": "第九至第十胸椎間",
+      "B": "第一至第二腰椎間",
+      "C": "第五腰椎至第一薦椎間",
+      "D": "第二薦椎至第二尾椎間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 22 題",
+    "question": "下列有關耳蝸（cochlea）之敘述，何者錯誤？",
+    "options": {
+      "A": "耳蝸內有三個螺旋狀之腔室，包括前庭階（scala vestibuli），中階（scala media）和鼓膜階（scala tympani）",
+      "B": "中階又稱耳蝸管（cochlear duct），內含柯蒂氏器（organ of Corti）",
+      "C": "中階內之液體成份與細胞外液類似為一低鈉液體，稱為外淋巴液（perilymph）",
+      "D": "內淋巴液（endolymph）由血管紋（stria vascularis）所產生，含有高濃度的鉀離子"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 23 題",
+    "question": "下列有關舌下神經（hypoglossal nerve）之敘述，何者為錯誤？",
+    "options": {
+      "A": "舌下神經發自於延腦之錐體（pyramid）與橄欖（olive）之間",
+      "B": "舌下神經行經於頸內與頸外動脈（internal and external carotid arteries）之外側",
+      "C": "舌下神經支配頦舌肌（genioglossal muscle）、莖舌肌（styloglossal muscle）及腭舌肌（palatoglossal muscle）",
+      "D": "與舌下神經伴行的第一頸神經腹側枝（ventral ramus）支配甲狀舌骨肌（thyrohyoid muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 24 題",
+    "question": "咀嚼肌中，何者附著於顳下頜關節（temporomandibular joint）之關節囊（capsule）上？",
+    "options": {
+      "A": "咬肌（masseter muscle）",
+      "B": "翼外肌（lateral pterygoid muscle）",
+      "C": "頰肌（buccinator muscle）",
+      "D": "顴大肌（zygomatic major muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 25 題",
+    "question": "下列何者負責小腦天幕（cerebellar tentorium）之一般感覺？",
+    "options": {
+      "A": "三叉神經之第三枝",
+      "B": "三叉神經之第二枝",
+      "C": "三叉神經之第一枝",
+      "D": "枕大神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 26 題",
+    "question": "顱內靜脈竇之直竇（straight sinus）位於：",
+    "options": {
+      "A": "大腦鐮（cerebral falx）與顱骨交會處",
+      "B": "小腦天幕（cerebellar tentorium）與顱骨交會處",
+      "C": "大腦鐮與小腦天幕交會處",
+      "D": "小腦鐮（cerebellar falx）與顱骨交會處"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 27 題",
+    "question": "頸外動脈（external carotid artery）的分枝不供應血液給：",
+    "options": {
+      "A": "硬腦膜",
+      "B": "鼻黏膜",
+      "C": "上、下齒槽",
+      "D": "眼球"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 28 題",
+    "question": "下列有關下頜齒（mandibular teeth）根管中之感覺神經纖維的敘述，何者正確？",
+    "options": {
+      "A": "其細胞本體（cell body）位於下頜下神經節（submandibular ganglion）",
+      "B": "穿過下頜孔（mandibular foramen）",
+      "C": "穿過圓孔（foramen rotundum）",
+      "D": "與舌神經（lingual nerve）伴行"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

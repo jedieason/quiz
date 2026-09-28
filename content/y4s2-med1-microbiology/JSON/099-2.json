@@ -1,0 +1,247 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 42 題",
+    "question": "黴漿菌（Mycoplasma）所引起的肺炎，常具有下列何種特徵？",
+    "options": {
+      "A": "肺部堅實化（consolidation）",
+      "B": "疾病發展過程極為迅速",
+      "C": "胸部有斑狀（patchy）浸潤",
+      "D": "痰液染色後可發現大量細菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 43 題",
+    "question": "下列有關rheumatic fever 的敘述，那一項錯誤？",
+    "options": {
+      "A": "是感染group A Streptococcus（Streptococcus pyogenes）後的併發症",
+      "B": "會導致心臟產生endocarditis，pericarditis 或myocarditis",
+      "C": "感染streptococcal pharyngitis 或cutaneous streptococcal infection 皆有可能導致rheumatic fever",
+      "D": "具有class I M protein types（如type I）的菌種容易引發rheumatic fever"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 44 題",
+    "question": "近來逐漸受到重視的院內感染菌鮑氏不動桿菌（Acinetobacter baumannii）在生理特性和致病性上， 與下列那種細菌最為近似？",
+    "options": {
+      "A": "親水產氣單胞菌（Aeromonas hydrophila）",
+      "B": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "C": "脆弱擬桿菌（Bacteroides fragilis）",
+      "D": "普通變形桿菌（Proteus vulgaris）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 45 題",
+    "question": "下列那一項菌種最近發現與腸胃道癌症病患發生之菌血症有關聯？",
+    "options": {
+      "A": "Streptococcus anginosus",
+      "B": "Streptococcus oralis",
+      "C": "Enterococcus faecalis",
+      "D": "Streptococcus bovis"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 46 題",
+    "question": "下列那種病菌的疫苗需要製成接合疫苗（conjugated vaccine），方能對幼兒產生良好的預防效果？",
+    "options": {
+      "A": "破傷風桿菌（Clostridium tetani）",
+      "B": "b 型流感嗜血桿菌（Haemophilus influenzae b）",
+      "C": "百日咳桿菌（Bordetella pertussis）",
+      "D": "白喉桿菌（Corynebacterium diphtheriae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 47 題",
+    "question": "披衣菌（Chlamydiae）一度被視為病毒，後來被證實為細菌且與革蘭氏陰性菌較相近，下列何者不屬 於披衣菌的相關特性？",
+    "options": {
+      "A": "同時具有DNA 和RNA",
+      "B": "可自我合成蛋白質、核酸和脂質",
+      "C": "對於抗生素具有感受性",
+      "D": "菌體內外膜間具有peptidoglycan"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 48 題",
+    "question": "Vancomycin 主要用來治療對β-lactam 類藥物有抗性之革蘭氏陽性菌及Methicillin resistant Staphylococcus  aureus 的感染，對β-lactam 類藥物有抗性的革蘭氏陰性菌卻無法發揮作用，其主要原因為何？",
+    "options": {
+      "A": "vancomycin 的分子太小",
+      "B": "革蘭氏陰性菌會分泌分解vancomycin 的酵素",
+      "C": "vancomycin 的分子太大以致無法穿過革蘭氏陰性菌的外膜",
+      "D": "對於革蘭氏陰性菌的peptidoglycan 沒有作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 49 題",
+    "question": "一名從越南去美國旅遊的年輕女孩，因持續原因不明的發燒而至當地的一家醫院就醫。醫師發 現除了發燒，病人還有肝腫大、腹痛等症狀，且在其血液中分離到一株不發酵乳糖的腸內桿菌科 （Enterobacteriaceae）細菌。病人在服用能殺死該菌的抗生素4 天後，即退燒並出院。此菌最有可能 屬於下列那種菌屬？",
+    "options": {
+      "A": "假單胞桿菌屬（Pseudomonas）",
+      "B": "克雷白氏菌屬（Klebsiella）",
+      "C": "變形桿菌屬（Proteus）",
+      "D": "沙門氏菌屬（Salmonella）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 50 題",
+    "question": "【背景題幹：一名從越南去美國旅遊的年輕女孩，因持續原因不明的發燒而至當地的一家醫院就醫。醫師發 現除了發燒，病人還有肝腫大、腹痛等症狀，且在其血液中分離到一株不發酵乳糖的腸內桿菌科 （Enterobacteriaceae）細菌。病人在服用能殺死該菌的抗生素4 天後，即退燒並出院。此菌最有可能 屬於下列那種菌屬？】\n承上題，下列何者是此疾病的主要感染源？",
+    "options": {
+      "A": "空調系統",
+      "B": "長期帶菌者",
+      "C": "地下水",
+      "D": "貓狗等寵物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 51 題",
+    "question": "臨床上治療嗜肺性退伍軍人桿菌（Legionella pneumophila）引起之肺炎主要以macrolides 或 fluoroquinolones 類抗生素為主，而無法使用β-lactam 類抗生素進行殺菌，其主要原因為何？",
+    "options": {
+      "A": "大部分的分離菌都沒有細胞壁的結構",
+      "B": "大部分的分離菌都會產生β-lactamase",
+      "C": "大部分的分離菌的核糖體上沒有β-lactam 類抗生素的結合位置",
+      "D": "β-lactam 類抗生素無法穿越此菌的細胞膜"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 52 題",
+    "question": "某人在5 月份時參加健行登山活動，行走在草叢間，回家10 天後出現發燒、頭痛、全身肌肉疼痛， 隨即至醫院就診。在醫師的檢查下發現，該病人鼠蹊部有黑色潰瘍性焦痂（eschar）及淋巴腺發炎腫 大等症狀。此人最有可能被下列那種微生物感染？",
+    "options": {
+      "A": "梅毒螺旋菌（Treponema pallidum）",
+      "B": "恙蟲病立克次氏菌（Orientia tsutsugamushi）",
+      "C": "砂眼披衣菌（Chlamydia trachomatis）",
+      "D": "肺炎黴漿菌（Mycoplasma pneumoniae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 53 題",
+    "question": "人體免疫系統中的innate immune 反應透過Toll-like receptor 4 會辨識下列細菌的那一種構造？",
+    "options": {
+      "A": "Endotoxin",
+      "B": "Ribosome",
+      "C": "Capsule",
+      "D": "Inclusion body"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 54 題",
+    "question": "下列有關A 型肝炎病毒的敘述何者錯誤？",
+    "options": {
+      "A": "屬Picornaviridae（小RNA 病毒科）",
+      "B": "急性期後大多變成慢性肝炎",
+      "C": "傳染途徑為糞口傳染",
+      "D": "成人感染症狀比小孩嚴重"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 55 題",
+    "question": "下列何種病毒感染後產生發熱、流鼻涕、咳嗽、流淚、眼結膜充血（conjunctivitis）、頰黏膜上出現 小白斑等病徵？",
+    "options": {
+      "A": "麻疹病毒（measles virus）",
+      "B": "德國麻疹病毒（rubella virus）",
+      "C": "單純疱疹病毒2 型（herpes simplex virus-2）",
+      "D": "愛滋病病毒（HIV）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 56 題",
+    "question": "下列有關冠狀病毒（coronavirus）之敘述，何者正確？",
+    "options": {
+      "A": "為最大之負股RNA 病毒之一",
+      "B": "傳統的冠狀病毒侵犯人體後，均會發生發燒的情形，病情在1 周後就會痊癒，沒有後遺症",
+      "C": "病毒感染引發普通感冒症狀（common cold）",
+      "D": "此病毒感染之最適當溫度為37℃"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 57 題",
+    "question": "某孕婦在懷孕2 個月時出現發燒、流鼻水、頭疼及全身性丘疹等症狀，於1 星期後痊癒。8 個月後， 順利產下一名男嬰，此男嬰於20 天後出現血小板低下（thrombocytopenia）、先天性心臟病以及腦室 鈣化等病徵，該男嬰經心臟手術後情況不錯，依據以上之敘述，該母親於懷孕2 個月時可能被何病 原菌所感染？",
+    "options": {
+      "A": "巨細胞病毒（cytomegalovirus）",
+      "B": "德國麻疹病毒（rubella virus）",
+      "C": "流行性感冒病毒A 型（influenza virus A）",
+      "D": "單純疱疹病毒（herpes simplex virus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 58 題",
+    "question": "有一年輕女子在聲色場所工作，某日回家後發覺口腔內出現一顆粗糙的乳頭狀疣，1 星期後在外生殖 器亦長出數顆乳頭狀瘤，經醫師做潘氏抹片（Papanicolaou smears）檢查為陽性反應，乳頭瘤經手術 去除，不久即復原。下列有關該疾病之敘述何者錯誤？",
+    "options": {
+      "A": "此女子之乳頭瘤可能經由性行為獲得",
+      "B": "此疾病醫師治療後病毒仍存在，有復發之可能性",
+      "C": "感染此女子的病原菌可能是多瘤性病毒JC（polyomavirus JC）",
+      "D": "感染此女子口腔內之乳頭狀疣可能是HPV16 或18 型感染所造成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 59 題",
+    "question": "主要兩類抑制麥角固醇合成有關之抗真菌藥物為何？",
+    "options": {
+      "A": "Allylamines 及Azoles",
+      "B": "Polyenes 及Azoles",
+      "C": "Allylamines 及Echinocandins",
+      "D": "Polyenes 及Echinocandins"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 60 題",
+    "question": "一位58 歲男性，3 年前經歷心臟移植手術，一直都有服用抗排斥藥物cyclosporin，最近2 星期於左腿 發生蜂窩性組織炎（cellulitis），並有中度頭痛。在以抗生素治療5 天後病情沒有獲得改善，並且精神 狀態逐漸退化。由左腿病灶取得檢體培養出有厚莢膜之出芽型酵母菌（encapsulated budding yeast）。 為了確認起見也取病人腦脊椎液培養，培養結果完全一致。這是那一種典型疾病之案例？",
+    "options": {
+      "A": "Cryptococcosis",
+      "B": "Candidiasis",
+      "C": "Pneumocystosis",
+      "D": "Candidemia"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 61 題",
+    "question": "【背景題幹：一位58 歲男性，3 年前經歷心臟移植手術，一直都有服用抗排斥藥物cyclosporin，最近2 星期於左腿 發生蜂窩性組織炎（cellulitis），並有中度頭痛。在以抗生素治療5 天後病情沒有獲得改善，並且精神 狀態逐漸退化。由左腿病灶取得檢體培養出有厚莢膜之出芽型酵母菌（encapsulated budding yeast）。 為了確認起見也取病人腦脊椎液培養，培養結果完全一致。這是那一種典型疾病之案例？】\n承上題，對這位病人最可能的治療藥物為：",
+    "options": {
+      "A": "Terbinafine 合併Flucytosine",
+      "B": "Ketoconazole 合併Terbinafine",
+      "C": "Caspofungin 單獨使用",
+      "D": "Amphotericin B 合併Flucytosine"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

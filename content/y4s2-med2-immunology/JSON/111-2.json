@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 18 題",
+    "question": "下列何者最可以聯結先天免疫及後天免疫作用之抗原呈獻細胞（antigen-presenting cell）？",
+    "options": {
+      "A": "NK cell",
+      "B": "basophil",
+      "C": "neutrophil",
+      "D": "dendritic cell"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 19 題",
+    "question": "王小弟今年13 歲，因鼻腔內長了膿包並有持續擴大的跡象，而到醫院就診。醫生檢查結果有類似慢性發炎的 現象，問診發現以往王小弟也常有類似感染後，很緩慢痊癒的情況。經由詳細檢查發現他的CD8 T 細胞數量 異常的低，而其MHC class I 分子在細胞上的表現量也極少，因此醫生分析後認為王小弟最有可能得了：",
+    "options": {
+      "A": "chronic granulomatous disease",
+      "B": "MHC class I deficiency",
+      "C": "MHC class II deficiency",
+      "D": "leukocyte adhesion deficiency"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 20 題",
+    "question": "T 細胞的抗原受體（T cell receptor, TCR）在發育過程中會產生多樣性，下列何種機制和TCR 多樣性有關？  ①V region 由數個基因片段（gene segments）組成 ②V(D)J DNA 重組 ③RAG1 和RAG2 基因表現 ④AIRE  基因表現 ⑤terminal deoxynucleotidyl transferase （TdT） 基因表現 ⑥類型轉換重組（class switch  recombination） ⑦N-nucleotide addition",
+    "options": {
+      "A": "①②③⑤⑦",
+      "B": "①③⑤⑥⑦",
+      "C": "①②③④⑤",
+      "D": "①②③⑤⑥"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 21 題",
+    "question": "毒殺性CD8 T 細胞（cytotoxic CD8 T cells）所執行細胞凋亡之內在徑路（intrinsic pathway），下列何者為主要 調節抑制的分子？",
+    "options": {
+      "A": "Bcl-2 family",
+      "B": "Bax family",
+      "C": "caspase-3",
+      "D": "p53"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 22 題",
+    "question": "我國目前嬰幼兒常規肺炎鏈球菌疫苗接種為結合型疫苗（pneumococcal conjugate vaccine, PCV），此疫苗是將莢 膜多醣（capsular polysaccharide）結合白喉毒素蛋白來施打，未滿一歲嬰幼兒常規接種是採用2+1（2 劑基礎 劑，1 劑追加劑）共3 劑接種。下列有關肺炎鏈球菌疫苗接種的敘述何者錯誤？",
+    "options": {
+      "A": "接種後如果嬰幼兒產生良好的免疫反應，血清可以測到對抗莢膜多醣及抗白喉蛋白的專一性抗體",
+      "B": "主要是對抗莢膜多醣專一性抗體能夠保護嬰幼兒不被肺炎鏈球菌感染",
+      "C": "抗莢膜多醣抗體的產生，主因是專一性辨識莢膜多醣的CD4 輔助T 細胞（T helper cells）先產生之後，幫助 B 細胞進一步分化成漿細胞（plasma cells）",
+      "D": "莢膜多醣和白喉毒素蛋白必須以共價鍵（covalent bond）連結在一起，方能有效引發高親和力的抗體產生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 23 題",
+    "question": "口服耐受性（oral tolerance）最可能經由下列何種細胞激素（cytokine）來達成？",
+    "options": {
+      "A": "TGF-β",
+      "B": "TNF-α",
+      "C": "IL-2",
+      "D": "IL-5"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 24 題",
+    "question": "3 歲的小美已在幼兒園一年的時間，她的父母因為相信施打MMR 疫苗可能引起自閉症的說法而拒絕讓她接種 MMR 疫苗，不過在這之前她已經先接種了DTP 疫苗。請問小美雖與一群小朋友朝夕相處很長的時間，但至今 仍沒感染麻疹的最有可能原因為何？",
+    "options": {
+      "A": "小美對麻疹抗原不會引起免疫反應",
+      "B": "幼兒園的其他小朋友均有接種MMR 疫苗而提供了她群體免疫力（herd immunity）",
+      "C": "小美接受的DTP 疫苗對麻疹具有交互免疫保護（cross-protective immunity）的功能",
+      "D": "小美雖被麻疹病毒感染，但因服用抗生素所以沒有發病"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 25 題",
+    "question": "已開發國家中第一型過敏性疾病（如氣喘與季節性鼻炎等）的盛行率逐年升高，研究發現環境因子扮演重要 角色，下列那一項理論最能解釋這一個現象？",
+    "options": {
+      "A": "群體免疫（herd immunity）",
+      "B": "衛生假說（hygiene hypothesis）",
+      "C": "連結辨識（linked recognition）",
+      "D": "正向篩選（positive selection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 26 題",
+    "question": "假設有種臨床藥物X，某群孩童經過多年使用治療相關症狀後，皆出現類似自體免疫疾病之副作用，例如： 脾臟及淋巴結腫大、出現自體抗體等，最近的研究顯示藥物X 可能藉由干擾某個分子的正常功能，而導致這 些副作用，請選出最不可能的分子？",
+    "options": {
+      "A": "CTLA-4",
+      "B": "FasL",
+      "C": "FoxP3",
+      "D": "CD23"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 27 題",
+    "question": "預防子宮頸癌發生是用下列那一種血清型（serotype）的人類乳突病毒（human papilloma virus, HPV )疫苗？",
+    "options": {
+      "A": "HPV-1",
+      "B": "HPV-4",
+      "C": "HPV-8",
+      "D": "HPV-16"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 28 題",
+    "question": "針對慢性骨髓白血病（chronic myeloid leukemia）有很好的標靶藥物，是因為該藥物作用於下列何種標的物？",
+    "options": {
+      "A": "Bcr-Ab1 酪胺酸激酶（tyrosine kinase）",
+      "B": "p53 蛋白",
+      "C": "Ras 蛋白",
+      "D": "Her-2/neu 抗原"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

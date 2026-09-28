@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 47 題",
+    "question": "下列有關人類嗅覺功能之敘述，何者最恰當？",
+    "options": {
+      "A": "嗅球（olfactory bulbs）中有許多嗅覺小球（olfactory glomeruli），每一個嗅覺小球接收同一類嗅覺受 器（olfactory receptors）傳導",
+      "B": "嗅覺刺激常與情緒反應相關，原因是來自嗅球（olfactory bulbs）的神經傳導路徑上行至中樞的海馬迴 （hippocampus）",
+      "C": "嗅球（olfactory bulbs）中之顆粒細胞（granule cells）以glutamate 為傳導物刺激僧帽細胞（mitral cells），而僧帽細胞以glycine 為傳導物抑制顆粒細胞",
+      "D": "嗅覺接受器與氣味分子結合後，會藉由cGMP 為第二信使（second messenger）進而使嗅覺感受神經元產生 興奮性電位"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 48 題",
+    "question": "下列那一個腦區，在維持晝夜節律（circadian rhythm）方面，比其他三個腦區扮演更為重要的角色？",
+    "options": {
+      "A": "室旁核（paraventricular nucleus）",
+      "B": "視前區（preoptic area）",
+      "C": "上丘（superior colliculus）",
+      "D": "視交叉上核（suprachiasmatic nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 49 題",
+    "question": "情緒很緊張時，交感神經系統（sympathetic nervous system）會亢奮，此時其節後神經纖維 （postganglionic fiber）最可能會：",
+    "options": {
+      "A": "釋放正腎上腺素（norepinephrine），並作用在心臟竇房結（SA node） beta2 受器（β2 receptor），促 使心跳加快",
+      "B": "釋放乙醯膽鹼（acetylcholine），並作用在皮膚小汗腺尼古丁型受器（nicotinic receptor），促使流汗 增加",
+      "C": "釋放正腎上腺素，並作用在支氣管平滑肌beta2 受器（β2 receptor），促使支氣管平滑肌收縮",
+      "D": "釋放正腎上腺素，並作用在眼睛虹膜（iris）的放射肌（radial muscle）alpha1 受器（α1 receptor）， 造成瞳孔（pupil）放大"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 50 題",
+    "question": "下列有關眼睛的光學現象，何者最不適當？",
+    "options": {
+      "A": "看遠物時，眼睛焦點落在視網膜之後的現象，稱為遠視",
+      "B": "看近物時，睫狀肌收縮但水晶體無法增加聚焦能力的現象，稱為近視",
+      "C": "水晶體隨看遠物時的扁平狀變成看近物時的橢圓狀，稱為調視（accommodation）",
+      "D": "角膜或水晶體不是完美弧形的現象，稱為散光（astigmatism）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 51 題",
+    "question": "在腦電圖記錄中，K 複合波最常出現在不同睡眠階段的那一期？",
+    "options": {
+      "A": "快速動眼期",
+      "B": "非快速動眼階段的第一期",
+      "C": "非快速動眼階段的第二期",
+      "D": "非快速動眼階段的第三期"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 52 題",
+    "question": "自celiac ganglion 出發的交感神經節後神經，最不可能影響下列何種器官之生理功能？",
+    "options": {
+      "A": "胃",
+      "B": "胰臟",
+      "C": "肝臟",
+      "D": "唾液腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 53 題",
+    "question": "一名未有先天或退化腦傷病史的職業殺手，在車禍意外撞傷頭部昏迷約十數小時，復甦後剛開始竟想不起自 己的職業、姓名、此次旅行目的等屬於事實的知識，但殺手過去有的技術與身手俱在，而後逐漸回憶起幾乎 所有知道的事實。下列關於該個案的敘述，何項最適當？",
+    "options": {
+      "A": "個案所擁有的「事實」的知識，應是屬於內隱記憶（implicit memory），而「身手」是外顯記憶 （explicit memory）",
+      "B": "個案所擁有的「事實」的知識，應是屬於外顯記憶（explicit memory），而「身手」是內隱記憶 （implicit memory）",
+      "C": "個案所擁有的「事實」的知識與「身手」，皆是內隱記憶（implicit memory）",
+      "D": "個案所擁有的「事實」的知識與「身手」，皆是外顯記憶（explicit memory）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 54 題",
+    "question": "因釋放正腎上腺素（norepinephrine），而與白天的清醒程度最有關之神經細胞，其細胞體主要位於腦內何 處？",
+    "options": {
+      "A": "reticular activating system",
+      "B": "hypothalamus",
+      "C": "amygdala",
+      "D": "medial prefrontal cortex"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 55 題",
+    "question": "造成屍僵（rigor mortis）的主要原因為何？",
+    "options": {
+      "A": "乳酸（lactic acid）累積",
+      "B": "骨骼肌細胞內缺乏鈣離子",
+      "C": "肝醣（glycogen）耗盡",
+      "D": "骨骼肌細胞內缺乏ATP"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 56 題",
+    "question": "下列有關骨骼肌纖維長度與張力之間關係（length-tension relation）的敘述，何者最為適當？",
+    "options": {
+      "A": "當肌纖維的長度在放鬆長度的60％～175％範圍時，肌纖維拉得越長，收縮產生的張力就越大",
+      "B": "肌纖維等長收縮產生最大張力的最佳長度（optimal length），大約是放鬆長度的175％",
+      "C": "當肌纖維被拉得越長時，其被動張力（passive tension）不會有所改變",
+      "D": "粗肌絲橫橋與細肌絲可結合的數目越多，產生的張力就越大"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 57 題",
+    "question": "若缺乏溫韋伯氏因子（von Willebrand factor），最可能出現下列何種情況？",
+    "options": {
+      "A": "血小板（platelets）不會黏附在膠原蛋白（collagen）上",
+      "B": "纖維蛋白原（fibrinogen）無法聚合",
+      "C": "凝血酶（thrombin）永遠不會被活化",
+      "D": "血塊會比一般健康人更堅固"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 58 題",
+    "question": "對於正常左心與右心的比較，下列敘述何者最不適當？",
+    "options": {
+      "A": "左心室與右心室的心搏量（stroke volume）是一樣的",
+      "B": "主動脈壓恆高於肺動脈壓與右心室壓",
+      "C": "心臟週期中主動脈瓣和肺動脈瓣都是同步開關的",
+      "D": "心收縮期（systole）的右心室壓均高於肺動脈壓"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 59 題",
+    "question": "SA node 的動作電位的主升段（上升幅度最大的段落）主要是因下列何種離子的流動而產生？",
+    "options": {
+      "A": "fast sodium channels open，使鈉離子流入細胞內",
+      "B": "funny channels open，使鈉離子流入細胞內",
+      "C": "funny channels open，使鉀離子流入細胞內",
+      "D": "L-type calcium channels open，使鈣離子流入細胞內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 60 題",
+    "question": "正常生理情況下，下列有關冠狀動脈（coronary artery）血流增加的時機與其原因的說明，何者正確？",
+    "options": {
+      "A": "主要在心舒張期（diastole）才會出現明顯血流，因為在心收縮期冠狀動脈會受收縮的心肌壓迫且其入口亦 遭遮蔽",
+      "B": "主要在心舒張期（diastole）才會出現明顯血流，因為心舒張期時冠狀動脈壓力小於主動脈壓力，冠狀動脈 瓣膜才能開啟",
+      "C": "主要在心收縮期（systole）才會出現明顯血流，因心收縮期時主動脈壓較大，較容易將血液送入冠狀動脈",
+      "D": "主要在心收縮期（systole）才會出現明顯血流，因僅在心收縮期時血液才由左心室送入主動脈，進而再送 入冠狀動脈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 61 題",
+    "question": "許多情況可導致血壓升高。此時人體為因應此一血壓上升狀況，所啟動的下調血壓機制，最可能為下列何 者？",
+    "options": {
+      "A": "活化可釋放一氧化氮之神經元，並減少endothelin-1 釋放",
+      "B": "抑制可釋放一氧化氮之神經元，並增加endothelin-1 釋放",
+      "C": "抑制可釋放一氧化氮之神經元，並減少endothelin-1 釋放",
+      "D": "活化可釋放一氧化氮之神經元，並增加endothelin-1 釋放"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 62 題",
+    "question": "下列何種刺激最可能會造成支氣管收縮（bronchoconstriction）？",
+    "options": {
+      "A": "鄰近的肺小動脈（pulmonary arteriole）被阻塞",
+      "B": "肺泡（alveolus）內二氧化碳分壓（ ）上升",
+      "C": "吸氣（inspiration）",
+      "D": "支氣管平滑肌（smooth muscle）的β2腎上腺素受器（adrenergic receptor）被刺激"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 63 題",
+    "question": "有關肺傳導區（conducting zone）之特性，下列敘述何者最不適當？",
+    "options": {
+      "A": "分泌黏液（mucus）",
+      "B": "構成解剖無效腔（anatomical dead space）",
+      "C": "分泌表面張力素（surfactant）",
+      "D": "調控呼吸道阻力（airway resistance）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 64 題",
+    "question": "下列何種脂肪酶（lipase）需要膽汁幫助其消化作用？",
+    "options": {
+      "A": "gastric lipase",
+      "B": "pancreatic lipase",
+      "C": "pancreatic colipase",
+      "D": "lingual lipase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 65 題",
+    "question": "分泌素（secretin）最主要的生理作用為何？",
+    "options": {
+      "A": "刺激肝臟分泌凝血因子",
+      "B": "刺激胰臟分泌胰島素",
+      "C": "刺激肝臟免疫細胞分泌促發炎激素",
+      "D": "刺激胰臟分泌碳酸氫根離子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 66 題",
+    "question": "某物質在血液中維持恆定濃度0.3 mg/L，可由腎絲球過濾。在收集整日尿液後，得知此物質在1500 mL 尿液 中，濃度為10 mg/L。腎小管對此物質最可能進行何種作用？",
+    "options": {
+      "A": "reabsorption",
+      "B": "secretion",
+      "C": "filtration only",
+      "D": "anabolism"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 67 題",
+    "question": "與近髓質腎元（juxtamedullary nephron）相比較，皮質腎元（cortical nephron）最常缺少下列那一部 分？",
+    "options": {
+      "A": "近曲小管（proximal convoluted tubule）",
+      "B": "近直小管（proximal straight tubule）",
+      "C": "亨利氏上升細小管（thin ascending limb, Henle's loop）",
+      "D": "遠曲小管（distal convoluted tubule）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 68 題",
+    "question": "某人有高血糖及高血壓的問題，同時發現其有色素沉積皮膚的現象。此人最有可能罹患下列何種疾病？",
+    "options": {
+      "A": "先天性腎上腺增生症（congenital adrenal hyperplasia）",
+      "B": "愛迪生氏症（Addison's disease）",
+      "C": "腦下腺腫瘤產生大量腎皮促素（adrenocorticotropic hormone）分泌",
+      "D": "腎上腺皮質腫瘤產生大量皮質醇（cortisol）與醛固酮（aldosterone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 69 題",
+    "question": "有關副甲狀腺功能相關的敘述，下列何者最不適當？",
+    "options": {
+      "A": "接受兩側副甲狀腺切除手術的病人術後血漿中磷離子濃度降低",
+      "B": "缺乏副甲狀腺素的病人會造成其肌肉神經系統過度興奮（neuromuscular hyperexcitability）",
+      "C": "副甲狀腺素會促進腎臟活化態維生素D 的生成作用",
+      "D": "副甲狀腺素會增加骨吸收作用（bone resorption）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 70 題",
+    "question": "有關甲狀腺荷爾蒙（thyroid hormone）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "促甲狀腺荷爾蒙（thyroid-stimulating hormone, TSH）會促進甲狀球蛋白（thyroglobulin）分解而釋放 甲狀腺荷爾蒙",
+      "B": "甲狀腺分泌的甲狀腺荷爾蒙主要是thyroxine（T4）",
+      "C": "在血液中thyroxine（T4）主要會與血漿蛋白結合，triiodothyronine（T3）則以游離型（free-form）居多",
+      "D": "在目標細胞內與甲狀腺荷爾蒙受器（thyroid hormone receptor）結合的分子主要為triiodothyronine （T3）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 71 題",
+    "question": "甲狀腺功能亢進（hyperthyroidism）患者血液含有高量甲狀腺素（thyroid hormone）和低量甲狀腺促素 （thyroid-stimulating hormone, TSH），此最可能是下列何種情況所造成？",
+    "options": {
+      "A": "甲狀腺腫瘤（thyroid tumor）",
+      "B": "副甲狀腺萎縮（parathyroid atrophy）",
+      "C": "腦下腺前葉腫瘤（anterior pituitary tumor）",
+      "D": "下視丘腫瘤（hypothalamic tumor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 72 題",
+    "question": "有關荷爾蒙之敘述，下列何者最為適當？",
+    "options": {
+      "A": "甲狀腺素是衍生自血清蛋白（albumin）",
+      "B": "雌性素（estrogens）是合成雄性素（androgens）的前驅物",
+      "C": "自主神經系統（autonomic nervous system）參與調節醛固酮（aldosterone）之分泌",
+      "D": "類固醇荷爾蒙（steroid hormones）是衍生自三酸甘油酯（triglycerides）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 73 題",
+    "question": "下列何者在生殖週期中期誘發性促素（FSH 與LH）高峰分泌（surge），以促使卵細胞成熟與排卵？",
+    "options": {
+      "A": "雌二醇（estradiol）",
+      "B": "黃體素（progesterone）",
+      "C": "前列腺素（prostaglandin）",
+      "D": "二氫睪固酮（dihydrotestosterone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

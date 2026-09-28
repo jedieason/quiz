@@ -1,0 +1,329 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 47 題",
+    "question": "一般體內生理情況下，鈉鈣交換子（Na +/Ca 2+-exchanger）的輸送方式最常見屬於下列何種方式？",
+    "options": {
+      "A": "簡單擴散",
+      "B": "協助擴散",
+      "C": "初級主動運輸",
+      "D": "次級主動運輸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 48 題",
+    "question": "交感神經及副交感神經合作無間調節人體的許多功能及行為包括性行為，在男性進行性行為生殖器勃起時， 下列那一個敘述最恰當？",
+    "options": {
+      "A": "交感神經節後神經元釋放乙醯膽鹼（acetylcholine）",
+      "B": "副交感神經節後神經元釋放乙醯膽鹼（acetylcholine）",
+      "C": "交感神經節後神經元釋放正腎上腺素（norepinephrine）",
+      "D": "副交感神經節後神經元釋放正腎上腺素（norepinephrine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 49 題",
+    "question": "視錐細胞（cone cell）的光線傳導（phototransduction）過程中，在黑暗時下列何者最可能發生？",
+    "options": {
+      "A": "cAMP 的產生大量增加",
+      "B": "cGMP 的產生大量增加",
+      "C": "cAMP 的產生大量降低",
+      "D": "cGMP 的產生大量降低"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 50 題",
+    "question": "副交感神經系統活化會造成下列何種變化？",
+    "options": {
+      "A": "氣管平滑肌舒張",
+      "B": "膽囊舒張",
+      "C": "虹膜括約肌收縮",
+      "D": "豎毛肌收縮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 51 題",
+    "question": "下列那一個是把正腎上腺素（norepinephrine）轉換成腎上腺素（epinephrine）最重要的酶？",
+    "options": {
+      "A": "組織胺N-甲基轉移酶（histamine N-methyltransferase）",
+      "B": "菸鹼醯胺N-甲基轉移酶（nicotinamide N-methyltransferase）",
+      "C": "胍基乙酸N-甲基轉移酶（guanidinoacetate N-methyltransferase）",
+      "D": "苯基乙醇胺N-甲基轉移酶（phenylethanolamine N-methyltransferase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 52 題",
+    "question": "為控制癲癇的發作，某病人在成年時被切去兩側的海馬迴（hippocampus）。下列對他在手術後情況的描述， 何者最為可能？",
+    "options": {
+      "A": "忘記小學畢業成績為全校第一",
+      "B": "仍可以學會騎腳踏車",
+      "C": "記得昨天中午去聚餐的朋友",
+      "D": "記得30 分鐘前進行過的對話"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 53 題",
+    "question": "下列何種組合的神經纖維，一般會有最快的動作電位傳導速度？",
+    "options": {
+      "A": "細且有髓鞘",
+      "B": "細且無髓鞘",
+      "C": "粗且有髓鞘",
+      "D": "粗且無髓鞘"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 54 題",
+    "question": "1995 年日本奧姆真理教發動東京地鐵沙林（sarin）毒氣攻擊，造成多人死亡與輕重傷。症狀較輕的只有瞳 孔縮小，症狀嚴重還會出現呼吸困難、肌肉抽搐或胃腸道問題等症狀。根據這些症狀，沙林的作用機制最可 能是：",
+    "options": {
+      "A": "競爭性抑制乙醯膽鹼（acetylcholine）結合到尼古丁型（nicotinic type）膽鹼受體",
+      "B": "非競爭性抑制乙醯膽鹼（acetylcholine）結合到尼古丁型（nicotinic type）膽鹼受體",
+      "C": "抑制突觸前含乙醯膽鹼（acetylcholine）突觸小泡的釋放",
+      "D": "抑制乙醯膽鹼酶（acetylcholinesterase）的作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 55 題",
+    "question": "下列關於骨骼肌和平滑肌收縮的敘述，何者最為適當？",
+    "options": {
+      "A": "在骨骼肌中，鈣離子主要經由與旋轉素（troponin）結合啟動收縮；而在平滑肌中，鈣離子主要直接與肌凝 蛋白（myosin）結合來啟動收縮",
+      "B": "在骨骼肌中，鈣離子主要與細絲（thin filaments）上的調節蛋白（regulatory protein）結合；而在平滑 肌中，鈣離子主要與粗肌絲（thick filaments）上的調節蛋白結合",
+      "C": "在骨骼肌中，鈣離子主要經由與肌凝蛋白輕鏈激酶（myosin light-chain kinase）結合來啟動收縮；而在 平滑肌中，鈣離子主要直接與旋轉肌凝蛋白（tropomyosin）結合來啟動收縮",
+      "D": "在骨骼肌中，鈣離子主要透過與旋轉素（troponin）結合來啟動收縮；而在平滑肌中，鈣離子主要透過與攜 鈣素（calmodulin）結合來啟動收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 56 題",
+    "question": "下列關於紅血球（red blood cell）的敘述，何者最不適當？",
+    "options": {
+      "A": "有許多粒線體存在細胞質中",
+      "B": "具有高的表面積與體積比以助氣體擴散",
+      "C": "能在血液中攜帶氧氣和二氧化碳",
+      "D": "顯微鏡下觀察成熟紅血球未發現細胞核"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 57 題",
+    "question": "下列有關心電圖（electrocardiogram, ECG）中P 波的敘述，何者最不適當？",
+    "options": {
+      "A": "P 波代表心房去極化，心房開始收縮",
+      "B": "P 波出現後心室容積會顯著升高",
+      "C": "P 波出現後心房壓力會略為升高",
+      "D": "P 波出現於心臟週期的收縮期（systolic phase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 58 題",
+    "question": "正常情況下，下列那一現象最不可能發生於心臟週期中的舒張期（diastole）？",
+    "options": {
+      "A": "產生第三心音",
+      "B": "心房收縮",
+      "C": "房室瓣（A-V valve）打開",
+      "D": "心電圖的T 波開始發生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 59 題",
+    "question": "某段微血管內靠近動脈端之微血管流體 管外組織間液流體靜壓為0 毫米汞柱， 為何？",
+    "options": {
+      "A": "7 毫米汞柱",
+      "B": "13 毫米汞柱",
+      "C": "59 毫米汞柱",
+      "D": "65 毫米汞柱"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 60 題",
+    "question": "有關腦部循環與血流調控之敘述，何者",
+    "options": {
+      "A": "腦部之流量自動控制（flow autoregu 血管擴張",
+      "B": "肝臟之流量自動控制（flow autoregu 血管擴張",
+      "C": "腦部之流量自動控制（flow autoregu 血管收縮",
+      "D": "肝臟之流量自動控制（flow autoregu 血管收縮"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 61 題",
+    "question": "內肋間肌（internal intercostal mus",
+    "options": {
+      "A": "平靜吸氣",
+      "B": "平靜呼氣",
+      "C": "用力吸氣",
+      "D": "用力呼氣"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 62 題",
+    "question": "當肺內某區域的肺小動脈（pulmonary",
+    "options": {
+      "A": "此區域的肺泡內二氧化碳分壓（",
+      "B": "此區域的肺泡內二氧化碳分壓（",
+      "C": "此區域的肺泡內二氧化碳分壓（",
+      "D": "此區域的肺泡內二氧化碳分壓（"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 63 題",
+    "question": "關於胃壁細胞（parietal cells）的運",
+    "options": {
+      "A": "H +-K +-ATPase 位於細胞膜的底側面（b",
+      "B": "anion exchanger 位於細胞膜的底側面",
+      "C": "cystic fibrosis transmembrane con membrane）",
+      "D": "peptide transporter 1（PepT1）位於 體靜壓為36 毫米汞柱，血漿蛋白質造成之滲透壓 組織間液蛋白質造成之滲透壓為3 毫米汞柱，該 者最為適當？ ulation）機制較肝臟顯著，腦部動脈血中二氧化 ulation）機制較腦部顯著，腦部動脈血中二氧化 ulation）機制較肝臟顯著，腦部動脈血中二氧化 ulation）機制較腦部顯著，腦部動脈血中二氧化 scle）主要在何時會收縮？ arteriole）發生局部血管阻塞時，最可能會導 ）升高，進入此區域肺泡之通氣量（ventilat ）升高，進入此區域肺泡之通氣量（ventilat ）降低，進入此區域肺泡之通氣量（ventilat ）降低，進入此區域肺泡之通氣量（ventilat 運輸器在細胞膜表現位置，下列敘述何者最為適當 asolateral membrane） 面（basolateral membrane） nductance regulator（CFTR）位於細胞膜的底側 於細胞膜的的頂端面（apical membrane） 為26 毫米汞柱，微血 該微血管之淨過濾壓值 化碳濃度升高時會引起 化碳濃度升高時會引起 化碳濃度升高時會引起 化碳濃度升高時會引起 致下列何種反應？ ion, VA）增加 ion, VA）減少 ion, VA）增加 ion, VA）減少 當？ 側面（basolateral"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 64 題",
+    "question": "膽酸（bile acid）的功能敘述，下列何者最為適當？",
+    "options": {
+      "A": "膽酸有親脂性但無親水性，可促進三酸甘油酯通過上皮細胞膜",
+      "B": "膽酸有親水與親脂性，可經由結腸被回收利用稱之為腸肝循環",
+      "C": "膽酸有親水與親脂性，可幫助卵磷脂的結晶",
+      "D": "膽酸有親水與親脂性，可促進脂肪乳糜化及微膠粒作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 65 題",
+    "question": "關於高蛋白質飲食所引發的腎功能變化，下列何者最不可能發生？",
+    "options": {
+      "A": "腎素（renin）的分泌增加",
+      "B": "緻密斑（macula densa）管腔內的鈉離子濃度減低",
+      "C": "入球小動脈收縮GFR 下降",
+      "D": "前列腺素分泌量增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 66 題",
+    "question": "關於氨的排泄，下列敘述何者最不適當？",
+    "options": {
+      "A": "肝臟會將有毒的氨轉變為尿素（urea）或麩醯胺酸（glutamine），兩者都是腎臟排出體外",
+      "B": "尿素（urea）從尿液的排出會受血管加壓素（vasopressin）的表現而下降",
+      "C": "麩醯胺酸（glutamine）在腎臟中的代謝量，會因為代謝性酸中毒而增加",
+      "D": "尿素（urea）的再吸收是初級主動運輸通道表現上升，促使尿素的再吸收"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ或AD者均給分。"
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 67 題",
+    "question": "下列何者最不可能為壓力反應下，皮質醇（cortisol）所導致之生理作用？",
+    "options": {
+      "A": "促進肝臟進行糖質新生作用（gluconeogenesis）",
+      "B": "促進骨骼肌吸收葡萄糖",
+      "C": "促進骨骼肌蛋白分解",
+      "D": "促進脂肪細胞的三酸甘油酯分解"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 68 題",
+    "question": "有關腦下垂體後葉的激素分泌功能和作用，下列敘述何者最不適當？",
+    "options": {
+      "A": "催產素（oxytocin）是由神經細胞所分泌",
+      "B": "催產素（oxytocin）會促進子宮平滑肌收縮作用",
+      "C": "抗利尿激素（ADH）會促進近端腎小管水分重吸收作用",
+      "D": "當血漿滲透壓升高時，會促進抗利尿激素（ADH）的分泌作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 69 題",
+    "question": "下列何種症狀最不可能會發生在腦下垂體功能低下（pituitary insufficiency）的病人？",
+    "options": {
+      "A": "不孕",
+      "B": "生長發育遲緩",
+      "C": "基礎代謝速率變慢",
+      "D": "尿液濃縮功能受損"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 70 題",
+    "question": "病人出現副甲狀腺（parathyroid hormone, PTH）功能低下的症狀，但其循環中副甲狀腺素的濃度卻略高於 正常濃度範圍，下列何者為最可能之原因？",
+    "options": {
+      "A": "副甲狀腺上鈣離子受體功能受損",
+      "B": "副甲狀腺素的合成分泌功能受損",
+      "C": "副甲狀腺素的受體功能受損",
+      "D": "降血鈣素（calcitonin）的拮抗功能受損"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 71 題",
+    "question": "下列有關升糖素（glucagon）的敘述，何者最不適當？",
+    "options": {
+      "A": "運動會刺激升糖素的分泌",
+      "B": "增加血中胺基酸的濃度會刺激升糖素的分泌",
+      "C": "升糖素分泌增加會促進肝臟葡萄糖新生作用（gluconeogenesis）",
+      "D": "升糖素分泌增加會抑制肝臟肝醣分解（glycogenolysis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 72 題",
+    "question": "有關妊娠期間母體內分泌調節與胎兒發育，下列敘述何者最為適當？",
+    "options": {
+      "A": "母體血液醛固酮（aldosterone）含量增加，以抗衡胰島素（insulin）的作用",
+      "B": "母體血液濾泡促素（FSH）含量是作為胚體（conceptus）正常狀態的臨床指標",
+      "C": "胎兒循環系統的靜脈導管（ductus venosus）有利於有效提供其全身充氧血液",
+      "D": "母體之血液甲狀腺素（thyroid hormone）含量提升，以調節血鈣提供鈣離子給胎兒成長之需"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 73 題",
+    "question": "下列何者的主要作用是抑制anterior pituitary 的follicle-stimulating hormone（FSH）分泌，但對 luteinizing hormone（LH）的分泌則相對較無影響 ？",
+    "options": {
+      "A": "progesterone",
+      "B": "estrogen",
+      "C": "inhibin B",
+      "D": "testosterone"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

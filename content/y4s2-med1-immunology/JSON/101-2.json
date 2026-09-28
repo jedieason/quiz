@@ -1,0 +1,163 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 62 題",
+    "question": "下列何者為小腸黏膜區（mucosa）的M 細胞之主要功能？",
+    "options": {
+      "A": "分泌IgA",
+      "B": "分泌黏液（mucus）",
+      "C": "使腸道（lumen）中之抗原進入組織",
+      "D": "使組織中之抗原進入腸道"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 63 題",
+    "question": "補體（complement）活化過程中產生之C3 convertase 能分解C3，製造大量C3a 及C3b。其中C3b 之功能為何？",
+    "options": {
+      "A": "引起局部發炎反應，吸引巨噬細胞（macrophage）、嗜中性細胞（neutrophil）來到該部位",
+      "B": "在病原菌表面形成共價鍵連結，表現C3b 之病原菌就容易被吞噬細胞（phagocytes）吞噬",
+      "C": "直接攻擊病原菌之細胞膜",
+      "D": "分解C4 成為C4a 及C4b"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 64 題",
+    "question": "樹突細胞所分泌的細胞激素會影響$CD4^+$ T細胞之分化，下列那些細胞激素會刺激第十七型輔助性T 細胞（TH17）之分化？",
+    "options": {
+      "A": "TGF-β，IL-6 及IL-10",
+      "B": "TGF-β 及IL-10",
+      "C": "IL-10 及IL-6",
+      "D": "TGF-β 及IL-6"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 65 題",
+    "question": "目前所知人類基因之中，與自體免疫疾病有顯著相關性者，是人類白血球抗原（Human Leukocyte  Antigen, HLA）基因。某些人類白血球抗原（HLA）基因在某自體免疫疾病患者中的存在有較為增高 現象，是為有較高的「相較性的危險值」（relative risk）引起自體免疫致病性。下列那一項基因和疾 病關係的敘述是正確的？",
+    "options": {
+      "A": "DR3 對於僵直性脊椎炎（Ankylosing spondylitis）",
+      "B": "DR4 對於僵直性脊椎炎",
+      "C": "DR3/DR4 對於第一型糖尿病（type I diabetes mellitus）",
+      "D": "DR5 對於僵直性脊椎炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 66 題",
+    "question": "出生於溫哥華之加拿大籍華裔青年大衛，今年暑假第一次回臺灣探望高齡祖父母，搭機前接受過2 次B 型肝炎疫苗注射，他血清中對B 型肝炎表面抗原的抗體最有可能的情形為何？",
+    "options": {
+      "A": "第一次疫苗接種後第5 天出現極高量IgM",
+      "B": "第一次疫苗接種後第5 天出現極高量IgG",
+      "C": "第二次疫苗接種後第5 天出現極高量IgM",
+      "D": "第二次疫苗接種後第5 天出現極高量IgG"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 67 題",
+    "question": "下列那2 種免疫球蛋白（immunoglobulin），可以提供新生兒對抗病原菌保護力？",
+    "options": {
+      "A": "IgA 與IgD",
+      "B": "IgD 與IgE",
+      "C": "IgE 與IgG",
+      "D": "IgG 與IgA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 68 題",
+    "question": "Epstein-Barr 病毒（EBV）感染人體後和免疫系統相互作用會引起各式各樣的疾病。下列何者不屬於 EBV 感染後引起的疾病表現？",
+    "options": {
+      "A": "感染性單核球增多症",
+      "B": "急性B 細胞淋巴球性白血病",
+      "C": "鼻咽癌",
+      "D": "產生多株自體抗體"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 69 題",
+    "question": "免疫球蛋白（immunoglobulin, Ig）與T 細胞受體（T-cell receptor, TCR）分子的多變區（variable  domain），其基因均需進行V(D)J 片段重組（recombination），但下列那一項是TCR 基因重組時比 較少發生的現象？",
+    "options": {
+      "A": "基因遺傳多個V 基因片段",
+      "B": "啟動RAG（recombination-activating gene）的活性",
+      "C": "可能產生迴文添加（palindromic-addition）的現象",
+      "D": "體超突變（Somatic hypermutation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 70 題",
+    "question": "格蘭氏陰性菌細胞壁成分中的脂多醣體（Lipopolysaccharide, LPS）是很強的免疫刺激物質。生物體 感受到LPS 的刺激時會產生血壓降低，體溫上升的症狀。有時甚至會導致休克。主要產生體溫上升 的免疫細胞和媒介物質，下列何者最為重要？",
+    "options": {
+      "A": "自然殺手細胞產生的第一型干擾素",
+      "B": "巨噬細胞產生的IL-1",
+      "C": "T 細胞產生的IL-4",
+      "D": "樹突細胞產生的IL-10"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 71 題",
+    "question": "B 細胞於結合抗原活化時，因為沒有獲得T 細胞協助的遺傳疾病：高IgM 症候群（hyper-IgM  syndrome），常是因為那一個基因的缺損所致？",
+    "options": {
+      "A": "DNA helicase",
+      "B": "Bruton’s tyrosine kinase（Btk）",
+      "C": "CD40 ligand（CD40L）",
+      "D": "Recombination-activating gene（RAG）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 72 題",
+    "question": "一個新生兒有下列何種疾病時，一定要避免卡介苗的施打？",
+    "options": {
+      "A": "免疫球蛋白低下症",
+      "B": "嚴重混合性免疫功能缺損",
+      "C": "肺結核家族史",
+      "D": "巨細胞病毒胎內感染"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 73 題",
+    "question": "李女士在健康檢查時血液中的antinuclear antibody（ANA）價數達到1：8（titer 1：8），她沒有身體 不適，也沒有其他的檢驗值異常。出現ANA 自體抗體的意義為何？",
+    "options": {
+      "A": "應是檢驗錯誤，需重新抽血再測一次",
+      "B": "李女士已得到紅斑性狼瘡",
+      "C": "李女士即將於近期發病，得到紅斑性狼瘡",
+      "D": "某種低程度的自體免疫性是身體正常免疫功能運作的一部分"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 74 題",
+    "question": "陳老師從小就常因過敏性氣喘發作就醫。他帶領小學生畢業旅行，在晚上9 時因為頑皮的小朋友在 睡前打枕頭戰，接觸到塵蟎過敏原而感到不適，但在使用氣管擴張劑後改善。陳老師在凌晨4 時因 為氣喘又嚴重發作被送到急診處就診。到急診時最合乎當時情形的免疫機轉為何？",
+    "options": {
+      "A": "第四型（細胞免疫反應）的過敏反應",
+      "B": "第一型（立即免疫反應）的晚期反應",
+      "C": "自體免疫抗體攻擊肺泡基底膜",
+      "D": "過敏原接觸導致免疫缺損引發細菌性肺炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

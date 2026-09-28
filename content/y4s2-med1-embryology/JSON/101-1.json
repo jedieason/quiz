@@ -1,0 +1,53 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 29 題",
+    "question": "若孕婦羊水過少（oligohydramnios），則胎兒最有可能伴隨下列何缺陷？",
+    "options": {
+      "A": "無腦畸形（anencephaly）",
+      "B": "食道閉鎖（esophageal atresia）",
+      "C": "缺少臍動脈（umbilical artery）",
+      "D": "腎臟未發育（renal agenesis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 30 題",
+    "question": "下列何種藥物不會通過胎盤膜（placental membrane）？",
+    "options": {
+      "A": "四環素（tetracycline）",
+      "B": "肝素（heparin）",
+      "C": "視黃酸（retinoic acid）",
+      "D": "胰島素（insulin）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 31 題",
+    "question": "下列何者與骶尾畸胎瘤（sacrococcygeal teratoma）的形成有關？",
+    "options": {
+      "A": "脊索（notochord）的存留",
+      "B": "原條（primitive streak）的殘存",
+      "C": "脊索前板（prechordal plate）的發育",
+      "D": "胚外中胚層的增生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 32 題",
+    "question": "下列何者之血管形成臍動脈和臍靜脈？",
+    "options": {
+      "A": "羊膜（amnion）",
+      "B": "絨毛膜（chorion）",
+      "C": "卵黃囊（yolk sac）",
+      "D": "尿囊（allantois）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 26 題",
+    "question": "許多蛋白質須與金屬離子結合後才能展現正確的功能，下列何種胺基酸的側鏈具備與金屬離子直接 結合的能力？",
+    "options": {
+      "A": "半胱胺酸（cysteine）",
+      "B": "丙胺酸（alanine）",
+      "C": "苯丙胺酸（phenylalanine）",
+      "D": "脯胺酸（proline）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 27 題",
+    "question": "維生素lipoic acid 及biotin 是與酶分子中那個胺基酸結合？",
+    "options": {
+      "A": "proline",
+      "B": "glutamate",
+      "C": "lysine",
+      "D": "arginine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 28 題",
+    "question": "缺乏下列何種營養素最常導致腳氣病（beriberi）？",
+    "options": {
+      "A": "硫胺素（thiamine）",
+      "B": "核黃素（riboflavin）",
+      "C": "菸鹼酸（niacin）",
+      "D": "維生素B6（pyridoxine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 29 題",
+    "question": "缺乏維生素B12 最可能會導致下列何種疾病？",
+    "options": {
+      "A": "腳氣病（beriberi）",
+      "B": "壞血病（scurvy）",
+      "C": "惡性貧血（pernicious anemia）",
+      "D": "口角炎（angular stomatitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 30 題",
+    "question": "5’-ACCGTAAGGCTTTAG-3’DNA 之互補股（complementary strand），其核苷酸序列為何？",
+    "options": {
+      "A": "5’-ACCGUAAGGCUUUA-3’",
+      "B": "5’-CUAAAGCCUUACGG-3’",
+      "C": "5’-CTAAAGCCTTACGGT-3’",
+      "D": "5’-ACCGTAAGGCTTTAG-3’"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 31 題",
+    "question": "在生物體內，質體（plasmid）DNA 以負超螺旋結構（negative supercoiling）存在，這代表其linking  number（Lk）為何？",
+    "options": {
+      "A": "Lk＞Lk0",
+      "B": "Lk＝Lk0",
+      "C": "Lk＜Lk0",
+      "D": "無法判斷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 32 題",
+    "question": "關於針對核苷酸合成路徑所設計的藥物，下列敘述何者錯誤？",
+    "options": {
+      "A": "azaserine 會抑制glutamine amidotransferase，無法提供核苷酸合成所需要的氮基",
+      "B": "fluorouracil 會抑制thymidylate kinase",
+      "C": "methotrexate 會抑制dihydrofolate reductase",
+      "D": "trimethoprim 對細菌dihydrofolate reductase 的親和力比對人類相對應的酵素還要高十萬倍"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 33 題",
+    "question": "細胞在下列何種情況之下，會有反轉錄酵素（reverse transcriptase）活性的參與？",
+    "options": {
+      "A": "DNA lagging strand 的複製",
+      "B": "DNA leading strand 的複製",
+      "C": "某些RNA 病毒的複製",
+      "D": "SV40 病毒的複製"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 34 題",
+    "question": "下列有關微型核糖核酸（micro RNA）之敘述，何者正確？",
+    "options": {
+      "A": "經修飾後的最終產物大約有200～300 個核苷酸（nucleotides）",
+      "B": "會轉譯出一個5 kDa 的蛋白質",
+      "C": "可由RNA polymerase II 轉錄製造",
+      "D": "可結合特定蛋白質而分解其它蛋白質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 35 題",
+    "question": "具有下列何種胺基酸序列之蛋白質，最有可能在轉譯後送入細胞核內？",
+    "options": {
+      "A": "met-ser-ser-ala-gly-trp-val-lys-asp-val-ile-leu-leu-tyr-tyr-cys-",
+      "B": "met-thr-ile-ala-leu-ile-leu-leu-pro-leu-leu-phe-met-ser-ala-ala-",
+      "C": "met-ile-leu-lys-lys-arg-arg-met-lys-arg-arg-tyr-ser-asp-gly-ile-",
+      "D": "met-lys-ala-ser-asp-ser-ser-gly-arg-trp-tyr-met-his-trp-arg-ile-"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 36 題",
+    "question": "請指出σ factor 在大腸桿菌RNA 聚合酶（polymerase）中的功能為何？",
+    "options": {
+      "A": "先與啟動子結合，再誘使與核心酶（core enzyme）的結合",
+      "B": "與核心酶（core enzyme）結合後，能確保RNA 聚合酶與啟動子（promoter）結合的專一性",
+      "C": "能終止RNA 鏈生合成的因子",
+      "D": "具轉錄DNA 模板的活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 37 題",
+    "question": "關於aminoacyl-tRNA 的合成反應，下列那一項敘述正確？",
+    "options": {
+      "A": "需要鳥苷三磷酸（GTP）與錳離子（Mn2+）",
+      "B": "需要腺苷三磷酸（ATP）與錳離子（Mn2+）",
+      "C": "將胺基酸接合在tRNA 的5’端",
+      "D": "由aminoacyl-tRNA synthetase 催化產生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 38 題",
+    "question": "克氏循環（TCA cycle）中那種酵素的受質為一個四碳化合物？",
+    "options": {
+      "A": "異檸檬酸脫氫酶（isocitrate dehydrogenase）",
+      "B": "烏頭酸酶（aconitase）",
+      "C": "檸檬酸合成酶（citrate synthase）",
+      "D": "乳酸脫氫酶（lactate dehydrogenase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 39 題",
+    "question": "下列有關人體細胞進行葡萄糖新生作用（gluconeogenesis）之敍述何者正確？",
+    "options": {
+      "A": "可將蛋白質轉變成血糖",
+      "B": "胰島素可活化葡萄糖新生作用",
+      "C": "攝取高醣類食物後，利用此作用來降低血糖",
+      "D": "脂肪酸轉變成葡萄糖之必需途徑"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 40 題",
+    "question": "紅血球因缺乏粒線體，其葡萄糖分解的最終產物為何？",
+    "options": {
+      "A": "pyruvate",
+      "B": "lactate",
+      "C": "acetyl-CoA",
+      "D": "$CO_2$"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 41 題",
+    "question": "穿越細胞膜（transmembrane）的蛋白質中，色胺酸（tryptophan）最常位於何處？",
+    "options": {
+      "A": "細胞膜脂肪層內（intra-lipid bilayer）",
+      "B": "細胞質的水相中",
+      "C": "細胞膜脂肪層與細胞質水相之交接處",
+      "D": "緊鄰於甘胺酸（glycine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 42 題",
+    "question": "厭水性分析圖（hydropathy plot）一般可用於：",
+    "options": {
+      "A": "推算膜蛋白質的四級結構",
+      "B": "測定天然的蛋白質（native protein）的水含量",
+      "C": "推算膜蛋白質的實際分子量",
+      "D": "預測已知的蛋白質胺基酸序列是否含有穿膜區（membrane-spanning segment）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 43 題",
+    "question": "脂肪酸cis-, cis-delta 9, delta 12-octadecadienoate 是指下列何者？",
+    "options": {
+      "A": "oleate",
+      "B": "palmitoleate",
+      "C": "linoleate",
+      "D": "arachidonate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 44 題",
+    "question": "一位小孩罹患罕見基因缺陷之遺傳疾病「尼曼匹克症（Niemann-Pick disease）」，此孩子剛出生時 活潑正常，8 個月後出現吞嚥困難、腦部功能退化，最後將成為植物人而死亡。這類疾病主要是那一 類物質代謝失常而堆積在組織中所造成？",
+    "options": {
+      "A": "triacylglycerol",
+      "B": "gangliosides",
+      "C": "vitamin D",
+      "D": "cholesterol"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 45 題",
+    "question": "Lesch-Nyhan syndrome 是因缺乏次黃嘌呤－鳥嘌呤磷酸核苷轉移酶（hypoxanthine-guanine  phosphoribosyltransferase），因而發生下列何種現象？",
+    "options": {
+      "A": "大量嘌呤（purine）生合成",
+      "B": "大量dTTP 合成",
+      "C": "在血液中dCTP 量非常低",
+      "D": "尿液出現大量尿素（urea）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 46 題",
+    "question": "在人體中，胺基酸不能作為下列何種生物分子生合成的前驅物？",
+    "options": {
+      "A": "腎上腺素（epinephrine）",
+      "B": "紫質（porphyrin）",
+      "C": "腺嘌呤（adenine）",
+      "D": "氰鈷胺（cobalamin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 47 題",
+    "question": "下列那一個胺基酸可以降解成pyruvate？",
+    "options": {
+      "A": "alanine",
+      "B": "leucine",
+      "C": "lysine",
+      "D": "tyrosine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 48 題",
+    "question": "類固醇荷爾蒙必須由專一性運送蛋白質（carrier protein）運送，是因為荷爾蒙具有下列何種特性？",
+    "options": {
+      "A": "在血液中化學結構不安定",
+      "B": "因為是親油性（hydrophobic）物質，在血液中不易溶解",
+      "C": "利用專一性運送蛋白送到特定的目標細胞",
+      "D": "需要專一性運送蛋白來穿越細胞膜"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 49 題",
+    "question": "細胞內訊息傳遞分子（intracellular signaling molecules），下列何種系列是最常見的組合？",
+    "options": {
+      "A": "phospholipase C，cAMP，PKA",
+      "B": "adenylate cyclase，cAMP，PKC",
+      "C": "adenylate cyclase，diacylglycerol，PKA",
+      "D": "phopholipase C，diacylglycerol，PKC"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 50 題",
+    "question": "聚合酶鏈鎖反應（polymerase chain reaction）過程的先後順序為何？①DNA 延伸（extension）  ②DNA 變性（denaturation） ③引子與DNA 模板結合（annealing）",
+    "options": {
+      "A": "①③②",
+      "B": "②①③",
+      "C": "②③①",
+      "D": "①②③"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

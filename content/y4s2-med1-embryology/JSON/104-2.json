@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 29 題",
+    "question": "胚胎早期發育時，下列何者最早出現？",
+    "options": {
+      "A": "羊膜腔（amniotic cavity）",
+      "B": "囊胚腔（blastocyst cavity）",
+      "C": "初級卵黃囊（primary yolk sac）",
+      "D": "絨毛膜腔（chorionic cavity）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 30 題",
+    "question": "下列何者衍生成為肛管（anal canal）的下1/3段？",
+    "options": {
+      "A": "原肛（proctodeum）",
+      "B": "直腸（rectum）",
+      "C": "泌尿生殖竇（urogenital sinus）",
+      "D": "泄殖腔（cloaca）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 31 題",
+    "question": "下列有關動脈導管（ductus arteriosus）之敘述，何者正確？",
+    "options": {
+      "A": "源自右側第六動脈弓（aortic arch）",
+      "B": "連接右側肺動脈（pulmonary artery）及主動脈弓（aortic arch）",
+      "C": "出生後，閉鎖形成動脈韌帶（ligamentum arteriosum）",
+      "D": "右側喉返神經（recurrent laryngeal nerve）自動脈韌帶（ligamentum arteriosum）旁通過"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 32 題",
+    "question": "嚼肌（masseter muscle）是衍生自那一咽弓（pharyngeal arch）？",
+    "options": {
+      "A": "第一咽弓",
+      "B": "第二咽弓",
+      "C": "第三咽弓",
+      "D": "第四咽弓"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

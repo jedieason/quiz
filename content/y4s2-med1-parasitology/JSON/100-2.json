@@ -1,0 +1,106 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 75 題",
+    "question": "生活史中皆沒有囊體期（cyst stage）的寄生蟲是：",
+    "options": {
+      "A": "梨形鞭毛蟲（Giardia lamblia）及陰道滴蟲（Trichomonas vaginalis）",
+      "B": "大腸纖毛蟲（Balantidium coli）及齒齦阿米巴（Entamoeba gingivalis）",
+      "C": "雙核阿米巴（Dientamoeba fragilis）及陰道滴蟲（Trichomonas vaginalis）",
+      "D": "嗜碘阿米巴（Iodamoeba bütschlii）及口腔滴蟲（Trichomonas tenax）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 76 題",
+    "question": "下列有關隱翅蟲之敘述，何者錯誤？",
+    "options": {
+      "A": "臺灣地區最常見的是褐毒隱翅蟲（Paederus fusca）",
+      "B": "隱翅蟲的毒害是由蟲體螫咬人體所致",
+      "C": "隱翅蟲素（pederin）附著皮膚後會產生緩慢痊癒的壞死性紅斑",
+      "D": "待病灶痊癒後，若未再接觸隱翅蟲素，一般不用擔心復發的問題"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 77 題",
+    "question": "下列有關奎寧（quinine）的敘述，何者錯誤？",
+    "options": {
+      "A": "以奎寧治療時，病人會產生低血糖的現象，因此必須監測血糖",
+      "B": "現今已有對奎寧產生抗藥性的瘧原蟲出現",
+      "C": "若使用奎寧後，病人有黑水熱（blackwater fever）的現象，應立即停用奎寧",
+      "D": "奎寧對孕婦雖有致使流產的副作用，但是在嚴重的惡性瘧疾時，為顧及媽媽及胎兒的安全，仍應 使用奎寧治療"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 78 題",
+    "question": "地癢疹（ground itch）是由下列何種人類寄生蟲感染所引起？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "美洲鉤蟲（Necator americanus）",
+      "C": "班氏絲狀蟲（Wuchereria bancrofti）",
+      "D": "廣東住血線蟲（Angiostrongylus cantonensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 79 題",
+    "question": "有一絲蟲病（filariasis）患者住院診療，全天每隔2 小時採血檢查，每mm3血液微絲蟲（microfilariae）數 量，記錄如右下之圖形，該病患最可能感染何種絲蟲？",
+    "options": {
+      "A": "羅阿絲蟲（Loa loa） 時間 2 4 6 8 10 12 14 16 18 20 22 24 0 1 2 3 4 5 x103",
+      "B": "蟠尾絲蟲（Onchocerca volvulus）",
+      "C": "班氏絲蟲（Wuchereria bancrofti）",
+      "D": "犬心絲蟲（Dirofilaria immitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 80 題",
+    "question": "牛羊肝吸蟲是草食性動物常見寄生蟲，請問下列敘述何者正確？",
+    "options": {
+      "A": "“halzoun＂是因生食感染牛羊肝吸蟲成蟲的動物肝臟而造成",
+      "B": "幼蟲經由膽管逆流而進入總膽管寄生，所以不會破壞肝組織",
+      "C": "牛羊肝吸蟲病以口服praziquantel 為最佳治療",
+      "D": "人類係因食入動物肝臟中之囊狀幼蟲而感染"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 81 題",
+    "question": "下列何種阿米巴原蟲對人體不具致病性？",
+    "options": {
+      "A": "痢疾阿米巴（Entamoeba histolytica）",
+      "B": "棘阿米巴（Acanthamoeba spp.）",
+      "C": "迪斯帕阿米巴（Entamoeba dispar）",
+      "D": "福氏耐格利阿米巴（Naegleria fowleri）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 82 題",
+    "question": "在高度蛔蟲感染流行區，下列何種年齡層是蛔蟲（Ascaris lumbricoides）感染的高危險族群？",
+    "options": {
+      "A": "1～4 歲",
+      "B": "5～9 歲",
+      "C": "10～15 歲",
+      "D": "15 歲以上"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 18 題",
+    "question": "大部分的免疫細胞都是由骨髓中的造血幹細胞發育而來，這些免疫細胞又可以依據它們的發育源頭進一步分 成骨髓系（myeloid lineage）或淋巴系（lymphoid lineage），下列那一種細胞可以由骨髓系及淋巴系前驅細胞 產生？",
+    "options": {
+      "A": "樹突細胞（dendritic cell）",
+      "B": "先天淋巴細胞（innate lymphoid cell, ILC）",
+      "C": "紅血球（red blood cell）",
+      "D": "巨噬細胞（macrophage）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 19 題",
+    "question": "發炎通常是在局部感染或受傷初期所產生的免疫反應，有關發炎的敘述下列何者錯誤？",
+    "options": {
+      "A": "產生發炎的目的是藉由免疫效應分子（immune effector molecule）的增加去攻擊病原菌並促進傷口的癒合",
+      "B": "發炎所伴隨的紅、腫、熱、痛是由病原菌在複製過程中所釋放的毒力因子（virulence factor）直接造成的結 果",
+      "C": "發炎會增加血管壁的通透性，使血液中的補體成分進入發炎組織中，促進宿主的免疫反應清除病原菌",
+      "D": "如果病原菌透過血液傳播至各個器官而引發全身性細菌感染或敗血症（sepsis）時，則會因過度發炎反應產 生大量TNF-α而導致敗血性休克（septic shock）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 20 題",
+    "question": "下列何種蛋白與MHC class II分子的抗原呈獻過程有重要關聯？",
+    "options": {
+      "A": "Calnexin",
+      "B": "Calreticulin",
+      "C": "Invariant chain",
+      "D": "Transporters associated with antigen processing（TAPs）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 21 題",
+    "question": "下列何者是T細胞發育過程“positive selection”的最適當敘述？",
+    "options": {
+      "A": "胸腺上皮細胞表現AIRE，此蛋白可以促進組織特異性抗原（tissue-specific antigens）在胸腺中表現",
+      "B": "當胸腺細胞辨識到胸腺上皮細胞表面的MHC-peptide，如果引發中等以上的TCR訊號，則可以被選擇出來繼 續發育",
+      "C": "當胸腺細胞無法辨識到胸腺上皮細胞表面的MHC-peptide，則可以被選擇出來繼續發育",
+      "D": "當胸腺細胞辨識到自己的MHC分子時，胸腺細胞就會進行細胞凋亡（apoptosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 22 題",
+    "question": "在注射利什曼原蟲（Leishmania major）小鼠的實驗中，可藉由注射拮抗型IL-4抗體（anti-IL-4 antibody）而明 顯增加感染小鼠存活率，此機轉主要是抑制何種免疫反應？",
+    "options": {
+      "A": "TH1 response",
+      "B": "TH17 response",
+      "C": "TH2 response",
+      "D": "chemotaxis response"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 23 題",
+    "question": "胸腺依賴性（thymus-dependent） 抗原（TD抗原）及非胸腺依賴性（thymus-independent）抗原（TI抗原）都 可以活化B細胞產生抗體反應，有關TD及TI抗原的敘述何者錯誤？",
+    "options": {
+      "A": "蛋白質抗原屬於TD抗原，而且B細胞的完全活化需要兩個訊號，第一個訊號由B細胞的MHC-peptide和T細胞 的TCR結合後所傳遞。第二個訊號則是由B細胞的CD40和T細胞的CD40配體（CD40 ligand）結合後所傳遞",
+      "B": "脂多醣（lipopolysaccharide, LPS）不需要T細胞的幫忙也可以活化B細胞，是屬於第一型TI抗原（TI-1）。高 劑量的LPS會引起非專一性的抗體反應。相反的，低劑量的LPS則引起專一性抗體反應",
+      "C": "TD抗原和TI-2抗原都是藉由BCR來辨識，但TI-1抗原則可以由BCR或非BCR來辨識",
+      "D": "嬰兒容易受到具有莢膜的肺炎球菌的感染，其可能原因是嬰兒體內的B細胞尚未成熟的關係所導致"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 24 題",
+    "question": "下列有關人體內共生菌相（commensal microbiota）的敘述，何者最正確？",
+    "options": {
+      "A": "每一個人體內不同部位的菌種都是一致的",
+      "B": "這些菌種很特別，對抗生素具有抗藥性",
+      "C": "體內免疫系統完全不會對這些共生菌有免疫反應",
+      "D": "可以協助產出維生素K1與短鏈脂肪酸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 25 題",
+    "question": "HIV會造成慢性感染而且引起後天免疫不全症（acquired immune deficiency syndrome, AIDS）造成許多人死 亡，有關HIV慢性感染的原因，下列何者錯誤？",
+    "options": {
+      "A": "在HIV感染的過程中，重要的效應細胞及分子（effector cell / molecule），如毒殺型CD8 T細胞及對HIV有專 一性的抗體都沒有產生",
+      "B": "HIV在複製的過程中會導致基因的突變，使得原本有效的免疫反應失去作用",
+      "C": "HIV的病毒因子會抑制第一型MHC（MHC class I）在被感染細胞的表現，以逃脫毒殺型CD8 T（cytotoxic CD8 T）細胞的攻擊",
+      "D": "HIV會感染免疫細胞包含CD4 T細胞、樹突細胞及巨噬細胞，且造成CD4 T細胞數目的減少"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 26 題",
+    "question": "下列何種自我免疫耐受性（self-tolerance）機制的作用位置發生在發炎處？",
+    "options": {
+      "A": "central tolerance",
+      "B": "antigen segregation",
+      "C": "negative selection",
+      "D": "regulatory T cells"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 27 題",
+    "question": "有關雷帕黴素（rapamycin）之作用，下列何者錯誤？",
+    "options": {
+      "A": "與FK結合蛋白（FK-binding protein）結合",
+      "B": "促進白血球凋亡（apoptosis）",
+      "C": "抑制白血球增生（proliferation）",
+      "D": "降低調節性T細胞（regulatory T cell）數目"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 28 題",
+    "question": "利用基因工程製備嵌合抗原受體T細胞（chimeric antigen receptor T cells, CAR-T）作為免疫細胞治療方式已經 成功用來治療ALL（acute lymphocytic leukemia），在此嵌合分子之組成中不包括下列何者？",
+    "options": {
+      "A": "anti-CD19",
+      "B": "CTLA-4",
+      "C": "4-1 BB",
+      "D": "CD3ζ chain"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

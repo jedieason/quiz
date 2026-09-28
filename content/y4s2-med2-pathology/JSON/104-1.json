@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 76 題",
+    "question": "活體肝移植捐贈者於部分肝切除後剩下的肝臟變化，下列敘述何者正確？",
+    "options": {
+      "A": "被切除的肝葉重新長出",
+      "B": "剩下的肝臟至少需半年以上才能長大一倍",
+      "C": "肝細胞與庫弗氏細胞（Kupffer’s cells）及內皮細胞同步複製",
+      "D": "肝臟切除後的代償性生長主要是由於肝內幹細胞（intrahepatic stem cells）之生長"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 77 題",
+    "question": "下列有關細胞凋亡（apoptosis）的敘述，何者正確？",
+    "options": {
+      "A": "細胞變大",
+      "B": "細胞質在H＆E 染色時呈嗜鹼性（basophilia）",
+      "C": "凋亡體（apoptotic bodies）很快會被吞噬",
+      "D": "會引起炎症反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 78 題",
+    "question": "下列有關體幹細胞（adult/somatic stem cells）的敘述，何者正確？",
+    "options": {
+      "A": "肝臟的幹細胞是在哈維氏管（canals of Havers）",
+      "B": "腦部的幹細胞是在海馬迴（hippocampus）的CA1 及CA2 區",
+      "C": "皮膚的幹細胞是在毛囊膨出部（hair follicle bulge）、毛囊間之表皮（interfollicular areas of surface epidermis）及皮脂腺（sebaceous glands）",
+      "D": "骨骼肌的幹細胞是在肌外膜（epimysium）之間質細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 79 題",
+    "question": "有關家族性高膽固醇血症（familial hypercholesterolemia）之敘述，下列何者正確？",
+    "options": {
+      "A": "主要是低密度脂蛋白結構異常引起的遺傳性疾病",
+      "B": "大多是低密度脂蛋白基因印記（genomic imprinting）異常所致",
+      "C": "大多是調控低密度脂蛋白表現的基因被甲基化（methylation）所致",
+      "D": "大多是低密度脂蛋白受器（receptor）基因突變引起的遺傳性疾病"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 80 題",
+    "question": "普拉德-威利症候群（Prader-Willi Syndrome）是下列何種異常造成的遺傳性疾病？",
+    "options": {
+      "A": "組織結構蛋白（structural proteins）異常",
+      "B": "細胞受器（receptor）異常",
+      "C": "基因印記（genomic imprinting）異常",
+      "D": "染色體轉位（translocation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 81 題",
+    "question": "下列何者最適合利用聚合酶鏈鎖反應（polymerase chain reaction）法分析基因長度的變化以作診斷？",
+    "options": {
+      "A": "柯林菲特氏症候群（Klinefelter syndrome）",
+      "B": "X 染色體脆折症候群（fragile-X syndrome）",
+      "C": "馬凡氏症候群（Marfan syndrome）",
+      "D": "龐貝氏症（Pompe disease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 82 題",
+    "question": "有關腫瘤細胞的敘述，下列何者錯誤？",
+    "options": {
+      "A": "依目前普遍的觀點，整個腫瘤是源自單株的腫瘤細胞增生而成",
+      "B": "一顆5 公分大的腫瘤，其所有細胞普遍為同質性（homogeneity）",
+      "C": "一顆5 公分大的腫瘤，其實所含的腫瘤細胞大部分不處於增生複製期（replicative pool）",
+      "D": "依理論如果腫瘤細胞的倍增時間為3 天，那在體內由單一細胞經過120 天即可能長成1 公斤的腫 瘤，但實際上並非如此，因為許多腫瘤細胞會進入G0 週期，進行分化或凋亡"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 83 題",
+    "question": "下列抑癌基因，何者不直接調控細胞週期（G1→S）？",
+    "options": {
+      "A": "RB",
+      "B": "E-cadherin",
+      "C": "p16/INK4a",
+      "D": "p53"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 84 題",
+    "question": "一位25 歲女性在生產後不久突發呼吸困難、發紺、血壓下降及休克，病人接續發生肺水腫。下列何 者最不可能出現在病人的肺部微血管循環中？",
+    "options": {
+      "A": "空氣",
+      "B": "鱗狀細胞",
+      "C": "脂肪",
+      "D": "黏液"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 85 題",
+    "question": "從受傷或死亡的心肌細胞釋放於血液中某些成分可用於判定心肌梗塞的發生，下列蛋白質何者為心 肌缺氧性損傷最具特異性的標示物質（biomarker）？  C",
+    "options": {
+      "A": "-reactive protein",
+      "B": "creatine kinase muscle dimer",
+      "C": "lactate dehydrogenase",
+      "D": "troponin T and troponin I"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 86 題",
+    "question": "一位10 歲男童最近發生上呼吸道感染並在心肌中出現Aschoff bodies。下列有關此心肌病變的敘述中， 何者最不適當？",
+    "options": {
+      "A": "類纖維蛋白壞死併膨脹嗜伊紅性的膠原",
+      "B": "出現Anitschkow 細胞（毛毛蟲樣細胞）",
+      "C": "多核巨細胞形成Aschoff 巨細胞",
+      "D": "只發生於心肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 87 題",
+    "question": "下列有關惡性貧血（pernicious anemia）的敘述，何者正確？",
+    "options": {
+      "A": "自體抗體攻擊十二指腸腺體所致",
+      "B": "周邊血液出現細胞變大且細胞核有超多葉的嗜中性白血球",
+      "C": "腸胃道黏膜相關淋巴癌（mucosa-associated lymphoid tumor）的重要危險因子",
+      "D": "周邊血液出現變大及淡染的卵形紅血球"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 88 題",
+    "question": "下列有關周邊血液紅血球病變的敘述，何者錯誤？",
+    "options": {
+      "A": "具有靶狀細胞（target cells），則病人可能有慢性酒精中毒、脾臟切除，或海洋性貧血等",
+      "B": "紅血球具有好威爾-久麗氏體（Howell-Jolly bodies），則病人可能有脾臟切除之病史",
+      "C": "紅血球具有嗜鹼性彩斑（basophilic stippling），則病人骨髓可能受到藥物或毒素的傷害",
+      "D": "具有裂細胞（schistocytes），則病人可能有缺鐵性貧血"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 89 題",
+    "question": "下列有關非特異性間質肺炎（non-specific interstitial pneumonia）的敘述，何者正確？",
+    "options": {
+      "A": "可分細胞性（cellular）和纖維化（fibrosing）兩種型態",
+      "B": "時間異質性（temporal heterogeneity）明顯",
+      "C": "可見纖維母細胞增生病灶（fibroblastic focus）",
+      "D": "可見蜂巢狀纖維化（honeycomb fibrosis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 90 題",
+    "question": "一位45 歲中年男子，主訴呼吸短促，胸部X 光顯示，右肺區hyperlucent 且有右肺塌陷呈白色陰影 貼近心臟邊緣，縱膈腔左移。下列何項為最有可能的診斷？",
+    "options": {
+      "A": "肺結核",
+      "B": "肋膜炎",
+      "C": "肺氣腫破裂",
+      "D": "肺癌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 91 題",
+    "question": "下列何種疾病最常伴隨原發性硬化性膽管炎（primary sclerosing cholangitis）？",
+    "options": {
+      "A": "全身性紅斑性狼瘡（systemic lupus erythematosus）",
+      "B": "葛雷夫氏病（Graves’ disease）",
+      "C": "胰臟炎（pancreatitis）",
+      "D": "潰瘍性結腸炎（ulcerative colitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 92 題",
+    "question": "一位20 歲的女大學生最近幾個月來早晨有嗜睡的情形，一直到吃完早餐才會恢復正常。醫師為她做 了一系列的檢查，發現在胰臟的尾部長了一個1 公分大小的腫瘤，顯微鏡下的圖形如下圖。則下列 那一個診斷最有可能？",
+    "options": {
+      "A": "腺癌（adenocarcinoma）",
+      "B": "血管瘤（hemangioma）",
+      "C": "胰島素瘤（insulinoma）",
+      "D": "偽囊腫（pseudocyst）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 93 題",
+    "question": "一新生男嬰，出生時體重2950 克，在嬰兒室餵奶量正常。一個月後，母親發現餵奶量減少，嘔吐次 數增加，上腹部摸到橄欖狀腫塊，則最可能的診斷為何？",
+    "options": {
+      "A": "梅克爾氏憩室（Meckel diverticulum）",
+      "B": "膽道閉鎖（biliary atresia）",
+      "C": "賁門痙攣（cardiospasm）",
+      "D": "幼兒性肥大性幽門狹窄（infantile hypertrophic pyloric stenosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 94 題",
+    "question": "一位20 歲女性，因為肚子痛而至急診，腹部超音波發現胰臟有一直徑約8 公分的腫瘤，腫瘤內有囊 狀結構。經手術切除腫瘤，組織學檢查腫瘤內有一些囊狀結構內充滿出血，腫瘤細胞生長方式為成 片排列或者為乳突狀突起。則下列何者為最可能的診斷？  congenital cyst of pancreas",
+    "options": {
+      "A": "congenital cyst ofof pancreaspancreas",
+      "B": "pancreas divisumdivisum",
+      "C": "solid-pseudopapillary neoplasmneoplasm",
+      "D": "pancreatic pseudocystpseudocyst"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 95 題",
+    "question": "有關副甲狀腺腺瘤常見的病理特徵，下列何者錯誤？",
+    "options": {
+      "A": "腫瘤界限明顯",
+      "B": "大部分以多個結節腫瘤呈現",
+      "C": "重量約為0.5 公克至5.0 公克之間",
+      "D": "腫瘤細胞主要由主細胞（chief cells）所構成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 96 題",
+    "question": "下列腎絲球疾病中，何者最易產生新月形（crescent）腎絲球細胞增生？",
+    "options": {
+      "A": "細基底膜病（thin basement membrane disease）",
+      "B": "抗基底膜病（anti-basement membrane disease）",
+      "C": "瀰漫性膜性腎絲球腎炎（diffuse membranous glomerulonephritis）",
+      "D": "糖尿病腎絲球疾病（diabetic glomerular disease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 97 題",
+    "question": "一位30 歲女性，因下腹痛來急診，身體檢查發現病人血壓過低，緊急開刀發現右側輸卵管有血塊。 病理檢查發現如下圖的構造，最可能的診斷是： [圖片]",
+    "options": {
+      "A": "絨毛癌（choriocarcinoma）",
+      "B": "子宮外孕（ectopic pregnancy）",
+      "C": "水泡狀胎塊（hydatidiform mole）",
+      "D": "漿液性癌（serous carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 98 題",
+    "question": "以帶血的乳頭分泌物（bloody discharge）呈現的乳房疾病，下列何種最常見？",
+    "options": {
+      "A": "乳管內乳突瘤（intraductal papilloma）",
+      "B": "乳管原位癌（ductal carcinoma in situ）",
+      "C": "侵襲性乳管癌（invasive ductal carcinoma）",
+      "D": "派吉特氏病（Paget’s disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 99 題",
+    "question": "病人大腦有病灶，發生Kernohan 切跡（Kernohan’s notch），導致病灶同側輕偏癱（hemiparesis）， 與之直接相關的變化為何？",
+    "options": {
+      "A": "大腦鎌下脫出（subfalcial herniation）",
+      "B": "經小腦天幕脫出（transtentorial herniation）",
+      "C": "小腦扁桃體脫出（tonsillar herniation）",
+      "D": "杜雷特氏出血（Duret’s hemorrhage）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 100 題",
+    "question": "下列腫瘤的組織學型態，何者與其他三者相差最多？",
+    "options": {
+      "A": "縱膈腔的卵黃囊腫瘤（yolk sac tumor）",
+      "B": "睪丸的精細胞瘤（seminoma） 細胞瘤（seminoma）",
+      "C": "卵巢的dysgerminoma",
+      "D": "松果腺地區的germinoma"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

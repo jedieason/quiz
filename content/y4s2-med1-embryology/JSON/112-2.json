@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 32 題",
+    "question": "下列何者在胚胎發育第三週結束時，尚未出現？",
+    "options": {
+      "A": "原條（primitive streak）",
+      "B": "脊索（notochord）",
+      "C": "中胚層（mesoderm）",
+      "D": "咽弓（pharyngeal arch）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 33 題",
+    "question": "下列有關甲狀腺（thyroid gland）發育之敘述，何項錯誤？",
+    "options": {
+      "A": "主要為咽原基（primordial pharynx）內胚層增厚所形成",
+      "B": "甲狀腺憩室（diverticulum）會脫離咽原基（primordial pharynx）在頸部腹側向下方移動",
+      "C": "甲狀腺憩室（diverticulum）脫離咽原基（primordial pharynx）之處，即為門齒窩（incisive fossa）",
+      "D": "甲狀腺內有來自第四咽囊（pharyngeal pouch）之細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 34 題",
+    "question": "下列何者是由中腎管（mesonephric duct）末端所形成？",
+    "options": {
+      "A": "前列腺（prostate gland）",
+      "B": "前列腺囊（prostatic utricle）",
+      "C": "精囊（seminal vesicle）",
+      "D": "尿道球腺（bulbourethral gland）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 35 題",
+    "question": "胚胎第四週時，下列那一條血管不注入胎兒心臟？",
+    "options": {
+      "A": "卵黃囊靜脈（vitelline vein）",
+      "B": "臍靜脈（umbilical vein）",
+      "C": "總主靜脈（common cardinal vein）",
+      "D": "子宮內膜靜脈（endometrial vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 36 題",
+    "question": "下列那一構造，因出生以前的提早閉合而造成長楔形之舟形頭（scaphocephaly）？",
+    "options": {
+      "A": "前囟（anterior fontanelle）",
+      "B": "後囟（posterior fontanelle）",
+      "C": "冠狀縫（coronal suture）",
+      "D": "矢狀縫（sagittal suture）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

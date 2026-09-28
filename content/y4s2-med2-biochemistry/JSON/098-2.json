@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 26 題",
+    "question": "下列何種激素須經由細胞膜上受體才能產生作用？",
+    "options": {
+      "A": "Glucocorticoid",
+      "B": "Thyroid hormone",
+      "C": "Insulin",
+      "D": "Estrogen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 27 題",
+    "question": "下列何者不會出現於phenylketonuria 病患的尿液中？",
+    "options": {
+      "A": "Phenylalanine",
+      "B": "Phenylpyruvate",
+      "C": "Para-hydroxyphenylpyruvate",
+      "D": "Phenylacetate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 28 題",
+    "question": "在新生兒病房，有一位1 天大的小男嬰常常都在睡眠狀態，進食欠佳且出現嘔吐，抽血結果發現血 液中氨（ammonia）濃度異常的高。下列相關敘述何者正確？",
+    "options": {
+      "A": "氨是糖類的代謝物",
+      "B": "人體細胞可以利用氨來做為胺基酸的合成",
+      "C": "尿素循環（urea cycle）方面的疾病可引起血液中氨升高",
+      "D": "由於人體有血腦障壁（blood-brain barrier），所以氨不會進入腦部"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給 分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 29 題",
+    "question": "下列那一個胺基酸可以降解成fumarate？",
+    "options": {
+      "A": "Phenylalanine",
+      "B": "Alanine",
+      "C": "Cysteine",
+      "D": "Serine"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 30 題",
+    "question": "粒線體氧化磷酸化的過程所產生的·$O_2$ -自由基，可由下列那一個酵素去除？",
+    "options": {
+      "A": "NADH dehydrogenase",
+      "B": "Glutathione peroxidase",
+      "C": "Glutathione reductase",
+      "D": "Superoxide dismutase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 31 題",
+    "question": "動物呼吸氧（$O_2$）進入細胞進行氧化磷酸化，$O_2$最終會轉變為何種物質？",
+    "options": {
+      "A": "H3PO4",
+      "B": "$CO_2$",
+      "C": "CO",
+      "D": "H2O"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 32 題",
+    "question": "有關甘油-3-磷酸穿梭路徑（glycerol 3-phosphate shuttle）之敘述，下列何者正確？",
+    "options": {
+      "A": "此穿梭路徑將細胞質的NADH 穿過粒線體內膜運送至間質（matrix）而得到3ATP / NADH",
+      "B": "此穿梭路徑可將細胞質的NADH轉換為NAD+，同時在粒線體生成FADH2",
+      "C": "此穿梭路徑不需要粒線體甘油-3-磷酸脫氫酶（mitochondrial glycerol 3-phosphate dehydrogenase）的 參與",
+      "D": "此穿梭路徑需要蘋果酸脫氫酶（malate dehydrogenase）的參與"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 33 題",
+    "question": "一位接受腎臟移植手術的病患，需長期服用環孢靈素（cyclosporine）來對抗排斥作用，下列有關此 藥之敘述，何者正確？",
+    "options": {
+      "A": "環孢靈素不會產生腎毒性，最適合腎臟移植病患使用",
+      "B": "環孢靈素經過細胞色素P450（cytochrome P450）代謝，變成親水性，從腎臟排泄",
+      "C": "葡萄柚汁（grapefruit）本身含有類黃酮（flavonoid），能幫助電子傳遞，與環孢靈素一起服用不會 影響環孢靈素血中濃度",
+      "D": "抗生素紅黴素（erythromycin）並不經由細胞色素P450 代謝，因而不會影響環孢靈素血中濃度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 34 題",
+    "question": "有一種體染色體隱性（autosomal recessive）遺傳的疾病，稱為familial chylomicronemia，病人血液中 的triglyceride 會因下列何種基因突變，因此造成高血脂症？",
+    "options": {
+      "A": "Pancreatic lipase",
+      "B": "Endothelial lipase",
+      "C": "Lipoprotein lipase",
+      "D": "HMG-CoA reductase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 35 題",
+    "question": "阿斯匹靈是常用之解熱鎮痛藥劑，它主要是抑制下列那一項激素的產生？",
+    "options": {
+      "A": "Leukotriene",
+      "B": "Testosterone",
+      "C": "Insulin",
+      "D": "Prostaglandin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 36 題",
+    "question": "下列那一項是DNA 和RNA 共同的特性？",
+    "options": {
+      "A": "皆為雙股α 螺旋鏈",
+      "B": "合成過程都具有相同校正機制避免錯誤",
+      "C": "皆含有磷酸根、醣及鹼基",
+      "D": "在五碳糖的第二個位置都是-OH 基"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 37 題",
+    "question": "下列關於真核生物RNA 的敘述，何者錯誤？",
+    "options": {
+      "A": "5'-cap 可保護mRNA 的端點，增加其穩定性",
+      "B": "rRNA 及tRNA 均無5'-cap",
+      "C": "mRNA 之3' poly（A）序列是依循模板（template）DNA 上poly（T）而來",
+      "D": "histone 的mRNA 沒有3' poly（A）序列"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 38 題",
+    "question": "下列有關著色性乾皮症（xeroderma pigmentosum）的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種遺傳性疾病",
+      "B": "病患對紫外光（ultraviolet）敏感，容易產生皮膚癌",
+      "C": "部分病患伴隨神經異常（neurological abnormalities）",
+      "D": "因為缺乏鹼基切除修復（base excision-repair）功能"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 39 題",
+    "question": "岡崎氏片段（Okazaki fragments）會在下列何種生物過程中出現？",
+    "options": {
+      "A": "轉錄作用（transcription）",
+      "B": "轉譯作用（translation）",
+      "C": "DNA 重組（DNA recombination）",
+      "D": "DNA 複製（DNA replication）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 40 題",
+    "question": "下列何種酵素不會參與DNA 複製（DNA replication）？",
+    "options": {
+      "A": "DNA 拓樸異構酶（DNA topoisomerase）",
+      "B": "解螺旋酶（helicase）",
+      "C": "單股DNA 鍵結蛋白（single-stranded DNA binding protein）",
+      "D": "依賴DNA 的RNA 聚合酶（DNA-dependent RNA polymerase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 41 題",
+    "question": "癌症腫瘤細胞傾向進行無氧呼吸，下列關於無氧呼吸glucose 代謝的敘述，何者錯誤？",
+    "options": {
+      "A": "產生ATP 較少",
+      "B": "產生lactate 較多",
+      "C": "產生acetyl-CoA 較多",
+      "D": "Krebs cycle 參與的程度較低"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 42 題",
+    "question": "臨床上我們可以將患者DNA 經過亞硫酸氫鈉（sodium bisulfite）處理過後，使未被甲基化的細胞嘧 啶（cytosine）轉變成尿素嘧啶（uracil），經由PCR 放大特定基因之序列，再藉由兩股的解離溫度 不同而判別其甲基化的程度。下圖中何者甲基化程度較高？",
+    "options": {
+      "A": "A 股 Melting Peaks",
+      "B": "B 股 84 76 -0.426 0.474 1.374 2.274 3.174 4.074 4.974 5.874 6.774 7.674 8.574 Temperature (℃) 82 80 78 Ｂ A",
+      "C": "A 股和B 股的甲基化程度一樣高",
+      "D": "資料不足，無法判讀 -(d/dT) Fluorescence (483-533)"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 43 題",
+    "question": "下列那種酵素活性高低會影響NADPH 的形成以及glutathione 的還原狀態？",
+    "options": {
+      "A": "Glucose 6-phosphate dehydrogenase",
+      "B": "Pyruvate dehydrogenase",
+      "C": "Lactate dehydrogenase",
+      "D": "Alcohol dehydrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 44 題",
+    "question": "調控紅血球與$O_2$親合力的重要因子為2,3-bisphosphoglycerate，它由下列那種代謝作用所提供？",
+    "options": {
+      "A": "酮體生成作用（ketogenesis）",
+      "B": "糖解作用（glycolysis）",
+      "C": "葡萄糖新生作用（gluconeogenesis）",
+      "D": "五碳糖磷酸途徑（pentose phosphate pathway）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 45 題",
+    "question": "下列何者是DNA 片段5’-ATTGCAG-3’ 的互補核酸股？",
+    "options": {
+      "A": "5’-CUGCAAU-3’",
+      "B": "5’-TAACGTC-3’",
+      "C": "5’-ATTCGTC-3’",
+      "D": "5’-ATTGCAG-3’"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 46 題",
+    "question": "一位病患疑似有維生素B12缺乏現象，下列何種血液變化最不支持此一診斷？",
+    "options": {
+      "A": "甲基丙二酸（methylmalonic acid）過高",
+      "B": "對羥基苯丙酮酸（para-hydroxyphenylpyruvate）過高",
+      "C": "紅血球過少",
+      "D": "巨母紅血球過多"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 47 題",
+    "question": "輔酶NAD ＋、FAD、coenzyme A等分子中之共同結構單元（structure module）為：",
+    "options": {
+      "A": "ADP",
+      "B": "CDP",
+      "C": "GDP",
+      "D": "UDP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 48 題",
+    "question": "一位30 歲男子主訴有牙齒鬆動、傷口不易癒合等症狀，口腔理學檢查發現牙齦浮腫、牙齦泛紫。這 些病徵最可能與維他命C 參與何種蛋白修飾（protein modification）變化有關？",
+    "options": {
+      "A": "羥基化（hydroxylation）",
+      "B": "磷酸化（phosphorylation）",
+      "C": "乙醯化（acetylation）",
+      "D": "甲基化（methylation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 49 題",
+    "question": "組胺酸（histidine）的胺基（-NH2）、側鏈（R-group）與羧基（-COOH）的pKa值分別為9、6 和2 ，當此胺基酸處於pH 5.0 的環境中時，溶液中大部分組胺酸分子的帶電狀態應為：",
+    "options": {
+      "A": "帶二個正電荷",
+      "B": "帶一個正電荷",
+      "C": "不帶電",
+      "D": "帶一個負電荷"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 50 題",
+    "question": "下列何者不能做為酵素執行酸-鹼催化（acid-base catalysis）時的活性中心胺基酸（active site residue）？",
+    "options": {
+      "A": "組胺酸（histidine）",
+      "B": "甲硫胺酸（methionine）",
+      "C": "天門冬胺酸（aspartic acid）",
+      "D": "麩胺酸（glutamic acid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 29 題",
+    "question": "下列那些寄生蟲會造成患者之自體感染（autoinfection）？①短小包膜絛蟲（Hymenolepis nana） ②菲律 賓毛線蟲（Capillaria philippinensis） ③隱胞子蟲（Cryptosporidium parvum） ④糞小桿線蟲 （Strongyloides stercoralis）",
+    "options": {
+      "A": "1種",
+      "B": "2種",
+      "C": "3種",
+      "D": "4種"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 30 題",
+    "question": "罹患內臟幼蟲移行症（visceral larva migrans）的病患通常有下列特徵，何者除外？",
+    "options": {
+      "A": "犬蛔蟲（Toxocara canis）為主要病原體",
+      "B": "常見肝腫大",
+      "C": "常見嗜酸性白血球增多",
+      "D": "大多發生於成年人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 31 題",
+    "question": "下列絛蟲中，何者之成蟲體型最小？",
+    "options": {
+      "A": "多胞絛蟲（Echinococcus multilocularis）",
+      "B": "短小包膜絛蟲（Hymenolepis nana）",
+      "C": "縮小包膜絛蟲（Hymenolepis diminuta）",
+      "D": "犬複殖器絛蟲（Dipylidium caninum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 32 題",
+    "question": "節肢動物可當下列那些絛蟲的中間宿主？①豬肉絛蟲（Taenia solium） ②犬複殖器絛蟲（Dipylidium  caninum） ③縮小包膜絛蟲（Hymenolepis diminuta） ④單胞絛蟲（Echinococcus granulosus）",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 33 題",
+    "question": "下列敘述，何者錯誤？",
+    "options": {
+      "A": "齒齦阿米巴（Entamoeba gingivalis）的滋養體（trophozoites）會吞噬紅血球",
+      "B": "嗜碘阿米巴（Iodamoeba bütschlii）的滋養體具有一個很大的肝醣泡（glycogen vacuole）",
+      "C": "大腸纖毛蟲（Balantidium coli）是體型最大的人體寄生性原蟲",
+      "D": "大腸纖毛蟲（Balantidium coli）具有大核及小核"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 34 題",
+    "question": "下列何者不屬於蜱媒介人畜共通感染症（tick-borne zoonoses）？",
+    "options": {
+      "A": "萊姆病（Lyme disease）",
+      "B": "西尼羅病毒症（West Nile）",
+      "C": "巴貝氏原蟲症（babesiosis）",
+      "D": "落磯山斑疹熱（Rocky Mountain spotted fever）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 35 題",
+    "question": "下列何種疾病之病原體是經由體蝨（body louse）傳播？",
+    "options": {
+      "A": "流行性斑疹傷寒（epidemic typhus）",
+      "B": "地方性斑疹傷寒（endemic typhus）",
+      "C": "落磯山斑疹熱（Rocky mountain spotted fever）",
+      "D": "恙蟲病（scrub typhus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

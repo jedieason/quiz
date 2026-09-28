@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 33 題",
+    "question": "軟骨細胞（chondrocyte）的分化與下列何者無關？",
+    "options": {
+      "A": "纖維母細胞（fibroblast）",
+      "B": "軟骨原細胞（chondrogenic cell）",
+      "C": "軟骨母細胞（chondroblast）",
+      "D": "間葉細胞（mesenchymal cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 34 題",
+    "question": "最大的白血球是：",
+    "options": {
+      "A": "單核球（monocyte）",
+      "B": "嗜中性球（neutrophil）",
+      "C": "嗜伊紅球（eosinophil）",
+      "D": "嗜鹼性球（basophil）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 35 題",
+    "question": "下列何者允許細胞間離子的進出？",
+    "options": {
+      "A": "緊密接合（tight junctions）",
+      "B": "間隙接合（gap junctions）",
+      "C": "胞橋小體（desmosomes）",
+      "D": "黏著小帶（zonula adherens）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 36 題",
+    "question": "下列何者與骨骼肌細胞收縮無直接相關？",
+    "options": {
+      "A": "副交感神經（parasympathetic nerve）",
+      "B": "運動終板（motor end plate）",
+      "C": "肌漿網（sarcoplasmic reticulum）",
+      "D": "橫小管（T-tubule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 37 題",
+    "question": "乳糜管（lacteal）分布於小腸的那一層？",
+    "options": {
+      "A": "黏膜固有層（lamina propria）",
+      "B": "黏膜下層（submucosa）",
+      "C": "黏膜肌層（muscularis mucosae）",
+      "D": "漿膜層（serosa）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 38 題",
+    "question": "下列各構造何者之組成軟骨與其它三者不同？",
+    "options": {
+      "A": "會厭軟骨（epiglottis）",
+      "B": "氣管（trachea）",
+      "C": "甲狀軟骨（thyroid cartilage）",
+      "D": "環狀軟骨（cricoid cartilage）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 39 題",
+    "question": "下列有關唾液腺的敘述，何者正確？",
+    "options": {
+      "A": "舌下腺（sublingual gland）的管道系統在大型唾液腺中最為發達",
+      "B": "頜下腺（submandibular gland）是混合型腺體，主要為黏液腺（mostly mucus-secreting）",
+      "C": "舌下腺（sublingual gland）是混合型腺體，主要為漿液腺（mostly serous）",
+      "D": "耳下腺（parotid gland）是純漿液腺（completely serous）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 40 題",
+    "question": "皮脂腺（sebaceous gland）分泌，是何種分泌方式？",
+    "options": {
+      "A": "部分分泌（merocrine）",
+      "B": "頂漿分泌（apocrine）",
+      "C": "全漿分泌（holocrine）",
+      "D": "擴散方式（diffusion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 41 題",
+    "question": "下列子宮內那一層組織在月經期會脫落？",
+    "options": {
+      "A": "子宮肌膜（myometrium）",
+      "B": "子宮內膜基層（stratum basale）",
+      "C": "子宮內膜功能層（stratum functionale）",
+      "D": "子宮外膜（perimetrium）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

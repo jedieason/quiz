@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 1 題",
+    "question": "有關胺基醣苷類（aminoglycosides）抗生素之敘述，下列何者最不適當？",
+    "options": {
+      "A": "此類抗生素可抑制細菌蛋白質生合成，進而達到殺菌或抑制細菌生長之作用",
+      "B": "降低抗生素進入細菌內可能會導致細菌對此類抗生素出現抗藥性",
+      "C": "此類抗生素需在厭氧環境下，方可穿過細胞膜，因此厭氧菌對此類抗生素具有感受性（susceptible）",
+      "D": "卡納黴素（kanamycin）與阿米卡星（amikacin）為此類常見抗生素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 2 題",
+    "question": "磺胺類藥物（sulfonamides）可抑制細菌所需葉酸（folic acid）之合成，因此具有抑菌或殺菌作用，但對哺 乳類動物細胞不具有顯著毒性的最主要原因為何？",
+    "options": {
+      "A": "哺乳類動物細胞合成葉酸之相關酵素與磺胺類藥物親合力低，較不受影響",
+      "B": "哺乳類動物細胞不自行合成葉酸，因此不受磺胺類藥物影響",
+      "C": "在使用磺胺類藥物的情況下，哺乳類動物細胞可合成類似葉酸之衍生物作為替代",
+      "D": "葉酸並不會被哺乳類動物細胞所利用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 3 題",
+    "question": "關於細菌莢膜（capsule）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "莢膜對細菌的生長是絕對必要的結構",
+      "B": "炭疽桿菌（Bacillus anthracis）產生多肽莢膜（polypeptide capsule）",
+      "C": "莢膜具有抵抗免疫細胞吞噬作用（phagocytosis）的能力",
+      "D": "莢膜能促進細菌與其他細菌或宿主組織表面的黏附作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 4 題",
+    "question": "若先天interferon-γ受體基因缺陷的病人感染結核分枝桿菌，最可能導致下列何種結果？",
+    "options": {
+      "A": "病人將在沒有症狀的情況下清除結核分枝桿菌的感染",
+      "B": "病人將產生更強的免疫反應，並降低活動性結核病的風險",
+      "C": "病人罹患播散性結核病的風險將增加",
+      "D": "病人將具有完全抵抗結核分枝桿菌感染的免疫力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 5 題",
+    "question": "關於廣泛抗藥性結核（extensively drug-resistant tuberculosis, XDR TB）的敘述，下列何者最適當？",
+    "options": {
+      "A": "XDR TB 是一種多重抗藥性結核病（multidrug-resistant tuberculosis），同時對氟喹諾酮類藥物 （fluoroquinolones）和至少一種二線藥物具有額外的抗藥性",
+      "B": "XDR TB 只發生在AIDS 患者身上，尚非全球性的問題",
+      "C": "XDR TB 感染者目前無抗生素可治療，因此只能隔離",
+      "D": "XDR TB 接觸者，應給與預防性抗生素治療"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 6 題",
+    "question": "患者性行為數週後，腹股溝淋巴結疼痛腫大並於皮膚表面形成瘻管，最可能是受到下列何種微生物的感染？",
+    "options": {
+      "A": "奈瑟氏淋病菌（Neisseria gonorrhoeae）",
+      "B": "砂眼披衣菌（Chlamydia trachomatis）",
+      "C": "肉芽腫克雷伯氏菌（Klebsiella granulomatis）",
+      "D": "杜克氏嗜血桿菌（Haemophilus ducreyi）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 7 題",
+    "question": "孕婦感染下列何種細菌可引起類流感症狀，並最可能導致流產或新生兒疾病？",
+    "options": {
+      "A": "化膿性鏈球菌（Streptococcus pyogenes）",
+      "B": "紅斑丹毒絲菌（Erysipelothrix rhusiopathiae）",
+      "C": "單核細胞增生性李斯特菌（Listeria monocytogenes）",
+      "D": "流行性嗜血桿菌（Haemophilus influenzae）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 8 題",
+    "question": "關於抗病毒藥物的敘述，下列何者最適當？",
+    "options": {
+      "A": "高效抗反轉錄病毒療法（Highly Active Antiretroviral Therapy, HAART）通常使用單一藥物進行治療， 主要是為了減少副作用",
+      "B": "C 型肝炎病毒（Hepatitis C virus, HCV）抗病毒藥物可有效清除體內病毒，而其成分皆針對病毒RNA 聚合 酶（RNA polymerase）",
+      "C": "抗病毒藥物只能對單一種病毒有效，無法用於治療不同種類的病毒感染",
+      "D": "Zidovudine（Retrovir）是一種反轉錄酶（reverse transcriptase）抑制劑，可用來針對人類免疫缺乏病 毒"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 9 題",
+    "question": "下列關於各類型肝炎病毒的敘述中，何者最適當？",
+    "options": {
+      "A": "C 型肝炎病毒（HCV）目前有有效的疫苗可預防，並且可以通過食物和水傳播",
+      "B": "D 型肝炎病毒（HDV）無法獨立複製，必須依賴B 型肝炎病毒（HBV），並且主要通過血液與性接觸傳播",
+      "C": "A 型肝炎病毒（HAV）主要通過血液與性接觸傳播，並且目前有有效疫苗可預防",
+      "D": "除D 型肝炎病毒（HDV）基因體屬於DNA 外，其他皆屬於RNA 病毒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 10 題",
+    "question": "一般情況下，下列何種念珠菌僅以單細胞型式存在，不產生假菌株或真菌絲？",
+    "options": {
+      "A": "Candida krusei",
+      "B": "Candida tropicalis",
+      "C": "Candida glabrata",
+      "D": "Candida parapsilosis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 11 題",
+    "question": "在吞噬細胞內呈現裂殖酵母（fission yeasts）是下列何種感染的主要特徵？",
+    "options": {
+      "A": "Emergomycosis",
+      "B": "Coccidioidomycosis",
+      "C": "Histoplasmosis",
+      "D": "Talaromycosis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 12 題",
+    "question": "下列何種細菌的系統主要用於保護染色體不受噬菌體（bacteriophage）與外源質體的嵌合作用 （integration）？",
+    "options": {
+      "A": "SOS 反應（SOS response）",
+      "B": "規律間隔重複短迴文序列簇／CRISPR 相關蛋白系統（clustered regularly interspaced short palindromic repeats/CRISPR associated proteins）",
+      "C": "易誤修復（error-prone repair）",
+      "D": "裁除式修復（excision repair）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 13 題",
+    "question": "下列何種毒素的作用機轉與霍亂毒素（cholera toxin）類似？",
+    "options": {
+      "A": "白喉毒素（diphtheria toxin）",
+      "B": "大腸桿菌（Escherichia coli）的第一型熱不穩定毒素（LT-Ⅰ）",
+      "C": "副溶血弧菌（Vibrio parahaemolyticus）的溶血素（hemolysin）",
+      "D": "痢疾志賀氏桿菌（Shigella dysenteriae）的侵入素（invasin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 14 題",
+    "question": "下列關於Sofosbuvir、Oseltamivir、Darunavir、Raltegravir 藥物的比較何者最適當？",
+    "options": {
+      "A": "Darunavir、Raltegravir 皆為人類免疫不全病毒（human immunodeficiency virus）的抗病毒藥物",
+      "B": "Oseltamivir 抑制病毒進入細胞（entry），Darunavir 抑制病毒的釋放（release）",
+      "C": "Sofosbuvir 為B 型肝炎病毒（hepatitis B virus）的抗病毒藥物，Oseltamivir 為流感病毒（influenza virus）的抗病毒藥物",
+      "D": "Sofosbuvir、Raltegravir 皆為蛋白酶抑制劑（protease inhibitor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 15 題",
+    "question": "下列何種情況會使患者更容易受到伊科病毒（echovirus）感染呼吸道和胃腸道而引起嚴重疾病？",
+    "options": {
+      "A": "低伽瑪球蛋白血症（hypogammaglobulinemia）",
+      "B": "鐮狀細胞貧血（sickle cell anemia）",
+      "C": "發炎性腸道疾病（inflammatory bowel disease）",
+      "D": "消化性潰瘍（peptic ulcer）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 16 題",
+    "question": "有一種正股RNA 病毒（positive-sense RNA virus）具有二十面體病毒殼體（capsid），無套膜 （envelope），經糞口傳播，在罕見病例中會引起癱瘓。此病毒屬於那一病毒科？",
+    "options": {
+      "A": "腺病毒科（Adenoviridae）",
+      "B": "小RNA 病毒科（Picornaviridae）",
+      "C": "呼腸孤病毒科（Reoviridae）",
+      "D": "披衣病毒科（Togaviridae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 17 題",
+    "question": "第一型干擾素（interferon）α及β做為抗病毒藥物，最主要是抑制病毒複製的下列何項步驟？",
+    "options": {
+      "A": "病毒的入侵",
+      "B": "病毒轉錄",
+      "C": "病毒蛋白質合成",
+      "D": "病毒的組裝"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

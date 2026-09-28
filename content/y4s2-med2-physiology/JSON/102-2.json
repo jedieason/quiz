@@ -1,0 +1,313 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 1 題",
+    "question": "秋水仙素（colchicine）會抑制微管蛋白（tubulin）之聚合，使其無法形成微管（microtubule）。下列 細胞活動何者不受其直接抑制？",
+    "options": {
+      "A": "有絲分裂（mitosis）",
+      "B": "神經元的軸突運輸（axonal transport）",
+      "C": "肌肉收縮",
+      "D": "分泌小泡（secretory vesicle）在細胞內的運送"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 2 題",
+    "question": "溫度感覺受器主要為transient receptor potential（Trp）cation channels。有關其特性之敘述，下列何者 錯誤？",
+    "options": {
+      "A": "為陽離子通道",
+      "B": "capsaicin 可活化TrpV1 受器亞型",
+      "C": "TrpM8 為冷覺受器",
+      "D": "冷覺受器被活化時，會造成其細胞膜過極化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 3 題",
+    "question": "小腦的climbing fibers 主要來自何處？",
+    "options": {
+      "A": "pontine nuclei",
+      "B": "inferior olivary nuclei",
+      "C": "cerebral cortex",
+      "D": "vestibular nuclei"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 4 題",
+    "question": "小腦受損的病人，對下列何種學習能力會顯得較為低弱？",
+    "options": {
+      "A": "記得剛認識的人的名字",
+      "B": "學習彈奏樂器",
+      "C": "記路，所以比較容易迷路",
+      "D": "學習心算"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 5 題",
+    "question": "下列何種運送方式需要能量？",
+    "options": {
+      "A": "simple diffusion",
+      "B": "facilitated diffusion",
+      "C": "osmosis",
+      "D": "secondary active transport"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 6 題",
+    "question": "下列有關感覺受器（sensory receptor）之適應現象（adaptation）的敘述，何者正確？",
+    "options": {
+      "A": "媒介slow pain 的nociceptor 屬於slowly adapting receptors",
+      "B": "Pacinian corpuscle 屬於slowly adapting receptors",
+      "C": "Golgi tendon apparatuses 屬於rapidly adapting receptors",
+      "D": "muscle spindle 屬於rapidly adapting receptors"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 7 題",
+    "question": "由中腦ventral tegmental area 投射至nucleus accumbens 之路徑在reward system 中扮演重要角色，此 路徑之重要神經傳遞物質（neurotransmitter）為何？",
+    "options": {
+      "A": "GABA",
+      "B": "dopamine",
+      "C": "glutamate",
+      "D": "glycine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 8 題",
+    "question": "下列有關平滑肌收縮時之cross-bridge activation 的敘述，何者錯誤？",
+    "options": {
+      "A": "該激活作用是因肌動蛋白（actin）磷酸化所致",
+      "B": "troponin 不參與此激活作用",
+      "C": "細胞質內之鈣離子（cytosolic calcium）與調鈣蛋白（calmodulin）結合，參與此激活作用",
+      "D": "在平滑肌內的ATPase 酵素活性速率比在骨骼肌內來的慢"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 9 題",
+    "question": "下列何者不會發生於正常心周期（cardiac cycle）的心室舒張期（diastole）？",
+    "options": {
+      "A": "半月瓣（semilunar valves）開啟",
+      "B": "房室瓣（atrioventricular valves）開啟",
+      "C": "心室充血（ventricular filling）",
+      "D": "心房收縮（atrial contraction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 10 題",
+    "question": "正常生理範圍下，preload 與afterload 對於心搏量（stroke volume）之影響分別為何？",
+    "options": {
+      "A": "preload 增加心搏量；afterload 降低心搏量",
+      "B": "preload 降低心搏量；afterload 增加心搏量",
+      "C": "皆增加心搏量",
+      "D": "皆降低心搏量"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 11 題",
+    "question": "下列何者被興奮後，可引發Hering-Breuer reflex，藉以防止肺過度擴張？",
+    "options": {
+      "A": "肺牽扯性受器（lung stretch receptors）",
+      "B": "肺刺激性受器（lung irritant receptors）",
+      "C": "主動脈體（aortic bodies）",
+      "D": "頸動脈體（carotid bodies）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 12 題",
+    "question": "當肺泡氧分壓（alveolar PO2）由100 mmHg 突然降至50 mmHg。此時，體循環動脈血中的那些數值 會減少？①動脈血氧分壓（PaO2） ②動脈血氧飽和度（arterial hemoglobin oxygen saturation）  ③血液氧氣總量（total oxygen content）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 13 題",
+    "question": "小腸上皮細胞外高濃度鈉離子可促進葡萄糖吸收的原因為何？",
+    "options": {
+      "A": "葡萄糖運送蛋白（GLUT2）為一種鈉離子通道",
+      "B": "葡萄糖和鈉離子共用運送蛋白（SGLT1）",
+      "C": "葡萄糖以鈉離子依賴性的促進性擴散（facilitated diffusion）方式被吸收",
+      "D": "葡萄糖須先與鈉離子結合成錯化合物才能被吸收"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 14 題",
+    "question": "下列何者最易導致糞脂症（steatorrhea）？",
+    "options": {
+      "A": "胃分泌過多脂肪酶（lipase）",
+      "B": "十二指腸內pH 值偏鹼",
+      "C": "胰臟脂肪酶（lipase）分泌不足",
+      "D": "胃部分切除（partial gastrectomy）手術後"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 15 題",
+    "question": "一位75 歲的陳先生患有嚴重關節炎而長期服用鎮痛劑。日前，因排出黑便而入院檢查。結果，發現 胃壁有3 公分潰瘍及幽門螺旋桿菌（Helicobacter pylori）感染。陳先生胃潰瘍主因較可能是：",
+    "options": {
+      "A": "胃黏膜障壁（mucosa barrier）受破壞",
+      "B": "胃排空（gastric empty）太慢",
+      "C": "鎮痛劑直接侵蝕胃壁",
+      "D": "螺旋桿菌引起胃蛋白酶（pepsin）大量分泌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 16 題",
+    "question": "承15 題，若使用的鎮痛劑為前列腺素合成抑制劑類藥物，常有何種腸胃副作用？",
+    "options": {
+      "A": "抑制胃黏液（mucus）分泌",
+      "B": "抑制胃蛋白酶（pepsin）分泌",
+      "C": "抑制胃酸（gastric acid）分泌",
+      "D": "抑制$H^+$/$K^+$ ATPase 活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 17 題",
+    "question": "承15 題，下列何種情況最可能加劇陳先生的病情？",
+    "options": {
+      "A": "服用抗生素",
+      "B": "服用組織胺H2 受器拮抗劑",
+      "C": "服用$H^+$/$K^+$ ATPase 抑制劑",
+      "D": "膽汁逆流至胃部"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 18 題",
+    "question": "一位2 個月大的嬰兒因為幽門狹窄而有反覆性嘔吐（vomiting），臨床上會造成什麼現象？",
+    "options": {
+      "A": "代謝性酸中毒（metabolic acidosis）",
+      "B": "代謝性鹼中毒（metabolic alkalosis）",
+      "C": "呼吸性酸中毒（respiratory acidosis）",
+      "D": "呼吸性鹼中毒（respiratory alkalosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 19 題",
+    "question": "下列何種檢驗方式最能正確地測量腎絲球過濾率（glomerular filtration rate）？",
+    "options": {
+      "A": "血中尿素氮值（blood urea nitrogen; BUN）",
+      "B": "血清肌酐酸值（serum creatinine concentration）",
+      "C": "肌酐酸廓清率（creatinine clearance rate; CCr）",
+      "D": "菊糖廓清率（inulin clearance rate; ICr）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 20 題",
+    "question": "尿中出現過量的amino acids 及glucose 的病人，最有可能的腎臟病變是在何處？",
+    "options": {
+      "A": "近端小管（proximal tubule）",
+      "B": "亨利氏環下行支（descending limb of Henle’s loop）",
+      "C": "亨利氏環上行支（ascending limb of Henle’s loop）",
+      "D": "集尿管（collecting duct）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 21 題",
+    "question": "下列何種激素受器的位置是在細胞膜上？",
+    "options": {
+      "A": "維生素D（vitamin D）",
+      "B": "生長激素（growth hormone）",
+      "C": "皮質素（cortisol）",
+      "D": "甲狀腺素（thyroxine）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分外。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 22 題",
+    "question": "下列那一種葡萄糖轉運子（glucose transporter，GLUT）是負責運送葡萄糖進入胰臟貝他細胞（β cell）？",
+    "options": {
+      "A": "GLUT1",
+      "B": "GLUT2",
+      "C": "GLUT3",
+      "D": "GLUT4"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 23 題",
+    "question": "下列何種腦下腺前葉激素最有可能作用於全身細胞或組織？",
+    "options": {
+      "A": "生長激素（growth hormone）",
+      "B": "雌激素（estrogen）",
+      "C": "助孕酮（progesterone）",
+      "D": "催產素（oxytocin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 24 題",
+    "question": "臨床上合併低血鉀（hypokalemia）及高血壓之內分泌腫瘤，常見好發於何處？",
+    "options": {
+      "A": "腎上腺髓質（adrenal medulla）",
+      "B": "腎上腺皮質球狀帶（zona glomerulosa）",
+      "C": "腎上腺皮質束狀帶（zona fasciculata）",
+      "D": "腎上腺皮質網狀帶（zona reticularis）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 25 題",
+    "question": "威而剛（Viagra）主要是藉由何種作用促進勃起（erection）？",
+    "options": {
+      "A": "抑制磷酸雙酯酶（phosphodiesterase）的活性",
+      "B": "促進磷酸雙酯酶（phosphodiesterase）的活性",
+      "C": "抑制一氧化氮合成酶（NO synthase）的活性",
+      "D": "抑制腺苷酸環化酶（adenylate cyclase）的活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

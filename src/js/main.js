@@ -102,20 +102,19 @@ async function loadAllSubjectData(baseUrl) {
         const res = await fetch(`.${baseUrl}/unit.json`);
         if (!res.ok) throw new Error('Network response was not ok');
         const units = await res.json();
-        let allData = [];
-        for (const unit of units) {
+        const results = await Promise.all(units.map(async (unit) => {
             try {
                 const unitJsonPath = buildUnitJsonPath(baseUrl, unit.id);
                 const unitData = await new Promise((resolve, reject) => {
                     $.getJSON(unitJsonPath).done(resolve).fail(reject);
                 });
                 if (Array.isArray(unitData)) {
-                    const enrichedData = unitData.map(item => ({ ...item, baseUrl: `.${baseUrl}` }));
-                    allData = allData.concat(enrichedData);
+                    return unitData.map(item => ({ ...item, baseUrl: `.${baseUrl}` }));
                 }
             } catch (e) { console.error(`Failed to load ${unit.id}`, e); }
-        }
-        return allData;
+            return [];
+        }));
+        return results.flat();
     } catch (e) {
         console.error('Failed to load all data for', baseUrl, e);
         return [];
@@ -294,7 +293,7 @@ async function openUnitModal(subject) {
     const startBtn = document.getElementById('modalStartQuizBtn');
     const tikuBtn = document.getElementById('modalOpenDocBtn');
 
-    if (title) title.textContent = `${subject.title}`;
+    if (title) title.textContent = subject.subtitle ? `${subject.title} - ${subject.subtitle}` : `${subject.title}`;
     if (list) list.innerHTML = '<p class="text-center text-gray-500 my-4">載入單元中...</p>';
     if (startBtn) {
         startBtn.disabled = true;

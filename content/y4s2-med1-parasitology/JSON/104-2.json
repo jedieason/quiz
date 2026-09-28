@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 75 題",
+    "question": "下列有關羅阿絲蟲（Loa loa）感染人體的敘述，何者錯誤？",
+    "options": {
+      "A": "成蟲主要寄生在皮下組織",
+      "B": "成蟲移行時常會引起劇痛",
+      "C": "微絲蟲（microfilaria）會出現在血液內",
+      "D": "大多數病患之嗜酸性白血球會明顯增高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 76 題",
+    "question": "下列何種人體寄生蟲感染較常導致臨床上出現嚴重貧血症狀？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "班氏絲蟲（Wuchereria bancrofti）",
+      "C": "十二指腸鉤蟲（Ancylostoma duodenale）",
+      "D": "廣東住血線蟲（Angiostrongylus cantonensis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 77 題",
+    "question": "有一間歇性腹瀉（chronic intermittent diarrhea）的病患，在其糞便中發現大小約2.3 mm的 蟲體，除口、腹吸盤特徵外，在生殖孔附近有第三吸盤，該病患最可能感染下列何種寄生 蟲？",
+    "options": {
+      "A": "人雙口吸蟲（Gastrodiscoides hominis）",
+      "B": "異形吸蟲（Heterophyes heterophyes）",
+      "C": "槍狀肝吸蟲（Dicrocoelium dendriticum）",
+      "D": "橫川吸蟲（Metagonimus yokogawai）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 78 題",
+    "question": "曼森裂頭絛蟲（Spirometra mansonoides）那些發育時期的蟲體可以感染人？①六鈎幼蟲卵 ②似囊尾幼蟲（cysticercoid） ③原尾幼蟲（procercoid） ④長尾幼蟲（plerocercoid）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②④",
+      "D": "③④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 79 題",
+    "question": "王先生奉派駐任中非共和國外交官服務二年，近日因腹部腫脹及週期性發燒而返國就醫，經 醫師檢查發現有肝脾腫大（hepatosplenomegaly）及貧血（anemia）病癥，住院後進行骨 髓穿刺可見巨噬細胞內有寄生物。依據上述結果，王先生最可能感染何種寄生蟲？",
+    "options": {
+      "A": "杜氏利什曼原蟲（Leishmania donovani）",
+      "B": "熱帶利什曼原蟲（Leishmania tropica）",
+      "C": "岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "枯西氏錐蟲（Trypanosoma cruzi）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 80 題",
+    "question": "下列有關陰道滴蟲（Trichomonas vaginalis）或其引起的病症，何者錯誤？",
+    "options": {
+      "A": "性伴侶中，男性如果沒有症狀可不必投藥，只需治療出現症狀的女方即可",
+      "B": "沒有保蟲宿主（reservoir host）",
+      "C": "女性患者之症狀包括陰道搔癢、白帶增多且常呈黃綠色等",
+      "D": "根據非洲的研究顯示，陰道滴蟲症（vaginal trichomoniasis）患者感染HIV的機率較高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 81 題",
+    "question": "黑水熱（blackwater fever）通常與何種寄生蟲之感染有關？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "杜氏利什曼原蟲（Leishmania donovani）",
+      "C": "班氏絲蟲（Wuchereria bancrofti）",
+      "D": "惡性瘧原蟲（Plasmodium falciparum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 82 題",
+    "question": "下列有關蜱媒介人畜共通萊姆病（Lyme disease）之敘述，何者錯誤？",
+    "options": {
+      "A": "高度流行區內常有共同感染（co-infection）巴貝氏原蟲（Babesia spp.）",
+      "B": "其致病原為伯氏疏螺旋體（Borrelia burgdorferi）",
+      "C": "感染早期以遊走性紅斑（erythema migrans）為主要病癥",
+      "D": "人類感染之早期診斷以血液抹片鏡檢為主"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

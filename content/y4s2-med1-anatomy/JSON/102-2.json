@@ -1,0 +1,338 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 1 題",
+    "question": "下列有關大腦白質的敘述，何者錯誤？",
+    "options": {
+      "A": "cingulum 含有association fibers",
+      "B": "corpus callosum 含有commissural fibers",
+      "C": "uncinate fasciculus 連接大腦額葉與顳葉",
+      "D": "Meyer's loop 傳導聽覺訊息"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 2 題",
+    "question": "下列有關網狀系統（reticular formation）之敘述，何者錯誤？",
+    "options": {
+      "A": "與意識狀態（consciousness）和清醒（arousal）有關",
+      "B": "參與體運動系統之調控",
+      "C": "由多向性神經纖維組成，但不含神經細胞本體",
+      "D": "延腦、橋腦與中腦均含有網狀系統"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 3 題",
+    "question": "下列有關聽覺之敘述，何者錯誤？",
+    "options": {
+      "A": "右耳之聽覺訊息可傳入兩側大腦皮質",
+      "B": "聽覺皮質主要位於大腦額葉",
+      "C": "腦幹可發出抑制性訊息抑制內耳聽覺接受器",
+      "D": "Wernicke's area 屬於聽覺聯合皮質（auditory association cortex）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 4 題",
+    "question": "下列有關paleospinothalamic system 之敘述，何者錯誤？",
+    "options": {
+      "A": "與意識狀態有關",
+      "B": "可傳導痛覺",
+      "C": "傳導路徑不經過網狀系統（reticular formation）",
+      "D": "此體感覺傳導系統較缺乏定位功能"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 5 題",
+    "question": "有關舌骨（hyoid bone）的敘述，下列何者正確？",
+    "options": {
+      "A": "為一環狀骨頭",
+      "B": "上咽縮肌（superior constrictor）附著於舌骨大角（greater horn of hyoid bone）",
+      "C": "其後端與會厭軟骨（epiglottis）相接",
+      "D": "約在第3 頸椎的高度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 6 題",
+    "question": "下列有關脊髓丘腦徑（spinothalamic tract）的敘述，何者錯誤？",
+    "options": {
+      "A": "屬於前外側系統（anterolateral system）",
+      "B": "傳導痛覺",
+      "C": "其神經纖維通過脊髓背側白質交叉（dorsal white commissure）",
+      "D": "其神經纖維主要由脊髓背角之神經元發出"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 7 題",
+    "question": "下列何者是經過枕三角（occipital triangle）的重要構造？",
+    "options": {
+      "A": "鎖骨下動脈（subclavian artery）",
+      "B": "脊髓副神經（spinal accessory nerve）",
+      "C": "迷走神經（vagus nerve）",
+      "D": "內頸靜脈（internal jugular vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 8 題",
+    "question": "下列有關眼睛睫狀體（ciliary body）功能的敘述，何者錯誤？",
+    "options": {
+      "A": "產生眼房液（aqueous humor）",
+      "B": "支撐懸吊晶狀體（lens）",
+      "C": "調節進入眼球的光量",
+      "D": "調整晶狀體（lens）的厚度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 9 題",
+    "question": "摘除下頜下腺（submandibular gland）時容易傷害走在下頜下腺導管下方的構造是：",
+    "options": {
+      "A": "舌下神經（hypoglossal nerve）",
+      "B": "舌神經（lingual nerve）",
+      "C": "下齒槽神經（inferior alveolar nerve）",
+      "D": "鼓索神經（chorda tympani）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 10 題",
+    "question": "下列何者不是成對的構造？",
+    "options": {
+      "A": "橫竇（transverse sinus）",
+      "B": "上岩竇（superior petrosal sinus）",
+      "C": "枕竇（occipital sinus）",
+      "D": "海綿竇（cavernous sinus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 11 題",
+    "question": "下列有關蛛網膜下腔（subarachnoid space）的敘述，何者錯誤？",
+    "options": {
+      "A": "分泌腦脊髓液（CSF）",
+      "B": "會沿著視神經（optic nerve）延伸到眼球後壁",
+      "C": "與大腦腦室相通",
+      "D": "內有大腦動脈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 12 題",
+    "question": "手術摘除耳下腺時，最不可能傷害下列何者？",
+    "options": {
+      "A": "面神經（facial nerve）",
+      "B": "鼓索神經（chorda tympani）",
+      "C": "面橫動脈（transverse facial artery）",
+      "D": "耳後動脈（posterior auricular artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 13 題",
+    "question": "一般情況下，右支氣管靜脈（right bronchial vein）回流至下列何者？",
+    "options": {
+      "A": "奇靜脈（azygos vein）",
+      "B": "半奇靜脈（hemiazygos vein）",
+      "C": "副半奇靜脈（accessory hemiazygos vein）",
+      "D": "下腔靜脈（inferior vena cava）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 14 題",
+    "question": "病患右肺尖端有腫瘤，且出現聲音嘶啞的情形，腫瘤最可能已經侵犯下列何者？",
+    "options": {
+      "A": "膈神經（phrenic nerve）",
+      "B": "迷走神經（vagus nerve）",
+      "C": "喉返神經（recurrent laryngeal nerve）",
+      "D": "交感神經幹（sympathetic trunk）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 15 題",
+    "question": "下列何者受損會影響肱骨（humerus）的內收（adduct）、內旋（medially rotate）及屈曲（flex）功能？",
+    "options": {
+      "A": "胸大肌（pectoralis major）",
+      "B": "胸小肌（pectoralis minor）",
+      "C": "鎖骨下肌（subclavius）",
+      "D": "前鋸肌（serratus anterior）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 16 題",
+    "question": "血塊造成腦部血管栓塞（embolism），此血塊最不可能來自下列何者？",
+    "options": {
+      "A": "上腔靜脈（superior vena cava）",
+      "B": "右肺靜脈（right pulmonary vein）",
+      "C": "左心室（left ventricle）",
+      "D": "左心房（left atrium）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 17 題",
+    "question": "大網膜（greater omentum）的動脈血流來自下列何者？",
+    "options": {
+      "A": "腹腔動脈幹（celiac trunk）",
+      "B": "腸繫膜上動脈（superior mesenteric artery）",
+      "C": "腸繫膜下動脈（inferior mesenteric artery）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 18 題",
+    "question": "下列何者不直接緊貼膀胱的後表面？",
+    "options": {
+      "A": "子宮",
+      "B": "陰道",
+      "C": "直腸",
+      "D": "輸精管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 19 題",
+    "question": "胃潰瘍的疼痛由下列何者傳導？",
+    "options": {
+      "A": "內臟大神經（greater splanchnic nerve）",
+      "B": "內臟小神經（lesser splanchnic nerve）",
+      "C": "內臟最小神經（least splanchnic nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 20 題",
+    "question": "右胃動脈（right gastric artery）由下列何者發出？",
+    "options": {
+      "A": "肝總動脈（common hepatic artery）",
+      "B": "腹主動脈（abdominal aorta）",
+      "C": "脾動脈（splenic artery）",
+      "D": "腸繫膜上動脈（superior mesenteric artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 21 題",
+    "question": "尿道脊（urethral crest）是位於下列何者內的構造？",
+    "options": {
+      "A": "子宮",
+      "B": "陰道",
+      "C": "陰莖",
+      "D": "前列腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 22 題",
+    "question": "下列何者發生阻塞，最不影響前列腺的血液供應？",
+    "options": {
+      "A": "膀胱上動脈",
+      "B": "膀胱下動脈",
+      "C": "直腸中動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 23 題",
+    "question": "下列何者不附著於會陰體（perineal body）？",
+    "options": {
+      "A": "肛門外括約肌（external anal sphincter）",
+      "B": "球海綿體肌（bulbospongiosus）",
+      "C": "提肛肌（levator ani）",
+      "D": "坐骨海綿體肌（ischiocavernosus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 24 題",
+    "question": "下列何者不在陰莖深筋膜（deep fascia of the penis）內？",
+    "options": {
+      "A": "陰莖襻狀韌帶（fundiform ligament of penis）",
+      "B": "陰莖深背靜脈（deep dorsal vein of penis）",
+      "C": "陰莖背動脈（dorsal artery of penis）",
+      "D": "尿道海綿體（corpus spongiosum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 25 題",
+    "question": "在上臂（arm）處，臂神經叢發出的那兩條神經沒有分支？",
+    "options": {
+      "A": "肌皮與正中神經（musculocutaneous and median nerves）",
+      "B": "尺與橈神經（ulnar and radial nerves）",
+      "C": "肌皮與橈神經（musculocutaneous and radial nerves）",
+      "D": "正中與尺神經（median and ulnar nerves）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 26 題",
+    "question": "下列那一條神經受損會造成爪形手（claw hand）的症狀？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 27 題",
+    "question": "下列何者穿過喙肱肌（coracobrachialis）後支配肱二頭肌（biceps brachii）？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 28 題",
+    "question": "下列何者伴行脛前動脈（anterior tibial artery）且負責支配脛前肌（tibialis anterior）？",
+    "options": {
+      "A": "脛神經（tibial nerve）",
+      "B": "隱神經（saphenous nerve）",
+      "C": "腓深神經（deep fibular nerve）",
+      "D": "腓淺神經（superficial fibular nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

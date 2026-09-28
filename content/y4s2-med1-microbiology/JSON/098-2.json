@@ -1,0 +1,250 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 42 題",
+    "question": "下列關於Staphylococcus aureus 毒素的敘述，那一項錯誤？",
+    "options": {
+      "A": "alpha toxin 可嵌入多種細胞的細胞膜導致細胞因滲透壓改變而溶解",
+      "B": "beta toxin 是造成staphylococcal scalded skin syndrome（SSSS）的主因",
+      "C": "delta toxin 也會在其他staphylococci 如Staphylococcus epidermidis 中發現",
+      "D": "leukocidin 可導致嗜中性白血球的破壞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 43 題",
+    "question": "淋病球菌（gonococci）感染成年婦女，最常起始於下列那個部位？",
+    "options": {
+      "A": "尿道",
+      "B": "陰道",
+      "C": "子宮頸",
+      "D": "輸卵管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 44 題",
+    "question": "下列那種細菌不會造成人畜共通之感染症（zoonotic infection）？",
+    "options": {
+      "A": "假結核耶爾辛氏菌（Yersinia pseudotuberculosis）",
+      "B": "炭疽桿菌（Bacillus anthracis）",
+      "C": "福氏志賀氏菌（Shigella flexneri）",
+      "D": "流產布魯氏菌（Brucella abortus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 45 題",
+    "question": "下列關於Streptococcus pneumoniae 的敘述，何者錯誤？",
+    "options": {
+      "A": "是引發肺炎的致病菌，不會在正常人咽喉中找到",
+      "B": "是革蘭氏陽性菌，且常呈雙球菌形態",
+      "C": "會產生莢膜，且為重要致病因子",
+      "D": "常造成肺部下方感染，又稱lobar pneumonia"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 46 題",
+    "question": "Pyrazinamide 在酸性環境中可有效對抗結核桿菌的活性，故常與其他藥物合併使用以治療結核病患， 但該抗生素真正有活性的形式是必須被水解成pyrazinoic acid。此水解反應需在何器官進行？",
+    "options": {
+      "A": "心臟",
+      "B": "肝臟",
+      "C": "腎臟",
+      "D": "脾臟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 47 題",
+    "question": "肺炎黴漿菌（Mycoplasma pneumoniae）感染會引起原發性非典型肺炎（primary atypical pneumonia），在 鑑定培養時通常會加入下列何種抗生素於培養基中，以利黴漿菌的分離與生長？",
+    "options": {
+      "A": "青黴素（penicillin）",
+      "B": "紅黴素（erythromycin）",
+      "C": "四環素（tetracycline）",
+      "D": "磺胺劑（sulfonamide）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 48 題",
+    "question": "一位在軍中服役的18 歲青年與其女友先後罹患嚴重的腦膜炎，兩人緊急送醫治療後，其女友雖痊癒， 青年本人則不治身亡。在治療前，於自兩人所採集的腦脊髓液（cerebrospinal fluid）中發現大量胞內 含菌的多型核白血球（polymorphonuclear leukocytes）。根據由腦脊髓液所分離到的細菌種類，確定 兩人罹患流行性腦膜炎。下列有關此致病菌的敘述，何者錯誤？",
+    "options": {
+      "A": "此菌經由呼吸道感染人類",
+      "B": "此菌廣泛生存於環境中",
+      "C": "此菌是一種革蘭氏陰性球菌",
+      "D": "人類是此菌唯一的天然宿主"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 49 題",
+    "question": "【背景題幹：一位在軍中服役的18 歲青年與其女友先後罹患嚴重的腦膜炎，兩人緊急送醫治療後，其女友雖痊癒， 青年本人則不治身亡。在治療前，於自兩人所採集的腦脊髓液（cerebrospinal fluid）中發現大量胞內 含菌的多型核白血球（polymorphonuclear leukocytes）。根據由腦脊髓液所分離到的細菌種類，確定 兩人罹患流行性腦膜炎。下列有關此致病菌的敘述，何者錯誤？】\n承上題，腦脊髓液檢體送細菌室培養過程中，需要注意下列那件事？",
+    "options": {
+      "A": "檢體勿保存於冰箱",
+      "B": "檢體需避光",
+      "C": "檢體需保存於無氧環境中",
+      "D": "檢體勿置於密閉容器中"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 50 題",
+    "question": "Q 型熱（Q fever）是發生在大部分國家的人畜共通傳染病（zoonosis），人被感染後，會呈急性型 （肺炎、肝炎、感冒症狀、頭痛）或是嚴重慢性型（心內膜炎）症狀。此疾病是由何種細菌感染所 引起？",
+    "options": {
+      "A": "Rickettsia rickettsii",
+      "B": "Coxiella burnetii",
+      "C": "Ehrlichia canis",
+      "D": "Staphylococcus epidermidis"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 51 題",
+    "question": "某人主訴有頭痛、發燒、全身疲勞、寒顫、噁心、嘔吐、頸部僵硬、肌肉關節疼痛及淋巴腺腫脹等 症狀，經問診後發現，該人於一星期前曾參加登山活動，露宿野地；回來後發現身上有蟲子叮咬所 留下來的紅斑，後來紅斑以圈狀向外擴散，變成遊走性紅斑（erythema migrans），此患者有可能是 被何致病原感染？",
+    "options": {
+      "A": "恙蟲病立克次氏菌（Orientia tsutsugamushi）",
+      "B": "布魯氏菌（Brucella）",
+      "C": "伯氏疏螺旋菌（Borrelia burgdorferi）",
+      "D": "鉤端螺旋體（Leptospira interrogans）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 52 題",
+    "question": "克流感（oseltamivir）主要藉由干擾流感病毒的那種蛋白的功能，以達到抑制病毒的功效？",
+    "options": {
+      "A": "M1 protein",
+      "B": "Hemagglutinin",
+      "C": "M2 protein",
+      "D": "Neuraminidase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 53 題",
+    "question": "下列有關腸病毒（enterovirus）之敘述，何者錯誤？",
+    "options": {
+      "A": "感染的人排出含有病毒的糞便，可長達1 個月之久",
+      "B": "腸病毒成員包括A 型肝炎病毒、伊柯病毒（echovirus）及克沙奇病毒（coxackievirus）",
+      "C": "近年來台灣流行之腸病毒71 型感染，引起手足口症及神經系統之後遺症",
+      "D": "由糞口途徑傳播"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 54 題",
+    "question": "褐菌絲症（phaeohyphomycosis）為新興之真菌感染症，此群真菌共同之特徵為何？",
+    "options": {
+      "A": "具有兩型性（dimorphism）之酵母菌",
+      "B": "喜於37℃生長之絲狀真菌",
+      "C": "會產生類似黑色素（melanin-like）之絲狀真菌或酵母菌",
+      "D": "同時產生大型頂端芽胞（macroconidia）及小型頂端芽胞（microconidia）之絲狀真菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 55 題",
+    "question": "某農家飼養了許多家禽（雞、鴨與豬等），隨著夏天的到來經常高溫多雨，家中之老二今年6 歲， 放學回家後開始頭疼、嘔吐，1 天後出現嗜睡，經過2 至3 日，症狀加劇，嘔吐、意識模糊、抽搐、 情緒激動、神智不清以及下肢麻痺等症狀，於1 星期後退燒，但呈現運動及智能退化的現象，此孩 童之病徵是由何病毒感染所引起的？",
+    "options": {
+      "A": "疱疹病毒（herpesvirus）",
+      "B": "狂犬病病毒（rabies virus）",
+      "C": "日本腦炎病毒（Japanese encephalitis virus）",
+      "D": "登革病毒（dengue virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 56 題",
+    "question": "某患者抽血檢驗B 型肝炎病毒（hepatitis B virus）感染指標，何種抗體存在時，代表受檢者已具有對 抗此病毒之免疫力？",
+    "options": {
+      "A": "IgG anti-HBs 抗體",
+      "B": "IgG anti-HBe 抗體",
+      "C": "IgM anti-HBc 抗體",
+      "D": "IgG anti-HBc 抗體"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 57 題",
+    "question": "下列病毒感染誘發寄主產生干擾素（interferon）之敘述，何者正確？",
+    "options": {
+      "A": "病毒DNA 是誘發干擾素產生之最佳物質",
+      "B": "當體內干擾素製造不足時，會降低病毒感染的嚴重性",
+      "C": "干擾素可調節輔助性T 細胞增加免疫系統和毒殺性T 細胞對感染細胞的確認，並予以殲滅",
+      "D": "干擾素在病毒感染之晚期才被釋放出來"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 58 題",
+    "question": "下列有關流行性感冒病毒（influenza virus）之敘述，何者正確？",
+    "options": {
+      "A": "流行性感冒病毒核酸含16 個RNA 片段",
+      "B": "A 型流行性感冒病毒以核蛋白（nucleoprotein）為區分亞種之分類依據",
+      "C": "流行性感冒病毒外層之血球凝集素其成分為醣蛋白",
+      "D": "在細胞核內進行複製"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答 Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 59 題",
+    "question": "一位22 歲的男性最近感到不適，並發覺自己體重驟減30 磅，最近更發生輕微的發燒等流感症狀， 並患有鵝口瘡（thrush），伴隨嚴重而頻繁的腹瀉，此外亦有呼吸困難的現象，經肺部X 光檢查顯示 兩側有浸潤現象，在糞便檢體中測出梨形鞭毛蟲（Giardia），此患者最可能被何病原菌感染而造成 上述之病徵？",
+    "options": {
+      "A": "疱疹病毒（herpesvirus）",
+      "B": "細小病毒B19（parvovirus B19）",
+      "C": "人類免疫缺乏病毒（HIV）",
+      "D": "流行性感冒病毒（influenza virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 60 題",
+    "question": "51 歲陳小姐，近一個月發現右側頭皮有局部脫髮，頭皮搔癢、脫皮並且產生疼痛之區塊，之前醫院 醫師給予之抗生素及抗發炎之prednisone 並沒有改善狀況。於是醫師詳細問診後才知道：陳小姐3 個月前撿到一隻很可愛的流浪犬，取名波比。波比很活潑討喜，經常與陳小姐親近，醫師於是以伍 氏燈（Wood’s light）檢查呈陽性，進一步取患部皮屑培養；結果養出白色毛狀菌落，顯微鏡觀察呈 現分隔菌絲（septate hyphae），產生數量眾多之梭形、厚壁、表面粗糙之大孢子（macrospores）。 最可能之感染病原是下列何者？",
+    "options": {
+      "A": "Epidermophyton floccosum",
+      "B": "Microsporum canis",
+      "C": "Microsporum gypseum",
+      "D": "Trichophyton schoenleinii"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 61 題",
+    "question": "【背景題幹：51 歲陳小姐，近一個月發現右側頭皮有局部脫髮，頭皮搔癢、脫皮並且產生疼痛之區塊，之前醫院 醫師給予之抗生素及抗發炎之prednisone 並沒有改善狀況。於是醫師詳細問診後才知道：陳小姐3 個月前撿到一隻很可愛的流浪犬，取名波比。波比很活潑討喜，經常與陳小姐親近，醫師於是以伍 氏燈（Wood’s light）檢查呈陽性，進一步取患部皮屑培養；結果養出白色毛狀菌落，顯微鏡觀察呈 現分隔菌絲（septate hyphae），產生數量眾多之梭形、厚壁、表面粗糙之大孢子（macrospores）。 最可能之感染病原是下列何者？】\n承上題，治療陳小姐之最可能選擇為何？",
+    "options": {
+      "A": "口服flucytosine",
+      "B": "靜脈注射ketoconazole",
+      "C": "口服terbinafine",
+      "D": "口服碘化鉀（potassium iodide, KI）飽和溶液"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

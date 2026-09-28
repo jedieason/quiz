@@ -1,0 +1,248 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 42 題",
+    "question": "造成幼兒腦膜炎的流感嗜血桿菌（Haemophilus influenzae）大多屬於下列那個血清型（serotype）？",
+    "options": {
+      "A": "a 型",
+      "B": "b 型",
+      "C": "c 型",
+      "D": "d 型"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 43 題",
+    "question": "下列何者無法培養在一般的大氣中？",
+    "options": {
+      "A": "霍亂弧菌（Vibrio cholerae）",
+      "B": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "C": "志賀氏赤痢菌（Shigella dysenteriae）",
+      "D": "幽門桿菌（Helicobacter pylori）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 44 題",
+    "question": "下列何者是黴漿菌（Mycoplasma）所特有，且必須藉動物血清添加於培養基中以利其生長的成分？",
+    "options": {
+      "A": "脂醇（sterols）",
+      "B": "白蛋白（albumin）",
+      "C": "醣蛋白（glycoproteins）",
+      "D": "醣脂質（glycolipids）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 45 題",
+    "question": "下列有關梅毒（syphilis）的敘述，何者最正確？",
+    "options": {
+      "A": "進入末期梅毒的時候，傳染性最高",
+      "B": "只感染人類，而無其他天然宿主",
+      "C": "病變是由細菌所產生的毒素直接造成的",
+      "D": "性接觸是此疾病傳播的唯一途徑"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 46 題",
+    "question": "抗酸性（acid-fast）菌的意義是：",
+    "options": {
+      "A": "菌體在酸性環境中生長更加快速",
+      "B": "菌體會分泌抗酸性物質",
+      "C": "菌體被染色後不易被酸性酒精脫色",
+      "D": "菌體本身呈現酸性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 47 題",
+    "question": "梭狀芽孢桿菌屬（Clostridium）病菌生存時不會產生下列何種毒素？",
+    "options": {
+      "A": "腸毒素（enterotoxins）",
+      "B": "神經毒素（neurotoxins）",
+      "C": "溶組織毒素（histolytic toxins）",
+      "D": "內毒素（endotoxins）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 48 題",
+    "question": "白喉毒素之作用為：",
+    "options": {
+      "A": "抑制寄主神經傳導物質之釋放",
+      "B": "干擾寄生細胞膜對離子之通透性",
+      "C": "抑制寄主細胞蛋白質之合成",
+      "D": "刺激寄主細胞核酸之合成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 49 題",
+    "question": "與卡波西肉瘤（Kaposi’s sarcoma）相關之病毒為：",
+    "options": {
+      "A": "EB 病毒（Epstein-Barr virus）",
+      "B": "人類嗜T 淋巴球病毒第一型（HTLV-1）",
+      "C": "人類疱疹病毒第八型（HHV-8）",
+      "D": "人類免疫缺乏病毒（HIV）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或 Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 50 題",
+    "question": "下列病毒的特性，何者不正確？",
+    "options": {
+      "A": "病毒複製之方法是由“分裂＂完成",
+      "B": "病毒之基因體為DNA 或RNA",
+      "C": "病毒可依套膜之有無作分類",
+      "D": "病毒必須在宿主細胞內進行複製"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 51 題",
+    "question": "下列關於鼻病毒（Rhinoviruses）之敘述，何者為錯？",
+    "options": {
+      "A": "為RNA 病毒",
+      "B": "其蛋白殼（capsid）在酸性環境中穩定",
+      "C": "在33℃下生長良好，與其喜好在鼻黏膜複製有關",
+      "D": "大多數以ICAM-1（intracellular adhesion molecule-1）為進入細胞之受器（receptor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 52 題",
+    "question": "下列關於流行性感冒病毒（Influenza virus）之敘述，何者為錯？",
+    "options": {
+      "A": "分類上屬於正黏液病毒科（Orthomyxoviridae）",
+      "B": "其基因體由八段單股RNA 組成",
+      "C": "包括A 型、B 型、C 型流行性感冒病毒",
+      "D": "其中只有A 型流行性感冒病毒造成人類疾病"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 53 題",
+    "question": "下列何種病毒對脂溶劑（如乙醚）具抗性？",
+    "options": {
+      "A": "痘病毒（Poxvirus）",
+      "B": "疱疹病毒（Herpesvirus）",
+      "C": "腺病毒（Adenovirus）",
+      "D": "反轉錄病毒（Retrovirus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 54 題",
+    "question": "輪狀病毒（Rotavirus）和挪瓦克病毒（Norwalk virus）屬於不同病毒，但它們共同具有下列何種特性？",
+    "options": {
+      "A": "可經由糞-口傳播",
+      "B": "均是雙股RNA",
+      "C": "均是單股RNA",
+      "D": "可經由游泳傳播"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 55 題",
+    "question": "根據世界衛生組織宣佈，下列何種疾病因為病毒疫苗之使用而絕跡？",
+    "options": {
+      "A": "天花（smallpox）",
+      "B": "流行性感冒",
+      "C": "小兒麻痺",
+      "D": "水痘"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 56 題",
+    "question": "下列關於病毒與其引起之疾病的敘述，何者為錯？",
+    "options": {
+      "A": "狂犬病毒（Rabies virus）可引起恐水症（hydrophobia）",
+      "B": "B 型克沙奇病毒（Coxsackie B virus）可引起胸膜痛（pleurodynia）",
+      "C": "輪狀病毒（Rotavirus）可引起嬰兒腹瀉（infantile diarrhea）",
+      "D": "A 型克沙奇病毒（Coxsackie A virus）可引起出血熱併腎症候群（hemorrhagic fever with renal syndrome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 57 題",
+    "question": "下列關於小兒麻痺病毒（Poliovirus）之敘述，何者為錯？",
+    "options": {
+      "A": "分類上屬於小RNA 病毒科（Picornaviridae），包括三種血清型",
+      "B": "其疫苗有沙克疫苗及沙賓疫苗，均為包含三種血清型之混合疫苗",
+      "C": "感染後大部分人出現中樞神經症狀，少部分人為無症狀感染",
+      "D": "麻痺性脊髓灰白質炎（paralytic poliomyelitis）主要是因為此病毒感染脊髓前角細胞（anterior horn cell）所致"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 58 題",
+    "question": "下列關於第一型人類免疫缺乏病毒（HIV-1）感染之敘述，何者為錯？",
+    "options": {
+      "A": "HIV-1 的共受器CCR5 基因缺陷者，可以抵抗HIV-1 之感染",
+      "B": "臨床上無症狀期血中無HIV-1 病毒存在",
+      "C": "無藥物治療之下，大多數感染者均會發病產生愛滋病（AIDS）",
+      "D": "有極少數感染者長期不發病"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 59 題",
+    "question": "真菌細胞壁特有的成分是：",
+    "options": {
+      "A": "麥角醇",
+      "B": "幾丁質",
+      "C": "角質",
+      "D": "醣苷類"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 60 題",
+    "question": "抗真菌感染最主要的天然防禦因素是：",
+    "options": {
+      "A": "皮膚與黏膜",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "巨噬細胞（macrophage）",
+      "D": "補體（complement）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 61 題",
+    "question": "常存在鴿糞中，會造成腦膜炎之致病菌為：",
+    "options": {
+      "A": "申克氏孢絲菌（Sporothrix schenckii）",
+      "B": "黃色麴菌（Aspergillus flavus）",
+      "C": "新型隱球菌（Cryptococcus neoformans）",
+      "D": "白色念珠菌（Candida albicans）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

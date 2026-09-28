@@ -1,0 +1,315 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 1 題",
+    "question": "血漿滲透度為150 mOsm 時，則下列何者正確？",
+    "options": {
+      "A": "對細胞而言是高張（hypertonic）",
+      "B": "將會造成血量（blood volume）的增加",
+      "C": "將會抑制抗利尿激素（antidiuretic hormone）釋放",
+      "D": "將會刺激渴覺中樞之滲透度感受器（osmoreceptors）而飲用大量的水"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 2 題",
+    "question": "以下何者與調節情緒功能關係最弱？",
+    "options": {
+      "A": "Thalamus",
+      "B": "Limbic system",
+      "C": "Hypothalamus",
+      "D": "Brain stem"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 3 題",
+    "question": "當骨骼肌纖維在做等張收縮時，則下列敘述，何者正確？",
+    "options": {
+      "A": "肌節縮短及暗帶縮短",
+      "B": "肌節縮短及明帶縮短",
+      "C": "明帶縮短及暗帶縮短",
+      "D": "肌節縮短、暗帶縮短及明帶縮短"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 4 題",
+    "question": "當一個跑者快速向前跑，忽然遇到障礙物而必須於持續快跑中右轉，跑者能在此右轉過程維持平衡 不跌倒，以下何者是協助維持此種動態平衡之主要結構？",
+    "options": {
+      "A": "Utricle",
+      "B": "Saccule",
+      "C": "Semicircular ducts",
+      "D": "Basal ganglia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 5 題",
+    "question": "因動脈硬化而導致的腹主動脈瘤（abdominal aneurysm）容易發生破裂的原因為何？",
+    "options": {
+      "A": "高的血管壁應力（wall stress）",
+      "B": "高的血流速度",
+      "C": "高的血管阻力",
+      "D": "高的血管順應性（compliance）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 6 題",
+    "question": "以下何種反應不是典型的stress response？",
+    "options": {
+      "A": "血糖上升",
+      "B": "血壓上升",
+      "C": "瞳孔縮小",
+      "D": "汗腺分泌增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 7 題",
+    "question": "若病患之體循環動脈血含氧量為0.20 mL $O_2$/mL blood，肺動脈血含氧量為0.15 mL $O_2$/mL blood，而 其全身耗氧量為200 mL/min，則病患之心輸出量為多少mL/min？",
+    "options": {
+      "A": "5000",
+      "B": "4000",
+      "C": "2000",
+      "D": "1000"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 8 題",
+    "question": "下列那些接受器被刺激時，可導致肺通氣量（ventilation）增加？①周邊化學接受器 ②中樞化學接 受器 ③肺牽扯性接受器（pulmonary stretch receptors）",
+    "options": {
+      "A": "①②③",
+      "B": "①②",
+      "C": "①③",
+      "D": "③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 9 題",
+    "question": "下列何種情況會增加肺順應性（lung compliance）？",
+    "options": {
+      "A": "表面作用素（surfactant）分泌減少",
+      "B": "肺纖維化（fibrosis）",
+      "C": "肺水腫（lung edema）",
+      "D": "肺氣腫（emphysema）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 10 題",
+    "question": "大部分食物的消化與吸收發生在下列何處？",
+    "options": {
+      "A": "胃",
+      "B": "小腸",
+      "C": "大腸",
+      "D": "直腸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 11 題",
+    "question": "下列何者因受到十二指腸中葡萄糖所刺激而分泌，進而刺激胰島素（insulin）分泌？",
+    "options": {
+      "A": "胃抑素（gastric inhibitory polypeptide）",
+      "B": "胃泌素（gastrin）",
+      "C": "運動素（motilin）",
+      "D": "腸促胰泌素（secretin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 12 題",
+    "question": "下列何者會引發migrating myoelectric complex（MMC）的產生？",
+    "options": {
+      "A": "胃泌素（gastrin）",
+      "B": "運動素（motilin）",
+      "C": "正腎上腺素（norepinephrine）",
+      "D": "腸促胰泌素（secretin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 13 題",
+    "question": "在少量抗利尿激素分泌的情況下，下列那一段腎小管對水的通透性最小？",
+    "options": {
+      "A": "近側腎曲小管",
+      "B": "皮質收集管",
+      "C": "亨利氏彎管上升支",
+      "D": "髓質收集管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 14 題",
+    "question": "皮質醇（cortisol）可以：",
+    "options": {
+      "A": "促進介白質-1（IL-1）的產生",
+      "B": "抑制腫瘤壞死因子α（TNF-α）的產生",
+      "C": "促進介白質-2（IL-2）的產生",
+      "D": "促進攝護腺素（prostaglandin）的產生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 15 題",
+    "question": "由維生素D3（vitamin D3）轉變成為25-羥基維生素D3（25-OH-vitamin D3），主要發生於：",
+    "options": {
+      "A": "肝臟",
+      "B": "腎臟",
+      "C": "肺臟",
+      "D": "甲狀腺"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 16 題",
+    "question": "由精母細胞（spermatogonia）至精子（spermatozoa）約需幾日？",
+    "options": {
+      "A": "20",
+      "B": "40 至50",
+      "C": "70 至80",
+      "D": "90 至100"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 17 題",
+    "question": "腦中風患者的肢體可能會出現骨骼肌張力過高（hypertonia）的現象，下列有關肌張力（muscle tone） 的描述何者錯誤？",
+    "options": {
+      "A": "肌張力過高的現象主要與上行體感覺神經路徑（somatosensory pathway）的功能受損有關",
+      "B": "肌張力過高與alpha 運動神經元活性增高有關",
+      "C": "依臨床分類，alpha 運動神經元屬於下運動神經元（lower motor neurons）",
+      "D": "小腦損傷可能導致肌張力過低（hypotonia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 18 題",
+    "question": "視網膜（retina）含有光感受器（photoreceptor）及神經細胞，有些病人的視力缺損是由於視網膜的第 一及第二層剝離（retinal detachment）。下列有關視網膜的敘述何者錯誤？",
+    "options": {
+      "A": "視網膜的第一層（layer I）為色素上皮（pigment epithelium）",
+      "B": "桿狀細胞（rods）比椎狀細胞（cones）含有更多的光色素（photopigment）",
+      "C": "雙極細胞（bipolar cells）的軸突（axons）形成視神經纖維層（optic fiber layer）",
+      "D": "光色素（photopigment）的製造主要在光感受細胞的內節（inner segment of photoreceptor cells）完成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 19 題",
+    "question": "甲狀腺素是由那一種胺基酸轉變而成？",
+    "options": {
+      "A": "白胺酸（leucine）",
+      "B": "酪胺酸（tyrosine）",
+      "C": "甘胺酸（glycine）",
+      "D": "絲胺酸（serine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 20 題",
+    "question": "尿毒症病患可能合併發生貧血，請問此類病患需要何種造血生長激素之治療？",
+    "options": {
+      "A": "Thrombopoietin",
+      "B": "Erythropoietin",
+      "C": "Stem cell factor",
+      "D": "Granulocyte-colony stimulating factors"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 21 題",
+    "question": "一位病患發生左心室心肌梗塞後血壓降至70 mmHg，下列敘述何者錯誤？",
+    "options": {
+      "A": "心臟輸出量會下降",
+      "B": "左心房內壓力會上升",
+      "C": "肺微血管壓力會下降",
+      "D": "左心室收縮力會下降"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 22 題",
+    "question": "腎元分為表淺腎元（superficial nephron）與近髓質腎元（juxtamedullary nephron），下列腎小管那一 個部分不屬於表淺腎元？",
+    "options": {
+      "A": "近端腎小管（proximal tubule）",
+      "B": "亨氏管細上升支（thin ascending limb of Henle’s loop）",
+      "C": "亨氏管粗上升支（thick ascending limb of Henle’s loop）",
+      "D": "收集管（connecting tubule） 情況：陳女士今年55 歲患有糖尿病15 年之久。近半年來陳女士常有視力模糊、下肢水腫及尿中泡沫增多等 症狀。她在眼科檢查得知有糖尿病視網膜病變（diabetic retinopathy）。之後被轉介到腎臟科門診， 一系列檢查結果如下：血漿：BUN 42 mg/dL, Creatinine 3.0 mg/dL, $Na^+$ 145 mEq/L, $K^+$ 5.3 mEq/L, Albumin 3.0 g/dL, Cholesterol 350 mg/dL, Triglyceride 400 mg/dL。24 小時尿液檢查：Volume 1000 mL; Protein 450 mg/dL, Creatinine 120 mg/dL, $Na^+$ 44 mEq/L。請依此回答第23～24 題。"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 23 題",
+    "question": "請計算出陳女士的肌酸酐廓清率（clearance of creatinine, mL/min）：",
+    "options": {
+      "A": "56",
+      "B": "40",
+      "C": "28",
+      "D": "20"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 24 題",
+    "question": "因此陳女士計算的肌酸酐廓清率對其真正glomerular filtration rate（GFR）會：",
+    "options": {
+      "A": "高估，因肌酸酐可自腎小管分泌至尿液",
+      "B": "低估，因肌酸酐可自腎小管重吸收",
+      "C": "不變，因肌酸酐自腎小管重吸收及分泌",
+      "D": "不變，因肌酸酐不會自腎小管重吸收及分泌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 25 題",
+    "question": "臨床上高皮質醇血症（hypercortisolism）較不可能出現於：",
+    "options": {
+      "A": "腎上腺腫瘤",
+      "B": "醫源性庫辛氏症候群（iatrogenic Cushing’s syndrome）",
+      "C": "腦下垂體腫瘤併兩側腎上腺增生",
+      "D": "肥胖症"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 18 題",
+    "question": "有關補體系統（complement system）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "補體系統是諾貝爾獎得主Jules Bordet在血清中所發現一種對熱不穩定而且具有殺菌功能的物質",
+      "B": "補體系統所包含30幾種血漿蛋白主要由脾臟產生。平常這些蛋白以活化狀態存在，一旦有病原菌入侵可立即 反應",
+      "C": "補體系統可以經由傳統途徑（classical pathway）、替代途徑（alternative pathway）或凝集素（lectin pathway）來啟動一系列蛋白酶的反應",
+      "D": "補體活化後的產物可具備調理作用（opsonization）、趨化作用（chemotaxis）、促進吞噬作用及發炎反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 19 題",
+    "question": "下列關於MHC class I 的敘述何者錯誤 ？",
+    "options": {
+      "A": "MHC class I 的功能主要為呈獻內源性抗原，並激活CD8 T淋巴細胞",
+      "B": "MHC class I 比 MHC class II 呈獻較長的胜肽（約13～17個胺基酸）",
+      "C": "MHC class I 輕鏈為β2-microglobulin",
+      "D": "MHC class I 主要的胜肽接合處位於α1與α2 domain"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 20 題",
+    "question": "V(D)J重組的過程有許多蛋白參與，下列有關這些蛋白和其功能的敘述何者錯誤？",
+    "options": {
+      "A": "RAG-1 和RAG-2：辨識recombination signal sequences（RSS）之後產生DNA斷裂",
+      "B": "DNA ligase IV 和XRCC4：連結DNA的斷裂點",
+      "C": "Artemis：具有nuclease activity可以打開DNA hairpin結構，產生P-nucleotide",
+      "D": "TdT：和Ku蛋白結合後，可以標記DNA的斷裂點或異常的結構"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 21 題",
+    "question": "利用免疫檢查點，細胞毒素的T淋巴細胞關聯蛋白質4（CTLA-4, CD152）可藉由競爭何種T淋巴細胞活化路 徑，達到免疫抑制，而有助腫瘤細胞免疫逃脫？",
+    "options": {
+      "A": "CD28 - B7.1",
+      "B": "OX40 - OX40 ligand",
+      "C": "CD8 - MHC class I",
+      "D": "LFA-1- ICAM-1"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 22 題",
+    "question": "下列何種細胞激素並非由TH2細胞（TH2 cell）所分泌？",
+    "options": {
+      "A": "IL-4",
+      "B": "IL-5",
+      "C": "IL-12",
+      "D": "IL-13"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 23 題",
+    "question": "下列有關B細胞活化的敘述，何者錯誤？",
+    "options": {
+      "A": "胸腺依賴型（thymus-dependent）抗原是蛋白質，在和BCR結合後經由胞吞作用分解成peptides抗原呈獻給T 細胞，活化T細胞表現CD19 ligand結合到B細胞，傳遞第二訊號來促進B細胞的完全活化",
+      "B": "LPS為thymus-independent 抗原，可以在缺乏T細胞的小鼠中刺激B細胞活化及細胞分裂，也可促進漿細胞分 化，分泌IgM抗體",
+      "C": "B型嗜血桿菌（Haemophilus influenza, type b）疫苗的組成包含細菌的莢膜多醣體結合載體蛋白（carrier proteins），莢膜多醣體由B細胞辨識，T細胞辨識蛋白質部分，但遺傳性免疫缺失疾病Wiskott-Aldrich syndrome病人因為T細胞和B細胞交互作用有問題，導致B細胞無法順利分化成漿細胞，因此抗莢膜多醣體的 專一性抗體產量很低，無法達到保護效果",
+      "D": "B型嗜血桿菌（Haemophilus influenza, type b）疫苗的組成包含細菌的莢膜多醣體結合載體蛋白（carrier proteins），這樣的設計是因為莢膜多醣體為thymus-independent抗原，單獨使用無法刺激良好的免疫反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 24 題",
+    "question": "疫苗的開發大幅度減少了感染症對人類的威脅，有關疫苗的敘述何者最不適當？",
+    "options": {
+      "A": "疫苗有減毒疫苗（attenuated vaccine）及非活性疫苗（killed vaccine）。雖然減毒疫苗的效果較好，它的風險 也比較大",
+      "B": "不論任何途徑給與疫苗都不會影響免疫反應的效果，因此大多數的疫苗都是用肌肉注射的方式",
+      "C": "通常有效的疫苗都會引起抗體反應去阻止病原的入侵或是中和毒素的作用",
+      "D": "以蛋白或胜肽為主的疫苗（protein or peptide-based vaccine）通常需要佐劑（adjuvant）去加強免疫反應，而 佐劑的作用主要是活化先天免疫反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 25 題",
+    "question": "關於臺灣重要過敏原之敘述，下列何者正確？",
+    "options": {
+      "A": "貓狗等寵物產生的過敏原屬於此類",
+      "B": "在乾燥高溫的環境裡容易滋長",
+      "C": "節肢動物的排泄物是重要的過敏原",
+      "D": "致敏生物的體型微小，需要電子顯微鏡才可以看見"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 26 題",
+    "question": "下列何種自體免疫疾病最不可能因母親的自體抗體經由穿過胎盤導致新生兒產生相關疾病？",
+    "options": {
+      "A": "Graves' disease",
+      "B": "Ｍyasthenia gravis",
+      "C": "thrombocytopenic purpura",
+      "D": "type 1 DM（diabetes mellitus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 27 題",
+    "question": "2018年諾貝爾獎頒給開發以CTLA-4及PD-1分子為基礎的癌症免疫治療學者。阻斷個體內CTLA-4及PD-1分子 的作用對於腫瘤細胞的主要影響是：",
+    "options": {
+      "A": "抑制了間質細胞及自然殺手細胞的作用，而增加腫瘤細胞的生長及移轉",
+      "B": "抑制腫瘤內B淋巴球的磷酸酶活性，而增加腫瘤細胞的生長及移轉",
+      "C": "經由抑制淋巴球活化時的負性調控作用，增加抗腫瘤T淋巴球的活性，進而殺死腫瘤細胞",
+      "D": "經由活化含有ITIMs（immunoreceptor tyrosine-based inhibitory motifs）結構的分子作用，抑制腫瘤細胞的生 長及分化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 28 題",
+    "question": "移植物對抗宿主病（graft-versus-host disease）最常發生在：",
+    "options": {
+      "A": "造血幹細胞移植（hematopoietic stem cell transplantation）",
+      "B": "腎移植（kidney transplantation）",
+      "C": "肝移植（liver transplantation）",
+      "D": "心臟移植（heart transplantation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

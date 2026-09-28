@@ -1,0 +1,321 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 1 題",
+    "question": "氯-碳酸氫根交換器（$Cl^-$-HCO3 - exchanger）不參與下列何種生理現象？",
+    "options": {
+      "A": "二氧化碳在血中之運輸",
+      "B": "胃酸分泌",
+      "C": "細胞體積之調節",
+      "D": "細胞膜電位（membrane potential）之調節"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 2 題",
+    "question": "下列有關一氧化氮（nitric oxide）之敘述，何者正確？",
+    "options": {
+      "A": "是化學性傳遞物質（chemical messenger）可活化 adenylate cyclase",
+      "B": "由 L-arginine 與氧分子作用形成",
+      "C": "可導致血管壁收縮（constriction of blood vessels）",
+      "D": "是極安定之氣體分子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 3 題",
+    "question": "感冒高燒不退，主要是因為下列那一腦區的活性被發炎物質干擾所致？",
+    "options": {
+      "A": "preoptic nucleus",
+      "B": "suprachiasmatic nucleus",
+      "C": "arcuate nucleus",
+      "D": "supraoptic nucleus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 4 題",
+    "question": "下列何者是掌控與維持姿勢相關的中軸肌肉（axial muscles）收縮的最主要運動路徑？",
+    "options": {
+      "A": "側皮質脊髓路徑（lateral corticospinal tract）",
+      "B": "腹皮質脊髓路徑（ventral corticospinal tract）",
+      "C": "網狀脊髓路徑（reticulospinal tract）",
+      "D": "紅核脊髓路徑（rubrospinal tract）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 5 題",
+    "question": "下列何者並沒有參與瞳孔的光反射作用（light reflex）？",
+    "options": {
+      "A": "iris",
+      "B": "parasympathetic nerve",
+      "C": "medial geniculate body",
+      "D": "ciliary ganglion"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 6 題",
+    "question": "Unmyelinated C fibers主要與下列何種感覺有關？",
+    "options": {
+      "A": "pressure",
+      "B": "smell",
+      "C": "touch",
+      "D": "temperature"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 7 題",
+    "question": "下列有關平滑肌之敘述，何者錯誤？",
+    "options": {
+      "A": "具有終生分裂之能力",
+      "B": "thin actin-containing filament參與收縮功能",
+      "C": "藉由sliding filament mechanism參與收縮功能",
+      "D": "dense body存在於細胞核中"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 8 題",
+    "question": "在blood coagulation pathway的最後一步，促使fibrinogen轉化成fibrin的物質為何？",
+    "options": {
+      "A": "von Willebrand factor",
+      "B": "factor V",
+      "C": "thrombin",
+      "D": "plasminogen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 9 題",
+    "question": "車禍大量失血時，於事發後的一小時，體內會藉由那些機制來維持血壓之恆定？①感壓反射（baroreflex） ②腎臟－血液容積 壓力之調控（renal-blood volume pressure control） ③腎素－血管張力素－血管收縮作用（renin-angiotensin- vasoconstriction） ④體液回收至微血管（capillary fluid shift）",
+    "options": {
+      "A": "①②④",
+      "B": "①②③",
+      "C": "①③④",
+      "D": "②③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 10 題",
+    "question": "下列那些因素可導致腹腔靜脈壓（venous pressure）之增加？①靜脈的順應性（venous compliance）增加 ②投射至靜脈的 交感神經活性（sympathetic activity）增加 ③吸氣活動（inspiration movements） ④全身血量（blood volume）增加",
+    "options": {
+      "A": "①②③",
+      "B": "①②④",
+      "C": "②③④",
+      "D": "①③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 11 題",
+    "question": "下列何者可解釋持續性心衰竭（persisting heart failure）的病人引起腿部或足部水腫的主要原因？",
+    "options": {
+      "A": "靜脈壓增加",
+      "B": "血漿蛋白濃度增加",
+      "C": "淋巴流量增加",
+      "D": "微血管通透性降低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 12 題",
+    "question": "下列何者可以增加氧氣和血紅素的結合量？①增加氧氣分壓（oxygen partial pressure） ②降低pH值 ③增加二氧化碳分壓 ④增加二磷酸甘油（2,3-diphosphoglycerate; 2,3-DPG）濃度",
+    "options": {
+      "A": "僅①",
+      "B": "僅②③",
+      "C": "僅①④",
+      "D": "②③④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 13 題",
+    "question": "劇烈運動時，體循環不會發生下列何種現象？",
+    "options": {
+      "A": "紅血球內的重碳酸氫根離子（HCO3 -）進入血漿",
+      "B": "大部分溶解態的二氧化碳進入紅血球",
+      "C": "碳酸（H2CO3）於紅血球中被合成及解離",
+      "D": "血球內的氯離子進入血漿"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 14 題",
+    "question": "平靜吸氣（quiet inspiration）過程中，不會發生下列何種現象？",
+    "options": {
+      "A": "膈神經（phrenic nerve）興奮",
+      "B": "內肋間肌（internal intercostal muscle）收縮",
+      "C": "肋膜內壓（intrapleural pressure, Pip）下降",
+      "D": "肺臟之彈性回復力（elastic recoil）增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 15 題",
+    "question": "下列十二指腸內之何種狀況最容易抑制胃的排空（gastric empty）？",
+    "options": {
+      "A": "低張性（hypotonicity）",
+      "B": "pH值偏高",
+      "C": "高脂食糜",
+      "D": "低蛋白食糜"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 16 題",
+    "question": "下列那個情況會造成胃液分泌下降？",
+    "options": {
+      "A": "intrinsic factor分泌增加",
+      "B": "迷走神經釋放乙醯膽鹼（ACh）",
+      "C": "十二指腸的腸嗜鉻細胞（enterochromaffin cells）釋放血清素（serotonin）",
+      "D": "食物從胃排空到十二指腸"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 17 題",
+    "question": "中樞神經系統中，偵測體液滲透壓，並參與調節抗利尿激素（anti-diuretic hormone）分泌的滲透壓性受器（osmoreceptor） 之分布最接近下列何處？",
+    "options": {
+      "A": "視上核（supraoptic nucleus）",
+      "B": "錐體皮質（pyramidal cortex）",
+      "C": "錐體交叉（pyramidal decussation）",
+      "D": "內側蹄狀系統（medial lemniscus system）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 18 題",
+    "question": "下列何者不是腎臟分泌的？",
+    "options": {
+      "A": "紅血球生成素（erythropoietin）",
+      "B": "腎素（renin）",
+      "C": "鈣三醇（calcitriol）",
+      "D": "醛固酮（aldosterone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 19 題",
+    "question": "關於集尿管（collecting duct）對於水分再吸收的描述，下列何者錯誤？",
+    "options": {
+      "A": "剛進入集尿管的腎小管內液屬低張溶液（hypotonic solution）",
+      "B": "集尿管受到抗利尿激素（antidiuretic hormone）作用而改變其對於水分的通透性與再吸收",
+      "C": "集尿管主要利用第一型水通道（aquaporin-1）增加水分再吸收",
+      "D": "在極需水分的狀況下，高達99.7%的水分可被再吸收回到體循環"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ、 Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 20 題",
+    "question": "下列有關胰島素的描述，何者錯誤？",
+    "options": {
+      "A": "腦神經細胞對葡萄糖的吸收需要依賴胰島素",
+      "B": "胰島素敏感性細胞多含有第四型葡萄糖轉運蛋白（GLUT4）",
+      "C": "胰島素可以增加脂肪細胞對葡萄糖的吸收作用",
+      "D": "胰島素可以增加骨骼肌之肝醣合成作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 21 題",
+    "question": "下列何者是造成hyperthyroidism病症最常見的可能原因是？",
+    "options": {
+      "A": "Graves' disease",
+      "B": "Hashimoto's disease",
+      "C": "碘攝取不足",
+      "D": "腦部外傷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 22 題",
+    "question": "下列與骨重塑作用（bone remodeling）之相關敘述，何者錯誤？",
+    "options": {
+      "A": "是調節細胞外液鈣磷平衡的重要機轉",
+      "B": "噬骨細胞（osteoclast）是從纖維母細胞（fibroblast）分化而來，具多核及吞噬功能",
+      "C": "造骨細胞（osteoblast）會分泌製造第一型膠原蛋白",
+      "D": "骨重塑作用會受到血中副甲狀腺濃度所調控"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 23 題",
+    "question": "下列何者並非由proopiomelanocortin（POMC）代謝所生成？",
+    "options": {
+      "A": "ACTH",
+      "B": "β-lipotropin",
+      "C": "α-MSH",
+      "D": "CRH"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 24 題",
+    "question": "下列造成庫欣氏症候群（Cushing syndrome）的成因中，何者與促腎上腺皮質激素（ACTH）的過度分泌無關？",
+    "options": {
+      "A": "先天性腎上腺增生症（congenital adrenal hyperplasia）",
+      "B": "腦下垂體前葉產生促腎上腺皮質激素分泌腫瘤（ACTH-secreting tumor）",
+      "C": "下視丘促腎上腺皮質激素釋放激素（CRH）分泌過量",
+      "D": "異位性促腎上腺皮質激素分泌過多症（ectopic ACTH syndrome）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 25 題",
+    "question": "為治療男性陰莖海綿體的勃起（erection）障礙，下列何者為最不可能採取的策略或方法？",
+    "options": {
+      "A": "增加nitric oxide（NO）的合成量",
+      "B": "活化guanylyl cyclase的活性",
+      "C": "促進phosphodiesterase的活性",
+      "D": "延長cyclic GMP（cGMP）存在的時間"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 29 題",
+    "question": "張先生嗜吃生魚片，最近常出現腹部絞痛、腹鳴（borborygmus）、腹瀉、厭食、噁心、嘔吐及低血壓等症 狀，並伴隨有低蛋白血症、低血鉀及低血鈣等嚴重電解質失衡病症，張先生最有可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "B": "海獸胃線蟲（Anisakis spp.）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "有棘頜口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 30 題",
+    "question": "關於廣東住血線蟲（Angiostrongylus cantonensis）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "感染人體會引起嗜伊紅性腦膜炎（eosinophilic meningitis）",
+      "B": "確認診斷是在腦脊髓液中發現蟲體",
+      "C": "吃生菜沙拉不會感染",
+      "D": "患者腦脊髓液中嗜酸性白血球（eosinophil）異常增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 31 題",
+    "question": "有關人類感染顆粒性包生絛蟲（Echinococcus granulosus）之敘述，下列何者正確 ？",
+    "options": {
+      "A": "人類係食入生的或未煮熟的羊肉而感染",
+      "B": "會在患者肝臟形成包生囊（hydatid cyst）",
+      "C": "病灶區切面呈現肺泡狀囊（alveolar cyst），並有許多空腔",
+      "D": "可在患者糞便中檢出六鉤幼蟲（oncosphere）卵"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 32 題",
+    "question": "下列何種寄生蟲感染，最不可能在人類腦部造成異位病變（ectopic lesion），引起嚴重的臨床症狀？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "衛氏肺吸蟲（Paragonimus westermani）",
+      "C": "薑片蟲（Fasciolopsis buski）",
+      "D": "異形異形吸蟲（Heterophyes heterophyes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 33 題",
+    "question": "有關罹患瘧疾（malaria）後產生併發症的敘述，下列何者正確？",
+    "options": {
+      "A": "腎絲球性腎炎（glomerulonephritis）：係因三日瘧原蟲（Plasmodium malariae）感染後，過多的原蟲沉積在 腎絲球所造成的病變",
+      "B": "黑水熱（blackwater fever）：和自體免疫有關，患者產生抗體攻擊受瘧原蟲感染的紅血球，導致破裂而造成",
+      "C": "熱帶脾腫大症候群（tropical splenomegaly syndrome）：患者體內 T 淋巴球的大量增生所致",
+      "D": "低血糖症（hypoglycemia）：特別是在惡性瘧原蟲（Plasmodium falciparum）發作時，血壓快速降低並伴隨 高寄生蟲血症（hyperparasitemia）有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 34 題",
+    "question": "人類因誤食受感染之貓（狗）蚤（flea），最可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "犬蛔蟲（Toxocara canis）",
+      "B": "犬複殖器絛蟲（Dipylidium caninum）",
+      "C": "犬鉤蟲（Ancylostoma caninum）",
+      "D": "菲律賓毛線蟲（Capillaria philippinensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 35 題",
+    "question": "采采蠅（tsetse fly）可經叮咬而傳播下列何種人類寄生蟲？",
+    "options": {
+      "A": "熱帶利什曼原蟲（Leishmania tropica）",
+      "B": "杜氏利什曼原蟲（Leishmania donovani）",
+      "C": "岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "枯西氏錐蟲（Trypanosoma cruzi）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

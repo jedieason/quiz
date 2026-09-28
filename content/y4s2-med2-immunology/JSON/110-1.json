@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 18 題",
+    "question": "阿吉最近得了流行性感冒，他聽老師說病毒感染沒有特效藥可以吃，於是他就決定做一個實驗，不看醫生也 不吃藥，結果在兩個星期後，真的自然好了，所有流鼻涕、咳嗽及發燒的症狀都消失。有關這段時間中阿吉 體內的免疫反應之敘述何者錯誤？",
+    "options": {
+      "A": "在病毒感染的幾個小時內，阿吉的肺部會有大量的細胞激素（cytokines），包含第一及第三型干擾素 （interferons）的產生，並且讓肺部的細胞進入抗病毒狀態",
+      "B": "在病毒感染的幾個小時到幾天內，阿吉肺部的自然殺手細胞（natural killer cell, NK cell）會開始作用，殺死 被病毒感染的細胞",
+      "C": "在病毒感染的幾天後，CD8 T細胞會在淋巴結中被活化並進行抗體依賴性的細胞毒殺作用（ADCC），進一 步殺死被病毒感染的細胞，並清除病毒",
+      "D": "在病毒感染的幾天後，B細胞會被活化，並進一步分化成漿細胞（plasma cell）而分泌抗體，抗體可以經由 血液循環去中和病毒來防止病毒擴散到全身"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 19 題",
+    "question": "下列何種補體調控蛋白（complement-regulatory proteins）是直接干擾C9的聚合化以抑制膜攻擊複合物 （membrane attack complex, MAC）的形成？",
+    "options": {
+      "A": "CD59",
+      "B": "membrane cofactor of proteolysis（MCP, CD46）",
+      "C": "decay-accelerating factor（DAF, CD55）",
+      "D": "C1 inhibitor"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 20 題",
+    "question": "大部分的專業性吞噬細胞也同時可執行專業性抗原呈獻細胞（antigen-presenting cells）的功能，將抗原呈獻給 CD4 T細胞。其主要的原因是這群專業性抗原呈獻細胞大量表現：",
+    "options": {
+      "A": "MHC class I分子",
+      "B": "MHC class II分子",
+      "C": "MHC class III分子",
+      "D": "pattern recognition receptors"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 21 題",
+    "question": "抗體多樣性（antibody diversity）的機制是抗體可辨識各式各樣抗原的主要原因，有關抗體多樣性的敘述何者 錯誤？",
+    "options": {
+      "A": "Susumu Tonegawa教授因發現抗體多樣性的遺傳及分子作用原理獲得諾貝爾醫學獎",
+      "B": "抗體多樣性是在B細胞的發育過程所產生的結果",
+      "C": "在B細胞發育過程所造成的抗體多樣性包含組合多樣性（combinatorial diversity）及連接多樣性（junctional diversity）",
+      "D": "當活化的B細胞進行抗體轉換（isotype switching）時也會貢獻抗體多樣性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 22 題",
+    "question": "2018年諾貝爾醫學獎頒發給2位對癌症免疫療法有重大貢獻的科學家，James P. Allison與Tasuku Honjo因開發 CTLA-4與PD-1在癌症治療的應用而獲獎。下列有關免疫系統和腫瘤細胞交互作用的敘述，何者錯誤？",
+    "options": {
+      "A": "腫瘤細胞如果表現腫瘤特定抗原，可以引發專一性的毒殺性T細胞（cytotoxic T cells）來清除腫瘤",
+      "B": "腫瘤細胞如果累積突變，可以表現CTLA-4在其細胞表面，因此抑制T細胞的反應",
+      "C": "除了毒殺性T細胞（cytotoxic T cells）之外，自然殺手細胞（natural killer cells）也會清除腫瘤",
+      "D": "讓癌症病人施打對抗CTLA-4或PD-1的抗體是一種癌症的免疫療法，可以阻斷抑制訊號，進而活化T細胞來 清除腫瘤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 23 題",
+    "question": "不同的抗體類型（class 或稱 isotype）具有不同功能是因為抗體的Fc能夠藉由與Fc受體（Fc receptor）的結合 去啟動不同免疫細胞的反應，下列有關Fc受體的敘述何者錯誤？",
+    "options": {
+      "A": "Fc受體可以是單體（monounit）或是以複合體（multisubunit complex）的形式存在細胞表面",
+      "B": "不同亞型（subclasses）的抗體可以和同一種的Fc受體結合，而且它們和Fc受體的親合力也都一樣",
+      "C": "處於自由狀態的抗體（free antibody）可以和Fc受體結合，經抗原結合後的抗體會傳遞訊號去活化或抑制表 現Fc受體的免疫細胞的功能",
+      "D": "大部分表現Fc受體都是具有吞噬能力的細胞如巨噬細胞和嗜中性球，而且當細菌同時被抗體和補體結合後， 吞噬細胞的Fc受體和補體受體CR1的同時作用會引發更強烈的吞噬反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 24 題",
+    "question": "黏膜（mucosa）組織對食物抗原例如麩質蛋白（gluten）所產生的抗體主要種類為：",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgM",
+      "D": "IgD"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 25 題",
+    "question": "下列何種作用最適合描述結核桿菌（Mycobacterium tuberculosis）的免疫逃脫（immune evasion）機制？",
+    "options": {
+      "A": "antigenic drift（gene mutation）",
+      "B": "gene conversion（gene rearrangement）",
+      "C": "阻斷MHC class I pathway",
+      "D": "抑制吞噬體（phagosome）與溶酶體（lysosome）的融合"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 26 題",
+    "question": "有關tumor immunoediting的敘述，下列何者錯誤？",
+    "options": {
+      "A": "免疫監測系統會導致腫瘤細胞產生突變",
+      "B": "免疫監測系統會導致腫瘤細胞產生的抗原表現消失",
+      "C": "免疫監測系統會導致腫瘤細胞產生的細胞特性改變",
+      "D": "促進T細胞對腫瘤細胞的毒殺能力，導致腫瘤縮小"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 27 題",
+    "question": "當病人接受腎臟移植後10分鐘內就發生排斥，其主要原因是：",
+    "options": {
+      "A": "MHC class I不合",
+      "B": "MHC class II不合",
+      "C": "病人體內已存有對抗移植物的抗體",
+      "D": "H抗原不合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 28 題",
+    "question": "用來治療non-Hodgkin's lymphoma的Rituximab（anti-CD20 monoclonal antibody）主要可以剔除何種免疫細胞？",
+    "options": {
+      "A": "CD4 T cell",
+      "B": "CD8 T cell",
+      "C": "B cell",
+      "D": "dendritic cell"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

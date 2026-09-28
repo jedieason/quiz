@@ -1,0 +1,338 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 1 題",
+    "question": "下列何者的血液，不回流至內頸靜脈（internal jugular vein）？",
+    "options": {
+      "A": "下岩竇（inferior petrosal sinus）",
+      "B": "面靜脈（facial vein）",
+      "C": "咽靜脈（pharyngeal vein）",
+      "D": "下甲狀腺靜脈（inferior thyroid vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 2 題",
+    "question": "三叉神經（trigeminal nerve）之分支接受：",
+    "options": {
+      "A": "第七顱神經所發出之副交感神經纖維伴行，控制瞳孔括約肌（sphincter pupillae）",
+      "B": "舌咽神經（glossopharyngeal nerve）所發出之副交感神經纖維伴行，控制耳下腺（parotid gland）",
+      "C": "第三顱神經所發出之副交感神經纖維伴行，控制淚腺（lacrimal gland）",
+      "D": "舌下神經（hypoglossal nerve）所發出之副交感神經纖維伴行，控制舌下腺（sublingual gland）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 3 題",
+    "question": "壁層胸膜（parietal pleura）的淋巴，最可能回流到下列那個淋巴結（lymph node）？",
+    "options": {
+      "A": "腋（axillary）",
+      "B": "支氣管肺（bronchopulmonary）",
+      "C": "氣管支氣管（tracheobronchial）",
+      "D": "支氣管縱隔（bronchomediastinal）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 4 題",
+    "question": "胃飽足的感覺主要由下列何者攜帶？",
+    "options": {
+      "A": "內臟大神經（greater splanchnic nerve）",
+      "B": "內臟小神經（lesser splanchnic nerve）",
+      "C": "內臟最小神經（least splanchnic nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 5 題",
+    "question": "膀胱主要被腹膜覆蓋的部分是：",
+    "options": {
+      "A": "後面",
+      "B": "側下面",
+      "C": "上表面",
+      "D": "膀胱頸"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 6 題",
+    "question": "直腸上段的淋巴主要匯流入下列那個淋巴結？",
+    "options": {
+      "A": "髂內淋巴結（internal iliac lymph nodes）",
+      "B": "腰淋巴結（lumbar lymph nodes）",
+      "C": "腹股溝淺淋巴結（superficial inguinal lymph nodes）",
+      "D": "腸繫膜下淋巴結（inferior mesenteric lymph nodes）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 7 題",
+    "question": "有關大骨盆（greater pelvis）的敘述，下列何者正確？",
+    "options": {
+      "A": "位於骨盆入口（pelvic inlet）下方",
+      "B": "男性較女性寬且淺",
+      "C": "內含乙狀結腸（sigmoid colon）",
+      "D": "內含腎臟（kidney）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 8 題",
+    "question": "下列何者不是連接不同骨頭間的韌帶？",
+    "options": {
+      "A": "胸鎖韌帶（sternoclavicular ligament）",
+      "B": "喙肩韌帶（coracoacromial ligament）",
+      "C": "喙鎖韌帶（coracoclavicular ligament）",
+      "D": "喙肱韌帶（coracohumeral ligament）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 9 題",
+    "question": "手部鼻煙區（snuff box）觸摸到的脈搏是下列何者的脈動？",
+    "options": {
+      "A": "橈動脈（radial artery）",
+      "B": "尺動脈（ulnar artery）",
+      "C": "骨間前動脈（anterior interosseous artery）",
+      "D": "骨間後動脈（posterior interosseous artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 10 題",
+    "question": "下列何者受損，最可能造成前臂（forearm）無法伸直（extension）？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 11 題",
+    "question": "下列何構造損傷，最可能導致感覺型失語症（sensory aphasia）？",
+    "options": {
+      "A": "上丘（superior colliculus）",
+      "B": "弓狀束（arcuate fasciculus）",
+      "C": "渥尼克區(Wernicke area)",
+      "D": "前聯合（anterior commissure）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 12 題",
+    "question": "下列何者屬味覺皮質區？",
+    "options": {
+      "A": "島葉（insula）",
+      "B": "枕葉（occipital lobe）",
+      "C": "內側額葉（medial frontal lobe）",
+      "D": "背外側額葉（dorsal lateral frontal lobe）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 13 題",
+    "question": "有關網狀結構（reticular formation）核群，下列何者以正腎上腺素（norepinephrine）為主要神經傳遞物質？",
+    "options": {
+      "A": "藍斑核（locus coeruleus）",
+      "B": "縫核（raphe nucleus）",
+      "C": "腹側被蓋區 (ventral tegmental area）",
+      "D": "腳橋網狀核（pedunculopontine reticular nucleus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 14 題",
+    "question": "初級視覺皮質（primary visual cortex）位於下列何Brodmann area？",
+    "options": {
+      "A": "19",
+      "B": "17",
+      "C": "22",
+      "D": "45"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 15 題",
+    "question": "甲狀腺（thyroid gland）手術，最可能造成下列何神經受損？",
+    "options": {
+      "A": "喉內神經（internal laryngeal nerve）",
+      "B": "膈神經（phrenic nerve）",
+      "C": "頸襻下根（inferior root of ansa cervicalis）",
+      "D": "喉返神經（recurrent laryngeal nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 16 題",
+    "question": "病患的上眼瞼下垂（ptosis），最可能是由於下列何者受損所造成？",
+    "options": {
+      "A": "外旋神經（abducent nerve）",
+      "B": "滑車神經（trochlear nerve）",
+      "C": "視神經（optic nerve）",
+      "D": "動眼神經（oculomotor nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 17 題",
+    "question": "上頜竇的開口（opening of maxillary sinus）位於鼻腔側壁何處？",
+    "options": {
+      "A": "篩泡（ethmoidal bulla）",
+      "B": "半月裂（semilunar hiatus）",
+      "C": "下鼻道（inferior nasal meatus）",
+      "D": "上鼻道（superior nasal meatus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 18 題",
+    "question": "有關顳頜關節（temporomandibular joint）之敘述，下列何者正確？",
+    "options": {
+      "A": "莖突下頜韌帶（stylomandibular ligament）附著在下頜骨的舌部（lingula of mandible）",
+      "B": "蝶骨下頜韌帶（sphenomandibular ligament）附著在下頜角（angle of mandible）",
+      "C": "翼外肌（lateral pterygoid muscle）收縮造成下頜骨的前引（protrusion）",
+      "D": "顳頜關節的關節盤是由彈性軟骨（elastic cartilage）構成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 19 題",
+    "question": "心肌梗塞時產生左前胸或左上臂的轉移痛，此體表位置的感覺，由下列何者傳導？",
+    "options": {
+      "A": "迷走神經",
+      "B": "膈神經",
+      "C": "交感神經幹",
+      "D": "肋間神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 20 題",
+    "question": "右側乳房淋巴系統，通常不會直接匯入：",
+    "options": {
+      "A": "鎖骨下淋巴幹（subclavian trunk）",
+      "B": "胸管（thoracic duct）",
+      "C": "腋淋巴結（axillary lymph nodes）",
+      "D": "胸骨旁淋巴結（parasternal lymph nodes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 21 題",
+    "question": "有關構造與橫膈開口的對應，下列何者正確？",
+    "options": {
+      "A": "胸管－食道裂孔",
+      "B": "奇靜脈－主動脈裂孔",
+      "C": "迷走神經－下腔靜脈裂孔",
+      "D": "交感神經幹－主動脈裂孔"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 22 題",
+    "question": "心臟傳導系統中，竇房結（SA node）與房室結（AV node）的血管供應配對，下列何者正確？",
+    "options": {
+      "A": "右冠狀動脈、左迴旋支",
+      "B": "右冠狀動脈、右冠狀動脈",
+      "C": "右冠狀動脈、左前降支",
+      "D": "左迴旋支、左前降支"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 23 題",
+    "question": "位於腰大肌（psoas major muscle）內側的腰神經叢分支是：",
+    "options": {
+      "A": "股神經（femoral nerve）",
+      "B": "生殖股神經（genitofemoral nerve）",
+      "C": "髂腹股溝神經（iliohypogastric nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 24 題",
+    "question": "子宮摘除手術結紮子宮動脈（uterine artery）後，仍有出血現象，此血液最可能來自下列何者的分支？",
+    "options": {
+      "A": "上膀胱動脈（superior vesical artery）",
+      "B": "下直腸動脈（inferior rectal artery）",
+      "C": "卵巢動脈（ovarian artery）",
+      "D": "閉孔動脈（obturator artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 25 題",
+    "question": "下列何者不形成骨盆入口（pelvic inlet）的界限？",
+    "options": {
+      "A": "薦岬（promontory）",
+      "B": "髂嵴（iliac crest）",
+      "C": "恥骨嵴（pubic crest）",
+      "D": "弓狀線（arcuate line）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 26 題",
+    "question": "下列那三塊肌肉的肌腱一起附著於脛骨粗隆的內側（medial side of tibial tuberosity）？",
+    "options": {
+      "A": "股薄肌（gracilis）、縫匠肌（sartorius）、半膜肌（semimembranosus）",
+      "B": "股薄肌（gracilis）、縫匠肌（sartorius）、半腱肌（semitendinosus）",
+      "C": "股二頭肌（biceps femoris）、半膜肌（semimembranosus）、半腱肌（semitendinosus）",
+      "D": "內收長肌（adductor longus）、內收短肌（adductor brevis）、內收大肌（adductor magnus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 27 題",
+    "question": "下列何者與旋後肌（supinator）由相同的神經支配？",
+    "options": {
+      "A": "旋前圓肌（pronator teres）",
+      "B": "旋前方肌（pronator quadratus）",
+      "C": "伸拇指短肌（extensor pollicis brevis）",
+      "D": "外展拇指短肌（abductor pollicis brevis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 28 題",
+    "question": "下列何者附著於肩胛棘（spine of scapula）？",
+    "options": {
+      "A": "斜方肌（trapezius muscle）",
+      "B": "提肩胛肌（levator scapulae muscle）",
+      "C": "後上鋸肌（serratus posterior superior muscle）",
+      "D": "後下鋸肌（serratus posterior inferior muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

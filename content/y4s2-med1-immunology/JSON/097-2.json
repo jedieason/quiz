@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 62 題",
+    "question": "將豬的心臟代替人類衰竭的心臟之移植手術，最大的障礙是：",
+    "options": {
+      "A": "人類已經產生對別種哺乳動物細胞表面α-Gal 之抗體，因而有超急性排斥（hyperacute rejection）",
+      "B": "發炎性血管傷害（inflammatory vascular injury）導致之慢性排斥（chronic rejection）",
+      "C": "目前術後之抗排斥藥物使用尚未達成共識",
+      "D": "豬的病毒感染問題無法釐清"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 63 題",
+    "question": "自體抗原與致病微生物之抗原類似cross reactivity 可以引起疾病，但下列何者並非如此？",
+    "options": {
+      "A": "黴漿菌感染後之貧血症（anemia after mycoplasma infection）",
+      "B": "鏈球菌感染後之腎絲球腎炎（post-streptococcal glomerulonephritis）",
+      "C": "Grave 氏病（Graves’disease）",
+      "D": "風濕熱（rheumatic fever）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 64 題",
+    "question": "導致因血型不符所引起的輸血反應（transfusion reaction）的機制是：",
+    "options": {
+      "A": "立即性過敏免疫反應（immediate hypersensitivity）",
+      "B": "T 細胞媒介的過敏反應（T cell-mediated hypersensitivity）",
+      "C": "免疫複合體媒介的過敏反應（immune complex-mediated hypersensitivity）",
+      "D": "抗體媒介的毒殺作用（antibody-mediated cytotoxicity）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 65 題",
+    "question": "如果將兩個不同的inbred strain 老鼠，A 及B 品系交配而產生子代F1，接著再將F1 老鼠互相交配而得 到子代F2。此時如果將F1 老鼠的皮膚移植到任一隻F2 時，F1 老鼠的皮膚被F2 老鼠接受的比例 （%）為何？",
+    "options": {
+      "A": "100",
+      "B": "75",
+      "C": "50",
+      "D": "25"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 66 題",
+    "question": "下列有關新生兒免疫力的敘述，何者正確？",
+    "options": {
+      "A": "不具免疫保護能力",
+      "B": "透過胎盤獲得母親的IgM",
+      "C": "自身最早製造出來的是IgM",
+      "D": "具有成年人IgE 的量"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 67 題",
+    "question": "特異性免疫反應和非特異性免疫反應除了專一性外，下列何項也是二者的不同之處？",
+    "options": {
+      "A": "記憶性",
+      "B": "執行特異性免疫反應除了有細胞外，還有可溶性的蛋白質幫忙",
+      "C": "區別自我與非自我抗原的能力",
+      "D": "可保護宿主不被病原菌侵犯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 68 題",
+    "question": "補體（complement）系統中的凝集路徑（lectin pathway），是細菌感染時，其表面的醣蛋白或碳水化 合物中的mannose 部分和mannose-binding lectin（MBL）結合所啟動的，則MBL 和補體系統中的那 一個分子功能相似？",
+    "options": {
+      "A": "C1q",
+      "B": "C2a",
+      "C": "C3b",
+      "D": "C4a"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 69 題",
+    "question": "下列何者不是細胞趨化激素？",
+    "options": {
+      "A": "IL-2",
+      "B": "IL-8",
+      "C": "Leukotriene B4（LTB4）",
+      "D": "MCP-1（CCL2）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 70 題",
+    "question": "下列有關B 和T 細胞的敘述，那一項是B 細胞所特有？",
+    "options": {
+      "A": "表現特定的抗原受體（antigen-specific receptor）在細胞表面",
+      "B": "辨識與自身主要組織相容抗原（self MHC）結合的抗原分子",
+      "C": "在細胞發育過程會進行基因重組",
+      "D": "在細胞分化過程會進行類型轉換（isotype switching）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 71 題",
+    "question": "IL-2 受體（receptor）由三條鏈構成，在T 細胞被活化時，那一條鏈大量表現而構成高親和力的IL-2 受體？",
+    "options": {
+      "A": "α 鏈",
+      "B": "β 鏈",
+      "C": "γ 鏈",
+      "D": "δ 鏈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 72 題",
+    "question": "在胸腺器官內，T 細胞發育到那一階段，就可以離開胸腺到達周邊淋巴器官？",
+    "options": {
+      "A": "表現CD3",
+      "B": "T 細胞受器基因（T cell receptor genes）重組成功",
+      "C": "同時呈現CD4 以及CD8",
+      "D": "單獨呈現CD4 或CD8"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 73 題",
+    "question": "下列那一種抗體在血清中濃度最高？",
+    "options": {
+      "A": "IgA",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgM"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 74 題",
+    "question": "下列有關產生抗體多樣化（diversity）的原理，那一項描述錯誤？",
+    "options": {
+      "A": "體細胞高度突變（somatic hyper-mutation）發生於基因重組（gene rearrangement）之前",
+      "B": "體細胞高度突變（somatic hyper-mutation）可以發生於抗體的重鏈（heavy chain）以及輕鏈（light chain）部位",
+      "C": "利用酵素將四種核膕酸（nucleotides）任意加入剪接部位，可以造成連接多樣化（junctional diversity）",
+      "D": "相同重鏈（heavy chain）與不同輕鏈（light chain）之組合亦可造成抗體多樣化（diversity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

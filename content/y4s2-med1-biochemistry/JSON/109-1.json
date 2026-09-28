@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 109 年第一次醫師國考第 74 題",
+    "question": "下列那一種胜肽能吸收280 nm波長的光？",
+    "options": {
+      "A": "丙胺酸-離胺酸-組織胺酸（Ala-Lys-His）",
+      "B": "丙胺酸-丙胺酸-色胺酸（Ala-Ala-Trp）",
+      "C": "絲胺酸-甘胺酸-天門冬醯胺（Ser-Gly-Asn）",
+      "D": "纈胺酸-脯胺酸-白胺酸（Val-Pro-Leu）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 75 題",
+    "question": "酶具有高效率的化學反應催化作用（catalysis），原因為何？",
+    "options": {
+      "A": "可抑制酶促反應（enzymatic catalytic reaction）的逆反應",
+      "B": "可增加催化反應的平衡常數（equilibrium constant）",
+      "C": "可降低化學反應的活化能（activation energy, ΔG‡）",
+      "D": "可增加化學反應的活化能（activation energy, ΔG‡）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 76 題",
+    "question": "依照 Enzyme Commission（EC）建議之酵素命名原則，催化下述反應「glucose + ATP → glucose-6-phosphate  + ADP」的酵素應歸屬於下列何種酵素類別？",
+    "options": {
+      "A": "hydrolase",
+      "B": "ligase",
+      "C": "oxidoreductase",
+      "D": "transferase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 77 題",
+    "question": "下列關於維生素E（vitamin E）的敘述，何者正確？",
+    "options": {
+      "A": "維生素E為單碳代謝（one-carbon metabolism）反應中重要的輔酶",
+      "B": "維生素E為醌（quinone）的衍生物",
+      "C": "食物中維生素E的成分含有tocopherols與tocotrienols",
+      "D": "人體在接受陽光照射後，可自行合成維生素E"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 78 題",
+    "question": "人體中biotin缺乏時，下列那個生化反應會受影響而無法進行？",
+    "options": {
+      "A": "轉氨基反應（transamination）",
+      "B": "磷酸化反應（phosphorylation）",
+      "C": "羧化反應（carboxylation）",
+      "D": "甲基化反應（methylation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 79 題",
+    "question": "雙股DNA melting temperature之定義，是多少百分比的DNA分子產生變性（denaturation）時的溫度？",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 80 題",
+    "question": "下列何者是華生與克理克（Watson-Crick）DNA結構模型的正確描述？",
+    "options": {
+      "A": "磷酸基團（phosphate groups）位於雙股螺旋的內部",
+      "B": "DNA雙股螺旋中兩股平行（parallel）且方向（5'→3'）相同",
+      "C": "DNA雙股螺旋中兩股間的距離足夠容納兩個嘌呤（purines）或兩個嘧啶（pyrimidines）",
+      "D": "同股內相鄰兩個核苷酸鹼基的距離為3.4 Å"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 81 題",
+    "question": "下列何者具有5'端至3'端的核酸外切酶（exonuclease）活性？",
+    "options": {
+      "A": "primase",
+      "B": "DNA聚合酶Ⅰ型（DNA polymeraseⅠ）",
+      "C": "DNA聚合酶Ⅲ型（DNA polymeraseⅢ）",
+      "D": "DNA促旋酶（DNA gyrase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 82 題",
+    "question": "在DNA複製中，下列何酵素功能主要是用以增加DNA複製之準確度？",
+    "options": {
+      "A": "單股DNA結合蛋白",
+      "B": "3'→5'外切核酸酶",
+      "C": "DNA連接酶",
+      "D": "DNA解螺旋酶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 83 題",
+    "question": "大部分的真核細胞含40～50種不同的tRNAs，下列何者是這些tRNA之共同序列？",
+    "options": {
+      "A": "3'端含-CCA-3'OH",
+      "B": "3'端含-AAC-3'OH",
+      "C": "5'端含-CCAp-5'",
+      "D": "5'端含-AACp-5'"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 84 題",
+    "question": "關於真核細胞蛋白質合成的啟始階段（initiation stage），下列敘述何者錯誤？",
+    "options": {
+      "A": "需要mRNA、核糖體（ribosome）與aminoacyl-tRNA的參與",
+      "B": "mRNA必須具有5'端帽結構（5'cap structure）或internal ribosome entry site（IRES）才能參與啟始作用",
+      "C": "核糖體的大與小兩個次單元（large and small subunits）必須形成完整的核糖體（ribosome）才能與mRNA結 合",
+      "D": "啟始階段需要的aminoacyl-tRNA是Met-tRNAi Met"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 85 題",
+    "question": "同質異化基因（homeotic genes）在果蠅胚胎發育期（developmental stages）主要扮演何種角色？",
+    "options": {
+      "A": "基因在產卵期時開始作轉錄表現，其mRNA在卵中呈休眠狀態直到受精後才被啟動",
+      "B": "在胚胎發育後期表現，決定每一體節的詳細結構",
+      "C": "決定翅膀的基因總稱",
+      "D": "決定眼睛顏色的基因總稱"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 86 題",
+    "question": "下列何者負責DNA結合蛋白形成二聚體（protein dimers）的主要基序（motif）？",
+    "options": {
+      "A": "β-barrel",
+      "B": "homeodomain",
+      "C": "leucine zipper",
+      "D": "zinc finger"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 87 題",
+    "question": "那兩個克氏循環（TCA cycle）的中間產物皆可直接經由一次轉胺反應（transamination）合成胺基酸？",
+    "options": {
+      "A": "草醯乙酸（oxaloacetate）與α-酮基戊二酸（α-ketoglutarate）",
+      "B": "檸檬酸（citrate）與琥珀酸（succinate）",
+      "C": "琥珀酸（succinate）與蘋果酸（malate）",
+      "D": "α-酮基戊二酸（α-ketoglutarate）與異檸檬酸（isocitrate）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 88 題",
+    "question": "下列那種酶所催化之反應不產生二氧化碳？",
+    "options": {
+      "A": "異檸檬酸脫氫酶（isocitrate dehydrogenase）",
+      "B": "3-磷酸甘油醛脫氫酶（glyceraldehyde-3-phosphate dehydrogenase）",
+      "C": "α-酮戊二酸脫氫酶（α-ketoglutarate dehydrogenase）",
+      "D": "丙酮酸脫氫酶（pyruvate dehydrogenase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 89 題",
+    "question": "細胞在無氧狀態下（anaerobic condition）進行葡萄糖糖解作用（glycolysis）時，下列相關敘述何者正確？",
+    "options": {
+      "A": "可進行完整的糖解作用，產生兩分子乳酸（lactate）",
+      "B": "僅能生成NADH，但不會產生ATP",
+      "C": "能同時生成ATP及NADH",
+      "D": "無法進行糖解作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 90 題",
+    "question": "下列何種物質可直接經由cyclooxygenase的作用，產生前列凝素（thromboxanes）？",
+    "options": {
+      "A": "乙醯輔酶A（acetyl-CoA）",
+      "B": "棕櫚酸（palmitate）",
+      "C": "硬脂酸（stearate）",
+      "D": "花生四烯酸（arachidonate）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 91 題",
+    "question": "關於鈉-鉀離子唧筒（$Na^+$-$K^+$pump）的機制，下列敘述何者錯誤？",
+    "options": {
+      "A": "每運送三莫耳（moles）鈉離子至細胞外需水解一莫耳ATP",
+      "B": "與鈉離子結合後會導致鈉-鉀離子唧筒的磷酸化",
+      "C": "Cardiotonic steroid，如洋地黃（digitalis）會結合並抑制心臟細胞之鈉-鉀離子唧筒的功能",
+      "D": "磷酸化的鈉-鉀離子唧筒對鉀離子的親和力低於對鈉離子的親和力"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 92 題",
+    "question": "下列何者為肝臟粒線體內的HMG-CoA synthase的主要功能？",
+    "options": {
+      "A": "促進膽固醇合成（cholesterol biosynthesis）",
+      "B": "抑制脂肪酸合成（fatty acid biosynthesis）",
+      "C": "促進酮體合成（ketone body biosynthesis）",
+      "D": "促進糖質新生（gluconeogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 93 題",
+    "question": "下列何者不是血基質（heme）生合成的前驅物或中間產物？",
+    "options": {
+      "A": "glycine",
+      "B": "succinyl-CoA",
+      "C": "δ-aminolevulinate",
+      "D": "bilirubin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 94 題",
+    "question": "GOT和GPT指數是一般肝功能的指標，此兩種酵素具有那一類酵素活性？",
+    "options": {
+      "A": "kinase",
+      "B": "decarboxylase",
+      "C": "transaminase",
+      "D": "methyltransferase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 95 題",
+    "question": "人類細胞之氧化磷酸化反應（oxidative phosphorylation）中，參與電子傳遞鏈（electron transport chain）與 ATP合成的酵素位於何處？",
+    "options": {
+      "A": "電子傳遞鏈位於粒線體外膜；ATP合成的酵素位於粒線體內膜",
+      "B": "電子傳遞鏈位於粒線體內膜；ATP合成的酵素位於粒線體外膜",
+      "C": "皆位於粒線體外膜",
+      "D": "皆位於粒線體內膜"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 96 題",
+    "question": "下列何者為粒線體電子傳遞鏈Complex II的electron donor？",
+    "options": {
+      "A": "NADH",
+      "B": "succinate",
+      "C": "NADPH",
+      "D": "ubiquinone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 97 題",
+    "question": "免疫細胞分泌tumor necrosis factor（TNF），造成標的細胞的凋亡（apoptosis），下列何者是其正確的作用？",
+    "options": {
+      "A": "TNF無特異性受器，但TNF可結合Fas 受器而引起細胞凋亡",
+      "B": "TNF活化caspase 8，分解cytochrome c引起細胞凋亡",
+      "C": "破壞參與DNA合成的酵素",
+      "D": "造成粒線體cytochrome c釋出，引發細胞蛋白質及DNA的破壞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 98 題",
+    "question": "下列關於guanylyl cyclase的敘述，何者正確？",
+    "options": {
+      "A": "guanylyl cyclase主要功能是使cyclic GMP（cGMP）轉變為5'-GMP",
+      "B": "guanylyl cyclase是細胞膜上的受體（receptor），皆為穿透性蛋白質（integral protein）",
+      "C": "guanylin可結合在小腸上之guanylyl cyclase receptor，進而調控小腸內$Cl^-$離子分泌",
+      "D": "用來治療陽痿之藍色藥丸Viagra其主要藥物作用是促進cyclic GMP（cGMP）的產生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 99 題",
+    "question": "下列關於胜肽類（peptide）荷爾蒙和類固醇類（steroid）荷爾蒙的比較，何者錯誤？",
+    "options": {
+      "A": "前者的受體在細胞膜上，而後者在細胞內",
+      "B": "在血液中前者有攜帶蛋白（carrier protein），後者沒有攜帶蛋白",
+      "C": "前者如副甲狀腺荷爾蒙（parathyroid hormone）和細胞膜上受體結合後可產生cAMP",
+      "D": "後者和受體結合後會和DNA結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 100 題",
+    "question": "下列何者不是type II限制酶的辨認序列？ [圖片] [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "[圖片]",
+      "B": "[圖片]",
+      "C": "[圖片]",
+      "D": "[圖片]"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 51 題",
+    "question": "下列何種藥物不適合用於治療congestive heart failure 的病人？",
+    "options": {
+      "A": "Losartan",
+      "B": "Eplerenone",
+      "C": "Milrinone",
+      "D": "Aldosterone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 52 題",
+    "question": "下列何種藥物不適用於治療骨質疏鬆症（osteoporosis）？",
+    "options": {
+      "A": "Estrogen",
+      "B": "Biphosphonates",
+      "C": "Calcitonin",
+      "D": "Furosemide"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 53 題",
+    "question": "服用captopril 藥物後，最常見的副作用是什麼？",
+    "options": {
+      "A": "鎮靜",
+      "B": "乾咳",
+      "C": "低血壓",
+      "D": "心悸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 54 題",
+    "question": "如果錯將d-tubocurarine 注入新生兒，導致新生兒呼吸抑制，須注射下列何種藥物急救？",
+    "options": {
+      "A": "Atropine",
+      "B": "Physostigmine",
+      "C": "Adrenaline",
+      "D": "Hexamethonium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 55 題",
+    "question": "患有紅斑性狼瘡的高血壓病人，不適合使用下列何種降血壓藥物？",
+    "options": {
+      "A": "Captopril",
+      "B": "Diazoxide",
+      "C": "Clonidine",
+      "D": "Hydralazine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 56 題",
+    "question": "下列何種藥物是經由抑制muscarinic receptor 而達到治療尿失禁的作用？",
+    "options": {
+      "A": "Pirenzepine",
+      "B": "Oxybutynin",
+      "C": "Tropicamide",
+      "D": "Clidinium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 57 題",
+    "question": "下列何種疾病不可使用GnRH（gonadotropin-releasing hormone）agonist 治療？",
+    "options": {
+      "A": "無月經（amenorrhea）",
+      "B": "前列腺癌症（prostate cancer）",
+      "C": "乳癌（breast cancer）",
+      "D": "肢端肥大症（acromegaly）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 58 題",
+    "question": "若病患為巨母紅血球性貧血（megaloblastic anemia），且其不具神經性異常（neurological  abnormalities）症狀者，則應以下列何藥治療？",
+    "options": {
+      "A": "Iron",
+      "B": "Vitamin B12",
+      "C": "Folate",
+      "D": "Erythropoietin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 59 題",
+    "question": "目前最適合使用於骨髓移植之病人，又名sargramostim 的群落刺激因子（colony-stimulating factor， CSF）為下列那一種？",
+    "options": {
+      "A": "G-CSF",
+      "B": "GM-CSF",
+      "C": "Multi-CSF",
+      "D": "M-CSF"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 60 題",
+    "question": "一位病人因鏈球菌導致瓣膜心內膜炎，而且他服用penicillin G 會引起全身性過敏反應，下列何者是 治療這位病人的首選藥物？",
+    "options": {
+      "A": "Vancomycin",
+      "B": "Aztreonam",
+      "C": "Cefazolin + gentamicin",
+      "D": "Meropenem"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 61 題",
+    "question": "Nitroprusside 及nitroglycerin 之抗高血壓或治療心絞痛作用乃經由下列何種酵素而導致平滑肌鬆弛？",
+    "options": {
+      "A": "Membrane-bound guanylate cyclase",
+      "B": "Cytosolic guanylate cyclase",
+      "C": "Phosphodiesterase",
+      "D": "Protein kinase A"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 62 題",
+    "question": "下列有關退化性老年癡呆症（Alzheimer’s disease）的治療藥物之描述，何者錯誤？",
+    "options": {
+      "A": "利用carbonic anhydrase 抑制劑或bicarbonate 將尿液鹼化會加速memantine 的排除",
+      "B": "Donepezil 為一種長效型的乙醯膽鹼酯酶（acetylcholinesterase）抑制劑，其代謝產物的活性與原型 藥物的作用強度相當",
+      "C": "Cimetidine 會增加galantamine 的生體可用率（bioavailability）",
+      "D": "Nicotine 會增加rivastigmine 的體內清除率（clearance）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 63 題",
+    "question": "Benzodiazepine 類鎮靜-催眠（sedative-hypnotic）用藥於體內作用速率之快慢主要取決於其脂溶性， 試問下列那一種benzodiazepine 類藥物投予時作用最快？",
+    "options": {
+      "A": "Diazepam",
+      "B": "Chlordiazepoxide",
+      "C": "Oxazepam",
+      "D": "Lorazepam"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 64 題",
+    "question": "下列有關安非他命（Amphetamine）藥理作用的說明，何者錯誤？",
+    "options": {
+      "A": "Amphetamine 為一種中樞神經興奮劑",
+      "B": "Amphetamine 可以用來改善注意力不集中症候群（attention-deficit/hyperactivity disorder, ADHD）",
+      "C": "Amphetamine 會促進食慾，進而引起暴食症",
+      "D": "Amphetamine 與Cocaine 會產生交互依賴性（cross-dependence）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 65 題",
+    "question": "下列有關嗎啡類物質之藥理作用描述，何者錯誤？",
+    "options": {
+      "A": "Naloxone 口服吸收的效果較naltrexone 佳",
+      "B": "Methadone 所產生的禁斷現象較morphine 弱",
+      "C": "Codeine 產生止咳作用所需的劑量較止痛所需的劑量低",
+      "D": "Morphine 的止痛作用較codeine 強"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 66 題",
+    "question": "治療癲癇之藥物lamotrigine 與下列那一種藥物合併使用時，lamotrigine 的體內代謝半衰期可以被延長？",
+    "options": {
+      "A": "Topiramate",
+      "B": "Phenytoin",
+      "C": "Valproic acid",
+      "D": "Tiagabine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 67 題",
+    "question": "下列有關低劑量aspirin 之防治心肌梗塞之理由，何者錯誤？",
+    "options": {
+      "A": "Aspirin 作用在血小板cycloxygenase（COX）是不可逆性",
+      "B": "主要抑制血小板中thromboxane A2之形成",
+      "C": "高劑量下會抑制內皮細胞之COX，同時prostacyclin 形成會減少",
+      "D": "內皮細胞中COX 受抑制，不會有再生之作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 68 題",
+    "question": "下列有關Misoprostol 之敘述，何者錯誤？",
+    "options": {
+      "A": "Prostaglandin 之衍生物",
+      "B": "孕婦可使用",
+      "C": "抑制胃酸分泌",
+      "D": "保護胃壁細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 69 題",
+    "question": "下列何種治療氣喘的藥物其作用時間最長？",
+    "options": {
+      "A": "Salbutamol",
+      "B": "Terbutaline",
+      "C": "Adrenaline",
+      "D": "Formoterol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 70 題",
+    "question": "下列何種副作用與長期使用抗心律不整藥物amiodarone 最無關？",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Pulmonary fibrosis",
+      "C": "Depression",
+      "D": "Photosensitivity"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 71 題",
+    "question": "下列何種抗心律不整藥物是屬於Class IB，適用於ventricular tachyarrhythmias 病人？",
+    "options": {
+      "A": "Propranolol",
+      "B": "Mexiletine",
+      "C": "Propafenone",
+      "D": "Amiodarone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 72 題",
+    "question": "下列何者不是雄性素（androgen）過度刺激所引起之可能副作用？",
+    "options": {
+      "A": "Priapism",
+      "B": "Polycythemia",
+      "C": "Prostate enlargement",
+      "D": "Weight loss"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 73 題",
+    "question": "下列何種因子不會導致內生性胰島素（endogenous insulin）的分泌？",
+    "options": {
+      "A": "Glucose",
+      "B": "Glucagon",
+      "C": "Somatostatin",
+      "D": "Gastrin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 74 題",
+    "question": "下列何者最宜口服來治療陰道念珠球菌感染？",
+    "options": {
+      "A": "Griseofulvin",
+      "B": "Fluconazole",
+      "C": "Flucytosine",
+      "D": "Nystatin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 75 題",
+    "question": "有關免疫抑制藥物何者可螯合細胞內DNA 以達到抑制免疫淋巴細胞增生與相關免疫反應？",
+    "options": {
+      "A": "Cyclosporine",
+      "B": "Tacrolimus",
+      "C": "Cyclophosphamide",
+      "D": "Muromonab-CD3"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

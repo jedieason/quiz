@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 109 年第一次醫師國考第 1 題",
+    "question": "有關氣性壞疽（gas gangrene）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "最常見之致病菌為化膿性鏈球菌（Streptococcus pyogenes）",
+      "B": "是經由傷口感染之急性肌肉壞死性疾病，感染會急速往周邊擴散而使病灶擴大",
+      "C": "治療方法包括清創術（debridement）、抗生素治療及傷口高壓氧治療（hyperbaric oxygen therapy）",
+      "D": "目前尚無有效的疫苗（vaccine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 2 題",
+    "question": "有關白喉桿菌（Corynebacterium diphtheriae）的敘述，下列何者正確？",
+    "options": {
+      "A": "耐酸性染色陽性為一重要診斷依據",
+      "B": "人類是唯一的天然宿主",
+      "C": "攜帶白喉毒素（diphtheria toxin）的基因位於質體上",
+      "D": "還沒有疫苗可預防"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 3 題",
+    "question": "利用早期分泌抗原標的-6（ESAT-6）及培養過濾蛋白-10（CFP-10），做為抗原以偵測病患的T細胞所產生的 丙型干擾素（IFN-γ），其目的是檢驗病患受到下列那一種微生物的感染？",
+    "options": {
+      "A": "立氏立克次體（Rickettsia rickettsii）",
+      "B": "煙麴霉菌（Aspergillus fumigatus）",
+      "C": "肺炎黴漿菌（Mycoplasma pneumoniae）",
+      "D": "結核分枝桿菌（Mycobacterium tuberculosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 4 題",
+    "question": "關於人類單核細胞艾利希體症（human monocytic ehrlichiosis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "以青黴素（penicillin）、氨基糖苷（aminoglycosides）、大環內酯（macrolides）等類藥物治療有效",
+      "B": "其致病菌可在血液單核球（monocyte）和巨噬細胞（macrophage）內進行繁殖",
+      "C": "多數病患會有血清轉胺酶（serum transaminase）升高及血小板減少（thrombocytopenia）的情況",
+      "D": "臨床主要以核酸增幅法（nucleic acid amplification）或血清學檢驗（serological test）確認此疾病"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 5 題",
+    "question": "關於肺炎鏈球菌（Streptococcus pneumoniae）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "所產生的莢膜（capsule）能抵抗吞噬作用（phagocytosis）",
+      "B": "此菌於肺泡腔（alveolar spaces）大量生長，可造成肺炎（pneumonia）",
+      "C": "透過台口酸（teichoic acid）和胜肽聚醣（peptidoglycan）碎片，可誘發替代型補體活化路徑（alternative complement pathway）",
+      "D": "多價疫苗（polyvalent vaccine）是由常見的血清型菌株所產生的體表蛋白質（surface proteins）所製備的"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 6 題",
+    "question": "關於腸內桿菌科（Enterobacteriaceae）O抗原（O antigen）的敘述，下列何者正確？",
+    "options": {
+      "A": "是控制物質進出細菌的通道",
+      "B": "具有鞭毛蛋白（flagellin）",
+      "C": "細菌細胞壁脂多醣體（lipopolysaccharide）的一部分",
+      "D": "含胜肽聚醣（peptidoglycan），可用來維持細菌細胞壁的形態"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 7 題",
+    "question": "關於艱難梭狀芽胞桿菌（Clostridium difficile）的敘述，下列何者正確？",
+    "options": {
+      "A": "疾病經常是因長期使用抗生素，造成腸道菌群改變所引起",
+      "B": "可用安比西林（ampicillin）和克林黴素（clindamycin）治療",
+      "C": "會產生腸毒素（enterotoxin），造成肌肉痙攣",
+      "D": "會產生α毒素（α toxin），造成嚴重的軟組織壞死"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 8 題",
+    "question": "下列那些致病菌主要透過節肢動物（arthropods）的叮咬而傳染，並能在人類細胞內繁殖？ ①宋內志賀氏菌 （Shigella sonnei） ②馬爾他布魯氏菌（Brucella melitensis） ③土拉弗朗西斯菌（Francisella tularensis） ④嗜吞噬細胞無形體（Anaplasma phagocytophilum）",
+    "options": {
+      "A": "①②",
+      "B": "③④",
+      "C": "②④",
+      "D": "①③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 9 題",
+    "question": "下列何者並非金黃色葡萄球菌（Staphylococcus aureus）常見的致病因子（virulence factor）？",
+    "options": {
+      "A": "凝固酶（coagulase）",
+      "B": "毒性休克症候毒素-1（toxic shock syndrome toxin-1）",
+      "C": "水腫因子（edema factor）",
+      "D": "蛋白質A（protein A）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 10 題",
+    "question": "有關腺病毒（adenovirus）的敘述，下列何者正確？",
+    "options": {
+      "A": "病毒蛋白質E6和E7會抑制p53的作用",
+      "B": "感染上皮細胞，會在細胞核內形成包涵體（inclusion body）",
+      "C": "具有線型雙股DNA，並含有外套膜（envelope）",
+      "D": "在淋巴組織造成溶解性感染（lytic infection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 11 題",
+    "question": "下列那一種病毒會以反轉錄酶（reverse transcriptase）複製病毒基因體？",
+    "options": {
+      "A": "乳突瘤病毒（papillomavirus）",
+      "B": "西尼羅河病毒（West Nile virus）",
+      "C": "B型肝炎病毒（hepatitis B virus）",
+      "D": "呼吸道細胞融合病毒（respiratory syncytial virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 12 題",
+    "question": "抗病毒藥物奧斯他偉（oseltamivir），主要是抑制病毒的那一種酵素？",
+    "options": {
+      "A": "蛋白酶（protease）",
+      "B": "神經氨酸酶（neuraminidase）",
+      "C": "胸腺嘧啶激酶（thymidine kinase）",
+      "D": "反轉錄酶（reverse transcriptase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 13 題",
+    "question": "下列何種病毒會在宿主細胞內造成內格里小體（Negri bodies）的產生？",
+    "options": {
+      "A": "狂犬病病毒（Rabies virus）",
+      "B": "單純疱疹病毒（Herpes-simplex virus, HSV）",
+      "C": "痘病毒（Poxvirus）",
+      "D": "B型肝炎病毒（Hepatitis B virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 14 題",
+    "question": "有關抑制病毒的藥物中，下列何者是胜肽類的藥物？",
+    "options": {
+      "A": "恩夫韋（enfuvirtide）",
+      "B": "丙氧鳥苷（ganciclovir）",
+      "C": "拉米夫定（lamivudine）",
+      "D": "奧斯他偉（oseltamivir）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 15 題",
+    "question": "有關德國麻疹病毒（rubella virus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "人類為唯一宿主",
+      "B": "只有一種血清型",
+      "C": "可施打MMR疫苗預防感染",
+      "D": "常規以喉頭拭子（throat swab）培養病毒，做為診斷感染的根據"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 16 題",
+    "question": "培養糠秕馬拉癬菌（Malassezia furfur）時，為提高培養率，最常於培養基中加入下列何者？",
+    "options": {
+      "A": "澱粉（Starch）",
+      "B": "L-半胱胺酸（L-cysteine）",
+      "C": "橄欖油（Olive oil）",
+      "D": "N-乙醯葡萄胺糖（N-acetylglucosamine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 17 題",
+    "question": "下列那一種真菌（fungi）通常不形成菌絲（hyphae）構造？",
+    "options": {
+      "A": "熱帶念珠菌（Candida tropicalis）",
+      "B": "白色念珠菌（Candida albicans）",
+      "C": "光滑念珠菌（Candida glabrata）",
+      "D": "近平滑念珠菌（Candida parapsilosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

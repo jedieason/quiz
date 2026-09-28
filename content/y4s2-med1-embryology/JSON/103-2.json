@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 29 題",
+    "question": "甲狀腺內濾泡旁細胞（parafollicular cells）源起於下列何者？",
+    "options": {
+      "A": "第一咽囊（1st pharyngeal pouch）",
+      "B": "第二咽囊（2nd pharyngeal pouch）",
+      "C": "第三咽囊（3rd pharyngeal pouch）",
+      "D": "第四咽囊（4th pharyngeal pouch）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 30 題",
+    "question": "下列何胚層衍生形成前列腺之實質（parenchyma of prostate）？",
+    "options": {
+      "A": "外胚層（ectoderm）",
+      "B": "體壁中胚層（parietal layer of mesoderm）",
+      "C": "臟壁中胚層（visceral layer of mesoderm）",
+      "D": "內胚層（endoderm）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 31 題",
+    "question": "胚胎發育時，背側心繫膜（dorsal mesocardium）部分退化後，可形成下列何者？",
+    "options": {
+      "A": "心包斜竇（oblique pericardial sinus）",
+      "B": "心包橫竇（transverse pericardial sinus）",
+      "C": "纖維心包（fibrous pericardium）",
+      "D": "漿液心包（serous pericardium）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 32 題",
+    "question": "胚胎發育大約在第四週時，耳板（otic placode）衍生自下列何者？",
+    "options": {
+      "A": "神經外胚層（neuroectoderm）",
+      "B": "神經嵴（neural crest）",
+      "C": "間葉組織（mesenchyma）",
+      "D": "體表外胚層（surface ectoderm）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

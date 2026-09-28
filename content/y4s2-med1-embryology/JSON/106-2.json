@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 32 題",
+    "question": "下列何者在胚胎早期發育中最晚出現？",
+    "options": {
+      "A": "羊膜（amnion）",
+      "B": "卵黃囊（yolk sac）",
+      "C": "初級絨毛（primary chorionic villus）",
+      "D": "原條（primitive streak）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 33 題",
+    "question": "下列有關耳朵（ear）發育之敘述，何者錯誤？",
+    "options": {
+      "A": "外耳道（external acoustic meatus）源自第一對咽溝（pharyngeal groove）",
+      "B": "鼓膜主要來自第一對咽膜（pharyngeal membrane）與咽囊（pharyngeal pouch）及間葉組織 （mesenchyme）",
+      "C": "鼓室（tympanic cavity）源自第一對咽囊（pharyngeal pouch）",
+      "D": "第一對咽囊（pharyngeal pouch）向下與第二對咽囊連通形成耳咽管（auditory tube）並開口於鼻咽"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 34 題",
+    "question": "下列有關脾臟（spleen）發育之敘述，何項錯誤？",
+    "options": {
+      "A": "最早出現於背側胃繫膜（dorsal mesogastrium）之間",
+      "B": "源自前腸（foregut）內胚層（endoderm）",
+      "C": "原先位於胃之背側，後來因胃之旋轉而移至左側",
+      "D": "曾為造血器官"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 35 題",
+    "question": "心臟傳導系統的蒲金氏纖維（Purkinje fibers）為下列何者特化而成？",
+    "options": {
+      "A": "心肌細胞（cardiac muscle cell）",
+      "B": "神經細胞（nerve cell）",
+      "C": "纖維母細胞（fibroblast）",
+      "D": "內皮細胞（endothelial cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 36 題",
+    "question": "有關成體腦區與胚胎時期腦泡（brain vesicle）發育起源之關聯，何者錯誤？",
+    "options": {
+      "A": "橋腦（pons）－後腦（rhombencephalon）",
+      "B": "小腦（cerebellum）－前腦（prosencephalon）",
+      "C": "視丘（thalamus）－前腦（prosencephalon）",
+      "D": "頂蓋（tectum）－中腦（mesencephalon）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

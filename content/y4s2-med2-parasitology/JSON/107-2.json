@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 29 題",
+    "question": "蘇先生因個人養身因素而食用醃漬蝸牛及生蝸牛多年，日前急診就醫因疑似腦炎或腦膜腦炎而住院，經脊髓 穿刺發現腦脊髓液（CSF）內有高數量白血球（1500/µL），並伴隨有嗜酸性白血球增多症 （eosinophilia）。依據上述結果，蘇先生最可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "C": "棘顎口線蟲（Gnathostoma spinigerum）",
+      "D": "廣東住血線蟲（Angiostrongylus cantonensis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 30 題",
+    "question": "做皮下切片（skin snips）檢查微絲蟲（microfilaria）是診斷下列何種寄生蟲感染的重要依據？",
+    "options": {
+      "A": "羅阿絲蟲（Loa loa）",
+      "B": "蟠尾絲蟲（Onchocerca volvulus）",
+      "C": "麥地那線蟲（Dracunculus medinensis）",
+      "D": "馬來亞絲蟲（Brugia malayi）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 31 題",
+    "question": "下列有關曼氏血吸蟲（Schistosoma mansoni）感染之敘述，那些是錯誤的？①可由糞便檢查到具尾刺 （terminal spine）的蟲卵而確診 ②病患在慢性感染期較易引起左葉肝臟腫大 ③病患可能因生食水螺，其 囊幼（metacercaria）進入體內而感染",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 32 題",
+    "question": "人類食用未熟或生的帶蟲豬肉，最不可能罹患以下何種寄生蟲病？",
+    "options": {
+      "A": "旋毛蟲症（trichinellosis）",
+      "B": "囊蟲症（cysticercosis）",
+      "C": "肺吸蟲症（paragonimiasis）",
+      "D": "包蟲症（hydatid disease）"
+    },
+    "answer": "D",
+    "explanation": "考選部更正備註：答Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 33 題",
+    "question": "下列之寄生蟲配對中，何者在患者組織切片皆可能檢出其囊體期（cyst stage）？",
+    "options": {
+      "A": "哈氏阿米巴（Entamoeba hartmanni）及棘阿米巴（Acanthamoeba spp.）",
+      "B": "棘阿米巴（Acanthamoeba spp.）及痢疾阿米巴（Entamoeba histolytica）",
+      "C": "棘阿米巴（Acanthamoeba spp.）及巴氏阿米巴（Balamuthia mandrillaris）",
+      "D": "棘阿米巴（Acanthamoeba spp.）及福氏內格里阿米巴（Naegleria fowleri）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 34 題",
+    "question": "人類感染恙蟲病（scrub typhus）主要是經由下列何者之叮咬而感染？",
+    "options": {
+      "A": "感染性成蜱（tick）",
+      "B": "感染性幼蜱（tick）",
+      "C": "感染性成蟎（mite）",
+      "D": "感染性幼蟎（mite）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 35 題",
+    "question": "下列何種病媒滋生感染症較易藉由輸血途徑而造成人傳人感染？",
+    "options": {
+      "A": "巴西利什曼原蟲病（leishmaniasis braziliensis）",
+      "B": "萊姆病（Lyme disease）",
+      "C": "恙蟲病（scrub typhus）",
+      "D": "巴貝氏原蟲症（babesiosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 1 題",
+    "question": "下列何者不是基底核direct loop 的構造？",
+    "options": {
+      "A": "紋狀體（striatum）",
+      "B": "內側蒼白球（inner globus pallidus）",
+      "C": "丘腦（thalamus）",
+      "D": "視丘下核（subthalamic nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 2 題",
+    "question": "右側大腦顳葉之Meyer’s loop 傷害，會造成下列何種損傷？",
+    "options": {
+      "A": "雙眼左上視野缺失",
+      "B": "右眼左上視野缺失",
+      "C": "雙眼外上視野缺失",
+      "D": "雙眼內下視野缺失"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 3 題",
+    "question": "下列有關內側縱束（medial longitudinal fasciculus）之敘述，何者錯誤？",
+    "options": {
+      "A": "含有由內側前庭神經核（medial vestibular nucleus）發出之神經纖維",
+      "B": "參與瞳孔光反射之傳導",
+      "C": "位於第四腦室或大腦導水管之腹面靠中線處",
+      "D": "與眼球上下垂直共軛運動（vertical conjugate movement）有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 4 題",
+    "question": "下列何者不參與角膜反射？",
+    "options": {
+      "A": "同側顏面神經運動核（facial motor nucleus）",
+      "B": "對側顏面神經運動核（facial motor nucleus）",
+      "C": "三叉神經脊髓核（spinal trigeminal nucleus）",
+      "D": "動眼神經核（oculomotor nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 5 題",
+    "question": "下列有關視網膜的敘述，何者正確？",
+    "options": {
+      "A": "視盤（optic disc）位於視網膜底部，內有中央凹（fovea centralis），是視覺最敏銳的地方",
+      "B": "由睫後短動脈（short posterior ciliary arteries）來提供視網膜外層區域養分",
+      "C": "錐細胞（cones）與桿細胞（rods）的養分主要由視網膜中央動脈（central retinal artery）提供",
+      "D": "視網膜的非視覺部（non-visual retinal part）不含色素細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 6 題",
+    "question": "病人能看清楚遠方物體，卻無法從鏡子中看清自己的臉，下列何者最可能出問題？",
+    "options": {
+      "A": "瞼板肌（tarsal muscle）",
+      "B": "睫狀肌（ciliary muscle）",
+      "C": "瞳孔擴張肌（dilator pupillae muscle）",
+      "D": "提上眼瞼肌（levator palpebrae superioris muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 7 題",
+    "question": "甲狀腺腫瘤手術時，為防止出血而綁住喉上動脈（superior laryngeal a.），此時最可能誤傷下列何者？",
+    "options": {
+      "A": "喉外神經（external laryngeal nerve）",
+      "B": "喉下神經（inferior laryngeal nerve）",
+      "C": "迷走神經（vagus nerve）",
+      "D": "喉內神經（internal laryngeal nerve）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ或AD者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 8 題",
+    "question": "下列何者的破裂最可能造成蛛網膜下腔出血？",
+    "options": {
+      "A": "中腦膜動脈（middle meningeal artery）",
+      "B": "大腦動脈（cerebral artery）",
+      "C": "大腦靜脈（cerebral vein）",
+      "D": "硬腦膜靜脈竇（dural sinus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 9 題",
+    "question": "頭部腫瘤造成眼睛、鼻子及口腔乾澀，請問此腫瘤最可能發生於何處？",
+    "options": {
+      "A": "視神經管（optic canal）",
+      "B": "翼管（pterygoid canal）",
+      "C": "卵圓孔（foramen ovale）",
+      "D": "圓孔（foramen rotundum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 10 題",
+    "question": "右肺門前方的腫瘤最可能壓迫下列何者？",
+    "options": {
+      "A": "膈神經（phrenic nerve）",
+      "B": "迷走神經（vagus nerve）",
+      "C": "喉返神經（recurrent laryngeal nerve）",
+      "D": "交感神經幹（sympathetic trunk）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 11 題",
+    "question": "下列何者位於心臟的隔緣肉柱（septomarginal trabecula, moderator band）中？",
+    "options": {
+      "A": "發出左右分支前的房室束（atrioventricular bundle）",
+      "B": "房室束右支（right branch of atrioventricular bundle）",
+      "C": "房室束左支（left branch of atrioventricular bundle）",
+      "D": "普金斯纖維（Purkinje fibers）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 12 題",
+    "question": "下列有關肺門（hilum of the lung）之敘述，何者正確？",
+    "options": {
+      "A": "肺動脈位於左肺門最上方",
+      "B": "支氣管位於左肺門最下方",
+      "C": "肺靜脈位於右肺門最上方",
+      "D": "支氣管位於右肺門最前方"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 13 題",
+    "question": "刺激橫膈中央處的壁層胸膜（parietal pleura）所引起的牽涉痛（referred pain），其對應的皮區 （dermatome）為：",
+    "options": {
+      "A": "C3-C5",
+      "B": "T1-T2",
+      "C": "T4-T5",
+      "D": "T7-T8"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 14 題",
+    "question": "心臟聽診檢查時，發現在正中鎖骨線第5 肋間處有異常雜音，下列何者最可能發生病變？",
+    "options": {
+      "A": "二尖瓣（mitral valve）",
+      "B": "主動脈瓣（aortic valve）",
+      "C": "三尖瓣（tricuspid valve）",
+      "D": "肺動脈幹瓣（pulmonary valve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 15 題",
+    "question": "腎內結石的疼痛經由下列何者傳導？",
+    "options": {
+      "A": "大內臟神經（greater splanchnic nerve）",
+      "B": "小內臟神經（lesser splanchnic nerve）",
+      "C": "最小內臟神經（least splanchnic nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 16 題",
+    "question": "Ligament of Treitz 是檢查消化道是否發生異常的標記，其拉提著下列何處？",
+    "options": {
+      "A": "十二指腸與胃幽門的交界處",
+      "B": "十二指腸的上段（superior part）與下行段（descending part）間",
+      "C": "十二指腸空腸彎曲（duodenojejunal flexure）",
+      "D": "整條十二指腸"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 17 題",
+    "question": "下列有關陰囊dartos fascia 的描述，何者正確？",
+    "options": {
+      "A": "與腹部的Camper’s fascia 相連",
+      "B": "含豐富的皮下脂肪",
+      "C": "含骨骼肌構成的dartos muscle",
+      "D": "含提睪肌（cremasteric muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 18 題",
+    "question": "連接交感神經鏈（sympathetic chain）與L4 脊神經的是：",
+    "options": {
+      "A": "白交通支（white communicating ramus），內含交感節前神經纖維",
+      "B": "白交通支，內含交感節後神經纖維",
+      "C": "灰交通支（gray communicating ramus），內含交感節前神經纖維",
+      "D": "灰交通支，內含交感節後神經纖維"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 19 題",
+    "question": "下列何者的栓塞（thrombosis）最可能會導致左側睪丸（testis）腫脹？",
+    "options": {
+      "A": "左陰部內靜脈（left internal pudendal vein）",
+      "B": "下腔靜脈（inferior vena cava）",
+      "C": "左陰部外靜脈（left external pudendal vein）",
+      "D": "左腎靜脈（left renal vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 20 題",
+    "question": "在進行子宮切除（hysterectomy）結紮子宮動脈時，下列何者最可能會被誤紮？",
+    "options": {
+      "A": "卵巢動脈（ovarian artery）",
+      "B": "陰部內動脈（internal pudendal artery）",
+      "C": "輸尿管（ureter）",
+      "D": "陰部神經（pudendal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 21 題",
+    "question": "陰囊（scrotum）皮膚的惡性黑色素細胞瘤（malignant melanoma）最可能先轉移至下列那個淋巴結？",
+    "options": {
+      "A": "髂內淋巴結（internal iliac lymph nodes）",
+      "B": "髂外淋巴結（external iliac lymph nodes）",
+      "C": "腹股溝淺淋巴結（superficial inguinal lymph nodes）",
+      "D": "主動脈淋巴結（aortic lymph nodes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 22 題",
+    "question": "下列何處的神經元負責陰莖的勃起功能（penile erection）？",
+    "options": {
+      "A": "迷走神經核（dorsal motor nucleus of vagus nerve）",
+      "B": "腰髓第一至第二節（L1到L2）之中外細胞柱（intermediolateral cell column）",
+      "C": "胸髓第十至第十二節（T10到T12）之中外細胞柱（intermediolateral cell column）",
+      "D": "薦髓副交感神經核（sacral parasympathetic nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 23 題",
+    "question": "分娩易造成骨盆底部的撕裂傷，下列何者最不可能受傷？",
+    "options": {
+      "A": "髂骨尾骨肌（iliococcygeus）",
+      "B": "恥骨尾骨肌（pubococcygeus）",
+      "C": "會陰淺橫肌（superficial transverse perineal muscle）",
+      "D": "尾骨肌（coccygeus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 24 題",
+    "question": "下列那一群肌肉的收縮會造成手指以中指（middle finger）為中心外展（abduction）的動作？",
+    "options": {
+      "A": "掌短肌（palmaris brevis）",
+      "B": "骨間背側肌（dorsal interossei）",
+      "C": "骨間掌側肌（palmar interossei）",
+      "D": "蚓狀肌（lumbricals）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 25 題",
+    "question": "車禍造成尺骨中段骨折並傷及尺動脈（ulnar artery），下列何處是直接按壓止血的最適當位置？",
+    "options": {
+      "A": "腋下（axilla）",
+      "B": "上臂中段（mid arm）",
+      "C": "肘窩（cubital fossa）",
+      "D": "鼻煙區（snuff box）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 26 題",
+    "question": "肱骨在三角肌粗隆（deltoid tuberosity of humerus）位置的骨折，最可能直接傷及那一條血管？",
+    "options": {
+      "A": "肱骨前迴旋動脈（anterior circumflex humeral artery）",
+      "B": "肱骨後迴旋動脈（posterior circumflex humeral artery）",
+      "C": "肩胛迴旋動脈（circumflex scapular artery）",
+      "D": "肱深動脈（profunda brachii artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 27 題",
+    "question": "下列那一條神經受損，會造成肘關節屈曲（flexion）無力？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 28 題",
+    "question": "蹠肌（plantaris）的肌腱位於下列那兩塊肌肉之間？",
+    "options": {
+      "A": "腓腸肌（gastrocnemius）與比目魚肌（soleus）",
+      "B": "比目魚肌與脛後肌（tibialis posterior）",
+      "C": "脛後肌與脛前肌（tibialis anterior）",
+      "D": "腓骨長肌（fibularis longus）與腓骨短肌（fibularis brevis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

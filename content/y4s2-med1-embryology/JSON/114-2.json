@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 32 題",
+    "question": "下列何者不是由神經嵴細胞（neural crest cell）衍生而成？",
+    "options": {
+      "A": "黑色素細胞（melanocyte）",
+      "B": "交感節後神經元（postganglionic sympathetic neuron）",
+      "C": "甲狀腺之濾泡細胞（follicular cell of thyroid gland）",
+      "D": "腎上腺髓質之嗜鉻細胞（chromaffin cell of adrenal medulla）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 33 題",
+    "question": "舌（tongue）的發育過程中，那一咽弓會形成聯合部（copula），且最後會被擠壓而消失？",
+    "options": {
+      "A": "第一咽弓（first pharyngeal arch）",
+      "B": "第二咽弓（second pharyngeal arch）",
+      "C": "第三咽弓（third pharyngeal arch）",
+      "D": "第四咽弓（fourth pharyngeal arch）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 34 題",
+    "question": "女性陰道（vagina）的發育，是由下列那兩個構造共同形成？",
+    "options": {
+      "A": "中腎管（mesonephric duct）與尿殖竇（urogenital sinus）",
+      "B": "中腎管（mesonephric duct）與竇陰道球泡（sinovaginal bulb）",
+      "C": "副中腎管（paramesonephric duct）與竇陰道球泡（sinovaginal bulb）",
+      "D": "副中腎管（paramesonephric duct）與生殖結節（genital tubercle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 35 題",
+    "question": "內側臍韌帶（medial umbilical ligament）主要為何構造的遺跡？",
+    "options": {
+      "A": "臍動脈（umbilical artery）",
+      "B": "臍靜脈（umbilical vein）",
+      "C": "靜脈導管（ductus venosus）",
+      "D": "動脈導管（ductus arteriosus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 36 題",
+    "question": "神經垂體部（neurohypophysis）是衍生自：",
+    "options": {
+      "A": "端腦（telencephalon）",
+      "B": "間腦（diencephalon）",
+      "C": "中腦（mesencephalon）",
+      "D": "髓腦（myelencephalon）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

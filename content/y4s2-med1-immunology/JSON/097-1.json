@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 62 題",
+    "question": "以下何者容易出現病毒相關性腫瘤？",
+    "options": {
+      "A": "Leishmaniasis 患者",
+      "B": "Legionella pneumonia 患者",
+      "C": "IgA nephropathy 患者",
+      "D": "AIDS 患者"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 63 題",
+    "question": "下列何種自體免疫疾病，主要是由於自體免疫反應性T 細胞所引起？",
+    "options": {
+      "A": "自體免疫胰島素-依賴性糖尿病（autoimmune insulin-dependent diabetes mellitus）",
+      "B": "全身性紅斑狼瘡（systemic lupus erythematosus）",
+      "C": "重症肌無力（myasthenia gravis）",
+      "D": "Grave 氏病（Grave’s disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 64 題",
+    "question": "下列何者為器官特異性的自體免疫疾病？",
+    "options": {
+      "A": "全身性紅斑狼瘡（systemic lupus erythematosus）",
+      "B": "類風溼性關節炎（rheumatoid arthritis）",
+      "C": "多發性硬化症（multiple sclerosis）",
+      "D": "硬皮症（scleroderma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 65 題",
+    "question": "不屬於第一型過敏免疫反應所引發的疾病是：",
+    "options": {
+      "A": "氣喘（asthma）",
+      "B": "異位性皮膚炎（atopic dermatitis）",
+      "C": "農夫肺病（farmer’s lung）",
+      "D": "季節性鼻炎（perennial rhinitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 66 題",
+    "question": "下列何分子之缺陷不會影響到淋巴球的基因重組，但會使淋巴球的成熟受到阻礙？",
+    "options": {
+      "A": "IL-2 receptor γc chain",
+      "B": "RAG 1",
+      "C": "RAG 2",
+      "D": "DNA-dependent protein kinase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 67 題",
+    "question": "免疫系統在腫瘤細胞極為少數時，能先行將其消滅，此稱為：",
+    "options": {
+      "A": "排斥反應（graft rejection）",
+      "B": "免疫監控（immune surveillance）",
+      "C": "失去耐受性（tolerance failure）",
+      "D": "引致耐受性（tolerance induction）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 68 題",
+    "question": "在呼吸道黏膜內，可以中和入侵細菌之最重要抗體為：",
+    "options": {
+      "A": "IgA",
+      "B": "IgG",
+      "C": "IgE",
+      "D": "IgM"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 69 題",
+    "question": "下列有關寄生蟲逃避寄主免疫反應的機制之描述，那一項不正確？",
+    "options": {
+      "A": "瘧疾原蟲（Plasmodium species）脫去circumsporozoite（CS）抗原",
+      "B": "利什曼蟲（Leishmania species）引發寄主體內較高的Th1 反應",
+      "C": "錐型蟲（Trypanosomes）外表有變異醣蛋白（variant surface glycoprotein）",
+      "D": "血吸蟲（Schistosomes）外表包覆著人類的ABO 血型抗原"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 70 題",
+    "question": "下列何者不是B 細胞表面分子？",
+    "options": {
+      "A": "Igα和Igβ",
+      "B": "CD3",
+      "C": "CD19 和CD21",
+      "D": "CD40"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 71 題",
+    "question": "Lipopolysaccharide（LPS）是革蘭氏陰性細菌細胞壁的成分，會和白血球上的那個分子結合？",
+    "options": {
+      "A": "CD1",
+      "B": "CD5",
+      "C": "CD14",
+      "D": "CD25"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 72 題",
+    "question": "下列何種細胞激素是由Th1 細胞所分泌？",
+    "options": {
+      "A": "IFN-γ",
+      "B": "IL-4",
+      "C": "IL-9",
+      "D": "IL-13"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 73 題",
+    "question": "下列那種分子的配對組合（內皮細胞上的分子/白血球上的分子）會在發炎反應細胞遷移（cell  migration）時發生？",
+    "options": {
+      "A": "MadCAM/α4β1",
+      "B": "E-selectin/CD15s（sialyl-Lewis-X carbohydrate of CD15）",
+      "C": "IL-8/CCR2",
+      "D": "VCAM-1/LFA-1"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 74 題",
+    "question": "下列那一種細胞不能呈獻（presenting）胜肽（peptide）抗原給輔助型T 細胞（helper T cells）？",
+    "options": {
+      "A": "B 細胞",
+      "B": "嗜中性白血球（neutrophils）",
+      "C": "巨噬細胞（macrophages）",
+      "D": "樹狀突出細胞（dendritic cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

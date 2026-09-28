@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 51 題",
+    "question": "下列何者在固定濃度下，無法被持續增高濃度的致效劑（agonist）逆轉其效能（efficacy）？",
+    "options": {
+      "A": "競爭性拮抗劑（competitive antagonist）",
+      "B": "非競爭性拮抗劑（noncompetitive antagonist）",
+      "C": "反促效劑（inverse agonist）",
+      "D": "部分促效劑（partial agonist）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 52 題",
+    "question": "關於rifampin產生的作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "抗藥性產生可能是結合到DNA聚合酶的能力降低",
+      "B": "於開放性肺結核病，必須與isoniazid併用，以預防抗藥性的發生",
+      "C": "會加速methadone或anticoagulants排除，是因為能誘發細胞色素P450（cytochrome P450）",
+      "D": "與其他rifamycin類的藥物會有交叉抗藥性（cross-resistance）產生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 53 題",
+    "question": "下列抗癌藥物與其主要產生毒性之配對，何者錯誤？",
+    "options": {
+      "A": "doxorubicin－心臟毒性",
+      "B": "oxaliplatin－周邊感覺神經病變",
+      "C": "vincristine－肺纖維化",
+      "D": "cyclophosphamide－出血性膀胱炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 54 題",
+    "question": "Pembrolizumab為免疫檢查點抑制劑（immune checkpoint inhibitor），可用於治療癌症，下列何者為此單株抗 體專一性結合的蛋白？",
+    "options": {
+      "A": "epidermal growth factor receptor（EGFR）",
+      "B": "programmed death-1 receptor（PD-1）",
+      "C": "programmed death ligand 1（PD-L1）",
+      "D": "cytotoxic T-lymphocyte-associated antigen 4（CTLA-4）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 55 題",
+    "question": "林先生因車禍受傷，傷口已化膿才就醫，經檢驗為β-lactamase positive金黃色葡萄球菌（Staphylococcus aureus）感染，下列何種抗生素最適合用於治療？",
+    "options": {
+      "A": "ampicillin",
+      "B": "dicloxacillin",
+      "C": "penicillin G",
+      "D": "piperacillin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 56 題",
+    "question": "有關預防性抗血栓藥物（antithrombotic drug）rivaroxaban之相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要機制為抑制凝血因子Xa作用",
+      "B": "可用於治療靜脈血栓症",
+      "C": "年長者使用時，應注意此藥物之半衰期會縮短",
+      "D": "目前andexanet alfa為直接性解毒劑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 57 題",
+    "question": "下列關於可刺激子宮肌肉收縮（oxytocic action）自泌素及其相關藥物之敘述，何者錯誤？",
+    "options": {
+      "A": "PGE2及 PGF2α具強效收縮作用",
+      "B": "misoprostol具類似PGF2α之作用",
+      "C": "dinoprostone具類似PGE2之作用",
+      "D": "carboprost具類似PGF2α之作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 58 題",
+    "question": "Simvastatin主要療效在於降低血中LDL含量，同時具有緩解血管發炎及粥狀動脈形成的作用。此藥物主要之 作用機制為何？",
+    "options": {
+      "A": "活化PPAR-α受體",
+      "B": "抑制HMG-CoA reductase活性",
+      "C": "抑制腸道運輸蛋白NPC1L1",
+      "D": "與膽酸（bile acid）結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 59 題",
+    "question": "下列何種藥物的主要作用對象，不是G蛋白耦合受體（G protein-couple receptor, GPCR）？",
+    "options": {
+      "A": "somatotropin",
+      "B": "bromocriptine",
+      "C": "desmopressin",
+      "D": "leuprolide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 60 題",
+    "question": "下列何種藥物主要作用對象為雌激素受體，可治療停經後婦女的骨質疏鬆？",
+    "options": {
+      "A": "omeprazole",
+      "B": "denosumab",
+      "C": "raloxifene",
+      "D": "prednisolone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 61 題",
+    "question": "下列何種腎上腺皮質素拮抗劑的作用，係透過抑制膽固醇（cholesterol）轉換成孕烯醇酮（pregnenolone）的 作用，來阻斷皮質醇和皮質酮的生合成？",
+    "options": {
+      "A": "aminoglutethimide",
+      "B": "metyrapone",
+      "C": "mifepristone",
+      "D": "trilostane"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 62 題",
+    "question": "下列何者具有在中樞轉換成α-methylnorepinephrine的作用，可以適用於腎功能不全的高血壓患者？",
+    "options": {
+      "A": "clonidine",
+      "B": "captopril",
+      "C": "methyldopa",
+      "D": "minoxidil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 63 題",
+    "question": "下列降血壓藥何者具有ATP-sensitive K-channel活化作用，會使動脈血管擴張，但會抑制insulin釋放？",
+    "options": {
+      "A": "fenoldopam",
+      "B": "captopril",
+      "C": "diazoxide",
+      "D": "minoxidil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 64 題",
+    "question": "下列關於sacubitril的敘述，何者錯誤？",
+    "options": {
+      "A": "可活化brain natriuretic peptide受體",
+      "B": "可和valsartan合併使用",
+      "C": "可引起血管擴張",
+      "D": "用於治療慢性心臟衰竭"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 65 題",
+    "question": "下列局部點眼藥中，何者無法降低眼壓，對隅角開放性青光眼（open-angle glaucoma）也沒有改善效果？",
+    "options": {
+      "A": "latanoprost",
+      "B": "apraclonidine",
+      "C": "timolol",
+      "D": "atropine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 66 題",
+    "question": "肉毒桿菌毒素（botulinum toxin）可局部注射於皮下，用以消除皺紋，其作用是透過下列何種機制而產生？",
+    "options": {
+      "A": "抑制運動神經細胞的鈉離子通道（sodium channel）",
+      "B": "抑制骨骼肌細胞的鈉離子通道",
+      "C": "阻斷骨骼肌細胞的菸鹼性受體（nicotinic receptor）",
+      "D": "抑制突觸囊泡（synaptic vesicle）釋放乙醯膽鹼"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 67 題",
+    "question": "下列何者是metoclopramide的主要副作用？",
+    "options": {
+      "A": "胃食道逆流（gastroesophageal reflux）",
+      "B": "錐體外症狀（extrapyramidal symptom）",
+      "C": "嗜睡",
+      "D": "嘔吐"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 68 題",
+    "question": "使用吸入型皮質類固醇仍無法有效控制氣喘時，最適合併用下列何種藥物以預防氣喘發作？",
+    "options": {
+      "A": "ephedrine",
+      "B": "formoterol",
+      "C": "roflumilast",
+      "D": "zileuton"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 69 題",
+    "question": "若患者有腸躁症合併便秘時，使用下列何種藥物來治療的效果最佳？",
+    "options": {
+      "A": "tegaserod",
+      "B": "cisapride",
+      "C": "fluoxetine",
+      "D": "ritanserin"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 70 題",
+    "question": "下列何種藥物最適合用來治療男性勃起障礙（erectile dysfunction）？",
+    "options": {
+      "A": "epoprostenol",
+      "B": "treprostinil",
+      "C": "misoprostol",
+      "D": "alprostadil"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 71 題",
+    "question": "關於氣喘的藥物中，下列何者的作用機轉是透過抑制支氣管平滑肌上leukotriene受體的作用而來的？",
+    "options": {
+      "A": "zafirlukast",
+      "B": "misoprostol",
+      "C": "zileuton",
+      "D": "iloprost"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 72 題",
+    "question": "以levodopa治療帕金森氏症時，可併用selegiline增強levodopa的療效，下列何者為selegiline的藥理作用機制？",
+    "options": {
+      "A": "抑制單胺氧化酶B（monoamine oxidase B）",
+      "B": "抑制兒茶酚-O-甲基轉移酶（catechol-O-methyltransferase）",
+      "C": "抑制多巴脫羧基酶（dopa decarboxylase）",
+      "D": "促進腦部神經末梢釋放多巴胺（dopamine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 73 題",
+    "question": "下列那一個治療癲癇發作的藥物，多數患者長期使用造成顯著的體重降低，目前與phentermine作成複方用於 肥胖治療？",
+    "options": {
+      "A": "topiramate",
+      "B": "valproic acid",
+      "C": "gabapentin",
+      "D": "levetiracetam"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 74 題",
+    "question": "關於麻醉藥propofol作用的敘述，下列何者錯誤？",
+    "options": {
+      "A": "具有鎮痛效果",
+      "B": "降低血壓，在老年人更明顯",
+      "C": "起效快，可用於誘導麻醉",
+      "D": "具有止吐作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 75 題",
+    "question": "下列何種藥物使用過量或中毒，採用血液透析解毒效果最差？",
+    "options": {
+      "A": "digoxin",
+      "B": "lithium",
+      "C": "theophylline",
+      "D": "carbamazepine"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

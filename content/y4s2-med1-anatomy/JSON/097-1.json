@@ -1,0 +1,351 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 1 題",
+    "question": "某病患之臨床表現包括動作遲緩（bradykinesia）、小碎步、靜止性震顫（resting tremor）等，其最常 見是中樞神經系統中何處發生退化性病變？",
+    "options": {
+      "A": "黑質（substantia nigra）",
+      "B": "白質（white matter）",
+      "C": "尾狀核（caudate nucleus）",
+      "D": "紅核（red nucleus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 2 題",
+    "question": "下列有關腰椎穿刺（lumbar spinal puncture）的敘述何者錯誤？",
+    "options": {
+      "A": "腰椎穿刺所採取的腦脊髓液，可用來診斷中樞神經系統感染性疾病，如腦膜炎（meningitis）",
+      "B": "腰椎穿刺需在L3-L4，或L4-L5 椎間刺入",
+      "C": "腰椎穿刺時，病人之脊柱需向後伸展（extension）",
+      "D": "腦壓（intracranial pressure）嚴重上升時，腰椎穿刺需謹慎評估"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 3 題",
+    "question": "一籃球選手於灌籃時，遭劇烈碰撞，造成肱骨的外科頸骨折（fracture of surgical neck of the humerus）， 下列那些鄰近外科頸的構造最可能受傷？",
+    "options": {
+      "A": "橈神經（radial nerve）與肩胛上動脈（suprascapular artery）",
+      "B": "腋神經（axillary nerve）與旋肱動脈（circumflex humeral artery）",
+      "C": "肩胛上神經（suprascapular nerve）與肩胛下動脈（subscapular artery）",
+      "D": "胸長神經（long thoracic nerve）與臂動脈（brachial artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 4 題",
+    "question": "對慢性鼻竇炎患者實施鼻竇內視鏡手術時，在處理下列那一個鼻竇時，比較會傷及視神經（optic nerve） 及內頸動脈（internal carotid artery）？",
+    "options": {
+      "A": "上頜竇（maxillary sinus）",
+      "B": "額竇（frontal sinus）",
+      "C": "前篩竇（anterior ethmoidal sinus）",
+      "D": "蝶竇（sphenoid sinus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 5 題",
+    "question": "切除腮腺後，顏面神經主幹可追溯至顱底何處？",
+    "options": {
+      "A": "卵圓孔（foramen ovale）",
+      "B": "蝶腭孔（sphenopalatine foramen）",
+      "C": "莖乳突孔（stylomastoid foramen）",
+      "D": "眼眶下裂（infraorbital fissure）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 6 題",
+    "question": "下列何肌肉沒有參與構成腋窩（axilla）？",
+    "options": {
+      "A": "三角肌（deltoid）",
+      "B": "胸大肌（pectoralis major）",
+      "C": "大圓肌（teres major）",
+      "D": "肩胛下肌（subscapularis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 7 題",
+    "question": "下列何者沒有足底彎曲（plantar flexion）的作用？",
+    "options": {
+      "A": "腓腸肌（gastrocnemius）",
+      "B": "第三腓骨肌（peroneus tertius）",
+      "C": "腓長肌（peroneus longus）",
+      "D": "脛後肌（tibialis posterior）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 8 題",
+    "question": "下列何者伴行足背動脈（dorsalis pedis artery）？",
+    "options": {
+      "A": "腓深神經（deep peroneal nerve）",
+      "B": "腓淺神經（superficial peroneal nerve）",
+      "C": "脛神經（tibial nerve）",
+      "D": "足底內側神經（medial plantar nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 9 題",
+    "question": "下列前臂肌肉中，何者的位置較深？",
+    "options": {
+      "A": "屈指淺肌（flexor digitorum superficialis）",
+      "B": "旋前圓肌（pronator teres）",
+      "C": "橈側屈腕肌（flexor carpi radialis）",
+      "D": "尺側屈腕肌（flexor carpi ulnaris）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 10 題",
+    "question": "下列何者會先通過坐骨大孔，再通過坐骨小孔？",
+    "options": {
+      "A": "上孖肌",
+      "B": "梨狀肌",
+      "C": "閉孔內肌",
+      "D": "陰部神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 11 題",
+    "question": "下列何者有子宮動脈經過？",
+    "options": {
+      "A": "闊韌帶（broad ligament）",
+      "B": "懸韌帶（suspensory ligament）",
+      "C": "子宮圓韌帶（round ligament of uterus）",
+      "D": "子宮薦韌帶（uterosacral ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 12 題",
+    "question": "下列何者位於會陰深隙（deep perineal pouch）？",
+    "options": {
+      "A": "會陰淺橫肌",
+      "B": "球海綿體肌",
+      "C": "陰莖背側神經",
+      "D": "坐骨海綿體肌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 13 題",
+    "question": "下列何者為提睪肌（cremaster muscle）的主要支配神經？",
+    "options": {
+      "A": "股神經",
+      "B": "陰部神經",
+      "C": "生殖股神經",
+      "D": "髂腹股溝神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 14 題",
+    "question": "下列何者會經行於梨狀肌與尾骨肌之間？",
+    "options": {
+      "A": "臀上動脈",
+      "B": "閉孔動脈",
+      "C": "膀胱下動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 15 題",
+    "question": "下列何者為龜頭（glans）的主要支配神經？",
+    "options": {
+      "A": "股後皮神經",
+      "B": "生殖股神經",
+      "C": "陰莖背側神經",
+      "D": "髂腹股溝神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 16 題",
+    "question": "下列何動脈不供應橫膈（diaphragm）？",
+    "options": {
+      "A": "胸主動脈（thoracic aorta）",
+      "B": "內胸動脈（internal thoracic artery）",
+      "C": "腹主動脈（abdominal aorta）",
+      "D": "腹腔動脈幹（celiac trunk）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 17 題",
+    "question": "陰囊的dartos 肌所在之位置相當於下列何結構？",
+    "options": {
+      "A": "腹外斜肌",
+      "B": "腹內斜肌",
+      "C": "腹部淺肌膜層",
+      "D": "潤肌膜（fascia lata）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 18 題",
+    "question": "第十一肋間的動脈供應來自：",
+    "options": {
+      "A": "前肋間動脈（anterior intercostal artery）",
+      "B": "後肋間動脈（posterior intercostal artery）",
+      "C": "肌膈動脈（musculophrenic artery）",
+      "D": "肋下動脈（subcostal artery）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 19 題",
+    "question": "關於淚液的流向，下列何者錯誤？",
+    "options": {
+      "A": "淚腺分泌淚液經由淚管（lacrimal ducts）釋入結膜囊（conjunctival sac）",
+      "B": "淚湖（lacrimal lake）中之淚液流入淚點（lacrimal puncta）",
+      "C": "淚小管（lacrimal canaliculi）將淚液導入淚囊（lacrimal sac）",
+      "D": "鼻淚管（nasolacrimal duct）開口於鼻腔之中鼻道（middle meatus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 20 題",
+    "question": "左肺門（hilum）正上方的溝（或切跡）是由何結構造成的？",
+    "options": {
+      "A": "食道",
+      "B": "動脈弓",
+      "C": "奇靜脈",
+      "D": "上腔靜脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 21 題",
+    "question": "胸管（thoracic duct）和下列那一構造一起穿過橫膈膜進入胸腔？",
+    "options": {
+      "A": "下腔靜脈",
+      "B": "食道",
+      "C": "主動脈",
+      "D": "迷走神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 22 題",
+    "question": "下列有關顏面神經的敘述，何者正確？",
+    "options": {
+      "A": "運動根（motor root）含有副交感神經纖維",
+      "B": "中間神經（nerve intermedius）含有支配軟腭的感覺神經纖維",
+      "C": "岩大神經（greater petrosal nerve）含有支配骨骼肌的運動神經纖維",
+      "D": "味覺纖維的細胞本體位於膝狀神經節（geniculate ganglion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 23 題",
+    "question": "喉返神經（recurrent laryngeal nerve）的功能與下列何者無關？",
+    "options": {
+      "A": "傳遞聲襞（vocal folds）以下喉內黏膜之感覺",
+      "B": "控制聲門（rima glottidis）之開啟",
+      "C": "控制聲門之關閉",
+      "D": "控制環甲肌（cricothyroid muscle）之收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 24 題",
+    "question": "下列何者不發生於近距離之調焦作用（accommodation）？",
+    "options": {
+      "A": "第三對顱神經副交感節前纖維興奮",
+      "B": "睫狀肌（ciliary muscle）收縮",
+      "C": "水晶體懸韌帶（suspensory ligaments of lens）被拉緊",
+      "D": "水晶體變凸變厚"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 25 題",
+    "question": "下列各對顱內靜脈竇（venous sinus）之中，那一對直接相連？",
+    "options": {
+      "A": "上矢狀竇（superior sagittal sinus）與下矢狀竇（inferior sagittal sinus）",
+      "B": "下矢狀竇（inferior sagittal sinus）與橫竇（transverse sinus）",
+      "C": "乙狀竇（sigmoid sinus）與岩上竇（superior petrosal sinus）",
+      "D": "上矢狀竇（superior sagittal sinus）與岩下竇（inferior petrosal sinus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 26 題",
+    "question": "頰肌（buccinator）由何神經支配？",
+    "options": {
+      "A": "第五對顱神經之頰神經（buccal nerve）",
+      "B": "第七對顱神經之頰支（buccal branch）",
+      "C": "第五對顱神經之第二支",
+      "D": "第十二對顱神經"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 27 題",
+    "question": "下列有關翼腭窩（pterygopalatine fossa）之敘述，何者錯誤？",
+    "options": {
+      "A": "上頜動脈（maxillary artery）之第三部分進入此窩",
+      "B": "由翼腭窩向內經鼻腭孔（nasopalatine foramen）進入鼻腔",
+      "C": "上頜神經（maxillary nerve）經過此窩",
+      "D": "此窩中之副交感神經節前纖維來自翼管（pterygoid canal）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 28 題",
+    "question": "下列何骨不構成眼眶（orbit）？",
+    "options": {
+      "A": "犁骨（vomer）",
+      "B": "腭骨（palatine bone）",
+      "C": "顴骨（zygomatic bone）",
+      "D": "篩骨（ethmoid bone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

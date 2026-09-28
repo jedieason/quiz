@@ -1,0 +1,338 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 1 題",
+    "question": "病人出現短期記憶（short-term memory）的障礙，此病人可能因大腦邊緣系統（limbic system）的巴 氏神經迴路（circuit of Papez）受損害，下列那一構造不參與此迴路？",
+    "options": {
+      "A": "穹窿（fornix）",
+      "B": "乳頭體（mamillary body）",
+      "C": "丘腦內背側核（mediodorsal thalamic nucleus）",
+      "D": "扣帶回（cingulum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 2 題",
+    "question": "瞳孔在照強光後，所產生的縮瞳反應（light reflex），其神經傳遞路徑不包含下列何者？",
+    "options": {
+      "A": "四疊體上區域（pretectal area）",
+      "B": "EW 核（Edinger-Westphal nucleus）",
+      "C": "外側膝狀體（lateral geniculate body）",
+      "D": "視神經（optic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 3 題",
+    "question": "下列何者緊貼於膀胱頸？",
+    "options": {
+      "A": "子宮",
+      "B": "陰道",
+      "C": "直腸",
+      "D": "前列腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 4 題",
+    "question": "關於闌尾（appendix）切除手術，定位盲腸（cecum）時所用的McBurney’s point 位於肚臍和右側髂 骨前上棘（anterior superior iliac spine）連線的：",
+    "options": {
+      "A": "外側1/3 點處",
+      "B": "內側1/3 點處",
+      "C": "1/2 點處",
+      "D": "外側1/4 點處"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 5 題",
+    "question": "一年輕女性騎機車，因車禍跌倒，發生肱骨骨折後，造成三角肌萎縮無力，肩部無法外展，骨折位 置在：",
+    "options": {
+      "A": "肱骨外科頸處（surgical neck of humerus），腋神經受傷",
+      "B": "肱骨上1/3 處，正中神經受傷",
+      "C": "肱骨中段，橈神經受傷",
+      "D": "肱骨滑車（trochlea of humerus），尺神經受傷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 6 題",
+    "question": "下列關於默克氏迴腸憩室（ileal diverticulum of Meckel）之敘述，何者錯誤？",
+    "options": {
+      "A": "其為胚胎時期臍靜脈（umbilical vein）之遺跡",
+      "B": "常位於成人迴結腸交界處以上50 公分的小腸處",
+      "C": "其黏膜可能含有胃、胰臟組織",
+      "D": "迴腸憩室發炎時，其臨床表現易與闌尾炎或其他急腹症相混淆"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 7 題",
+    "question": "左邊的迷走神經在那裡分支出喉返神經（recurrent laryngeal nerve）並繞過此結構？",
+    "options": {
+      "A": "主支氣管",
+      "B": "主動脈弓",
+      "C": "鎖骨下動脈",
+      "D": "肺靜脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 8 題",
+    "question": "提睪肌反射（cremasteric reflex）與下列何構造無關？",
+    "options": {
+      "A": "髂腹股溝神經（ilioinguinal nerve）",
+      "B": "股後側皮神經（posterior femoral cutaneous nerve）",
+      "C": "脊髓腰段（spinal cord, lumbar segment）",
+      "D": "生殖股神經（genitofemoral nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 9 題",
+    "question": "臨床上牙科處理下排臼齒時，局部麻醉下齒槽神經（inferior alveolar nerve）多由何處注射局部麻醉 藥劑？",
+    "options": {
+      "A": "頦孔（mental foramen）",
+      "B": "顴弓（zygomatic arch）下緣",
+      "C": "髁突（condylar process）前緣",
+      "D": "下顎骨孔（mandibular foramen）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 10 題",
+    "question": "下列旋轉袖（rotator cuff）肌肉中，何者能內旋手臂？",
+    "options": {
+      "A": "棘下肌（infraspinatus）",
+      "B": "棘上肌（supraspinatus）",
+      "C": "肩胛下肌（subscapularis）",
+      "D": "小圓肌（teres minor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 11 題",
+    "question": "下列何者不會通過坐骨大孔？",
+    "options": {
+      "A": "梨狀肌",
+      "B": "坐骨神經",
+      "C": "陰部神經",
+      "D": "閉孔內肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 12 題",
+    "question": "肛管與直腸之角度主要由下列何者所牽引造成？",
+    "options": {
+      "A": "提肛肌",
+      "B": "尾骨肌",
+      "C": "梨狀肌",
+      "D": "閉孔內肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 13 題",
+    "question": "下列何者受陰部神經（pudendal nerve）或其分支所支配？",
+    "options": {
+      "A": "卵巢",
+      "B": "子宮",
+      "C": "陰道",
+      "D": "輸卵管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 14 題",
+    "question": "在手腕處，正中神經（median nerve）位於下列何者肌腱的深層？",
+    "options": {
+      "A": "掌長肌（palmaris longus）",
+      "B": "橈側屈腕肌（flexor carpi radialis）",
+      "C": "尺側屈腕肌（flexor carpi ulnaris）",
+      "D": "屈指淺肌（flexor digitorum superficialis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 15 題",
+    "question": "下列何者不支配肘關節（elbow joint）的運動？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "橈神經（radial nerve）",
+      "C": "腋神經（axillary nerve）",
+      "D": "尺神經（ulnar nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 16 題",
+    "question": "下列那一組肌腱之間可測得足背動脈（dorsalis pedis artery）的搏動？",
+    "options": {
+      "A": "屈趾長肌（flexor digitorum longus）與屈𧿹長肌（flexor hallucis longus）",
+      "B": "伸趾長肌（extensor digitorum longus）與伸趾短肌（extensor digitorum brevis）",
+      "C": "伸𧿹長肌（extensor hallucis longus）與脛前肌（tibialis anterior）",
+      "D": "伸趾長肌與伸𧿹長肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 17 題",
+    "question": "閉孔神經（obturator nerve）的前支及後支分別行經下列何者的淺層及深層？",
+    "options": {
+      "A": "內收短肌（adductor brevis）",
+      "B": "恥骨肌（pectineus）",
+      "C": "內收長肌（adductor longus）",
+      "D": "內收大肌（adductor magnus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 18 題",
+    "question": "大腿的內收肌管（adductor canal）內不包括下列何構造？",
+    "options": {
+      "A": "股動脈（femoral artery）",
+      "B": "股靜脈（femoral vein）",
+      "C": "股神經（femoral nerve）",
+      "D": "隱神經（saphenous nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 19 題",
+    "question": "一般人左右腎門的連線通過下列何平面？",
+    "options": {
+      "A": "橫幽門面（transpyloric plane）",
+      "B": "橫臍面（transumbilical plane）",
+      "C": "橫腸骨結節面（transtubercular plane）",
+      "D": "腸骨嵴間面（intercristal plane）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 20 題",
+    "question": "伴行心臟前室間枝（anterior interventricular branch）走在心臟前室間溝的靜脈是：",
+    "options": {
+      "A": "心前靜脈（anterior cardiac vein）",
+      "B": "心大靜脈（great cardiac vein）",
+      "C": "心中靜脈（middle cardiac vein）",
+      "D": "心小靜脈（small cardiac vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 21 題",
+    "question": "腹內斜肌腱膜（aponeurosis）在下列何處包裹腹直肌？",
+    "options": {
+      "A": "肋下緣的高度之上",
+      "B": "肋下緣與腸骨前上棘之間",
+      "C": "腸骨前上棘與恥骨間",
+      "D": "恥骨的高度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 22 題",
+    "question": "輸尿管不由下列何動脈供應？",
+    "options": {
+      "A": "腎動脈",
+      "B": "睪丸或卵巢動脈",
+      "C": "腹腔動脈",
+      "D": "外腸骨動脈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 23 題",
+    "question": "上頜神經（maxillary nerve）及其分支不支配下列何處？",
+    "options": {
+      "A": "上齒槽（superior alveolus）",
+      "B": "硬腭黏膜",
+      "C": "上頜竇（maxillary sinus）黏膜",
+      "D": "鼻根點（nasion）皮膚"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 24 題",
+    "question": "下列何者構成中顱窩（middle cranial fossa）之一部分？",
+    "options": {
+      "A": "雞冠（crista galli）",
+      "B": "篩板（cribriform plate）",
+      "C": "顳骨鱗部（squamous part of temporal bone）",
+      "D": "枕骨基底部（basilar part of occipital bone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 25 題",
+    "question": "下列何者不是副交感神經（parasympathetic nerve）之主要作用？",
+    "options": {
+      "A": "控制調焦作用（accommodation）",
+      "B": "散瞳（mydriasis）",
+      "C": "刺激鼻腔黏液腺（mucous gland）之分泌",
+      "D": "刺激淚腺（lacrimal gland）之分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 26 題",
+    "question": "下列何者屬於下丘腦內管狀區（tuberal region of the hypothalamus）之結構？",
+    "options": {
+      "A": "管狀核（tuberal nucleus）",
+      "B": "弓狀核（arcuate nucleus）",
+      "C": "旁室核（paraventricular nucleus）",
+      "D": "後核（posterior nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 27 題",
+    "question": "下列關於疑核（nucleus ambiguus）的敘述，何者正確？",
+    "options": {
+      "A": "所發出之纖維支配咽內在肌群（intrinsic laryngeal muscles）",
+      "B": "位於孤立核的背側",
+      "C": "含有交感神經節前神經元",
+      "D": "含有感覺神經元"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 28 題",
+    "question": "下列何結構是起源於神經嵴（neural crest）？",
+    "options": {
+      "A": "寡突膠細胞（oligodendrocyte）",
+      "B": "脊髓運動神經元（spinal motor neuron）",
+      "C": "星形膠細胞（astrocyte）",
+      "D": "背根神經節的神經元（neurons of dorsal root ganglion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

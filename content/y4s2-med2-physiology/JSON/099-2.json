@@ -1,0 +1,308 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 1 題",
+    "question": "下列何者兼具控制腦下垂體與自主神經系統之功能？",
+    "options": {
+      "A": "Thalamus",
+      "B": "Hypothalamus",
+      "C": "Basal ganglia",
+      "D": "Ventral tegmental area"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 2 題",
+    "question": "聽覺的受器細胞位於下列何處？",
+    "options": {
+      "A": "Middle ear",
+      "B": "External auditory canal",
+      "C": "Tympanic membrane",
+      "D": "Inner ear"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 3 題",
+    "question": "在黑暗中，有關視網膜錐形細胞的敘述，下列何者錯誤？",
+    "options": {
+      "A": "Guanosine monophosphate（GMP）濃度上升",
+      "B": "Influx of calcium",
+      "C": "細胞處於去極化狀態（depolarized state）",
+      "D": "Outer segment 膜上的鈣離子通道處於開啟狀態"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 4 題",
+    "question": "正常人體能感受環境溫度變化，以便做適度的因應。下列有關thermoreceptor 的敘述何者錯誤？",
+    "options": {
+      "A": "Thermoreceptor 可分為cold receptor 與warm receptor 兩種",
+      "B": "大部分的warm receptor fiber 屬於C fiber",
+      "C": "Cold receptor 及warm receptor 均屬於slowly adapting receptors",
+      "D": "受到高於45℃的溫度刺激時，warm receptors 興奮性增加，warm fibers 的動作電位頻率大增，此時 warm receptors 可同時偵測痛覺"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答C 或D 者均給分。"
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 5 題",
+    "question": "下列有關近視（myopia）的敘述何者正確？",
+    "options": {
+      "A": "遠方物體的影像聚焦於視網膜（retina）的前方",
+      "B": "可用凸透鏡片（convex lens）協助矯正視力",
+      "C": "水晶體（lens）對近距離影像的調節（accommodation）有缺陷",
+      "D": "近視患者不會罹患老花眼（presbyopia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 6 題",
+    "question": "下列有關平滑肌的敘述，何者錯誤？",
+    "options": {
+      "A": "在某些種類平滑肌內，鈣離子的釋放不需要動作電位（action potential）來驅動",
+      "B": "在平滑肌內，細胞質內的鈣離子濃度會受到細胞膜電位去極化的梯度變化所影響",
+      "C": "平滑肌細胞並沒有特異性的運動終板區（motor end-plate region）",
+      "D": "平滑肌的興奮或抑制完全是取決於chemical messenger 的作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 7 題",
+    "question": "有關骨骼肌之敘述，下列何者錯誤？",
+    "options": {
+      "A": "收縮力的產生是來自於肌動蛋白（actin）與肌凝蛋白（myosin）的相互作用",
+      "B": "鈣離子與troponin-C 的結合促使肌動蛋白絲（actin filament）上的troponin-I 移動，進而促使肌凝 蛋白的結合部位暴露出來",
+      "C": "H-band 位於肌肉的肌節（sarcomere）的中央",
+      "D": "在Z-line 的兩側的I-band 主要是由肌動蛋白所組成的"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 8 題",
+    "question": "當某些血管內皮受損時，下列何者可直接和血管平滑肌細胞作用，造成血管收縮？",
+    "options": {
+      "A": "Adenosine",
+      "B": "Acetylcholine",
+      "C": "ANP",
+      "D": "Carbon monoxide（CO）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 9 題",
+    "question": "一位30 歲健康男性，在心室收縮末期，左心室仍約留有42 c.c.的血液；在心室舒張末期，左心室亦 留有約140 c.c.的血液。其左心室射出分率（ejection fraction）為何？",
+    "options": {
+      "A": "60%",
+      "B": "65%",
+      "C": "70%",
+      "D": "75%"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 10 題",
+    "question": "下列何者與心室顫動（ventricular fibrillation）的成因較無關？",
+    "options": {
+      "A": "心臟肥厚（hypertrophy）",
+      "B": "心肌缺血（ischemia）",
+      "C": "血鉀過高（hyperkalemia）",
+      "D": "Purkinje system 傳導阻滯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 11 題",
+    "question": "臨床上有關不同類型休克（shock）的成因，下列何者正確？",
+    "options": {
+      "A": "燒燙傷（burns）可造成distributing shock",
+      "B": "心包膜填塞（cardiac tamponade）會造成cardiogenic shock",
+      "C": "Obstructive shock 常出現於外科手術（surgery）後",
+      "D": "Hypovolemic shock 可出現於大量失血（hemorrhage）時"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 12 題",
+    "question": "一位健康者站立且平靜呼吸時，有關肺通氣量（ventilation; V ‧ A）、血液灌流量（perfusion; Q ‧）與肺 順應性（lung compliance）之變化，下列敘述何者錯誤？",
+    "options": {
+      "A": "肺通氣量：肺尖＜肺底",
+      "B": "血液灌流量：肺尖＜肺底",
+      "C": "肺通氣量與血液灌流量之比值（V ‧ A/Q ‧）：肺尖＜肺底",
+      "D": "肺順應性：肺尖＜肺底"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 13 題",
+    "question": "有關肺傳導區（conducting zone）之功能，下列敘述何者錯誤？",
+    "options": {
+      "A": "分泌黏液（mucus）",
+      "B": "形成無效腔（dead space）",
+      "C": "分泌表面作用素（surfactant）",
+      "D": "調控呼吸道阻力（airway resistance）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 14 題",
+    "question": "下列有關一氧化碳中毒的敘述，何者錯誤？",
+    "options": {
+      "A": "一氧化碳中毒的症狀為頭痛、噁心，且因缺氧故刺激化學接受體（chemoreceptor）使呼吸加快加深",
+      "B": "一氧化碳中毒的患者皮膚可呈櫻桃紅色",
+      "C": "一氧化碳中毒時，若體內70-80%血紅素變成帶“一氧化碳血紅素（COHb）＂則可能致命",
+      "D": "治療一氧化碳中毒可用高濃度氧氣或高壓氧"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 15 題",
+    "question": "下列何者在進食後分泌受到抑制？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "運動素（motilin）",
+      "D": "胰泌素（secretin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 16 題",
+    "question": "各種消化道平滑肌收縮模式中，那一種是大腸特有的平滑肌收縮？",
+    "options": {
+      "A": "Peristaltic wave",
+      "B": "Segmentation contraction",
+      "C": "Tonic contraction",
+      "D": "Mass action contraction"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 17 題",
+    "question": "下列引起消化性潰瘍（peptic ulcer）的各種病因中，何者為1980 年代發現的重要病因？此項發現並 且榮獲2005 年諾貝爾生理學醫學獎。",
+    "options": {
+      "A": "胃酸和胃蛋白酶過多",
+      "B": "黏膜的血流供給不足",
+      "C": "黏膜的黏液分泌不足",
+      "D": "幽門螺旋桿菌感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 18 題",
+    "question": "正常情況下，水分的通透性（permeability）在下列何處最大？",
+    "options": {
+      "A": "亨利氏彎管的細下降枝（thin descending limb）",
+      "B": "亨利氏彎管的細上升枝（thin ascending limb）",
+      "C": "亨利氏彎管的粗上升枝（thick ascending limb）",
+      "D": "集尿管（collecting duct）的髓質部（inner medullary portion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 19 題",
+    "question": "下列何種情況，會造成腎小管的鉀離子分泌增加？",
+    "options": {
+      "A": "血漿中重碳酸鹽（bicarbonate）減少",
+      "B": "血漿中二氧化碳分壓增加",
+      "C": "遠端腎小管管腔液的流量增加",
+      "D": "飲食中的鉀攝取量減少"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 20 題",
+    "question": "下列何種形式的缺氧（hypoxia）其動脈血氧分壓會下降？",
+    "options": {
+      "A": "Hypoxic hypoxia",
+      "B": "Anemic hypoxia",
+      "C": "Stagnant or ischemic hypoxia",
+      "D": "Histotoxic hypoxia"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 21 題",
+    "question": "催產素（oxytocin）的主要作用為何？",
+    "options": {
+      "A": "促進子宮鬆弛",
+      "B": "促進排乳作用（milk ejection）",
+      "C": "抑制黃體分解（luteolysis）",
+      "D": "抑制攝護素F2α（PGF2α）的分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 22 題",
+    "question": "一位35 歲女性主訴：畏寒、水腫、無月經、且時有乳汁分泌。血液分析發現甲狀腺激素數值過低， 則此病患之無月經及泌乳現象最可能由於下列何種激素之影響？",
+    "options": {
+      "A": "下視丘所分泌之多巴胺（dopamine）刺激腦下垂體分泌泌乳素（prolactin）",
+      "B": "下視丘所分泌之性釋素（GnRH）刺激腦下垂體分泌促黃體素（LH）",
+      "C": "下視丘所分泌之甲釋素（TRH）刺激腦下垂體分泌泌乳素",
+      "D": "下視丘所分泌之多巴胺刺激腦下垂體分泌促黃體素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 23 題",
+    "question": "完全切除甲狀腺，除造成體內甲狀腺素缺乏之外，尚可能導致那2 種激素缺乏？",
+    "options": {
+      "A": "降鈣素（calcitonin）及胰島素",
+      "B": "胰島素及甲促素（TSH）",
+      "C": "甲促素及副甲狀腺素（parathyroid hormone）",
+      "D": "副甲狀腺素及降鈣素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 24 題",
+    "question": "雄性素（androgen）可在胎兒的那2 個器官生成？",
+    "options": {
+      "A": "肺及肝",
+      "B": "肝及腎上腺",
+      "C": "腎上腺及胃",
+      "D": "胃及肺"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 25 題",
+    "question": "下列那一種類固醇（steroid）的結構是由19 個碳組成？",
+    "options": {
+      "A": "助孕素（progesterone）",
+      "B": "睪固酮（testosterone）",
+      "C": "雌二醇（estradiol）",
+      "D": "皮質醇（cortisol）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

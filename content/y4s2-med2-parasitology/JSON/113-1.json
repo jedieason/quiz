@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 29 題",
+    "question": "寄生蟲感染人體所造成之症狀，下列敘述何者正確？ћ犬蛔蟲（Toxocara canis）可造成眼部幼蟲移行症 （ocular larva migrans） ќ班氏絲蟲（Wuchereria bancrofti）的慢性感染可造成下肢象皮病 （elephantiasis） ѝ免疫低下之病患受到鞭蟲（Trichuris trichiura）感染必造成死亡 ў蛔蟲 （Ascaris lumbricoides）感染可能出現異位寄生（ectopic parasitism）",
+    "options": {
+      "A": "僅ћѝ",
+      "B": "僅ќў",
+      "C": "僅ћќў",
+      "D": "ћќѝў"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 30 題",
+    "question": "人類感染下列何種寄生蟲，必須先經由心肺移行，才能到達小腸發育為成蟲？",
+    "options": {
+      "A": "犬蛔蟲（Toxocara canis）",
+      "B": "海獸胃線蟲（Anisakis spp.）",
+      "C": "十二指腸鉤蟲（Ancylostoma duodenale）",
+      "D": "有棘頜口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 31 題",
+    "question": "下列有關血吸蟲（blood flukes）之致病機制敘述，何者最適當？",
+    "options": {
+      "A": "曼森血吸蟲（Schistosoma mansoni）成蟲主要寄生於人體之膀胱靜脈叢",
+      "B": "埃及血吸蟲（Schistosoma haematobium）成蟲主要寄生於人體之腸繫膜靜脈叢",
+      "C": "血吸蟲蟲卵經血流、異位陷入（ectopic trapped）腎臟而導致肉芽腫（granuloma）",
+      "D": "日本血吸蟲（Schistosoma japonicum）成蟲之每日產卵量（egg deposition）最多可超過3000 顆"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 32 題",
+    "question": "水生植物可當何種寄生蟲之中間宿主？ћ牛羊肝吸蟲（Fasciola hepatica） ќ薑片蟲（Fasciolopsis  buski） ѝ中華肝吸蟲（Clonorchis sinensis） ў槍狀肝吸蟲（Dicrocoelium dendriticum）",
+    "options": {
+      "A": "ћќ",
+      "B": "ѝў",
+      "C": "ћѝ",
+      "D": "ќў"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 33 題",
+    "question": "一位臺商近日因腹部腫脹及發燒從中國回來臺灣就醫，經醫師檢查發現有貧血（anemia）及肝脾腫大 （hepatosplenomegaly），住院後進行骨髓穿刺可見巨噬細胞內有寄生蟲。依據上述結果，這位臺商最可能 感染下列何種寄生蟲？",
+    "options": {
+      "A": "枯西氏錐蟲（Trypanosoma cruzi）",
+      "B": "熱帶利什曼原蟲（Leishmania tropica）",
+      "C": "布氏岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "杜氏利什曼原蟲（Leishmania donovani）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 34 題",
+    "question": "有關諾氏瘧原蟲（Plasmodium knowlesi）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "宿主專一性不強，可感染人類或非人靈長類",
+      "B": "並不限定入侵年輕或老的紅血球",
+      "C": "生活史中的裂殖體週期（schizogonic cycle）僅需24 小時",
+      "D": "會在肝臟形成隱眠小體（hypnozoites）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 35 題",
+    "question": "下列何種病媒（vector）最常在人的皮膚傷口產卵孵化成幼蟲寄生在組織中？",
+    "options": {
+      "A": "白蛉",
+      "B": "跳蚤",
+      "C": "蝨",
+      "D": "綠蠅"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

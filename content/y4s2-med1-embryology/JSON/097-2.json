@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 29 題",
+    "question": "下列何者不是由背部腸繫膜（dorsal mesenteries）發育形成？",
+    "options": {
+      "A": "大網膜（Greater omentum）",
+      "B": "小網膜（Lesser omentum）",
+      "C": "固有腸繫膜（Mesentery proper）",
+      "D": "結腸繫膜（Mesocolon）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 30 題",
+    "question": "迴腸憩室（ileal diverticulum）為一殘留之指狀盲囊，其產生的原因為何？",
+    "options": {
+      "A": "卵黃囊（yolk sac）未退化",
+      "B": "尿囊（allantois）未退化",
+      "C": "卵黃柄（yolk stalk）退化不全",
+      "D": "臍帶閉合不全"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 31 題",
+    "question": "分娩時，從連接胎盤一端的臍帶切口流出的血液源自下列何者？",
+    "options": {
+      "A": "胎兒的動脈血及靜脈血",
+      "B": "母體的動脈血及胎兒的靜脈血",
+      "C": "胎兒的動脈血及母體的靜脈血",
+      "D": "胎兒和母體的動脈血及靜脈血"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 32 題",
+    "question": "腰椎 至骶椎 （sacrum）的脊柱弓在發育時期沒有癒合，會造成下列何種缺陷？",
+    "options": {
+      "A": "隱性脊柱裂（Spina bifida occulta）",
+      "B": "水腦（Hydranencephaly）",
+      "C": "Arnold-Chiari 氏畸形（Arnold-Chiari malformation）",
+      "D": "裂顱畸形（Cranium bifidum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

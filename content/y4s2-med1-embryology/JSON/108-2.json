@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 32 題",
+    "question": "精子生成（spermatogenesis）過程中，下列何者在第一次減數分裂（meiosis I）完成時產生？",
+    "options": {
+      "A": "精原細胞（spermatogonium）",
+      "B": "初級精母細胞（primary spermatocyte）",
+      "C": "次級精母細胞（secondary spermatocyte）",
+      "D": "精細胞（spermatid）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 33 題",
+    "question": "下列那一項構造，與橫膈（diaphragm）的組成無關？",
+    "options": {
+      "A": "橫中隔（septum transversum）",
+      "B": "胸腹膜（pleuroperitoneal membrane）",
+      "C": "食道背側繫膜（dorsal mesentery of esophagus）",
+      "D": "胸心包膜（pleuropericardial membrane）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 34 題",
+    "question": "下列關於十二指腸（duodenum）發育之敘述，何者正確？",
+    "options": {
+      "A": "全部由前腸（foregut）衍生而來",
+      "B": "十二指腸環（duodenal loop）連接卵黃柄（yolk stalk）",
+      "C": "隨著胃的旋轉，十二指腸環（duodenal loop）會旋轉至左側",
+      "D": "因上皮細胞增生而一度閉鎖（obliteration）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 35 題",
+    "question": "以下有關性腺（gonad）分化的敘述，何者正確？",
+    "options": {
+      "A": "性腺索（gonadal cord）在女性發育成原始濾泡（primordial follicles）",
+      "B": "皮質索（cortical cord）在男性發育成副睪（epididymis）",
+      "C": "性腺索（gonadal cord）在男性發育成細精管（seminiferous tubules）",
+      "D": "皮質索（cortical cord）在女性發育成輸卵管（oviduct）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 36 題",
+    "question": "下列有關眼睛（eye）發育的敘述，何者錯誤？",
+    "options": {
+      "A": "眼裂（optic fissure）位於眼杯（optic cup）的腹側面，並沿著視柄（optic stalk）發育",
+      "B": "視網膜中央動脈和靜脈（central artery and vein of retina）是源自遠側端玻璃體血管（hyaloid vessels）的衍生 物",
+      "C": "視網膜色素上皮（retinal pigment epithelium）是源自眼杯（optic cup）的外層",
+      "D": "視神經（optic nerve）是源自視網膜之神經節細胞軸突（axons of ganglion cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

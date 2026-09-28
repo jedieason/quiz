@@ -1,0 +1,313 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 51 題",
+    "question": "下列有關藥物動力學的敘述，何者錯誤？",
+    "options": {
+      "A": "酸性的藥物在鹼性尿液中較易排出",
+      "B": "靜脈注射給藥沒有首渡效應（first-pass effect）",
+      "C": "血漿蛋白結合力高的藥物比較不易與其他藥物產生交互作用",
+      "D": "血中白蛋白（Albumin）量的改變會影響藥物的代謝"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 52 題",
+    "question": "有關藥物交互作用，何者錯誤？  Griseofulvin",
+    "options": {
+      "A": "會加強warfarin 代謝",
+      "B": "Phenytoin 會加強alprazolam 代謝",
+      "C": "Ritonavir 會加強midazolam 代謝",
+      "D": "Carbamazepine 會加強itraconazole 代謝"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 53 題",
+    "question": "下列何種藥物之抗藥菌，其抗藥機轉並非使用Tet efflux pump 作用而排出菌體外，適用於嚴重之腹 腔感染？  Doxycycline",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Tetracycline",
+      "C": "Minocycline",
+      "D": "Tigecycline"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 54 題",
+    "question": "一名育嬰授乳的婦女感染生殖器疱疹，下列何種藥物為治療這名婦女之首選藥物？  Amantadine",
+    "options": {
+      "A": "Amantadine",
+      "B": "Acyclovir",
+      "C": "Ritonavir",
+      "D": "Trifluridine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 55 題",
+    "question": "新生兒有細菌感染時，使用下列何種抗生素，應特別注意劑量勿大於50 mg/kg/d，以免發生灰嬰症候 群？  Chloramphenicol",
+    "options": {
+      "A": "Chloramphenicol",
+      "B": "Tetracycline",
+      "C": "Vancomycin",
+      "D": "Erythromycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 56 題",
+    "question": "下列何者為Nitrofurantoin 主要之副作用？",
+    "options": {
+      "A": "噁心",
+      "B": "耳聾",
+      "C": "腎功能不全",
+      "D": "抽搐（seizure）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 57 題",
+    "question": "下列何者屬於anti-IgE 單株抗體（monoclonal antibody），可用於過敏性氣喘治療？  Basiliximab",
+    "options": {
+      "A": "Basiliximab",
+      "B": "Omalizumab",
+      "C": "Abatacept",
+      "D": "Efalizumab"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 58 題",
+    "question": "下列何種作用與低劑量Aspirin 預防栓塞型中風（Stroke）有關？",
+    "options": {
+      "A": "抑制血管內皮細胞的COX-2",
+      "B": "抑制血球細胞的Lipoxygenase",
+      "C": "抑制血小板的COX-1",
+      "D": "抑制血小板的Thromboxane A2 受體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 59 題",
+    "question": "下列抗血小板凝集藥物中，何者較易發生Neutropenia 之不良作用？  Clopidogrel",
+    "options": {
+      "A": "Clopidogrel",
+      "B": "Ticlopidine",
+      "C": "Abciximab",
+      "D": "Dipyridamole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 60 題",
+    "question": "生長激素（growth hormone）具有促進脂肪和碳水化合物代謝的作用，主要係間接透過下列何種激素 的作用來產生的？",
+    "options": {
+      "A": "促甲狀腺激素（thyroid-stimulating hormone; TSH）",
+      "B": "促腎上腺皮質激素（adrenocorticotropic hormone; ACTH）",
+      "C": "促腎上腺皮質釋放激素（corticotropin-releasing hormone; CRH）",
+      "D": "第一型類胰島素成長因子（insulin-like growth factor; IGF-1）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 61 題",
+    "question": "下列何種藥物使用時，可以明顯的改善甲狀腺機能亢進的臨床症狀，但不會降低血清中甲狀腺素濃 度？  Levothyroxine",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Methimazole",
+      "C": "Propranolol",
+      "D": "Propylthiouracil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 62 題",
+    "question": "下列有關糖皮質激素（glucocorticoids）作用的描述，何者錯誤？",
+    "options": {
+      "A": "高劑量的糖皮質激素會造成消化性潰瘍（peptic ulcer）的發生",
+      "B": "長期使用糖皮質激素會抑制促腎上腺皮質激素（adrenocorticotropic hormone; ACTH）的釋放作用",
+      "C": "高劑量的糖皮質激素具有降低顱內壓（intracranial pressure）的作用",
+      "D": "糖皮質激素具有促進早產兒肺部發展的作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 63 題",
+    "question": "那一種因基因異常引起之心律不整病人服用mexiletine 最易誘發心律不整之產生？  LQT",
+    "options": {
+      "A": "-3 病人",
+      "B": "Brugada Syndrome 病人",
+      "C": "Familial atrial fibrillation 病人",
+      "D": "LQT-2 病人"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 64 題",
+    "question": "下列關於angiotensin converting enzyme inhibitors 之敘述何者正確？",
+    "options": {
+      "A": "可藉由抑制bradykinin 及substance P 之生成而降血壓",
+      "B": "會造成反射性心搏過速，故不適用於治療心衰竭",
+      "C": "可以治療糖尿病腎病變（diabetic nephropathy）",
+      "D": "和留鉀利尿劑併用可以預防高血鉀症之發生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 65 題",
+    "question": "下列降血壓藥物中，何者可增加血管平滑肌細胞內cGMP 濃度而使血管舒張？  Minoxidil",
+    "options": {
+      "A": "Minoxidil",
+      "B": "Nifedipine",
+      "C": "Prazosin",
+      "D": "Sodium nitroprusside"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 66 題",
+    "question": "下列何種藥物，最適合用於治療過敏性休克？  Dop",
+    "options": {
+      "A": "amine",
+      "B": "Epinephrine",
+      "C": "Norepinephrine",
+      "D": "Phenylephrine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 67 題",
+    "question": "有關propranolol 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "非選擇性β-adrenoceptor 拮抗劑",
+      "B": "口服之生體可用率極高",
+      "C": "可穿過血腦障壁進入腦部",
+      "D": "使用於心肌梗塞病人可延長存活率"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 68 題",
+    "question": "下列那種藥物適合用於改善Crohn’s disease 症狀，而且作用可達12 週？  Loperamide",
+    "options": {
+      "A": "Loperamide",
+      "B": "Cholestyramine",
+      "C": "Infliximab",
+      "D": "Senna"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 69 題",
+    "question": "Terfenadine 若合併下列何種藥物使用，最容易產生心室性心律不整（ventricular arrhythmias）？  Carbachol",
+    "options": {
+      "A": "Carbachol",
+      "B": "Erythromycin",
+      "C": "Scopolamine",
+      "D": "Loratadine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 70 題",
+    "question": "【背景題幹：Terfenadine 若合併下列何種藥物使用，最容易產生心室性心律不整（ventricular arrhythmias）？  Carbachol】\n承上題，引起心律不整的原因，主要是由於阻斷下列何種通道？  Na",
+    "options": {
+      "A": "+",
+      "B": "$K^+$",
+      "C": "$Ca^{2+}$",
+      "D": "Mg2+"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 71 題",
+    "question": "下列有關退化性老年癡呆症（Alzheimer’s disease）的描述，何者錯誤？",
+    "options": {
+      "A": "退化性老年癡呆症病人其前腦（basal forebrain）的膽鹼性（cholinergic）神經元有退化現象",
+      "B": "退化性老年癡呆症病人的大腦皮質（cerebral cortex）及海馬迴（hippocampus）區域經常可以發現 類澱粉斑（amyloid plaques）的出現",
+      "C": "臨床上可以使用乙醯膽鹼酯酶（Acetylcholinesterase）抑制劑來緩解其認知異常的症狀，但經常會 出現病人血壓上升的副作用",
+      "D": "Memantine 為一種N-methyl-D-aspartate 受體的阻斷劑，對於退化性老年癡呆症病人也具有治療的 效果"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 72 題",
+    "question": "下列那一種藥物可以用來當作海洛因（heroin）成癮者的替代式治療（substitution therapy）藥物？  naloxone",
+    "options": {
+      "A": "naloxone",
+      "B": "methadone",
+      "C": "acamprosate",
+      "D": "rimonabant"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 73 題",
+    "question": "下列那一種治療部分性癲癇（partial seizure）的藥物，常因為肝臟毒性的副作用，而減少其普遍使 用性？  Diazepam",
+    "options": {
+      "A": "Diazepam",
+      "B": "Felbamate",
+      "C": "Ethosuximide",
+      "D": "Valproic acid"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 74 題",
+    "question": "下列那一種鎮靜催眠藥物在停藥後所產生的禁斷現象（withdrawal syndrome），較其他三者來的輕微 且較慢發生？  Oxazepam",
+    "options": {
+      "A": "Oxazepam",
+      "B": "Prazepam",
+      "C": "Alprazolam",
+      "D": "Lorazepam"
+    },
+    "answer": "B",
+    "explanation": "考選部更正備註：答Ｂ給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 75 題",
+    "question": "下列何種藥物是cyanide 中毒時的最佳解毒劑？  Hydroxocobalamin",
+    "options": {
+      "A": "Hydroxocobalamin",
+      "B": "Acetylcysteine",
+      "C": "Physostigmine",
+      "D": "Pralidoxime"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

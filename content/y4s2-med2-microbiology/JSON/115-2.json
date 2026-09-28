@@ -1,0 +1,211 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 1 題",
+    "question": "65 歲罹患糖尿病的男性因長期咳嗽、體重減輕及夜間盜汗就醫。經胸部X 光檢查發現雙側肺上葉有空洞性病 變，痰液抹片檢查顯示抗酸性染色（acid-fast stain）為陽性。醫師進一步詢問病史，發現該患者年輕時曾 與肺結核患者有密切接觸。下列何種免疫機制最可能使該患者在年輕時感染無明顯症狀，而經過多年後才發 病？",
+    "options": {
+      "A": "大型乾酪化肉芽腫（caseous granulomas）的形成因而抑制細菌的清除",
+      "B": "結核分枝桿菌的抗原快速突變以逃脫免疫系統辨識",
+      "C": "結核分枝桿菌誘導嗜中性白血球過度活化因而導致肺部組織損傷",
+      "D": "B 淋巴球對結核分枝桿菌的抗原產生耐受性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 2 題",
+    "question": "下列何種立克次體（Rickettsia）以人類為其主要的傳染窩（reservoir）？",
+    "options": {
+      "A": "Rickettsia akari",
+      "B": "Rickettsia rickettsii",
+      "C": "Rickettsia prowazekii",
+      "D": "Rickettsia typhi"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 3 題",
+    "question": "下列有關細菌染色體之敘述，何者最不適當？",
+    "options": {
+      "A": "大多數的細菌具有環狀染色體",
+      "B": "多數僅有一個複製起始點（oriC）",
+      "C": "位於細胞質中且無核膜包覆",
+      "D": "為雙倍體（diploid）並經半保留方式（semiconservative）進行複製"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 4 題",
+    "question": "關於病毒的致病機轉，下列何者錯誤？",
+    "options": {
+      "A": "干擾素與細胞激素可能引起類流感症狀",
+      "B": "大量抗原和抗體的存在可能形成免疫複合物，進而引發第三型過敏反應（type Ⅲ hypersensitivity）",
+      "C": "伊波拉與登革病毒都可造成出血熱（hemorrhagic fever），主要機轉都是由病毒蛋白直接破壞細胞 （cytopathic damage）而引起",
+      "D": "在病毒感染的潛伏期（incubation period），病毒已開始複製，但尚未造成疾病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 5 題",
+    "question": "有關新型隱球菌（Cryptococcus neoformans）之敘述，下列何者最適當？",
+    "options": {
+      "A": "以頭孢菌素（cephalosporins）治療",
+      "B": "主要造成尿道感染",
+      "C": "主要由昆蟲媒介傳染",
+      "D": "具多醣體莢膜（polysaccharide capsule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 6 題",
+    "question": "細菌的核糖體發生突變，下列那一種抗生素最不容易造成細菌產生抗藥性？",
+    "options": {
+      "A": "康黴素（kanamycin）",
+      "B": "阿奇黴素（azithromycin）",
+      "C": "米諾四環素（minocycline）",
+      "D": "左旋氧氟沙星（levofloxacin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 7 題",
+    "question": "細菌之青黴素結合蛋白質（penicillin-binding protein）超量表現或發生點突變時，最有可能使細菌對下列 那一類抗生素出現抗藥性？",
+    "options": {
+      "A": "頭孢子素類（cephalosporins）",
+      "B": "大環內酯類（macrolides）",
+      "C": "磺胺類（sulfonamides）",
+      "D": "胺基醣苷類（aminoglycosides）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 8 題",
+    "question": "破傷風免疫球蛋白（tetanus immunoglobulin）在臨床治療破傷風的最主要目的為何？",
+    "options": {
+      "A": "刺激神經傳導物質的釋放",
+      "B": "中和未結合的破傷風毒素",
+      "C": "誘導長期免疫力",
+      "D": "殺死破傷風梭菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 9 題",
+    "question": "下列關於梅毒檢驗之敘述，何者錯誤？",
+    "options": {
+      "A": "VDRL 與RPR 都屬於nontreponemal test，通常用於篩檢",
+      "B": "Nontreponemal test 具有高敏感性的優點，但在下疳（chancre）時期常呈陰性",
+      "C": "紅斑性狼瘡（systemic lupus erythematosus）患者nontreponemal test 和treponemal test 都可能出現 偽陽性結果",
+      "D": "血清treponemal test 在治療後抗體轉陰（seroreversion）的比例較nontreponemal test 高，適合做為疾 病治療成效的指標"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 10 題",
+    "question": "金黃色葡萄球菌（Staphylococcus aureus）對萬古黴素（vancomycin）高度抗藥性的主要機制為何？",
+    "options": {
+      "A": "獲得vanA 操縱組（operon），產生對萬古黴素低親和力的細胞壁肽聚糖（peptidoglycan）末端D- alanine-D-lactate",
+      "B": "利用外排泵（efflux pump）主動將萬古黴素自細菌細胞質排出",
+      "C": "孔蛋白（porin）突變而減少萬古黴素進入細菌",
+      "D": "產生萬古黴素水解酶分解萬古黴素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 11 題",
+    "question": "關於肺炎黴漿菌（Mycoplasma pneumoniae）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "為可獨立生存（free-living）的細菌",
+      "B": "為兼性厭氧菌（facultative anaerobe）",
+      "C": "感染常見於學齡兒童及青年（young adult）",
+      "D": "常見的感染症是氣管支氣管炎（tracheobronchitis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 12 題",
+    "question": "下列何者可以在人類造成癌症？①腺病毒（adenovirus） ②單純疱疹病毒（herpes simplex virus） ③ 人類疱疹病毒4 型（human herpesvirus 4） ④人類疱疹病毒8 型（human herpesvirus 8） ⑤痘病毒 （poxviruses） ⑥人類嗜T 淋巴細胞病毒1 型（human T-lymphotropic virus 1）",
+    "options": {
+      "A": "①③⑥",
+      "B": "②④⑤",
+      "C": "③④⑥",
+      "D": "①④⑤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 13 題",
+    "question": "下列對肝炎病毒之敘述，何者最適當？",
+    "options": {
+      "A": "B 型肝炎病毒容易透過口糞傳染，主要來自受污染之海鮮食品",
+      "B": "C 型肝炎基因體與茲卡病毒（Zika virus）屬同一病毒家族",
+      "C": "D 型肝炎病毒需要與E 型肝炎病毒在共同感染下誘發猛爆性肝炎",
+      "D": "A 型肝炎病毒感染容易誘發孕婦死亡"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 14 題",
+    "question": "下列何組病毒屬於相同病毒科（family）？",
+    "options": {
+      "A": "A 型肝炎病毒（hepatitis A virus）、B 型肝炎病毒（hepatitis B virus）",
+      "B": "C 型肝炎病毒（hepatitis C virus）、登革病毒（dengue virus）",
+      "C": "單純疱疹病毒（herpes simplex virus）、猴痘病毒（monkeypox virus）",
+      "D": "呼吸道融合病毒（respiratory syncytial virus）、A 型流感病毒（influenza A virus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 15 題",
+    "question": "下列關於病毒構造的敘述，何者錯誤？",
+    "options": {
+      "A": "腸病毒（enterovirus）由殼體（capsid）包覆，因此酒精對其殺滅效果不佳",
+      "B": "杯狀病毒科（caliciviridae）之基因組為雙股線性DNA（double-stranded linear DNA）",
+      "C": "病毒套膜（envelope）的組成包含脂質、蛋白質、醣蛋白",
+      "D": "彈狀病毒科（rhabdoviridae）之基因組為負股RNA（negative-sense RNA）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 16 題",
+    "question": "下列有關病毒致病性的敘述，何者最適當？",
+    "options": {
+      "A": "病毒之潛伏性感染（latent infection）造成細胞之衰老（senescence）",
+      "B": "病毒流產性的感染（abortive infection）會造成細胞的死亡",
+      "C": "病毒感染，被轉型（transformation）的細胞即成為永生（immortalization）細胞",
+      "D": "只有DNA 病毒才有可能將被感染的細胞轉型"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 17 題",
+    "question": "Malassezia furfur 是造成變色糠疹（pityriasis versicolor）的致病菌，若要進行培養，最適合在培養基 中加入何種成分以利生長？",
+    "options": {
+      "A": "olive oil",
+      "B": "thiamine",
+      "C": "nicotinic acid",
+      "D": "inositol"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

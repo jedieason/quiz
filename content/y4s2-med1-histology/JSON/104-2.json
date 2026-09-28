@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 33 題",
+    "question": "上皮細胞的表面常以下列何種特化構造增加表面積？",
+    "options": {
+      "A": "微絨毛（microvilli）",
+      "B": "基底膜（basement membrane）",
+      "C": "接合複體（junctional complex）",
+      "D": "纖毛（cilia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 34 題",
+    "question": "下列何者纖維母細胞（fibroblasts）無法合成？",
+    "options": {
+      "A": "膠原纖維（collagen fibers）",
+      "B": "彈性纖維（elastic fibers）",
+      "C": "網狀纖維（reticular fibers）",
+      "D": "肌原纖維（myofibrils）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 35 題",
+    "question": "下列何者不會在膜內骨生成（intramembraneous bone formation）過程中出現？",
+    "options": {
+      "A": "類骨質（osteoid）",
+      "B": "骨針（bone spicules）",
+      "C": "透明軟骨（hyaline cartilage）",
+      "D": "初級骨髓（primary bone marrow）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 36 題",
+    "question": "下列有關淋巴結（lymph node）的敘述，何者錯誤？",
+    "options": {
+      "A": "淋巴結具纖維狀的被囊（capsule）",
+      "B": "淋巴結內的支架主要由彈性纖維（elastic fiber）構成",
+      "C": "淋巴結其凸狀面（convex）有輸入淋巴管（afferent lymph vessels）進入",
+      "D": "淋巴結實質（parenchyma）主要分為皮質（cortex）和髓質（medulla）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 37 題",
+    "question": "肌上皮細胞（myoepithelial cells）不出現於下列何處？",
+    "options": {
+      "A": "皮脂腺（sebaceous gland）",
+      "B": "汗腺（sweat gland）",
+      "C": "乳腺（mammary gland）",
+      "D": "唾液腺（salivary gland）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 38 題",
+    "question": "結腸帶（teniae coli）由下列何種構造形成？",
+    "options": {
+      "A": "黏膜肌層（muscularis mucosa）內的平滑肌",
+      "B": "黏膜肌層（muscularis mucosa）內的骨骼肌",
+      "C": "外肌層（muscularis externa）的內環平滑肌",
+      "D": "外肌層（muscularis externa）的外縱平滑肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 39 題",
+    "question": "腎上腺皮質細胞不含下列何項構造？",
+    "options": {
+      "A": "脂肪滴",
+      "B": "分泌顆粒",
+      "C": "粒線體",
+      "D": "平滑內質網"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 40 題",
+    "question": "會製造睪固酮（testosterone）的細胞是：",
+    "options": {
+      "A": "萊迪氏細胞（Leydig cell）",
+      "B": "塞托利氏細胞（Sertoli cell）",
+      "C": "管周邊細胞（peritubular cell）",
+      "D": "產精細胞（spermatogenic cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 41 題",
+    "question": "有關眼球組織發生病變時，下列敘述何者錯誤？",
+    "options": {
+      "A": "視網膜剝離（retinal detachment）常發生於視網膜層（retina）與脈絡膜層（choroid layer）之間",
+      "B": "細菌性結膜炎（bacterial conjunctivitis）常伴有膿性分泌物（opaque purulent discharge）",
+      "C": "眼球房水（aqueous humor）之引流循環失能，會使眼壓上升，長期則導致青光眼 （glaucoma）",
+      "D": "晶狀體（lens）失去透明度時，會導致白內障（cataract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

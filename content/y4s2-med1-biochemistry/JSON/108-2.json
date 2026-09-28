@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 74 題",
+    "question": "下列有關蛋白質結構的敘述，何者正確？",
+    "options": {
+      "A": "mRNA的選擇性剪切（alternative splicing）不會影響蛋白質的一級結構",
+      "B": "點突變（point mutation）不會導致蛋白質二級結構的改變",
+      "C": "β-摺板（β-sheet）與α-螺旋（α-helix）在蛋白質結構分類上屬於三級結構",
+      "D": "某些蛋白質可能以一種以上的四級結構存在"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 75 題",
+    "question": "下列有關雙硫鍵（disulfide bond）的敘述，何者錯誤？",
+    "options": {
+      "A": "甲硫胺酸（methionine）側鏈的硫原子可參與雙硫鍵的形成",
+      "B": "蛋白質中的雙硫鍵會在強還原劑的作用下發生斷裂",
+      "C": "蛋白質中的雙硫鍵可增加其結構的熱穩定性",
+      "D": "雙硫鍵異構酶（disulfide isomerase）可幫助蛋白質摺疊"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 76 題",
+    "question": "以NaOH強鹼滴定含有甘胺酸（glycine）的溶液，在pH＝12時，完成滴定過程，此時甘胺酸的主要化學式為 何？",
+    "options": {
+      "A": "NH3 +—CH2—COOH",
+      "B": "NH2—CH2—COO-",
+      "C": "NH2—CH3 +—COO-",
+      "D": "NH3 +—CH2—COO-"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 77 題",
+    "question": "一位女性病患素食多年，患有惡性貧血（pernicious anemia），判斷她有某種含金屬離子的水溶性維生素缺乏 症。關於此維生素的特性，下列敘述何者正確？",
+    "options": {
+      "A": "此維生素須含有氰基，方能直接參與酵素反應形態",
+      "B": "此維生素須含有一鐵離子才帶有活性",
+      "C": "此維生素含有鈷離子",
+      "D": "小腸壁的細胞會分泌一種結合蛋白質，促進此維生素的吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 78 題",
+    "question": "紅血球生成素（erythropoietin; EPO）的作用機制牽涉到JAK-STAT（Janus kinase-signal transducers and  activators of transcription）系統。下列敘述何者正確？",
+    "options": {
+      "A": "EPO受體為JAK蛋白質",
+      "B": "EPO與受體結合後，受體蛋白質會被JAK磷酸化",
+      "C": "EPO與受體結合後，受體蛋白質會被STAT磷酸化",
+      "D": "EPO與受體結合形成的 complex 會移入細胞核內，調控特定基因的表現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 79 題",
+    "question": "人類雙股DNA在中性pH水溶液中，溫度由37℃加熱到95℃時，下列敘述何者錯誤？",
+    "options": {
+      "A": "UV 260 nm的吸光度增加",
+      "B": "N-醣苷共價鍵（N-glycosidic bond）發生斷裂現象",
+      "C": "雙股螺旋結構解開（unwinds）",
+      "D": "DNA不會由水溶液中沉澱出來"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 80 題",
+    "question": "細胞內DNA複製過程中，為何需要RNA引子（primer）？",
+    "options": {
+      "A": "提供DNA聚合酶合成反應所需要的3'-端磷酸基",
+      "B": "提供DNA聚合酶合成反應所需要的3'-端羥基（OH）",
+      "C": "提供DNA聚合酶合成反應所需要的5'-端羥基（OH）",
+      "D": "提供DNA聚合酶合成反應所需要的5'-端磷酸基"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 81 題",
+    "question": "在人類細胞中每一條染色體有幾個複製原點（replication origin）？",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": ">3"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 82 題",
+    "question": "下列有關真核細胞Ras蛋白質之敘述，何者錯誤？",
+    "options": {
+      "A": "基因突變後容易致癌",
+      "B": "Ras蛋白質經修飾後會結合至細胞膜上",
+      "C": "Ras蛋白質利用其N端氨基與法尼基（farnesyl）之官能基結合",
+      "D": "修飾Ras蛋白質之法尼基（farnesyl）之官能基的合成和膽固醇（cholesterol）的合成使用同一前驅物"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 83 題",
+    "question": "下列那一種RNA聚合酶（RNA polymerase）對α-amanitin最敏感？",
+    "options": {
+      "A": "RNA polymerase I",
+      "B": "RNA polymerase II",
+      "C": "RNA polymerase III",
+      "D": "reverse transcriptase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 84 題",
+    "question": "脊椎動物中，由下列那種酵素合成5S rRNA與tRNA？",
+    "options": {
+      "A": "RNA polymerase I",
+      "B": "RNA polymerase II",
+      "C": "RNA polymerase III",
+      "D": "ribosomal RNase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 85 題",
+    "question": "琉璃醣醛酸（hyaluronic acid）是人體含量最多的黏多醣，其分子組成含有下列何種重複單位？",
+    "options": {
+      "A": "galactose和N-acetylgalactosamine",
+      "B": "glucose和fructose",
+      "C": "D-glucuronic acid和N-acetylglucosamine",
+      "D": "D-glucuronic acid和N-acetylgalactosamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 86 題",
+    "question": "有關胰島素（insulin）之作用，下列何者正確？",
+    "options": {
+      "A": "抑制phosphodiesterase活性，使cAMP無法轉變成AMP",
+      "B": "減少肝細胞之fructose-2,6-bisphosphate濃度",
+      "C": "抑制肝細胞之糖解作用（glycolysis）",
+      "D": "刺激葡萄糖被送入肌肉細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 87 題",
+    "question": "下列何種醣類代謝產物會影響氧分子與血紅蛋白（hemoglobin）的親和力？",
+    "options": {
+      "A": "1,3-bisphosphoglycerate",
+      "B": "2,3-bisphosphoglycerate",
+      "C": "fructose 1,6-bisphosphate",
+      "D": "fructose 2,6-bisphosphate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 88 題",
+    "question": "下列何者無法經由受質階層磷酸化（substrate-level phosphorylation）直接合成ATP（或GTP）？",
+    "options": {
+      "A": "2-phosphoglycerate",
+      "B": "phosphoenolpyruvate",
+      "C": "succinyl-CoA",
+      "D": "1, 3-bisphosphoglycerate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 89 題",
+    "question": "奇數碳的脂肪酸經過β-oxidation後，最後產生的三碳產物會以何種形式直接進入檸檬酸循環（citric acid  cycle）？",
+    "options": {
+      "A": "α-ketoglutarate",
+      "B": "succinyl-CoA",
+      "C": "oxaloacetate",
+      "D": "propionyl-CoA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 90 題",
+    "question": "在糖蛋白質（glycoproteins）中，下列何組胺基酸直接參與糖與蛋白質共價鍵的形成？",
+    "options": {
+      "A": "甘胺酸、蘇氨酸和絲氨酸（Gly, Thr & Ser）",
+      "B": "天門冬醯胺、蘇氨酸和絲氨酸（Asn, Thr & Ser）",
+      "C": "麩胺醯胺、絲氨酸和酪氨酸（Gln, Ser & Tyr）",
+      "D": "離胺酸、組織胺酸和麩胺酸（Lys, His & Glu）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 91 題",
+    "question": "下列關於血型糖蛋白（glycophorin）之敘述，何者錯誤？",
+    "options": {
+      "A": "它是紅血球胞膜上的一種鑲嵌穿膜蛋白質（integral membrane protein）",
+      "B": "其寡糖連接在該蛋白質之細胞質面（cytoplasmic face）的胺基酸殘基上",
+      "C": "它含有一個由非極性胺基酸組成的胜肽片段所形成的穿膜螺旋",
+      "D": "血型糖蛋白上帶有決定人類ABO血型的寡糖"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 92 題",
+    "question": "下列何者為葡萄糖從小腸腔運輸至其上皮細胞內的機制？",
+    "options": {
+      "A": "促進性擴散作用（facilitated diffusion）",
+      "B": "與鈉離子交換運輸（antiport）",
+      "C": "與鈉離子共同運輸（symport）",
+      "D": "初級主動運輸作用（primary active transport）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 93 題",
+    "question": "葡萄糖生成性（glucogenic）胺基酸可在酵素作用下直接轉變為克氏循環（TCA cycle）的中間產物，下列何 者錯誤？",
+    "options": {
+      "A": "麩胺酸（glutamate）→α-酮基戊二酸（α-ketoglutarate）",
+      "B": "組胺酸（histidine）→ 琥珀醯基輔酶A（succinyl-CoA）",
+      "C": "天冬胺酸（aspartate）→草醯乙酸（oxaloacetate）",
+      "D": "酪胺酸（tyrosine）→反丁烯二酸（fumarate）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 94 題",
+    "question": "若長期攝取含有大量蛋白質但極少量澱粉的食物，則人體會出現下列何種症狀？",
+    "options": {
+      "A": "尿液中的尿素含量會顯著減少",
+      "B": "體內會累積大量脂肪",
+      "C": "血液中酮體（ketone bodies）的含量會大幅升高",
+      "D": "極可能導致代謝性鹼中毒（metabolic alkalosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 95 題",
+    "question": "下列粒線體電子傳遞鏈中，那一種酵素參與電子傳遞鏈最後階段的反應？",
+    "options": {
+      "A": "cytochrome oxidase",
+      "B": "succinate dehydrogenase",
+      "C": "ubiquinone:cytochrome c oxidoreductase",
+      "D": "NADH dehydrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 96 題",
+    "question": "下列有關被荷爾蒙活化的phospholipase C之敍述，何者錯誤？",
+    "options": {
+      "A": "其受質是phosphatidylinositol 4,5-bisphosphate",
+      "B": "催化產物之一是diacylglycerol，可活化protein kinase C",
+      "C": "由G protein連結之受器所活化",
+      "D": "催化產物之一是inositol trisphosphate，可減少細胞質內鈣離子濃度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 97 題",
+    "question": "有關糖皮質激素-受體複合物（glucocorticoid-receptor complex）影響轉錄的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要是與其它轉錄因子（transcription factor）結合，進而抑制基因表現",
+      "B": "激素-受體複合物是在細胞內形成",
+      "C": "結合在它們可辨識的DNA序列上來影響激素反應基因（hormone responsive gene）的轉錄",
+      "D": "受體具有典型的DNA結合區域（DNA-binding domain），與激素結合區域（hormone binding domain）不同"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 98 題",
+    "question": "下列何者是導致突變的Ras蛋白（Ras mutant）持續活化（constitutive activation）的主要原因？",
+    "options": {
+      "A": "增加與GDP結合的親和力",
+      "B": "不受GTPase-activating proteins（GAP）的調節",
+      "C": "降低細胞膜受體與激素的結合能力",
+      "D": "增加細胞膜受體與G蛋白的結合能力"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 99 題",
+    "question": "建立人類的genomic library不可能需要下列那一種材料？",
+    "options": {
+      "A": "DNA ligase",
+      "B": "bacteriophage lambda",
+      "C": "reverse transcriptase",
+      "D": "restriction enzymes"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 100 題",
+    "question": "下列何者不適合利用 restriction fragment length polymorphism（RFLP）分析？",
+    "options": {
+      "A": "DNA指紋鑑定（DNA fingerprinting）",
+      "B": "疾病基因之定位",
+      "C": "可能遺傳缺陷的產前篩選",
+      "D": "建立cDNA library"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

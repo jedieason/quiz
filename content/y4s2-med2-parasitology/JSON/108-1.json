@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 29 題",
+    "question": "下列有關⼈體感染海獸胃線蟲（Anisakis spp.）的敘述，何者錯誤？",
+    "options": {
+      "A": "必須經過在2種中間宿主中發育後，才具有感染⼈之能⼒",
+      "B": "必須檢查糞便內蟲卵才能確認感染",
+      "C": "通常吃海⽔⿂⽣⿂片⽽感染",
+      "D": "感染後常引起急性腹痛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 30 題",
+    "question": "有關班⽒絲蟲（Wuchereria bancrofti）的感染，下列敘述何者錯誤？",
+    "options": {
+      "A": "病媒蚊吸⾎時直接將微絲蟲（microfilaria）注入⼈體",
+      "B": "蟲體在淋巴管發育為成蟲",
+      "C": "只有在夜間微絲蟲（microfilaria）才會⼤量出現在末梢⾎液",
+      "D": "在乳糜尿（chyluria）中也可能發現微絲蟲（microfilaria）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 31 題",
+    "question": "于先⽣因嗜愛美食⽽食⽤浸酒⽑蟹（醉蟹）多年，⽇前因不明原因發燒、咳嗽、胸痛及⼤量帶⾎絲濃痰 （blood-tinged sputum）⽽就醫，經醫院檢查發現痰液內有許多深褐⾊蟲卵及卡格⾥登結晶（Charcot- Leyden crystals)，胸部X光顯⽰有斑狀浸潤及結節狀囊體陰影，並有胸膜積⽔（pleural effusion）及嗜酸性 ⽩⾎球增多（eosinophilia）現象。依據以上敘述，于先⽣最可能感染何種寄⽣蟲？",
+    "options": {
+      "A": "異形吸蟲（Heterophyes heterophyes）",
+      "B": "⽇本⾎吸蟲（Schistosoma japonicum）",
+      "C": "薑片蟲（Fasciolopsis buski）",
+      "D": "衛⽒肺吸蟲（Paragonimus westermani）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 32 題",
+    "question": "下列有關⼈罹患豬囊尾幼蟲症（cysticercosis cellulosae）的敘述，何者錯誤？",
+    "options": {
+      "A": "食入未熟帶蟲之豬⾁，其囊蟲侵犯內臟器官致病",
+      "B": "也會在肌⾁致病",
+      "C": "病患可能發⽣癲癇（epilepsy）",
+      "D": "⾎清抗體檢查有助於診斷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 33 題",
+    "question": "下列有關寄⽣蟲之敘述中，何者錯誤？",
+    "options": {
+      "A": "瘧疾發作（paroxysm）之過程依序為：惡寒（chill）、發燒（fever）、發汗（sweat）",
+      "B": "三⽇瘧原蟲（Plasmodium malariae）較喜侵入成熟的紅⾎球中分裂增殖",
+      "C": "卵形瘧原蟲（Plasmodium ovale）之鑑定，常視患者⾎液抹片是否有帶狀型滋養體（band form trophozoites）",
+      "D": "在瘧疾流⾏地區，六個⽉以下的嬰兒常因為得⾃⺟體抗體的保護作⽤，甚少罹患瘧疾"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 34 題",
+    "question": "下列有關阿米巴之敘述中，何者正確？",
+    "options": {
+      "A": "嗜碘阿米巴（Iodamoeba bütschlii）的滋養體（trophozoites）具有⼀個很⼤的肝醣泡（glycogen vacuole）",
+      "B": "哈⽒阿米巴（Entamoeba hartmanni）的滋養體（trophozoites）也會吞噬紅⾎球",
+      "C": "痢疾阿米巴（Entamoeba histolytica）感染之⾼危險群包括男同性戀者及啟智、精神教養院⽣",
+      "D": "痢疾阿米巴（Entamoeba histolytica）的囊體中的類染⾊體（chromatoid bodies）之成分是DNA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 35 題",
+    "question": "有關蠅蛆症（myiasis）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "⼈膚蠅（Dermatobia hominis）產卵於吸⾎性蚊/蠅之腹部⽽致孵化之幼蟲鑽入宿主⽪膚傷⼝",
+      "B": "院內蠅蛆症（nosocomial myiasis）常發⽣於⻑期臥床且有開放性傷⼝病患",
+      "C": "⽿部蠅蛆症（aural myiasis）病患常有蟲體爬動感、雜⾳及惡臭分泌物",
+      "D": "⼈膚蠅（Dermatobia hominis）傳播之蠅蛆症經常發⽣於亞洲地區"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

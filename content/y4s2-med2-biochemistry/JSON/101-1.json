@@ -1,0 +1,315 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 26 題",
+    "question": "組胺酸（histidine）的胺基（-NH2）、側鏈（R-group）與羧基（-COOH）的pKa 值分別為9、6 和2， 此氨基酸的等電點（isoelectric point）應為：",
+    "options": {
+      "A": "7.5",
+      "B": "4",
+      "C": "6",
+      "D": "8.5"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 27 題",
+    "question": "動力學分析顯示某酵素與其突變型對相同受質的Km 值分別為0.001 與0.0001 mM，由此數據可知：",
+    "options": {
+      "A": "突變酵素催化的反應在較低受質濃度時達到飽和",
+      "B": "突變導致酵素與受質的親合力下降",
+      "C": "突變酵素的催化速率較快",
+      "D": "野生型酵素對此受質的專一性較高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 28 題",
+    "question": "下列何種化合物不是五碳糖途徑（pentose phosphate pathway）之代謝物或產物？",
+    "options": {
+      "A": "NADPH",
+      "B": "α-ketoglutarate",
+      "C": "$CO_2$",
+      "D": "Ribulose 5-phosphate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 29 題",
+    "question": "去氧苷苷（deoxyuridylate, dUMP）轉變為胸苷（thymidylate, dTMP）之酶反應需要何種輔酶參與？",
+    "options": {
+      "A": "Coenzyme A",
+      "B": "Biotin",
+      "C": "S-adenosylmethionine",
+      "D": "N5, N10-methylenetetrahydrofolate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 30 題",
+    "question": "25 歲病患因頭痛、昏眩、噁心來到急診，經檢查後懷疑可能是一氧化碳中毒。下列有關一氧化碳對 血紅蛋白（hemoglobin）所產生的效應，何者敘述正確？",
+    "options": {
+      "A": "它會增加血液酸度，導致氧合血紅蛋白（oxyhemoglobin）沈澱",
+      "B": "它會改變血紅蛋白結合的鐵離子的氧化態",
+      "C": "它會將肌球蛋白（myoglobin）直接轉變成碳氧血紅蛋白（carboxyhemoglobin）",
+      "D": "它會與氧分子競爭，導致氧合血紅蛋白（oxyhemoglobin）減少"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 31 題",
+    "question": "下列關於痛風（Gout）的敘述，何者錯誤？",
+    "options": {
+      "A": "當嘌呤代謝出現異常時，累積過多的尿酸而導致",
+      "B": "關節會因累積過多的尿酸鈉鹽晶體（sodium urate crystals）而發炎疼痛",
+      "C": "Allopurinol 會抑制xanthine oxidase，使得嘌呤的代謝物以水溶性的xanthine 和hypoxanthine 形式 排出",
+      "D": "Allopurinol 在痛風急性發作時可以直接抑制發炎反應，緩解疼痛"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 32 題",
+    "question": "下列何者在DNA 上的鹼基能夠被甲基化（methylation）修飾，並且對哺乳類細胞的基因表達產生調 控作用？",
+    "options": {
+      "A": "腺嘌呤（adenine）",
+      "B": "胸腺嘧啶（thymine）",
+      "C": "鳥糞嘌呤（guanine）",
+      "D": "胞嘧啶（cytosine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 33 題",
+    "question": "檸檬酸循環（citric acid cycle）之代謝酶中何者活性可被丙二酸（malonate）競爭所抑制？",
+    "options": {
+      "A": "檸檬酸合成酶（Citrate synthase）",
+      "B": "琥珀酸脫氫酶（Succinate dehydrogenase）",
+      "C": "延胡索酸酶（Fumarase）",
+      "D": "蘋果酸脫氫酶（Malate dehydrogenase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 34 題",
+    "question": "第一型糖尿病病人在極度缺乏胰島素及嚴重壓力下會產生diabetic ketoacidosis，血中的ketone bodies 濃度上升。下列相關敘述，何者錯誤？",
+    "options": {
+      "A": "ketone bodies 含acetoacetic acid 及β-hydroxybutyric acid",
+      "B": "ketone bodies 由acetyl-CoA 所形成",
+      "C": "ketone bodies 是代謝酸，必須由呼吸及腎臟排出，無法被身體利用",
+      "D": "ketone bodies 主要來源是脂肪酸分解而來的"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 35 題",
+    "question": "空腹且激烈運動後，若飲用高量酒精，易發生低血糖，下列有關此現象之敘述，何者錯誤？",
+    "options": {
+      "A": "肝臟gluconeogenesis 被抑制",
+      "B": "酒精增進肝臟胰島素敏感性，使葡萄糖由血液進入細胞中",
+      "C": "肝細胞內因酒精代謝，還原物質NADH 量增加",
+      "D": "肝細胞內pyruvate 濃度下降"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 36 題",
+    "question": "有關真核細胞（eukaryotic cells）與原核細胞（prokaryotic cells）DNA 複製（DNA replication）的敘 述，何者錯誤？",
+    "options": {
+      "A": "皆需引子（primer）",
+      "B": "皆會有引導股（leading strand）與落後股（lagging strand）形成",
+      "C": "皆由一個複製起始點（replication origin）進行所有DNA 複製",
+      "D": "皆需DNA 連接酶（DNA ligase）參與"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 37 題",
+    "question": "RNA 干擾技術可以抑制特定基因之表現，是因為：",
+    "options": {
+      "A": "促進特定基因所表現蛋白質之分解",
+      "B": "造成特定RNA 分解",
+      "C": "抑制蛋白質之功能",
+      "D": "抑制RNA 之轉錄速度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 38 題",
+    "question": "下列何種RNA，具最多的修飾核苷酸？",
+    "options": {
+      "A": "tRNA",
+      "B": "rRNA",
+      "C": "mRNA",
+      "D": "hnRNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 39 題",
+    "question": "下列有關細菌體內轉錄（transcription）之敘述，何者正確？",
+    "options": {
+      "A": "mRNA 之“cap”由cyclic AMP 衍生而成",
+      "B": "RNA 聚合酶之sigma factor 與core enzyme 共同結合成正確之起動子（promoter）",
+      "C": "primase 須參與RNA 聚合酶之initiation",
+      "D": "initiation 須rho factor 參與"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 40 題",
+    "question": "真核生物RNA polymerase Ⅱ的carboxy-terminal domain（CTD）被磷酸化時，開始進行：",
+    "options": {
+      "A": "initiation",
+      "B": "elongation",
+      "C": "termination",
+      "D": "carboxylation"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 41 題",
+    "question": "在人體中，屬於酮體（ketone body）成員之一的acetoacetate，主要在下列那一個組織或器官中合成？",
+    "options": {
+      "A": "Liver",
+      "B": "Intestinal mucosa",
+      "C": "Adipose tissues",
+      "D": "Kidney"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 42 題",
+    "question": "下列關於膽固醇代謝的敘述，何者錯誤？",
+    "options": {
+      "A": "膽固醇是由乙醯輔酶A（acetyl-CoA）生合成而來",
+      "B": "六碳結構Mevalonate 是膽固醇的前驅物，每形成一個膽固醇需要5 個分子的mevalonate",
+      "C": "HMG-CoA reductase 是調控膽固醇合成的關鍵性酵素",
+      "D": "扮演不同生理功能的bile acid, vitamin D 與estrogen 都是膽固醇的代謝衍生產物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 43 題",
+    "question": "下列關於lipoprotein 的敘述，何者正確？",
+    "options": {
+      "A": "Apolipoprotein 不會與脂質結合",
+      "B": "LDL（low-density lipoprotein）上的Apo B-100 會與LDL receptor 結合",
+      "C": "LDL 的主要成分為triacylglycerol",
+      "D": "由肝臟與小腸釋放出的HDL（high-density lipoprotein）含有大量的cholesteryl ester"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或 BD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 44 題",
+    "question": "一氧化碳（CO）是粒線體的電子傳遞鏈抑制劑，其主要作用機制是下列何者？",
+    "options": {
+      "A": "抑制ATP synthase",
+      "B": "抑制cytochrome b 到cytochrome c1 之電子傳遞",
+      "C": "抑制cytochrome oxidase",
+      "D": "抑制電子由Fe-S 中心流至ubiquinone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 45 題",
+    "question": "糖解作用（glycolysis）產生的NADH 要先轉化為下列何種物質，才可以通過粒線體內膜（inner  membrane），再經由酵素轉化回NADH？",
+    "options": {
+      "A": "Malate",
+      "B": "Aspartate",
+      "C": "α-ketoglutarate",
+      "D": "Glutamate"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 46 題",
+    "question": "粒線體氧化磷酸化之去偶合（uncoupling）會造成下列何種現象？",
+    "options": {
+      "A": "ATP 持續合成，但停止$O_2$ 消耗",
+      "B": "ATP 不合成，但$O_2$ 仍然消耗",
+      "C": "抑制粒線體之所有代謝反應",
+      "D": "抑制電子傳遞及$O_2$ 之消耗"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 47 題",
+    "question": "粒線體電子傳遞鏈的Complex Ⅳ主要是把電子由那裏傳遞到$O_2$？",
+    "options": {
+      "A": "Ubiquinone",
+      "B": "NADH",
+      "C": "Cytochrome c",
+      "D": "Succinate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 48 題",
+    "question": "在皮膚科見習時，你看到一位小朋友眼珠呈紅色，皮膚及毛髮極為白皙，怎麼曬太陽都不會變黑， 因此你推測此病人之黑色素合成或分泌有異常。下列相關敘述何者正確？",
+    "options": {
+      "A": "此病人之可能診斷為tyrosinase 缺乏",
+      "B": "黑色素之合成與精氨酸酵素（arginase）有關",
+      "C": "黑色素是經由淋巴細胞（lymphocyte）製造再分泌至皮膚、毛髮",
+      "D": "由於不會曬黑，所以不需要防曬，此病人的皮膚癌機率比正常人低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 49 題",
+    "question": "- (A) 缺乏葉酸所導致的症狀在短短數天內便出現",
+    "options": {
+      "A": "缺乏葉酸所導致的症狀在短短數天內便出現",
+      "B": "由於葉酸參與氨基酸的代謝，所以尿中可以測到較高量的亞氨甲基麩氨酸（formiminoglutamate）",
+      "C": "葉酸缺乏會使紅血球體積變小，數目變少",
+      "D": "葉酸缺乏不會影響神經功能"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 50 題",
+    "question": "第二型糖尿病（Type 2 Diabetes）的致病原因是：",
+    "options": {
+      "A": "胰島素（insulin）分泌不足",
+      "B": "胰島素（insulin）分泌過多",
+      "C": "血液中的胰島素無法藉由細胞上的胰島素受體（insulin receptor）發生有效的降血糖作用",
+      "D": "細胞不表現胰島素受體（insulin receptor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

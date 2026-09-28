@@ -1,0 +1,331 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 74 題",
+    "question": "某種蛋白質可用尿素（urea）將其變性（denature），且將尿素移除後會自發性地折疊回其具有活性的三級 結構。關於下列熱力學對於該蛋白質再折疊（protein refolding）的描述，何者錯誤？",
+    "options": {
+      "A": "蛋白質本身亂度（entropy）一定減少",
+      "B": "過程一定是放熱反應",
+      "C": "反應過程的自由能（free energy）一定減少",
+      "D": "總亂度（蛋白質本身和環境）一定增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 75 題",
+    "question": "某酵素催化反應的kcat=600（單位 1/s），KM=10 μM。當受質濃度是50 μM，酵素濃度是20 nM，此時測得 之反應初速度（Ｖ0）約為多少μM/s？",
+    "options": {
+      "A": "1",
+      "B": "10",
+      "C": "60",
+      "D": "500"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 76 題",
+    "question": "胺基酸被歸類為一種兩性電解質（ampholytes）的主因是胺基酸能：",
+    "options": {
+      "A": "呈現酸性及鹼性的功能",
+      "B": "轉換為不帶電荷的分子及離子的狀態",
+      "C": "轉換為極性及非極性的狀態",
+      "D": "轉換為在260nm 及280nm 的吸光化合物"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 77 題",
+    "question": "有關vitamin D3代謝和功能，下列敘述何者最適切？",
+    "options": {
+      "A": "1α,25-二羥基維生素D3（1α,25-dihydroxyvitamin D3）可經由陽光紫外線在皮膚中形成膽鈣化醇 （cholecalciferol）",
+      "B": "1α,25-二羥基維生素D3（1α,25-dihydroxyvitamin D3）與特定核受體蛋白相互作用來調節基因表現",
+      "C": "7-脫氫膽固醇（7-dehydrocholesterol）調節腸道鈣吸收",
+      "D": "calcitriol 在肝和腎臟中形成vitamin D3"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 78 題",
+    "question": "所謂的ABO 血型，是指血球細胞膜上具有不同的抗原來決定其血型。在分子層次上，ABO 血型之抗原的主要 差異為何？",
+    "options": {
+      "A": "細胞膜的脂肪組成不同",
+      "B": "細胞膜上的葡萄糖載體蛋白（glucose transporter）種類不同",
+      "C": "細胞膜上的特定醣蛋白（glycoprotein）數量不同",
+      "D": "細胞膜上的特定醣蛋白末端組成之單醣種類不同"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 79 題",
+    "question": "下列何種物質可以降低血中同半胱胺酸（homocysteine）的濃度，並可減少心臟病、高血壓及中風的風險？",
+    "options": {
+      "A": "天門冬胺酸（aspartate）",
+      "B": "蘋果酸（malate）",
+      "C": "葉酸（folate）",
+      "D": "瓜胺酸（citrulline）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 80 題",
+    "question": "粒線體呼吸鏈（或稱電子傳遞鏈）是一連串的氧化還原反應，下列有關呼吸鏈相關之氧化還原反應的敘述， 何者正確？",
+    "options": {
+      "A": "NADH 為最終的電子接受者",
+      "B": "complex Ⅱ將FAD 還原成FADH2",
+      "C": "coenzyme Q 的還原發生在complex Ⅲ",
+      "D": "cytochrome c 的氧化發生在complex Ⅳ"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 81 題",
+    "question": "在肝醣合成酶（glycogen synthase, GS）被肝醣合成激酶3（glycogen synthase kinase 3）磷酸化之前， GS 須先經下列何種酵素進行引導式（priming）磷酸化修飾？",
+    "options": {
+      "A": "酪蛋白激酶Ⅱ（casein kinase Ⅱ）",
+      "B": "磷酸化酶激酶（phosphorylase kinase）",
+      "C": "蛋白質激酶A（protein kinase A）",
+      "D": "蛋白質激酶B（protein kinase B）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 82 題",
+    "question": "若欲使用Ni 2+親和層析法來純化某特定蛋白，則應以重組DNA 技術（recombinant DNA technology）在此蛋 白加入下列何種親和性標籤（affinity tag）？",
+    "options": {
+      "A": "β-半乳糖苷酶（β-Galactosidase）",
+      "B": "穀胱甘肽-S-轉移酶（Glutathione-S-transferase, GST）",
+      "C": "六個連續組胺酸（His）6",
+      "D": "蛋白質A（Protein A）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 83 題",
+    "question": "下列有關核苷酸（nucleotide）的敘述，何者錯誤？",
+    "options": {
+      "A": "尿苷（uridine）是屬於RNA 的核苷（nucleoside）之一",
+      "B": "磷酸根（phosphate）主要連接在五碳糖的5 號碳上",
+      "C": "DNA 結構中的五碳糖之2 號碳上的官能基為OH 基團",
+      "D": "RNA 結構中的五碳糖是屬於D-核糖（D-ribose）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 84 題",
+    "question": "核糖核苷酸（ribonucleotide）需要何種酵素將其催化成為去氧核糖核苷酸（deoxyribonucleotide），使其 能被用於DNA 之複製及修復？",
+    "options": {
+      "A": "胸苷酸合成酶（thymidylate synthase）",
+      "B": "核苷單磷酸激酶（nucleoside monophosphate kinase）",
+      "C": "核糖核苷酸還原酶（ribonucleotide reductase）",
+      "D": "胞苷酸合成酶（cytidylate synthase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 85 題",
+    "question": "在大腸桿菌DNA 複製過程中，下列何種酶的功能是去除RNA 引子，並用DNA 替換？",
+    "options": {
+      "A": "解旋酶（helicase）",
+      "B": "引子酶（primase）",
+      "C": "DNA 連接酶（DNA ligase）",
+      "D": "DNA 聚合酶Ⅰ（DNA polymerase Ⅰ）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 86 題",
+    "question": "移除DNA 上錯誤的脲嘧啶（uracil）鹼基，主要由何種DNA 修復機制來執行？",
+    "options": {
+      "A": "直接修復機制（direct repair）",
+      "B": "鹼基切除修復（base excision repair）",
+      "C": "鹼基錯誤配對修復（mismatch repair）",
+      "D": "核苷酸切除修復（nucleotide-excision repair）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 87 題",
+    "question": "下列關於DNA 複製（DNA replication）的敘述，何者錯誤？",
+    "options": {
+      "A": "雙股DNA 的複製，是利用一股DNA 為模板，合成新股DNA",
+      "B": "真核細胞DNA 複製時，可以在染色體DNA 上多個不同的複製起始點同時進行",
+      "C": "DNA 聚合酶合成DNA 時，除了可利用RNA 為引子（primer），也可以利用DNA 為引子",
+      "D": "DNA 聚合反應（polymerization）的方向可以是5'端→3'端，也可以是3'端→5'端"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 88 題",
+    "question": "大腸桿菌（E. coli）處於富含乳糖且缺乏葡萄糖的環境時，其乳糖操縱組（lac operon）的基因調控模式， 主要有下列那兩種類型？①透過減少抑制蛋白結合而活化轉錄 ②通過增加抑制蛋白結合而抑制轉錄 ③通 過增加活化蛋白結合而活化轉錄 ④通過減少活化蛋白結合而抑制轉錄",
+    "options": {
+      "A": "①④",
+      "B": "②③",
+      "C": "②④",
+      "D": "①③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 89 題",
+    "question": "核糖體在進行蛋白質合成時，下列那個步驟不會直接消耗能量？",
+    "options": {
+      "A": "胺基酸活化（amino acid activation）",
+      "B": "胺醯-tRNA 進入核糖體進行結合（binding of an incoming aminoacyl-tRNA）",
+      "C": "肽鍵形成（peptide bond formation）",
+      "D": "轉位（translocation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 90 題",
+    "question": "真核細胞RNA 聚合酶Ⅱ（RNA polymerase Ⅱ）會辨認位於轉錄起始位置（transcription start site）上游 約30 base pairs 的啟動子（promoter），下列何者為最常出現於啟動子的DNA 序列？",
+    "options": {
+      "A": "TRE（GAGGGACGTACCGCA）",
+      "B": "GC box（GGGCGG）",
+      "C": "TATA box（TATAAAA）",
+      "D": "Octamer（ATTTGCAT）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 91 題",
+    "question": "主要用於解碼mRNA 上起始密碼子（initiation codon）的胺醯-tRNA（aminoacyl-tRNA），在原核生物及真 核生物中分別為下列何者？",
+    "options": {
+      "A": "Met-tRNA；N-formyl-Met-tRNA",
+      "B": "N-formyl-Pro-tRNA；Pro-tRNA",
+      "C": "N-formyl-Met-tRNA；Met-tRNA",
+      "D": "Met-tRNA；Met-tRNA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 92 題",
+    "question": "一單元葡萄糖進入糖解分解作用，當全部分解至acetyl-CoA 時，共可生成多少單元的NADH？",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "10"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 93 題",
+    "question": "使葡萄糖經糖解作用（glycolysis）後的產物直接進入克氏循環（Krebs cycle，亦稱citric acid cycle 或 TCA cycle）的關鍵酵素為何？",
+    "options": {
+      "A": "succinate dehydrogenase complex",
+      "B": "isocitrate dehydrogenase complex",
+      "C": "pyruvate dehydrogenase complex",
+      "D": "malate dehydrogenase complex"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 94 題",
+    "question": "細胞膜上的脂質（membrane lipids）不包含下列那類分子？",
+    "options": {
+      "A": "磷脂質",
+      "B": "膽固醇",
+      "C": "醣脂",
+      "D": "游離脂肪酸"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 95 題",
+    "question": "下列何種物質主要是在小腸形成，並幫助將三酸甘油酯（triglyceride）運送到肝臟？",
+    "options": {
+      "A": "chylomicron",
+      "B": "high-density lipoprotein",
+      "C": "intermediate-density lipoprotein",
+      "D": "ApoB-100"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 96 題",
+    "question": "肝臟以外組織中的胺基酸經代謝分解後產生NH4 +（ammonia），其會藉由形成何種物質進入肝臟粒線體，隨後 再經肝臟代謝轉化成尿素（urea）？",
+    "options": {
+      "A": "葡萄糖6-磷酸（glucose 6-phosphate）",
+      "B": "腺苷三磷酸（ATP）",
+      "C": "麩醯胺酸（glutamine）",
+      "D": "乙醯輔酶A（acetyl-CoA）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 97 題",
+    "question": "下列有關細胞訊號傳遞的敘述，何者最不適當？",
+    "options": {
+      "A": "多細胞生物體可藉由細胞間互相交換眾多不同的訊號，來引發各種合適的反應",
+      "B": "細胞和生物體只會偵測環境中的化學訊號，而物理訊號則無法啟動細胞傳訊機制",
+      "C": "訊號分子是可被特異受體偵測到的訊息，可引發細胞做出適當反應",
+      "D": "將訊號分子轉換成化學變化，即稱為訊息傳導（signal transduction），乃是活細胞普遍存在的一種特性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 98 題",
+    "question": "Protein kinase A（PKA）是一種磷酸化激酶，可催化在其受質蛋白中的何種胺基酸上進行磷酸化 （phosphorylation）？",
+    "options": {
+      "A": "組胺酸（histidine）",
+      "B": "蘇胺酸（threonine）",
+      "C": "酪胺酸（tyrosine）",
+      "D": "麩胺酸（glutamate）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 99 題",
+    "question": "下列何者是原核細胞蛋白表現載體（expression vector）必備的序列？",
+    "options": {
+      "A": "核糖體結合區（ribosome-binding site）、內含子（intron）",
+      "B": "核糖體結合區（ribosome-binding site）、轉錄啟動子（promoter）",
+      "C": "內含子（intron）、轉錄啟動子（promoter）",
+      "D": "核糖體結合區（ribosome-binding site）、端粒（telomere）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 100 題",
+    "question": "下列關於真核生物染色質（chromatin）的描述，何者正確？",
+    "options": {
+      "A": "常染色質（euchromatin）是染色質的深染色和結構較緊密的區域",
+      "B": "異染色質（heterochromatin）是染色質的淺染色和結構較鬆散的區域",
+      "C": "組蛋白離胺酸（histone H3 lysine 4, H3K4）甲基化（methylation）是常染色質形成的轉錄抑制訊號",
+      "D": "染色質結構會隨著細胞週期發生動態性變化"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

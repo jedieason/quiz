@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 51 題",
+    "question": "關於藥物動力學的敘述，下列何者錯誤？",
+    "options": {
+      "A": "親脂性藥物較親水性藥物容易被身體快速吸收",
+      "B": "藥物可藉由細胞與細胞之間的水性孔（aqueous pores）進行被動滲透，可容許的最大分子量為不超過 1,000",
+      "C": "藥物可藉由與細胞膜上特定載體結合而通過細胞膜進入細胞",
+      "D": "藥物可以藉由胞吞作用（endocytosis）進入細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 52 題",
+    "question": "下列何種抗凝血劑屬於直接作用於thrombin之抑制劑？",
+    "options": {
+      "A": "heparin",
+      "B": "enoxaparin",
+      "C": "fondaparinux",
+      "D": "argatroban"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 53 題",
+    "question": "下列何種藥物，可以用於男性性慾過強之治療？",
+    "options": {
+      "A": "cyproterone",
+      "B": "clomiphene",
+      "C": "danazol",
+      "D": "goserelin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 54 題",
+    "question": "下列何種合成的雌激素，可以作為口服避孕藥（oral contraceptives）使用？",
+    "options": {
+      "A": "danazol",
+      "B": "desogestrel",
+      "C": "mestranol",
+      "D": "letrozole"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 55 題",
+    "question": "那一種利尿劑會使病人血鉀增加？",
+    "options": {
+      "A": "spironolactone",
+      "B": "bumetanide",
+      "C": "acetazolamide",
+      "D": "furosemide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 56 題",
+    "question": "下列何種毒物，會阻斷鈉離子通道而抑制神經動作電位之傳導？",
+    "options": {
+      "A": "botulinum toxin",
+      "B": "ω-conotoxin GVIA",
+      "C": "α-latrotoxin",
+      "D": "tetrodotoxin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 57 題",
+    "question": "下列何種藥物除了常用於治療痛風外，對新生兒動脈導管閉鎖不全也有促進其關閉的作用？",
+    "options": {
+      "A": "indomethacin",
+      "B": "etodolac",
+      "C": "ketoprofen",
+      "D": "naproxen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 58 題",
+    "question": "下列那一種症狀不屬於長期吸食鴉片類藥物的戒斷現象？",
+    "options": {
+      "A": "流淚（lacrimation）",
+      "B": "心跳及血壓下降",
+      "C": "精神亢奮（agitation）",
+      "D": "失眠症（insomnia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 59 題",
+    "question": "下列何種藥物主要是用於治療銅（copper）中毒？",
+    "options": {
+      "A": "dimercaprol",
+      "B": "penicillamine",
+      "C": "melarsoprol",
+      "D": "deferoxamine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 60 題",
+    "question": "下列投藥路徑，何者較易產生首渡效應（first-pass effect）？",
+    "options": {
+      "A": "直腸給藥（rectal）",
+      "B": "經皮吸收（transdermal patch）",
+      "C": "舌下給藥（sublingual）",
+      "D": "口服給藥（oral）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 61 題",
+    "question": "Sulbactam與下列何種抗生素合併使用，可以避免該抗生素被細菌所產生的β-lactamases酵素破壞結構而失 效，因此二者併用可產生抗菌之協同作用？",
+    "options": {
+      "A": "ampicillin",
+      "B": "chloramphenicol",
+      "C": "sulfamethoxazole",
+      "D": "tetracycline"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 62 題",
+    "question": "Gentamicin與下列何種抗生素合併使用時，最易對腎臟產生加成性（potentiation）的毒性作用？",
+    "options": {
+      "A": "amphotericin B",
+      "B": "ceftriaxone",
+      "C": "doxycyclin",
+      "D": "nafcillin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 63 題",
+    "question": "下列何種抗生素，可抑制細菌合成葉酸過程中所需酵素dihydrofolate reductase，故可和sulfonamides併用產 生協同作用？",
+    "options": {
+      "A": "tazobactam",
+      "B": "teicoplanin",
+      "C": "tobramycin",
+      "D": "trimethoprim"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 64 題",
+    "question": "王先生因肺炎住院，經檢驗為綠膿桿菌（Pseudomonas aeruginosa）感染所引起，下列何者為 antipseudomonal penicillin，可以和 aminoglycoside合併治療以加強療效？",
+    "options": {
+      "A": "ampicillin",
+      "B": "nafcillin",
+      "C": "ticarcillin",
+      "D": "penicillin G"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 65 題",
+    "question": "下列抗血小板凝集藥物，何者作用機轉為阻斷glycoprotein IIb/IIIa？",
+    "options": {
+      "A": "clopidogrel",
+      "B": "dipyridamole",
+      "C": "abciximab",
+      "D": "aspirin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 66 題",
+    "question": "3歲女童有多毛症、乳房增大，身高和骨架看起來猶如十歲的孩童，臨床診斷為早熟的青春期症。下列何者 較適合用來治療此種症狀？",
+    "options": {
+      "A": "pegvisomant",
+      "B": "follitropin",
+      "C": "octreotide",
+      "D": "leuprolide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 67 題",
+    "question": "Modafinil 屬於擬交感神經作用劑（sympathomimetics），可用於下列何種疾病？",
+    "options": {
+      "A": "休克（shock）",
+      "B": "高血壓（hypertension）",
+      "C": "氣喘（asthma）",
+      "D": "嗜睡症（narcolepsy）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 68 題",
+    "question": "下列何者比較適合被用來預防或避免因化學治療藥物所引起的嘔吐及噁心的副作用？",
+    "options": {
+      "A": "levodopa",
+      "B": "misoprostol",
+      "C": "sucralfate",
+      "D": "ondansetron"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 69 題",
+    "question": "下列何種藥物具有作用在melatonin（MT1）和MT2的受體，但不具有成癮性，可以用來治療失眠的病人？",
+    "options": {
+      "A": "ketanserin",
+      "B": "lorcaserin",
+      "C": "ramelteon",
+      "D": "repinotan"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 70 題",
+    "question": "Ethosuximide可抑制T型鈣離子通道，主要用於治療下列何種癲癇發作？",
+    "options": {
+      "A": "全面強直陣攣發作（generalized tonic-clonic seizure）",
+      "B": "失神發作（absence seizure）",
+      "C": "部份發作（partial seizure）",
+      "D": "肌陣攣發作（myoclonic seizure）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 71 題",
+    "question": "吸入性麻醉劑halothane合併肌肉鬆弛劑succinylcholine，可能引起惡性高熱症（malignant  hyperthermia），下列何種藥物可緩解？",
+    "options": {
+      "A": "dantrolene",
+      "B": "isoflurane",
+      "C": "diazepam",
+      "D": "theophylline"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 72 題",
+    "question": "下列何種安眠藥物的作用機轉不是直接作用於GABA的神經傳導？",
+    "options": {
+      "A": "ramelteon",
+      "B": "clonazepam",
+      "C": "midazolam",
+      "D": "phenobarbital"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 73 題",
+    "question": "下列何者不是大麻的藥理作用？",
+    "options": {
+      "A": "緩解疼痛",
+      "B": "降低食慾",
+      "C": "欣快感（euphoria）和放鬆",
+      "D": "減少噁心"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 74 題",
+    "question": "下列那一個鴉片類藥物相較於morphine有較高的口服生體可用率（bioavailability），且產生依賴性的時程較 慢，可用於鴉片類藥物成癮之替代療法？",
+    "options": {
+      "A": "nalbuphine",
+      "B": "fentanyl",
+      "C": "methadone",
+      "D": "hydromorphine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 75 題",
+    "question": "下列何種思覺失調症（schizophrenia）的治療藥物，較無錐體外症候群(extrapyramidal syndrome)的副作 用，但可能造成顆粒性白血球缺乏症（agranulocytosis）？",
+    "options": {
+      "A": "clozapine",
+      "B": "haloperidol",
+      "C": "chlorpromazine",
+      "D": "aripiprazole"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

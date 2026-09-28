@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 1 題",
+    "question": "下列何項是Astrocytes 的功能？",
+    "options": {
+      "A": "排列形成腦室壁之內襯細胞",
+      "B": "纏繞神經細胞之軸突以形成髓鞘",
+      "C": "幫助維持細胞外液中適當的鉀離子濃度",
+      "D": "產生動作電位"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 2 題",
+    "question": "下列何者並沒有參與瞳孔對光的反射作用？",
+    "options": {
+      "A": "Iris",
+      "B": "Parasympathetic nerve",
+      "C": "Medial geniculate body",
+      "D": "Ciliary ganglion"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 3 題",
+    "question": "Unmyelinated C fibers 主要與下列何者感覺有關？",
+    "options": {
+      "A": "Pressure",
+      "B": "Smell",
+      "C": "Touch",
+      "D": "Temperature"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 4 題",
+    "question": "某陽離子在細胞外之濃度遠高於其在細胞內之濃度，當一神經細胞之細胞膜對此陽離子之通透度遠 大於對其他離子之通透度時，細胞膜電位最可能為何？",
+    "options": {
+      "A": "零",
+      "B": "負電位",
+      "C": "正電位",
+      "D": "無法判斷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 5 題",
+    "question": "骨骼肌在鬆弛過程中的作用，主要是藉下列何者將鈣離子送回肌漿網（Sarcoplasmic reticulum）？",
+    "options": {
+      "A": "Calsequestrin",
+      "B": "Triadin",
+      "C": "Calcium ion-ATPase",
+      "D": "Calcineurin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 6 題",
+    "question": "乘坐垂直昇降梯，在昇降梯加速與減速時，負責偵測身體之垂直位移，並引起適當反射以保持平衡 之主要結構為何？",
+    "options": {
+      "A": "Utricle",
+      "B": "Saccule",
+      "C": "Semicircular ducts",
+      "D": "Cochlea"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 7 題",
+    "question": "骨骼肌收縮過程中，Myosin head 藉由下列何種作用轉化為高能狀態（High-energy state）？",
+    "options": {
+      "A": "ATP 水解",
+      "B": "與Actin 結合",
+      "C": "與Titin 結合",
+      "D": "the condensation of ATP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 8 題",
+    "question": "下列何種情況最容易導致下肢水腫（Edema）？",
+    "options": {
+      "A": "細小動脈收縮（Arteriolar constriction）",
+      "B": "小靜脈擴張（Venular dilatation）",
+      "C": "靜脈壓下降（Decreased venous pressure）",
+      "D": "血中蛋白濃度下降（Decreased plasma protein concentration）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 9 題",
+    "question": "正常之心包膜腔有多少心包膜液？",
+    "options": {
+      "A": "< 5 c.c.",
+      "B": "5-30 c.c.",
+      "C": "30-70 c.c.",
+      "D": "70-120 c.c."
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 10 題",
+    "question": "有關von Willebrand factor 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要由血管平滑肌細胞製造",
+      "B": "血管壁受損時，可和血小板結合",
+      "C": "可直接活化血小板",
+      "D": "可調控凝血第八因子（Factor VIII）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 11 題",
+    "question": "一名68 歲男性於運動時出現胸悶現象，休息後則會明顯改善。心臟Thallium-201 核醫檢查發現有左心 室前壁缺血（Ischemia）。下列何種血中指標（Marker）可用來預測他未來發生心肌梗塞之可能性？",
+    "options": {
+      "A": "Troponin I 或Troponin T",
+      "B": "Circulating antibodies against chlamydia pneumoniae",
+      "C": "MB isomer of creatine kinase（CK-MB）",
+      "D": "C-reactive protein"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 12 題",
+    "question": "正常情況下，體循環的動脈血氧分壓為60 mmHg 時，血紅素氧飽和度（Hemoglobin saturation）約為：",
+    "options": {
+      "A": "90%",
+      "B": "80%",
+      "C": "70%",
+      "D": "60%"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 13 題",
+    "question": "張先生到醫院進行各項肺容積之測量，測量結果顯示總肺容量（Total lung capacity）為5000 毫升， 肺餘容積（Residual volume）為300 毫升，兩者之間的差值稱之為何？",
+    "options": {
+      "A": "肺活量（Vital capacity）",
+      "B": "吸氣儲備容積（Inspiratory reserve volume）",
+      "C": "潮氣容積（Tidal volume）",
+      "D": "功能性肺餘容量（Functional residual capacity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 14 題",
+    "question": "下列何者會因胃擴張（Distension）之刺激而分泌？",
+    "options": {
+      "A": "膽囊收縮素（Cholecystokinin）",
+      "B": "胃抑素（Gastric inhibitory peptide）",
+      "C": "胃泌素（Gastrin）",
+      "D": "體抑素（Somatostatin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 15 題",
+    "question": "臨床上引起Hypoxic hypoxia 最常見的為何？",
+    "options": {
+      "A": "Ventilation-perfusion imbalance",
+      "B": "Venous-arterial shunt",
+      "C": "Central hypoventilation",
+      "D": "Breathing less than 21% oxygen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 16 題",
+    "question": "關於消化道壁內神經叢Myenteric plexus（Auerbach’s plexus）的敘述，下列何者正確？",
+    "options": {
+      "A": "位於消化道的黏膜下層",
+      "B": "迷走神經（Vagus nerve）為主要的刺激性訊息提供者",
+      "C": "除接受交感神經和副交感神經支配外，本身功能無法自行運作",
+      "D": "主要功能為局部消化道的分泌、吸收和血流供應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 17 題",
+    "question": "胃內氣體的成分中，濃度最高者為何？",
+    "options": {
+      "A": "氫",
+      "B": "氧",
+      "C": "氮",
+      "D": "二氧化碳"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 18 題",
+    "question": "正常人尿液中的酸，主要以何種形式排泄？",
+    "options": {
+      "A": "$H^+$",
+      "B": "NH4 +",
+      "C": "H3PO4",
+      "D": "HPO4 2-"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 19 題",
+    "question": "在亨利氏彎管上行枝粗管細胞的管腔膜（Apical membrane）上，下列何種同向運輸（Symport）可造 成鈉的再吸收？",
+    "options": {
+      "A": "$Na^+$-glucose",
+      "B": "$Na^+$-Cl －",
+      "C": "$Na^+$-phosphate",
+      "D": "$Na^+$-$K^+$-2Cl －"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 20 題",
+    "question": "一名18 歲女性因愛美而實行快速減肥計畫，她嚴格限制澱粉和肉類的攝取量，只吃水果和蔬菜，結 果她每日的鉀攝取量由65 mmol/day 遽增到130 mmol/day。如果以目前的方式實施減肥計畫，你認 為三週後她身體內最可能發生的變化為何？",
+    "options": {
+      "A": "血中的鉀離子濃度會大幅度上升（>1 mmol/L）",
+      "B": "鈉離子的排出速率（Sodium excretion rate）會大幅度上升",
+      "C": "血漿中的Aldosterone 濃度會上升",
+      "D": "腎臟近端腎小管的鉀排出量會大量增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 21 題",
+    "question": "關於甲狀腺素（Thyroid hormones）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要藉由血液中結合蛋白（Binding protein）運送至標的細胞（Target cell）作用",
+      "B": "游離型（Free-form）激素主要藉由結合至位於標的細胞細胞膜上之受體（Receptor），進行生理調 節作用",
+      "C": "血中半衰期較一般胜肽類（Peptide）激素為長",
+      "D": "可調控標的基因之轉錄（Transcription）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 22 題",
+    "question": "一名30 歲男性，因手術治療腦下垂體腫瘤（Pituitary adenoma）導致前葉功能降低。關於下列激素治 療的敘述，何者正確？",
+    "options": {
+      "A": "補充雄性素（Androgen）可恢復病患之生育能力",
+      "B": "不需要補充甲狀腺素",
+      "C": "需補充抗利尿激素（ADH）以防止尿崩症",
+      "D": "當處於受壓（Stress）狀況時，需補充額外之腎上腺皮質素（Cortisol）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 23 題",
+    "question": "下列有關影響精子形成的激素，那一項敘述錯誤？",
+    "options": {
+      "A": "Testosterone 由Leydig cell 所分泌",
+      "B": "Follicle-stimulating hormone 由Anterior pituitary 所分泌",
+      "C": "經Follicle-stimulating hormone 刺激後，Sertoli cell 可將Testosterone 轉化成Estrogen",
+      "D": "Gonadotropin-releasing hormone 由Anterior pituitary 所分泌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 24 題",
+    "question": "抑制子宮收縮以阻止早產的類固醇主要為下列那一項？",
+    "options": {
+      "A": "助孕素（Progesterone）",
+      "B": "雌激素（Estrogen）",
+      "C": "雄性素（Androgen）",
+      "D": "皮質醇（Cortisol）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 25 題",
+    "question": "有關陰莖勃起時之生理敘述，下列何者正確？",
+    "options": {
+      "A": "屬交感神經興奮所引起",
+      "B": "陰莖內之神經末梢會分泌一氧化氮（Nitric oxide）",
+      "C": "陰莖海綿體（Corpus cavernosa）之平滑肌呈收縮狀態",
+      "D": "海綿體內的動脈呈收縮狀態"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

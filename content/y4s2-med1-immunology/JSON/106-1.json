@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 62 題",
+    "question": "在正常健康人體周邊血（peripheral blood）中之何種細胞最多？",
+    "options": {
+      "A": "T淋巴細胞",
+      "B": "B淋巴細胞",
+      "C": "漿細胞（plasma cell）",
+      "D": "自然殺手細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 63 題",
+    "question": "B細胞中抗體分子類型轉換（class switch）無法順利進行，而導致高IgM症候群（hyper-IgM syndrome），常是因為那一個基 因的缺損所致？",
+    "options": {
+      "A": "terminal deoxynucleotidyl transferase（TdT）",
+      "B": "Bruton's tyrosine kinase（Btk）",
+      "C": "CD40 ligand（CD40L）",
+      "D": "recombination-activating gene（RAG）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 64 題",
+    "question": "未曾活化之B細胞（naïve B cell）細胞膜上出現IgD，其機制為何？",
+    "options": {
+      "A": "免疫球蛋白基因重組（recombination of Ig variable gene segments）",
+      "B": "免疫球蛋白基因超變異轉換重組（Ig gene hypermutation）",
+      "C": "免疫球蛋白重鏈RNA剪接（Ig heavy chain RNA splicing）",
+      "D": "免疫球蛋白輕鏈RNA剪接（Ig light chain RNA splicing）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 65 題",
+    "question": "在抗原受器基因重組（antigen receptor gene rearrangement）時，N-核苷酸添加（N-nucleotide addition）多變方式 （diversity）於下列那一種重組時，其發生之機會為最低？",
+    "options": {
+      "A": "抗體重鏈基因（Ig heavy chain gene）",
+      "B": "抗體輕鏈基因（Ig light chain gene）",
+      "C": "T細胞受器α-鏈基因（TCR α-chain gene）",
+      "D": "T細胞受器β-鏈基因（TCR β-chain gene）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 66 題",
+    "question": "第十七型輔助性T細胞（TH17）需要何種細胞激素的持續存在，才能夠維持其功能？",
+    "options": {
+      "A": "IL-12",
+      "B": "IL-23",
+      "C": "IL-10",
+      "D": "IFN-γ"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 67 題",
+    "question": "經過多年的研究，終於發現藥物X可以促進轉錄因子FoxP3的表現，而轉錄因子FoxP3主要表現在$CD4^+$ T細胞上，且這些T細 胞會分泌IL-10及TGF-β，並且表現CTLA-4分子。藥物X最不可能用來控制那種疾病？",
+    "options": {
+      "A": "移植排斥",
+      "B": "紅斑性狼瘡",
+      "C": "氣喘",
+      "D": "腫瘤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 68 題",
+    "question": "下列何者不是第四型的過敏反應？",
+    "options": {
+      "A": "結核病",
+      "B": "類肉瘤病（sarcoidosis）",
+      "C": "B型肝炎",
+      "D": "痲瘋（leprosy）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 69 題",
+    "question": "Wiskott-Aldrich syndrome 的病患經常會出現出血瘀青的現象，依照其致病機制，下列何種藥劑或治療方法對這類型病患的出 血症狀最不可能有效？",
+    "options": {
+      "A": "第八凝血因子",
+      "B": "血小板濃厚血漿",
+      "C": "基因治療",
+      "D": "幹細胞移植"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 70 題",
+    "question": "人體內那一種抗體濃度增加，容易引起第一型過敏反應？",
+    "options": {
+      "A": "IgA",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgM"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 71 題",
+    "question": "調節型T細胞（Treg cells）在人類的自體免疫疾病的致病機轉及調控方面，有何角色？",
+    "options": {
+      "A": "在紅斑性狼瘡疾患（systemic lupus erythematosus, SLE），抑制初始淋巴球（naïve lymphocytes）之歸處（homing）",
+      "B": "在多發性硬化症（multiple sclerosis）疾患，呈現功能缺失現象",
+      "C": "在類風濕性關節炎（rheumatoid arthritis）疾患，呈現功能過高現象",
+      "D": "在人類的自體免疫疾病的致病機轉方面，並無角色"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 72 題",
+    "question": "下列關於 tumor antigens 的敘述，那一項錯誤？",
+    "options": {
+      "A": "多數為 self-antigens",
+      "B": "可以是 tumor specific",
+      "C": "只會在腫瘤生長前期表現",
+      "D": "可以是突變的 self-antigens"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 73 題",
+    "question": "免疫系統能夠偵查出腫瘤細胞的存在，並且盡力消滅它。免疫系統與腫瘤互動的階段依先後次序為何？",
+    "options": {
+      "A": "逃避期（escape phase）→平衡期（equilibrium phase）→腫瘤之免疫調節期（immunoediting）",
+      "B": "逃避期→消滅期（elimination phase）→平衡期",
+      "C": "平衡期→逃避期→消滅期",
+      "D": "消滅期→平衡期→逃避期"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 74 題",
+    "question": "腎臟移植時發生超急性排斥（hyperacute rejection），其原因是抗體攻擊腎臟的何種細胞或組織？",
+    "options": {
+      "A": "血管內皮細胞（vascular endothelium）",
+      "B": "腎膈細胞（mesangial cell）",
+      "C": "腎小管上皮細胞（renal tubular epithelial cell）",
+      "D": "鮑氏囊（Bowman's capsule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

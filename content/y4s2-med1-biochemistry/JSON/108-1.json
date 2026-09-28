@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 74 題",
+    "question": "某多胜肽（polypeptide）在其等電點pH（isolelectric pH）的溶液中，該多胜肽的電荷為何？",
+    "options": {
+      "A": "胺基（amino）和羧基（carboxyl）末端（termini）皆帶正電荷",
+      "B": "胺基和羧基末端皆不帶電荷",
+      "C": "淨電荷為零",
+      "D": "帶有四個淨電荷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 75 題",
+    "question": "下列那⼀種⽣化實驗技術無法直接應⽤於蛋⽩質⾝分鑑定？",
+    "options": {
+      "A": "⻄⽅墨點法（Western blot analysis）",
+      "B": "質譜法（mass spectrometry）",
+      "C": "分⼦篩管柱層析法（size-exclusion chromatography）",
+      "D": "胺基端序列分析（N-terminal sequencing）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 76 題",
+    "question": "下列A到D蛋⽩質的混合物，在適當的條件下，以凝膠過濾⾊層分析法（gel filtration chromatography）分離 時，第⼆順位沖提出來的蛋⽩質為何？",
+    "options": {
+      "A": "細胞⾊素c（cytochrome c）Mr=13,000",
+      "B": "免疫球蛋⽩G（immunoglobulin G）Mr=145,000",
+      "C": "核醣核酸酶A（ribonuclease A）Mr=13,700",
+      "D": "核醣核酸聚合酶（RNA polymerase）Mr=450,000"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 77 題",
+    "question": "下列那⼀種維⽣素的化學結構含有鈷離⼦（cobalt ion）？",
+    "options": {
+      "A": "vitamin K",
+      "B": "vitamin E",
+      "C": "vitamin B6",
+      "D": "vitamin B12"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 78 題",
+    "question": "維⽣素A（vitamin A）會與細胞中下列那⼀類蛋⽩質直接結合，以調控基因表達？",
+    "options": {
+      "A": "calcitriol receptor",
+      "B": "receptor tyrosine kinases",
+      "C": "nuclear retinoid receptors",
+      "D": "G protein-coupled receptors"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 79 題",
+    "question": "霍亂弧菌（Vibrio cholerae）會產出霍亂毒素（cholera toxin），催化Gsα（即stimulatory G蛋⽩α次單元） 之 ADP-ribosylation，⽽使Gsα的GTPase活性受抑制，下列有關此毒素作⽤在病⼈腸內上⽪細胞之敘述何者錯 誤？",
+    "options": {
+      "A": "細胞中Gsα無法活化下游效應物（effectors）",
+      "B": "細胞中Gsα與Gs蛋⽩βγ次單元的重新結合（re-association）受到抑制",
+      "C": "細胞中adenylyl cyclase持續活化",
+      "D": "細胞中cAMP增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 80 題",
+    "question": "下列有關酵素異常的敘述，何者最可能導致痛風（gout）的發⽣？",
+    "options": {
+      "A": "缺乏citrate synthase",
+      "B": "5-phosphoribosyl-1-pyrophosphate synthetase活性降低",
+      "C": "hypoxanthine-guanine phosphoribosyltransferase活性降低",
+      "D": "glucose 6-phosphatase表現量上升"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 81 題",
+    "question": "在⼤腸桿菌中，下列何者為Dam甲基化酶（Dam methylase）所扮演的功能？",
+    "options": {
+      "A": "甲基化尿嘧啶（uracil），使之轉化為胸腺嘧啶（thymine）",
+      "B": "對DNA模板股（template strand）的修飾，以便DNA修復系統的辨認",
+      "C": "去除模板股（template strand）上的錯誤配對",
+      "D": "修復編碼股（coding strand）上的錯誤配對"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 82 題",
+    "question": "⼤腸桿菌的DNA polymerase I本⾝不具有下列何種活性？",
+    "options": {
+      "A": "含3'→5'外切酵素（exonuclease）活性",
+      "B": "含DNA gyrase活性",
+      "C": "含5'→3'DNA聚合酵素（polymerase）活性",
+      "D": "含5'→3'外切酵素（exonuclease）活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 83 題",
+    "question": "下列何者是真核細胞組蛋⽩去⼄醯酶（histone deacetylase）之主要功能？",
+    "options": {
+      "A": "調節基因之轉錄",
+      "B": "增加組蛋⽩之濃度",
+      "C": "減少mRNA轉譯之作⽤",
+      "D": "增加真核起始因⼦2（eIF2）蛋⽩質之穩定性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 84 題",
+    "question": "關於真核⽣物DNA複製的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要由DNA polymerase I進⾏DNA複製",
+      "B": "複製起始需要RNA引⼦（primer）",
+      "C": "Helicase可解開雙股螺旋DNA",
+      "D": "Replication protein A（RPA）可與單股DNA結合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 85 題",
+    "question": "在⼤腸桿菌中，下列何者為利⽤弱化作⽤（attenuation）以調控⾊胺酸操縱⼦（Trp operon）表現的調控機 制？",
+    "options": {
+      "A": "弱化機制是調控⾊胺酸⽣合成酵素表現的唯⼀機制",
+      "B": "前導肽（leader peptide）直接對RNA聚合酶作⽤，以弱化⾊胺酸⽣合成酵素基因的轉錄表現",
+      "C": "前導肽上的⾊胺酸編碼⼦（Trp codons）是主要的遺傳設計，可⽤以偵測細胞中⾊胺酸的含量",
+      "D": "當⾊胺酸在細胞中的量很低時，會引發⾊胺酸操縱⼦的弱化作⽤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 86 題",
+    "question": "細菌的DNA錯配修復（mismatch repair）主要是利⽤下列何種DNA的修飾反應，以判斷那⼀股為模板股 （template strand）？",
+    "options": {
+      "A": "⼄醯化（acetylation）",
+      "B": "磷酸化（phosphorylation）",
+      "C": "甲基化（methylation）",
+      "D": "醣化（glycation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 87 題",
+    "question": "有關肝醣合成酶（glycogen synthase）參與肝醣合成之敘述，下列何者正確？",
+    "options": {
+      "A": "此酵素被磷酸化後可被活化",
+      "B": "此酵素只存在於肝臟",
+      "C": "利⽤glucose-6-phosphate做為葡萄糖單元的供給者",
+      "D": "將葡萄糖殘基以（α1→4）鍵結⾄肝醣鏈（glycogen chain）之非還原端"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 88 題",
+    "question": "缺乏維⽣素B1（thiamine）⽽引起的代謝性乳酸中毒（lactic acidosis）與下列那個酵素的功能異常有關？",
+    "options": {
+      "A": "異檸檬酸脫氫酶（isocitrate dehydrogenase）",
+      "B": "乳酸脫氫酶（lactate dehydrogenase）",
+      "C": "蘋果酸脫氫酶（malate dehydrogenase）",
+      "D": "丙酮酸脫氫酶複合體（pyruvate dehydrogenase complex）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 89 題",
+    "question": "⼀位第⼀型糖尿病（type 1 diabetes mellitus）患者注射胰島素（insulin）後，未進食以⾄低⾎糖昏迷，下列 何者是造成低⾎糖的最主要因素？",
+    "options": {
+      "A": "胰島素增加肝臟組織的第⼀型葡萄糖運輸蛋⽩（GLUT1）的作⽤",
+      "B": "胰島素增加肝外組織的第四型葡萄糖運輸蛋⽩（GLUT4）的作⽤",
+      "C": "胰島素增加肝臟hexokinase的活性",
+      "D": "胰島素增加肝外組織hexokinase的活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 90 題",
+    "question": "下列何者不是細胞內acetyl-CoA的主要來源？",
+    "options": {
+      "A": "fatty acids",
+      "B": "ketogenic amino acids",
+      "C": "pyrimidine",
+      "D": "pyruvate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 91 題",
+    "question": "下列有關glutathione（GSH）的敘述，何者錯誤？",
+    "options": {
+      "A": "由Glu、Cys及Gly三種胺基酸組成",
+      "B": "某些種類的leukotriene的⽣合成需要glutathione的參與",
+      "C": "GSH被氧化時，經由雙硫鍵的形成產⽣glutathione disulfide（GSSG）",
+      "D": "glutathione reductase利⽤ATP可直接將GSSG還原成2個GSH"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 92 題",
+    "question": "下列那⼀種胺基酸為腎上腺素（epinephrine）⽣合成的前驅物？",
+    "options": {
+      "A": "glycine",
+      "B": "tryptophan",
+      "C": "histidine",
+      "D": "tyrosine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 93 題",
+    "question": "下列何種物質可經由轉氨基作⽤（transamination）直接合成glutamic acid？",
+    "options": {
+      "A": "α-ketoglutarate",
+      "B": "pyruvate",
+      "C": "acetoacetate",
+      "D": "oxaloacetate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 94 題",
+    "question": "下列那⼀種胺基酸是⾎清素（serotonin）⽣合成的前驅物？",
+    "options": {
+      "A": "arginine",
+      "B": "glutamic acid",
+      "C": "tryptophan",
+      "D": "tyrosine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 95 題",
+    "question": "下列關於ATP synthase的敘述，何者錯誤？",
+    "options": {
+      "A": "位於粒線體內膜",
+      "B": "使⽤粒線體內膜兩側的氫離⼦濃度差合成ATP",
+      "C": "ATP會在粒線體內膜及外膜之間的間隙中形成",
+      "D": "合成ATP的過程中涉及ATP synthase之四級結構變化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 96 題",
+    "question": "下列關於電⼦傳遞鏈的敘述，何者錯誤？",
+    "options": {
+      "A": "氧分⼦（$O_2$）為電⼦最終的接受者",
+      "B": "NADH的氧化發⽣於complex I",
+      "C": "Coenzyme Q（CoQ）可協助將電⼦由complex I傳遞⾄complex II",
+      "D": "Cytochrome c（Cyt c）可協助將電⼦由complex III傳遞⾄complex IV"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 97 題",
+    "question": "下列何種情況會刺激DNA合成所需酵素的⽣成，進⽽使細胞週期從G1期進入S期？",
+    "options": {
+      "A": "p53蛋⽩質被活化",
+      "B": "p21蛋⽩質⼤量產⽣",
+      "C": "CDK2磷酸化retinoblastoma protein（pRb）",
+      "D": "形成pRb-E2F複合體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 98 題",
+    "question": "下列何種蛋⽩質與G蛋⽩（G protein）的訊息傳遞路徑無關？",
+    "options": {
+      "A": "類固醇受體（steroid receptors）",
+      "B": "腺苷酸環化酶（adenylyl cyclase）",
+      "C": "磷脂酶C（phospholipase C）",
+      "D": "Ras蛋⽩"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 99 題",
+    "question": "攜鈣素（Calmodulin）不具有下列那種特性？",
+    "options": {
+      "A": "與鈣離⼦結合會改變其構型",
+      "B": "含有⼀個兩性（amphipathic）的β層（β-sheet）能與標靶蛋⽩質（target protein）相互作⽤",
+      "C": "調節許多蛋⽩激酶（protein kinase）的活性",
+      "D": "以螺旋-環-螺旋結構（helix-loop-helix motif）與鈣離⼦結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 100 題",
+    "question": "下列何者是實驗室中⽤來將質體（plasmid）直接轉形（transformation）進入細菌的最常⽤的⽅法？",
+    "options": {
+      "A": "低電壓電泳法（low-voltage electrophoresis）將質體牽引入細菌中",
+      "B": "帶有質體的噬菌體轉染法（transfection）",
+      "C": "微注射法（micro-injection）將質體注入細菌中",
+      "D": "CaCl2處理細菌後再以熱休克法（heat shock）將質體送入細菌中"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

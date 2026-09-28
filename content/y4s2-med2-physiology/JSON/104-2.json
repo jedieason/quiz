@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 1 題",
+    "question": "粒線體具備下列何種性質？",
+    "options": {
+      "A": "基質（matrix）之電位比膜間腔（intermembrane space）之電位更負",
+      "B": "基質（matrix）之pH值比膜間腔（intermembrane space）之pH值更低",
+      "C": "僅負責維持細胞生存，與細胞死亡無關",
+      "D": "電子傳遞（electron transport）均在基質（matrix）內進行"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 2 題",
+    "question": "人類睡眠與覺醒之間的轉換由reticular activating system中多處神經核調控，其中當pontine  reticular formation釋出的那一種最主要神經傳導物質減少時，會促使人們傾向清醒的狀態？",
+    "options": {
+      "A": "norepinephrine",
+      "B": "serotonin",
+      "C": "acetylcholine",
+      "D": "histamine"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 3 題",
+    "question": "有關聲波在耳內的傳導順序，下列何者最為適當？",
+    "options": {
+      "A": "鼓膜（tympanic membrane）→鎚骨（malleus）→砧骨（incus）→鐙骨（stapes）→圓 窗（round window）→卵圓窗（oval window）",
+      "B": "鼓膜（tympanic membrane）→鐙骨（stapes）→砧骨（incus）→鎚骨（malleus）→卵 圓窗（oval window））→圓窗（round window）",
+      "C": "鼓膜（tympanic membrane）→鐙骨（stapes）→砧骨（incus）→鎚骨（malleus）→圓 窗（round window）→卵圓窗（oval window）",
+      "D": "鼓膜（tympanic membrane）→鎚骨（malleus）→砧骨（incus）→鐙骨（stapes）→卵 圓窗（oval window）→圓窗（round window）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 4 題",
+    "question": "下列何者最有助於增進對於刺激部位（localization of a stimulus site）辨識的精準度？",
+    "options": {
+      "A": "descending regulation pathway",
+      "B": "lateral inhibition",
+      "C": "rapid adaptation",
+      "D": "slow adaptation"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 5 題",
+    "question": "下列有關cerebellum的敘述，何者錯誤？",
+    "options": {
+      "A": "cerebellar cortex依細胞分布及結構分為molecular layer、Purkinje cell layer與granule cell layer三層",
+      "B": "有關cerebellum之神經訊息傳導，由climbing fibers與mossy fibers負責訊息傳出，deep nucleus cells負責訊息傳入",
+      "C": "spinocerebellar pathway主要功能為協調身體遠端肌肉（例如手與手指）運動",
+      "D": "vestibulocerebellar pathway接受大量來自vestibular apparatus及vestibular nuclei之訊息， 其功能與維持身體的動態平衡有密切關係"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 6 題",
+    "question": "下列關於astrocytes的敘述，何者正確？",
+    "options": {
+      "A": "排列形成腦室壁（ventricular wall）之內襯細胞",
+      "B": "纏繞神經細胞之軸突（axon）以形成髓鞘（myelin sheath）",
+      "C": "幫助維持細胞外液中適當的鉀離子濃度",
+      "D": "大小與數目和神經元（neurons）相當"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 7 題",
+    "question": "下列那一種肌細胞收縮會最快產生疲勞（fast rate of fatigue）？",
+    "options": {
+      "A": "cardiac muscle",
+      "B": "smooth muscle fibers",
+      "C": "fast-oxidative glycolytic fibers",
+      "D": "fast-glycolytic fibers"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 8 題",
+    "question": "對於血液與消化系統之間的關係敘述，下列何者錯誤？",
+    "options": {
+      "A": "紅血球被摧毀之後，血基質（heme）被分解成膽紅素（bilirubin）進入肝臟成為膽汁的一 部分",
+      "B": "肝臟合成之免疫球蛋白（immunoglobulin）在血液中具殺菌作用",
+      "C": "大腸常生菌（normal flora）合成之維他命K對凝血因子的生成很重要",
+      "D": "消化道吸收的鐵可供給紅血球進行氧氣攜帶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 9 題",
+    "question": "下列何者最不會影響血紅素（hemoglobin）的氧飽和度 ？",
+    "options": {
+      "A": "氧分壓",
+      "B": "溫度",
+      "C": "酸鹼值",
+      "D": "細胞激素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 10 題",
+    "question": "下列何者與缺血性腦中風（ischemic stroke）之成因較無關？",
+    "options": {
+      "A": "頸動脈硬化斑塊（carotid atherosclerotic plaque）",
+      "B": "腦動脈瘤（cerebral aneurysm）",
+      "C": "心房顫動（atrial fibrillation）",
+      "D": "心內血栓（intracardiac thrombi）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 11 題",
+    "question": "下列那種狀況最可能立即增加受測者的心搏量（stroke volume）？",
+    "options": {
+      "A": "提高心臟舒張末期容積",
+      "B": "提高動脈壓",
+      "C": "抑制交感神經",
+      "D": "以低強度刺激副交感神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 12 題",
+    "question": "關於心電圖與心動週期所發生事件之間的關聯性敘述，下列何者正確？ [圖片]",
+    "options": {
+      "A": "接近心室舒張末期時，可觀察到P波",
+      "B": "QRS複波出現後，心室立即進入等容心室舒張期（isovolumetric ventricular relaxation）",
+      "C": "T波出現時，心室的體積（ventricular volume）是心動週期中最大的",
+      "D": "心房的再極化，通常與T波一起出現在心舒期（diastole）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 13 題",
+    "question": "下圖為一肺功能檢查single breath nitrogen washout的關係圖，何處稱為closing volume？",
+    "options": {
+      "A": "II和III",
+      "B": "III中點",
+      "C": "III和IV交界",
+      "D": "IV終點"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 14 題",
+    "question": "一位25歲之健康男性，以潮氣容積（tidal volume）1,500毫升，呼吸頻率25次／分的方式持 續呼吸30秒，下列敘述何者錯誤？",
+    "options": {
+      "A": "動脈二氧化碳分壓 明顯下降",
+      "B": "血紅素氧飽和度（hemoglobin saturation; ）變化不大",
+      "C": "血液中的氧氣總量（total oxygen content）大幅增加",
+      "D": "呈現呼吸性鹼中毒（respiratory alkalosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 15 題",
+    "question": "霍亂毒素（cholera toxin）是經由下列何種機制引起嚴重腹瀉（diarrhea）？",
+    "options": {
+      "A": "腸上皮細胞內cAMP↓",
+      "B": "氯離子通道（chloride channel）打開，氯離子分泌入腸腔",
+      "C": "鉀離子通道（potassium channel）打開，鉀離子大量被吸收入腸上皮細胞",
+      "D": "抑制水分吸收"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 16 題",
+    "question": "關於消化道壁內神經叢myenteric plexus（Auerbach’s plexus）的敘述，下列何者正確？",
+    "options": {
+      "A": "位於消化道的黏膜下層",
+      "B": "迷走神經（vagus nerve）為主要的刺激性訊息提供者",
+      "C": "除接受交感神經和副交感神經支配外，本身功能無法自行運作",
+      "D": "主要功能為局部消化道的分泌、吸收和血流供應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 17 題",
+    "question": "一位 40歲女性主訴有多尿及多喝的症狀，尿液中未偵測到glucose。她接受隔夜的尿液限水 檢查試驗。限水一夜後，病患呈現神智障礙及虛弱狀況。其血中鈉離子濃度為156 mEq/L， 血漿ADH濃度偏高，尿液之滲透壓數值為90 mOsm/L。下列何者為其最可能之診斷？",
+    "options": {
+      "A": "糖尿病（diabetes mellitus）",
+      "B": "中樞性尿崩症（central diabetes insipidus）",
+      "C": "腎因性尿崩症（nephrogenic diabetes insipidus）",
+      "D": "原發性醛固酮過多症（primary aldosteronism）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 18 題",
+    "question": "下列那一段腎血管可作為逆流交換器（counter-current exchanger），以維持腎臟內之滲透 壓差？",
+    "options": {
+      "A": "入球小動脈（afferent arteriole）",
+      "B": "腎絲球（glomerulus）",
+      "C": "出球小動脈（efferent arteriole）",
+      "D": "直血管（vasa recta）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 19 題",
+    "question": "抗利尿激素（ADH）分泌不足，會導致尿崩症（diabetes insipidus）。下列有關病人身體內 變化的敘述，何者錯誤？",
+    "options": {
+      "A": "血漿中的滲透壓（plasma osmolarity）會上升",
+      "B": "血漿中的鈉離子（plasma sodium）濃度會上升",
+      "C": "血漿中的腎素（renin）濃度會下降",
+      "D": "細胞外組織間質液（interstitial fluid）的淨水壓（hydrostatic pressure）會下降"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 20 題",
+    "question": "下列何種激素最不會影響生長發育？",
+    "options": {
+      "A": "甲狀腺素",
+      "B": "雄性素",
+      "C": "降鈣素",
+      "D": "生長激素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 21 題",
+    "question": "下述那一種物質可抑制泌乳素（prolactin）的分泌？",
+    "options": {
+      "A": "多巴胺（dopamine）",
+      "B": "促甲狀腺素釋放激素（thyrotropin-releasing hormone）",
+      "C": "甲狀腺素（thyroxine）",
+      "D": "生長激素（growth hormone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 22 題",
+    "question": "下列敘述何者與激素間的允許作用（permissive action）最不相關？",
+    "options": {
+      "A": "糖皮質素（glucocorticoids）的存在對於升血糖素（glucagon）執行產熱作用（calorigenic effect）",
+      "B": "生長激素的存在對腎上腺素執行肝糖分解作用（glycogenolysis）",
+      "C": "甲狀腺素的存在對於腎上腺素執行脂解作用",
+      "D": "糖皮質素（glucocorticoids）的存在對於腎上腺素執行產熱作用（calorigenic effect）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 23 題",
+    "question": "在靜脈注射一個大劑量的短效胰島素製劑造成低血糖時，下列何種狀況最不會造成血糖回升 延遲的現象？",
+    "options": {
+      "A": "腎上腺髓質發育不全",
+      "B": "升血糖素（glucagon）分泌缺乏",
+      "C": "甲狀腺功能低下",
+      "D": "副甲狀腺素分泌不足"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 24 題",
+    "question": "有關腎上腺素（epinephrine）和正腎上腺素（norepinephrine）之升血壓作用，下列何者敘 述錯誤？",
+    "options": {
+      "A": "腎上腺素的升血壓作用主要在增加心臟的收縮力和心跳速率",
+      "B": "給予正腎上腺素會造成反射性的心跳降低",
+      "C": "腎上腺素的升血壓作用主要經由α1腎上腺素受器（α1-adrenergic receptors）",
+      "D": "正腎上腺素的升血壓作用主要是經由增加周邊血管阻力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 25 題",
+    "question": "那一種離子可避免卵細胞多次受精（polyspermy）？",
+    "options": {
+      "A": "鎂",
+      "B": "鐵",
+      "C": "鈉",
+      "D": "鈣"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

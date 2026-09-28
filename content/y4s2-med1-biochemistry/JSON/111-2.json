@@ -1,0 +1,331 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 74 題",
+    "question": "下列那一個胺基酸在中性環境下（pH=7），其支鏈（side-chain）會帶正電？",
+    "options": {
+      "A": "丙胺酸（alanine）",
+      "B": "精胺酸（arginine）",
+      "C": "天門冬醯胺（asparagine）",
+      "D": "天門冬胺酸（aspartic acid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 75 題",
+    "question": "關於鐮形血球貧血症（sickle-cell disease）的敘述，下列何者正確？",
+    "options": {
+      "A": "血紅素的β血球蛋白（β globin）基因點突變造成",
+      "B": "患者體內缺少β血球蛋白造成（由γ血球蛋白取代）",
+      "C": "血紅素缺少α血球蛋白造成",
+      "D": "鐮形血球貧血症致死率高，在嬰兒期就會死亡"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 76 題",
+    "question": "在一個符合Michaelis-Menten equation的酵素催化反應中，當受質（substrate）濃度極小於Michaelis常數 （KM）時，此反應之速率常數應為下列何者？",
+    "options": {
+      "A": "Vmax",
+      "B": "kcat / KM",
+      "C": "1 / kcat",
+      "D": "kcat × KM"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 77 題",
+    "question": "Pyridoxal phosphate與aspartate aminotransferase活性中心的某胺基酸形成Schiff base來催化oxaloacetate形成 aspartate，此胺基酸是下列何者？",
+    "options": {
+      "A": "lysine",
+      "B": "cysteine",
+      "C": "serine",
+      "D": "arginine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 78 題",
+    "question": "胺基酸的代謝需要有多重輔因子（cofactors）參與，下列那一種輔因子不能作為單一碳基團（one carbon moiety）供給者或傳送者？",
+    "options": {
+      "A": "tetrahydrofolate",
+      "B": "biotin",
+      "C": "S-adenosylmethionine",
+      "D": "pyridoxal phosphate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 79 題",
+    "question": "去氧核糖核酸酶 I（deoxyribonuclease I, DNase I）為生物中重要的核酸內切酶（endonuclease），負責降解去 氧核糖核酸。DNase I酵素活性主要作用於下列何者？",
+    "options": {
+      "A": "糖苷鍵（glycosidic bond）",
+      "B": "華森克里克鍵結（Watson-Crick base pairing）",
+      "C": "磷酸二酯鍵（phosphodiester bond）",
+      "D": "非華森克里克鍵結（non-Watson-Crick base pairing）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 80 題",
+    "question": "下列何種酵素與尿酸堆積及痛風發生最為相關？",
+    "options": {
+      "A": "adenine phosphoribosyltransferase",
+      "B": "5-phospho-α-D-ribosyl-1-pyrophosphate synthetase",
+      "C": "glucose 6-phosphatase",
+      "D": "orotate phosphoribosyltransferase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 81 題",
+    "question": "下列那一個蛋白質只會參與在真核細胞染色體DNA複製？",
+    "options": {
+      "A": "引子RNA合成酶（primase）",
+      "B": "解螺旋酶（helicase）",
+      "C": "端粒酶（telomerase）",
+      "D": "拓樸異構酶（topoisomerase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 82 題",
+    "question": "真核細胞的DNA複製蛋白質PCNA（proliferating cell nuclear antigen）與大腸桿菌DNA聚合酶III的β次單元（β subunit）共通的特性為：",
+    "options": {
+      "A": "參與DNA校對（proofreading）",
+      "B": "增加DNA聚合酶酵素活性",
+      "C": "增加DNA聚合酶的持續合成能力（processivity）",
+      "D": "帶有3’→5’ DNA水解酵素活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 83 題",
+    "question": "下列何者為鹼基切除修復（base-excision repair）過程中的第一個作用酶？",
+    "options": {
+      "A": "AP內切酶（AP endonuclease）",
+      "B": "DNA醣苷酶（DNA glycosylase）",
+      "C": "DNA連接酶（DNA ligase）",
+      "D": "DNA聚合酶（DNA polymerase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 84 題",
+    "question": "在真核細胞中，主要負責mRNA生成的聚合酶為：",
+    "options": {
+      "A": "RNA聚合酶 I",
+      "B": "RNA聚合酶 II",
+      "C": "RNA聚合酶 III",
+      "D": "RNA聚合酶 IV"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 85 題",
+    "question": "依賴泛素（ubiquitin）之蛋白質降解途徑，對於調節細胞過程和消除有缺陷的蛋白質非常重要。下列有關蛋白 質泛素化（ubiquitination）之敘述，何者錯誤？",
+    "options": {
+      "A": "泛素化過程中，泛素與E1活化酶（E1 activating enzyme）鍵結之反應需要ATP",
+      "B": "E2結合酶（E2 conjugating enzyme）上的泛素可經由E3連接酶（E3 ligase）轉移至欲分解之蛋白質",
+      "C": "蛋白質的lysine為發生泛素化的主要胺基酸",
+      "D": "泛素化的蛋白質（ubiquitinated proteins）主要經溶酶體（lysosome）分解"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 86 題",
+    "question": "蛋白質轉譯延伸（translation elongation）作用包含以下步驟：①帶有胺基酸的轉運核糖核酸（tRNA）結合至 核糖體 ②形成胜肽鍵 ③轉位（translocation） ④轉運核糖核酸離開核糖體。下列先後順序何者最符合已 知機制？",
+    "options": {
+      "A": "①②③④",
+      "B": "③①④②",
+      "C": "③②①④",
+      "D": "①③②④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 87 題",
+    "question": "下列何序列最可能含有真核細胞RNA polymerase II聚腺苷酸化訊號（polyadenylation signal）？",
+    "options": {
+      "A": "5'-AUUCAUGUGCGGCGCGCCGCAGCUCCUAGCUUUUU-3'",
+      "B": "5'-GUGCGGCGAUUCAUCGCCGCAGCUCCUAGCUUUUU-3'",
+      "C": "5'-GUGCGGCGAUUCAUCGCCGCUUUUUAGCUCCUAGC-3'",
+      "D": "5'-AAAAAUUUUUUAAUAAAAGGGGGGGGUUUUUUGG-3'"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 88 題",
+    "question": "下列有關克氏循環（Krebs cycle，或稱TCA cycle）的敘述，何者正確？",
+    "options": {
+      "A": "克氏循環過程中沒有substrate-level phosphorylation",
+      "B": "一次完整的克氏循環會產生兩分子的$CO_2$",
+      "C": "一次完整的克氏循環會產生兩分子的NADH",
+      "D": "一次完整的克氏循環會產生兩分子的FADH2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 89 題",
+    "question": "硫酸角質素（keratan sulfate）是角膜中的主要成分之一，其為下列那兩種單醣分子及其硫酸化衍生物的聚合 物？",
+    "options": {
+      "A": "galactose與glucose",
+      "B": "galactose與N-acetylglucosamine",
+      "C": "glucuronic acid與N-acetylglucosamine",
+      "D": "glucuronic acid與glucose"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 90 題",
+    "question": "細胞進行糖質新生（gluconeogenesis）時，需要下列那兩種酵素共同作用將pyruvate轉換為 phosphoenolpyruvate？",
+    "options": {
+      "A": "pyruvate kinase and pyruvate dehydrogenase",
+      "B": "pyruvate carboxylase and pyruvate kinase",
+      "C": "pyruvate carboxylase and phosphoenolpyruvate carboxykinase",
+      "D": "pyruvate dehydrogenease and phosphoenolpyruvate carboxykinase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 91 題",
+    "question": "有關aspirin的作用，下列何者錯誤？",
+    "options": {
+      "A": "抑制prostaglandin synthase活性",
+      "B": "利用甲基化（methylation）調控酵素",
+      "C": "降低血栓素（thromboxane A2）濃度",
+      "D": "為一種非特異性的（non-selective）non-steroidal anti-inflammatory drugs（NSAIDs）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 92 題",
+    "question": "Integral membrane protein主要由下列何者幫助其鑲嵌於膜上？",
+    "options": {
+      "A": "translocon",
+      "B": "signal peptidase",
+      "C": "protein lipidation",
+      "D": "protein glycosylation"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 93 題",
+    "question": "下列何種脂肪酸在進行β-oxidation時，需要2,4-dienoyl-CoA reductase的參與？",
+    "options": {
+      "A": "laurate",
+      "B": "palmitoleate",
+      "C": "oleate",
+      "D": "linoleate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 94 題",
+    "question": "下列有關同半胱胺酸（homocysteine）之敘述，何者錯誤？",
+    "options": {
+      "A": "是心血管疾病的危險因子",
+      "B": "由精胺酸（arginine）轉換而來",
+      "C": "若缺乏cystathionine-β-synthase，會導致同半胱胺酸尿症（homocysteinuria）",
+      "D": "葉酸（folate）及維生素B12可作為同半胱胺酸代謝的輔酶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 95 題",
+    "question": "在動物中，血基質（heme）生合成之主要前驅物之一是：",
+    "options": {
+      "A": "色胺酸（tryptophan）",
+      "B": "酪胺酸（tyrosine）",
+      "C": "組胺酸（histidine）",
+      "D": "甘胺酸（glycine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 96 題",
+    "question": "某新物種中粒線體的complex V，其F0之 c-ring由12個c subunit所組成，而F1 complex中的αβ dimer共有6組。依 據目前已知complex V作用機轉，此物種的complex V每合成一個ATP最有可能需要幾個氫離子通過粒線體內膜 （inner membrane）？",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 97 題",
+    "question": "在細胞凋亡程序中的caspases為一種cysteine protease，其切割受質蛋白的位點位於下列何種胺基酸的C端？",
+    "options": {
+      "A": "絲胺酸（serine）",
+      "B": "胱胺酸（cysteine）",
+      "C": "天門冬胺酸（aspartic acid）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 98 題",
+    "question": "完全分化的細胞（terminally differentiated cells）通常會停在細胞週期中的那一個時期（phase）？",
+    "options": {
+      "A": "G0",
+      "B": "G1",
+      "C": "G2",
+      "D": "S"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 99 題",
+    "question": "Receptor tyrosine kinases（RTKs）是一類重要的細胞傳訊受體，其可在tyrosine residue上進行磷酸化來傳遞訊 息。下列何者不屬於RTKs？",
+    "options": {
+      "A": "epidermal growth factor receptor（EGFR）",
+      "B": "fibroblast growth factor receptor（FGFR）",
+      "C": "phosphoinositide 3-kinase（PI3K）",
+      "D": "insulin receptor（INSR）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 100 題",
+    "question": "下列何者為桑格定序法（Sanger sequencing method）的關鍵分子？",
+    "options": {
+      "A": "1', 2'-雙脫氧核苷酸（1', 2'-dideoxyribonucleotides）",
+      "B": "2', 3'-雙脫氧核苷酸（2', 3'-dideoxyribonucleotides）",
+      "C": "2', 4'-雙脫氧核苷酸（2', 4'-dideoxyribonucleotides）",
+      "D": "2', 5'-雙脫氧核苷酸（2', 5'-dideoxyribonucleotides）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

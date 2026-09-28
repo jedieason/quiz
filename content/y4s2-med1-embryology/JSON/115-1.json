@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 32 題",
+    "question": "女性在青春期時，體內何種激素（horm",
+    "options": {
+      "A": "濾泡刺激激素（follicle-stimulatin",
+      "B": "黃體成長激素（luteinizing hormone",
+      "C": "動情素（estrogen）",
+      "D": "黃體酮（progesterone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 33 題",
+    "question": "胚胎發育至何種時期，會突破透明層（",
+    "options": {
+      "A": "受精卵（zygote）",
+      "B": "八細胞時期（eight-cell stage）",
+      "C": "桑葚胚（morula）",
+      "D": "囊胚（blastocyst）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 34 題",
+    "question": "下列關於染色體數目異常的敘述，何者",
+    "options": {
+      "A": "孕婦的年齡不影響染色體21 三倍體（",
+      "B": "性染色體三倍症（trisomy of sex ch",
+      "C": "透納氏症（Turner syndrome）多為男",
+      "D": "具有染色體四倍體（tetrasomy）的胎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 35 題",
+    "question": "下列何種構造之來源不是外胚層（ecto",
+    "options": {
+      "A": "皮脂腺（sebaceous gland）",
+      "B": "汗腺（sweat gland）",
+      "C": "頭髮（hair）",
+      "D": "豎毛肌（arrector pili muscle） anter）斷裂，下列何者的功能最不受影響？ （tarsal tunnel）？ s） s） mone）的釋放量，會在排卵前與排卵後，分別出 ng hormone） e） （zona pellucida）而孵化（hatching）？ 者正確？ （trisomy 21）的發生率 hromosomes），常在青春期時才發現 男性，且具有性腺及第二性徵的發育 胎兒不易流產，仍可足月生產 oderm）？ 現一次高峰？"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 36 題",
+    "question": "下列構造與其發育來源的位置配對，何者錯誤？",
+    "options": {
+      "A": "橋腦及小腦（pons and cerebellum）：後腦（metencephalon）",
+      "B": "四疊體（tectum）：中腦（mesencephalon）",
+      "C": "乳狀體（mammillary body）：間腦（diencephalon）",
+      "D": "視囊（optic vesicle）：髓腦（myelencephalon）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 75 題",
+    "question": "下列何種人體寄生蟲感染與免疫不全症候群感染有關？",
+    "options": {
+      "A": "蟯蟲（Enterobius vermicularis）",
+      "B": "糞小桿線蟲（Strongyloides stercoralis）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "旋毛蟲（Trichinella spiralis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 76 題",
+    "question": "下列何種人體寄生蟲感染，幼蟲不會進入循環系統？",
+    "options": {
+      "A": "蛔蟲（Ascaris lumbricoides）",
+      "B": "美洲鉤蟲（Necator americanus）",
+      "C": "鞭蟲（Trichuris trichiura）",
+      "D": "糞小桿線蟲（Strongyloides stercoralis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 77 題",
+    "question": "下列何種寄生蟲不是經由生食魚肉感染的？",
+    "options": {
+      "A": "槍狀肝吸蟲（Dicrocoelium dendriticum）",
+      "B": "異形異形吸蟲（Heterophyes heterophyes）",
+      "C": "中華肝吸蟲（Clonorchis sinensis）",
+      "D": "泰國肝吸蟲（Opisthorchis viverrini）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 78 題",
+    "question": "下列何種寄生蟲的蟲卵可在病人尿液中被檢出？",
+    "options": {
+      "A": "曼森血吸蟲（Schistosoma mansoni）",
+      "B": "日本血吸蟲（Schistosoma japonicum）",
+      "C": "埃及血吸蟲（Schistosoma haematobium）",
+      "D": "間插血吸蟲（Schistosoma intercalatum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 79 題",
+    "question": "老李至東非野生動物保護區旅遊時，遭到某種蠅類叮咬，不久叮咬處發生下疳（chancre），後來並有 發燒、後頸淋巴結腫大等症狀，血液及腦脊髓液中檢出的寄生蟲數亦高，他最可能感染的寄生蟲是：",
+    "options": {
+      "A": "嬰兒利什曼原蟲（Leishmania infantum）",
+      "B": "甘比亞錐蟲（Trypanosoma gambiense）",
+      "C": "羅得西亞錐蟲（Trypanosoma rhodesiense）",
+      "D": "惡性瘧原蟲（Plasmodium falciparum）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 80 題",
+    "question": "下列關於腸道胞子蟲（intestinal sporozoa）的敘述，何者錯誤？",
+    "options": {
+      "A": "modified acid-fast stain 是常用的卵囊（oocyst）染色法",
+      "B": "其中以等胞子蟲（Isospora belli）的卵囊體型最大",
+      "C": "主要的病症是腹瀉",
+      "D": "引起的病症都可以用trimethoprim-sulfamethoxazole 治癒"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 81 題",
+    "question": "淋巴性絲蟲症（lymphatic filariasis）是由下列何病媒傳播？",
+    "options": {
+      "A": "斑虻（Chrysops）",
+      "B": "熱帶家蚊（Culex quinquefasciatus）",
+      "C": "蚋（Simulium spp.）",
+      "D": "蜱（tick）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 82 題",
+    "question": "埃及斑蚊（Aedes aegypti）仍是今日世界之重要病媒，在台灣地區，埃及斑蚊主要傳播何種疾病？",
+    "options": {
+      "A": "登革熱（dengue fever）",
+      "B": "日本腦炎（Japanese encephalitis）",
+      "C": "絲蟲病（filariasis）",
+      "D": "萊姆病（Lyme disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 51 題",
+    "question": "下列配對，何者屬於physiologic antagonism？",
+    "options": {
+      "A": "Protamine-heparin",
+      "B": "Acetylcholine-atropine",
+      "C": "Glucagon-insulin",
+      "D": "制酸劑-胃酸"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 52 題",
+    "question": "下列何者作用之受體（receptor）是位於細胞內？",
+    "options": {
+      "A": "Insulin",
+      "B": "Estrogen",
+      "C": "Norepinephrine",
+      "D": "Serotonin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 53 題",
+    "question": "下列有關Aminoglycoside 之敘述，何者錯誤？",
+    "options": {
+      "A": "口服吸收差",
+      "B": "具有post-antibiotic effect（PAE），可一天給一次較高劑量的治療方式",
+      "C": "對於Gram negative 之厭氧菌（anaerobes）比較有效",
+      "D": "具有聽覺損傷和腎功能損傷之不良作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 54 題",
+    "question": "下列有關Fluoroquinolone 敘述，何者錯誤？",
+    "options": {
+      "A": "口服吸收優於Nalidixic acid",
+      "B": "廣效型抗菌劑，可用於呼吸道和腸道之細菌感染",
+      "C": "作用標的為細菌Type II topoisomerase（DNA gyrase）",
+      "D": "安全性高，可用於小兒之感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 55 題",
+    "question": "下列何種β-lactam 藥物可殺死Gram negative 菌，且與其他β-lactam 產生最少交互過敏（Cross-  allergy）反應？",
+    "options": {
+      "A": "Meropenem",
+      "B": "Cephalosporin",
+      "C": "Aztreonam",
+      "D": "Ampicillin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 56 題",
+    "question": "下列藥物中，何者可和黴菌細胞膜之麥角固醇（ergosterol）結合，造成細胞膜穿孔而達殺菌作用， 且可和flucytosine 產生協同作用，治療隱球菌引起之腦膜炎（cryptococcal meningitis）？",
+    "options": {
+      "A": "Amphotericin B",
+      "B": "Itraconazole",
+      "C": "Rifampin",
+      "D": "Terbinafine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 57 題",
+    "question": "下列何種藥物屬於IL-1 受體拮抗劑，可適用於類風濕性關節炎（rheumatoid arthritis）治療？",
+    "options": {
+      "A": "Adalimumab",
+      "B": "Anakinra",
+      "C": "Alefacept",
+      "D": "Natalizumab"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 58 題",
+    "question": "下列有關Fibrate 作用，何者錯誤？",
+    "options": {
+      "A": "不影響血漿中HDL",
+      "B": "增加肌肉Endothelial lipoprotein lipase 活性，降低Triglyceride",
+      "C": "主要作用為透過PPARα 活化，降低血漿Triglyceride",
+      "D": "與Statin 合用易產生肌病變（Myopathy）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 59 題",
+    "question": "下列何種藥物最常用來作為庫欣氏症候群（Cushing’s syndrome）的診斷用途？",
+    "options": {
+      "A": "Fludrocortisone",
+      "B": "Dexamethasone",
+      "C": "Desoxycorticosterone",
+      "D": "Aldosterone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 60 題",
+    "question": "使用雌激素（estrogen）作為停經婦女的補充治療，有時會同時給予黃體激素（progestin），其主要 具有下列何優點？",
+    "options": {
+      "A": "可以減少雌激素的使用劑量",
+      "B": "減少雌激素刺激子宮內膜增生的作用",
+      "C": "促進雌激素減少骨質疏鬆症（osteoporosis）的療效",
+      "D": "減少雌激素產生噁心及嘔吐的副作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 61 題",
+    "question": "下列有關Octreotide 藥理學作用的描述，何者錯誤？",
+    "options": {
+      "A": "Octreotide 為一種生長抑制劑（somatostatin）的作用類似物（analog）",
+      "B": "Octreotide 使用時非常容易造成病人發生血糖過高（hyperglycemia）的情形",
+      "C": "Octreotide 可以用來減緩食道靜脈曲張（esophageal varices）所引起的急性出血現象",
+      "D": "長期使用Octreotide會發生Vitamin B12缺乏的副作用"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 62 題",
+    "question": "若病人有急性心衰竭且其收縮壓低於90 mmHg 時，則下列何者為最佳治療藥物？",
+    "options": {
+      "A": "Dopamine",
+      "B": "Milrinone",
+      "C": "Isoproterenol",
+      "D": "Nesiritide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 63 題",
+    "question": "下列利尿劑中，何者對腎臟收集小管（collecting tubule）上皮細胞之鈉通道有直接抑制作用？",
+    "options": {
+      "A": "Eplerenone",
+      "B": "Conivaptan",
+      "C": "Acetazolamide",
+      "D": "Amiloride"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 64 題",
+    "question": "若高血壓病人併有慢性腎臟疾病，下列降血壓藥物，何者可以兼具降血壓及改善蛋白尿（proteinuria） 的作用？",
+    "options": {
+      "A": "Amlodipine",
+      "B": "Carvedilol",
+      "C": "Lisinopril",
+      "D": "Methyldopa"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 65 題",
+    "question": "Cocaine 促進交感神經活性之最主要作用機轉為何？",
+    "options": {
+      "A": "抑制鈉離子通道",
+      "B": "抑制norepinephrine reuptake",
+      "C": "抑制monoamine oxidase",
+      "D": "促進norepinephrine 合成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 66 題",
+    "question": "活化β2-adrenoceptor會促進下列何種肌肉收縮？",
+    "options": {
+      "A": "膀胱壁肌肉",
+      "B": "骨骼肌血管",
+      "C": "支氣管平滑肌",
+      "D": "心肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 67 題",
+    "question": "下列何種β2-agonists的脂溶性高，藥效長，適合用於夜間型氣喘的控制？",
+    "options": {
+      "A": "Salmeterol",
+      "B": "Terbutaline",
+      "C": "Albuterol",
+      "D": "Bitolterol"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 68 題",
+    "question": "通常小孩因病毒感染引起的發燒，會優先使用下列何種藥物來退燒？",
+    "options": {
+      "A": "Aspirin",
+      "B": "Acetaminophen",
+      "C": "Diclofenac",
+      "D": "Ketorolac"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 69 題",
+    "question": "若一病人平日有服用ketoconazole，最不宜使用下列何種H1-antihistamine藥物來治療過敏？",
+    "options": {
+      "A": "Astemizole",
+      "B": "Brompheniramine",
+      "C": "Cyclizine",
+      "D": "Diphenhydramine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 70 題",
+    "question": "下列那一種抗癲癇藥物為γ-aminobutyric acid（GABA）的結構相似物，其主要透過抑制GABA 轉氨 酶（transaminase）及GABA 再回收（uptake）作用來產生抗癲癇作用？",
+    "options": {
+      "A": "lamotrigine",
+      "B": "vigabatrin",
+      "C": "ethosuximide",
+      "D": "topiramate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 71 題",
+    "question": "下列有關中樞神經興奮劑methylene-dioxymethamphetamine（MDMA）的敘述，何者錯誤？",
+    "options": {
+      "A": "其為amphetamine 的衍生物，作用方式與amphetamine 相似",
+      "B": "其具有阻斷血清素（serotonin）再回收系統作用，因此會增加腦中血清素局部濃度",
+      "C": "體溫過低為其中毒時的主要特色",
+      "D": "其使用者會產生心理依賴性及造成強迫性使用行為"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 72 題",
+    "question": "使用benzodiazepines 類藥物時，隨著其使用劑量逐漸提高時，其所產生之中樞神經系統作用之前後 序列，何者正確？",
+    "options": {
+      "A": "催眠（hypnosis）→鎮靜（sedation）→麻醉（anesthesia）→昏迷（coma）",
+      "B": "鎮靜（sedation）→催眠（hypnosis）→麻醉（anesthesia）→昏迷（coma）",
+      "C": "催眠（hypnosis）→麻醉（anesthesia）→鎮靜（sedation）→昏迷（coma）",
+      "D": "鎮靜（sedation）→麻醉（anesthesia）→催眠（hypnosis）→昏迷（coma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 73 題",
+    "question": "下列有關離子通道阻斷劑之敘述，何者錯誤？",
+    "options": {
+      "A": "Tetrodotoxin（TTX）從外面阻斷sodium channel",
+      "B": "Apamin 阻斷Big Ca-activated potassium channel",
+      "C": "Picrotoxin阻斷GABAA receptor",
+      "D": "Philanthotoxin 阻斷AMPA receptor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 74 題",
+    "question": "使用下列那一種general anesthetics 時，最容易造成血壓下降和心律不整？",
+    "options": {
+      "A": "Isoflurane",
+      "B": "Halothane",
+      "C": "Desflurane",
+      "D": "Nitrous oxide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 75 題",
+    "question": "下列何種藥物是有機磷中毒時的最佳解毒劑？",
+    "options": {
+      "A": "Atropine",
+      "B": "Acetylcysteine",
+      "C": "Physostigmine",
+      "D": "Pralidoxime"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或 Ｄ或AD者均給分。"
+  }
+]

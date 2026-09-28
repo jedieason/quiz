@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 37 題",
+    "question": "下列那個連結會出現在上皮細胞的基底面（basal domain）？",
+    "options": {
+      "A": "緊密接合（tight junction）",
+      "B": "黏連接合（adhering junction）",
+      "C": "橋粒（desmosome）",
+      "D": "點狀黏著（focal adhesion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 38 題",
+    "question": "心肌間盤（intercalated disc）的組成構造，不包括：",
+    "options": {
+      "A": "黏連接合（adhering junction）",
+      "B": "橋粒（desmosome）",
+      "C": "緊密接合（tight junction）",
+      "D": "間隙接合（gap junction）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 39 題",
+    "question": "蝕骨細胞（osteoclasts）具有下列何種特性？",
+    "options": {
+      "A": "合成類骨質（osteoid）",
+      "B": "源自於骨生成細胞（osteoprogenitor cell）",
+      "C": "具有多個細胞核且胞質為嗜酸性",
+      "D": "細胞周邊發出骨小管（canaliculi）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 40 題",
+    "question": "下列細胞的配對，何者的功能最相似，以及其前驅細胞來源最相近？",
+    "options": {
+      "A": "肥大細胞（mast cell）－巨噬細胞（macrophage）",
+      "B": "自然殺手細胞（NK cell）－漿細胞（plasma cell）",
+      "C": "嗜鹼細胞（basophil）－肥大細胞（mast cell）",
+      "D": "巨噬細胞（macrophage）－巨核細胞（megakaryocyte）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 41 題",
+    "question": "下列何者的神經元（neuron）不屬於雙極神經元（bipolar neuron）？",
+    "options": {
+      "A": "前庭神經節（vestibular ganglion）",
+      "B": "嗅覺上皮（olfactory epithelium）",
+      "C": "柯蒂氏螺旋神經節（spiral ganglion of Corti）",
+      "D": "視網膜的神經節細胞層（ganglion cell layer of retina）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 42 題",
+    "question": "下列關於脾臟（spleen）的敘述，何者正確？",
+    "options": {
+      "A": "為身體最大的淋巴器官，具有輸入與輸出淋巴管，直接和淋巴循環相連接",
+      "B": "紅髓（red pulp）是由大量的淋巴細胞圍繞中央動脈（central artery）所構成",
+      "C": "具有高內皮小靜脈（high endothelial venules）過濾不成熟的淋巴球",
+      "D": "紅血球經有鞘微血管（sheathed capillary），以開放式循環進入脾索（splenic cord）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 43 題",
+    "question": "舌乳頭（papillae）中，何者數量最多且構造最小？",
+    "options": {
+      "A": "絲狀乳頭（filiform papillae）",
+      "B": "蕈狀乳頭（fungiform papillae）",
+      "C": "輪廓乳頭（circumvallate papillae）",
+      "D": "葉狀乳頭（foliate papillae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 44 題",
+    "question": "關於消化道的組織結構，下列敘述何者正確？",
+    "options": {
+      "A": "黏膜肌層（muscularis mucosae）分布區域是由食道（esophagus）至盲腸（cecum）為止",
+      "B": "胃底腺（fundic gland）分布是由黏膜層向下延伸至肌外層（muscularis externa）",
+      "C": "小腸的絨毛（villi）主要是由黏膜下層（submucosa）突出至腸腔的構造",
+      "D": "闌尾（appendix）的黏膜層有豐富的淋巴小結（lymphatic nodules），有時會延伸到黏膜下層 （submucosa）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 45 題",
+    "question": "腎臟構造中，下列何者具有最發達的刷狀緣（brush border）？",
+    "options": {
+      "A": "近曲小管（proximal convoluted tubule）",
+      "B": "遠曲小管（distal convoluted tubule）",
+      "C": "亨利氏環的細升支（thin ascending limb of the loop of Henle）",
+      "D": "髓質的集尿管（medullary collecting duct）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 46 題",
+    "question": "下列關於內分泌腺體的細胞與其分泌的激素（hormone）之敘述，何者正確？",
+    "options": {
+      "A": "胰島（pancreatic islet）內的A 細胞（alpha cell）主要分泌胰島素（insulin）",
+      "B": "腎上腺髓質（adrenal medulla）內的嗜鉻細胞（chromaffin cell）主要分泌雄性激素（androgen）",
+      "C": "松果腺（pineal gland）的膠細胞（glial cell）主要分泌褪黑激素（melatonin）",
+      "D": "副甲狀腺（parathyroid gland）中的主細胞（chief cell）主要分泌副甲狀腺激素（parathyroid hormone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

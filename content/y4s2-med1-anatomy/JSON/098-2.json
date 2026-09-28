@@ -1,0 +1,350 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 1 題",
+    "question": "闌尾（appendix）手術之切口，何者較容易造成腹直肌（rectus abdominis）的血液供應和支配神經 受損？",
+    "options": {
+      "A": "正中切口（median or midline incision）",
+      "B": "旁正中切口（paramedian incision）",
+      "C": "麥白爾尼切口（McBurney incision）",
+      "D": "旁腹直肌鞘切口（pararectus incision (along the lateral border of rectus sheath)） 情況：30 歲男性因車禍致頭部外傷被送急診，呈半昏迷狀態，左側瞳孔放大，右側肢體無力，電腦斷層 攝影顯示其左腦顳葉出血。依此回答第2 題至第4 題。"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 2 題",
+    "question": "這位病人可能是因下列何構造被血塊擠壓，進而壓迫腦幹而引起上述症狀？",
+    "options": {
+      "A": "小腦扁桃體（cerebellar tonsil）",
+      "B": "鉤（uncus）",
+      "C": "胼胝體（corpus callosum）",
+      "D": "下視丘（hypothalamus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 3 題",
+    "question": "前述病人腦幹的什麼部位被壓迫而引起右側肢體無力？",
+    "options": {
+      "A": "上丘（superior colliculus）",
+      "B": "延髓（medulla oblongata）",
+      "C": "大腦腳（cerebral peduncle）",
+      "D": "橋腦（pons）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 4 題",
+    "question": "前述病人的那一條顱神經被壓迫而引起左側瞳孔放大？",
+    "options": {
+      "A": "滑車神經（trochlear nerve）",
+      "B": "動眼神經（oculomotor nerve）",
+      "C": "外展神經（abducens nerve）",
+      "D": "三叉神經（trigeminal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 5 題",
+    "question": "進行頸部腫瘤手術時，不幸傷及迷走神經的分枝，最有可能發生情形為何？",
+    "options": {
+      "A": "胃酸分泌減少",
+      "B": "腹瀉",
+      "C": "心搏過速",
+      "D": "聲音沙啞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 6 題",
+    "question": "一中年男子從事多年勞力工作後，主訴背部疼痛，且一側下肢肌肉無力。下列那一肌肉的功能缺失， 可以確認是第一節薦神經（S1 spinal nerve）的受傷，而不是坐骨神經的受傷？",
+    "options": {
+      "A": "股二頭肌",
+      "B": "腓腸肌",
+      "C": "臀大肌",
+      "D": "脛前肌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 7 題",
+    "question": "乳房惡性腫瘤（carcinoma of the breast）易由下列何靜脈引流轉移到椎骨（vertebrae）？",
+    "options": {
+      "A": "上腹壁下靜脈（inferior epigastric vein）",
+      "B": "頭臂靜脈（brachiocephalic vein）",
+      "C": "外側胸靜脈（lateral thoracic vein）",
+      "D": "後肋間靜脈（posterior intercostal vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 8 題",
+    "question": "腹壁淺層靜脈蓄積來自臍旁靜脈（paraumbilical vein）的靜脈血而形成的放射狀走向是源自下列何者 的阻塞？",
+    "options": {
+      "A": "上腔靜脈",
+      "B": "下腔靜脈",
+      "C": "肝門靜脈",
+      "D": "肝靜脈"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 9 題",
+    "question": "病人出現右下肢振動（vibration）感覺異常，左下肢輕觸覺及痛覺異常，最可能的病灶位於：",
+    "options": {
+      "A": "右側胸段脊髓（right thoracic spinal cord）",
+      "B": "右側丘腦（right thalamus）",
+      "C": "左側延髓（left medulla）",
+      "D": "左側大腦感覺皮質（left sensory cortex）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 10 題",
+    "question": "支配陰囊後半部的神經為下列何者的分枝？",
+    "options": {
+      "A": "股神經",
+      "B": "陰部神經",
+      "C": "生殖股神經",
+      "D": "髂腹股溝神經"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 11 題",
+    "question": "下列何者的副交感神經支配不屬於骨盆內臟神經（pelvic splanchnic nerve）？",
+    "options": {
+      "A": "卵巢",
+      "B": "輸卵管",
+      "C": "子宮",
+      "D": "陰道"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 12 題",
+    "question": "下列何者構成坐骨肛門窩（ischioanal fossa）的內側壁？",
+    "options": {
+      "A": "臀中肌",
+      "B": "提肛肌",
+      "C": "梨狀肌",
+      "D": "閉孔內肌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 13 題",
+    "question": "肩胛骨下角相當於下列何者的高度？",
+    "options": {
+      "A": "第一胸椎",
+      "B": "第三胸椎",
+      "C": "第五胸椎",
+      "D": "第七胸椎"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 14 題",
+    "question": "前臂的骨間前神經（anterior interosseous nerve）為下列何者的分枝？",
+    "options": {
+      "A": "骨間總神經（common interosseous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 15 題",
+    "question": "上肢藉下列何者附著於軀幹？",
+    "options": {
+      "A": "肩鎖關節（acromioclavicular joint）",
+      "B": "盂肱關節（glenohumeral joint）",
+      "C": "胸鎖關節（sternoclavicular joint）",
+      "D": "柄胸關節（manubriosternal joint）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 16 題",
+    "question": "下列何者分隔坐骨大切迹（greater sciatic notch）與坐骨小切迹（lesser sciatic notch）？",
+    "options": {
+      "A": "髂後下棘（posterior inferior iliac spine）",
+      "B": "坐骨棘（ischial spine）",
+      "C": "坐骨粗隆（ischial tuberosity）",
+      "D": "恥骨結節（pubic tubercle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 17 題",
+    "question": "旋股內側動脈（medial circumflex femoral artery）穿過下列何者，至大腿後面？",
+    "options": {
+      "A": "髂腰肌（iliopsoas）和恥骨肌（pectineus）",
+      "B": "恥骨肌和內收短肌（adductor brevis）",
+      "C": "內收短肌和內收長肌（adductor longus）",
+      "D": "內收長肌和內收大肌（adductor magnus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 18 題",
+    "question": "心尖相對於第幾個肋間？",
+    "options": {
+      "A": "三",
+      "B": "五",
+      "C": "七",
+      "D": "九"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 19 題",
+    "question": "腹主動脈在下列何平面分枝成左右總腸骨動脈？",
+    "options": {
+      "A": "橫幽門面（transpyloric plane）",
+      "B": "橫臍面（transumbilical plane）",
+      "C": "橫腸骨結節面（transtubercular plane）",
+      "D": "腸骨嵴間面（intercrestal plane）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 20 題",
+    "question": "下列何者可同時供血到左、右心室？",
+    "options": {
+      "A": "右冠狀動脈",
+      "B": "右冠狀動脈的邊緣枝（marginal branch）",
+      "C": "左冠狀動脈的迴旋枝（circumflex branch）",
+      "D": "左冠狀動脈的前室間枝（anterior interventricular branch）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 21 題",
+    "question": "下列何結構不具有穩固腎臟的作用？",
+    "options": {
+      "A": "圍腎脂肪（perirenal fat）",
+      "B": "腎肌膜（renal fascia）",
+      "C": "腎動、靜脈",
+      "D": "腎上腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 22 題",
+    "question": "頸外動脈（external carotid artery）與其分枝不供應血液給：",
+    "options": {
+      "A": "腦部",
+      "B": "硬腦膜",
+      "C": "眼眶",
+      "D": "鼻腔黏膜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 23 題",
+    "question": "下列有關迷走神經（vagus nerve）之敘述，何者錯誤？",
+    "options": {
+      "A": "喉外神經（external laryngeal nerve）控制肌肉造成聲襞（vocal folds）緊繃",
+      "B": "其分枝形成頸襻（ansa cervicalis）之下根（inferior root）",
+      "C": "其分枝喉返神經（recurrent laryngeal nerve）控制喉內肌肉",
+      "D": "迷走神經於鎖骨下動脈（subclavian artery）前方跨越"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 24 題",
+    "question": "舌神經（lingual nerve）內（包括所有伴行）之神經纖維，不包含：",
+    "options": {
+      "A": "神經細胞體位於三叉神經節（trigeminal ganglion）之感覺神經纖維",
+      "B": "傳遞來自舌前三分之二段一般感覺之神經纖維",
+      "C": "傳遞舌前三分之二段味覺之神經纖維",
+      "D": "控制腮腺（parotid gland）之副交感神經節前纖維"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 25 題",
+    "question": "支配下頜下腺（submandibular gland）之副交感神經纖維不經由：",
+    "options": {
+      "A": "莖乳突孔（stylomastoid foramen）",
+      "B": "內耳道（internal acoustic meatus）",
+      "C": "中耳腔（middle ear cavity）",
+      "D": "舌神經（lingual nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 26 題",
+    "question": "最近中線的小腦神經核為：",
+    "options": {
+      "A": "球狀核（globose nucleus）",
+      "B": "頂核（fastigial nucleus）",
+      "C": "栓狀核（emboliform nucleus）",
+      "D": "齒狀核（dentate nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 27 題",
+    "question": "眼球的血管層（vascular tunica）不包含下列何種結構？",
+    "options": {
+      "A": "虹彩（iris）",
+      "B": "水晶體（lens）",
+      "C": "睫狀體（ciliary body）",
+      "D": "脈絡層（choroid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 28 題",
+    "question": "下列何種細胞具頂樹突（apical dendrite）可延伸至大腦皮質表面？",
+    "options": {
+      "A": "星狀細胞（stellate cell）",
+      "B": "錐狀細胞（pyramidal cell）",
+      "C": "梭狀細胞（fusiform cell）",
+      "D": "水平細胞（horizontal cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

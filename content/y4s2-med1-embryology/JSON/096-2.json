@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 29 題",
+    "question": "透明膜（hyaline membrane）這種疾病與胎兒肺部在下列何時期發育不良有關？",
+    "options": {
+      "A": "偽腺期（pseudoglandular period）",
+      "B": "小管期（canalicular period）",
+      "C": "末囊期（terminal sac period）",
+      "D": "肺泡期（alveolar period）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 30 題",
+    "question": "下列何構造不是由中胚層細胞衍生成的？",
+    "options": {
+      "A": "軟骨",
+      "B": "乳腺",
+      "C": "腎上腺皮質部",
+      "D": "脾"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 31 題",
+    "question": "肺臟發育過程中，下列何者從心包腹膜管（pericardioperitoneal canal）的外側生長出來，且位於發育 肺臟的下方？",
+    "options": {
+      "A": "橫隔（septum transversum）",
+      "B": "胸腹膜（pleuroperitoneal membrane）",
+      "C": "靜脈竇（sinus venosus）",
+      "D": "胸心包膜（pleuropericardial membrane）"
+    },
+    "answer": "B",
+    "explanation": "考選部更正備註：答Ｂ給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 32 題",
+    "question": "法勒氏四聯症（tetralogy of Fallot）中之跨騎主動脈（overriding aorta）症，其成因應為：",
+    "options": {
+      "A": "球腱（bulbar ridge）及動脈幹腱（truncal ridge）尚未分隔動脈幹",
+      "B": "心室間隔（interventricular septum）之缺損",
+      "C": "動脈導管之異常閉鎖",
+      "D": "第一中隔（septum primum）未與心內膜墊相融合"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

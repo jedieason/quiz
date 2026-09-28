@@ -1,0 +1,125 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 37 題",
+    "question": "骨骼肌肌梭（muscle spindle）之內鞘（internal capsule）所包覆的構造，不包含：",
+    "options": {
+      "A": "運動終板（motor end plate）",
+      "B": "環螺旋末梢（annulospiral ending）",
+      "C": "核鏈纖維（nuclear chain fiber）",
+      "D": "核袋纖維（nuclear bag fiber）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 38 題",
+    "question": "將分泌物質與細胞一併釋放至腺體管腔（lumen）的分泌方式是：",
+    "options": {
+      "A": "局部分泌（merocrine secretion）",
+      "B": "頂部分泌（apocrine secretion）",
+      "C": "全分泌（holocrine secretion）",
+      "D": "內分泌（endocrine secretion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 39 題",
+    "question": "長骨骨幹（diaphysis of long bone）的直徑加粗（increase in diameter），最主要是下列何者的增生與分化所促 成？",
+    "options": {
+      "A": "骨外膜（periosteum）",
+      "B": "骨內膜（endosteum）",
+      "C": "骨幹骺端（metaphysis）",
+      "D": "骨骺板（epiphyseal plate）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 40 題",
+    "question": "下列有關膜性迷路（membranous labyrinth）的敘述，何者錯誤？",
+    "options": {
+      "A": "壺腹嵴（crista ampullaris）是頭部角加速運動（angular acceleration）的感覺受器",
+      "B": "頂帽（cupula）的耳石（otolith）是頭部直線加速運動（linear acceleration）的感覺受器",
+      "C": "前庭階（scala vestibule）與鼓室階（scala tympani）於蝸孔（helicotrema）彼此相通",
+      "D": "耳蝸導管（cochlear duct）內，流動的液體為內淋巴液（endolymph）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 41 題",
+    "question": "下列有關小動脈（arteriole）和小靜脈（venule）之敘述，何者正確？",
+    "options": {
+      "A": "兩者的血管內膜（tunica intima）均有單層的內皮細胞（endothelial cells）",
+      "B": "兩者均有數層的骨骼肌細胞（skeletal muscle cells）和彈性板（elastic lamellae）組成",
+      "C": "兩者在血管壁上有顯著波浪狀的彈性內膜（internal elastic membrane）",
+      "D": "兩者均有平滑肌細胞（smooth muscle cells）所形成的微血管前括約肌（precapillary sphincter），控制血液進 入微血管"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 42 題",
+    "question": "下列有關舌輪廓乳突（circumvallate papillae）的敘述，何者正確？",
+    "options": {
+      "A": "分布在舌外側且與舌長軸平行",
+      "B": "含有許多味蕾（taste bud）",
+      "C": "是舌乳突（papilla）中最小且數量最多",
+      "D": "表面覆有單層扁平上皮（simple squamous epithelium）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 43 題",
+    "question": "下列有關十二指腸（duodenum）、空腸（jejunum）、迴腸（ileum）三者的結構比較，何項正確？",
+    "options": {
+      "A": "空腸（jejunum）有最多的杯狀細胞（goblet cells）",
+      "B": "迴腸（ileum）有最多的絨毛（villi）",
+      "C": "十二指腸（duodenum）有Brunner's gland",
+      "D": "十二指腸（duodenum）有最多且明顯的Peyer's patch"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 44 題",
+    "question": "下列有關腎臟的遠曲小管（distal convoluted tubule）和近曲小管（proximal convoluted tubule）的上皮比較， 何項正確？",
+    "options": {
+      "A": "遠曲小管的上皮細胞內有許多的溶酶體（lysosomes），細胞質較濃染",
+      "B": "遠曲小管上皮細胞的細胞核（nucleus）較靠近管腔（lumen）表面",
+      "C": "兩者上皮細胞之間的界線均很明顯",
+      "D": "兩者上皮細胞表面均有很多纖毛（cilia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 45 題",
+    "question": "下列有關黃體（corpus luteum）的敘述，何者錯誤？",
+    "options": {
+      "A": "顆粒層黃體細胞（granulosa lutein cells）的直徑，比卵泡鞘黃體細胞（theca lutein cells）為長",
+      "B": "若無受精發生，則黃體逐漸退化而成白體（corpus albicans）",
+      "C": "若有受精及著床發生，黃體在懷孕初期時會持續生長且變大",
+      "D": "次級卵泡（secondary follicle）之顆粒層細胞（granulosa cells）及內鞘層（theca interna）細胞在排卵前已完 全分化為黃體細胞（luteal cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 46 題",
+    "question": "下列何者會與細精管的基底板（basal lamina of seminiferous tubule）相接觸？",
+    "options": {
+      "A": "精母細胞（spermatocyte）",
+      "B": "精原細胞（spermatogonium）",
+      "C": "精細胞（spermatid）",
+      "D": "精子（spermatozoa）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

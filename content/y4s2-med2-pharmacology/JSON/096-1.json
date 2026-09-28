@@ -1,0 +1,328 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 53 題",
+    "question": "在雌激素受體呈陽性反應（estrogen receptor-positive）的乳癌中，雌激素（estrogen）能促進癌細胞的 生長；臨床上對這類病人常使用一種雌激素拮抗劑（estrogen antagonist）Tamoxifen 作為乳癌的輔助 治療。下圖是Estradiol 及Tamoxifen 的結構。下列敘述何者錯誤？",
+    "options": {
+      "A": "Estradiol 及Tamoxifen 均可藉simple diffusion 通過細胞膜而與胞內受體結合",
+      "B": "Estradiol 及Tamoxifen 與細胞表面受體結合後，均可透過調控轉錄作用改變基因表現",
+      "C": "Estradiol 與受體結合，使受體發生構型變化（conformational changes）",
+      "D": "Tamoxifen 所引發之轉錄作用遠不如Estradiol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 54 題",
+    "question": "下列貧血治療劑何者最適合用於自體免疫溶血性貧血（autoimmune hemolytic anemia）？",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Hydroxyurea",
+      "C": "Prednisone",
+      "D": "Pyridoxine Estradiol HO OH H3C Tamoxifen CH3 CH3 N CH3 O"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 55 題",
+    "question": "下列對於Glucocorticoid 產生之臨床副作用，何者錯誤？",
+    "options": {
+      "A": "導致庫興氏症候群（Cushing’s syndrome）",
+      "B": "產生骨質疏鬆症",
+      "C": "產生消化性潰瘍",
+      "D": "使氣管收縮，引起氣喘之發作"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 56 題",
+    "question": "下列何種抗心律不整藥物最易引起torsades de pointes 的副作用？",
+    "options": {
+      "A": "Propranolol",
+      "B": "Procainamide",
+      "C": "Verapamil",
+      "D": "Ibutilide"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 57 題",
+    "question": "患有氣喘或慢性肺阻塞的高血壓病人，不宜使用下列何種降血壓藥物？",
+    "options": {
+      "A": "Clonidine",
+      "B": "Terazosin",
+      "C": "Losartan",
+      "D": "Propranolol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 58 題",
+    "question": "70 歲李先生是一個老菸槍，因為chronic obstructive pulmonary disease（COPD）長期在門診追蹤治療， 近來因眼睛不適被診斷為青光眼，下列那一種藥物不宜使用？",
+    "options": {
+      "A": "Aminophylline",
+      "B": "Ipratropium",
+      "C": "Albuterol",
+      "D": "Budesonide"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一 律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 59 題",
+    "question": "下列有關治療巴金森氏症的藥物Carbidopa 的描述，何者正確？",
+    "options": {
+      "A": "會抑制單胺氧化酶（monoamine oxidase）B 的活性，進而減少dopamine 的代謝作用",
+      "B": "會減少levodopa 在周邊系統的代謝作用",
+      "C": "經常單獨使用來治療巴金森氏症的患者",
+      "D": "會通透血腦屏障（blood-brain barrier）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 60 題",
+    "question": "下列有關靜脈注射型全身性麻醉劑的描述，何者錯誤？",
+    "options": {
+      "A": "靜脈注射型全身性麻醉劑在體內產生作用期間的長短，主要取決於其再分布（redistribution）與代 謝的速率",
+      "B": "靜脈注射Etomidate 時容易出現注射部位的疼痛及肌肉痙攣（myoclonus）",
+      "C": "Diazepam 的麻醉誘導速率較thiopental 快",
+      "D": "使用Ketamine 時，成人常會出現作惡夢（bad dream）的經驗"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 61 題",
+    "question": "抗高血壓藥物captopril 會引起乾咳的副作用主要與下列何種自泌素（autacoid）有關？",
+    "options": {
+      "A": "Angiotensin",
+      "B": "Bradykinin",
+      "C": "Serotonin",
+      "D": "Histamine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 62 題",
+    "question": "下列那一種藥物為Benzodiazepines 類鎮靜-催眠（sedative-hypnotic）藥物的拮抗劑（antagonist），其 可以用來治療或診斷Benzodiazepines 的急性中毒現象？",
+    "options": {
+      "A": "Buspirone",
+      "B": "Zolpidem",
+      "C": "Flumazenil",
+      "D": "Zaleplon"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 63 題",
+    "question": "下列何種藥物用於治療慢性酒精中毒？",
+    "options": {
+      "A": "Dobutamine",
+      "B": "Carbidopa",
+      "C": "Reserpine",
+      "D": "Disulfiram"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 64 題",
+    "question": "下列對於痛風之治療，何者正確？",
+    "options": {
+      "A": "Aspirin 是治療痛風很好的抗發炎藥物",
+      "B": "Colchicine 用來治療急性痛風發作",
+      "C": "Probenecid 用來治療慢性痛風時，應少喝水以使藥物在腎臟局部濃度增加，增強效果",
+      "D": "Allopurinol 減少尿酸之形成是因為抑制了superoxide dismutase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 65 題",
+    "question": "治療幽門桿菌引起之消化性潰瘍，下列敘述何者錯誤？",
+    "options": {
+      "A": "目前標準治療為proton pump inhibitor，加上clarithromycin 及amoxicillin",
+      "B": "Clarithromycin 於酸性環境相當穩定，所以單獨使用clarithromycin 之效果極佳",
+      "C": "若有抗藥性產生可以使用其他抗菌劑取代，如metronidazole 或tetracycline",
+      "D": "對於十二指腸潰瘍患者，將幽門桿菌清除，可以降低一年之潰瘍復發率"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 66 題",
+    "question": "下列何種藥物是經由阻斷nicotinic receptor 而可治療因手術所引起的惡性高血壓？",
+    "options": {
+      "A": "Atropine",
+      "B": "Trimethaphan",
+      "C": "Cyclopentolate",
+      "D": "Ipratropium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 67 題",
+    "question": "下列前列腺素和其相關衍生物中，何者不具有收縮血管的作用？",
+    "options": {
+      "A": "TXA2",
+      "B": "PGI2",
+      "C": "PGF2α",
+      "D": "LTD4"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 68 題",
+    "question": "下列有關抗心律不整藥物lidocaine 的敘述，何者錯誤？",
+    "options": {
+      "A": "是一局部麻醉劑",
+      "B": "抑制$K^+$ channel",
+      "C": "不影響心肌的傳導速率",
+      "D": "可以提高ventricular fibrillation threshold"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 69 題",
+    "question": "人體內製造性荷爾蒙之原料為何？",
+    "options": {
+      "A": "Triglyceride",
+      "B": "Cholesterol",
+      "C": "Collagen",
+      "D": "Glycoprotein"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 70 題",
+    "question": "有關Somatostatin 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "會抑制生長荷爾蒙（growth hormone）之分泌",
+      "B": "通常是以口服給藥（oral）",
+      "C": "可用來治療肢端肥大症（acromegaly）",
+      "D": "Somatostatin 主要受體為SSTR2 和SSTR5"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 71 題",
+    "question": "下列何者可經由抑制5-lipoxygenase 的作用，用來當作治療氣喘的藥品？",
+    "options": {
+      "A": "Montelukast",
+      "B": "Zileuton",
+      "C": "Nedocromil",
+      "D": "Salmeterol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 72 題",
+    "question": "何種免疫抑制劑主要機轉在於結合FK506-binding protein 以抑制磷酸水解酵素（calcineurin）活性， 進而減低免疫相關細胞激素（cytokine）之生成？",
+    "options": {
+      "A": "Cyclosporine",
+      "B": "Azathioprine",
+      "C": "Tacrolimus",
+      "D": "Methotrexate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 73 題",
+    "question": "下列降血脂藥物，何者降低體內膽固醇（cholesterol）生合成之機轉為抑制3-hydroxy-3-methylglutaryl  CoA reductase（HMG CoA reductase）？",
+    "options": {
+      "A": "Niacin",
+      "B": "Fenofibrate",
+      "C": "Cholestyramine",
+      "D": "Lovastatin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 74 題",
+    "question": "下列何者是5-fluorouracil 的抗癌作用機轉？",
+    "options": {
+      "A": "與DNA 結合而抑制DNA 複製的功能",
+      "B": "抑制dihydrofolic acid 還原酵素",
+      "C": "其代謝物抑制thymidylate synthase 而毒殺細胞",
+      "D": "選擇性的抑制DNA polymerase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 75 題",
+    "question": "有關Fluconazole，下列敘述何者正確？",
+    "options": {
+      "A": "有效治療Aspergillosis",
+      "B": "抑制lanosterol 的去甲基化",
+      "C": "無法通過腦部血管",
+      "D": "易誘發肝臟藥物代謝酵素的合成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 76 題",
+    "question": "下列何種免疫調節藥物可以增加肉芽腫病患者體內巨噬細胞之吞噬作用？",
+    "options": {
+      "A": "Prednisone",
+      "B": "Interferon-γ",
+      "C": "Transtuzumab",
+      "D": "Aldesleukin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 77 題",
+    "question": "Probenecid 延長Penicillin 療效的主要原因為何？",
+    "options": {
+      "A": "抑制肝臟代謝Penicillin",
+      "B": "阻斷Penicillin 在腎小管排出",
+      "C": "促進Penicillin 與白蛋白結合，延長在體內停留的時間",
+      "D": "與Penicillin 有相同且加成性的藥效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 78 題",
+    "question": "下列何者最容易產生腎毒性及聽覺損傷的副作用？",
+    "options": {
+      "A": "Ethambutol",
+      "B": "Isoniazid",
+      "C": "Rifabutin",
+      "D": "Amikacin"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

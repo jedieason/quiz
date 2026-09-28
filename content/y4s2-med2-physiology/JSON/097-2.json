@@ -1,0 +1,313 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 1 題",
+    "question": "下列何者是副交感神經興奮的正確反應？",
+    "options": {
+      "A": "Mydriasis",
+      "B": "Vasoconstriction",
+      "C": "降低basal metabolic rate",
+      "D": "眼睛之Ciliary muscle 收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 2 題",
+    "question": "假設細胞膜只容許陽離子（cations）通透。經過一段時間後，通透的離子在細胞膜兩側將會形成一種 特殊分布關係，此稱為：",
+    "options": {
+      "A": "Starling effect",
+      "B": "Nernst equilibrium",
+      "C": "Donnan effect",
+      "D": "Bohr effect"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 3 題",
+    "question": "位於下視丘（hypothalamus）之osmoreceptor 為：",
+    "options": {
+      "A": "Mechanoreceptor",
+      "B": "Chemoreceptor",
+      "C": "Nociceptor",
+      "D": "Stress receptor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 4 題",
+    "question": "患者因長期居住於高噪音的工業區，右耳喪失高音頻聽覺，其可能病因為：",
+    "options": {
+      "A": "位於cochlea 基部（base）之organ of Corti 受損",
+      "B": "位於cochlea 頂部（apex）之organ of Corti 受損",
+      "C": "右側primary auditory cortex 受損",
+      "D": "右側cochlear nerve 完全切斷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 5 題",
+    "question": "下列何者不是決定肌肉張力的因素？",
+    "options": {
+      "A": "肌纖維收縮的數量",
+      "B": "每一個運動單位下收縮的肌纖維比例",
+      "C": "參與收縮的運動單位數目",
+      "D": "運動神經元刺激的頻率"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 6 題",
+    "question": "比較第一型和第二型骨骼肌纖維時，下列何者錯誤？",
+    "options": {
+      "A": "第一型纖維的粒線體含量較豐富",
+      "B": "第一型纖維較易疲乏",
+      "C": "第一型纖維的肌球蛋白含量較豐富",
+      "D": "第一型纖維的微血管含量較豐富"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 7 題",
+    "question": "主動脈瓣狹窄的病患容易發生心絞痛（angina pectoris）的原因為何？",
+    "options": {
+      "A": "左心室壓增加而且主動脈壓也增加",
+      "B": "左心室壓增加但是主動脈壓卻下降",
+      "C": "左心室壓下降而且主動脈壓也下降",
+      "D": "左心室壓下降但是主動脈壓卻增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 8 題",
+    "question": "人站立時腿部之靜水壓（hydrostatic pressure）會增加。下列那一個因素可防止腿部發生水腫？",
+    "options": {
+      "A": "增加動脈阻力",
+      "B": "降低脈搏壓",
+      "C": "增加靜脈壓",
+      "D": "降低血管內滲透壓"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 9 題",
+    "question": "下列何種因素可決定肺順應性（compliance）的大小？①肺臟的彈性纖維組織（elastic connective tissues） ②表面張力（surface tension） ③呼吸道阻力（airway resistance）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "①②③"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 10 題",
+    "question": "動脈二氧化碳分壓升高所導致肺通氣量（ventilation）增加，是藉由刺激何種感受器導致立即性及主 要（約占75%）之反應？",
+    "options": {
+      "A": "立即性反應：中樞化學感受器；主要反應：周邊化學感受器",
+      "B": "立即性反應：周邊化學感受器；主要反應：中樞化學感受器",
+      "C": "兩者皆為中樞化學感受器（central chemoreceptors）",
+      "D": "兩者皆為周邊化學感受器（peripheral chemoreceptors）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 11 題",
+    "question": "人體站立時，肺部那一區域的換氣／灌流比（ventilation/perfusion）為最高？",
+    "options": {
+      "A": "肺底",
+      "B": "肺尖",
+      "C": "肺中央處",
+      "D": "肺各處均有相若之換氣／灌流比"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 12 題",
+    "question": "將胃內迷走神經傳入纖維（vagal afferent fibers）阻斷時，下列敘述何者正確？",
+    "options": {
+      "A": "增加因組織胺（histamine）所刺激的胃酸分泌",
+      "B": "降低體抑素（somatostatin）的分泌",
+      "C": "降低因胃壁擴張（distension）所引起的胃酸分泌",
+      "D": "降低因胃內蛋白質食物刺激所引起的胃泌素（gastrin）分泌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 13 題",
+    "question": "下列關於唾液（saliva）之敘述，何者正確？",
+    "options": {
+      "A": "通常呈現酸性",
+      "B": "為一種高張（hypertonic）液體",
+      "C": "內含鉀離子（$K^+$）濃度比血漿內高",
+      "D": "內含鈉離子（$Na^+$）濃度比血漿內高"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 14 題",
+    "question": "正常情況下，下列那一段腎小管不能主動重吸收鈉離子？",
+    "options": {
+      "A": "近側腎曲小管",
+      "B": "亨利氏彎管下行支",
+      "C": "遠側腎曲小管",
+      "D": "皮質收集管"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 15 題",
+    "question": "下列那一種由腦下腺分泌（secretion）的荷爾蒙是在下視丘合成（synthesis）？",
+    "options": {
+      "A": "泌乳素（prolactin）",
+      "B": "濾泡促素（FSH）",
+      "C": "生長素（growth hormone）",
+      "D": "催產素（oxytocin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 16 題",
+    "question": "有關代謝症候群（metabolic syndrome），下列何者可增加胰島素阻抗（insulin resistance）？",
+    "options": {
+      "A": "瘦素（leptin）及腫瘤壞死因子α（TNF α）",
+      "B": "腫瘤壞死因子α 及adiponectin",
+      "C": "adiponectin 及resistin",
+      "D": "腫瘤壞死因子α 及resistin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 17 題",
+    "question": "長期高血壓、糖尿病、吸菸等均會使血管壁受損，進而引起血管粥狀硬化（atherosclerosis）。這個 過程中，血管平滑肌細胞（smooth muscle cells）扮演重要的角色。下列相關敘述何者錯誤？",
+    "options": {
+      "A": "單核細胞（Monocytes）與血小板（platelets）等血球會在受損的血管內膜細胞聚集",
+      "B": "平滑肌細胞受到趨化性物質（chemotactic factors）及促細胞分裂物質（mitogens）的刺激而產生結 構性改變，富含更多量的粗型及細型肌纖維蛋白（thick and thin filaments）",
+      "C": "異常的平滑肌細胞會移行到血管內膜層（intima）並增生",
+      "D": "正常血管壁上之平滑肌呈環狀排列（arranged circumferentially）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 18 題",
+    "question": "張先生因為心悸被送到急診室，心電圖檢查發現有上心室心搏過速（supraventricular tachycardia）， 在旁之醫師馬上做頸動脈竇按摩以減輕其症狀，其主要作用機轉為何？",
+    "options": {
+      "A": "抑制Brainbridge 反射",
+      "B": "活化減壓反射（baroreflex）",
+      "C": "活化化學反射（chemoreflex）",
+      "D": "抑制迷走中樞（vagal center）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 19 題",
+    "question": "一位25 歲年輕男性，日前因呼吸困難至醫院就醫，檢查後發現患者右上肺葉的肺泡破裂，肋膜腔 （pleural space）堆積大量的空氣，經診斷為自發性氣胸（pneumothorax），下列何者並不會出現於 此病患？",
+    "options": {
+      "A": "肋膜內壓（intrapleural pressure）為正壓",
+      "B": "功能性肺餘容量（functional residual capacity）增加",
+      "C": "肺活量（vital capacity）下降",
+      "D": "缺氧性缺氧（hypoxic hypoxia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 20 題",
+    "question": "有關人體腎臟對血漿滲透度調節（osmolar regulation）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "血漿滲透度（plasma osmolality）值大於280 mOsm/kg H2O 後會刺激抗利尿荷爾蒙（antidiuretic hormone）分泌",
+      "B": "刺激口渴的血漿滲透度閾值（threshold）要比刺激抗利尿荷爾蒙分泌之閾值高",
+      "C": "抗利尿荷爾蒙使遠端腎小管對水分子不易重吸收",
+      "D": "尿液濃縮時其尿液滲透度值最高可至1200 mOsm/kg H2O，而尿液稀釋時其尿液滲透度值最低可至 50 mOsm/kg H2O"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 21 題",
+    "question": "胎盤由於缺乏若干酵素，因此無法合成下列那種荷爾蒙？",
+    "options": {
+      "A": "助孕酮（progesterone）",
+      "B": "動情素（estrogen）",
+      "C": "雄性素（androgen）",
+      "D": "促黃體素（LH）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 22 題",
+    "question": "切除迴腸後，對於膽鹽的影響，下列敘述何者正確？",
+    "options": {
+      "A": "增加膽鹽在肝靜脈中濃度",
+      "B": "增加膽鹽在肝門脈中濃度",
+      "C": "增加膽鹽在膽囊中的儲存",
+      "D": "增加膽鹽在肝細胞中的合成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 23 題",
+    "question": "甲狀腺素合成的過程中，那一個步驟是在甲狀腺濾泡（thyroid gland follicle）內？",
+    "options": {
+      "A": "甲狀腺球蛋白（thyroglobulin）的生成",
+      "B": "甲狀腺球蛋白與碘離子的結合",
+      "C": "將碘離子由單碘酪胺酸（MIT）解離",
+      "D": "將碘離子由血漿送入甲狀腺上皮細胞"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或 Ｄ者給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 24 題",
+    "question": "重症肌無力（myasthenia gravis）的患者會感覺到肌肉疲勞及肌肉無力等現象，通常原因是神經肌肉 交界處的乙醯膽鹼（acetylcholine）受器蛋白被患者本身的抗體所破壞。下列敘述何者錯誤？",
+    "options": {
+      "A": "患者骨骼肌運動終板（motor end-plate）的電位減小",
+      "B": "給予乙醯膽鹼酯化酵素（acetylcholinesterase）的抑制劑可改善症狀",
+      "C": "乙醯膽鹼的釋放量顯著減少",
+      "D": "肌肉動作電位（muscle action potential）的激發（initiation）受阻"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 25 題",
+    "question": "以下何種處置最無法有效降低疼痛？",
+    "options": {
+      "A": "用力按壓或搓揉被門縫夾痛的手指頭",
+      "B": "在referred pain 的體表疼痛位置注射局部麻醉劑",
+      "C": "根據體表痛處所在位置，在適當的脊髓位置進行cordotomy，切斷痛處之對側脊髓的anterolateral pathway",
+      "D": "電刺激位於midbrain 之periaqueductal gray area"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

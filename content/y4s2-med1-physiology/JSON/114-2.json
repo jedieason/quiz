@@ -1,0 +1,329 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 47 題",
+    "question": "將人體紅血球置入下列何種溶液之中，最容易見到細胞體積脹大？",
+    "options": {
+      "A": "100 mM NaCl + 200 mM KCl",
+      "B": "100 mM NaCl + 200 mM 尿素",
+      "C": "100 mM NaCl + 200 mM 葡萄糖",
+      "D": "100 mM NaCl + 100 mM 葡萄糖"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 48 題",
+    "question": "有關骨骼肌纖維（skeletal muscle fiber）的終板電位（endplate potential, EPP），下列描述何者最為 適當？",
+    "options": {
+      "A": "從運動神經纖維末梢釋放的乙醯膽鹼（acetylcholine）會與肌漿膜（sarcolemma）上的蕈毒型受器 （muscarinic receptor）結合，因而產生EPP",
+      "B": "EPP 是因為大量鉀離子（K +）流入肌纖維內所造成的一種動作電位（action potential）",
+      "C": "EPP 會沿著橫小管（transverse tubule）傳遞到骨骼肌纖維內部，促使肌漿網（sarcoplasmic reticulum）釋放鈣離子",
+      "D": "肉毒桿菌毒素（botulinum toxin）中毒會使運動神經纖維末梢不易釋放乙醯膽鹼，使得EPP 變小，最終導 致肌肉無法收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 49 題",
+    "question": "某一病人罹患中風後講話流利，但卻出現閱讀上的困難，下列何者最有可能是發生病變的位置？",
+    "options": {
+      "A": "Wernicke's area",
+      "B": "Broca's area",
+      "C": "angular gyrus",
+      "D": "arcuate fasciculus"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 50 題",
+    "question": "下列那個腦區和恐懼情緒最直接相關？",
+    "options": {
+      "A": "視上核（supraoptic nucleus）",
+      "B": "視叉上核（suprachiasmatic nucleus）",
+      "C": "杏仁核（amygdaloid nucleus）",
+      "D": "海馬迴（hippocampus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 51 題",
+    "question": "下列有關自主神經系統的敘述，何者最不適當？",
+    "options": {
+      "A": "自主神經系統的交感部門也稱為頭薦部門",
+      "B": "交感神經系統的節前運動神經元釋放的神經傳導物質主要是乙醯膽鹼",
+      "C": "副交感神經系統的節後運動神經元釋放的神經傳導物質主要是乙醯膽鹼",
+      "D": "與交感神經相較，副交感神經系統的自主神經節一般比較靠近標的組織"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 52 題",
+    "question": "神經傳導物質（neurotransmitter）與其相對應的代謝型受體（metabotropic receptor）之配對，何者正 確？",
+    "options": {
+      "A": "norepinephrine→α1 receptor",
+      "B": "histamine→5-HT1 receptor",
+      "C": "acetylcholine→nicotinic receptor",
+      "D": "glutamate→AMPA receptor"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 53 題",
+    "question": "人在移動時能感受到垂直加速，最主要是下列那一個構造之功能？",
+    "options": {
+      "A": "半規管（semicircular canal）",
+      "B": "橢圓囊（utricle）",
+      "C": "球囊（saccule）",
+      "D": "柯蒂氏器（organ of Corti）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 54 題",
+    "question": "在副交感神經系統興奮的情況下，下列何者有關眼球之變化最不可能發生？",
+    "options": {
+      "A": "睫狀體（ciliary body）的環肌傾向處於收縮狀態",
+      "B": "懸繫小帶（zonule）的張力傾向變低",
+      "C": "水晶體的形狀傾向變薄變長",
+      "D": "瞳孔傾向變小"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 55 題",
+    "question": "在一般開始運動的最初幾秒鐘內，骨骼肌所需ATP 最可能之來源為何？",
+    "options": {
+      "A": "脂肪酸（fatty acid）",
+      "B": "葡萄糖（glucose）",
+      "C": "蛋白質（protein）",
+      "D": "磷酸肌胺酸（creatine phosphate）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 56 題",
+    "question": "與第1 型骨骼肌纖維相比，2X 型骨骼肌纖維有何不同？",
+    "options": {
+      "A": "2X 型纖維有更多粒線體",
+      "B": "2X 型纖維更容易疲勞",
+      "C": "2X 型纖維有更豐富的肌紅蛋白（myoglobin）",
+      "D": "2X 型肌肉纖維之微血管供應較多"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 57 題",
+    "question": "下列關於血栓溶解機制的敘述，何者錯誤？",
+    "options": {
+      "A": "內皮細胞分泌組織血漿素原活化劑（tissue plasminogen activator）",
+      "B": "血漿素原（plasminogen）需轉化成血漿素（plasmin）",
+      "C": "可溶性纖維蛋白片段聚集成纖維蛋白（fibrin）",
+      "D": "纖維蛋白（fibrin）與 組織血漿素原活化劑（tissue plasminogen activator）結合，可增加後者之活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 58 題",
+    "question": "下列有關心電圖（electrocardiogram, ECG）各導程波形所代表的生病理狀況描述，何者最適當？",
+    "options": {
+      "A": "血中鈣離子濃度正常情況下，高血鉀（hyperkalemia）病人的lead Ⅱ常見高T 波（tall T）",
+      "B": "一級房室傳導阻斷（first-degree atrioventricular heart block）時，在lead Ⅱ中常見PR interval 縮短",
+      "C": "以aVR 單極導程記錄ECG，和lead Ⅱ有相似的QRS 波，均為向上偏斜（upward deflection）波形",
+      "D": "T 波代表心室再極化，因此V1-V6（precordial leads）的T 波，均為向下偏斜（downward deflection）波 形"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 59 題",
+    "question": "記錄心肌細胞的動作電位時，在去極化與平原期之間有一段快速而短暫的再極化期（initial rapid  repolarization），下列何者是它產生的主要機制？",
+    "options": {
+      "A": "關閉鈉離子通道，打開鉀離子通道",
+      "B": "關閉鈉離子通道，打開氯離子通道",
+      "C": "關閉L-type 鈣離子通道，打開T-type 鈣離子通道",
+      "D": "關閉T-type 鈣離子通道，打開L-type 鈣離子通道"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 60 題",
+    "question": "對於心室肌細胞和SA node 細胞電位的比較，下列那一敘述最為適當？",
+    "options": {
+      "A": "兩種細胞皆有穩定的靜止膜電位（steady resting membrane potential），均約為-90 mV",
+      "B": "兩種細胞產生的動作電位皆有平原期（plateau phase），主要均是因為打開L-type Ca 2+ channels",
+      "C": "兩種細胞動作電位的去極化，主要都是因為打開Na + channels，使得Na +流入細胞而造成",
+      "D": "兩種細胞動作電位的再極化，主要都是因為打開K + channels，使得K +流出細胞而造成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 61 題",
+    "question": "下列血壓、心跳之變化，何者最易發生於顱內壓上升的病人？",
+    "options": {
+      "A": "血壓、心跳速率均下降",
+      "B": "血壓上升、心跳速率下降",
+      "C": "血壓、心跳速率均上升",
+      "D": "血壓下降、心跳速率上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 62 題",
+    "question": "一位成年女子，其體動脈血中氧氣濃度200 mL/L，全身氧氣消耗速率（oxygen consumption rate）為250  mL/min。已知她的心輸出量（cardiac output）為5 L/min，血紅素濃度16 g/dL，而且體動脈血中結合在血 紅素上的氧氣量（$O_2$ bound to hemoglobin）占全部血中氧氣的98％。則她的體靜脈血中氧氣濃度最接近下 列何者？",
+    "options": {
+      "A": "150 mL/L",
+      "B": "146 mL/L",
+      "C": "143 mL/L",
+      "D": "47 mL/L"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 63 題",
+    "question": "下列各種混合氣體，總壓力均為760 mmHg，除了以下所述成分以外，其餘皆為氮氣。當人體吸入何種混合氣 體時，每分鐘總通氣量（minute ventilation）最大？",
+    "options": {
+      "A": "21％氧氣＋0.05％二氧化碳",
+      "B": "5％氧氣＋0.05％二氧化碳",
+      "C": "21％氧氣＋5％二氧化碳",
+      "D": "5％氧氣＋5％二氧化碳"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 64 題",
+    "question": "游離態的膽固醇在小腸上皮細胞最主要是經由下列何種方式吸收？",
+    "options": {
+      "A": "初級主動運輸（primary active transport）",
+      "B": "次級主動運輸（secondary active transport）",
+      "C": "擴散作用（diffusion）",
+      "D": "內吞作用（endocytosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 65 題",
+    "question": "下列何者是胰泌素（secretin）的最主要的直接作用？",
+    "options": {
+      "A": "刺激膽囊收縮釋放膽汁和促進胰臟胰島素的分泌",
+      "B": "刺激肝臟分泌膽汁和促進膽囊收縮",
+      "C": "刺激胰臟碳酸氫根離子分泌和抑制胃腺分泌gastrin",
+      "D": "刺激腸道上皮細胞分泌離子和促進胃腺分泌HCl"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 66 題",
+    "question": "有關正常生理情況下之腎臟滲透壓調節（renal osmolar regulation），下列敘述何者最為適當？",
+    "options": {
+      "A": "血漿滲透壓值小於280 mOsm/L 後會刺激抗利尿荷爾蒙（antidiuretic hormone, ADH）分泌",
+      "B": "刺激口渴感覺的血漿滲透壓閾值（threshold），要比刺激抗利尿荷爾蒙（antidiuretic hormone, ADH）分 泌之閾值為低",
+      "C": "抗利尿荷爾蒙（antidiuretic hormone, ADH）使近端腎小管對水分子容易重吸收",
+      "D": "尿液濃縮與稀釋時之滲透壓範圍，可高至1200 mOsm/L，或低至50 mOsm/L"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 67 題",
+    "question": "下列關於腎小管水分再吸收之敘述，何者錯誤？",
+    "options": {
+      "A": "亨氏管下降枝（descending limb of loop of Henle）主要因具有第一型水通道（aquaporin-1）而對水分 有高度通透性",
+      "B": "亨氏管上升段粗枝（thick ascending limb of loop of Henle）主要因具有鈉－氯協同運輸蛋白（Na +-Cl - cotransporter）故能再吸收水分",
+      "C": "亨氏管上升段粗枝的基底外側膜（basolateral membrane）主要因具有鈉－鉀腺苷三磷酸酶（Na +-K + ATPase），故能帶動鈉離子及水分再吸收",
+      "D": "腎小管內液在離開亨氏管上升段粗枝（thick ascending limb of loop of Henle）進入遠端小管時呈現低 張（hypotonic）狀況"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 68 題",
+    "question": "下列有關胰島素的調控和生理作用的敘述，何者最為適當？",
+    "options": {
+      "A": "血鉀降低會促進胰島素的分泌作用",
+      "B": "胰島素會促進肝臟的葡萄糖產生速率",
+      "C": "胰島素會促進脂肪組織脂肪合成速率",
+      "D": "胰島素會促進酮體的生成作用（ketogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 69 題",
+    "question": "下列那兩個激素與甲促素（thyroid-stimulating hormone）具有相同的alpha 蛋白次單元（subunit）？",
+    "options": {
+      "A": "生長激素（growth hormone）與泌乳素（prolactin）",
+      "B": "腎皮促素（adrenocorticotropic hormone）與濾泡刺激素(follicle-stimulating hormone）",
+      "C": "抗利尿激素（antidiuretic hormone）與催產素（oxytocin）",
+      "D": "黃體生成素（luteinizing hormone）與人類絨毛性腺刺激素（human chorionic gonadotropin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 70 題",
+    "question": "當身體內外環境改變時，下列有關荷爾蒙分泌之敘述何者最不適當？",
+    "options": {
+      "A": "當血糖下降至40 mg/dL 時，腎上腺素（epinephrine）會大量分泌",
+      "B": "受到壓力（stress）時，血漿中皮質素（cortisol）的分泌會增加",
+      "C": "受到壓力時，會刺激下視丘的神經細胞分泌促腎上腺皮質素（ACTH）",
+      "D": "晝夜節律（circadian rhythm）會參與調控促腎上腺皮質素（ACTH）的分泌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 71 題",
+    "question": "下列何種分子功能缺失，最可能導致胰臟（pancreas）beta 細胞無法感應血糖增加，以致胰島素 （insulin）分泌低落？",
+    "options": {
+      "A": "葡萄糖運輸蛋白（glucose transporter-2, GLUT-2）",
+      "B": "葡萄糖－鈣離子反向運輸蛋白（glucose-calcium antiporter）",
+      "C": "葡萄糖－氯離子反向運輸蛋白（glucose-chloride antiporter）",
+      "D": "葡萄糖－胺基酸共同運輸蛋白（glucose-amino acid cotransporter）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 72 題",
+    "question": "有關兩側副甲狀腺切除後2～3 天內所造成的影響，下列何種情況最不可能發生？",
+    "options": {
+      "A": "血漿中磷濃度升高",
+      "B": "神經肌肉興奮性下降",
+      "C": "腸道鈣離子的吸收作用下降",
+      "D": "血漿中鈣離子濃度下降"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 73 題",
+    "question": "有關卵巢濾泡（follicle）的生長，下列敘述何者最不適當?",
+    "options": {
+      "A": "最早期的濾泡為原始濾泡（primordial follicle），至青春期才會開始發育形成初級濾泡（primary follicle）",
+      "B": "初級濾泡的卵母細胞（oocyte）與顆粒細胞（granulosa cell）之間有透明帶（zona pellucida）形成",
+      "C": "月經週期初期，數個濾泡生長，而後會選出一個優勢濾泡（dominant follicle），達到最後成熟的濾泡",
+      "D": "濾泡凋零萎縮（atresia），在濾泡發育過程之各階段皆可能發生"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

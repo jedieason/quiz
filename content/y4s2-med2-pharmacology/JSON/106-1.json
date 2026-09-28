@@ -1,0 +1,322 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 51 題",
+    "question": "有關藥物的代謝敘述，下列何者錯誤？",
+    "options": {
+      "A": "葡萄柚汁會抑制triazolam在體內代謝",
+      "B": "cimetidine會抑制propranolol在體內代謝",
+      "C": "nortriptyline會抑制antipyrine在體內代謝",
+      "D": "spironolactone會抑制digoxin在體內代謝"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 52 題",
+    "question": "有關免疫抑制劑sirolimus（rapamycin）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可結合到FK506-binding protein",
+      "B": "如同tacrolimus可以抑制calcineurin作用",
+      "C": "比cyclosporine較少有腎功能損傷不良作用",
+      "D": "抑制mTOR而抑制蛋白合成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 53 題",
+    "question": "Thiazolidinediones類降血糖藥物的主要作用機轉為何？",
+    "options": {
+      "A": "降低胰島素抗性（insulin resistance）的產生",
+      "B": "促進胰島素的分泌作用",
+      "C": "抑制胰島素被肝臟代謝分解作用",
+      "D": "抑制peroxisome proliferator-activated receptor-gamma（PPAR-γ）受體的活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 54 題",
+    "question": "Eplerenone之藥理作用敘述，何者錯誤？",
+    "options": {
+      "A": "會促進鹽分排除",
+      "B": "會引起男性女乳症",
+      "C": "會使血鉀增加",
+      "D": "會抑制aldosterone之作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 55 題",
+    "question": "下列那一類藥物可以使血管擴張（vasodilation）？",
+    "options": {
+      "A": "endothelin antagonists",
+      "B": "kinin antagonists",
+      "C": "neurotensin antagonists",
+      "D": "vasopressin agonists"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 56 題",
+    "question": "下列何者不是atropine的臨床用途？",
+    "options": {
+      "A": "治療狹角青光眼",
+      "B": "使眼睛睫狀肌麻痺",
+      "C": "手術時減少支氣管分泌",
+      "D": "急性有機磷中毒之解救"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 57 題",
+    "question": "下列何種non-steroidal anti-inflammatory drugs (NSAIDs)藥物，同時具有抑制cyclooxygenase和lipoxygenase的作用？",
+    "options": {
+      "A": "aspirin",
+      "B": "etodolac",
+      "C": "ketoprofen",
+      "D": "naproxen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 58 題",
+    "question": "下列那一種麻醉劑，在可產生外科麻醉的濃度下，所需要的誘導時間最短？",
+    "options": {
+      "A": "nitrous oxide",
+      "B": "benzodiazepines",
+      "C": "methoxyflurane",
+      "D": "halothane"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 59 題",
+    "question": "下列何種受體的訊息傳遞不是經由GTP-binding protein（G protein）？",
+    "options": {
+      "A": "muscarinic receptor",
+      "B": "glucagon receptor",
+      "C": "histamine receptor",
+      "D": "NMDA receptor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 60 題",
+    "question": "關於tetracyclines類抗生素之敘述，下列何者正確？",
+    "options": {
+      "A": "可結合至細菌之50S核醣體，而干擾蛋白質合成",
+      "B": "常與制酸劑併用，以預防胃部不適",
+      "C": "治療立克次體感染的首選藥物",
+      "D": "doxycycline口服時，易受食物干擾吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 61 題",
+    "question": "下列cephalosporins中，何者可做為手術前（如頭頸部、心臟血管及胸腔、開顱手術等）預防性感染的首選藥物？",
+    "options": {
+      "A": "cefazolin",
+      "B": "cefepime",
+      "C": "ceftazidime",
+      "D": "ceftriaxone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 62 題",
+    "question": "下列何種抗生素不是藉由抑制細菌之transpeptidase而干擾細胞壁之生成？",
+    "options": {
+      "A": "aztreonam",
+      "B": "imipenem",
+      "C": "nafcillin",
+      "D": "bacitracin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 63 題",
+    "question": "抗癌藥合併療法ABVD治療何杰金氏淋巴瘤（Hodgkin's lymphoma），其中何者可以明顯抑制癌細胞之topoisomerase II，而 產生細胞毒殺作用？",
+    "options": {
+      "A": "bleomycin",
+      "B": "doxorubicin",
+      "C": "vincristine",
+      "D": "dacarbozine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 64 題",
+    "question": "有關免疫調節劑（immunomodulators）的作用機轉，下列何者不是TNF-α抑制劑？",
+    "options": {
+      "A": "infliximab",
+      "B": "abatacept",
+      "C": "etanercept",
+      "D": "adalimumab"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 65 題",
+    "question": "一位60歲婦人因心跳過快、呼吸急促和胸部疼痛而被送到急診部，最近兩天有呼吸急促、下痢、出汗及焦慮的症狀。醫生發現 她兩個星期前服用的 methimazole已經沒有了，血中thyroid stimulating hormone （TSH）濃度小於0.04 mIU／mL （正常值為 0.4 mIU/mL～4.0 mIU/mL），確認為甲狀腺風暴。下列何者為治療甲狀腺風暴的最佳藥物？",
+    "options": {
+      "A": "epinephrine",
+      "B": "propranolol",
+      "C": "radioactive iodine",
+      "D": "amiodarone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 66 題",
+    "question": "一位患有第一型糖尿病的12歲兒童，因頭暈而被送到醫院。臨床實驗診斷有嚴重高血糖、酮酸中毒和血液pH=7.15。必須立即 靜脈注射下列何者來控制酮酸中毒的症狀？",
+    "options": {
+      "A": "glyburide",
+      "B": "tolbutamide",
+      "C": "insulin glargine",
+      "D": "crystalline zinc insulin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 67 題",
+    "question": "可用於治療肺高壓（pulmonary hypertension）藥物的作用機轉，不包括下列何者？",
+    "options": {
+      "A": "endothelin antagonist",
+      "B": "phosphodiesterase E5 inhibitor",
+      "C": "soluble guanylyl cyclase activator",
+      "D": "calcitonin gene-related peptide（CGRP）antagonist"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 68 題",
+    "question": "下列何者不是alpha-receptor-blocking drugs 之臨床用途？",
+    "options": {
+      "A": "高血壓（hypertension）",
+      "B": "注意力不足過動症（attention deficit hyperactivity disorder）",
+      "C": "雷諾氏現象（Raynaud's phenomenon）",
+      "D": "良性攝護腺肥大（benign prostatic hypertrophy）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 69 題",
+    "question": "下列何者需要被吸收進入胃壁細胞並堆積在其小管內之後，其代謝轉換的產物才具有不可逆地抑制$H^+$/$K^+$-ATPase的藥理作 用？",
+    "options": {
+      "A": "metoclopramide",
+      "B": "cimetidine",
+      "C": "diphenoxylate",
+      "D": "esomeprazole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 70 題",
+    "question": "下列藥物中何者可以靜脈給藥，而且最常用於手術後疼痛的治療？",
+    "options": {
+      "A": "ketorolac",
+      "B": "meloxicam",
+      "C": "sumatriptan",
+      "D": "dextromethorphan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 71 題",
+    "question": "關於骨骼肌肉鬆弛劑rocuronium的藥理作用，下列何者錯誤？",
+    "options": {
+      "A": "可以經由口服投與",
+      "B": "為非去極化肌肉鬆弛劑（nondepolarizing neuromuscular blocking drugs）",
+      "C": "作用可以被neostigmine拮抗",
+      "D": "可由肝臟代謝"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 72 題",
+    "question": "關於抗癲癇藥物valproic acid作用的敘述，下列何者正確？",
+    "options": {
+      "A": "僅可用於失神發作，對其他類型的發作沒有效果",
+      "B": "主要作用機轉為抑制鈉離子通道，與GABA系統無關",
+      "C": "會增加許多抗癲癇藥物如phenytoin和carbamazepine的代謝",
+      "D": "可用於治療躁鬱症以及預防偏頭痛"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 73 題",
+    "question": "下列何種藥物可減少levodopa被周邊組織的decarboxylase代謝，降低levodopa的使用劑量及副作用？",
+    "options": {
+      "A": "carbidopa",
+      "B": "ropinirole",
+      "C": "amantadine",
+      "D": "benztropine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 74 題",
+    "question": "思覺失調症（schizophrenia）的治療藥物有許多副作用，下列何種副作用與dopamine receptor的阻斷有關？",
+    "options": {
+      "A": "高泌乳素血症",
+      "B": "口乾",
+      "C": "姿勢性低血壓",
+      "D": "視覺模糊"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 75 題",
+    "question": "下列何者可能會導致低血壓、急性腸胃炎，甚至休克及代謝性酸中毒（metabolic acidosis）等中毒症狀？",
+    "options": {
+      "A": "急性無機砷中毒（acute inorganic arsenic poisoning）",
+      "B": "急性無機汞中毒（acute inorganic mercury intoxication）",
+      "C": "鉈鹽中毒（thallium salts intoxication）",
+      "D": "放射性銫中毒（radioactive cesium（137Cs）intoxication）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 76 題",
+    "question": "下列有關血清素（serotonin）的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種血管活性的介質（vasoactive mediator）",
+      "B": "主要存在於肥大細胞（mast cells）",
+      "C": "可存在於胃腸道的神經內分泌細胞（neuroendocrine cells）",
+      "D": "對血管的作用與組織胺（histamine）類似"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

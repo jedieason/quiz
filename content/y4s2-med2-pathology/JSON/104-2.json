@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 76 題",
+    "question": "中年婦女長年腎病，死後解剖，腎臟較小，且表面有無數1-3 mm之凹陷，下列那一項是其組 織變化？",
+    "options": {
+      "A": "水腫",
+      "B": "膿瘍",
+      "C": "疤瘢纖維化",
+      "D": "嗜中性球浸潤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 77 題",
+    "question": "懷孕期間，子宮平滑肌細胞因受到內分泌刺激之影響，其細胞變化為：",
+    "options": {
+      "A": "增生，不肥大",
+      "B": "肥大，不增生",
+      "C": "增生且肥大",
+      "D": "不增生，不肥大"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 78 題",
+    "question": "關於下列四種疾病的主要致病機轉，那兩種疾病的免疫過度反應（hypersensitivity  reaction）最為接近？  ①自體免疫性溶血性貧血（autoimmune hemolytic anemia）  ②全身性硬化症（systemic sclerosis）  ③克隆氏症（Crohn's disease）  ④急性風濕熱（acute rheumatic fever）",
+    "options": {
+      "A": "①②",
+      "B": "②④",
+      "C": "①④",
+      "D": "②③"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 79 題",
+    "question": "一女性具有45,XX,der(14;21)(q10;q10)之染色體組型。則下列敘述何者正確？",
+    "options": {
+      "A": "此為典型之21三染色體症（Trisomy 21）",
+      "B": "此女性是唐氏症病人",
+      "C": "此女性之女兒有可能為46,XX,der(14;21)(q10;q10),+21之染色體組型",
+      "D": "此女性為不孕症患者"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 80 題",
+    "question": "Anaplasia代表癌細胞的分化程度為何？",
+    "options": {
+      "A": "良好",
+      "B": "中等度",
+      "C": "不良",
+      "D": "未分化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 81 題",
+    "question": "50歲男性，發生左心室梗塞，二週後出現肺充血及肋膜腔積水，在肺部出現大量褐色的心衰 竭細胞（heart failure cells），下列何者是此種褐色細胞的來源？",
+    "options": {
+      "A": "心肌細胞",
+      "B": "心內膜細胞",
+      "C": "巨噬細胞",
+      "D": "纖維芽細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 82 題",
+    "question": "78歲女性在準備進行心導管檢查前突然發生休克，影像學檢查顯示左心室壁破裂。緊急手術 治療將破裂處修補後，病人狀況暫時穩定。下列何者最能代表破裂處心肌的病理變化？",
+    "options": {
+      "A": "transmural coagulative necrosis and neurophilic infiltration",
+      "B": "myocardial hypertrophy with subendocardial zone coagulative necrosis",
+      "C": "diffuse interstitial fibrosis and myocytolysis",
+      "D": "mild waviness of myocytes"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 83 題",
+    "question": "2歲女童因跌倒撞到臉頰後口腔滲血不止被送到急診室。女童自小斷斷續續就會有口腔滲血 或流鼻血情形出現，但都不是很嚴重，另外注射疫苗時要比其他人較長的時間才會止血。病 人沒有瘀血、血腫情形，父母兩邊家族都沒有親戚有出血性的疾病。病人血液檢查血紅素、 血球容積比、白血球數目、血小板數目、血漿凝血酶原時間（PT）在正常範圍內，活化部分 凝血活酶時間（aPTT）延長為 37.2秒（正常為24.4-33.2秒）。最可能造成病人口腔滲血不 止的原因為：",
+    "options": {
+      "A": "先天性von Willebrand因子減少",
+      "B": "第八凝血因子缺乏",
+      "C": "葡萄糖六磷酸去氫酵素（glucose 6-phosphate dehydrogenase）缺乏",
+      "D": "免疫複合體（immune complex）堆積引起血管內皮傷害"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 84 題",
+    "question": "下列有關白血病（leukemia）各器官病理變化之敘述，何者錯誤？",
+    "options": {
+      "A": "急性骨髓性白血病（acute myeloid leukemia）中單核球分化之亞型較可能浸潤皮膚及其附 屬構造",
+      "B": "急性淋巴球性白血病（acute lymphoid leukemia）比急性骨髓性白血病較常見有中樞神經 系統之浸潤",
+      "C": "綠色瘤（chloroma）多會進展為急性骨髓性白血病",
+      "D": "慢性淋巴球性白血病（chronic lymphoid leukemia）之肝臟浸潤在於肝竇狀隙內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 85 題",
+    "question": "下列何種肺氣腫（emphysema）與α1-antitrypsin缺乏最有相關？",
+    "options": {
+      "A": "中央腺泡型肺氣腫（centriacinar emphysema）",
+      "B": "泛腺泡型肺氣腫（panacinar emphysema）",
+      "C": "旁中隔型肺氣腫（paraseptal emphysema）",
+      "D": "不規則型肺氣腫（irregular emphysema）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 86 題",
+    "question": "下列敘述有關結締組織疾病侵犯肺部的病理變化，何者錯誤？",
+    "options": {
+      "A": "類風濕性關節炎可以表現慢性肋膜炎",
+      "B": "硬皮病表現尋常間質肺炎較非特異性間質肺炎常見",
+      "C": "紅斑性狼瘡可以表現狼瘡肺炎",
+      "D": "肺高血壓可見於類風濕性關節炎侵犯肺部"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 87 題",
+    "question": "下列有關間皮瘤（mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "可由壁層胸膜或臟層胸膜發生",
+      "B": "可見上皮樣或肉瘤樣之腫瘤細胞型態",
+      "C": "腫瘤細胞通常表現Calretinin",
+      "D": "大多數病患發生腫瘤時，肺部通常同時發生石棉肺纖維化（asbestosis fibrosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 88 題",
+    "question": "以下何者不是造成肺部嗜酸性白血球增多的原因？",
+    "options": {
+      "A": "過敏性麴菌感染",
+      "B": "藥物反應",
+      "C": "寄生蟲感染",
+      "D": "病毒感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 89 題",
+    "question": "出生三週的男孩，餵食時常出現嘔吐，進而演變成不含膽汁的噴射性嘔吐，身體檢查發現腹 部有一腫塊，最可能的診斷為何？",
+    "options": {
+      "A": "食道失弛症（achalasia）",
+      "B": "幽門狹窄（pyloric stenosis）",
+      "C": "環狀胰臟（annular pancreas）",
+      "D": "小腸閉鎖（small intestine atresia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 90 題",
+    "question": "病人左側腮腺有顆腫瘤2公分大，經鏡檢發現有增生的小腺管、角化的鱗狀上皮細胞、肌上 皮細胞、類似軟骨分化的細胞及有些類黏液的基質。有關該腫瘤的敘述，下列何者最不適 當？",
+    "options": {
+      "A": "診斷為多形性腺瘤（混合瘤）",
+      "B": "是來自多種胚層",
+      "C": "轉化為惡性的機率不高",
+      "D": "手術切除後可能會復發"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 91 題",
+    "question": "65歲女性因右上腹痛、黃疸及兩個月內瘦了6公斤而來求診，下列疾病中，最不可能是：",
+    "options": {
+      "A": "膽管癌（cholangiocarcinoma）",
+      "B": "膽結石腸阻塞（gallstone ileus）",
+      "C": "肝癌細胞（hepatocellular carcinoma）",
+      "D": "胰臟癌（pancreatic carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 92 題",
+    "question": "下列何者為良性家族型血尿（benign familial hematuria）的特徵？",
+    "options": {
+      "A": "神經性聽障",
+      "B": "眼睛水晶體脫位、後白內障",
+      "C": "腎絲球基底膜瀰漫性變薄",
+      "D": "有腎衰竭的家族史"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 93 題",
+    "question": "若睪丸腫瘤顯微鏡檢，發現大量出血壞死及cytotrophoblastic cells，另外血中β-HCG異常升 高，下列診斷何者最適當？",
+    "options": {
+      "A": "choriocarcinoma",
+      "B": "yolk sac tumor",
+      "C": "embryonal carcinoma",
+      "D": "spermatocytic seminoma"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 94 題",
+    "question": "45歲女性有輕微程度甲狀腺機能不全以及甲狀腺無痛對稱性的增大。手術切除的腺體在顯微 鏡下出現廣泛的單核球浸潤。浸潤的發炎細胞主要是漿細胞以及小淋巴球並形成生發中心。 下列敘述中何者最可能代表她甲狀腺濾泡細胞（follicular cells）的病理變化？",
+    "options": {
+      "A": "甲狀腺濾泡細胞增大並包含水狀膠質",
+      "B": "甲狀腺中許多區域的濾泡破壞，細胞呈現Hürthle細胞狀",
+      "C": "濾泡細胞萎縮，甲狀腺呈現嚴重的纖維化並與附近組織黏連在一起",
+      "D": "甲狀腺濾泡細胞增生並發生癌化現象"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 95 題",
+    "question": "下列何者是診斷卵黃囊瘤（yolk sac tumor）最常用的血清標記？",
+    "options": {
+      "A": "甲型胎兒蛋白（alpha-fetoprotein）",
+      "B": "癌胚抗原（carcinoembryonic antigen）",
+      "C": "人類絨毛膜促性腺激素（ human chorionic gonadotropin）",
+      "D": "胎盤鹼性磷酸酶（ placental alkaline phosphatase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 96 題",
+    "question": "有關前列腺癌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "結節性增生（nodular hyperplasia）是常見的癌前病變",
+      "B": "大多數為腺癌（adenocarcinoma）",
+      "C": "好發的位置是周邊區（peripheral zone）",
+      "D": "其骨轉移常是成骨性（osteoblastic）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 97 題",
+    "question": "一位生過三個小孩的45歲婦女來門診接受子宮頸抹片檢查，醫師在子宮頸口處發現有一個1 公分大小的囊腫，於是順便做病理切片檢查，切片之後傷口有一些清澈黏液流出來。顯微鏡 下發現這些囊腫的上皮為單層立方或柱狀上皮（附圖），則最有可能的診斷為： [圖片]",
+    "options": {
+      "A": "疱疹性子宮頸炎（Herpes cervicitis）",
+      "B": "子宮頸上皮內贅生（cervical intraepithelial neoplasia, CIN）",
+      "C": "納波德氏囊腫（Nabothian cyst）",
+      "D": "毛滴蟲感染（Trichomonas infection）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 98 題",
+    "question": "40歲女性，患蜘蛛膜下腔出血（subarachnoid hemorrhage），檢查發現囊狀動脈瘤出血， 下列敘述何者正確？",
+    "options": {
+      "A": "該血管瘤在病人出生時即已存在",
+      "B": "主要的缺損是血管的內膜（intima）",
+      "C": "病人的一等親患此病的機率與一般人相同",
+      "D": "若該血管瘤為剝離性動脈瘤（dissecting aneurysm）而非囊狀動脈瘤，它的臨床表現通常 是大腦梗塞（cerebral infarct）而非出血"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 99 題",
+    "question": "下列何者最可能是癌前病變？",
+    "options": {
+      "A": "化膿性肉芽腫（pyogenic granuloma）",
+      "B": "日照性角化症（actinic keratosis）",
+      "C": "脂漏性角質化（seborrheic keratosis）",
+      "D": "皮纖維瘤（dermatofibroma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 100 題",
+    "question": "患者做腦部切片檢查，鏡下觀察發現噬神經元的現象（neuronophagia），該變化最常出現 於下列何病況？",
+    "options": {
+      "A": "缺血性液化壞死",
+      "B": "病毒性腦炎",
+      "C": "神經退化疾病",
+      "D": "高度惡性腦瘤"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 29 題",
+    "question": "下列何期開始時，胎兒的頭長約占其頭踵長（crown-heel length）的一半？",
+    "options": {
+      "A": "次三月期（second trimester）",
+      "B": "胚期（embryonic period）",
+      "C": "胎期（fetal period）",
+      "D": "胎動期（stage of quickening）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 30 題",
+    "question": "胚體發育過程中，下列何器官在第三週中期開始發育，最早成熟與具有生理機能？",
+    "options": {
+      "A": "腦",
+      "B": "心臟",
+      "C": "肝臟",
+      "D": "腎臟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 31 題",
+    "question": "腎臟體積變大主要是因為下列何者長度增加所致？",
+    "options": {
+      "A": "遠端彎曲小管（distal convoluted tubule）",
+      "B": "集尿管（collecting duct）",
+      "C": "近端彎曲小管（proximal convoluted tubule）",
+      "D": "輸尿管（ureter）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分外。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 32 題",
+    "question": "懷孕早期感染德國麻疹，可能造成的疾病，下列何者除外？",
+    "options": {
+      "A": "先天性耳聾",
+      "B": "心臟病",
+      "C": "白內障",
+      "D": "大腦鈣化"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]

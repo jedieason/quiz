@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 75 題",
+    "question": "有微絲蟲血症（microfilaremia）但沒有臨床症狀的班氏絲蟲（Wuchereria bancrofti）病患，下列敘述 那些錯誤？①通常抗絲蟲抗體之效價很高 ②因抗體抑制微絲蟲活性而減少症狀發生 ③沒有症狀 故無需用藥治療",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 76 題",
+    "question": "糞小桿線蟲（Strongyloides stercoralis）患者的新鮮糞便中，最常見到該寄生蟲生活史中的何種階段？",
+    "options": {
+      "A": "胎蟲卵（embryonated egg）",
+      "B": "桿狀幼蟲（rhabditiform larva）",
+      "C": "絲狀幼蟲（filariform larva）",
+      "D": "成蟲（adult worm）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 77 題",
+    "question": "有一眼眶嚴重浮腫之病患，其病史為數天前以蛙肉塗敷眼眶周邊傷口，就診時自傷口取出2 隻約3 公分之白色蟲體，依據以上敘述，該病患最可能感染何種寄生蟲？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "豬肉絛蟲（Taenia solium）",
+      "C": "曼森裂頭絛蟲（Spirometra mansonoides）",
+      "D": "廣節裂頭絛蟲（Diphyllobothrium latum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 78 題",
+    "question": "有一懷疑感染廣東住血線蟲（Angiostrongylus cantonensis）的病患，目前那一種方法能做確認診斷？",
+    "options": {
+      "A": "採腦脊髓液檢查是否有嗜伊紅性白血球",
+      "B": "觀察是否有腦膜炎的臨床症狀",
+      "C": "採腦脊髓液找蟲體並鑑別",
+      "D": "藉聚合酶鏈鎖反應檢查腦脊髓液是否有蟲體DNA 片段"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 79 題",
+    "question": "下列寄生蟲與其在人體導致的症狀或疾病之配對中，何者錯誤？",
+    "options": {
+      "A": "犬複殖器絛蟲（Dipylidium caninum）----肛門搔癢（pruritus）",
+      "B": "埃及血吸蟲（Schistosoma haematobium）----血尿（hematuria）",
+      "C": "牛肉絛蟲（Taenia saginata）----囊蟲症（cysticercosis）",
+      "D": "牛羊肝吸蟲（Fasciola hepatica）----異位寄生（ectopic parasitism）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 80 題",
+    "question": "下列那些寄生蟲的幼蟲可穿過皮膚進入人體而造成感染？①單胞絛蟲（Echinococcus granulosus）  ②曼森裂頭絛蟲（Spirometra mansonoides） ③日本血吸蟲（Schistosoma japonicum） ④橫川吸蟲 （Metagonimus yokogawai）",
+    "options": {
+      "A": "①②",
+      "B": "①④",
+      "C": "②③",
+      "D": "③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 81 題",
+    "question": "下列何者不是體蝨（body louse）傳播的疾病？",
+    "options": {
+      "A": "恙蟲病（scrub typhus）",
+      "B": "流行性斑疹傷寒（epidemic typhus）",
+      "C": "回歸熱（relapsing fever）",
+      "D": "戰壕熱（trench fever）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 82 題",
+    "question": "有關臺灣地區瘧疾防治歷史（1957～1965）之敘述，下列何者有誤？",
+    "options": {
+      "A": "人體主要的治療藥物為chloroquine",
+      "B": "主要病媒蚊為中華瘧蚊（Anopheles sinensis）",
+      "C": "DDT 為主要使用之殺成蚊藥劑",
+      "D": "WHO 於1965 年宣布臺灣為非疫區"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,341 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 1 題",
+    "question": "丘腦之血流主要來自下列何者之深部分支（deep branch）？",
+    "options": {
+      "A": "中大腦動脈（middle cerebral artery）",
+      "B": "椎動脈（vertebral artery）",
+      "C": "後大腦動脈（posterior cerebral artery）",
+      "D": "前大腦動脈（anterior cerebral artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 2 題",
+    "question": "Corpus callosum之血流主要來自下列何者？",
+    "options": {
+      "A": "前大腦動脈（anterior cerebral artery）",
+      "B": "中大腦動脈（middle cerebral artery）",
+      "C": "基底動脈（basilar artery）",
+      "D": "前脈絡叢動脈（anterior choroidal artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 3 題",
+    "question": "下列何種小腦構造在腦壓升高時容易脫疝（herniation），進而壓迫腦幹？",
+    "options": {
+      "A": "inferior vermis",
+      "B": "flocculonodular lobe",
+      "C": "扁桃體（tonsil）",
+      "D": "下小腦腳（inferior cerebellar peduncle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 4 題",
+    "question": "下列何者不是副交感神經核？",
+    "options": {
+      "A": "上唾液核（superior salivatory nucleus）",
+      "B": "迷走神經背運動核（dorsal motor nucleus of vagus nerve）",
+      "C": "三叉神經運動核（trigeminal motor nucleus）",
+      "D": "Edinger-Westphal nucleus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 5 題",
+    "question": "①小腦 ②內耳 ③腦幹等三個構造中，何者受損可能造成暈眩（vertigo）？",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②③",
+      "C": "僅②",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 6 題",
+    "question": "下列何者由上、中咽縮肌間通過？",
+    "options": {
+      "A": "舌咽神經（glossopharyngeal nerve）",
+      "B": "喉內神經（internal laryngeal nerve）",
+      "C": "喉上動脈（superior laryngeal artery）",
+      "D": "喉返神經（recurrent laryngeal nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 7 題",
+    "question": "下列有關上頸神經節（superior cervical ganglion）的敘述，何者錯誤？",
+    "options": {
+      "A": "不在頸動脈鞘（carotid sheath）內",
+      "B": "頭最長肌（longus capitis）通常在它的前面",
+      "C": "節後神經與CN IX及CN X共同形成咽神經叢（pharyngeal plexus）",
+      "D": "節後神經會經由CN V的分支到唾液腺"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 8 題",
+    "question": "下頜下腺（submandibular gland）位於下列何處？",
+    "options": {
+      "A": "肌三角（muscular triangle）",
+      "B": "頸動脈三角（carotid triangle）",
+      "C": "二腹肌三角（digastric triangle）",
+      "D": "頦下三角（submental triangle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 9 題",
+    "question": "與聽覺傳遞有關的神經節是：",
+    "options": {
+      "A": "耳神經節（otic ganglion）",
+      "B": "前庭神經節（vestibular ganglion）",
+      "C": "螺旋神經節（spiral ganglion）",
+      "D": "翼腭神經節（pterygopalatine ganglion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 10 題",
+    "question": "重建鼻中隔（nasal septum）時需要修復①鼻骨 ②隔軟骨 ③下鼻甲骨 ④篩骨 ⑤犁骨 ⑥額骨等六個構造中的那些？",
+    "options": {
+      "A": "①③⑥",
+      "B": "②④⑤",
+      "C": "③④⑥",
+      "D": "①②⑤"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 11 題",
+    "question": "下列何者不控制附著於舌骨（hyoid bone）的肌肉？",
+    "options": {
+      "A": "面神經（facial nerve）",
+      "B": "舌咽神經（glossopharyngeal nerve）",
+      "C": "舌下神經（hypoglossal nerve）",
+      "D": "第五顱神經第三支"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 12 題",
+    "question": "左側胸骨旁第2肋間處的穿刺傷最可能傷害下列何者？",
+    "options": {
+      "A": "右心室（right ventricle）",
+      "B": "右心房（right atrium）",
+      "C": "上腔靜脈（superior vena cava）",
+      "D": "肺動脈幹（pulmonary trunk）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 13 題",
+    "question": "在心臟後方，位於肺靜脈（pulmonary vein）及上腔靜脈（superior vena cava）基部的是：",
+    "options": {
+      "A": "心包膜橫竇（transverse pericardial sinus）",
+      "B": "心包膜斜竇（oblique pericardial sinus）",
+      "C": "冠狀竇（coronary sinus）",
+      "D": "心包膜腔橫膈面（diaphragmic surface of pericardial cavity）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 14 題",
+    "question": "位於膽囊與圓韌帶裂隙（fissure for ligamentum teres）間的是肝臟的那個部分？",
+    "options": {
+      "A": "左葉",
+      "B": "右葉",
+      "C": "方形葉（quadrate lobe）",
+      "D": "尾葉（caudate lobe）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 15 題",
+    "question": "膈神經（phrenic nerve）起自那個脊髓段位？",
+    "options": {
+      "A": "C3～5",
+      "B": "C7～T2",
+      "C": "T3～5",
+      "D": "T6～10"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 16 題",
+    "question": "下列何者不是腰神經叢的分支？",
+    "options": {
+      "A": "髂腹下神經（iliohypogastric nerve）",
+      "B": "髂腹股溝神經（ilioinguinal nerve）",
+      "C": "後股皮神經（posterior femoral cutaneous nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 17 題",
+    "question": "下列何者供應膀胱血液？",
+    "options": {
+      "A": "卵巢動脈",
+      "B": "陰道動脈",
+      "C": "直腸中動脈",
+      "D": "陰部內動脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 18 題",
+    "question": "下列何者是骨盆橫膈（pelvic diaphragm）的一部分？",
+    "options": {
+      "A": "提肛肌（levator ani）",
+      "B": "閉孔內肌（obturator internus）",
+      "C": "會陰深橫肌（deep transverse perineal muscle）",
+      "D": "尿道外括約肌（external urethral sphincter）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 19 題",
+    "question": "下列何者之分支不供應陰囊（scrotum）？",
+    "options": {
+      "A": "提睪肌動脈（cremasteric artery）",
+      "B": "股動脈（femoral artery）",
+      "C": "陰莖球動脈（artery of the bulb of penis）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 20 題",
+    "question": "下列何者出現於骨盆且直接源自腰神經叢（lumbar plexus）？",
+    "options": {
+      "A": "臀上神經（superior gluteal nerve）",
+      "B": "至閉孔內肌之神經（nerve to obturator internus）",
+      "C": "閉孔神經（obturator nerve）",
+      "D": "骨盆內臟神經（pelvic splanchnic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 21 題",
+    "question": "直腸乙狀結腸交接處（rectosigmoid junction）位於下列那個節段？",
+    "options": {
+      "A": "第一薦椎（S1）",
+      "B": "第二薦椎（S2）",
+      "C": "第三薦椎（S3）",
+      "D": "第四薦椎（S4）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 22 題",
+    "question": "下列何者是主要造成子宮前傾（anteflexion）的構造？",
+    "options": {
+      "A": "闊韌帶（broad ligament）",
+      "B": "主韌帶（cardinal ligament）",
+      "C": "子宮圓韌帶（round ligament of the uterus）",
+      "D": "子宮薦韌帶（uterosacral ligament）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 23 題",
+    "question": "下列何者在小腿沒有血管伴行？",
+    "options": {
+      "A": "腓腸神經（sural nerve）",
+      "B": "腓深神經（deep fibular nerve）",
+      "C": "腓淺神經（superficial fibular nerve）",
+      "D": "脛神經（tibial nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 24 題",
+    "question": "下列何者不共同形成跟腱（calcaneal tendon）？",
+    "options": {
+      "A": "腓腸肌（gastrocnemius）",
+      "B": "比目魚肌（soleus）",
+      "C": "膕肌（popliteus）",
+      "D": "蹠肌（plantaris）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 25 題",
+    "question": "下列何者同時跨過髖關節（hip joint）與膝關節（knee joint）？",
+    "options": {
+      "A": "縫匠肌（sartorius）",
+      "B": "內收大肌（adductor magnus）",
+      "C": "股外側肌（vastus lateralis）",
+      "D": "股內側肌（vastus medialis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 26 題",
+    "question": "下列何者受損會導致手指無法內收（adduction）夾住紙片？",
+    "options": {
+      "A": "橈神經的深支（deep branch of radial nerve）",
+      "B": "橈神經的淺支（superficial branch of radial nerve）",
+      "C": "尺神經的深支（deep branch of ulnar nerve）",
+      "D": "尺神經的淺支（superficial branch of ulnar nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 27 題",
+    "question": "腋神經（axillary nerve）受損時，會造成下列那一塊旋轉套（rotator cuff）肌肉無力？",
+    "options": {
+      "A": "棘上肌（supraspinatus muscle）",
+      "B": "棘下肌（infraspinatus muscle）",
+      "C": "肩胛下肌（subscapularis muscle）",
+      "D": "小圓肌（teres minor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 28 題",
+    "question": "下列何者由尺神經（ulnar nerve）支配？",
+    "options": {
+      "A": "拇指對掌肌（opponens pollicis）",
+      "B": "外展拇指短肌（abductor pollicis brevis）",
+      "C": "屈拇指短肌（flexor pollicis brevis）",
+      "D": "內收拇指肌（adductor pollicis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

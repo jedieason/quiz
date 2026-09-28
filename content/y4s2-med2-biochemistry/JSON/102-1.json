@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 26 題",
+    "question": "競爭型抑制劑（competitive inhibitor）對於酵素動力學參數的影響為：",
+    "options": {
+      "A": "使Km值上升",
+      "B": "使kcat值下降",
+      "C": "使kcat / Km值上升",
+      "D": "使Vmax下降"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 27 題",
+    "question": "囊狀纖維化（cystic fibrosis）病患最常見的分子特徵為：CFTR 蛋白質（cystic fibrosis transmembrane  conductance regulator）中少了第508 號苯丙胺酸（phenylalanine）。下列何種特性，最可能是這個 CFTR 蛋白質突變導致其疾病的主要原因？",
+    "options": {
+      "A": "蛋白質穩定度（protein stability）提昇，導致CFTR 蛋白質堆積於細胞外",
+      "B": "蛋白質輸核機制（nuclear transport）改變，導致CFTR 蛋白質累積於細胞核內",
+      "C": "蛋白質疊合（protein folding）異常，導致CFTR 蛋白質於細胞內容易被降解",
+      "D": "蛋白質磷酸化（phosphorylation）增加，導致CFTR 蛋白質於細胞膜的活性過高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 28 題",
+    "question": "25 歲病患因昏迷被送來急診，檢查發現血中碳氧血紅蛋白（carboxyhemoglobin）占總血紅蛋白的40%。 相較於氧合血紅蛋白（oxyhemoglobin），下列何者可能是碳氧血紅蛋白不能有效輸送氧分子至一般 組織的主要原因？",
+    "options": {
+      "A": "於一般組織的低氧狀態下，結合一個一氧化碳時，碳氧血紅蛋白結合氧分子的能力過高",
+      "B": "於一般組織的低氧狀態下，結合一個一氧化碳時，碳氧血紅蛋白結合氧分子的能力過低",
+      "C": "於肺泡組織的高氧狀態下，結合一個一氧化碳時，碳氧血紅蛋白結合氧分子的能力不變",
+      "D": "於肺泡組織的高氧狀態下，結合一個一氧化碳時，碳氧血紅蛋白結合氧分子的能力過低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 29 題",
+    "question": "下列關於分子伴護蛋白（molecular chaperones）性質的敘述，何者錯誤？",
+    "options": {
+      "A": "分子伴護蛋白可以協助摺疊錯誤的蛋白質（misfolded protein）走向正確的摺疊途徑",
+      "B": "大部分分子伴護蛋白在作用時，無須消耗腺嘌呤核苷三磷酸（ATP）",
+      "C": "大部分分子伴護蛋白的含量在細胞處與高溫狀態時會上升",
+      "D": "某些分子伴護蛋白可藉由與未摺疊蛋白質所暴露之疏水性區域結合，防止其不當凝聚"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 30 題",
+    "question": "磷酸吡哆醛（pyridoxal phosphate）是下列何種酶活性所需？",
+    "options": {
+      "A": "肝糖磷解酶（glycogen phosphorylase）",
+      "B": "六碳糖激酶（hexokinase）",
+      "C": "丙酮酸脫氫酶（pyruvate dehydrogenase）",
+      "D": "磷酸果糖激酶-1（phosphofructokinase-1）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 31 題",
+    "question": "有關「心臟病患血中膽固醇（cholesterol）過高而服用降膽固醇藥物statin，會影響SREBP（sterol  response element binding protein）之作用」，下列何者錯誤？",
+    "options": {
+      "A": "肝細胞中SREBP 會由ER 釋放出來",
+      "B": "LDL receptor 基因表現會增加",
+      "C": "血液中LDL-cholesterol 會下降",
+      "D": "SREBP 只調控與膽固醇代謝相關的基因"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 32 題",
+    "question": "下列何種DNA 核苷酸序列能被限制性核酸內切酶（restriction endonucleases）辨識並切割？",
+    "options": {
+      "A": "AATAAT",
+      "B": "AAACCC",
+      "C": "GAATTC",
+      "D": "AAAGGG"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 33 題",
+    "question": "下列那一項突變在蛋白質表現區（coding sequence）對於其蛋白質功能影響最大？",
+    "options": {
+      "A": "插入一個核苷酸（nucleotide）",
+      "B": "把adenine 變成cytosine",
+      "C": "把thymine 變成cytosine",
+      "D": "刪除了三個核苷酸"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 34 題",
+    "question": "Klenow fragment 是大腸桿菌（E. coli）DNA 聚合酶I 型（DNA polymerase I）的片段，其主要具有何 種酵素活性？",
+    "options": {
+      "A": "聚合酶與5’核酸外切酶（polymerase and 5’ exonuclease）活性",
+      "B": "聚合酶與3’核酸外切酶（polymerase and 3’ exonuclease）活性",
+      "C": "5’與3’核酸外切酶（5’ and 3’ exonuclease）活性",
+      "D": "聚合酶，5’與3’核酸外切酶（polymerase，5’ and 3’ exonuclease）活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 35 題",
+    "question": "細菌之RNA 聚合酶本體（core enzyme）不包含下列何種次單元（subunit）？",
+    "options": {
+      "A": "α",
+      "B": "β",
+      "C": "β'",
+      "D": "σ"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 36 題",
+    "question": "乳糖操縱子（lac operon）作轉錄表現時，能產生多順反子信使RNA（polycistronic mRNA）。下列 有關polycistronic mRNA 的敘述，何者正確？",
+    "options": {
+      "A": "一條mRNA 上含有能調控lac operon 的正調控因子和負調控因子",
+      "B": "一條mRNA 上含有反置重覆序列（inverted repeat sequence）的編碼",
+      "C": "一條mRNA 上含有多個基因的編碼",
+      "D": "一條mRNA 上含有能抑制β-半乳糖苷酶（β-galactosidase）轉譯的專一性序列"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 37 題",
+    "question": "促進子（enhancer）在基因轉錄（transcription）時的特性為：",
+    "options": {
+      "A": "distance-independent, orientation-independent",
+      "B": "distance-independent, orientation-dependent",
+      "C": "distance-dependent, orientation-independent",
+      "D": "distance-dependent, orientation-dependent"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 38 題",
+    "question": "下列何者不參與轉錄作用（transcription）？",
+    "options": {
+      "A": "general transcription factors",
+      "B": "DNA-binding transactivators",
+      "C": "coactivators",
+      "D": "cyclin-dependent kinase"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 39 題",
+    "question": "丙酮酸（pyruvate）生成草醯乙酸（oxaloacetate）之催化酶，需要下列何者作為變構活化劑（allosteric  activator）？",
+    "options": {
+      "A": "ADP",
+      "B": "acetyl-CoA",
+      "C": "glucose",
+      "D": "NAD+"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 40 題",
+    "question": "有一種罕見糖尿病，是由於hexokinase 之基因突變所造成，其substrate 是：",
+    "options": {
+      "A": "fructose",
+      "B": "glucose",
+      "C": "galactose",
+      "D": "sucrose"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 41 題",
+    "question": "Valinomycin 抗生素是一種ionophore，下列相關敘述何者錯誤？",
+    "options": {
+      "A": "它是一種具環狀結構的peptide 抗生素",
+      "B": "其殺菌的效果是因為能使細菌之細胞壁無法合成",
+      "C": "其殺菌的效果是因為擾亂細胞膜內外的離子平衡",
+      "D": "它能夠攜帶$K^+$離子通過細胞膜"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 42 題",
+    "question": "Multi-drug transporter（MDR 1）和癌症治療有關，下列有關MDR 1 的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種膜蛋白",
+      "B": "不需要ATP 即可作用",
+      "C": "是一種ABC transporter",
+      "D": "可以將藥物送出細胞外"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 43 題",
+    "question": "下列關於細胞內膽固醇恆定的調控敘述，何者錯誤？",
+    "options": {
+      "A": "膽固醇合成的關鍵性酵素為HMG-CoA 還原酶（HMG-CoA reductase）",
+      "B": "細胞內膽固醇量過多時，可以活化ACAT（Acyl-CoA:cholesterol acyl transferase）使膽固醇進行酯化",
+      "C": "當細胞內缺乏膽固醇時，可以攝取葡萄糖直接促進膽固醇的合成",
+      "D": "細胞內膽固醇量過多時，細胞將抑制LDL receptor 的表現，進而降低細胞對血液中膽固醇的攝取量"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 44 題",
+    "question": "安息香酸（benzoate）與苯丁酸（phenylbutyrate）是用來治療尿素循環（urea cycle）障礙疾病的藥物， 其藥理作用主要為何？",
+    "options": {
+      "A": "提供尿素循環所需的中間產物，增進整個尿素循環的效率",
+      "B": "作為胺甲醯磷酸合成酶（carbamoyl phosphate synthase I）的異位活化劑（allosteric activator），增 進尿素循環的效率",
+      "C": "其代謝物分別與甘胺酸（glycine）和麩醯胺酸（glutamine）結合成衍生物排出體外，減少尿素循 環的負擔",
+      "D": "促進精胺酸（arginine）的合成，防止精胺酸缺乏的發生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 45 題",
+    "question": "下列那一個酵素的功能喪失會導致Phenylketonuria？",
+    "options": {
+      "A": "Aminotransferase",
+      "B": "Phenylalanine hydroxylase",
+      "C": "Maleylacetoacetate isomerase",
+      "D": "Fumarylacetoacetase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 46 題",
+    "question": "下列那一個酵素位於粒線體電子傳遞鏈的Complex II？",
+    "options": {
+      "A": "NADH dehydrogenase",
+      "B": "cytochrome c oxidase",
+      "C": "succinate dehydrogenase",
+      "D": "ubiquinol-cytochrome c oxidoreductase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 47 題",
+    "question": "一位中年婦人最近節食減肥，因虛弱無力、無法行動而送至急診，經診斷為腳氣病（beriberi）。下 列有關此病之敘述，何者正確？",
+    "options": {
+      "A": "此病主要是因硫胺素（thiamine）缺乏所導致",
+      "B": "此病是因醣類攝取不足所引起",
+      "C": "血中的丙酮酸（pyruvate）會下降",
+      "D": "神經系統不會受到影響"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 48 題",
+    "question": "車禍病人的腦部受傷發生尿崩症，是因為其抗利尿激素（antidiuretic hormone）分泌下降。抗利尿激 素作用在位於腎小管上之G protein coupled receptor，其主要可造成下列何種反應？",
+    "options": {
+      "A": "使G protein dimerization",
+      "B": "抑制protein kinase C",
+      "C": "細胞內cGMP 濃度下降",
+      "D": "可活化adenylyl cyclase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 49 題",
+    "question": "下列關於細胞與細胞週期（cell cycle）的敘述，何者錯誤？",
+    "options": {
+      "A": "處於S phase 的細胞主要進行DNA 複製（DNA replication）工作",
+      "B": "處於M phase 的細胞主要進行細胞分裂",
+      "C": "大部分高度分化的細胞，皆處於S phase",
+      "D": "在快速分裂時，細胞處在S phase 的比例增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 50 題",
+    "question": "下列那一項對cDNA 微矩陣（microarray）的敘述錯誤？",
+    "options": {
+      "A": "可以同時分析細胞內數千基因的相對表現量",
+      "B": "可利用PCR 技術合成DNA，固定在玻片上",
+      "C": "可以利用photolithography 技術合成基因晶片",
+      "D": "也可以偵測蛋白質表現程度"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 76 題",
+    "question": "下列有關急性炎症病理學特徵的敘述，何者錯誤？",
+    "options": {
+      "A": "小血管收縮",
+      "B": "血流速變慢",
+      "C": "白血球積聚",
+      "D": "血管外液體增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 77 題",
+    "question": "細胞缺氧時，不會產生下列何種現象？",
+    "options": {
+      "A": "鈣流入",
+      "B": "鈉流出",
+      "C": "水流入",
+      "D": "鉀流出"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 78 題",
+    "question": "化膿性滲出物，最可能出現何種物質？",
+    "options": {
+      "A": "嗜中性白血球和壞死組織",
+      "B": "嗜中性白血球和黏液",
+      "C": "黏液和巨噬細胞",
+      "D": "壞死組織和結締組織"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 79 題",
+    "question": "慢性結核病（tuberculosis）會引起澱粉樣變性（amyloidosis）。有關此類澱粉樣變性的敘述，下列何 者正確？",
+    "options": {
+      "A": "慢性發炎活化B 淋巴細胞產生免疫球蛋白輕鏈（light chain）沉積所致",
+      "B": "主要是由在被感染的器官裏的巨噬細胞產生血漿澱粉樣相關蛋白（serum amyloid-associated protein） 沉積所致",
+      "C": "其沉積物與長期接受血液透析引起的澱粉樣變性屬於同一類",
+      "D": "第一與第六型介白素（interleukin-1 and -6）的作用對於此類澱粉樣變性的形成有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 80 題",
+    "question": "有關人類免疫不全病毒（human immunodeficiency virus）感染的敘述，下列何者正確？",
+    "options": {
+      "A": "發生在愛滋病（後天免疫不全症候群）患者的淋巴癌（lymphoma）大多數與第8 型人類疱疹病毒 （human herpesvirus-8）感染有關",
+      "B": "愛滋病（後天免疫不全症候群）患者得到的淋巴癌，大多數屬T 淋巴細胞腫瘤",
+      "C": "當無症狀的人類免疫不全病毒感染患者出現口腔念珠菌（candidiasis）感染時，表示此患者免疫系 統已經失衡",
+      "D": "隱球菌感染（cryptococcosis）是愛滋病（後天免疫不全症候群）患者最容易得到的黴菌感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 81 題",
+    "question": "2 歲男童出生時外觀正常，目前出現生長遲緩、頭顱變大、濃眉、鼻梁塌陷、手臂粗短彎曲、關節變 形僵硬、腹部突出等情形，身體檢查發現肝脾腫大。肝臟、脾臟、骨髓切片檢查發現許多胞體膨脹 的血管內皮細胞、纖維母細胞、巨噬細胞，其細胞質澄清且充滿periodic acid-Schiff（PAS）染色陽 性的物質。下列何者是造成此疾病與病變最可能的成因？  α",
+    "options": {
+      "A": "-半乳糖苷酵素（α-galactosidase）基因缺陷，造成醣脂質（galactosylceramides）無法進行分解",
+      "B": "分解黏多醣體（mucopolysaccharides）之水解酵素（lysosomal hydrolases）缺乏",
+      "C": "分解神經節苷脂（gangliosides）之水解酵素（hexosaminidase）缺乏",
+      "D": "葡萄糖-6-磷酸酵素（glucose-6-phosphatase）基因缺陷，造成肝醣儲積"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 82 題",
+    "question": "下列何種基因未直接參與DNA 修補的功能？",
+    "options": {
+      "A": "BRCA1 及BRCA2",
+      "B": "ATM",
+      "C": "RAD51",
+      "D": "MDM2"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 83 題",
+    "question": "下列何種致癌基因的功能，可歸類為生長因子（growth factor）？",
+    "options": {
+      "A": "KIT",
+      "B": "SIS",
+      "C": "H-RAS",
+      "D": "C-MYC"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 84 題",
+    "question": "下列何條靜脈的血栓最不易造成肺栓塞？",
+    "options": {
+      "A": "股靜脈（femoral vein）",
+      "B": "膕靜脈（popliteal vein）",
+      "C": "隱靜脈（saphenous vein）",
+      "D": "髂靜脈（iliac vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 85 題",
+    "question": "70 歲男性，體溫攝氏39 度，頭痛，身體檢查發現沿著表淺顳動脈處有隨脈搏跳動而疼痛，二天後發 生複視，此病患最有可能的診斷是：",
+    "options": {
+      "A": "高安氏動脈炎（Takayasu arteritis）",
+      "B": "結節性多發性動脈炎（polyarteritis nodosa）",
+      "C": "川崎氏病（Kawasaki disease）",
+      "D": "巨細胞動脈炎（giant-cell arteritis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 86 題",
+    "question": "15 歲女性因中耳炎接受抗生素之治療6 日後突發急性心臟衰竭，心臟內膜心肌切片（endomyocardial  biopsy）顯示急性心肌發炎，病人立即停藥並且改以類固醇及免疫球蛋白治療2 日後心臟功能明顯改 善。下列病理變化中，何者最符合此病人心肌炎的表現？",
+    "options": {
+      "A": "巨細胞浸潤",
+      "B": "淋巴球及嗜伊紅性白血球浸潤",
+      "C": "巨噬細胞與漿細胞浸潤",
+      "D": "脂肪變性及心肌壞死"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 87 題",
+    "question": "有關原發性血小板過多症（essential thrombocytosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "形成疾病的原因不明，可能是感染造成的自體免疫過度反應所致",
+      "B": "典型的病例在周邊血液中會出現如紅血球大小的大型血小板",
+      "C": "周邊血液血小板數目也會明顯增加，這些血小板功能與一般正常血小板無異",
+      "D": "典型的臨床表徵會有因貧血造成肝脾腫大的情形"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 88 題",
+    "question": "60 歲男性主訴一個月以來全身性瘀青。病人曾有直腸黏液性腺癌。病人外表臉色蒼白，顯現惡病體 質。腹部超音波顯示多個肝內腫塊。凝血酶原時間（PT）及部分促凝血酶原激酶時間（aPTT）均延 長，血小板降低，纖維蛋白原（fibrinogen）略低，纖維蛋白裂解產物（fibrin split product, D dimer） 相當高。下列何者可見於病人周邊血液？",
+    "options": {
+      "A": "好威爾－久麗氏體（Howell-Jolly bodies）",
+      "B": "淚珠狀紅血球（teardrop-shaped red cells）",
+      "C": "裂細胞（schistocytes）",
+      "D": "靶形紅血球（target red cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 89 題",
+    "question": "70 歲男性抽菸史50 年，患有肺氣腫。對其症狀之敘述，下列何者錯誤？",
+    "options": {
+      "A": "呼吸慢、長、深",
+      "B": "慢性咳嗽、喘",
+      "C": "呼吸困難",
+      "D": "桶狀胸（barrel chest）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 90 題",
+    "question": "林先生因骨髓炎接受長期抗生素治療。出現發燒，腹痛，及腹瀉等症狀，大腸鏡檢查發現大腸表面 有白色膜狀物質附著。切片檢查發現白色膜狀物是由嗜中性球、死細胞和其他發炎細胞所組成，其 微生物培養的結果最可能出現下列何者？",
+    "options": {
+      "A": "Clostridium difficile",
+      "B": "Pseudomonas aeruginosa",
+      "C": "Cryptosporidium hominis",
+      "D": "Campylobacter jejuni"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 91 題",
+    "question": "20 歲女性，患有重症地中海型貧血，從5 歲起每2 週接受輸血治療。她最不容易併發下列何種病變？",
+    "options": {
+      "A": "復發性血栓",
+      "B": "糖尿病",
+      "C": "肝硬化",
+      "D": "心肌病變"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 92 題",
+    "question": "76 歲的男性因病死亡，病理解剖時發現肝臟剖面如附圖，最可能有下列何種問題？ [圖片] [圖片]",
+    "options": {
+      "A": "左心衰竭",
+      "B": "下腔靜脈阻塞",
+      "C": "門靜脈血栓",
+      "D": "瀰漫性血管內出血"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 93 題",
+    "question": "33 歲女性，有一乳房硬塊，經開刀切除後，病變的組織變化如附圖，最可能的診斷為：",
+    "options": {
+      "A": "乳管內乳突瘤（intraductal papilloma）",
+      "B": "纖維腺瘤（fibroadenoma）",
+      "C": "乳管原位癌（ductal carcinoma in situ）",
+      "D": "乳管內增生（intraductal hyperplasia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 94 題",
+    "question": "73 歲男性，因吞嚥困難而就醫。內視鏡檢查發現食道中間三分之一處有一個4 公分大的潰瘍性腫塊， 其食道病變最可能出現下列何種鏡下變化？",
+    "options": {
+      "A": "由良性平滑肌細胞組成的腫塊",
+      "B": "不規則的腺體構造浸潤",
+      "C": "角質化細胞團塊浸潤",
+      "D": "由壞死與肉芽組織組成的腫塊"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 95 題",
+    "question": "下列何種甲狀腺炎在病理變化最有可能出現大量多核巨細胞？",
+    "options": {
+      "A": "橋本氏甲狀腺炎（Hashimoto thyroiditis）",
+      "B": "亞急性甲狀腺炎（subacute thyroiditis）",
+      "C": "雷得氏甲狀腺炎（Riedel thyroiditis）",
+      "D": "慢性纖維性甲狀腺炎（chronic fibrosing thyroiditis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 96 題",
+    "question": "有關睪丸的生殖細胞瘤（germ cell tumors）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可分成單一組織型態及混合組織型態兩大類",
+      "B": "致病因素可能與cryptorchidism 或testicular dysgenesis 有關",
+      "C": "大部分的病例其第12 對染色體有異常變化",
+      "D": "發生率沒有種族的差異性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 97 題",
+    "question": "35 歲女性因下腹痛來求診，身體檢查及超音波顯示骨盆腔發炎合併骨盆腔膿瘍。醫師安排腹腔鏡手 術發現骨盆腔內有惡臭的膿液堆積，於是為她做了細菌培養，則最不可能培養出來的菌種為何？",
+    "options": {
+      "A": "毛滴蟲（Trichomonas）",
+      "B": "披衣菌（Chlamydia）",
+      "C": "葡萄球菌（Staphylococcus）",
+      "D": "放線菌（Actinomyces）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 98 題",
+    "question": "有關水痘－帶狀疱疹病毒之敘述，下列何者正確？",
+    "options": {
+      "A": "皮膚之好發部位是腹部或臉神經分布處",
+      "B": "組織切片可見脊髓感覺神經節內之神經元細胞破壞及減少，並有大量的嗜伊紅性白血球浸潤",
+      "C": "在相對應之脊髓前角運動神經元細胞亦可能被破壞",
+      "D": "病灶神經細胞內可見細胞核內包涵體（intranuclear inclusion）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 99 題",
+    "question": "42 歲女性，有多個器官衰竭，在數天內發生四肢麻痺（quadriplegia），檢查發現在橋腦底（basis  pontis）有對稱性的病灶，下列敘述何者錯誤？",
+    "options": {
+      "A": "鏡檢該病灶可見梗塞（infarct）的病理變化",
+      "B": "此病最常見於快速治療低鈉血症（hyponatremia）",
+      "C": "此病可見於嚴重的滲透壓不平衡（osmolar imbalance）",
+      "D": "該病灶一般不會延伸至腦室旁及軟腦膜下區域"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 100 題",
+    "question": "30 歲男性接受腦部動靜脈畸形（arteriovenous malformation）的手術，病灶當中常常有那種色素存在？",
+    "options": {
+      "A": "黑色素（melanin）",
+      "B": "血鐵素（hemosiderin）",
+      "C": "脂褐素（lipofuscin）",
+      "D": "尿黑酸（homogentisic acid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

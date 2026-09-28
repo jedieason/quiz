@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 76 題",
+    "question": "炎症反應中所釋出的組織胺（histamine），與下列何者最有關？",
+    "options": {
+      "A": "白血球黏附至血管內皮細胞（endothelium）",
+      "B": "白血球在血管內皮細胞（endothelium）上滾動",
+      "C": "血管擴張及其滲透性增加",
+      "D": "血管收縮及促進血小板凝聚"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 77 題",
+    "question": "細胞發生不可逆變化，與下列何種現象最有關？",
+    "options": {
+      "A": "細胞內鈉（sodium）增加",
+      "B": "細胞核碎裂（karyorrhexis）",
+      "C": "細胞內pH值降低",
+      "D": "細胞膜出現水泡（bleb）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 78 題",
+    "question": "全血丙型干擾素檢驗（interferon-gamma release assay）可用來診斷潛伏肺結核菌感染。此檢驗主要運用的原 理，是在高特異性的結核菌抗原刺激下，血液中的何種細胞被活化後產生丙型干擾素？",
+    "options": {
+      "A": "T淋巴細胞",
+      "B": "B淋巴細胞",
+      "C": "單核球",
+      "D": "嗜中性白血球"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 79 題",
+    "question": "下列各項梅毒期別與病變的組合中，那一個組合正確？",
+    "options": {
+      "A": "第一期梅毒及下疳（chancre）",
+      "B": "第二期梅毒及脊髓癆（tabes dorsalis）",
+      "C": "第三期梅毒及Hutchinson齒",
+      "D": "先天性梅毒及扁平濕疣（condyloma latum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 80 題",
+    "question": "因為缺乏菸鹼素（niacin）所引起之臨床症狀，下列何者較不常見？",
+    "options": {
+      "A": "憩室炎（diverticulitis）",
+      "B": "失智（dementia）",
+      "C": "皮膚炎（dermatitis）",
+      "D": "腹瀉（diarrhea）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 81 題",
+    "question": "一個病人表現黃疸、中風、意識模糊與腹痛，血液檢查顯示血小板低下與碎裂的紅血球（schistocytes），凝 血酶原時間（prothrombin time）與部分凝血活酶時間（partial thromboplastin time）正常，經過血漿置換術 （plasma exchange）之後，病人的病情獲得改善，下列何者是最可能的解釋？",
+    "options": {
+      "A": "血漿置換術可以清除攻擊ADAMTS13的抗體與補充ADAMTS13",
+      "B": "血漿置換術用以清除攻擊von Willebrand factor 的抗體與補充von Willebrand factor",
+      "C": "診斷是瀰漫性血管內凝血（disseminated intravascular coagulation）",
+      "D": "診斷是A型血友病（hemophilia A）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 82 題",
+    "question": "一個長期抽菸的60歲男性，他有高血壓與糖尿病但沒有接受治療，某日他在吃飯時突然失去意識，30分鐘後 救護人員到達時他已經死亡，法醫初步認為他是心臟猝死（sudden cardiac death），心臟猝死最常見的法醫檢 查結果為何？",
+    "options": {
+      "A": "冠狀動脈疾病",
+      "B": "心室壁破裂",
+      "C": "心肌炎",
+      "D": "肺動脈高壓"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 83 題",
+    "question": "下列何者最不常見腎臟細動脈玻璃樣增厚（hyaline thickening of the walls of arterioles）？",
+    "options": {
+      "A": "老年人",
+      "B": "長期高血壓病人",
+      "C": "糖尿病病人",
+      "D": "年輕病人患有腎上腺嗜鉻細胞瘤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 84 題",
+    "question": "下列何種維生素缺乏，最可能導致巨母紅血球性貧血（megaloblastic anemia）？",
+    "options": {
+      "A": "維生素B1",
+      "B": "維生素B2",
+      "C": "維生素B6",
+      "D": "維生素B12"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 85 題",
+    "question": "40歲女性在懷孕末期時出現血小板數目低下（24×109/L，參考值156-369×109/L）的情形。病人在輸完血小板 後立即接受剖腹生產，生產後有輕微溶血性貧血。病人於是接受血漿置換術，但情況並無改善。流式細胞儀 分析（flow cytometry）顯示病人紅血球偵測不到CD55與CD59。下列何種基因異常最可能導致此病人的情 況？",
+    "options": {
+      "A": "c-KIT",
+      "B": "PIGA",
+      "C": "MPL",
+      "D": "JAK2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 86 題",
+    "question": "下列何者不是引起肺高血壓（pulmonary hypertension）的主要原因？",
+    "options": {
+      "A": "慢性阻塞性肺病",
+      "B": "慢性間質性肺病",
+      "C": "反覆發生肺部血栓栓塞（thromboembolism）",
+      "D": "心臟三尖瓣狹窄"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 87 題",
+    "question": "下列有關間皮瘤（mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "間皮瘤大多數發生在大量接觸石棉的人",
+      "B": "從開始接觸石棉到發生間皮瘤的潛伏期可以長達數十年",
+      "C": "Amphiboles比chrysotiles型的石棉更易造成間皮瘤",
+      "D": "大部分間皮瘤的腫瘤組織可發現石棉小體（asbestos body）的存在"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 88 題",
+    "question": "肺部有一局部圓形病灶，中間形成空腔，且含有濃稠黃色液體，外圍有約0.6 mm厚的纖維壁。其診斷最可能 為：",
+    "options": {
+      "A": "肺炎",
+      "B": "肺癌",
+      "C": "肺結核",
+      "D": "肺膿瘍"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 89 題",
+    "question": "關於威爾森氏症（Wilson disease），下列何者錯誤？",
+    "options": {
+      "A": "通常發生於6歲到40歲之間",
+      "B": "血清ceruloplasmin下降",
+      "C": "常伴隨基底核病變",
+      "D": "ATP8A基因突變"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 90 題",
+    "question": "關於遺傳性血鐵沉著症（hemochromatosis），下列何者錯誤？",
+    "options": {
+      "A": "可導致肝硬化及增加肝癌風險",
+      "B": "可造成糖尿病（diabetes）及心臟病變",
+      "C": "最常發病於兒童時期",
+      "D": "最常見為HFE基因變異"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 91 題",
+    "question": "關於原發性膽汁肝硬化（primary biliary cirrhosis），下列何者錯誤？",
+    "options": {
+      "A": "其特徵為肝內膽管破壞，洋蔥皮樣的膽管纖維化（onion skin fibrosis）為其病理特徵",
+      "B": "病理切片下可見膽小管增生（ductular reaction）及膽管消失（loss of small bile ducts）",
+      "C": "常發生於中年婦女",
+      "D": "常伴隨Sjögren syndrome，甲狀腺炎（thyroiditis）及scleroderma"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 92 題",
+    "question": "作為預測胰臟內分泌腫瘤良惡性的判定指標，以下何者最不準確？",
+    "options": {
+      "A": "腫瘤細胞的轉移",
+      "B": "血管的侵犯",
+      "C": "向周遭組織浸潤性生長",
+      "D": "腫瘤細胞呈現多形性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 93 題",
+    "question": "以下何者最不可能是糖尿病引起的腎病變？",
+    "options": {
+      "A": "結節性腎小球硬化症（nodular glomerulosclerosis）",
+      "B": "微細管間腎小球硬化症（intercapillary glomerulosclerosis）",
+      "C": "瀰漫性腎間質硬化症（diffuse mesangial sclerosis）",
+      "D": "特發性局灶節段性腎小球硬化症（idiopathic focal segmental glomerulosclerosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 94 題",
+    "question": "依腎細胞癌最常見的侵犯及散播途徑，以下何者的管腔最不可能出現腫瘤細胞團塊？",
+    "options": {
+      "A": "腎靜脈",
+      "B": "腎動脈",
+      "C": "下腔靜脈",
+      "D": "右心房"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 95 題",
+    "question": "下列有關外陰部鱗狀上皮癌（squamous cell carcinoma）的敘述， 何者較不正確？",
+    "options": {
+      "A": "主要可以分為兩群：角化性（keratinizing）與類基底性及疣狀（basaloid and warty）",
+      "B": "角化性鱗狀上皮癌較常發生在長期罹患硬化性苔蘚（lichen sclerosus）或鱗狀上皮增殖（squamous cell hyperplasia）的病人",
+      "C": "角化性鱗狀上皮癌的前驅病灶（precursor lesion）為分化型外陰上皮內瘤變（differentiated vulvar intraepithelial neoplasia），與高危險性人類乳突狀病毒（high-risk human papillomavirus）的感染高度相關",
+      "D": "類基底性及疣狀（basaloid and warty）鱗狀上皮癌發生的比例較角化性鱗狀上皮癌為低"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 96 題",
+    "question": "下列有關胎盤滋養層細胞腫瘤（placental site trophoblastic tumor, PSTT）的敘述，何者較不正確？",
+    "options": {
+      "A": "為絨毛外（extravillous）中間滋養層細胞（intermediate trophoblastic cells）的腫瘤性增生（neoplastic proliferation）",
+      "B": "絨毛外（extravillous）中間滋養層細胞（intermediate trophoblastic cells）會分泌人類胎盤催乳素（human placental lactogen, HPL）",
+      "C": "這一類患者，血液中的人類絨毛膜性腺激素（human chorionic gonadotropin, hCG）會升高",
+      "D": "此腫瘤患者有50%以上的死亡率"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 97 題",
+    "question": "30歲男性，最近三個月來覺得右側陰囊漸漸變大有下墜感，但不會有疼痛現象。圖為他睪丸切除手術標本的 顯微鏡下變化。下列何者是最可能的診斷？ [圖片]",
+    "options": {
+      "A": "精細胞瘤（seminoma）",
+      "B": "畸胎瘤（teratoma）",
+      "C": "結核病（tuberculosis）",
+      "D": "卵黃囊瘤（yolk sac tumor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 98 題",
+    "question": "一名眼球癆（phthisis bulbi）的患者做了眼球摘除送病理檢查，則該病患應是：",
+    "options": {
+      "A": "眼球的末期病變",
+      "B": "先天性的小眼睛",
+      "C": "葡萄腫（staphyloma）",
+      "D": "巨大的眼球腫瘤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 99 題",
+    "question": "高血壓性腦出血的病人，腦部常見何種血管變化？",
+    "options": {
+      "A": "Charcot-Bouchard微小動脈瘤",
+      "B": "漿果樣動脈瘤（berry aneurysm）",
+      "C": "類澱粉血管病（amyloid angiopathy）",
+      "D": "中膜缺損（medial defect）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 100 題",
+    "question": "病人35歲，長有腦瘤（如圖），顯微鏡下觀察很像釉胚（enamel organ）長出的腫瘤。其診斷應是： [圖片]",
+    "options": {
+      "A": "多形性神經芽細胞瘤（glioblastoma multiforme）",
+      "B": "聽神經瘤（acoustic neuroma）",
+      "C": "顱咽管瘤（craniopharyngioma）",
+      "D": "髓芽細胞瘤（medulloblastoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

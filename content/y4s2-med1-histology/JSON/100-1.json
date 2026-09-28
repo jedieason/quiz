@@ -1,0 +1,113 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 33 題",
+    "question": "下列敘述何者正確？",
+    "options": {
+      "A": "胞器膜的厚度為30-40 nm",
+      "B": "核糖體大小約60-80 nm",
+      "C": "個別肝醣顆粒大小約70-100 nm",
+      "D": "溶酶體（lysosomes）大小約0.2-0.5 μm"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 34 題",
+    "question": "下列何者是透明軟骨的特徵？",
+    "options": {
+      "A": "有許多細胞間質",
+      "B": "含有豐富的微血管",
+      "C": "細胞形成同心圓排列的哈維氏系統",
+      "D": "細胞間質含鈣鹽沉積"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 35 題",
+    "question": "下列有關神經細胞尼氏體（Nissl’s body）的敘述，何者正確？",
+    "options": {
+      "A": "由高爾基氏體和核糖體所構成",
+      "B": "出現於細胞體和樹突內，但軸突內則無",
+      "C": "只能在電子顯微鏡下觀察，光學鏡下無法看到",
+      "D": "通常位在突觸小泡內"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 36 題",
+    "question": "下列有關脾臟的敘述，何者正確？",
+    "options": {
+      "A": "圍動脈淋巴鞘（Periarterial lymphatic sheath, PALS）主要由B 淋巴球構成",
+      "B": "淋巴小結（lymphatic nodules）主要由T 淋巴球構成",
+      "C": "PALS 與淋巴小結構成紅髓（red pulp）",
+      "D": "在白髓（white pulp）中淋巴組織圍繞的血管是中央動脈（central artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 37 題",
+    "question": "「漿細胞（plasma cell）」具有下列何種特徵？",
+    "options": {
+      "A": "細胞核是扁平形，常位於細胞中央",
+      "B": "細胞內有許多平滑內質網（smooth endoplasmic reticulum）",
+      "C": "是由T 淋巴球（T lymphocyte）分化而成",
+      "D": "分布在脾的脾索（splenic cord）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 38 題",
+    "question": "膽小管（bile canaliculi）是藉由下列那些細胞間的接合複體（junctional complex）形成？",
+    "options": {
+      "A": "肝細胞與肝細胞",
+      "B": "肝細胞與內皮細胞",
+      "C": "伊藤細胞與內皮細胞",
+      "D": "內皮細胞與內皮細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 39 題",
+    "question": "下列何者具有角質化複層扁平上皮（stratified squamous keratinized epithelium）？",
+    "options": {
+      "A": "鼻咽部（nasopharynx）",
+      "B": "硬腭（hard palate）",
+      "C": "鼻腔呼吸部（respiratory nasal cavity）",
+      "D": "鼻腔前庭（nasal vestibule）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 40 題",
+    "question": "有關精子通過之前後路徑，下列那一項組合正確？",
+    "options": {
+      "A": "輸精管（ductus deferens）→睪丸網（rete testis）→副睪（epidydimis）→射精管（ejaculatory duct）",
+      "B": "睪丸網（rete testis）→射精管（ejaculatory duct）→輸精管（ductus deferens）→儲精囊（seminal vesicle）",
+      "C": "輸精管（ductus deferens）→射精管（ejaculatory duct）→膀胱（bladder）→尿道（urethral）",
+      "D": "睪丸網（rete testis）→副睪（epidydimis）→輸精管（ductus deferens）→射精管（ejaculatory duct）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 41 題",
+    "question": "具有靜纖毛（stereocilia）的毛細胞可在耳朵多處發現，但下列何者不具有此構造？",
+    "options": {
+      "A": "橢圓囊斑（macula of utricle）",
+      "B": "耳蝸的Corti 氏器",
+      "C": "前庭器壺腹（ampulla of vestibular apparatus）",
+      "D": "聽管（auditory or Eustachian tube）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

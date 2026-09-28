@@ -1,0 +1,250 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 42 題",
+    "question": "細菌內毒素（endotoxin）的產生來自：",
+    "options": {
+      "A": "細菌代謝產物",
+      "B": "纖毛",
+      "C": "革蘭氏陽性菌細胞壁",
+      "D": "革蘭氏陰性菌細胞壁"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 43 題",
+    "question": "下列何種內耳結構退化與老年失聰（presbycusis）最不相關？",
+    "options": {
+      "A": "前庭神經節細胞（vestibular ganglion cells）",
+      "B": "血管紋（stria vascularis）",
+      "C": "內毛細胞（inner hair cells）",
+      "D": "外毛細胞（outer hair cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 44 題",
+    "question": "能製造白喉毒素的白喉桿菌具有下列何項特質？",
+    "options": {
+      "A": "為不溶血菌落",
+      "B": "具有莢膜",
+      "C": "具有潛溶性的β-噬菌體",
+      "D": "能代謝尿素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 45 題",
+    "question": "下列何種DNA 病毒可造成先天性感染？",
+    "options": {
+      "A": "巨細胞病毒（cytomegalovirus）",
+      "B": "EB 病毒（Epstein-Barr virus）",
+      "C": "人類疱疹病毒第八型（HHV8）",
+      "D": "腺病毒（adenovirus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 46 題",
+    "question": "下列何者具有肌間盤（intercalated disc）？",
+    "options": {
+      "A": "心肌",
+      "B": "骨骼肌",
+      "C": "豎毛肌",
+      "D": "平滑肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 47 題",
+    "question": "下列何者為肺炎鏈球菌（Streptococcus pneumoniae）、腦膜炎雙球菌（Neisseria meningitides）和流 行性感冒嗜血桿菌（Haemophilus influenzae）引起細菌性腦膜炎共同的致病因子？",
+    "options": {
+      "A": "蛋白質A（protein A）",
+      "B": "內毒素（endotoxin） β",
+      "C": "-內醯胺酶（β-lactamase）",
+      "D": "莢膜（capsule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 48 題",
+    "question": "單內醯胺（monobactam）屬於β-內醯胺類的抗生素，但與其他同類藥物相較，其抗菌範圍較為狹窄 只可對抗何類細菌？",
+    "options": {
+      "A": "革蘭氏陰性厭氧菌",
+      "B": "革蘭氏陽性厭氧菌",
+      "C": "革蘭氏陰性嗜氧菌",
+      "D": "革蘭氏陽性嗜氧菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 49 題",
+    "question": "下列關於實驗室診斷病毒性疾病之敘述，何者為錯？",
+    "options": {
+      "A": "細胞學（cytology）檢查主要是觀察病毒感染後引瘻的細胞病變（cytopathologic effect）",
+      "B": "電子顯微鏡可觀察病毒顆粒，但不用於臨床常規檢查",
+      "C": "病毒的分離與增殖是證明病毒感染的最重要指標",
+      "D": "病毒基因物質（RNA 或DNA）的檢查，可偵測檢體中有活病毒的存在"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 50 題",
+    "question": "下列那一項有關DNA 病毒之特性不正確？",
+    "options": {
+      "A": "基因體可為雙股或單股",
+      "B": "必須在細胞核內複製",
+      "C": "可具套膜",
+      "D": "相較於RNA 病毒，基因體變異性較少"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 51 題",
+    "question": "下列那一種病毒不是藉由呼吸道傳播？",
+    "options": {
+      "A": "鼻病毒（rhinoviruses）",
+      "B": "冠狀病毒（coronaviruses）",
+      "C": "水痘病毒（chicken pox viruses）",
+      "D": "C 型肝炎病毒（HCV）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 52 題",
+    "question": "拉薩熱（Lassa fever）屬第四級傳染原，可經由動物傳給人類，此傳染原屬沙狀病毒（arenavirus）， 其基因體為：",
+    "options": {
+      "A": "一個雙股RNA",
+      "B": "二個環形負（－）股RNA 遺傳體",
+      "C": "一個正（＋）股RNA",
+      "D": "一個負（－）股RNA"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 53 題",
+    "question": "有關肝炎病毒，下列之敘述何者錯誤？",
+    "options": {
+      "A": "HAV 及HEV 是糞－口途徑傳播",
+      "B": "HBV 及HCV 可能經由血液傳染",
+      "C": "HAV、HBV、HCV 及HDV 均是單股（single-stranded）RNA 病毒",
+      "D": "HBV 是含有套膜（envelope）的病毒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 54 題",
+    "question": "下列關於小兒麻痺病毒（poliovirus）之敘述，何者正確？",
+    "options": {
+      "A": "分類上屬於小RNA 病毒科（Picornaviridae），只有一種血清型",
+      "B": "其疫苗有去活性的（inactivated）沙賓疫苗，及減毒活性的（live attenuated）沙克疫苗",
+      "C": "感染後大部分人出現中樞神經症狀，少部分人為無症狀感染",
+      "D": "麻痺性脊髓灰白質炎（paralytic poliomyelitis）主要是因為此病毒感染脊髓前角細胞所致"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 55 題",
+    "question": "下列關於第一型人類免疫缺乏病毒（HIV-1）混合性療法（combination therapy）的敘述，何者為錯？",
+    "options": {
+      "A": "又名HAART（highly active antiretroviral therapy）",
+      "B": "包括反轉錄酶抑制劑（reverse transriptase inhibitors）及蛋白酶抑制劑（protease inhibitor）的組合",
+      "C": "可根除體內的HIV-1 病毒",
+      "D": "可降低愛滋病患的死亡率及感染其他疾病的罹病率"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 56 題",
+    "question": "下列何種RNA 病毒可造成胎兒感染及嚴重的先天性畸形發育？",
+    "options": {
+      "A": "巨細胞病毒（CMV）",
+      "B": "德國麻疹病毒（rubella virus）",
+      "C": "人類細小病毒（parvovirus）B19",
+      "D": "水痘－帶狀疱疹病毒（VZV）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 57 題",
+    "question": "下列關於真菌的抵抗力之敘述，何者為錯？",
+    "options": {
+      "A": "對乾燥、陽光和紫外線抵抗力較強",
+      "B": "對一般消毒劑抵抗力較強",
+      "C": "耐熱，60℃一小時不會被殺死",
+      "D": "對抗細菌性抗生素不敏感"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 58 題",
+    "question": "黃麴毒素損害的主要器官是：",
+    "options": {
+      "A": "肺臟",
+      "B": "肝臟",
+      "C": "腎臟",
+      "D": "脾臟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 59 題",
+    "question": "新型隱球菌（Cryptococcus neoformans）以何種孢子進行繁殖？",
+    "options": {
+      "A": "孢子囊孢子",
+      "B": "厚膜孢子",
+      "C": "分生孢子",
+      "D": "芽生孢子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 60 題",
+    "question": "疱疹病毒感染常造成病毒在宿主體內建立潛伏性感染，其中水痘－帶狀疱疹病毒（VZV）造成幼童 出現水痘以及成年人之帶狀疱疹，此病毒在下列何者建立潛伏性感染？",
+    "options": {
+      "A": "皮膚",
+      "B": "肝臟",
+      "C": "神經細胞",
+      "D": "脾臟"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 61 題",
+    "question": "白色念珠菌（Candida albicans）所引起的鵝口瘡多見於：",
+    "options": {
+      "A": "新生嬰兒",
+      "B": "兒童",
+      "C": "青少年",
+      "D": "成年人"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

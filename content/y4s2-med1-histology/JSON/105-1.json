@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 33 題",
+    "question": "有關冷凍割斷術（freeze fracture technique），下列敘述何者錯誤？",
+    "options": {
+      "A": "細胞膜之內葉層（inner leaflet）與外葉層（outer leaflet）間，可呈現為P面（P-face）與 E面（E-face）",
+      "B": "可觀察細胞膜內的結構",
+      "C": "P面（P-face）即為膜外葉層（outer leaflet）的內面",
+      "D": "P面（P-face）所含蛋白質顆粒較E面（E-face）多"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 34 題",
+    "question": "有關蝕骨細胞（osteoclast）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "位於吸收陷窩（Howship's lacunae）",
+      "B": "多核",
+      "C": "細胞質內具有許多溶酶體（lysosomes）",
+      "D": "細胞質呈嗜鹼性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 35 題",
+    "question": "在一般情況下，下列那些基質（matrix）不會進行鈣化（calcification）？①彈性軟骨 （elastic cartilage） ②透明軟骨（hyaline cartilage） ③纖維軟骨（fibrocartilage）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "①②③"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 36 題",
+    "question": "有關骨骼肌和平滑肌的比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "骨骼肌是多核細胞，平滑肌是單核細胞",
+      "B": "骨骼肌細胞核位在細胞的周邊，平滑肌細胞核位在中央",
+      "C": "骨骼肌具有橫紋，平滑肌則無",
+      "D": "骨骼肌可經有絲分裂增殖，平滑肌則否"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 37 題",
+    "question": "脾靜脈竇（splenic sinuses）的管壁內襯主要由下列那種細胞構成？",
+    "options": {
+      "A": "巨噬細胞（macrophages）",
+      "B": "桿狀內皮細胞（rod-shaped endothelial cells）",
+      "C": "纖維母細胞（fibroblasts）",
+      "D": "網狀細胞（ reticular cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 38 題",
+    "question": "穿孔型微血管（fenestrated capillaries）出現於下列何者？",
+    "options": {
+      "A": "肌肉",
+      "B": "肺",
+      "C": "膽囊",
+      "D": "大腦皮質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 39 題",
+    "question": "胃賁門部（cardiac portion）上皮那類細胞最多？",
+    "options": {
+      "A": "表面黏膜細胞（surface mucous cells）",
+      "B": "腸內分泌細胞（enteroendocrine cells）",
+      "C": "壁細胞（parietal cells）",
+      "D": "再生幹細胞（regenerative stem cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 40 題",
+    "question": "和血液中鈣離子濃度調節有關的細胞是：",
+    "options": {
+      "A": "松果腺主細胞（pinealocytes）",
+      "B": "甲狀腺濾泡細胞（thyroid follicular cells）",
+      "C": "腎上腺嗜鉻細胞（chromaffin cells）",
+      "D": "副甲狀腺主細胞（chief cells of parathyroid gland）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 41 題",
+    "question": "有關男性生殖系統之組織，下列敘述何者錯誤？",
+    "options": {
+      "A": "萊迪氏細胞腫瘤（Leydig cell tumors）大多屬良性",
+      "B": "精子及精原細胞（spermatogenic cells）內具有特定分子，被免疫系統辨識為外來而非自 身的",
+      "C": "男性結紮手術是將輸精管（ductus deferens）分離、綁緊並切斷",
+      "D": "良性前列腺腫大（benign prostatic hypertrophy, BPH）好發於其周圍區（peripheral zone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

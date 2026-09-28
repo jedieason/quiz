@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 51 題",
+    "question": "下列何者不是Phase I的代謝反應？",
+    "options": {
+      "A": "Oxidation",
+      "B": "Hydrolysis",
+      "C": "Conjugation",
+      "D": "Reduction"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 52 題",
+    "question": "下列何種藥物在肝臟的快速代謝，何者與肝血流量（blood flow-limited）無關？",
+    "options": {
+      "A": "Alprenolol",
+      "B": "Lidocaine",
+      "C": "Isoniazid",
+      "D": "Aspirin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 53 題",
+    "question": "關於抗黴菌用藥ketoconazole與 fluconazole之比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "Ketoconazole會抑制人類 cortisol之生成，fluconazole則較不會",
+      "B": "Ketoconazole可治療由黴菌引起的腦膜炎，fluconazole則無法治療中樞性黴菌感染",
+      "C": "Ketoconazole主要由肝臟代謝而失去藥效，fluconazole則由腎臟排出",
+      "D": "Ketoconazole會抑制人類肝臟 cytochrome P450 之活性，fluconazole則較不會"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 54 題",
+    "question": "林小妹罹患血癌，因長時間以傳統癌症治療藥物治療後，免疫力降低，為避免口腔內念珠菌 之伺機性感染，常用下列何種藥物來預防？",
+    "options": {
+      "A": "Griseofulvin",
+      "B": "Miconazole",
+      "C": "Terbinafine",
+      "D": "Nystatin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 55 題",
+    "question": "下列何種藥物與病毒包膜蛋白結合，使得病毒與宿主細胞膜無法融合？",
+    "options": {
+      "A": "Ribavirin",
+      "B": "Adefovir",
+      "C": "Enfuvirtide",
+      "D": "Abacavir"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 56 題",
+    "question": "Clopidogrel之拮抗血小板凝集作用經由何種機制？",
+    "options": {
+      "A": "提升血小板胞內之c-AMP",
+      "B": "ADP receptor之拮抗",
+      "C": "Fibrinogen receptor（即醣蛋白IIb/IIIa）之拮抗",
+      "D": "Thromboxane receptor之拮抗"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 57 題",
+    "question": "下列何種藥物不屬於Fibrinolysis之拮抗劑？",
+    "options": {
+      "A": "Hirudin",
+      "B": "Aminocaproic acid",
+      "C": "Tranexamic acid",
+      "D": "Aprotinin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 58 題",
+    "question": "下列有關 tamoxifen 的藥理學作用描述，何者錯誤？",
+    "options": {
+      "A": "為一種為非類固醇的抗雌激素，藉由與雌激素受體結合，進而抑制內生性雌激素作用",
+      "B": "廣泛地被使用來治療乳癌患者",
+      "C": "使用可導致停經後婦女之血中總膽固醇及低密度脂蛋白濃度升高",
+      "D": "具有降低停經後婦女腰椎骨密度降低的風險"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 59 題",
+    "question": "5歲男童因嚴重腦部創傷後一年就診，小兒科醫師發現其嚴重地發育遲緩，並且生化檢測發 現其明顯的生長激素（growth hormone）分泌不足，因此投予生長激素治療。在治療階段中 發現其血中生長激素濃度已達正常，但生長遲緩情形未見改善，下列何者解釋可能可以用來 說明生長激素替代治療無效的原因？",
+    "options": {
+      "A": "其可能體制素（somatostatin）分泌過量",
+      "B": "其可能生長激素受體的表現量不足",
+      "C": "其可能發生繼發性甲狀腺機能減退（secondary hypothyroidism）",
+      "D": "其可能生長激素在體內的代謝速率過快"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 60 題",
+    "question": "下列有關治療甲狀腺功能低下症（hypothyroidism）藥物levothyroxine的藥理作用描述，何 者錯誤？",
+    "options": {
+      "A": "Levothyroxine不能同時與鈣和含鋁類的制酸劑合併使用",
+      "B": "Levothyroxine對於藥物如amiodarone所引起的甲狀腺功能低下症治療效果不佳",
+      "C": "Levothyroxine可以使用於懷孕的甲狀腺功能低下症婦女",
+      "D": "黏液性水腫昏迷（myxedema coma）可以利用levothyroxine來治療"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 61 題",
+    "question": "格雷夫斯病（Graves' disease）可以選擇下列何種藥物來治療？",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Methimazole",
+      "C": "Propranolol",
+      "D": "Octreotide"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 62 題",
+    "question": "下列何種藥物可以用來治療垂體性尿崩症（pituitary diabetes insipidus）？",
+    "options": {
+      "A": "Atosiban",
+      "B": "Desmopressin",
+      "C": "Conivaptan",
+      "D": "Oxytocin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 63 題",
+    "question": "下列那一樣藥物會抑制Carbonic anhydrase而減少眼房液之形成？",
+    "options": {
+      "A": "Amiloride",
+      "B": "Dorzolamide",
+      "C": "Torsemide",
+      "D": "Bumetanide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 64 題",
+    "question": "下列何者可藉由抑制磷酸雙酯酶（phosphodiesterase），而增加細胞內 cGMP 濃度，致使 平滑肌舒張？",
+    "options": {
+      "A": "Misoprostol",
+      "B": "Nitroglycerine",
+      "C": "Sildenafil",
+      "D": "Theophylline"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 65 題",
+    "question": "下列藥物中何者可以降低腎素（renin）的活性，進而減少 angiotensin II 之生成？",
+    "options": {
+      "A": "Aliskiren",
+      "B": "Hydrochlorothiazide",
+      "C": "Losartan",
+      "D": "Ramipril"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 66 題",
+    "question": "下列何種受體在交感神經末梢被活化後，會促進正腎上腺素的釋放？",
+    "options": {
+      "A": "α2",
+      "B": "β2",
+      "C": "Dopamine D2",
+      "D": "Muscarinic M2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 67 題",
+    "question": "下列何種藥物，最適合用於治療手術後尿滯留？",
+    "options": {
+      "A": "Atropine",
+      "B": "Bethanechol",
+      "C": "Pilocarpine",
+      "D": "Rivastigmine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 68 題",
+    "question": "下列何種藥物最不適合用於預防「運動引起的氣管痙攣（EIB）」？",
+    "options": {
+      "A": "Cromolyn",
+      "B": "Terbutaline",
+      "C": "Salmeterol",
+      "D": "Theophylline"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 69 題",
+    "question": "下列何種藥物具有抑制xanthine oxidase，用於治療慢性痛風？",
+    "options": {
+      "A": "Febuxostat",
+      "B": "Probenecid",
+      "C": "Sulfinpyrazone",
+      "D": "Colchicine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 70 題",
+    "question": "下列何種藥物可作為墮胎藥？",
+    "options": {
+      "A": "Alprostadil",
+      "B": "Dinoprostone",
+      "C": "Epoprostenol",
+      "D": "Iloprost"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 71 題",
+    "question": "Carbidopa與Levodopa合併用藥的原因為何？",
+    "options": {
+      "A": "抑制周邊Dopa decarboxylase",
+      "B": "增加3-O-Methyldopa的量",
+      "C": "增加Tyrosine hydroxylase的活性",
+      "D": "抑制周邊COMT的活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 72 題",
+    "question": "下列有關酒精藥理作用之描述，何者錯誤？",
+    "options": {
+      "A": "酒精可以經由胃腸道完全吸收",
+      "B": "經由靜脈注射的方式投與相同劑量的酒精時，女性血漿中的酒精濃度較男性高",
+      "C": "酒精的代謝作用為零級反應（zero-order kinetics）",
+      "D": "Acetaldehyde為酒精代謝的初級產物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 73 題",
+    "question": "下列何種藥物是屬於三價砷（arsenic），可用於治療 advanced African trypanosomiasis？",
+    "options": {
+      "A": "Dimercaprol",
+      "B": "Succimer",
+      "C": "Melarsoprol",
+      "D": "Ferroxamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 74 題",
+    "question": "有一位6歲小女孩在上課時經常發生目光呆滯、凝視等現象，經神經科醫師以腦波檢查發現 其腦波中會反覆性的出現spike-wave的波形。初步確認其為一種癲癇症兆，應選用下列何種 藥物治療最適宜？",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Valproic acid",
+      "C": "Phenytoin",
+      "D": "Diazepam"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 75 題",
+    "question": "【背景題幹：有一位6歲小女孩在上課時經常發生目光呆滯、凝視等現象，經神經科醫師以腦波檢查發現 其腦波中會反覆性的出現spike-wave的波形。初步確認其為一種癲癇症兆，應選用下列何種 藥物治療最適宜？】\n承上題，投予下列那一種抗癲癇藥物於此病童時，反而會增加其癲癇發作？",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Lamotrigine",
+      "C": "Phenytoin",
+      "D": "Ethosuximide"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

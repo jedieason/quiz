@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 51 題",
+    "question": "有位女士自助旅行回來發生下痢，給與止瀉藥物無法改善症狀，此患者可能因感染革蘭氏陰性桿菌所引起， 下列何者為治療此患者之首選藥物？",
+    "options": {
+      "A": "levofloxacin",
+      "B": "sulfacetamide",
+      "C": "trimethoprim",
+      "D": "vancomycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 52 題",
+    "question": "下列何種免疫抑制劑亦可用於冠狀動脈支架之包覆，藉其抑制細胞增生作用來防治術後冠狀動脈之再狹窄 （restenosis）？",
+    "options": {
+      "A": "cyclosporine",
+      "B": "tacrolimus（FK 506）",
+      "C": "sirolimus（rapamycin）",
+      "D": "azathioprine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 53 題",
+    "question": "Sulfonylureas類治療糖尿病藥物的主要作用機轉為何？",
+    "options": {
+      "A": "抑制胰島素被肝臟代謝分解",
+      "B": "促進胰島素的生合成及敏感性",
+      "C": "增加細胞的胰島素受體數目",
+      "D": "促進胰島素的分泌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 54 題",
+    "question": "那一種利尿劑會抑制遠端彎曲小管（distal convoluted tubule）$Na^+$/Cl - transporter而產生利尿作用？",
+    "options": {
+      "A": "acetazolamide",
+      "B": "triamterene",
+      "C": "thiazide",
+      "D": "bumetanide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 55 題",
+    "question": "下列何種治療氣喘的藥物，只適合用於預防性給藥，若氣喘已發作，給與此藥則無療效？",
+    "options": {
+      "A": "albuterol",
+      "B": "theophylline",
+      "C": "salmeterol",
+      "D": "nedocromil"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 56 題",
+    "question": "下列何種藥物無法預防或治療急性偏頭痛？",
+    "options": {
+      "A": "buspirone",
+      "B": "sumatriptan",
+      "C": "propranolol",
+      "D": "dihydroergotamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 57 題",
+    "question": "下列那一種器官對於由乙醇引起的病變程度最為重要？",
+    "options": {
+      "A": "胰臟",
+      "B": "心臟",
+      "C": "肺臟",
+      "D": "肝臟"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 58 題",
+    "question": "有關partial agonist 的敘述，下列何者正確？",
+    "options": {
+      "A": "partial agonist 對受體的binding affinity小於full agonist",
+      "B": "partial agonist 對受體的intrinsic efficacy小於full agonist",
+      "C": "partial agonist與full agonist一起合用時efficacy會相加成",
+      "D": "partial agonist較full agonist不易受拮抗劑的抑制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 59 題",
+    "question": "關於isoniazid之敘述，下列何者正確？",
+    "options": {
+      "A": "抑制結核分枝桿菌細胞膜之生成",
+      "B": "只能以靜脈注射方式治療肺結核",
+      "C": "主要由肝臟之N-acetyltransferase代謝",
+      "D": "易產生視神經病變的副作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 60 題",
+    "question": "孕婦不可使用下列抗生素的原因，下列何者正確？",
+    "options": {
+      "A": "erythromycin estolate易使胎兒第八對腦神經受損",
+      "B": "streptomycin易導致嬰兒軟骨受損",
+      "C": "sulfonamides易導致缺乏glucose-6-phosphate dehydrogenase之新生兒溶血作用而引起核黃疸",
+      "D": "tetracycline會導致灰嬰症候群（gray baby syndrome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 61 題",
+    "question": "下列何種抗生素可增加肝臟代謝速率，而使其他藥物之藥效降低？",
+    "options": {
+      "A": "chloramphenicol",
+      "B": "erythromycin",
+      "C": "ketoconazole",
+      "D": "rifampin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 62 題",
+    "question": "下列何者會先被病毒的thymidine kinase磷酸化而干擾病毒複製，因此對被感染的細胞具選擇性，主要用於治 療疱疹病毒（herpes viruses）的感染？",
+    "options": {
+      "A": "abacavir",
+      "B": "acyclovir",
+      "C": "amantadine",
+      "D": "azidothymidine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 63 題",
+    "question": "有位60歲停經的婦人，到醫院做腰椎、股骨、頸骨和髖骨的骨質密度檢查，結果發現這些骨骼都有低骨密度 的現象。下列何者最可能因慢性使用，而導致婦人的骨質疏鬆症？",
+    "options": {
+      "A": "lovastatin",
+      "B": "metformin",
+      "C": "propranolol",
+      "D": "prednisone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 64 題",
+    "question": "55歲男性被診斷出攝護腺腫大和血中攝護腺特有抗原（prostate specific antigen）上升，核磁共振檢查顯示在 下腹部有許多擴大的淋巴結，X光照射發現骨盆有兩個蝕骨性的病變。下列何者較適合被用來治療攝護腺腫 瘤？",
+    "options": {
+      "A": "oxandrolone",
+      "B": "desogestrel",
+      "C": "anastrozole",
+      "D": "flutamide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 65 題",
+    "question": "下列藥物何者適於治療隅角開放型青光眼（open-angle glaucoma）？",
+    "options": {
+      "A": "atropine",
+      "B": "betaxolol",
+      "C": "phentolamine",
+      "D": "tropicamide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 66 題",
+    "question": "經臨床使用藥物的分析調查後發現，小孩因病毒感染而使用某種藥物作為退燒時，易伴隨有Reye syndrome的 副作用。下列何種藥物產生此副作用的可能性最高？",
+    "options": {
+      "A": "acetaminophen",
+      "B": "aspirin",
+      "C": "sulindac",
+      "D": "ibuprofen"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 67 題",
+    "question": "關於抗帕金森病藥物（antiparkinson's drug）的敘述，下列何者正確？",
+    "options": {
+      "A": "carbidopa是dopamine的前驅藥物",
+      "B": "rasagiline是B型單胺氧化酶（monoamine oxidase B）的抑制劑",
+      "C": "pramipexole抑制dopamine受體",
+      "D": "benztropine促進神經末梢dopamine的釋放"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 68 題",
+    "question": "乙醇（酒精）可用於治療甲醇中毒，下列何者為最可能的機制？",
+    "options": {
+      "A": "加速甲醇從腎臟排除",
+      "B": "抑制甲醇毒性代謝物質的產生",
+      "C": "加速甲醇從肝臟代謝",
+      "D": "加速甲醇從呼吸道排除"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 69 題",
+    "question": "下列何者不是鴉片類藥物（opioids）的作用？",
+    "options": {
+      "A": "抗痙攣",
+      "B": "抑制咳嗽",
+      "C": "便秘",
+      "D": "瞳孔縮小"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 70 題",
+    "question": "下列藥物可用於治療急性無機汞鹽（inorganic mercury salts）中毒，何者錯誤？",
+    "options": {
+      "A": "unithiol",
+      "B": "dimercaprol",
+      "C": "succimer",
+      "D": "D-dimethylcysteine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 71 題",
+    "question": "下列抗癌藥物中，何者可抑制血管內皮生長因子（vascular endothelial growth factor）受體的活化而抑制癌細 胞生長及轉移？",
+    "options": {
+      "A": "cetuximab",
+      "B": "erlotinib",
+      "C": "sunitinib",
+      "D": "panitumumab"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 72 題",
+    "question": "臨床上使用G-CSF治療多發性骨髓瘤（multiple myeloma）過程中，可併服造血性幹細胞穩定藥物plerixafor， 以達較佳療效。試問此穩定藥物之作用機制為何？",
+    "options": {
+      "A": "強化JAK/STAT訊息活化",
+      "B": "促進G-CSF釋出",
+      "C": "抑制CXC chemokine receptor 4（CXCR4）",
+      "D": "提高G-CSF與接受體之結合效益"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 73 題",
+    "question": "在針對癌症治療之免疫療法上，下列藥物何者主要以單株抗體抑制腫瘤細胞表面PD-L1並能干擾T淋巴細胞內 PD-1之訊息作用，進而誘導上述淋巴細胞活化，提升監控及攻擊癌細胞等能力？",
+    "options": {
+      "A": "atezolizumab",
+      "B": "panitumumab",
+      "C": "ramucirumab",
+      "D": "rituximab"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 74 題",
+    "question": "反股寡核甘酸（antisense oligonucleotide）藥物mipomersen其主要用於治療同型性家族性高膽固醇血症 （homozygous familial hypercholesterolemia），藉由降低血中low density lipoprotein (LDL)含量以達降血脂療 效，下列何者為其主要之抑制標的？",
+    "options": {
+      "A": "PCSK9",
+      "B": "apoC-III",
+      "C": "apoB-100",
+      "D": "apoA-I"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 75 題",
+    "question": "降血脂藥Ezetimibe可抑制小腸吸收膽固醇（cholesterol），進而減少血中LDL含量。下列何者為此藥物之作用 標的？",
+    "options": {
+      "A": "HMG-CoA reductase",
+      "B": "apoB-100",
+      "C": "transport protein NPC1L1",
+      "D": "microsomal triglyceride transfer protein（MTP）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

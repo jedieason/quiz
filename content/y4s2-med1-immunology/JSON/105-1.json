@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 62 題",
+    "question": "下列何種細胞不是抗原呈獻細胞（antigen-presenting cell, APC）？",
+    "options": {
+      "A": "B細胞",
+      "B": "$CD4^+$ T細胞",
+      "C": "巨噬細胞（macrophage）",
+      "D": "蘭格翰細胞（Langerhans' cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 63 題",
+    "question": "有關抗體多變區（variable domain）重鏈與輕鏈基因在進行V(D)J片段重組 （recombination）時的順序，下列何者正確？",
+    "options": {
+      "A": "V-J joining早於V-D joining",
+      "B": "V-J joining早於D-J joining",
+      "C": "D-J joining早於V-J joining",
+      "D": "V-D joining早於D-J joining"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 64 題",
+    "question": "B細胞發育過程中第一個表現之抗體蛋白是：",
+    "options": {
+      "A": "δ重鏈（δ heavy chain）",
+      "B": "µ重鏈（µ heavy chain）",
+      "C": "κ輕鏈（κ light chain）",
+      "D": "λ輕鏈（λ light chain）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 65 題",
+    "question": "有關毒殺性T細胞（cytotoxic T lymphocyte，CTL）與自然殺手細胞（natural killer cell， NK）之敘述，何者正確？",
+    "options": {
+      "A": "CTL與NK皆可利用perforin及granzyme分子毒殺標的細胞",
+      "B": "NK需要辨認MHC class I與專一性抗原才可活化其毒殺機制",
+      "C": "CTL只需要辨認MHC class I本身即可活化其毒殺機制",
+      "D": "CTL與NK皆可分化變成記憶性細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 66 題",
+    "question": "對於剛成熟的B細胞（mature naive B cell）與記憶性B細胞的敘述，下列何者最正確？",
+    "options": {
+      "A": "成熟B細胞的細胞膜上有IgG抗體",
+      "B": "成熟B細胞已經結合辨識過抗原了",
+      "C": "記憶性B細胞存在於胸腺中數量最多",
+      "D": "記憶性B細胞產生的抗體通常較具高親和力"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 67 題",
+    "question": "樹突細胞可以誘導調節性T細胞的分化，下列那個分子與此功能無直接關聯？",
+    "options": {
+      "A": "IL-10",
+      "B": "TGF-β",
+      "C": "Indoleamine 2, 3 dioxygenase（IDO）",
+      "D": "IL-6"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 68 題",
+    "question": "Fas的基因剔除小鼠（gene knockout mice）會產生何種自體免疫病變？",
+    "options": {
+      "A": "發炎性腸道疾病（inflammatory bowel disease）",
+      "B": "淋巴球增生疾病（lymphoproliferative disease）",
+      "C": "類風濕性關節炎（rheumatoid arthritis）",
+      "D": "去髓鞘病變（demyelinating disease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 69 題",
+    "question": "偵測病毒雙股RNA的主要受器為下列何者？",
+    "options": {
+      "A": "Toll-like receptor 3",
+      "B": "Toll-like receptor 7",
+      "C": "Toll-like receptor 6",
+      "D": "Toll-like receptor 4"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 70 題",
+    "question": "最常見的性聯遺傳型嚴重混合性免疫缺損（XSCID）病患細胞中，產生基因突變的白血球分 子應該歸為於下列那一種類？",
+    "options": {
+      "A": "細胞激素接受體的訊息傳遞分子",
+      "B": "細胞骨架的組成分子",
+      "C": "細胞游走（migration）所需要的粘著分子",
+      "D": "血球產生活性氧自由基的酵素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 71 題",
+    "question": "有關結核菌素引發之過敏反應的敘述，下列何者最正確？",
+    "options": {
+      "A": "IgE為主要參與反應的抗體",
+      "B": "由活化之T淋巴細胞主導",
+      "C": "常於接種結核菌素後半小時內發作",
+      "D": "發現有大量嗜酸性球浸潤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 72 題",
+    "question": "由於體超突變機轉（somatic hypermutation）使得在發育中心（germinal center）的B淋巴 球能產生出對抗原結合性更高的抗體，但是此過程之中也偶而會有產生自體抗體的B淋巴 球，這時免疫系統如何處理？",
+    "options": {
+      "A": "這些產生自體抗體的B淋巴球，停留於發育中心並不離開，以便於將來遇到自體抗原時再 產生自體抗體",
+      "B": "這些產生自體抗體的B淋巴球，因與補體結合而活化增生",
+      "C": "這些產生自體抗體的B淋巴球，會遇到巨噬細胞而被清除",
+      "D": "這些產生自體抗體的B淋巴球，在缺乏T細胞幫助之下凋亡，因而被清除"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 73 題",
+    "question": "下列有關腫瘤抗原的敘述，何者錯誤？",
+    "options": {
+      "A": "突變後的self-antigens",
+      "B": "部分是胎兒時期表現的蛋白",
+      "C": "部分是正常的細胞生長因子接受器",
+      "D": "與抗原蛋白質之醣化修飾作用無關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 74 題",
+    "question": "類固醇藥物（corticosteroids）之作用，下列何者錯誤？",
+    "options": {
+      "A": "促進白血球（leukocytes）凋亡（apoptosis）",
+      "B": "促進細胞激素（cytokines）產生",
+      "C": "抑制白血球（leukocytes）遷移（migration）",
+      "D": "抑制前列腺素（prostaglandins）的產生"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

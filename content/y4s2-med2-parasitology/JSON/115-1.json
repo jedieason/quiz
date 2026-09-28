@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 29 題",
+    "question": "下列何種寄生蟲感染人體後，其第三期幼蟲會在橫紋肌形成囊體，臨床上此時期亦為診斷期（diagnostic  stage）？",
+    "options": {
+      "A": "犬蛔蟲（Toxocara canis）",
+      "B": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "C": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "D": "旋毛蟲（Trichinella spiralis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 30 題",
+    "question": "王先生赴中國江浙地區經商，期間經常食用醉蟹菜餚，返國一段時間後出現發燒、咳嗽且帶血稠痰，隨後經 痰液及糞便鏡檢而確診，據此病史最可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "衛氏肺吸蟲（Paragonimus westermani）",
+      "C": "薑片蟲（Fasciolopsis buski）",
+      "D": "橫川氏吸蟲（Metagonimus yokogawai）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 31 題",
+    "question": "李先生因頭痛、肌肉痙攣及視力急速減退而就醫，血液檢查有輕微的嗜伊紅性白血球（eosinophil）上升， 糞便檢查未發現任何寄生蟲蟲卵或蟲體，電腦斷層掃描（CT）和磁振造影（MRI）在腦實質組織、腦室發現許 多囊體（直徑4～15 毫米），患者先前曾被公司派駐墨西哥一年，他最可能罹患下列何種疾病？",
+    "options": {
+      "A": "幼裂絛蟲症（sparganosis）",
+      "B": "囊尾幼蟲症（cysticercosis）",
+      "C": "廣節裂頭絛蟲症（diphyllobothriasis latum）",
+      "D": "縮小包膜絛蟲症（hymenolepiasis diminuta）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 32 題",
+    "question": "下列有關陰道滴蟲症（vaginal trichomoniasis）之敘述，何者最不適當？",
+    "options": {
+      "A": "主要經由性行為傳播",
+      "B": "男性患者通常無明顯症狀，但有可能引起攝護腺炎",
+      "C": "metronidazole 為常用的有效治療藥物",
+      "D": "新生兒不會感染此症"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 33 題",
+    "question": "人巴貝氏原蟲症（human babesiosis）感染之最佳治療用藥為何？①青黴素（penicillin） ②四環素 （tetracycline） ③克林達黴素（clindamycin） ④奎寧（quinine）",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "②④",
+      "D": "③④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 34 題",
+    "question": "李先生到非洲旅遊時遭到某種蠅類叮咬，不久叮咬處發生下疳（chancre），後來併有發燒、後頸淋巴結腫大 等症狀，晚期於腦脊髓液中檢出的寄生蟲數亦高，他最可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "杜氏利什曼原蟲（Leishmania donovani）",
+      "B": "枯西氏錐蟲（Trypanosoma cruzi）",
+      "C": "布氏岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "惡性瘧原蟲（Plasmodium falciparum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 35 題",
+    "question": "有關黑水熱（blackwater fever）的敘述，下列何者最為適當？",
+    "options": {
+      "A": "為長期罹患瘧疾的臨床症狀，以卵形瘧原蟲（Plasmodium ovale）感染最為顯著",
+      "B": "因肝臟細胞受到瘧原蟲寄生，間接造成血小板低下（thrombocytopenia）所致",
+      "C": "血管內大量溶血併發血紅素尿（hemoglobinuria）所造成的症狀",
+      "D": "與患者體內IFN-γ受體損傷有關"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

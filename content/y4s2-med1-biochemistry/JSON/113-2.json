@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 74 題",
+    "question": "下列何種蛋白質純化方法的專一性（specificity）最好？",
+    "options": {
+      "A": "親合力層析法（affinity chromatography）",
+      "B": "離子交換層析法（ion-exchange chromatography）",
+      "C": "膠體過濾層析法（gel filtration chromatography）",
+      "D": "鹽析法（salting-out）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 75 題",
+    "question": "下列何種處理方法最容易破壞蛋白質結構中的雙硫鍵（disulfide bond）？",
+    "options": {
+      "A": "高溫（high temperature）",
+      "B": "強酸（low pH）",
+      "C": "加入還原劑（reducing agent）",
+      "D": "加入界面活性劑（detergent）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 76 題",
+    "question": "將Michaelis-Menten equation轉型作成的雙倒數圖（double reciprocal plot），稱為Lineweaver-Burk plot，其方程式：1/V0=Km/(Vmax[S])+1/Vmax，由此雙倒數圖要如何求得Km？",
+    "options": {
+      "A": "X軸的截距為其Km",
+      "B": "X軸截距的倒數為其Km",
+      "C": "X軸截距的倒數乘以-1為其Km",
+      "D": "Y軸截距的倒數乘以-1為其Km"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 77 題",
+    "question": "Alanine aminotransferase可將丙胺酸（alanine）轉換為丙酮酸（pyruvate），下列何者是此轉胺作用 （transamination）所需的輔酶？",
+    "options": {
+      "A": "NADPH",
+      "B": "NADH",
+      "C": "pyridoxal phosphate",
+      "D": "thiamine pyrophosphate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 78 題",
+    "question": "下列有關不同脂溶性vitamin性質與功能之敘述，何者錯誤？",
+    "options": {
+      "A": "vitamin D3作為類固醇激素，經代謝後可調節鈣和磷的體內平衡",
+      "B": "vitamin D3可經由陽光照射皮膚中的7-dehydrocholesterol來生成",
+      "C": "vitamin E具有抗氧化功能",
+      "D": "vitamin K參與血液凝結及$K^+$結合"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 79 題",
+    "question": "單股DNA的結構相當有彈性，可自我纏繞為多股的特殊構型以進行基因表達的調控。目前已知在端粒 （telomere）鳥嘌呤（guanine）含量較高之單股DNA以下列何種結構穩定存在於細胞內？",
+    "options": {
+      "A": "雙股DNA結構",
+      "B": "三股DNA結構",
+      "C": "四股DNA結構",
+      "D": "五股DNA結構"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 80 題",
+    "question": "輔酶coenzyme A結構中含有下列何種核苷酸？",
+    "options": {
+      "A": "尿嘧啶核苷酸（uracil nucleotide）",
+      "B": "胞嘧啶核苷酸（cytosin nucleotide）",
+      "C": "腺嘌呤核苷酸（adenine nucleotide）",
+      "D": "鳥嘌呤核苷酸（guanine nucleotide）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 81 題",
+    "question": "哺乳動物細胞中的DNA同源性重組（homologous recombination）過程，不需要下列何者？",
+    "options": {
+      "A": "BRCA1",
+      "B": "MRN complex",
+      "C": "RAD51",
+      "D": "RAG1/2"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 82 題",
+    "question": "大腸桿菌之Dam甲基化酶（Dam methylase）於DNA複製過程中的生物功能為何？",
+    "options": {
+      "A": "在尿嘧啶（uracil）上進行甲基化，轉變成胸腺嘧啶（thymine），進行DNA修復",
+      "B": "在胞嘧啶（cytosine）上進行甲基化，轉變成5-甲基胞嘧啶（5-methylcytosine）",
+      "C": "標記DNA，以作為DNA錯誤配對修復（mismatch repair）之模板股辨識",
+      "D": "將胸腺嘧啶（thymine）上的甲基移除"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 83 題",
+    "question": "光裂合酶（DNA photolyase）修復嘧啶二聚體（pyrimidine dimer）需要下列何種輔助因子（cofactor）？",
+    "options": {
+      "A": "輔酶A（coenzyme A）",
+      "B": "還原型黃素腺嘌呤二核苷酸（FADH–）",
+      "C": "磷酸吡哆醛（pyridoxal phosphate, PLP）",
+      "D": "輔酶Q（coenzyme Q）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 84 題",
+    "question": "下列有關細菌蛋白質初始合成（the initiation of protein synthesis）的敘述，何者錯誤？",
+    "options": {
+      "A": "fMet-tRNAfMet結合在核糖體（ribosome）的P位置",
+      "B": "factor IF3可以結合在核糖體（ribosome）的30s subunit",
+      "C": "mRNA之起始（5'）AUG，位於核糖體（ribosome）的A位置",
+      "D": "factor IF1結合在核糖體（ribosome）的A位置"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 85 題",
+    "question": "許多抗生素的作用機轉為抑制細菌中的蛋白質轉譯。下列何者不是抑制蛋白質轉譯作用的抗生素？",
+    "options": {
+      "A": "四環黴素（tetracycline）",
+      "B": "立汎黴素（rifampicin）",
+      "C": "紅黴素（erythromycin）",
+      "D": "鏈黴素（streptomycin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 86 題",
+    "question": "下列何者具有異位調控蛋白（allosteric protein）的特性？",
+    "options": {
+      "A": "操縱子（operator）",
+      "B": "抑制子（repressor）",
+      "C": "啟動子（promoter）",
+      "D": "誘導子（inducer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 87 題",
+    "question": "下列何者具有反轉錄酶（reverse transcriptase）之活性？",
+    "options": {
+      "A": "telomerase",
+      "B": "hammerhead ribozyme",
+      "C": "RNase P",
+      "D": "RNA polymerase Ⅲ"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 88 題",
+    "question": "下列有關pyruvate dehydrogenase（PDH）活性調控之敘述，何者錯誤？",
+    "options": {
+      "A": "NADH會抑制PDH活性",
+      "B": "acetyl-CoA會抑制PDH活性",
+      "C": "胰島素（insulin）會透過PDH phosphatase抑制PDH活性",
+      "D": "ATP會透過PDH kinase抑制PDH活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 89 題",
+    "question": "下列那兩種單醣分子互為變旋異構物（anomers）？",
+    "options": {
+      "A": "D-glucose和D-fructose",
+      "B": "D-glucose和D-mannose",
+      "C": "D-glucose和L-glucose",
+      "D": "α-D-glucose和β-D-glucose"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 90 題",
+    "question": "下列關於glucose在人類的紅血球中代謝的敘述，何者錯誤？",
+    "options": {
+      "A": "glucose代謝最終產物之一為lactic acid",
+      "B": "pyruvate可轉化為acetyl-CoA進一步代謝",
+      "C": "提供NADPH使glutathione保持還原狀態",
+      "D": "glucose也可以利用pentose phosphate途徑代謝"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 91 題",
+    "question": "下列何者不是造成未治療的第一型（type 1）糖尿病病人有ketoacidosis的原因？",
+    "options": {
+      "A": "草醯乙酸（oxaloacetate）太低",
+      "B": "酮體（ketone bodies）產生過多",
+      "C": "檸檬酸循環（TCA cycle）加速進行",
+      "D": "解脂作用（lipolysis）升高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 92 題",
+    "question": "下列關於細胞膜（plasma membrane）的敘述何者正確？",
+    "options": {
+      "A": "大多數細胞膜含有百分之七十以上的蛋白質",
+      "B": "膽固醇（cholesterol）普遍存在於細菌細胞膜中",
+      "C": "膽固醇（cholesterol）普遍存在於人類細胞膜中",
+      "D": "膽固醇（cholesterol）普遍存在於植物細胞膜中"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 93 題",
+    "question": "下列有關膽固醇（cholesterol）的敘述，何者錯誤？",
+    "options": {
+      "A": "膽固醇可經由ω-oxidation產生能量",
+      "B": "acetyl-CoA為膽固醇生合成的前驅物",
+      "C": "膽固醇為維生素D生合成的前驅物",
+      "D": "β-hydroxy-β-methylglutaryl-CoA（HMG-CoA）reductase的催化反應為膽固醇生合成的速率決定步驟"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 94 題",
+    "question": "下列何種胺基酸可代謝產生丙酮酸（pyruvate）及硫化氫（hydrogen sulfide, H2S）？",
+    "options": {
+      "A": "甲硫胺酸（methionine）",
+      "B": "半胱胺酸（cysteine）",
+      "C": "絲胺酸（serine）",
+      "D": "蘇胺酸（threonine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 95 題",
+    "question": "下列何種胺基酸可代謝為神經傳導物質γ-胺基丁酸（γ-aminobutyric acid, GABA）？",
+    "options": {
+      "A": "麩胺酸（glutamate）",
+      "B": "甲硫胺酸（methionine）",
+      "C": "蘇胺酸（threonine）",
+      "D": "丙胺酸（alanine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 96 題",
+    "question": "人類棕色脂肪組織（brown adipose tissue）中，thermogenin利用下列何種物質在粒線體內膜兩側的濃度 差，做為產熱的能量來源？",
+    "options": {
+      "A": "ATP",
+      "B": "氫離子（$H^+$）",
+      "C": "鈣離子（$Ca^{2+}$）",
+      "D": "鈉離子（$Na^+$）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 97 題",
+    "question": "Cyclin-dependent protein kinase（CDK）主要受下列何者抑制？",
+    "options": {
+      "A": "lamin",
+      "B": "myosin",
+      "C": "p21",
+      "D": "retinoblastoma（Rb）protein"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 98 題",
+    "question": "人體中nitric oxide由NO synthase生成時，需要何種胺基酸參與反應？",
+    "options": {
+      "A": "天門冬醯胺（asparagine）",
+      "B": "穀胺酸（glutamate）",
+      "C": "精胺酸（arginine）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 99 題",
+    "question": "磷脂酶C（phospholipase C）水解phosphatidylinositol 4,5-bisphosphate（PIP2），直接產生的次級訊 息傳遞者（second messenger）包括下列何者？",
+    "options": {
+      "A": "二醯基甘油（diacylglycerol）",
+      "B": "磷脂醯肌醇（phosphatidylinositol）",
+      "C": "cAMP",
+      "D": "cGMP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 100 題",
+    "question": "若要將兩個質體上的去氧核糖核酸（DNA）片段進行重組，下列何種酵素最可能被使用？",
+    "options": {
+      "A": "限制酶（restriction enzyme）",
+      "B": "核糖核酸聚合酶（RNA polymerase）",
+      "C": "反轉錄酶（reverse transcriptase）",
+      "D": "多核苷酸激酶（polynucleotide kinase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

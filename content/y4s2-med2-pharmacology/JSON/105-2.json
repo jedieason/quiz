@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 51 題",
+    "question": "有關於細胞訊息傳遞之機轉，下列何者錯誤？",
+    "options": {
+      "A": "脂溶性ligand可以直接穿越細胞膜，並且與細胞內receptor結合產生作用",
+      "B": "有些transmembrane receptor 本身即具有酵素活性，可以經由與ligand結合後活化",
+      "C": "有些transmembrane receptor與ligand結合後，可以活化protein tyrosine kinase",
+      "D": "NMDA glutamate receptor屬於GPCR（G-protein coupled receptor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 52 題",
+    "question": "下列何種藥物不適用於vancomycin-resistant Enterococcus faecium之感染治療？",
+    "options": {
+      "A": "linezolid",
+      "B": "tigecycline",
+      "C": "quinupristin-dalfopristin",
+      "D": "teicoplanin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 53 題",
+    "question": "下列抗癌藥中何者因可以和vascular endothelial growth factor（VEGF）結合，而抑制血管新生（angiogenesis），可作為治 療metastatic colorectal cancer之藥物？",
+    "options": {
+      "A": "bevacizumab",
+      "B": "cetuximab",
+      "C": "gefitinib",
+      "D": "imatinib"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 54 題",
+    "question": "下列何者為使用sulfonamides最常見副作用？",
+    "options": {
+      "A": "神經症狀如頭痛及嗜睡",
+      "B": "新生兒黃疸",
+      "C": "皮膚過敏反應",
+      "D": "肝炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 55 題",
+    "question": "下列何種藥物主要抑制腸細胞對cholesterol攝取作用，可與statin類藥物合用，以降低LDL之加成藥效？",
+    "options": {
+      "A": "Gemfibrozil",
+      "B": "Niacin",
+      "C": "Ezetimibe",
+      "D": "Cholestyramine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 56 題",
+    "question": "有關heparin之敘述，下列何者正確？",
+    "options": {
+      "A": "具有溶血栓活性",
+      "B": "可抑制血小板凝集反應",
+      "C": "可結合至antithrombin III，以達抗凝血活性",
+      "D": "可抑制肝臟中vitamin K之再生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 57 題",
+    "question": "有關vitamin D的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要經由皮膚在紫外線輻射下由7-脫氫膽固醇（7-dehydrocholesterol）轉化而來",
+      "B": "其活性代謝產物會增加血漿中鈣離子濃度",
+      "C": "其活性代謝產物會降低血漿中磷酸鹽（phosphate）濃度",
+      "D": "其衍生物19-nor-1α,25-dihydroxyvitamin D2具有抑制副甲狀腺激素（parathyroid hormone ; PTH）的釋放作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 58 題",
+    "question": "有關methimazole的藥理作用，下列何者錯誤？",
+    "options": {
+      "A": "主要透過抑制甲狀腺過氧化物酶催化反應（thyroid peroxidase-catalytic reaction）及碘有機化（iodine organification）的作 用，來抑制甲狀腺素（triiodothyronine及tetraiodothyronine）的合成",
+      "B": "會抑制週邊組織，將triiodothyronine及tetraiodothyronine進行脫碘化作用（deiodination）",
+      "C": "其藥效起始作用（onset）相當快速，通常在服藥後即可產生治療效果",
+      "D": "使用最常產生的副作用是斑丘疹搔癢皮疹（maculopapular pruritic rash）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 59 題",
+    "question": "有關liotrix的藥理作用描述，下列何者錯誤？",
+    "options": {
+      "A": "為L-thyroxine與liothyronine以10:1的比例組合而成的複合藥物",
+      "B": "具有治療甲狀腺功能低下症的藥理作用",
+      "C": "可以使用於懷孕婦女",
+      "D": "口服有效"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 60 題",
+    "question": "有關糖皮質激素（glucocorticoids）作用的敘述，下列何者錯誤？",
+    "options": {
+      "A": "糖皮質激素具有增加血中葡萄糖與脂肪酸之作用",
+      "B": "在空腹狀態糖皮質激素具有促進糖質新生（gluconeogenesis）的作用",
+      "C": "投予短效型糖皮質激素會減少循環系統中的嗜中性白血球（neutrophils）的數目，反之，淋巴細胞（lymphocytes）的數目會 增加",
+      "D": "糖皮質激素直接塗抹在皮膚表面會造成局部血管收縮的作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 61 題",
+    "question": "若急性心衰竭病人同時有血鈉過低之症狀，則下列何種藥物是最佳選擇？",
+    "options": {
+      "A": "spironolactone",
+      "B": "losartan",
+      "C": "conivaptan",
+      "D": "eplerenone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 62 題",
+    "question": "下列那一種利尿劑對腎因性尿崩症（nephrogenic diabetes insipidus）可減少其多尿及煩渴之症狀？",
+    "options": {
+      "A": "amiloride",
+      "B": "torsemide",
+      "C": "hydrochlorothiazide",
+      "D": "brinzolamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 63 題",
+    "question": "下列關於 organic nitrates 之敘述何者錯誤？",
+    "options": {
+      "A": "可使心室 ejection time 增加",
+      "B": "可能引發心搏過速，以及鈉離子和水分滯留問題",
+      "C": "可使靜脈擴張，血液回流減少，降低心臟的前負荷（pre-load）",
+      "D": "可使冠狀動脈擴張，血流重分布至缺血區，改善心絞痛症狀"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 64 題",
+    "question": "副交感神經系統興奮會產生下列何種直接反應？",
+    "options": {
+      "A": "支氣管舒張",
+      "B": "骨骼肌血管舒張",
+      "C": "眼睛睫狀肌收縮",
+      "D": "皮膚豎毛肌收縮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 65 題",
+    "question": "下列何種藥物的藥理作用機轉，是抑制膽鹼性神經釋放乙醯膽鹼？",
+    "options": {
+      "A": "amphetamine",
+      "B": "botulinum toxin",
+      "C": "cocaine",
+      "D": "tubocurarine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 66 題",
+    "question": "下列何種藥物適合以靜脈注射方式，用於治療急性且嚴重的氣喘或是慢性肺阻塞（COPD）的病人？",
+    "options": {
+      "A": "cromolyn",
+      "B": "tiotropium",
+      "C": "montelukast",
+      "D": "methylprednisolone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 67 題",
+    "question": "小孩患有氣喘，當發作時，須使用吸入性藥物來緩解或控制時，通常不建議使用下列何種藥物，以免影響其生長？",
+    "options": {
+      "A": "β2-agonists",
+      "B": "corticosteroids",
+      "C": "leukotrienes antagonists",
+      "D": "antimuscarinic agents"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 68 題",
+    "question": "下列何種non-steroid anti-inflammatory drugs（NSAIDs）藥物，主要是具有止痛作用，有時用來取代morphine，作為病人手 術後的止痛劑？",
+    "options": {
+      "A": "indomethacin",
+      "B": "ibuprofen",
+      "C": "ketoprofen",
+      "D": "ketorolac"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 69 題",
+    "question": "下列non-steroid anti-inflammatory drugs （NSAIDs）藥物，何者不具有抗發炎作用？",
+    "options": {
+      "A": "acetaminophen",
+      "B": "etodolac",
+      "C": "ketoprofen",
+      "D": "naproxen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 70 題",
+    "question": "下列何者非carbamazepine的臨床適應症？",
+    "options": {
+      "A": "癲癇（epilepsy）",
+      "B": "三叉神經痛（trigeminal neuralgia）",
+      "C": "憂鬱症（depression）",
+      "D": "躁狂症（mania）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 71 題",
+    "question": "下列何者為benzodiazepine的競爭性拮抗劑？",
+    "options": {
+      "A": "pralidoxime",
+      "B": "guanethidine",
+      "C": "flumazenil",
+      "D": "paraldehyde"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 72 題",
+    "question": "使用下類那一種治療巴金森氏症藥物時，尿液及唾液經常會呈現褐色的狀況？",
+    "options": {
+      "A": "selegiline",
+      "B": "levodopa",
+      "C": "amantadine",
+      "D": "bromocriptine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 73 題",
+    "question": "下列何者中毒時，在臨床上可用其抗體當作解毒劑？",
+    "options": {
+      "A": "cyanide",
+      "B": "benzodiazepines",
+      "C": "digoxin",
+      "D": "isoniazid"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 74 題",
+    "question": "60歲的癲癇病人，服用下列某一種抗癲癇藥物，在剛開始服用的前兩週其效果不錯，但服用四週後開始出現偶發性癲癇的發 作，在進行血中藥物濃度檢測後，發現其藥物濃度隨服藥期間的延長而逐漸的遞減，可能服用下列那一種抗癲癇藥物？",
+    "options": {
+      "A": "gabapentin",
+      "B": "ethosuximide",
+      "C": "carbamazepine",
+      "D": "primidone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 75 題",
+    "question": "【背景題幹：60歲的癲癇病人，服用下列某一種抗癲癇藥物，在剛開始服用的前兩週其效果不錯，但服用四週後開始出現偶發性癲癇的發 作，在進行血中藥物濃度檢測後，發現其藥物濃度隨服藥期間的延長而逐漸的遞減，可能服用下列那一種抗癲癇藥物？】\n承上題，其發生的可能原因為何？",
+    "options": {
+      "A": "個體對於此藥物的敏感性差異所產生之結果",
+      "B": "此藥物在長期使用後可能因為體內作用之受體數目減少，因此藥效遞減",
+      "C": "此藥物在長期使用後可能因為誘發肝臟代謝酵素活性的升高，因此藥效遞減",
+      "D": "此藥物在長期使用後可能因為抑制代謝此藥物之體內酵素活性，因此藥效遞減"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

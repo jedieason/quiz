@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 29 題",
+    "question": "下列何者不是由受精卵發育而來？",
+    "options": {
+      "A": "臍帶（umbilical cord）",
+      "B": "羊膜（amnion）",
+      "C": "蛻膜（decidua）",
+      "D": "絨毛膜（chorion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 30 題",
+    "question": "下列何器官完全由間葉細胞（mesenchymal cell）衍生而來？",
+    "options": {
+      "A": "脾臟（spleen）",
+      "B": "膽囊（gallbladder）",
+      "C": "闌尾（appendix）",
+      "D": "空腸（jejunum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 31 題",
+    "question": "心包腔（pericardial cavity）和胸膜腔（pleural cavity）的完全分隔是因原始縱膈（primitive mediastinum）和下 列何者的融合所造成？",
+    "options": {
+      "A": "胸腹膜（pleuroperitoneal membrane）",
+      "B": "胃背繫膜（dorsal mesogastrium）",
+      "C": "食道繫膜（mesoesophagus）",
+      "D": "胸心包膜（pleuropericardial membrane）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 32 題",
+    "question": "下列關於多指異常（polydactylia）的敘述，何者正確？",
+    "options": {
+      "A": "屬顯性遺傳",
+      "B": "好發於中間的手指",
+      "C": "為一罕見的先天性發育異常",
+      "D": "各指皆有正常的功能"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

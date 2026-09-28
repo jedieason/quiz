@@ -1,0 +1,309 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 26 題",
+    "question": "蛋白質中的平行鏈（parallel β-stranded）結構比反平行鏈（antiparallel β-stranded）結構較 不穩定，原因為何？",
+    "options": {
+      "A": "平行鏈結構的横向相鄰鏈之間所形成的氫鍵鍵結較弱",
+      "B": "平行鏈結構缺少雙硫鍵（disulfide bond）與鄰近的鏈鍵結",
+      "C": "平行鏈結構不能如反平行鏈堆疊（stacking）成β-折疊層（β-sheet）",
+      "D": "平行鏈結構缺少蛋白質-蛋白質結合區域（protein-protein binding domain）以穩定平行鏈 結構"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 27 題",
+    "question": "青黴素（penicillin）的殺菌作用是因為它能抑制下列何種酵素的活性？",
+    "options": {
+      "A": "內醯胺酶（β-lactamase）",
+      "B": "轉肽基酶（transpeptidase）",
+      "C": "接合酶（ligase）",
+      "D": "醛縮酶（aldolase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 28 題",
+    "question": "在水溶液的pH值低於胺基酸的pI值時，該胺基酸的主要性質為何？",
+    "options": {
+      "A": "呈淨負電荷",
+      "B": "呈淨正電荷",
+      "C": "呈中性",
+      "D": "呈正、負電荷等量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 29 題",
+    "question": "一位30歲女性主訴有牙齒鬆動、傷口不易癒合等症狀，口腔理學檢查發現牙齦浮腫、牙齦泛 紫。根據病史，此病患最可能有下列何種維生素缺乏？",
+    "options": {
+      "A": "維生素B1",
+      "B": "維生素B12",
+      "C": "維生素C",
+      "D": "維生素A"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 30 題",
+    "question": "RNA降解後，CMP與UMP主要會被代謝成下列那一個中間產物？",
+    "options": {
+      "A": "β-aminoisobutyrate",
+      "B": "thymine",
+      "C": "uracil",
+      "D": "hypoxanthine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 31 題",
+    "question": "核酸去嘌呤作用（depurination of nucleotides）是破壞在連接鹼基（base residues）與核糖 （ribose）的化學鍵。這個化學鍵稱為：",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "糖苷鍵（N-β-glycosyl bond）",
+      "C": "磷酸二酯鍵（phosphodiester bond）",
+      "D": "醯胺鍵（amide bond）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 32 題",
+    "question": "艾姆氏測試法（Ames test）可用於評估：",
+    "options": {
+      "A": "細菌之致病性",
+      "B": "DNA複製的速率",
+      "C": "抗生素的藥效",
+      "D": "化合物致突變性的能力"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 33 題",
+    "question": "下列對Okazaki片段的敘述，何者正確？",
+    "options": {
+      "A": "由於內切酶（endonuclease）作用後所產生的DNA片段",
+      "B": "存在於30S核糖體次單元（ribosomal subunit）中的RNA片段",
+      "C": "是DNA複製時發生在合成lagging strand的中間產物",
+      "D": "意指由3'→ 5'合成的DNA片段"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 34 題",
+    "question": "關於mRNA穩定性的描述，下列何者正確？",
+    "options": {
+      "A": "mRNA降解的程序主要是從5'到3'的方向",
+      "B": "一般而言，細菌mRNA的半衰期較真核細胞mRNA長",
+      "C": "一般而言，mRNA降解的速率最少10倍於其合成的速率",
+      "D": "在真核細胞中，mRNA的5'cap和3'poly(A) tail可增加其穩定性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 35 題",
+    "question": "下列何種突變會使轉譯（translation）過程中蛋白質的合成提前結束？",
+    "options": {
+      "A": "silent mutation",
+      "B": "missense mutation",
+      "C": "suppressor mutation",
+      "D": "nonsense mutation"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 36 題",
+    "question": "胺醯-tRNA合成酶（aminoacyl-tRNA synthetases）是一種活化胺基酸的酵素，其特徵為 何？",
+    "options": {
+      "A": "能辨認特定的tRNA及胺基酸，促進胺醯-tRNA的合成",
+      "B": "需要會同其他酵素將胺基酸結合到特定的tRNA上",
+      "C": "需要以GTP活化胺基酸後，始能進行胺醯-tRNA的合成",
+      "D": "可以將胺基酸直接與tRNA 3'-端結合而形成胺醯-tRNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 37 題",
+    "question": "下列那一種蛋白質具有抑制細胞凋亡（apoptosis）之功能？",
+    "options": {
+      "A": "Bak",
+      "B": "Bax",
+      "C": "Bcl-2",
+      "D": "FASL"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 38 題",
+    "question": "下列關於紅血球醣代謝之敘述，何者正確？",
+    "options": {
+      "A": "由糖解作用（glycolysis）產生的ATP是紅血球主要的能量來源",
+      "B": "紅血球中糖解作用（glycolysis）除用於產生能量外並無其他功能",
+      "C": "克氏循環（TCA cycle）會消耗少部分紅血球所攜帶的氧氣",
+      "D": "紅血球中五碳糖磷酸途徑（pentose phosphate pathway）係在粒線體中進行"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 39 題",
+    "question": "用餐後血糖進入肝細胞及骨骼肌細胞轉換成肝糖（glycogen），葡萄糖以下列何種型式直接 參與肝糖合成？",
+    "options": {
+      "A": "glucose 1-phosphate",
+      "B": "glucose 6-phosphate",
+      "C": "CMP-glucose",
+      "D": "UDP-glucose"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 40 題",
+    "question": "百米選手在激烈運動下，骨骼肌內之糖解作用（glycolysis）所產生的NADH，最主要經由下 列何種反應再氧化生成NAD+？",
+    "options": {
+      "A": "α-ketoglutarate反應成為succinyl-CoA",
+      "B": "pyruvate反應成為lactate",
+      "C": "coenzyme Q反應成為cytochrome b",
+      "D": "pyruvate反應成為acetyl-CoA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 41 題",
+    "question": "在胰臟β細胞中，下列那個酵素所催化的反應速率會隨血糖上升而明顯提高，且其下游產物 能促進胰島素（insulin）的分泌？",
+    "options": {
+      "A": "glycogen synthase",
+      "B": "glucokinase（或稱hexokinase IV）",
+      "C": "phosphorylase kinase",
+      "D": "glycogen phosphorylase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 42 題",
+    "question": "下列何者與促進細胞攝取血液中膽固醇有關？",
+    "options": {
+      "A": "Apo B-100",
+      "B": "Apo C-I",
+      "C": "Apo C-II",
+      "D": "lipoprotein lipase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 43 題",
+    "question": "下列何者不屬於穿膜蛋白-細菌視紫蛋白（bacteriorhodopsin）的特性？",
+    "options": {
+      "A": "它是利用7個α-螺旋結構形成的通道穿過細胞膜",
+      "B": "它是利用單一的β-螺旋結構穿過細胞膜",
+      "C": "它是藉由穿膜結構與retinal分子結合",
+      "D": "它具有光驅動質子運輸（light-driven proton transport）的功能"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 44 題",
+    "question": "一種體染色體顯性（autosomal dominant）遺傳疾病稱為familial hyper-cholesterolemia乃是 因為low density lipoprotein（LDL）receptor突變所致。下列有關LDL的敘述，何者正確？",
+    "options": {
+      "A": "LDL receptor只存在肝細胞上",
+      "B": "LDL中的膽固醇經由LDL receptor之作用，可提供肝細胞合成bile salts",
+      "C": "LDL所含的脂肪以triglyceride為主",
+      "D": "LDL是直接由肝臟製造分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 45 題",
+    "question": "體內苯丙胺酸羥化酶（phenylalanine hydroxylase）活性的缺失會導致苯丙酮酸尿症 （phenylketonuria），此疾病患者會出現下列何種症狀？",
+    "options": {
+      "A": "患者無法自行合成足夠的酪胺酸（tyrosine）",
+      "B": "患者尿液中會出現大量的色胺酸（tryptophan）",
+      "C": "患者會對苯丙胺酸（phenylalanine）過敏",
+      "D": "患者腸道無法吸收足夠的苯丙胺酸（phenylalanine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 46 題",
+    "question": "下列那一種胺基酸是腎上腺素（epinephrine）和正腎上腺素（norepinephrine）生合成的前 驅物？",
+    "options": {
+      "A": "arginine",
+      "B": "histidine",
+      "C": "tyrosine",
+      "D": "tryptophan"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 47 題",
+    "question": "下列何者屬於脂溶性的電子傳遞者？",
+    "options": {
+      "A": "cytochrome c",
+      "B": "NADH",
+      "C": "FADH2",
+      "D": "coenzyme Q"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 48 題",
+    "question": "原始致癌基因（proto-oncogenes）能夠透過下列機制轉變為致癌基因（oncogenes），何者 除外？",
+    "options": {
+      "A": "化學性誘導突變（chemical-induced mutation）",
+      "B": "染色體重組",
+      "C": "病毒感染",
+      "D": "其啟動區（promoter region）發生突變導致該蛋白質合成量下降"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 49 題",
+    "question": "有關胰島素（insulin）基因所合成的前激素原（preprohormone）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "胰島素的前激素原必須在內質網（endoplasmic reticulum）合成",
+      "B": "胰島素之A鏈或B鏈分別由兩個基因轉錄轉譯而來",
+      "C": "胰島素由多胜肽前驅物經蛋白裂解（proteolytic cleavage）產生",
+      "D": "合成後進入分泌顆粒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 50 題",
+    "question": "下列那一種分析方法可用於研究蛋白質之交互作用？",
+    "options": {
+      "A": "DNA microarray analysis",
+      "B": "Northern blotting",
+      "C": "Southern blotting",
+      "D": "Two-hybrid analysis"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

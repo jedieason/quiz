@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 33 題",
+    "question": "具有緊密接合（tight junction）並形成血－睪障壁（blood-testis barrier）的細胞是：",
+    "options": {
+      "A": "萊迪氏細胞（Leydig cell）",
+      "B": "塞托利氏細胞（Sertoli cell）",
+      "C": "管周邊細胞（peritubular cell）",
+      "D": "產精細胞（spermatogenic cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 34 題",
+    "question": "下列何者不具有過渡型上皮細胞（transitional epithelium）？",
+    "options": {
+      "A": "輸尿管（ureter）",
+      "B": "膀胱（urinary bladder）",
+      "C": "前列腺段尿道（prostatic urethra）",
+      "D": "陰莖段尿道（penile urethra）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 35 題",
+    "question": "有關眼球之角膜（cornea），下列敘述何項錯誤？",
+    "options": {
+      "A": "角膜不具有神經末梢（nerve ending）",
+      "B": "角膜的所有代謝交換（metabolic exchange）主要發生於角膜內皮（corneal endothelium）",
+      "C": "角膜包括五層結構，其中Descemet’s membrane 與Bowman’s membrane 屬於非細胞層",
+      "D": "角膜上皮（corneal epithelium）細胞具有很高之再生能力（regenerative capacity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 36 題",
+    "question": "腎素（renin）主要由下列那一細胞產生與釋放？",
+    "options": {
+      "A": "緻密斑細胞（macula densa cells）",
+      "B": "絲球體外環間細胞（extraglomerular mesangial cells）",
+      "C": "足細胞（podocytes）",
+      "D": "絲球體旁細胞（juxtaglomerular cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 37 題",
+    "question": "下列各消化管道當中，何者之上皮含最多杯狀細胞？",
+    "options": {
+      "A": "胃",
+      "B": "結腸",
+      "C": "食道",
+      "D": "十二指腸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 38 題",
+    "question": "下列有關破骨細胞（osteoclasts）的敘述何者正確？",
+    "options": {
+      "A": "是多核細胞",
+      "B": "位於骨膜內（periosteum）",
+      "C": "分泌骨基質",
+      "D": "細胞質為強嗜鹼性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 39 題",
+    "question": "對中型靜脈的敘述，下列何者錯誤？",
+    "options": {
+      "A": "其瓣膜為半月狀",
+      "B": "瓣膜由平滑肌構成",
+      "C": "瓣膜主要由結締組織形成軸心，外覆蓋內皮細胞",
+      "D": "腿部的中型靜脈常具瓣膜"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 40 題",
+    "question": "黏著小帶（zonula adherens）的細胞膜內側，有何種主要細胞骨架附著？",
+    "options": {
+      "A": "微絲（microfilaments）",
+      "B": "中間絲（intermediate filaments）",
+      "C": "微小管（microtubule）",
+      "D": "膠原纖維（collagen fibers）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 42 題",
+    "question": "有關神經元細胞體的位置，下列敘述何者正確？①灰質 ②白質 ③神經節 ④周邊神經纖維",
+    "options": {
+      "A": "①④",
+      "B": "①③",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

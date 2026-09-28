@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 32 題",
+    "question": "若孕婦將著床出血誤認為月經出血，而估算出預產期為7 月1 日，正確的預產期為何？",
+    "options": {
+      "A": "比7 月1 日早一週",
+      "B": "比7 月1 日晚一週",
+      "C": "比7 月1 日晚兩週",
+      "D": "比7 月1 日早兩週"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 33 題",
+    "question": "胎兒的肺臟（lung）發育至下列那一時期發生早產，即使小心照護也無法存活（survive）？",
+    "options": {
+      "A": "偽腺期（pseudoglandular stage）",
+      "B": "末囊期（terminal sac stage）",
+      "C": "小管期（canalicular stage）",
+      "D": "肺泡期（alveolar stage）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 34 題",
+    "question": "下列關於胰臟（pancreas）發育的敘述，何者正確？",
+    "options": {
+      "A": "由中胚層發育衍生出背胰芽（dorsal pancreatic buds）和腹胰芽（ventral pancreatic buds）",
+      "B": "當十二指腸旋轉至左側時，會使背胰芽（dorsal pancreatic buds）轉至後側和十二指腸前方的腹胰芽 （ventral pancreatic buds）癒合，形成胰臟",
+      "C": "腹胰芽（ventral pancreatic buds）主要發育為胰臟的鉤狀突（uncinate process）以及部分的頭端",
+      "D": "環狀胰臟（annular pancreas）為常見的消化道缺陷，主要會造成胃阻塞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 35 題",
+    "question": "胚胎正常發育時，奇靜脈根部（root of azygos vein）的起源是：",
+    "options": {
+      "A": "後主靜脈（posterior cardinal vein）",
+      "B": "總主靜脈（common cardinal vein）",
+      "C": "前主靜脈（anterior cardinal vein）",
+      "D": "下主靜脈（subcardinal vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 36 題",
+    "question": "嚼肌（masseter）主要是源自下列何者？",
+    "options": {
+      "A": "第一咽弓（first pharyngeal arch）",
+      "B": "第二咽弓（second pharyngeal arch）",
+      "C": "第三咽弓（third pharyngeal arch）",
+      "D": "第四及第六咽弓（fourth and sixth pharyngeal arches）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 1 題",
+    "question": "顏面神經的感覺根（sensory root of facial nerve）主要將接收到的感覺訊息直接傳入下列腦幹內的那兩個 神經核？",
+    "options": {
+      "A": "三叉神經脊髓核（spinal trigeminal nucleus）與孤立核（solitary nucleus）",
+      "B": "三叉神經脊髓核（spinal trigeminal nucleus）與顏面運動神經核（facial motor nucleus）",
+      "C": "疑核（nucleus ambiguus）與孤立核（solitary nucleus）",
+      "D": "疑核（nucleus ambiguus）與涎核（salivatory nucleus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 2 題",
+    "question": "下列何者含有小腦的傳入神經纖維（afferent fibers），但不含傳出神經纖維（efferent fibers）？",
+    "options": {
+      "A": "上小腦腳（superior cerebellar peduncle）",
+      "B": "中小腦腳（middle cerebellar peduncle）",
+      "C": "下小腦腳（inferior cerebellar peduncle）",
+      "D": "上小腦腳交叉（decussation of superior cerebellar peduncle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 3 題",
+    "question": "下肢本體感覺（propioception）經由內側蹄系（medial lemniscus）主要傳入丘腦（thalamus）何處？",
+    "options": {
+      "A": "腹前側核（ventral anterior nuclei）",
+      "B": "腹外側核（ventral lateral nuclei）",
+      "C": "腹後外側核（ventral posterior lateral nuclei）",
+      "D": "腹後內側核（ventral posterior medial nuclei）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 4 題",
+    "question": "杏仁核（amygdala）以何構造與隔區（septal area）相連結？",
+    "options": {
+      "A": "終紋（stria terminalis）",
+      "B": "穹窿（fornix）",
+      "C": "前腦內側束（medial forebrain bundle）",
+      "D": "內側縱束（medial longitudinal fasciculus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 5 題",
+    "question": "關於伸張反射（stretch reflex）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "其傳入纖維（afferent fiber），主要來自肌梭（muscle spindle）",
+      "B": "其傳入纖維（afferent fiber），主要為大型髓鞘神經纖維",
+      "C": "下運動神經元（lower motor neuron）損傷，可能導致伸張反射消失",
+      "D": "伸張反射為多突觸反射（multi-synaptic reflex）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 6 題",
+    "question": "下列何者不位於視網膜到大腦皮質的視覺傳導路徑（visual pathway）上？",
+    "options": {
+      "A": "外側膝狀體（lateral geniculate body）",
+      "B": "視徑（optic tract）",
+      "C": "上丘（superior colliculus）",
+      "D": "視神經（optic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 7 題",
+    "question": "下列有關三塊聽小骨的結構，何者錯誤？",
+    "options": {
+      "A": "錘骨（malleus）外側突（lateral process）附著於鼓膜（tympanic membrane）",
+      "B": "鼓索神經（chorda tympani）行經砧骨（incus）長支與鐙骨（stapes）之間",
+      "C": "砧骨（incus）主體位於鼓室上隱窩（epitympanic recess）",
+      "D": "鐙骨（stapes）基部連結至卵圓窗（oval window）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 8 題",
+    "question": "關於眼眶內部之骨性結構的描述，下列何者最不恰當？",
+    "options": {
+      "A": "滑車小窩（trochlear fovea）位於額骨",
+      "B": "淚腺窩（fossa of lacrimal gland）位於眼眶內側壁",
+      "C": "眶上孔（supraorbital foramen）位於額骨",
+      "D": "視神經管（optic canal）位於蝶骨"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 9 題",
+    "question": "下列關於外頸動脈（external carotid artery）的描述，何者最恰當？",
+    "options": {
+      "A": "近甲狀軟骨下緣的水平高度處由總頸動脈分支出",
+      "B": "近環狀軟骨水平高度處分支出甲狀下動脈（inferior thyroid artery）",
+      "C": "位於胸鎖乳突肌（sternocleidomastoid muscle）之上",
+      "D": "近舌骨體水平高度處分支出舌動脈（lingual artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 10 題",
+    "question": "下列何者不經由動眼神經（oculomotor nerve）來執行？",
+    "options": {
+      "A": "睫狀體收縮",
+      "B": "瞳孔收縮",
+      "C": "眼球向內側注視",
+      "D": "瞳孔擴張"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 11 題",
+    "question": "下列何者不由顏面神經（facial nerve）支配？",
+    "options": {
+      "A": "頰肌（buccinator muscle）",
+      "B": "內翼肌（medial pterygoid muscle）",
+      "C": "闊頸肌（platysma）",
+      "D": "二腹肌後腹（posterior belly of the digastric muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 12 題",
+    "question": "下列何孔洞位於眶上裂（superior orbital fissure）後側尾端，靠近蝶竇（sphenoidal sinus）的外壁？",
+    "options": {
+      "A": "後篩孔（posterior ethmoidal foramen）",
+      "B": "圓孔（foramen rotundum）",
+      "C": "乳突孔（mastoid foramen）",
+      "D": "視神經管（optic canal）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 13 題",
+    "question": "下列何者是第十對腦神經（CN X）的支配範疇？",
+    "options": {
+      "A": "唾液腺的分泌",
+      "B": "耳咽管的痛覺",
+      "C": "會厭軟骨（epiglottis）上的味覺",
+      "D": "胸鎖乳突肌（sternocleidomastoid muscle）的收縮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 14 題",
+    "question": "下列何者附著於舌骨（hyoid bone）？",
+    "options": {
+      "A": "上咽縮肌（superior pharyngeal constrictor muscle）",
+      "B": "中咽縮肌（middle pharyngeal constrictor muscle）",
+      "C": "下咽縮肌（inferior pharyngeal constrictor muscle）",
+      "D": "莖突咽肌（stylopharyngeus muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 15 題",
+    "question": "在解剖位置，心臟的前面（anterior surface）絕大部分面積是由下列那一個腔室所占據？",
+    "options": {
+      "A": "左心房",
+      "B": "左心室",
+      "C": "右心房",
+      "D": "右心室"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 16 題",
+    "question": "在肋軟骨內面（inner side），肋間神經主要的解剖位置為何？",
+    "options": {
+      "A": "位於肋間內肌（internal intercostal muscle）與胸內筋膜（endothoracic fascia）或胸橫肌 （transversus thoracic muscle）之間",
+      "B": "位於肋間外肌（external intercostal muscle）與肋間內肌（internal intercostal muscle）之間",
+      "C": "位於肋間內肌（internal intercostal muscle）與最內肋間肌（innermost intercostal muscle）之間",
+      "D": "位於最內肋間肌（innermost intercostal muscle）與胸內筋膜（endothoracic fascia）之間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 17 題",
+    "question": "有關肺動脈（pulmonary artery）的常見解剖位置，下列敘述何者最恰當？",
+    "options": {
+      "A": "肺動脈幹（pulmonary trunk）的開口處，位在升主動脈（ascending aorta）基部的右後方",
+      "B": "右側肺動脈（pulmonary artery）位在升主動脈（ascending aorta）的後方",
+      "C": "左側肺動脈（pulmonary artery）位在降主動脈（descending aorta）的後方",
+      "D": "肺動脈幹（pulmonary trunk）不被心包膜（pericardium）所包覆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 18 題",
+    "question": "典型腰椎下關節突（inferior articular process）的關節面朝向：",
+    "options": {
+      "A": "上方",
+      "B": "內側",
+      "C": "下方",
+      "D": "外側"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 19 題",
+    "question": "主胰管（main pancreatic duct）及膽管（bile duct）會藉由何種結構共同開口於十二指腸下降段 （descending part of duodenum）？",
+    "options": {
+      "A": "肝管（hepatic duct）",
+      "B": "大十二指腸乳頭（major duodenal papilla）",
+      "C": "小十二指腸乳頭（minor duodenal papilla）",
+      "D": "膽囊管（cystic duct）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 20 題",
+    "question": "腹膜包覆下列何種結構形成臍外側韌帶（lateral umbilical fold）？",
+    "options": {
+      "A": "臍靜脈（umbilical vein）",
+      "B": "輸尿管（ureter）",
+      "C": "下腹壁動脈（inferior epigastric artery）",
+      "D": "內髂動脈（internal iliac artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 21 題",
+    "question": "下列何者攜帶交感節前神經纖維？",
+    "options": {
+      "A": "頸內動脈神經（internal carotid nerve）",
+      "B": "心神經（cardiac nerve）",
+      "C": "大內臟神經（greater splanchnic nerve）",
+      "D": "骨盆內臟神經（pelvic splanchnic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 22 題",
+    "question": "下列何者不發出分支供應腎上腺（suprarenal gland）？",
+    "options": {
+      "A": "膈下動脈（inferior phrenic artery）",
+      "B": "腹主動脈（abdominal aorta）",
+      "C": "睪丸動脈（testicular artery）",
+      "D": "腎動脈（renal artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 23 題",
+    "question": "關於肛管（anal canal），下列敘述何者正確？",
+    "options": {
+      "A": "肛管的長度大約10 至15 公分",
+      "B": "肛門內括約肌（internal anal sphincter）由平滑肌構成，圍繞在肛管下端的肛門（anus）周圍",
+      "C": "交感神經纖維（sympathetic fibers）刺激肛門內括約肌（internal anal sphincter）收縮",
+      "D": "肛門外括約肌（external anal sphincter）只圍繞肛管的上段，不圍繞肛管的下段"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 24 題",
+    "question": "關於陰部神經（pudendal nerve），下列敘述何者錯誤？",
+    "options": {
+      "A": "陰部神經起始於薦神經叢（sacral plexus）",
+      "B": "陰部神經藉由通過坐骨小孔（lesser sciatic foramen）而離開骨盆腔",
+      "C": "陰部神經藉由通過坐骨小孔（lesser sciatic foramem）而進入會陰（perineum）",
+      "D": "下直腸神經（inferior rectal nerve）是陰部神經的分支"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 25 題",
+    "question": "關於膀胱（urinary bladder），下列敘述何者錯誤？",
+    "options": {
+      "A": "膀胱底（fundus）位於膀胱的上表面（superior surface)，被腹膜（peritoneum）覆蓋",
+      "B": "膀胱尖（apex）朝向恥骨聯合（pubic symphysis）",
+      "C": "膀胱頸（neck）在膀胱下部，靠近前列腺（prostate）",
+      "D": "尿道內括約肌（internal urethral sphincter）位於膀胱下部，主要在膀胱頸（bladder neck）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 26 題",
+    "question": "下列何者最可能走在腰薦神經幹（lumbosacral trunk）與第一薦神經（S1）之間？",
+    "options": {
+      "A": "髂腰動脈（iliolumbar artery）",
+      "B": "臀上動脈（superior gluteal artery）",
+      "C": "臀下動脈（inferior gluteal artery）",
+      "D": "陰部內動脈（internal pudendal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 27 題",
+    "question": "下列那一條神經所支配的肌肉具有內收（adduct）上臂的作用？",
+    "options": {
+      "A": "肩胛背神經（dorsal scapular nerve）",
+      "B": "肩胛上神經（suprascapular nerve）",
+      "C": "胸背神經（thoracodorsal nerve）",
+      "D": "長胸神經（long thoracic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 28 題",
+    "question": "下列那一條肌肉的支配神經與其他選項不同？",
+    "options": {
+      "A": "掌側骨間肌（palmar interossei）",
+      "B": "內收拇肌（adductor pollicis）",
+      "C": "外展拇短肌（abductor pollicis brevis）",
+      "D": "第四蚓狀肌（4th lumbrical）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 29 題",
+    "question": "下列有關肘窩（cubital fossa）的敘述，何者正確？",
+    "options": {
+      "A": "旋前圓肌（pronator teres）位在上外側",
+      "B": "肱橈肌（brachioradialis）位在底部",
+      "C": "內含有尺神經（ulnar nerve）",
+      "D": "內含有正中神經（median nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 30 題",
+    "question": "股骨骨折導致大轉子（greater trocha",
+    "options": {
+      "A": "上孖肌（superior gemellus）",
+      "B": "閉孔內肌（obturator internus）",
+      "C": "臀大肌（gluteus maximus）",
+      "D": "梨狀肌（piriformis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 31 題",
+    "question": "下列何者的肌腱，不會通過跗骨隧道（",
+    "options": {
+      "A": "脛前肌（tibialis anterior）",
+      "B": "脛後肌（tibialis posterior）",
+      "C": "屈 長肌（flexor hallucis longus",
+      "D": "屈趾長肌（flexor digitorum longus"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

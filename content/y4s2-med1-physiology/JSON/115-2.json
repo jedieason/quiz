@@ -1,0 +1,334 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 47 題",
+    "question": "在正常生理狀況下，若將細胞外鈉或鉀離子濃度分別提高2 mM，在其他條件不變下，關於此兩種處理對細胞 膜靜止電位產生的影響，下列何者最可能發生？",
+    "options": {
+      "A": "提高鈉離子濃度較提高鉀離子濃度會造成更大的膜電位變化，而提高鉀離子濃度本身會造成細胞膜過極化 （hyperpolarization）",
+      "B": "提高鈉離子濃度較提高鉀離子濃度會造成更大的膜電位變化，而提高鉀離子濃度本身會造成細胞膜去極化 （depolarization）",
+      "C": "提高鈉離子濃度較提高鉀離子濃度會造成更小的膜電位變化，而提高鉀離子濃度本身會造成細胞膜過極化 （hyperpolarization）",
+      "D": "提高鈉離子濃度較提高鉀離子濃度會造成更小的膜電位變化，而提高鉀離子濃度本身會造成細胞膜去極化 （depolarization）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 48 題",
+    "question": "快速動眼睡眠期記錄到的腦波和下列何時期最為相似？",
+    "options": {
+      "A": "清醒期",
+      "B": "非快速動眼睡眠第一期（N1）",
+      "C": "非快速動眼睡眠第二期（N2）",
+      "D": "非快速動眼睡眠第三期（N3）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 49 題",
+    "question": "下列有關學習記憶的敘述，何者最不適當？",
+    "options": {
+      "A": "騎腳踏車的記憶是一種外顯記憶（explicit memory）",
+      "B": "可塑性（plasticity）指的是神經組織因活動而造成改變",
+      "C": "長期增益（long-term potentiation）是用來解釋記憶的一種理論",
+      "D": "邊緣系統與相關構造受損可能造成順行性失憶（anterograde amnesia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 50 題",
+    "question": "下列何種化學物質或其受體的缺失最有可能造成猝睡症（narcolepsy）？",
+    "options": {
+      "A": "乙醯膽鹼",
+      "B": "正腎上腺素",
+      "C": "神經胜肽Y（neuropeptide Y）",
+      "D": "食慾素（orexin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 51 題",
+    "question": "在一般生理狀況下，下列何種離子通道於靜止膜電位（例如：約-65 mV）時，其離子通透最可能受到鎂離子 之阻斷？",
+    "options": {
+      "A": "N-甲基-D-天門冬胺酸受體（NMDA receptor）",
+      "B": "γ氨基丁酸受體（GABA receptor）",
+      "C": "甘氨酸受體（glycine receptor）",
+      "D": "尼古丁受體（nicotinic receptor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 52 題",
+    "question": "在單一次的動作電位（action potential）期間，相對不反應期（relative refractory period）通常是 指：",
+    "options": {
+      "A": "剛開始進行再極化（repolarization）時",
+      "B": "電位門控型鈉離子通道（voltage-gated Na + channel）主要呈現不活化（inactivated）狀態",
+      "C": "電位門控型鉀離子通道（voltage-gated K + channel）部分仍維持在開啟狀態",
+      "D": "給予引發本次動作電位出現的相同刺激強度即可誘發產生新的動作電位"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 53 題",
+    "question": "病人因車禍導致腦部受傷，出現講出字句有困難等症狀。其腦部最有可能是下列那一個區域受損？",
+    "options": {
+      "A": "視丘的背内側核（dorsomedial nucleus of thalamus）",
+      "B": "視丘前核（anterior nucleus of thalamus）",
+      "C": "布洛卡區（Broca's area）",
+      "D": "韋尼克區（Wernicke's area）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 54 題",
+    "question": "下列何者最符合傳遞slow pain 的神經纖維所具有之特性？",
+    "options": {
+      "A": "因傳導速度慢，所以較fast pain 能精確定位疼痛點",
+      "B": "釋出的傳導物質通常為glutamate 及substance P",
+      "C": "傳入神經纖維為無髓鞘的A-beta 纖維",
+      "D": "傳入神經纖維為具髓鞘的C 纖維"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 55 題",
+    "question": "下列有關肌肉收縮與鈣離子關係的敘述，何者最不適當？",
+    "options": {
+      "A": "心肌、平滑肌、骨骼肌的收縮都需要鈣離子",
+      "B": "骨骼肌纖維收縮所需的鈣離子，都是來自胞內肌漿網的釋放",
+      "C": "心肌纖維收縮所需的鈣離子，部分來自細胞外，部分來自肌漿網",
+      "D": "平滑肌收縮所需的鈣離子，都是來自細胞外"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 56 題",
+    "question": "下列何種白血球（leukocytes）在血液中數量最多？",
+    "options": {
+      "A": "嗜中性球（neutrophil）",
+      "B": "嗜酸性球（eosinophil）",
+      "C": "巨噬細胞（macrophage）",
+      "D": "淋巴球（lymphocyte）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 57 題",
+    "question": "下列有關副交感神經對SA node 細胞的調控，何者最為適當？",
+    "options": {
+      "A": "增加SA node 細胞pacemaker potential 的斜率（slope），而增加心跳速率",
+      "B": "減少SA node 細胞pacemaker potential 的斜率（slope），而減少心跳速率",
+      "C": "增加SA node 細胞pacemaker potential 的斜率（slope），而減少心跳速率",
+      "D": "減少SA node 細胞pacemaker potential 的斜率（slope），而增加心跳速率"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 58 題",
+    "question": "淋巴系統提供組織間液流向心血管系統的單行道路徑，下列何者最不可能促進淋巴回流？",
+    "options": {
+      "A": "骨骼肌泵",
+      "B": "靜脈管上之平滑肌收縮",
+      "C": "呼吸泵",
+      "D": "淋巴管上之平滑肌收縮"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 59 題",
+    "question": "微動脈（arterioles）可受神經系統與荷爾蒙系統調控，下列敘述何者最不合理？",
+    "options": {
+      "A": "大多數微動脈可受交感神經節後纖維釋放正腎上腺素（norepinephrine）作用，使其血管平滑肌上的alpha 腎上腺接受器 （adrenergic receptor）活化，導致微動脈血管收縮",
+      "B": "大多數微動脈可受副交感神經節後纖維釋放乙醯膽鹼（acetylcholine）作用，使其血管平滑肌上的蕈毒型 接受器（muscarinic receptor）活化，導致微動脈血管舒張",
+      "C": "微動脈血管平滑肌可受非膽鹼、非腎上腺素型（noncholinergic, nonadrenergic）神經元末梢釋放的一氧 化氮作用，使微動脈血管舒張",
+      "D": "腎上腺素可作用於微動脈血管平滑肌上的beta 腎上腺接受器（adrenergic receptor），使微動脈血管舒張"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 60 題",
+    "question": "正常人體生理情況下，下列何者對於增加靜脈回流（venous return）及心搏量（stroke volume）的貢獻度 最小？",
+    "options": {
+      "A": "增加投射到靜脈的交感神經活性（sympathetic activity）",
+      "B": "增加血液體積（blood volume）",
+      "C": "增加骨骼肌泵（skeletal muscle pump）活動",
+      "D": "增加呼氣活動（expiration movement）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 61 題",
+    "question": "當某人將其肺容積（lung capacity）由肺總量（total lung capacity）轉變為功能肺餘容量（functional  residual capacity）的過程中，其呼吸道阻力（airway resistance）主要會如何變化？",
+    "options": {
+      "A": "升高",
+      "B": "不變",
+      "C": "下降",
+      "D": "先升高，後下降"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 62 題",
+    "question": "下列何者對於偵測動脈氧分壓（ ）下降，進而引發肺通氣量增加，具有最主要之角色？",
+    "options": {
+      "A": "肺牽扯性受器（lung stretch receptors）",
+      "B": "中樞化學受器（central chemoreceptors）",
+      "C": "下視丘滲透壓性受器（osmoreceptors in hypothalamus）",
+      "D": "頸動脈體（carotid bodies）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 63 題",
+    "question": "在正常生理狀態下，腸胃道對於各種電解質（electrolytes）的吸收或分泌，下列敘述何者最適當？",
+    "options": {
+      "A": "氯離子（Cl -）於小腸與大腸以主動運輸（active transport）吸收",
+      "B": "氫離子（H +）於小腸以主動運輸（active transport）分泌",
+      "C": "鈉離子（Na +）於小腸與葡萄糖反向交換（exchange）而分泌",
+      "D": "鈣離子（Ca 2+）於小腸以主動運輸（active transport）吸收"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 64 題",
+    "question": "在正常生理狀況下，有關脂肪的消化與吸收，下列敘述何者最適當？",
+    "options": {
+      "A": "胰液（pancreatic juice）協助脂肪乳化（emulsification）",
+      "B": "脂肪酵素（lipase）主要功能是協助產生短鏈脂肪酸（short-chain fatty acid），以利腸細胞 （enterocyte）吸收",
+      "C": "再酯化（reesterified）的作用點主要是在腸細胞（enterocyte）的內質網（endoplasmic reticulum）",
+      "D": "再酯化（reesterified）後的乳糜微粒（chylomicron）直接注入肝臟門脈系統（hepatic portal system）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 65 題",
+    "question": "在短時間內喝下2,000 mL 白開水後，血漿滲透壓濃度和血漿antidiuretic hormone（ADH）濃度較大量喝水 前之基礎值（baseline）有何變化？",
+    "options": {
+      "A": "兩者均減少",
+      "B": "兩者均增加",
+      "C": "血漿滲透壓濃度增加，而血漿ADH 濃度減少",
+      "D": "血漿滲透壓濃度減少，而血漿ADH 濃度增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 66 題",
+    "question": "下列那一構造，與控制腎素分泌（renin secretion）的輸入（input）訊號最不相關？",
+    "options": {
+      "A": "直接分布在juxtaglomerular 細胞的腎臟交感神經",
+      "B": "分布在出球（efferent）小動脈血管壁的juxtaglomerular 細胞",
+      "C": "分布在入球（afferent）小動脈血管壁的juxtaglomerular 細胞",
+      "D": "在亨氏管末端上升端的一層分化的macula densa 細胞"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 67 題",
+    "question": "關於甲狀腺素的合成，下列敘述何者最不適當？",
+    "options": {
+      "A": "血液中的碘離子透過彭氏蛋白（pendrin）的主動運輸送入甲狀腺囊泡細胞（follicle cell）內",
+      "B": "碘離子經過氧化氫酶（peroxidase）作用後，接在甲狀球蛋白（thyroglobulin）的酪胺酸殘基（tyrosine residue），形成單碘酪胺酸（monoiodotyrosine）或雙碘酪胺酸（diiodotyrosine）",
+      "C": "兩個雙碘酪胺酸（diiodotyrosine）結合會形成四碘甲狀腺素（thyroxine）",
+      "D": "甲狀腺素分泌需要溶小體（lysosome）的功能"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 68 題",
+    "question": "有關激素對代謝調控作用，下列敘述何者最不適當？",
+    "options": {
+      "A": "胰島素會促進肌肉的肝醣合成作用",
+      "B": "升糖素（glucagon）會促進肝臟的葡萄糖新生作用",
+      "C": "皮質素（cortisol）會促進肝臟對胰島素的敏感性",
+      "D": "腎上腺素會促進脂肪組織的脂肪分解作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 69 題",
+    "question": "於血壓下降時，最可能見到下列那一組織分泌何種荷爾蒙以作為因應調節？",
+    "options": {
+      "A": "腦下腺前葉（anterior pituitary）；體抑素（somatostatin）",
+      "B": "弓形核（arcuate nucleus）；血管收縮素原（angiotensinogen）",
+      "C": "腦下腺後葉（posterior pituitary）；抗利尿素（antidiuretic hormone, ADH）",
+      "D": "中突（median eminence）；促腎上腺皮質素（adrenocorticotropic hormone, ACTH）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 70 題",
+    "question": "有關主要調控身體內部環境恆定的荷爾蒙之來源與作用，下列何種組合錯誤？",
+    "options": {
+      "A": "皮質醇（cortisol）：腎上腺皮質，能量代謝調控",
+      "B": "抗利尿荷爾蒙（ADH）：腦下垂體前葉，血液滲透壓調控",
+      "C": "胰島素（insulin）：胰臟，血糖調控",
+      "D": "醛固酮（aldosterone）：腎上腺皮質，血量和電解質調控"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 71 題",
+    "question": "在飢餓數日之後，有關甲狀腺素（T3、T4、RT3）分泌和功能所受之影響，下列敘述何者最適當？",
+    "options": {
+      "A": "數日飢餓對血漿中T4濃度的影響最為明顯",
+      "B": "血漿中RT3濃度最不會受到數日飢餓狀態所影響",
+      "C": "在先經歷數日飢餓，而後再進食之狀態下，血漿中T3濃度上升最為明顯",
+      "D": "在先經歷數日飢餓，而後再進食之狀態下，血漿中T4濃度上升最為明顯"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 72 題",
+    "question": "荷爾蒙會影響子宮收縮，下列何者的作用與其他三者不同？",
+    "options": {
+      "A": "雌激素（estrogen）",
+      "B": "黃體素（progesterone）",
+      "C": "前列腺素（prostaglandin）",
+      "D": "催產素（oxytocin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 73 題",
+    "question": "有關濾泡促素（follicle-stimulating hormone, FSH）之作用，下列敘述何者最為適當？",
+    "options": {
+      "A": "可刺激萊氏細胞（Leydig cells）分泌睪固酮（testosterone），而此會抑制腦下腺釋放黃體生成素 （luteinizing hormone, LH）",
+      "B": "可刺激賽特利氏細胞（Sertoli cells）分泌抑制素（inhibin），而此會抑制腦下腺釋放濾泡促素 （follicle-stimulating hormone, FSH）",
+      "C": "可刺激鞘細胞（theca cells）分泌雌二醇（17β-estradiol），而此會抑制腦下腺釋放黃體生成素 （luteinizing hormone, LH）",
+      "D": "可刺激顆粒細胞（granulosa cells）分泌睪固酮（testosterone），而此會抑制腦下腺釋放濾泡促素 （follicle-stimulating hormone, FSH）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 51 題",
+    "question": "下列何者不會作用於ligand-gated channels？",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Serotonin",
+      "C": "GABA",
+      "D": "Interferon"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 52 題",
+    "question": "下列有關藥物效應之敘述，何者正確？",
+    "options": {
+      "A": "治療指數（therapeutic index；T.I.）= ED50/LD50 ED",
+      "B": "50 之定義為使半數實驗動物死亡所需要的劑量 LD",
+      "C": "50 之定義為使半數實驗動物產生藥效所需的劑量",
+      "D": "治療指數（therapeutic index；T.I.）比值越大表示該藥物的毒性越小"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 53 題",
+    "question": "病人慢性長期服用isoniazid + rifampin 治療肺結核，下列關於此二藥之作用機轉，何者正確？  Isoniazid",
+    "options": {
+      "A": "可以抑制致病菌細胞膜成分麥角脂醇（ergosterol）之生成 Rifampin",
+      "B": "可以抑制致病菌細胞內RNA 之生成 Isoniazid",
+      "C": "可以抑制致病菌細胞內DNA gyrase 之活性 Rifampin",
+      "D": "可以抑制致病菌細胞壁成分mycolic acid 生成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 54 題",
+    "question": "關於抗病毒藥物zidovudine 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "為guanosine 類似物（analog）",
+      "B": "為反轉錄酶抑制劑（reverse transcriptase inhibitor）",
+      "C": "可以和lamivudine 產生協同作用",
+      "D": "可以用於治療懷孕期間人類免疫缺乏病毒（human immunodeficiency virus）感染問題"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 55 題",
+    "question": "關於抗癌藥物所引起之毒性，下列配對何者正確？",
+    "options": {
+      "A": "Cyclophosphamide：周邊神經病變（peripheral neuropathy） Doxorubicin",
+      "B": "：出血性膀胱炎（hemorrhagic cystitis） Vincristine",
+      "C": "：肺纖維化（pulmonary fibrosis） Cisplatin",
+      "D": "：腎毒性（nephrotoxicity）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 56 題",
+    "question": "下列藥物可經由細菌Ribosomal 50S 之結合來抑制細菌蛋白之合成，何者例外？  Telithromycin",
+    "options": {
+      "A": "Telithromycin",
+      "B": "Tetracycline",
+      "C": "Chloramphenicol",
+      "D": "Streptogramin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 57 題",
+    "question": "下列藥物的作用機轉乃拮抗血小板凝集之共通步驟，即Fibrinogen 對活化血小板之醣蛋白IIb/IIIa 之 結合反應。何者除外？  Abciximab",
+    "options": {
+      "A": "Abciximab",
+      "B": "Tirofiban",
+      "C": "Ticlopidine",
+      "D": "Eptifibatide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 58 題",
+    "question": "下列何項藥物用於治療Thrombocytopenia 患者？  Interleukin",
+    "options": {
+      "A": "-11（Oprelvekin） Erythropoietin",
+      "B": "G",
+      "C": "-CSF（Filgrastim） GM",
+      "D": "-CSF（Sargramostim）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 59 題",
+    "question": "下列何種免疫抑制劑，可優先選擇作用於cytosine monophosphate dehydrogenase 而抑制Lymphocyte  中guanosine 合成？  Cyclosporine",
+    "options": {
+      "A": "Cyclosporine",
+      "B": "Leflunomide",
+      "C": "Tacrolimus",
+      "D": "Mycophenolate mofetil"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 60 題",
+    "question": "下列何種藥物為長效型的合成類固醇（synthetic corticosteroids）？  Prednisone",
+    "options": {
+      "A": "Prednisone",
+      "B": "Meprednisone",
+      "C": "Triamcinolone",
+      "D": "Dexamethasone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 61 題",
+    "question": "下列何種腎上腺皮質素拮抗劑的作用係透過抑制類固醇羥化（steroid hydroxylation）的作用來阻斷皮 質醇和皮質酮的生合成？  Ketoconazole",
+    "options": {
+      "A": "Metyrapone",
+      "B": "Aminoglutethimide",
+      "C": "Mifepristone",
+      "D": "（RU-486）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 62 題",
+    "question": "下列有關生長激素（growth hormone）的作用描述，何者錯誤？",
+    "options": {
+      "A": "生長激素缺乏症可能發生於腦下垂體（pituitary）受損或下丘腦（hypothalamus）發生腫瘤的情況",
+      "B": "生長激素缺乏症發生早期會出現高血糖（hyperglycemia）的情形，主要是抑制胰島素（insulin）的 分泌作用",
+      "C": "雌二醇（estradiol）具有促進生長激素分泌作用",
+      "D": "生長激素具有減少體內脂肪量及增加肌肉質量的作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 63 題",
+    "question": "下列何種藥物可使血管平滑肌細胞內cGMP 增加，加速myosin light chains 去磷酸化（dephosphorylation）， 而致血管舒張？  Adenosine",
+    "options": {
+      "A": "Adenosine",
+      "B": "Amyl nitrite",
+      "C": "Amlodipine",
+      "D": "Atenolol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 64 題",
+    "question": "下列何者不是verapamil 之主要藥理作用？",
+    "options": {
+      "A": "血管擴張",
+      "B": "抑制心臟收縮力",
+      "C": "抑制癲癇發作",
+      "D": "抑制心臟SA node 及AV node 活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 65 題",
+    "question": "關於losartan 之敘述何者正確？",
+    "options": {
+      "A": "為angiotensin II type 1 受體的拮抗劑，可產生血管擴張作用",
+      "B": "會造成鈉離子與水分滯留於體內",
+      "C": "引起咳嗽及血管性水腫（angioedema）的情形較angiotensin-converting enzyme inhibitors 嚴重",
+      "D": "常用於治療高血壓之孕婦"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 66 題",
+    "question": "下列何種藥物是α-adrenoceptor 之不可逆拮抗劑？  Phentolamine",
+    "options": {
+      "A": "Phentolamine",
+      "B": "Phenoxybenzamine",
+      "C": "Prazosin",
+      "D": "Tolazoline"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 67 題",
+    "question": "下列類交感神經藥物，何者可口服用來治療小孩尿床？  Ephedrine",
+    "options": {
+      "A": "Ephedrine",
+      "B": "Dobutamine",
+      "C": "Norepinephrine",
+      "D": "Phenylephrine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 68 題",
+    "question": "用於治療慢性肺阻塞（COPD）病人的藥物中，下列何者的改善效果最好？  Theophylline",
+    "options": {
+      "A": "Theophylline",
+      "B": "Ipratropium",
+      "C": "Zafirlukast",
+      "D": "Nedocromil"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 69 題",
+    "question": "婦女產後出血不止時，可使用下列何種藥物改善之？  Carboprost",
+    "options": {
+      "A": "Carboprost",
+      "B": "Alprostadil",
+      "C": "Misoprostol",
+      "D": "Iloprost"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或ＡＣ者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物透過作用於腸胃道的5-HT4 receptor 而達到改善腸躁症（irritable bowel syndrome）所引 起的便秘？  Buspirone",
+    "options": {
+      "A": "Buspirone",
+      "B": "Ketanserin",
+      "C": "Tegaserod",
+      "D": "Ondansetron"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 71 題",
+    "question": "下列那一種大麻成分具有最強的精神活化（psychoactive）作用？  cannabidiol",
+    "options": {
+      "A": "cannabidiol",
+      "B": "cannabinol",
+      "C": "△9-tetrahydrocannabino l",
+      "D": "tetrahydrocannabivarin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 72 題",
+    "question": "下列何者D2/5-HT2A affinity ratio 最高？  Thiothixene",
+    "options": {
+      "A": "Thiothixene",
+      "B": "Clozapine",
+      "C": "Olanzapine",
+      "D": "Quetiapine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 73 題",
+    "question": "下列有關Caffeine 藥理作用之描述，何者錯誤？",
+    "options": {
+      "A": "具有促進胃酸分泌的作用",
+      "B": "具有輕微的利尿作用",
+      "C": "具有增加心跳速率及心輸出量的作用",
+      "D": "具有增加支氣管平滑肌收縮的作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 74 題",
+    "question": "下列何者不是caffeine 過量中毒時的特徵？",
+    "options": {
+      "A": "顫抖（tremor）",
+      "B": "心律不整（arrhythmias）",
+      "C": "嗜睡（sleepiness）",
+      "D": "精神焦慮（nervousness）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 75 題",
+    "question": "下列何種藥物是theophylline 中毒時的最佳解毒劑？  Hydroxocobalamin",
+    "options": {
+      "A": "Hydroxocobalamin",
+      "B": "Acetylcysteine",
+      "C": "Esmolol",
+      "D": "Pralidoxime"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

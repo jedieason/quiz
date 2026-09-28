@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 26 題",
+    "question": "臨床上使用的口服避孕劑主含estrogen 與progestin 兩種成分，服用後可減少濾泡刺激素 （follicle-stimulating hormone; FSH）與黃體促素（luteinizing hormone; LH）的分泌而抑制卵巢濾泡成 熟、阻斷排卵。下列敘述何者錯誤？",
+    "options": {
+      "A": "避孕劑之兩種成分均屬於類固醇（steroid）荷爾蒙",
+      "B": "避孕劑能減少FSH 與LH 分泌，乃是透過對下視丘的正回饋調控",
+      "C": "避孕劑之兩種成分均可透過位於細胞核內之受體的作用調控特定基因的表現程度",
+      "D": "類固醇也有位於細胞膜上的受體負責快速的荷爾蒙效應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 27 題",
+    "question": "已知ammonia 對細胞具有毒性，在肝硬化而進入肝昏迷的病人，經常檢驗血中ammonia 之濃度作為 病情進展的指標，下列何者與ammonia 的代謝清除反應無直接關係？",
+    "options": {
+      "A": "leucine",
+      "B": "pyruvate",
+      "C": "glutamate",
+      "D": "α-ketoglutarate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 28 題",
+    "question": "下列關於生物膜（biological membrane）分子構造的敘述何者為非？",
+    "options": {
+      "A": "為noncovalent assemblies",
+      "B": "為symmetric",
+      "C": "為fluid structures",
+      "D": "主要組成為lipids 和proteins"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 29 題",
+    "question": "肥胖是脂肪過多的疾病。關於脂肪組織之脂肪代謝，下述何者錯誤？",
+    "options": {
+      "A": "釋放出來的脂肪酸部分可供給其他組織生產能量",
+      "B": "釋放出來的脂肪酸可送到肝臟內再合成三酸甘油酯，所以肥胖病患易合併脂肪肝",
+      "C": "空腹時，釋放出來的脂肪酸送到肝臟內合成三酸甘油酯，包裝成低密度脂蛋白（low-density lipoprotein）分泌至血液中",
+      "D": "釋放出來的脂肪酸，大部分在脂肪組織內及肝臟內再合成三酸甘油酯"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 30 題",
+    "question": "氰化物（cyanide）常被用於自殺或謀殺。請問氰化物毒害細胞的機轉為抑制細胞的那一種物質之 功能？",
+    "options": {
+      "A": "白蛋白（albumin）",
+      "B": "細胞色素C（cytochrome c）",
+      "C": "乳酸脫氫酶（lactate dehydrogenase）",
+      "D": "鐵結合蛋白（ferritin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 31 題",
+    "question": "ErbB1 致癌基因（oncogene）的產物為human epidermal growth factor receptor 1（HER1），屬於receptor  tyrosine kinases（RTKs）家族成員。人類癌症中常發現ErbB1 基因的過度表現，這可能為癌細胞不正 常增殖、抗凋亡以及轉移的機制。若要發展對這類癌症的「標靶治療」（target therapy），由你對 RTK signaling 之認識來判斷，下列何者可能不是有效標靶治療藥劑？",
+    "options": {
+      "A": "可抑制epidermal growth factor（EGF）與HER1 結合的單株抗體",
+      "B": "可與HER1 之extracellular EGF-binding domain 結合，而不引起intracellular kinase domain 活化的單株 抗體",
+      "C": "可引發HER1 dimerization 的單株抗體",
+      "D": "可自由穿越細胞膜而block HER1 intracellular kinase domain 上ATP-binding site 的小分子化合物"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 32 題",
+    "question": "百日咳桿菌（Bordetella pertussis）會產生百日咳毒素（pertussis toxin），催化Giα（即inhibitory G 蛋白α 次單元）之ADP-ribosylation，導致adenylate cyclase 的持續性活化。下列有關pertussis toxin 致病機轉之敘述，何者正確？",
+    "options": {
+      "A": "pertussis toxin 抑制Giα 由GDP 結合態到GTP 結合態的轉換",
+      "B": "pertussis toxin 抑制Giα 由GTP 結合態到GDP 結合態的轉換",
+      "C": "pertussis toxin 抑制Giα 的GTPase 活性",
+      "D": "pertussis toxin 促進Giα 對adenylate cyclase 的作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 33 題",
+    "question": "下列各種與癌症形成有關的基因中，何者並非轉錄因子（transcription factor）基因？",
+    "options": {
+      "A": "c-myc",
+      "B": "p53",
+      "C": "bcl-2",
+      "D": "以上皆為轉錄因子基因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 34 題",
+    "question": "下列何種形式之核酸重複（nucleotide repeat），與遺傳疾病如fragile X syndrome, Huntington’s disease 等有關？",
+    "options": {
+      "A": "雙核酸重複（double nucleotide repeat）",
+      "B": "三核酸重複（triple nucleotide repeat）",
+      "C": "四核酸重複（quadruple nucleotide repeat）",
+      "D": "隨意核酸重複（random nucleotide repeat）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 35 題",
+    "question": "去氧核糖核酸（DNA）雙股螺旋（double helix）結構為二十世紀最偉大的發現之一。雙股螺旋結構 之穩定性主要來自下列何者？",
+    "options": {
+      "A": "鄰近嘌呤（purine）間之氫鍵",
+      "B": "鄰近嘧啶（pyrimidine）間之氫鍵",
+      "C": "雙股螺旋結構本身",
+      "D": "不同股DNA 嘌呤（purine）與嘧啶（pyrimidine）間之氫鍵"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 36 題",
+    "question": "Acetylcholine receptor 屬於下列何種接受器？",
+    "options": {
+      "A": "G protein coupled receptor",
+      "B": "gated ion channel",
+      "C": "nuclear receptor",
+      "D": "receptor with tyrosine kinase activity"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 37 題",
+    "question": "下列那一種蛋白質不參與人類嗅覺的訊息傳遞？",
+    "options": {
+      "A": "三體G 蛋白（trimeric G protein）",
+      "B": "cAMP",
+      "C": "細胞膜鈣離子通道",
+      "D": "STAT 轉錄因子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 38 題",
+    "question": "下列那個化合物水解時，可得到最大負值的自由能變化？",
+    "options": {
+      "A": "UDP 葡萄糖（UDP-glucose）",
+      "B": "葡萄糖-6-磷酸（glucose-6-phosphate）",
+      "C": "蘋果酸（malate）",
+      "D": "乳糖（lactose）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 39 題",
+    "question": "下列何者與細胞對抗氧化傷害（oxidative damage）之機制無關？",
+    "options": {
+      "A": "glutathione",
+      "B": "alpha-tocopherol",
+      "C": "biopterin",
+      "D": "catalase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 40 題",
+    "question": "Alcohol dehydrogenase（EC 1.1.1.1）催化乙醇（alcohol）及aldehyde 之反應，屬於何種反應型態？",
+    "options": {
+      "A": "轉移酶（transferase）",
+      "B": "氧化還原酶（oxidoreductase）",
+      "C": "水解酶（hydrolase）",
+      "D": "連接酶（ligase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 41 題",
+    "question": "何者具有最大催化反應的能力？",
+    "options": {
+      "A": "脫輔基酶（apoenzyme）",
+      "B": "輔酶（coenzyme）",
+      "C": "全酶（holoenzyme）",
+      "D": "酶原（zymogen）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 42 題",
+    "question": "下列何種輔酶能協助單碳基團（one-carbon groups）轉移，如果缺乏時會影響DNA 的合成？",
+    "options": {
+      "A": "coenzyme A",
+      "B": "lipoate",
+      "C": "tetrahydrofolate",
+      "D": "pyridoxal phosphate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 43 題",
+    "question": "人類的粗皮病（pellagra）是由於缺乏下列那種維生素所引起？",
+    "options": {
+      "A": "生物素（biotin）",
+      "B": "泛酸（pantothenic acid）",
+      "C": "葉酸（folic acid）",
+      "D": "菸鹼酸（niacin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 44 題",
+    "question": "與染色體（chromosome）結合的蛋白質有1000 多種以上，其中五種蛋白質具有很明顯的胺基酸共識 序列（consensus amino acid sequence），該種蛋白質富含離胺酸（lysine）和精胺酸（arginine），是 染色質（chromatin）的主要結構蛋白，請問該蛋白質為何？",
+    "options": {
+      "A": "支架蛋白（scaffolding proteins）",
+      "B": "核仁蛋白（nucleolus proteins）",
+      "C": "組織蛋白（histone proteins）",
+      "D": "轉錄因子（transcription factors）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 45 題",
+    "question": "引子（primer）是DNA 複製時的必須材料，下列何者為引子的主要功能？",
+    "options": {
+      "A": "誘發DNA 生合成的起點及方向，並決定生合成的終點",
+      "B": "可幫助DNA 雙螺旋的解旋工作，誘發DNA 的生合成",
+      "C": "確定DNA 生合成的起點及方向，提供一個羥基（-OH）作為DNA 延伸之用",
+      "D": "可決定前導股（leading strand），但無法決定遲緩股（lagging strand）的形成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 46 題",
+    "question": "第一型肝醣貯積病（type I glycogen storage disease）是由於glucose-6-phosphatase 缺失導致，下列何 者為其臨床生化特徵？",
+    "options": {
+      "A": "hyperglycemia",
+      "B": "hypouremia",
+      "C": "hypolipemia",
+      "D": "ketosis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 47 題",
+    "question": "在尿素（urea）循環中，尿素由NH4 +和$CO_2$ 形成。氨（ammonia）對人體毒性很大，但尿素則無毒 性，而且可溶於水，可由尿中排出體外。下列那一項對carbamoyl phosphate synthetase I 的敘述錯誤？",
+    "options": {
+      "A": "它是細胞質內的酵素",
+      "B": "它所催化之反應需要ATP",
+      "C": "它以HCO3 -及NH4 +為反應之受質",
+      "D": "它所催化之反應形成了carbamoyl phosphate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 48 題",
+    "question": "Phenylketonuria 與下列何項酵素缺陷有關？",
+    "options": {
+      "A": "Branched-chain α-keto acid dehydrogenase complex",
+      "B": "Homogentisic acid dioxygenase",
+      "C": "Tyrosinase",
+      "D": "Phenylalanine hydroxylase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 49 題",
+    "question": "Methotrexate 可以當作化療之生化機轉為何？",
+    "options": {
+      "A": "作為pyridoxal phosphate 的相似物，抑制酵素活性",
+      "B": "抑制dihydrofolate reductase",
+      "C": "競爭性抑制EPSP synthase",
+      "D": "直接抑制糖解作用（glycolysis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 50 題",
+    "question": "下列有關E. coli DNA 複製之敘述，何者正確？",
+    "options": {
+      "A": "複製原點（replication origin）附近有許多富含GU 之序列",
+      "B": "由DNA 聚合酶I 負責前導股（leading strand）之合成",
+      "C": "需要從一段RNA 引子（primer）開始合成",
+      "D": "單股DNA 結合蛋白（single-strand DNA-binding proteins）負責打開雙股"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

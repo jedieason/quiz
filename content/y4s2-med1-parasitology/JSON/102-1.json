@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 75 題",
+    "question": "有關人類罹患河盲症（river blindness）的敘述，何者錯誤？",
+    "options": {
+      "A": "蚋蠅屬（genus Simulium）昆蟲是造成本疾病的媒介",
+      "B": "成蟲寄生於患者的眼睛才造成眼盲",
+      "C": "硬化性角膜炎是引起眼盲的主因",
+      "D": "肇因於蟠尾絲蟲（Onchocerca volvulus）感染所致"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 76 題",
+    "question": "食用未熟之海水魚類，會感染下列何種寄生蟲？",
+    "options": {
+      "A": "海獸胃線蟲（Anisakis simplex）",
+      "B": "美洲鈎蟲（Necator americanus）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "中華肝吸蟲（Clonorchis sinensis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 77 題",
+    "question": "下列那些絛蟲在人類會引起自體感染（autoinfection）？①有鈎絛蟲（Taenia solium） ②廣節裂頭絛 蟲（Diphyllobothrium latum） ③短小包膜絛蟲（Hymenolepis nana） ④顆粒性包生絛蟲（Echinococcus  granulosus）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②④",
+      "D": "③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 78 題",
+    "question": "下列關於衛氏肺吸蟲（Paragonimus westermani）的敘述，那些正確？①可在病人痰液中找到蟲卵  ②蟲卵不具小蓋，內有纖毛幼蟲（miracidium） ③長期感染的病人，臨床症狀與肺結核類似 ④人 是第二中間宿主",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 79 題",
+    "question": "惡性瘧之症狀較其他三種瘧疾嚴重的原因有那些？①能侵犯各種發育期的紅血球 ②較易引起復發 （relapse） ③可能併發腦性瘧（cerebral malaria） ④發作（paroxysm）時高燒持續的時間較長",
+    "options": {
+      "A": "①②③",
+      "B": "①②④",
+      "C": "①③④",
+      "D": "②③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 80 題",
+    "question": "下列有關痢疾阿米巴（Entamoeba histolytica）的敘述，那些正確？①肝膿瘍（liver abscess）多發生 於右葉肝 ②其滋養體（trophozoites）會吞噬紅血球 ③metronidazole 可用以治療其引起之腸道及 轉移病症 ④其囊體中的類染色體（chromatoidal bars）之成分為DNA",
+    "options": {
+      "A": "①②③",
+      "B": "①②④",
+      "C": "①③④",
+      "D": "②③④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 81 題",
+    "question": "下列何者通常與杜氏利什曼原蟲（Leishmania donovani）之感染症無關？",
+    "options": {
+      "A": "貧血",
+      "B": "肝脾腫大",
+      "C": "黑熱病",
+      "D": "東方癤（oriental sore）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 82 題",
+    "question": "下列何種蚊種之幼蟲，曾經被用做防治登革熱病媒蚊之天敵（predator）？",
+    "options": {
+      "A": "安邦巨蚊（Toxorhynchites amboinensis）",
+      "B": "熱帶家蚊（Culex quinquefasciatus）",
+      "C": "環紋家蚊（Culex annulus）",
+      "D": "矮小瘧蚊（Anopheles minimus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 32 題",
+    "question": "下列何者不會在胚胎發育第二週結束前出現？",
+    "options": {
+      "A": "羊膜腔（amniotic cavity）",
+      "B": "次級臍囊（secondary umbilical vesicle）",
+      "C": "胚外中胚層（extraembryonic mesoderm）",
+      "D": "胚內中胚層（intraembryonic mesoderm）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 33 題",
+    "question": "下列何者是第九週胎兒期（fetal period）的主要紅血球生成（erythropoiesis）位置？",
+    "options": {
+      "A": "卵黃囊（yolk sac）",
+      "B": "肝臟（liver）",
+      "C": "脾臟（spleen）",
+      "D": "紅骨髓（red bone marrow）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 34 題",
+    "question": "下列關於胃（stomach）發育的敘述，何者正確？",
+    "options": {
+      "A": "一開始右側開始膨大，之後左側前方發育快於後方，因而產生胃大彎（greater curvature）",
+      "B": "發育時會逆時針旋轉180 度，使頭端移至右下側，而尾端移至左下側",
+      "C": "原始背側胃繫膜（primordial dorsal mesogastrium）因胃旋轉被帶至左側，形成網膜囊（omental bursa）",
+      "D": "胃部發育不正常很普遍，常見於女嬰，且多為幽門閉鎖（pyloric atresia）的症狀"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 35 題",
+    "question": "下列何者是由副中腎管（paramesonephric duct）衍生形成的構造？",
+    "options": {
+      "A": "輸卵管（oviduct）",
+      "B": "射精管（ejaculatory duct）",
+      "C": "輸精管（ductus deferens）",
+      "D": "輸尿管（ureter）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 36 題",
+    "question": "瞳孔擴張及括約肌（dilator and sphincter pupillae），是源自何處？",
+    "options": {
+      "A": "神經外胚層（neuroectoderm）",
+      "B": "生發層（stratum germinativum）",
+      "C": "內胚層（endoderm）",
+      "D": "中胚層（mesoderm）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

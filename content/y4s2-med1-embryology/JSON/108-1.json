@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 32 題",
+    "question": "下列何者會製造⼈類絨⽑膜促性腺激素（human chorionic gonadotrophin）？",
+    "options": {
+      "A": "腦下腺（pituitary gland）前葉",
+      "B": "融合滋養層（syncytiotrophoblast）",
+      "C": "黃體（corpus luteum）",
+      "D": "蛻膜（decidua）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 33 題",
+    "question": "胚胎發育第四週時，橫中隔（septum transversum）的位置是相對於下列何種體節（somite）之⾼度？",
+    "options": {
+      "A": "枕節",
+      "B": "頸節",
+      "C": "胸節",
+      "D": "腰節"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 34 題",
+    "question": "下列有關膀胱（urinary bladder）的敘述，何者錯誤？",
+    "options": {
+      "A": "內襯上⽪的胚胎起源是內胚層（endoderm）",
+      "B": "膀胱三⾓（trigone）起源於後腎管（metanephric duct）",
+      "C": "六歲時進入⼤骨盆（greater pelvis）",
+      "D": "在胚胎時期與尿囊（allantois）相連"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 35 題",
+    "question": "有關動脈韌帶（ligamentum arteriosum）的敘述，何者正確？",
+    "options": {
+      "A": "位於主動脈⼸（aortic arch）與肺動脈幹（pulmonary trunk）間",
+      "B": "胎兒出⽣後由臍動脈（umbilical artery）閉鎖形成",
+      "C": "胚胎時期只攜帶缺氧⾎",
+      "D": "連接肺動脈（pulmonary artery）與肺靜脈（pulmonary vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 36 題",
+    "question": "下列何者衍⽣⾃脊索（notochord）？",
+    "options": {
+      "A": "椎體（body of vertebra）",
+      "B": "髓核（nucleus pulposus）",
+      "C": "纖維環（anulus fibrosus）",
+      "D": "椎⼸（vertebral arch）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

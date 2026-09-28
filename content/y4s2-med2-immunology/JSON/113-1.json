@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 18 題",
+    "question": "經由造血作用（hematopoiesis）產生免疫細胞的過程，最不可能在動物體內何處發生？",
+    "options": {
+      "A": "yolk sac",
+      "B": "fetal liver",
+      "C": "fetal heart",
+      "D": "bone marrow"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 19 題",
+    "question": "關於第一型干擾素（type I interferon），下列敘述何者最不適當？",
+    "options": {
+      "A": "病毒感染有核細胞後，會刺激第一型干擾素的產生",
+      "B": "第一型干擾素可以直接參與分解病毒",
+      "C": "第一型干擾素可以活化細胞內基因以破壞病毒mRNA 及抑制病毒蛋白的轉譯",
+      "D": "第一型干擾素可以誘導細胞第一型MHC 分子的表達，增加感染的細胞呈獻抗原給CD8 毒殺T 細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 20 題",
+    "question": "下列有關T 細胞或B 細胞抗原受體的敘述，何者最不適當？",
+    "options": {
+      "A": "TCR α chain 和TCR β chain 形成配對，而TCR γ chain 和TCR δ chain 形成配對",
+      "B": "氫鍵與凡德瓦力參與受體與抗原的結合過程",
+      "C": "clonal expansion 是指淋巴細胞於胸腺或骨髓的發育過程中，其細胞表面上的抗原受體與外來抗原結合 後，引起細胞大量增殖",
+      "D": "MHC restriction 是指成熟T 細胞的TCR 只能夠辨識自身細胞MHC 分子呈獻的抗原，不會辨識其他MHC 分子 呈獻的相同抗原"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 21 題",
+    "question": "有關B 細胞、樹突細胞及巨噬細胞之敘述，下列何者最適當？",
+    "options": {
+      "A": "三者皆會表現MHC class II 及B7 分子，所以被稱為抗原呈獻細胞",
+      "B": "三者皆會表現MHC class II，但不表現MHC class I",
+      "C": "三者皆會活化T 細胞，但以B 細胞最易活化naïve T 細胞",
+      "D": "三者平常皆維持不成熟狀態在周邊巡邏，遇到抗原後會分化進入成熟狀態，遷移至附近淋巴組織中"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 22 題",
+    "question": "有關抗體之敘述，下列何者最適當？",
+    "options": {
+      "A": "IgA 可穿過胎盤，讓胎兒獲得被動免疫力",
+      "B": "IgE 是活化補體的最主要抗體",
+      "C": "IgM 是B 細胞活化後最早分泌出來的抗體",
+      "D": "IgG 是活化mast cells 的最主要抗體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 23 題",
+    "question": "當病原菌入侵腸道時，腸道上皮細胞最不可能利用下列何種分子來幫助清除病原菌？",
+    "options": {
+      "A": "TLRs",
+      "B": "NOD1 及NOD2",
+      "C": "PGE2",
+      "D": "MIC-A 及MIC-B"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 24 題",
+    "question": "先天性免疫缺失疾病（primary immunodeficiency diseases）經常是因為與免疫細胞發育或是功能相關的基 因缺陷造成。下列疾病與其缺陷基因之配對，何者最不適當？",
+    "options": {
+      "A": "X-linked SCID：IL-2 receptor common gamma chain",
+      "B": "Wiskott-Aldrich syndrome：NF-κB",
+      "C": "Bruton's X-linked agammaglobulinemia：BTK",
+      "D": "DiGeorge syndrome：TBX1"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 25 題",
+    "question": "下列何者屬於IgE 介導的第一型過敏反應疾病？",
+    "options": {
+      "A": "麩質病（celiac disease）",
+      "B": "血清病（serum sickness）",
+      "C": "過敏性鼻結膜炎（allergic rhinoconjunctivitis）",
+      "D": "過敏性接觸性皮膚炎（allergic contact dermatitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 26 題",
+    "question": "IL-10 基因剔除小鼠（gene knockout mice）最可能引發下列何種自體免疫疾病？",
+    "options": {
+      "A": "發炎性腸道疾病（inflammatory bowel disease）",
+      "B": "類紅斑性狼瘡（lupus-like syndrome）",
+      "C": "淋巴細胞增生性疾病（lymphoproliferative disease）",
+      "D": "類風濕性關節炎（rheumatoid arthritis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 27 題",
+    "question": "腫瘤抗原根據其特徵可以分為腫瘤相關抗原（tumor associated antigen, TAA）與腫瘤特異性抗原（tumor  specific antigen, TSA），下列關於腫瘤抗原的描述，何者最不適當？",
+    "options": {
+      "A": "TAA 這類抗原在正常組織與癌細胞中都可能表現，但在癌細胞中的表現量通常比正常組織要高",
+      "B": "TSA 因為是基因突變、基因重組或病毒感染所產生的抗原，使用全外顯子定序（whole exome sequence, WES）是目前最常用來鑑定TSA 的方法",
+      "C": "目前CAR-T 所針對的抗原，主要是TAA 為主，少部分常見的TSA，亦可成為CAR-T 的目標",
+      "D": "使用單細胞轉錄體定序（single cell transcriptome sequence），是目前最常用來鑑定TAA 的方法"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 28 題",
+    "question": "下列何種腫瘤目前可以注射疫苗來預防？",
+    "options": {
+      "A": "non-Hodgkin's lymphoma",
+      "B": "breast cancer with overexpression the receptor of HER-2/neu",
+      "C": "metastatic melanoma",
+      "D": "HPV-16 related cervical cancer"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

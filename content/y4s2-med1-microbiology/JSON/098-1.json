@@ -1,0 +1,242 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 42 題",
+    "question": "下列何者不是綠膿桿菌（Pseudomonas aeruginosa）的特徵？",
+    "options": {
+      "A": "好棲息於潮濕的環境中",
+      "B": "會發酵葡萄糖和乳糖",
+      "C": "生長時會發出葡萄般的香味",
+      "D": "對大部分的抗生素具抗藥性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 43 題",
+    "question": "近年曾在台灣和中國大陸引起流行性腦膜炎，並造成多起死亡病例的細菌，屬於下列何菌屬？",
+    "options": {
+      "A": "克雷白氏菌（Klebsiella）",
+      "B": "綠膿桿菌（Pseudomonas）",
+      "C": "奈瑟氏菌（Neisseria）",
+      "D": "退伍軍人菌（Legionella）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 44 題",
+    "question": "下列何種病毒不以蚊蟲為傳播之媒介？",
+    "options": {
+      "A": "登革病毒（Dengue virus）",
+      "B": "漢他病毒（Hantavirus）",
+      "C": "日本腦炎病毒（Japanese encephalitis virus）",
+      "D": "西尼羅河腦炎病毒（West Nile virus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 45 題",
+    "question": "用以診斷幽門桿菌（Helicobacter pylori）感染的非侵犯性（non-invasive）方法，所偵測的是該菌何 種產物？",
+    "options": {
+      "A": "觸酶（catalase）",
+      "B": "黏蛋白酶（mucinase）",
+      "C": "氧化酶（oxidase）",
+      "D": "尿素酶（urease）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 46 題",
+    "question": "百日咳（whooping cough）致病菌具下列何種特徵？",
+    "options": {
+      "A": "生長於無氧環境中",
+      "B": "不產生任何外毒素",
+      "C": "無法長久生存於環境中",
+      "D": "以昆蟲作為傳播媒介"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 47 題",
+    "question": "磺氨類（sulfonamides）藥物屬於抗代謝類藥物，會和細菌體內何種化合物競爭，而阻止該菌生長代 謝所必須之葉酸合成？",
+    "options": {
+      "A": "p-胺基苯甲酸（p-aminobenzoic acid）",
+      "B": "甲硫氨酸（methionine）",
+      "C": "四葉酸（tetrafolate）",
+      "D": "二氫葉酸還原酶（dihydrofolate reductase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 48 題",
+    "question": "下列有關分枝桿菌（Mycobacterium）之敘述，何者錯誤？",
+    "options": {
+      "A": "為絕對好氧桿菌",
+      "B": "痲瘋分枝桿菌可於培養基上形成菌落",
+      "C": "此菌一旦被染色，則連3%鹽酸酒精皆不易脫色",
+      "D": "其細胞壁含有大量的脂質"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 49 題",
+    "question": "人類乳頭狀瘤病毒（Human Papillomavirus）分型方法是利用：",
+    "options": {
+      "A": "抗體辨識",
+      "B": "基因體DNA 序列相似度（sequence homology）",
+      "C": "病毒顆粒之大小",
+      "D": "病毒基因之表現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 50 題",
+    "question": "關於流行性感冒病毒（Influenza virus）某病毒株A/Bangkok/1/79（H3N2）之命名，下列敘述何者錯 誤？",
+    "options": {
+      "A": "A 代表此為A 型流行性感冒病毒",
+      "B": "Bangkok 代表其最早分離的地點",
+      "C": "1/79 代表此病毒株之序號",
+      "D": "H3N2 代表其抗原性，HA 抗原為第三型，NA 抗原為第二型"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 51 題",
+    "question": "下列何種病毒之基因體為mRNA？",
+    "options": {
+      "A": "流行性感冒病毒（Influenza virus）",
+      "B": "冠狀病毒（Coronavirus）",
+      "C": "腺病毒（Adenovirus）",
+      "D": "疱疹病毒（Herpesvirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 52 題",
+    "question": "干擾素-γ（IFN-γ）由何種細胞產生？",
+    "options": {
+      "A": "血管內皮細胞",
+      "B": "上皮細胞",
+      "C": "纖維母細胞",
+      "D": "T 細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 53 題",
+    "question": "與第一型人類嗜T 淋巴細胞病毒（Human T-lymphotropic virus type 1, HTLV-1）有關的癌症是：",
+    "options": {
+      "A": "慢性骨髓性白血病（Chronic myelogenous leukemia）",
+      "B": "成人T 細胞白血病（Adult T-cell leukemia）",
+      "C": "卡波西氏肉瘤（Kaposi’s sarcoma）",
+      "D": "HTLV-1 相關脊髓病變（HTLV-1 associated myelopathy）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 54 題",
+    "question": "關於感染第一型人類免疫缺乏病毒（HIV-1）之後的無症狀期之敘述，何者為錯？",
+    "options": {
+      "A": "此時血中可測到抗HIV-1 的抗體",
+      "B": "此時血中無病毒的存在",
+      "C": "此時血中CD4 T-lymphocyte 數目逐漸減少",
+      "D": "可持續數年之久"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 55 題",
+    "question": "下列關於伊波拉病毒（Ebola virus）之敘述，何者為錯？",
+    "options": {
+      "A": "是RNA 病毒",
+      "B": "可引起病毒性出血熱（viral hemorrhagic fever）",
+      "C": "流行於非洲，包括薩伊（Zaire）、加彭（Cabon）等國家",
+      "D": "處理此病毒需要第三級的生物安全實驗室"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 56 題",
+    "question": "挪瓦克（Norwalk）病毒感染造成腹瀉、嘔吐等症狀，此病毒之基因體為：",
+    "options": {
+      "A": "雙股RNA",
+      "B": "雙股DNA",
+      "C": "正（＋）股RNA",
+      "D": "負（－）股RNA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 57 題",
+    "question": "真菌中最常見的無性孢子是何種孢子？",
+    "options": {
+      "A": "分生孢子",
+      "B": "芽生孢子",
+      "C": "孢子囊孢子",
+      "D": "厚膜孢子"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 58 題",
+    "question": "下列何種DNA 病毒顆粒具有環狀、雙股DNA 基因體？",
+    "options": {
+      "A": "EB 病毒（Epstein-Barr virus）",
+      "B": "人類乳頭狀瘤病毒（Human Papillomavirus）",
+      "C": "腺病毒（Adnovirus）",
+      "D": "人類細小病毒（Parvovirus）B19"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 59 題",
+    "question": "新型隱球菌（Cryptococcus neoformans）的特徵，不包括下列那一項？",
+    "options": {
+      "A": "有莢膜",
+      "B": "能形成厚膜孢子",
+      "C": "引起皮膚黏膜感染",
+      "D": "通過呼吸道侵入人體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 60 題",
+    "question": "培養真菌常用何種培養基？",
+    "options": {
+      "A": "巧克力培養基",
+      "B": "沙保羅氏（Sabouraud’s）培養基",
+      "C": "Thioglycollate 培養基",
+      "D": "血清培養基"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 61 題",
+    "question": "白色念珠菌（Candida albicans）可引起下列何種疾病？",
+    "options": {
+      "A": "肺炎",
+      "B": "鵝口瘡",
+      "C": "紅疹",
+      "D": "咽喉炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 74 題",
+    "question": "母體血液中的氧可以輸送給胎兒，是因為胎兒的血紅蛋白（hemoglobin）對氧氣的結合力比母體強，造成此差 異之原因為何？",
+    "options": {
+      "A": "胎兒心跳速率高於母體",
+      "B": "胎兒和母體使用不同的血紅蛋白",
+      "C": "胎兒體內含氧量與母體不同",
+      "D": "胎兒體內產生較多的血紅蛋白"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 75 題",
+    "question": "在非競爭性抑制劑（uncompetitive inhibitor）的存在下，下列何項是可預期的Michaelis-Menten 酵素動力學變 化？",
+    "options": {
+      "A": "Vmax下降，KM下降",
+      "B": "Vmax不變，KM下降",
+      "C": "Vmax下降，KM上升",
+      "D": "Vmax不變，KM上升"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 76 題",
+    "question": "酵素動力學中的穩態（steady state）指的是下列何者？",
+    "options": {
+      "A": "反應活化能為零的狀態",
+      "B": "酵素催化反應的分子機制",
+      "C": "酵素和受質結合的複合體形成和分解的速率一樣",
+      "D": "酵素反應的最大速率"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 77 題",
+    "question": "下列有關輔因子參與酶催化之含碳原子團轉移反應的敘述，何者錯誤？",
+    "options": {
+      "A": "Tetrahydrofolate 可參與不同氧化態的一個碳轉移，如CH3-, CH2OH-, and CHO-",
+      "B": "S-adenosylmethionine（adoMet）由ATP 和methionine 合成，參與甲基（methyl group）轉移",
+      "C": "Biotin 與cysteine 結合，參與pyruvate carboxylase 催化pyruvate 的carboxylation，形成oxaloacetate",
+      "D": "Thiamine pyrophosphate（TPP）參與pyruvate dehydrogenase 反應，促使pyruvate 形成acetyl-CoA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 78 題",
+    "question": "在肌肉、肝臟與腎臟之間胺基（amino group）的運送，主要藉由下列那一組胺基酸作為胺基的攜帶者 （carriers）？",
+    "options": {
+      "A": "phenylalanine、aspartate",
+      "B": "serine、valine",
+      "C": "glutamine、alanine",
+      "D": "glutamate、glutamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 79 題",
+    "question": "抗生素azaserine 可抑制嘌呤的形成，其主要作用機制為下列何者？",
+    "options": {
+      "A": "抑制N 10-formyl tetrahydrofolate 合成",
+      "B": "抑制5-phospho-α-D-ribosyl-pyrophosphate（PRPP）合成",
+      "C": "抑制ribose 5-phosphate 合成以降低核苷酸形成",
+      "D": "抑制glutamine 作為嘌呤核苷酸合成原料"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 80 題",
+    "question": "大腸桿菌的DNA 聚合酶 I 沒有下列何種酵素活性？",
+    "options": {
+      "A": "5'→3' DNA 聚合活性",
+      "B": "3'→5' DNA 聚合活性",
+      "C": "5'→3' DNA 核酸水解活性",
+      "D": "3'→5' DNA 核酸水解活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 81 題",
+    "question": "聚合酶連鎖反應（polymerase chain reaction）可用來偵測微量的DNA，反應中通常不需要加：",
+    "options": {
+      "A": "DNA 聚合酶（DNA polymerase）",
+      "B": "ATP",
+      "C": "脫氧核糖核苷三磷酸（dNTPs）",
+      "D": "鎂離子（Mg 2+）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 82 題",
+    "question": "遺傳性非息肉症大腸直腸癌（hereditary nonpolyposis colon cancer, HNPCC）病患，主要是在何種DNA 修復功能 上產生缺失？",
+    "options": {
+      "A": "核苷酸切除修復（nucleotide excision repair）",
+      "B": "鹼基切除修復（base excision repair）",
+      "C": "重組修復（recombinational repair）",
+      "D": "核酸錯誤配對修復（mismatch repair）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 83 題",
+    "question": "核糖體辨識mRNA 之起始密碼子（initiation codon）AUG，啟動蛋白質合成，使用之起始胺基酸為何者？",
+    "options": {
+      "A": "在真核和細菌中均為methionine",
+      "B": "在真核和細菌中均為N-formylmethionine",
+      "C": "在真核細胞中為methionine；而細菌中為N-formylmethionine",
+      "D": "在真核細胞中為N-formylmethionine；而細菌中為methionine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 84 題",
+    "question": "下列關於組織蛋白（histones）之特性何者正確？",
+    "options": {
+      "A": "富含酸性胺基酸並與DNA 結合",
+      "B": "富含酸性胺基酸並與RNA 結合",
+      "C": "富含鹼性胺基酸並與DNA 結合",
+      "D": "富含鹼性胺基酸並與RNA 結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 85 題",
+    "question": "下列何者為真核細胞mRNA 5' capping 的方式？",
+    "options": {
+      "A": "7-methylguanosine 以5'-to-3' diphosphate linkage 方式結合至mRNA",
+      "B": "7-methylguanosine 以5'-to-5' triphosphate linkage 方式結合至mRNA",
+      "C": "N 6-methyladenosine 以5'-to-5' triphosphate linkage 方式結合至mRNA",
+      "D": "O 6-methylguanosine 以5'-to-3' diphosphate linkage 方式結合至mRNA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 86 題",
+    "question": "下列何者是trp operon 調降作用（attenuation）的最佳敘述？",
+    "options": {
+      "A": "當色胺酸（tryptophan）存在時，可增進trp operon 的轉錄表現",
+      "B": "可調節此operon 的轉錄表現，以因應細胞中微量色胺酸（tryptophan）的改變",
+      "C": "可直接抑制trp mRNA 轉譯作用的機制",
+      "D": "作用在trp operon 內每一個基因個別的啟動子（promoter）上"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 87 題",
+    "question": "下列那一個酵素，位於粒線體內膜上，並同時參與克氏循環（Krebs cycle 或稱 TCA cycle）與電子傳遞鏈反應？",
+    "options": {
+      "A": "Succinate dehydrogenase",
+      "B": "Succinyl-CoA synthetase",
+      "C": "Malate dehydrogenase",
+      "D": "Isocitrate dehydrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 88 題",
+    "question": "下列關於葡萄糖新生（gluconeogenesis）的敘述，何者正確？",
+    "options": {
+      "A": "葡萄糖新生全部的反應都發生在細胞質",
+      "B": "葡萄糖新生將pyruvate 轉化成葡萄糖需要消耗ATP 及GTP",
+      "C": "葡萄糖新生過程中所參與的酵素與糖解作用（glycolysis）完全相同，只是反應方向相反",
+      "D": "Phosphoenolpyruvate carboxykinase（PEPCK）的功能是將phosphoenolpyruvate 轉化成oxaloacetate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 89 題",
+    "question": "下列那種酵素的活性並非調節糖解作用（glycolysis）速率的主要調控者？",
+    "options": {
+      "A": "己糖激酶（hexokinase）",
+      "B": "磷酸果糖激酶（phosphofructokinase）",
+      "C": "烯醇化酶（enolase）",
+      "D": "丙酮酸激酶（pyruvate kinase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 90 題",
+    "question": "Acetyl-CoA carboxylase 為脂肪酸生合成的第一個酵素，其活性最不受下列何者調控？",
+    "options": {
+      "A": "胰島素（insulin）",
+      "B": "輔酶A（coenzyme A）",
+      "C": "檸檬酸（citrate）",
+      "D": "AMP-activated protein kinase（AMPK）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 91 題",
+    "question": "參與凝血作用的維生素K 是下列何者的衍生物？",
+    "options": {
+      "A": "7-dehydrocholesterol",
+      "B": "arachidonate",
+      "C": "isoprenoid",
+      "D": "pregnenolone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 92 題",
+    "question": "下列有關膜周邊蛋白（peripheral membrane proteins）的描述，何者錯誤？",
+    "options": {
+      "A": "調整溶液的pH 值與離子強度可以將它和細胞膜分離",
+      "B": "具有穿透膜結構",
+      "C": "可以利用離子鍵和其他細胞膜蛋白穩定結合",
+      "D": "可以利用氫鍵和其他細胞膜蛋白穩定結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 93 題",
+    "question": "下列有關色胺酸（tryptophan）之敘述，何者錯誤？",
+    "options": {
+      "A": "為人體必需胺基酸",
+      "B": "色胺酸羥化酶（tryptophan hydroxylase）受抑制易導致憂鬱症",
+      "C": "為合成血清素（serotonin）的前驅物",
+      "D": "可代謝形成多巴胺（dopamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 94 題",
+    "question": "有關天門冬醯胺（asparagine）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "為非必需胺基酸（nonessential amino acid）",
+      "B": "可代謝成為天門冬胺酸（aspartate）",
+      "C": "屬於生酮性胺基酸（ketogenic amino acid）",
+      "D": "天門冬醯胺酶（asparaginase）能分解血液中的asparagine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 95 題",
+    "question": "下列粒線體電子傳遞鏈中的那個酵素複合體（complex）可以將氧氣還原成水？",
+    "options": {
+      "A": "complex I",
+      "B": "complex II",
+      "C": "complex III",
+      "D": "complex IV"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 96 題",
+    "question": "真核生物的細胞週期中，cyclin-dependent protein kinase（CDK）的催化活性不受下列何種蛋白直接調控？",
+    "options": {
+      "A": "cyclin",
+      "B": "kinase",
+      "C": "phosphatase",
+      "D": "ubiquitin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 97 題",
+    "question": "下列何種訊息分子通常不會直接結合於G protein-coupled receptor（GPCR）來進行訊息傳遞？",
+    "options": {
+      "A": "angiotensin",
+      "B": "prostaglandin",
+      "C": "epinephrine",
+      "D": "insulin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 98 題",
+    "question": "GTP 酶活化蛋白（GTPase activator proteins, GAPs）最可能直接結合下列何者而調節訊息傳遞？",
+    "options": {
+      "A": "環鳥苷單磷酸（cGMP）",
+      "B": "Ras 蛋白",
+      "C": "二醯基甘油（diacylglycerol）",
+      "D": "腺苷酸環化酶（adenylyl cyclase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 99 題",
+    "question": "下列何者最不可能被用來測定細胞中某一特殊核糖核酸（RNA）的數量？",
+    "options": {
+      "A": "核糖核酸免疫沉澱（RNA immunoprecipitation）",
+      "B": "核糖核酸深度定序（RNA deep sequencing）",
+      "C": "核糖核酸微陣列（RNA microarray）",
+      "D": "反轉錄－即時聚合酶連鎖反應（reverse transcription-real time polymerase chain reaction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 100 題",
+    "question": "下列有關限制酶（restriction enzymes）的描述，何者最適當？",
+    "options": {
+      "A": "作用在胞膜上的通道，以限制某些病毒進入細胞",
+      "B": "具特異性的核糖核酸酶（ribonuclease），能在特定的生理狀況下降解mRNA",
+      "C": "是一種具序列特異性（sequence-specific）的DNA 內切酶（endonuclease）",
+      "D": "能催化胺基酸與特異性的tRNA 結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

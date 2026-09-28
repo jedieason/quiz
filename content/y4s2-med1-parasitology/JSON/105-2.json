@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 75 題",
+    "question": "葉先生日前參加日本旅遊而食用壽司及生魚片，當日即感覺上腹部疼痛、噁心及輕微嘔吐現象，返國後就醫檢查發現胃部有線 狀填充物缺陷（threadlike filling defect），並利用胃鏡鏡檢摘除數條寄生蟲體。依據上述結果，葉先生最可能感染下列何種寄 生蟲？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "海獸胃線蟲（Anisakis spp.）",
+      "C": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "D": "棘顎口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 76 題",
+    "question": "下列何種寄生蟲之感染，其幼蟲在人體內移行（migration）不會經過肺臟？①糞小桿線蟲（Strongyloides stercoralis） ②蟯 蟲（Enterobius vermicularis） ③鞭蟲（Trichuris trichiura）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 77 題",
+    "question": "下列有關單胞絛蟲（Echinococcus granulosus）感染人體的敘述，共有幾項敘述錯誤？①人為終宿主（final host） ②最容 易在肌肉形成包生囊（hydatid cyst） ③因誤食未熟帶蟲之牛肉而感染 ④感染後數週即迅速發病",
+    "options": {
+      "A": "1項",
+      "B": "2項",
+      "C": "3項",
+      "D": "4項"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 78 題",
+    "question": "下列有關寄生蟲之敘述中，何者錯誤？",
+    "options": {
+      "A": "除了血吸蟲（schistosomes）外，其他寄生人體的吸蟲類之蟲卵都具有卵蓋（operculum）",
+      "B": "野豬是衛氏肺吸蟲（Paragonimus westermani）的保蟲宿主（reservoir host）",
+      "C": "生吃美國進口的生鮮蝲蛄（crayfish）有可能感染克氏肺吸蟲（Paragonimus kellicotti）",
+      "D": "埃及血吸蟲（Schistosoma haematobium）的慢性感染患者，罹患膀胱癌的機率較高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 79 題",
+    "question": "某科技公司主管林先生於二週前赴美國紐澤西地區參訪旅遊，旅遊期間曾遭受不知名具有八隻腳蟲體叮咬，回國一週後出現發 燒、寒顫、頭痛及肌痛等症狀，經醫院檢驗結果發現血小板減少、輕度溶血性貧血及紅血球內發現有雙核形（binucleate- form）之寄生蟲。依據上述結果，林先生最可能感染何種寄生蟲病？",
+    "options": {
+      "A": "萊姆病（Lyme disease）",
+      "B": "巴貝氏原蟲症（babesiosis）",
+      "C": "恙蟲病（scrub typhus）",
+      "D": "艾立克次體症（ehrlichiosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 80 題",
+    "question": "以下關於弓蟲（Toxoplasma gondii）的敘述中，何者錯誤？",
+    "options": {
+      "A": "人是其終宿主，而貓是其中間宿主",
+      "B": "在愛滋病患者可能導致弓蟲性腦炎（Toxoplasma encephalitis）",
+      "C": "文獻記載，孕婦得到急性弓蟲症（toxoplasmosis）時，spiramycin為預防其胎兒子宮內感染的用藥之一",
+      "D": "弓蟲症在台灣屬第四類法定傳染病"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 81 題",
+    "question": "下列何者為傳播人畜共通萊姆病（Lyme disease）之主要病媒（vector）？",
+    "options": {
+      "A": "硬蜱屬（Ixodes spp.）",
+      "B": "牛蜱屬（Boophilus spp.）",
+      "C": "革蜱屬（Dermacentor spp.）",
+      "D": "軟蜱屬（Ornithodoros spp.）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 82 題",
+    "question": "錐鼻蟲（Triatoma / kissing bug）可以傳播下列何種寄生蟲？",
+    "options": {
+      "A": "杜氏利什曼原蟲（Leishmania donovani）",
+      "B": "熱帶利什曼原蟲（Leishmania tropica）",
+      "C": "岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "枯西氏錐蟲（Trypanosoma cruzi）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

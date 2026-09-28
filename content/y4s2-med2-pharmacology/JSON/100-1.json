@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 51 題",
+    "question": "服用下列何種血管舒張劑易產生紅斑性狼瘡的副作用？  Hydralazine",
+    "options": {
+      "A": "Hydralazine",
+      "B": "Minoxidil",
+      "C": "Captopril",
+      "D": "Sildenafil"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 52 題",
+    "question": "嚴重鉛中毒引起的腦部病變，應立即給予下列何種藥物治療最佳？  Deferoxamine",
+    "options": {
+      "A": "Deferoxamine",
+      "B": "Edetate calcium disodium（EDTA）",
+      "C": "Penicillamine",
+      "D": "Succimer"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 53 題",
+    "question": "患有前列腺肥大排尿不易的高血壓病人，宜使用下列何種降血壓藥物來治療？  Clonidine",
+    "options": {
+      "A": "Clonidine",
+      "B": "Yohimbine",
+      "C": "Terazosin",
+      "D": "Ritodrine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 54 題",
+    "question": "治療鐮刀型貧血（sickle cell anemia）可使用下列何種藥物？  Folate",
+    "options": {
+      "A": "Folate",
+      "B": "Deferoxamine",
+      "C": "Hydroxyurea",
+      "D": "Pyridoxine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 55 題",
+    "question": "下列有關降血脂藥物對血中HDL 或LDL 含量影響之描述何者錯誤？",
+    "options": {
+      "A": "Fibric acid 可減低血中LDL-C 含量",
+      "B": "Statins 可減低血中LDL-C 含量",
+      "C": "Nicotinic acid 可增加血中HDL 含量",
+      "D": "Ezetimibe 可增加血中HDL 含量"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 56 題",
+    "question": "下列何種新型藥物可轉化為melagatran，並直接抑制thrombin 之作用，可使用於deep venous thrombosis， 且較warfarin 安全，惟其有影響肝功能之副作用？",
+    "options": {
+      "A": "Ximelagatran",
+      "B": "Lepirudin",
+      "C": "Tenecteplase",
+      "D": "Abciximab"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 57 題",
+    "question": "下列何者為抑制HIV 及預防cytomegalovirus 感染的首選藥物？  Indinavir",
+    "options": {
+      "A": "Indinavir",
+      "B": "Rifabutin",
+      "C": "Fluconazole",
+      "D": "Ganciclovir"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 58 題",
+    "question": "下列何種藥物可以有效地治療犬絛蟲（Echinococcus granulosus）所造成的肝囊腫？  Albendazole",
+    "options": {
+      "A": "Albendazole",
+      "B": "Ivermectin",
+      "C": "Oxamniquine",
+      "D": "Niclosamide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 59 題",
+    "question": "下列何種治療乳癌藥物中，對女性乳癌具有專一性的作用？  Doxorubicin",
+    "options": {
+      "A": "Doxorubicin",
+      "B": "Trast uzumab",
+      "C": "Anastrozole",
+      "D": "Fluoxymesterone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 60 題",
+    "question": "下列何者與penicillin G 合併使用，是最有效治療腸球菌感染的藥物？  Tobramycin",
+    "options": {
+      "A": "Tobramycin",
+      "B": "Gentamicin",
+      "C": "Netilmicin",
+      "D": "Streptomycin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 61 題",
+    "question": "下列何者為最有效治療多重抗藥菌株M. tuberculosis 對streptomycin 有抗藥性的首選藥物？  Amikacin",
+    "options": {
+      "A": "Amikacin",
+      "B": "Spectinomycin",
+      "C": "Gentamicin",
+      "D": "Clarithromycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 62 題",
+    "question": "下列全身麻醉劑中，何者的化學結構類似phencyclidine（PCP），容易引起惡夢及類神經異常現象？",
+    "options": {
+      "A": "Propofol",
+      "B": "Fentanyl",
+      "C": "Etomidate",
+      "D": "Ketamine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 63 題",
+    "question": "下列那一種全身性麻醉劑會抑制呼吸中樞及降低對二氧化碳的敏感性？  Thiopental",
+    "options": {
+      "A": "Thiopental",
+      "B": "Halothane",
+      "C": "Ketamine",
+      "D": "Nitrous oxide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 64 題",
+    "question": "下列有關鎮靜-催眠（sedative-hypnotic）用藥在逐漸提高使用劑量時，其所產生中樞神經系統作用之 序列，何者正確？",
+    "options": {
+      "A": "鎮靜（sedation）→麻醉（anesthesia）→催眠（hypnosis）→昏迷（coma）",
+      "B": "催眠（hypnosis）→鎮靜（sedation）→麻醉（anesthesia）→昏迷（coma）",
+      "C": "催眠（hypnosis）→麻醉（anesthesia）→鎮靜（sedation）→昏迷（coma）",
+      "D": "鎮靜（sedation）→催眠（hypnosis）→麻醉（anesthesia）→昏迷（coma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 65 題",
+    "question": "下列有關抗癲癇用藥carbamazepine 與oxcarbazepine 的作用比較，何者錯誤？",
+    "options": {
+      "A": "Oxcarbazepine 所產生的作用強度（potency）較carbamazepine 大",
+      "B": "Oxcarbazepine 所產生的肝毒性較carbamazepine 低",
+      "C": "Oxcarbazepine 與carbamazepine 適用於同型式的癲癇治療",
+      "D": "Oxcarbazepine 所產生的藥物過敏性反應較carbamazepine 低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 66 題",
+    "question": "根據治療指數（therapeutic index）的評估方式，下列那一種鎮靜-催眠（sedative-hypnotic）類藥物的 使用安全性最高？  Morphine",
+    "options": {
+      "A": "Morphine",
+      "B": "Chloropromazine",
+      "C": "Phenobarbital",
+      "D": "Diazepam"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 67 題",
+    "question": "下列何種因素會降低吸入性全身性麻醉劑的誘導速率？",
+    "options": {
+      "A": "增加吸入性氣體中藥物濃度比例",
+      "B": "增加肺泡換氣速率",
+      "C": "麻醉藥物血中溶解度較高",
+      "D": "降低心輸出量"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 68 題",
+    "question": "下列敘述何者正確？  Ipratropium",
+    "options": {
+      "A": "減少呼吸道腺體分泌及氣管平滑肌收縮，可改善肺氣腫（emphysema）症狀",
+      "B": "氣喘發作時，應該選擇β2-adrenergic receptor活化劑，如timolol，以便即時擴張氣管 Scopolamine",
+      "C": "因能活化muscarinic ACh 受體，故可減輕暈車、暈船等中樞神經系統引起之嘔吐",
+      "D": "身心遇緊急狀況時，因會興奮迷走神經，故導致心跳加速，瞳孔縮小"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 69 題",
+    "question": "下列何種藥物是經由抑制muscarinic receptor 而達到治療irritable bowel syndrome 的作用？  Bethanechol",
+    "options": {
+      "A": "Bethanechol",
+      "B": "Pirenzepine",
+      "C": "Tropicamide",
+      "D": "Clidinium"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 70 題",
+    "question": "下列何種治療congestive heart failure 的藥物，其作用機轉是經由增加NO 而使血管舒張來達成的？  Dopamine",
+    "options": {
+      "A": "Dopamine",
+      "B": "Nitroglycerin",
+      "C": "Nesiritide",
+      "D": "Milrinone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 71 題",
+    "question": "下列何者不是雌激素（estrogen）之作用器官？  Br",
+    "options": {
+      "A": "Br ain",
+      "B": "Testis",
+      "C": "Bone",
+      "D": "Pancreas"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 72 題",
+    "question": "Indomethacin 具有子宮鬆弛的作用，主要是經由何種機轉而來？",
+    "options": {
+      "A": "刺激adenylyl cyclase",
+      "B": "刺激β-adrenergic receptor",
+      "C": "抑制cyclooxygenase",
+      "D": "抑制phospholipase A2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 73 題",
+    "question": "下列四環黴素中，何者較易有“光敏感”（photosensitization）的副作用？  demeclocycline",
+    "options": {
+      "A": "demeclocycline",
+      "B": "doxycycline",
+      "C": "oxytetracycline",
+      "D": "minocycline"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者 均給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 74 題",
+    "question": "下列何種藥物可以增強GABA 在線蟲體及節肢動物之神經-肌肉結合處的作用？  Glutamic acid",
+    "options": {
+      "A": "Glutamic acid",
+      "B": "Picrotoxin",
+      "C": "Pyrimethamine",
+      "D": "Ivermectin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 75 題",
+    "question": "下列何種藥物為一種選擇性高之antithrombin-dependent factor Xa 抑制劑？",
+    "options": {
+      "A": "Heparin",
+      "B": "Clopidogrel",
+      "C": "Fondaparinux",
+      "D": "Aspirin"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

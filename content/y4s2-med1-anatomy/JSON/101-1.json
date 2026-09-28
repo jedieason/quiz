@@ -1,0 +1,343 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 1 題",
+    "question": "乳腺內側的淋巴主要匯入：",
+    "options": {
+      "A": "肩胛下淋巴結（Subscapular lymph nodes）",
+      "B": "前胸淋巴結（Anterior pectoral nodes）",
+      "C": "鎖骨下淋巴結（Infraclavicular nodes）",
+      "D": "旁胸淋巴結（Parasternal nodes）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 2 題",
+    "question": "沿腋中線在第9 肋間作胸腔穿刺，針尖所在的位置是：",
+    "options": {
+      "A": "肺門（hilum of the lung）",
+      "B": "心切痕（cardiac notch）",
+      "C": "肋橫膈隱窩（costodiaphragmatic recess）",
+      "D": "肋縱膈隱窩（costomediastinal recess）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 3 題",
+    "question": "下列何者不是脊柱的運動方式？",
+    "options": {
+      "A": "曲（flexion）",
+      "B": "伸（extension）",
+      "C": "旋轉（rotation）",
+      "D": "迴轉（circumduction）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 4 題",
+    "question": "下列何者是迷走神經所支配的器官？",
+    "options": {
+      "A": "卵巢",
+      "B": "直腸",
+      "C": "子宮",
+      "D": "陰道"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 5 題",
+    "question": "下列何者直接連結膀胱的頂端（apex）？",
+    "options": {
+      "A": "懸韌帶",
+      "B": "臍外韌帶",
+      "C": "臍內韌帶",
+      "D": "臍正中韌帶"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 6 題",
+    "question": "闊筋膜張肌（tensor fasciae latae）退化萎縮，可能因下列何者受損而造成？",
+    "options": {
+      "A": "臀上神經",
+      "B": "臀下神經",
+      "C": "閉孔神經",
+      "D": "坐骨神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 7 題",
+    "question": "下列何者不屬於屈戌關節（hinge joint）？",
+    "options": {
+      "A": "肩關節（Shoulder joint）",
+      "B": "踝關節（Ankle joint）",
+      "C": "肘關節（Elbow joint）",
+      "D": "指間關節（Interphalangeal joint）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 8 題",
+    "question": "肱骨內上髁（medial epicondyle）骨折最可能傷害下列何者？",
+    "options": {
+      "A": "肌皮神經",
+      "B": "正中神經",
+      "C": "橈神經",
+      "D": "尺神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 9 題",
+    "question": "小腿骨折造成足踝無法背屈（dorsiflexion），下列何者最可能受傷？",
+    "options": {
+      "A": "股神經",
+      "B": "腓神經",
+      "C": "脛神經",
+      "D": "坐骨神經"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 10 題",
+    "question": "下列有關手部神經支配的敘述，何者錯誤？",
+    "options": {
+      "A": "正中神經是負責手掌大拇指側感覺的主要神經",
+      "B": "尺神經負責手掌內側的感覺",
+      "C": "橈神經負責整個手背的感覺",
+      "D": "尺神經受傷，會造成第四及第五指的遠端指間關節不能屈曲"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 11 題",
+    "question": "下列何者屬於肩旋轉肌群？",
+    "options": {
+      "A": "小圓肌",
+      "B": "胸大肌",
+      "C": "提肩胛肌",
+      "D": "大菱形肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 12 題",
+    "question": "雙眼外側視野二分之一缺損（bilateral temporal hemianopia），最可能的損傷部位是：",
+    "options": {
+      "A": "視神經（optic nerve）",
+      "B": "外側膝狀體（lateral geniculate body）",
+      "C": "視徑（optic tract）",
+      "D": "視交叉（optic chiasm）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 13 題",
+    "question": "胸骨旁，第五肋間深約1 公分的穿刺傷，造成大量出血，最可能受傷的動脈是：",
+    "options": {
+      "A": "最上肋間動脈（supreme intercostal artery）",
+      "B": "內胸動脈（internal thoracic artery）",
+      "C": "肌膈動脈（musculophrenic artery）",
+      "D": "肋下動脈（subcostal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 14 題",
+    "question": "腕關節（wrist joint）屬於下列何種關節？",
+    "options": {
+      "A": "髁狀關節（condyloid joint）",
+      "B": "球窩關節（ball and socket joint）",
+      "C": "鞍型關節（saddle joint）",
+      "D": "屈戌關節（hinge joint）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 15 題",
+    "question": "30 歲男性工人，工作時被玻璃割傷，前臂腹面，離腕關節3 公分的小指側有一2 公分傷口，檢查時， 有血液湧出，請問最可能是下列何構造受損？",
+    "options": {
+      "A": "橈動脈",
+      "B": "尺動脈",
+      "C": "臂動脈",
+      "D": "指動脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 16 題",
+    "question": "病人上臂骨折後，手腕無法伸展，最可能是下列何者受傷所造成？",
+    "options": {
+      "A": "正中神經",
+      "B": "腋神經",
+      "C": "尺神經",
+      "D": "橈神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 17 題",
+    "question": "肝癌的治療可以經由血管打入藥物造成栓塞以殺死腫瘤細胞，臨床上最適合的路徑是把藥物打入：",
+    "options": {
+      "A": "肝靜脈",
+      "B": "主動脈",
+      "C": "門靜脈",
+      "D": "肝動脈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 18 題",
+    "question": "肝門靜脈高壓（portal hypertension）最不可能造成下列何種現象？",
+    "options": {
+      "A": "痔瘡",
+      "B": "食道靜脈曲張",
+      "C": "下肢靜脈曲張",
+      "D": "脾靜脈壓力升高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 19 題",
+    "question": "縱膈手術後，聲音沙啞且聲帶不動，下列何者的分支最可能損傷？",
+    "options": {
+      "A": "膈神經",
+      "B": "副神經",
+      "C": "迷走神經",
+      "D": "交感神經叢"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 20 題",
+    "question": "下列何者阻塞時，最可能造成右側肢體無力及運動型失語症（Broca’s aphasia）？",
+    "options": {
+      "A": "前大腦動脈",
+      "B": "中大腦動脈",
+      "C": "後大腦動脈",
+      "D": "椎動脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 21 題",
+    "question": "第三顱神經受損，最可能影響下列何種動作？",
+    "options": {
+      "A": "咀嚼",
+      "B": "臉龐流汗",
+      "C": "緊閉眼睛",
+      "D": "上眼瞼上抬"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 22 題",
+    "question": "以手電筒照射病患左眼時，其左瞳孔收縮，右瞳孔無反應，其可能的原因為？",
+    "options": {
+      "A": "病患兩眼完全正常",
+      "B": "右視神經失能",
+      "C": "左視神經失能",
+      "D": "右動眼神經受損"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 23 題",
+    "question": "神經傳遞物質的釋放過程與下列何離子有關？",
+    "options": {
+      "A": "鎂",
+      "B": "鈣",
+      "C": "鈉",
+      "D": "鉀"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 24 題",
+    "question": "有關顱內靜脈竇（venous sinuses）之敘述，何者錯誤？",
+    "options": {
+      "A": "上矢狀竇（superior sagittal sinus）內之血液流向竇匯（confluence of sinuses）",
+      "B": "乙狀竇（sigmoid sinus）直接承接橫竇（transverse sinus）流過來之血液",
+      "C": "岩下竇（inferior petrosal sinus）內之血液直接流向乙狀竇",
+      "D": "下矢狀竇（inferior sagittal sinus）內之血液直接流向岩上竇（superior petrosal sinus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 25 題",
+    "question": "下列有關顱神經（cranial nerve）的敘述，何者正確？",
+    "options": {
+      "A": "動眼神經支配第一對咽弓所衍生的結構",
+      "B": "滑車神經源自同側神經核在上、下丘間出中腦",
+      "C": "三叉神經眼枝支配提上眼瞼肌（superior levator palpebrae muscle）",
+      "D": "外展神經核（abducent nucleus）接受對側動眼神經調節眼球運動"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 26 題",
+    "question": "下列何處是突觸後多巴胺一型和二型受器（D1/D2）的主要分布地方？",
+    "options": {
+      "A": "殼核（putamen）",
+      "B": "底丘腦核（subthalamic nucleus）",
+      "C": "蒼白球（globus pallidus）",
+      "D": "黑質（substantia nigra）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 27 題",
+    "question": "車禍造成腓骨近側端骨折，下列何者最不可能出現？",
+    "options": {
+      "A": "垂足（foot-drop）",
+      "B": "喪失足背感覺",
+      "C": "喪失小腿前外側的感覺",
+      "D": "第一蹠骨（metatarsal）頭部以後的內側足部感覺喪失"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 28 題",
+    "question": "嬰兒開始站立行走後，下列何者最為明顯？",
+    "options": {
+      "A": "頸彎曲",
+      "B": "胸彎曲",
+      "C": "腰彎曲",
+      "D": "薦彎曲"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

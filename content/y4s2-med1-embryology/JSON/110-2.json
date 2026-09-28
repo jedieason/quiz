@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 32 題",
+    "question": "下列何者只出現於絨毛膜的三級絨毛（tertiary chorionic villus）內？",
+    "options": {
+      "A": "融合滋養層（syncytiotrophoblast）",
+      "B": "細胞滋養層（cytotrophoblast）",
+      "C": "間葉組織（mesenchymal tissue）",
+      "D": "微血管（capillary）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 33 題",
+    "question": "大部分腹側腸繫膜（ventral mesentery）在胚胎發育過程中都會消失，下列何者尾端仍保留此構造？",
+    "options": {
+      "A": "原始咽（primordial pharynx）",
+      "B": "前腸（foregut）",
+      "C": "中腸（midgut）",
+      "D": "後腸（hindgut）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 34 題",
+    "question": "鎚骨（malleus），砧骨（incus），和鐙骨（stapes）是源自：",
+    "options": {
+      "A": "第1和第2咽弓（pharyngeal arch）",
+      "B": "第2和第3咽弓（pharyngeal arch）",
+      "C": "第3和第4咽弓（pharyngeal arch）",
+      "D": "第4和第6咽弓（pharyngeal arch）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 35 題",
+    "question": "下列何者發育不正常，最可能會造成先天斜頸（congenital torticollis/wryneck）？",
+    "options": {
+      "A": "斜角肌（scalene muscle）",
+      "B": "胸鎖乳突肌（sternocleidomastoid muscle）",
+      "C": "脊柱前肌（prevertebral muscle）",
+      "D": "舌下肌（infrahyoid muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 36 題",
+    "question": "汗腺的分泌部（secretory part of sweat gland）之發育，主要衍生自下列何者？",
+    "options": {
+      "A": "體表外胚層（surface ectoderm）",
+      "B": "神經嵴（neural crest）",
+      "C": "咽弓之中胚層（pharyngeal mesoderm）",
+      "D": "間葉組織（mesenchyme）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

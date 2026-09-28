@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 1 題",
+    "question": "下列何者位於腦幹網狀結構（reticular formation）內，且其傳出神經纖維（efferent fibers）走在第九、 十對腦神經內？",
+    "options": {
+      "A": "舌下神經核（hypoglossal nucleus）",
+      "B": "背側迷走神經核（dorsal nucleus of vagus）",
+      "C": "疑核（nucleus ambiguus）",
+      "D": "孤立核（solitary nucleus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 2 題",
+    "question": "舌咽神經（glossopharyngeal nerve）與迷走神經（vagus nerve）接收頸動脈與主動脈弓的血壓訊息後，皆 會傳遞至腦幹內的那一神經核？",
+    "options": {
+      "A": "疑核（nucleus ambiguus）",
+      "B": "孤立核（solitary nucleus）",
+      "C": "背側迷走神經核（dorsal nucleus of vagus）",
+      "D": "三叉神經脊髓核（spinal trigeminal nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 3 題",
+    "question": "負責偵測咬合力道（force of bite）的神經細胞本體，主要位在腦幹的那一神經核內？",
+    "options": {
+      "A": "三叉神經脊髓核（spinal trigeminal nucleus）",
+      "B": "三叉神經橋腦核（pontine trigeminal nucleus）",
+      "C": "三叉神經運動核（trigeminal motor nucleus）",
+      "D": "三叉神經中腦核（mesencephalic trigeminal nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 4 題",
+    "question": "下列小腦深部神經核（deep cerebellar nuclei）中何者位於最外側？",
+    "options": {
+      "A": "頂核（fastigial nucleus）",
+      "B": "球狀核（globose nucleus）",
+      "C": "栓狀核（emboliform nucleus）",
+      "D": "齒狀核（dentate nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 5 題",
+    "question": "視覺與聽覺的訊息傳至下列丘腦（thalamus）的那兩個核區？",
+    "options": {
+      "A": "腹前側核（ventral anterior nucleus）與腹外側核（ventral lateral nucleus）",
+      "B": "外側膝狀核（lateral geniculate nucleus）與內側膝狀核（medial geniculate nucleus）",
+      "C": "腹後外側核（ventral posterior lateral nucleus）與腹後內側核（ventral posterior medial nucleus）",
+      "D": "外側背側核（lateral dorsal nucleus）與外側後側核（lateral posterior nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 6 題",
+    "question": "外耳的疼痛可能與下列何者最不相關？",
+    "options": {
+      "A": "三叉神經（trigeminal nerve）",
+      "B": "顏面神經（facial nerve）",
+      "C": "舌咽神經（glossopharyngeal nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 7 題",
+    "question": "下列何者的收縮不會使舌頭後移（retrusion of tongue）？",
+    "options": {
+      "A": "上縱肌（superior longitudinal muscle）",
+      "B": "下縱肌（inferior longitudinal muscle）",
+      "C": "舌骨舌肌（hyoglossus muscle）",
+      "D": "頦舌肌（genioglossus muscle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 8 題",
+    "question": "下列靜脈血管，何者與右冠狀動脈（right coronary artery）的主幹伴行？",
+    "options": {
+      "A": "心大靜脈（great cardiac vein）",
+      "B": "心中靜脈（middle cardiac vein）",
+      "C": "心小靜脈（small cardiac vein）",
+      "D": "心後靜脈（posterior cardiac vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 9 題",
+    "question": "股管（femoral canal）位於股鞘（femoral sheath）內的何處？",
+    "options": {
+      "A": "深層",
+      "B": "偏內",
+      "C": "偏外",
+      "D": "中間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 10 題",
+    "question": "關於傳遞痛覺（nociception）的神經纖維，下列敘述何者最恰當？",
+    "options": {
+      "A": "主要經脊髓背根內側（medial division of posterior root），進入脊髓，且通常為較細的神經纖維 （small diameter fiber）",
+      "B": "主要經脊髓背根外側（lateral division of posterior root），進入脊髓，且通常為較細的神經纖維 （small diameter fiber）",
+      "C": "主要經脊髓背根內側（medial division of posterior root），進入脊髓，且通常為較粗的神經纖維 （large diameter fiber）",
+      "D": "主要經脊髓背根外側（lateral division of posterior root），進入脊髓，且通常為較粗的神經纖維 （large diameter fiber）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 11 題",
+    "question": "病人無法內收（adduct）右眼，最可能是下列何者受損？",
+    "options": {
+      "A": "視神經（optic nerve）",
+      "B": "動眼神經（oculomotor nerve）",
+      "C": "滑車神經（trochlear nerve）",
+      "D": "外旋神經（abducens nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 12 題",
+    "question": "下列何處可找到最多的錐狀感光細胞（cone photoreceptor cell）？",
+    "options": {
+      "A": "脈絡膜（choroid）",
+      "B": "中央小凹（central fovea）",
+      "C": "視盤（optic disc）",
+      "D": "睫狀突（ciliary process）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 13 題",
+    "question": "下列何者可在頸後三角（posterior triangle of the neck）內觀察到？",
+    "options": {
+      "A": "顏面動脈（facial artery）由頸外動脈發出",
+      "B": "表淺處之皮膚底下即是迷走神經（vagus nerve）",
+      "C": "頸神經叢的分支（branches of cervical plexus）",
+      "D": "肩胛舌骨肌上腹（superior belly of omohyoid muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 14 題",
+    "question": "下列何者與耳下腺（parotid gland）的血液供應最不相關？",
+    "options": {
+      "A": "上頷動脈（maxillary artery）",
+      "B": "枕動脈（occipital artery）",
+      "C": "耳後動脈（posterior auricular artery）",
+      "D": "面橫動脈（transverse facial artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 15 題",
+    "question": "下列何者的收縮，是由第五對腦神經第三分支（CN V3）所負責？",
+    "options": {
+      "A": "顳肌（temporalis muscle）",
+      "B": "頰肌（buccinator muscle）",
+      "C": "莖突舌骨肌（stylohyoid muscle）",
+      "D": "二腹肌的後腹（posterior belly of the digastric muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 16 題",
+    "question": "下列那一條神經，不出現在鼻腔內？",
+    "options": {
+      "A": "第一對腦神經（CN I）",
+      "B": "第五對腦神經、第一分支（CN V1）",
+      "C": "第五對腦神經、第二分支（CN V2）",
+      "D": "第五對腦神經、第三分支（CN V3）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 17 題",
+    "question": "下列何者一般穿過橫膈的中心腱（central tendon）？",
+    "options": {
+      "A": "主動脈（aorta）",
+      "B": "食道（esophagus）",
+      "C": "下腔靜脈（inferior vena cava）",
+      "D": "胸管（thoracic duct）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 18 題",
+    "question": "下列何者通常不會出現在上縱隔腔（superior mediastinum）？",
+    "options": {
+      "A": "胸腺（thymus）",
+      "B": "肺動脈幹（pulmonary trunk）",
+      "C": "上腔靜脈（superior vena cava）",
+      "D": "胸管（thoracic duct）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 19 題",
+    "question": "聽診檢查肺動脈瓣（pulmonary valve）時，下列位置何者最佳？",
+    "options": {
+      "A": "右前胸壁，第二肋間靠近胸骨處",
+      "B": "左前胸壁，第二肋間靠近胸骨處",
+      "C": "右前胸壁，第五肋間靠近胸骨處",
+      "D": "左前胸壁，第五肋間靠近胸骨處"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 20 題",
+    "question": "有關胸管（thoracic duct）在胸腔內的敘述，下列何者最為恰當？",
+    "options": {
+      "A": "通常位在主動脈（aorta）前方",
+      "B": "通常經由食管裂孔（esophageal hiatus）由腹腔進入胸腔",
+      "C": "在上縱膈腔（superior mediastinum）內，通常位於左鎖骨下動脈起始處（initial portion of left subclavian artery）的前方",
+      "D": "在後縱膈腔（posterior mediastinum）內，一般位在半奇靜脈（hemiazygos vein）匯入奇靜脈（azygos vein）處的前方"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 21 題",
+    "question": "最小內臟神經（least splanchnic nerve）起源自何段交感神經幹（sympathetic trunk）？",
+    "options": {
+      "A": "T1-4",
+      "B": "T5-9",
+      "C": "T10-11",
+      "D": "T12"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 22 題",
+    "question": "睪丸動脈（testicular artery）起自：",
+    "options": {
+      "A": "腹主動脈（abdominal aorta）",
+      "B": "腎動脈（renal artery）",
+      "C": "腸繫膜下動脈（inferior mesenteric artery）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 23 題",
+    "question": "下列何者的形成，與腹膜無關？",
+    "options": {
+      "A": "脾腎韌帶（splenorenal ligament）",
+      "B": "膈食道韌帶（phrenicoesophageal ligament）",
+      "C": "子宮闊韌帶（broad ligament of uterus）",
+      "D": "卵巢懸韌帶（suspensory ligament of the ovary）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 24 題",
+    "question": "關於骨盆的壁及底部的肌肉，下列敘述何者錯誤？",
+    "options": {
+      "A": "閉孔內肌（obturator internus）參與形成外側壁，通過坐骨小孔（lesser sciatic foramen），再延伸往 臀區",
+      "B": "梨狀肌（piriformis）參與形成後壁，通過坐骨大孔（greater sciatic foramen），再延伸往臀區",
+      "C": "提肛肌（levator ani）參與組成骨盆膈（pelvic diaphragm），骨盆膈形成骨盆底",
+      "D": "尾骨肌（coccygeus）參與組成外側壁，通過坐骨小孔，再延伸往臀區"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 25 題",
+    "question": "關於陰道（vagina），下列敘述何者錯誤？",
+    "options": {
+      "A": "巴多林氏腺（Bartholin's gland）的導管開口於大陰唇（labium majus）和小陰唇（labium minus）之間",
+      "B": "陰道位於膀胱（urinary bladder）及尿道（urethra）的後方",
+      "C": "陰道後穹窿（posterior vaginal fornix）的位置靠近直腸子宮陷凹（rectouterine pouch）",
+      "D": "陰道的血液供應來自子宮動脈（uterine arteries）、陰道動脈（vaginal arteries）及陰部內動脈 （internal pudendal arteries）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 26 題",
+    "question": "關於男性會陰部神經，下列敘述何者正確？",
+    "options": {
+      "A": "陰部神經（pudendal nerve）是會陰神經（perineal nerve）的分支",
+      "B": "陰囊後神經（posterior scrotal nerve）是會陰神經（perineal nerve）的分支",
+      "C": "下直腸神經（inferior rectal nerve）支配會陰深橫肌（deep transverse perineal muscle）",
+      "D": "陰部神經（pudendal nerve）先分支出陰囊後神經（posterior scrotal nerve）後再分支出下直腸神經 （inferior rectal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 27 題",
+    "question": "提肛肌（levator ani muscle）的腱弓（tendinous arch），由下列何者的筋膜增厚形成？",
+    "options": {
+      "A": "尾骨肌（coccygeus）",
+      "B": "梨狀肌（piriformis）",
+      "C": "閉孔內肌（obturator internus）",
+      "D": "閉孔外肌（obturator externus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 28 題",
+    "question": "摩托車事故造成大腿外展（abduction）與內旋（medial rotation）的能力變弱，最可能是下列何者受損？",
+    "options": {
+      "A": "梨狀肌（piriformis）",
+      "B": "臀大肌（gluteus maximus）",
+      "C": "臀中肌（gluteus medius）",
+      "D": "閉孔內肌（obturator internus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 29 題",
+    "question": "下列那一肌肉的作用是外展食指（abduct index finger）？",
+    "options": {
+      "A": "蚓狀肌（lumbricals）",
+      "B": "背側骨間肌（dorsal interossei）",
+      "C": "掌側骨間肌（palmar interossei）",
+      "D": "外展拇短肌（abductor pollicis brevis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 30 題",
+    "question": "下列那一條神經支配上臂前肌群（muscles of anterior arm）？",
+    "options": {
+      "A": "尺神經（ulnar nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "肌皮神經（musculocutaneous nerve）",
+      "D": "鎖骨上神經（supraclavicular nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 31 題",
+    "question": "在解剖姿勢（anatomical position）下，股骨（femur）的外側髁（lateral condyle）在位置上對應於肱骨 （humerus）何處？",
+    "options": {
+      "A": "小頭（capitulum）",
+      "B": "滑車（trochlea）",
+      "C": "大結節（greater tubercle）",
+      "D": "小結節（lesser tubercle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

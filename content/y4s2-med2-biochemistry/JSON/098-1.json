@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 26 題",
+    "question": "下面E. coli 那一個酵素，其人類同源（homologous）基因是屬於抑癌基因？",
+    "options": {
+      "A": "DNA 聚合酶Ⅲ",
+      "B": "修護酶Mut S",
+      "C": "RNA 聚合酶",
+      "D": "解螺旋酶（helicase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 27 題",
+    "question": "病人處於hypercatabolic state，血液及尿液裏的urea nitrogen 濃度會上升，下述何者錯誤？",
+    "options": {
+      "A": "代表protein degradation 增加",
+      "B": "urea nitrogen 的來源是amino acid",
+      "C": "amino acid 經urea cycle 轉化為urea",
+      "D": "urea cycle 主要在kidney 發生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 28 題",
+    "question": "葡萄糖進行醣解反應（glycolysis）之終產物為pyruvate，當病人發生休克（shock）而組織缺氧時 （hypoxia），抽血檢驗下列何種pyruvate 下游產物濃度會上升？",
+    "options": {
+      "A": "ethanol",
+      "B": "acetyl-CoA",
+      "C": "lactate",
+      "D": "ATP"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 29 題",
+    "question": "下面那一個真核細胞中蛋白質複合物，同時參與RNA 轉錄及DNA 修復功能？",
+    "options": {
+      "A": "TFIIA",
+      "B": "TFIID",
+      "C": "TFIIF",
+      "D": "TFIIH"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 30 題",
+    "question": "最早被核准用於治療愛滋病人的藥物AZT（Zidovudine）為一核苷酸類似物（nucleoside analog）。 其抑制愛滋病毒的機轉為何？",
+    "options": {
+      "A": "抑制愛滋病毒的去氧核糖核酸聚合酶（DNA polymerase）",
+      "B": "抑制愛滋病毒的反轉錄酶（reverse transcriptase）",
+      "C": "抑制愛滋病毒的gag 蛋白",
+      "D": "抑制愛滋病毒的TAT 轉錄因子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 31 題",
+    "question": "王先生自東南亞出差回台第二天因突然開始的大量腹瀉被送醫診治，從他的排泄物中培養出霍亂弧 菌（Vibrio cholerae）。此格蘭氏陰性病菌會產出霍亂毒素（cholera toxin）蛋白，造成腸上皮細胞中 adenylyl cyclase 的持續性活化，使水分及一些離子被分泌至腸腔中而導致無痛性水瀉。下列關於 cholera toxin 致病機轉之敘述何者正確？",
+    "options": {
+      "A": "cholera toxin 催化Gs 蛋白（stimulatory G protein）α 次單元（αs）之ADP-ribosylation",
+      "B": "cholera toxin 造成Gs 蛋白αs 次單元之GTPase 活性持續活化",
+      "C": "cholera toxin 使Gs 蛋白αs 次單元無法與βγ 次單元分開",
+      "D": "cholera toxin 造成Gs 蛋白αs 次單元無法維繫於細胞膜上"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 32 題",
+    "question": "當一基因的3’ untranslated region（3’ UTR）的AATAAA 突變為AAGAAA 時，其導致的缺陷為影響 核糖核酸（RNA）合成後的那一步驟？",
+    "options": {
+      "A": "端帽步驟（capping）",
+      "B": "多聚腺苷化作用（polyadenylation）",
+      "C": "剪接作用（splicing）",
+      "D": "運輸（transport）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 33 題",
+    "question": "癌症細胞常有過度分裂繁殖之現象。治療癌症之藥物也常針對此特性。下列何種藥物可以抑制二氫 葉酸還原酶（dihydrofolate reductase）？",
+    "options": {
+      "A": "methotrexate",
+      "B": "5-FU（5-fluorouracil）",
+      "C": "cyclophosphamide",
+      "D": "cisplatin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 34 題",
+    "question": "競爭型抑制劑（competitive inhibitor）會對酵素催化反應之動力學參數，產生何種影響？",
+    "options": {
+      "A": "Vmax 降低",
+      "B": "Km值降低",
+      "C": "Vmax／Km值降低",
+      "D": "Km值不變"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 35 題",
+    "question": "血紅蛋白（Hemoglobin）其構形由T 轉變成R 型是由於結合了下列那些物質所引起？",
+    "options": {
+      "A": "氧氣（$O_2$）",
+      "B": "三價鐵（Fe3+）",
+      "C": "次單元之結合（subunit association）",
+      "D": "次單元之解離（subunit dissociation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 36 題",
+    "question": "眼睛視網膜（retina）的細胞吸收光線時會導致：",
+    "options": {
+      "A": "β 胡蘿蔔素（β-carotene）轉變成視黃醛（retinal）",
+      "B": "視黃醛（retinal）轉變成視黃醇（retinol）",
+      "C": "順式視黃醛（cis-retinal）轉變成全反式視黃醛（all-trans-retinal）",
+      "D": "全反式視黃醛（all-trans-retinal）轉變成順式視黃醛（cis-retinal）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 37 題",
+    "question": "假設分析某生物體的基因體實驗中發現，核酸中的adenine 含量約為20%，則此基因體的guanine 含 量為何？",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 38 題",
+    "question": "DNA 複製時常有鹼基錯誤配對發生在新合成股上，細胞中有錯誤配對修復（mismatch repair）的機 制，可除去含有錯誤配對的新合成股（newly synthesized DNA strand），下列何者為此作用的主要酵 素？",
+    "options": {
+      "A": "DNA 聚合酶（polymerase β, γ）, DNA 接合酶（ligase）校對系統",
+      "B": "Rec A, Rec F, Rec O, Rec R, SSB 複製系統",
+      "C": "Umu C, Umu D 強制複製（error-prone replication）系統",
+      "D": "Mut H, L, S 複合物辨認系統"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 39 題",
+    "question": "下列酵素參與由無機物的氮（Inorganic nitrogen）轉變為有機分子（Organic molecule），何者為非？",
+    "options": {
+      "A": "Arginase",
+      "B": "Glutamate dehydrogenase",
+      "C": "Glutamine synthetase",
+      "D": "Nitrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 40 題",
+    "question": "醣蛋白質（Glycoproteins）分子中，下列何種胺基酸可和糖基的部分（carbohydrate moiety）作共價 鍵結合？",
+    "options": {
+      "A": "天門冬素（asparagine）",
+      "B": "天門冬酸（aspartic acid）",
+      "C": "麩胺酸（glutamic acid）",
+      "D": "半胱胺酸（cysteine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 41 題",
+    "question": "Alkaptonuria 與下列何種酵素缺陷有關？",
+    "options": {
+      "A": "Branched-chain α-keto acid dehydrogenase complex",
+      "B": "Homogentisic acid dioxygenase",
+      "C": "Alanine transaminase",
+      "D": "Glutamine amidotransferase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 42 題",
+    "question": "下列何者可用於裂解一個蛋白質，決定其內含之胺基酸成分：",
+    "options": {
+      "A": "6 N HCl",
+      "B": "8 N NaOH",
+      "C": "8 M urea",
+      "D": "6 M guanidine HCl"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 43 題",
+    "question": "Aspirin 是常見之止痛藥，它的廣效性作用是：",
+    "options": {
+      "A": "PGE2 合成的刺激物",
+      "B": "phospholipase 的抑制物",
+      "C": "cyclooxygenase 的抑制物",
+      "D": "arachidonic acid 合成的刺激物"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 44 題",
+    "question": "過氧化物酵素體（peroxisome）可進行脂肪酸的beta-oxidation，但分解至下列何者即不再繼續進行？",
+    "options": {
+      "A": "hexanoyl CoA",
+      "B": "octanoyl CoA",
+      "C": "decanoyl CoA",
+      "D": "dodecanoyl CoA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 45 題",
+    "question": "下列有關視網膜細胞瘤調控蛋白（retinoblastoma protein）的敘述，何者正確？",
+    "options": {
+      "A": "可結合E2F 轉錄因子，影響基因轉錄",
+      "B": "可促進Rhodopsin kinase 之活化",
+      "C": "其激酶（Kinase）活性，可經由磷酸後被活化",
+      "D": "為一個致癌基因"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 46 題",
+    "question": "訊息傳遞之去敏感化（desensitization）在腎上腺素（epinephrine）的例子是經由？",
+    "options": {
+      "A": "對腎上腺素受體進行磷酸化",
+      "B": "對腎上腺素受體進行去磷酸化",
+      "C": "開放鉀離子通道",
+      "D": "開放鈉離子通道"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 47 題",
+    "question": "在呼吸鏈（respiratory chain）中，下列何種enzyme complex 含有銅離子參與其電子的傳遞？",
+    "options": {
+      "A": "NADH-Q oxidoreductase",
+      "B": "succinate-Q reductase",
+      "C": "Q-cytochrome c oxidoreductase",
+      "D": "cytochrome c oxidase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 48 題",
+    "question": "下列有關自由能變化（∆G）的敘述中何者正確？",
+    "options": {
+      "A": "當K'eq 大於1 時，∆G'o 小於0",
+      "B": "當K'eq 小於1 時，∆G'o 小於0",
+      "C": "當K'eq 等於1 時，∆G'o 等於1",
+      "D": "對任一反應而言，∆G'o 為一常數"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 49 題",
+    "question": "50 歲的王先生為B 型肝炎帶原者。某日至某醫學中心接受肝臟超音波檢查，發現右肝有疑似小型肝  癌之現象。王先生最需要檢測的血液檢查為何？",
+    "options": {
+      "A": "膽固醇（cholesterol）",
+      "B": "運鐵蛋白（transferrin）",
+      "C": "α1-抗胰蛋白酶（alpha 1-antitrypsin）",
+      "D": "甲型胎兒蛋白（alpha fetoprotein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 50 題",
+    "question": "歲的王先生為B 型肝炎帶原者。某日至某醫學中心接受肝臟超音波檢查，發現右肝有疑似小型肝 癌之現象。王先生最需要檢測的血液檢查為何？",
+    "options": {
+      "A": "完全由醣解作用（glycolysis）的酵素所催化的逆反應來執行",
+      "B": "可幫助在高糖飲食之後使血糖值下降",
+      "C": "對於脂肪酸轉變成為葡萄糖為必須的",
+      "D": "可利用一些胺基酸將其轉變成為葡萄糖"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

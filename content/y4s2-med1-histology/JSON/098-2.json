@@ -1,0 +1,116 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 33 題",
+    "question": "有關女性生殖系統之濾泡（follicle）發生過程，下列敘述何項正確？",
+    "options": {
+      "A": "透明區（zona pellucida）初出現在初級濾泡（primary follicle）",
+      "B": "放射冠（corona radiata）是由顆粒細胞（granulosa cell）分泌所產生",
+      "C": "濾泡的發育不需要有濾泡刺激素（FSH）作用",
+      "D": "內膜（theca interna）為結締組織"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 34 題",
+    "question": "由6 個穿過細胞膜的connexins 組成一很小的管道，只容許2 nm 大小的物質通過，這種接合稱為：",
+    "options": {
+      "A": "緊密接合（tight junction）",
+      "B": "間隙接合（gap junction）",
+      "C": "黏連接合（adhering junction）",
+      "D": "半胞橋小體（hemidesmosome）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 35 題",
+    "question": "下列何種器官之內襯是「移行上皮（transitional epithelium）」？",
+    "options": {
+      "A": "膀胱（urinary bladder）",
+      "B": "氣管（trachea）",
+      "C": "食道（esophagus）",
+      "D": "膽囊（gall bladder）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 36 題",
+    "question": "下列何者常見於淋巴結的副皮質區（paracortex）？",
+    "options": {
+      "A": "有高內皮細胞之小靜脈（high endothelial venule）",
+      "B": "淋巴小結（lymphatic nodule）",
+      "C": "漿細胞（plasma cell）",
+      "D": "B 淋巴球（B-lymphocyte）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 37 題",
+    "question": "結締組織中，下列何者製造並分泌基質（ground substance）？",
+    "options": {
+      "A": "漿細胞（plasma cell）",
+      "B": "肥大細胞（mast cell）",
+      "C": "組織球（histiocyte）",
+      "D": "纖維母細胞（fibroblast）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 38 題",
+    "question": "有關人體骨骼肌三合體（triad）的敘述，下列何者正確？",
+    "options": {
+      "A": "由終池和兩側的T 小管所構成",
+      "B": "通常位在Z 線上",
+      "C": "三合體的終池有貯存鈣離子的功能",
+      "D": "T 小管是內質網膨大所形成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 39 題",
+    "question": "消化道中，下列何者的胞質具有最強的嗜伊紅性（eosinophilic）？",
+    "options": {
+      "A": "腸內分泌細胞（enteroendocrine cell）",
+      "B": "頸黏液細胞（mucous neck cell）",
+      "C": "主細胞（chief cell）",
+      "D": "壁細胞（parietal cell）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 40 題",
+    "question": "有關松果體（pineal gland），下列敘述何項錯誤？",
+    "options": {
+      "A": "分泌褪黑激素（melatonin）進而影響生殖系統之功能",
+      "B": "成人松果體常含有腦沙（corpora arenacea / brain sand）",
+      "C": "此腺體包含很多黑色素細胞（melanocyte）",
+      "D": "此腺體之活性（activity）受光線（light）影響"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 41 題",
+    "question": "舌缺少下列何種結構，使得人類家族遺傳性自主神經機能障礙（familial dysautonomia）的患者味覺 喪失？",
+    "options": {
+      "A": "蕈狀乳頭（fungiform papilla）",
+      "B": "葉狀乳頭（foliate papilla）",
+      "C": "輪廓乳頭（circumvallate papilla）",
+      "D": "絲狀乳頭（filiform papilla）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  }
+]

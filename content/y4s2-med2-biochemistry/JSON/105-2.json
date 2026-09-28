@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 26 題",
+    "question": "當氧分子與血紅素（hemoglobin）結合時，此時血基質（heme）中Fe2+上的兩個開放配位鍵（open coordination bonds）與 下列何組物質結合？",
+    "options": {
+      "A": "一水分子與一胺基酸的側鏈",
+      "B": "一氧分子與一胺基酸的側鏈",
+      "C": "一氧分子與一水分子",
+      "D": "兩個氧分子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 27 題",
+    "question": "組胺酸（histidine）有三個酸解離常數（pKa）值，分別為1.82、 6.0、 9.17。其中那個官能基團的pKa為1.82 ？",
+    "options": {
+      "A": "胺基（-NH3 +）",
+      "B": "羧基（-COOH）",
+      "C": "側鏈異吡唑基（side-chain imidazole group）",
+      "D": "α碳原子（α carbon）的氫原子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 28 題",
+    "question": "某酵素的kcat=500 s-１，Km=5 mM，在受質濃度遠高於Km的狀況下，此酵素反應的速率常數約為：",
+    "options": {
+      "A": "500 s-１",
+      "B": "2,500 mM s-１",
+      "C": "100 mM-１s-１",
+      "D": "0.01 s mM-１"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 29 題",
+    "question": "維生素C（ascorbic acid）缺乏會導致膠原蛋白（collagen）的修飾不全，是因為下列那個反應受到影響？",
+    "options": {
+      "A": "proline hydroxylation",
+      "B": "serine phosphorylation",
+      "C": "cysteine oxidation",
+      "D": "lysine methylation"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 30 題",
+    "question": "5'-CCAAGTCCATGGACTTGG-3'DNA分子可以形成何種二級結構？",
+    "options": {
+      "A": "A form",
+      "B": "H form",
+      "C": "Z form",
+      "D": "cruciform"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 31 題",
+    "question": "Lambda噬菌體DNA是藉由何種作用嵌入大腸桿菌的基因體DNA中？",
+    "options": {
+      "A": "同源重組（homologous recombination）",
+      "B": "轉位作用（transposition）",
+      "C": "特定點重組（site-specific recombination）",
+      "D": "非同源性末端接合（non-homologous end joining, NHEJ）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 32 題",
+    "question": "環丁烷嘧啶二聚體（cyclobutane pyrimidine dimer）修復時，下列何者為細菌DNA光解酶（photolyase）的輔助因子 （cofactor）？",
+    "options": {
+      "A": "pyridoxal phosphate",
+      "B": "thiamine pyrophosphate",
+      "C": "FADH-",
+      "D": "coenzyme A"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 33 題",
+    "question": "蛋白質最常經下列何種轉譯後修飾（post-translational modification），再送到溶酶體（lysosome）？",
+    "options": {
+      "A": "糖基化（glycosylation）",
+      "B": "磷酸化 （phosphorylation）",
+      "C": "蘇素化（sumoylation）",
+      "D": "乙醯化（acetylation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 34 題",
+    "question": "位在腫瘤中心的癌細胞，常處於缺氧的環境，這些細胞偏好利用下列那一種醣類代謝途徑獲取ATP？",
+    "options": {
+      "A": "ß-oxidation",
+      "B": "glycolysis",
+      "C": "tricarboxylic acid cycle",
+      "D": "pentose phosphate pathway"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 35 題",
+    "question": "下列關於操縱子（operon）的敘述，何者錯誤？",
+    "options": {
+      "A": "只在真核生物上發現",
+      "B": "包含promoter",
+      "C": "包含operator",
+      "D": "包含structural genes"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 36 題",
+    "question": "下列何者是蛋白質轉譯之起始胺基酸？",
+    "options": {
+      "A": "leucine",
+      "B": "cysteine",
+      "C": "methionine",
+      "D": "tyrosine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 37 題",
+    "question": "下列何者是Cori cycle的主要代謝角色？",
+    "options": {
+      "A": "將乳酸（lactate）由骨骼肌運送至肝臟",
+      "B": "將乳酸（lactate）由肝臟運送至骨骼肌",
+      "C": "將葡萄糖由骨骼肌運送至肝臟",
+      "D": "將葡萄糖與乳酸（lactate）由肝臟運送至骨骼肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 38 題",
+    "question": "下列何種分子不會直接參與克式循環（Krebs cycle，亦稱citric acid cycle或TCA cycle）中的化學反應？",
+    "options": {
+      "A": "coenzyme A（CoA）",
+      "B": "ADP（或GDP）",
+      "C": "glutathione",
+      "D": "NAD+"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 39 題",
+    "question": "肝糖磷解酶（glycogen phosphorylase）的活性受到phosphorylase kinase及phosphorylase phosphatase的調節，下列何者是 其發揮調節作用的主要方式？",
+    "options": {
+      "A": "影響酵素蛋白質分解（protein degradation）",
+      "B": "磷酸化-去磷酸化作用（phosphorylation-dephosphorylation）",
+      "C": "異位調節作用（allosteric regulation）",
+      "D": "影響肝醣代謝酵素與調節蛋白質（regulatory protein）的結合作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 40 題",
+    "question": "下列何者不屬於膜上蛋白質之脂質錨定（lipid anchor）？",
+    "options": {
+      "A": "glycosyl phosphatidylinositol anchor",
+      "B": "acetyl anchor",
+      "C": "myristoyl anchor",
+      "D": "thioether anchor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 41 題",
+    "question": "下列何者與主動運輸（active transport）中，提供運輸過程的熱力學驅動力（thermodynamic driving force）無關？",
+    "options": {
+      "A": "光能的補獲",
+      "B": "三磷酸腺苷（ATP）的水解作用",
+      "C": "大分子的合成",
+      "D": "離子梯度的消耗（depletion of ion gradient）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 42 題",
+    "question": "下列那一類分子透過結合並活化peroxisome proliferator-activated recepter alpha（PPARα），以調控生酮作用 （ketogenesis）相關基因的表現？",
+    "options": {
+      "A": "purine",
+      "B": "fatty acids",
+      "C": "glucose",
+      "D": "pyrimidine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 43 題",
+    "question": "克氏循環（TCA cycle）的中間產物可經由轉氨基作用（transamination）直接生成下列那兩種胺基酸？",
+    "options": {
+      "A": "精胺酸（arginine）與組胺酸（histidine）",
+      "B": "酪胺酸（tyrosine）與脯胺酸（proline）",
+      "C": "麩胺酸（glutamate）與天冬胺酸（aspartate）",
+      "D": "丙胺酸（alanine）與絲胺酸（serine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 44 題",
+    "question": "Ammonium ion（NH4 +）可藉由下列何種方式，由骨骼肌細胞運送到肝細胞代謝？",
+    "options": {
+      "A": "Krebs cycle",
+      "B": "glucose-alanine cycle",
+      "C": "urea cycle",
+      "D": "citric acid cycle"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 45 題",
+    "question": "分析一個腎臟癌病人的腫瘤時，發現有延胡索酸酵素（fumarase）基因突變，下列敘述何者正確？",
+    "options": {
+      "A": "延胡索酸（fumarate）因而會在腫瘤組織中大幅下降",
+      "B": "缺氧性誘導轉錄因子（hypoxia inducible transcription factor-1, HIF-1）會跟著下降",
+      "C": "缺氧性誘導轉錄因子（hypoxia inducible transcription factor-1, HIF-1）會刺激多種糖解酵素（glycolytic enzymes）的產生",
+      "D": "缺氧性誘導轉錄因子（hypoxia inducible transcription factor-1, HIF-1）會抑制血管生成（angiogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 46 題",
+    "question": "Scatchard分析法能提供下列何種資訊？",
+    "options": {
+      "A": "酵素的功能放大（enzyme cascades）",
+      "B": "酵素的催化反應（catalytic reaction）過程",
+      "C": "蛋白質磷酸化（protein phosphorylation）",
+      "D": "受體與配體之交互作用（receptor-ligand interactions）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 47 題",
+    "question": "下視丘疾病可造成gonadotropin releasing hormone （GnRH） 分泌失調，致使腦下腺luteinizing hormorne（LH），follicle- stimulating hormone（FSH）亦分泌失調，可能造成女性不孕。GnRH作用於G protein coupled receptor後，主要可活化 phospholipase C，下列敘述何者錯誤？",
+    "options": {
+      "A": "phospholipase C可分解phosphatidylinositol 4,5-bisphosphate（PIP2）",
+      "B": "phosphatidylinositol 4,5-bisphosphate（PIP2）被分解為inositol 1,4,5-trisphosphate（IP3）及diacylglycerol（DAG）",
+      "C": "diacylglycerol（DAG）可直接活化protein kinase A",
+      "D": "inositol 1,4,5-trisphosphate（IP3）可使內質網內之$Ca^{2+}$釋放"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 48 題",
+    "question": "常見於癌細胞組織中的腫瘤基因（oncogene）所轉譯之ErbB蛋白質，是經由下列那一個受體（receptor）的訊息傳導路徑而 進行作用？",
+    "options": {
+      "A": "insulin receptor",
+      "B": "platelet-derived growth factor（PDGF）receptor",
+      "C": "epidermal growth factor（EGF）receptor",
+      "D": "G-protein coupling receptor"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 49 題",
+    "question": "除了啟動子（promoter）及多選殖位點（multiple cloning sites）外，下列何者是原核細胞表現載體（expression vector）的必 要構造？",
+    "options": {
+      "A": "促進子（enhancer）、操縱子（operator）",
+      "B": "致弱子（attenuator）、抑制子（repressor）",
+      "C": "促進子（enhancer）、核糖體結合區（ribosome binding site）",
+      "D": "核糖體結合區（ribosome binding site）、轉錄終止序列（transcriptional termination sequence）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 50 題",
+    "question": "建立基因剔除鼠（knockout mouse）的過程中，一般以取出實驗動物之何種細胞進行基因剔除？",
+    "options": {
+      "A": "卵細胞",
+      "B": "精細胞",
+      "C": "受精卵",
+      "D": "胚胎幹細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

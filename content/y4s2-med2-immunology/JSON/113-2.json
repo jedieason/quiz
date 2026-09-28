@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 18 題",
+    "question": "人類的免疫系統由造血幹細胞分化而來，若有一病人缺乏了淋巴前驅細胞（common lymphoid progenitor），你預測此病人體內那一個部分的免疫系統會受到最大的影響？",
+    "options": {
+      "A": "先天性免疫系統",
+      "B": "後天性免疫系統",
+      "C": "先天性以及後天性免疫系統同時受到相同程度的影響",
+      "D": "血液凝結系統"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 19 題",
+    "question": "有關補體系統參與先天性免疫防禦之敘述，下列何者最不適當？",
+    "options": {
+      "A": "補體分子C5活化下游C6-C9組成膜攻擊複合體（membrane-attack complex）裂解病原菌",
+      "B": "補體活化僅能由抗體啟動而非病原菌表面分子",
+      "C": "活化補體分子可以經由調理作用（opsonization）促進吞噬反應",
+      "D": "活化補體分子C3a及C5a可以活化肥大細胞（mast cells）促進發炎反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 20 題",
+    "question": "關於T細胞所辨識的抗原，下列敘述何者最不適當？",
+    "options": {
+      "A": "T細胞所辨識的抗原，通常是短片段的胜肽",
+      "B": "抗原需被呈獻在MHC上，才能被T細胞所辨識",
+      "C": "抗原需摺疊成複雜的立體結構，才能被T細胞所辨識",
+      "D": "T細胞經胸腺教育的階段，可區隔自體與外來抗原，以避免產生自體免疫反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 21 題",
+    "question": "下列關於B細胞發育的敘述，何者最不適當？",
+    "options": {
+      "A": "免疫球蛋白基因的V(D)J重組，先從重鏈（heavy chain）開始",
+      "B": "μ重鏈（μ heavy chain）與VpreB及λ5組成的pre-BCR，對pre-B細胞繼續發育是必要的",
+      "C": "Bruton's tyrosine kinase（Btk）是pre-BCR或BCR下游訊息傳遞的必要蛋白，缺乏Btk會造成X-linked agammaglobulinemia（XLA）",
+      "D": "表現IgM的immature B細胞如果辨識到抗原，就會開始細胞分裂（clonal expansion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 22 題",
+    "question": "下列何種CD4效應T細胞（effector CD4 T cells）所分泌的細胞激素（cytokines）或產生的表面分子 （surface molecule）與促進B細胞抗體類型轉換（isotype class switch）的作用相關性最高？",
+    "options": {
+      "A": "IL-2",
+      "B": "IL-10",
+      "C": "CD40 ligand",
+      "D": "CD28"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 23 題",
+    "question": "下列有關肺炎鏈球菌多醣體疫苗之敘述，何者最不適當？",
+    "options": {
+      "A": "是多醣體連結蛋白質形成的疫苗",
+      "B": "以thymus-independent方式活化B細胞",
+      "C": "誘發出來的抗多醣體抗體可降低病菌感染",
+      "D": "可誘發記憶B細胞的產生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 24 題",
+    "question": "疫苗接種（vaccination）是公共衛生常用以預防傳染病的手段。下列何者最不適合用於先天性免疫不全的 病人？",
+    "options": {
+      "A": "B型肝炎（hepatitis B）疫苗",
+      "B": "沙賓（Sabin）小兒麻痺疫苗",
+      "C": "白喉、破傷風、百日咳三合一（DPT）疫苗",
+      "D": "注射型流行性感冒（influenza）疫苗"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 25 題",
+    "question": "免疫性血小板缺乏症（immune thrombocytopenia）最主要是由下列何種過敏反應（hypersensitivity）所 導致？",
+    "options": {
+      "A": "type I過敏反應",
+      "B": "type II過敏反應",
+      "C": "type III過敏反應",
+      "D": "type IV過敏反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 26 題",
+    "question": "自體免疫疾病是由於免疫系統針對自體抗原產生一系列免疫反應而產生的疾病。自體免疫疾病的形成，必須 突破多重免疫耐受的機制。下列有關自體免疫的敘述，何者最不適當？",
+    "options": {
+      "A": "免疫豁免部位，例如眼、子宮等器官，若遭受創傷導致組織特異抗原得以被周邊免疫細胞偵測時，可能引 發自體免疫疾病",
+      "B": "調節型T細胞（regulatory T cell）主要以細胞毒殺的方式，移除其辨識的自體細胞",
+      "C": "周邊免疫失能（peripheral anergy）指的是當免疫細胞在周邊組織接收到抗原刺激時，若沒有受到共同刺 激（costimulation）的訊號，則會產生免疫抑制",
+      "D": "中樞免疫耐受性的建立，主要在初級免疫器官骨髓以及胸腺中進行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 27 題",
+    "question": "目前有許多癌症治療是透過給與免疫細胞或激活免疫系統而達成，關於癌症免疫治療，下列敘述何者最不適 當？",
+    "options": {
+      "A": "mRNA癌症疫苗需先找到腫瘤的基因突變，根據病人的HLA預測新生抗原（neoantigen），再根據預測結果合 成mRNA，透過脂質奈米粒包覆mRNA，注射疫苗後激活腫瘤特異性細胞的免疫反應",
+      "B": "細胞激素激活殺手細胞（cytokine-induced killer, CIK），是將T細胞在含有多種促發炎細胞激素（pro- inflammatory cytokines）的環境下，進行體外培養，再回輸至病患體內，此種細胞，具有高度腫瘤特異 性",
+      "C": "單核球衍生樹突細胞（monocyte-derived dendritic cell, MoDC）透過體外培養，將單核球轉變成抗原呈 獻細胞，此種細胞會捕捉體內腫瘤抗原，並刺激與活化腫瘤特異性T細胞，以達到腫瘤毒殺作用",
+      "D": "嵌合抗原受體T細胞（chimeric antigen receptor-T, CAR-T），是透過病毒將CAR分子基因送入T細胞，此 CAR分子具有辨認腫瘤抗原與活化T細胞的特性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 28 題",
+    "question": "超急性排斥反應（hyperacute rejection）通常是在移植手術後多久發生？",
+    "options": {
+      "A": "數分鐘內",
+      "B": "2～5天",
+      "C": "7～21天",
+      "D": "1～3個月"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

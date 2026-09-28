@@ -1,0 +1,328 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 51 題",
+    "question": "下列有關於facilitated diffusion之敘述，何者錯誤？",
+    "options": {
+      "A": "需要carrier媒介",
+      "B": "會飽和",
+      "C": "對某些化合物具選擇性",
+      "D": "需消耗能量"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 52 題",
+    "question": "藥物清除率與下列何因子無關？",
+    "options": {
+      "A": "Volume of distribution(Vd)",
+      "B": "Albumin concentration",
+      "C": "Capacity-limited protein binding",
+      "D": "Alpha1-acid glycoprotein concentration"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 53 題",
+    "question": "下列有關於藥物安全性試驗之敘述，何者正確？",
+    "options": {
+      "A": "Subacute toxicity，通常使用2種動物，2種給藥途徑。主要是測試其no-effect dose以及 maximum tolerate dose",
+      "B": "Acute toxicity，使用3種劑量，2種動物。主要是測試其生化以及生理作用",
+      "C": "Mutagenic potential，主要測試藥物對細菌及哺乳類動物細胞之genetic stability",
+      "D": "Carcinogenic potential 只需要使用1種動物"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 54 題",
+    "question": "下列藥物何者不經由腎臟排除？",
+    "options": {
+      "A": "Cephazolin",
+      "B": "Tobramycin",
+      "C": "Chloramphenicol",
+      "D": "Imipenem"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一 律給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 55 題",
+    "question": "下列有關Imipenem之敘述，何者錯誤？",
+    "options": {
+      "A": "屬於β-lactamase抗性之抗菌劑",
+      "B": "抗菌範圍包括Gram positive和Gram negative菌和厭氣（Anaerobic）菌",
+      "C": "主要由腎臟排除，一般與Cilastatin合用",
+      "D": "藥效佳，可當第一線藥物來治療一般感染症"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 56 題",
+    "question": "下列何者為一種抑制細菌蛋白質合成的抗菌藥物，曾被用來治療Bacteroides fragilis感染所引 起的腹部膿腫，但很容易產生結腸炎？",
+    "options": {
+      "A": "Clarithromycin",
+      "B": "Clindamycin",
+      "C": "Minocycline",
+      "D": "Ticarcillin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 57 題",
+    "question": "下列何種抗凝血藥物主要是經由肝臟代謝？",
+    "options": {
+      "A": "Argatroban",
+      "B": "Enoxaparin",
+      "C": "Fondaparinux",
+      "D": "Lepirudin"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 58 題",
+    "question": "下列有關 danazol 的藥理學作用描述，何者錯誤？",
+    "options": {
+      "A": "一種經人工合成的睪固酮（testerone）",
+      "B": "主要用於子宮內膜異位症（endometriosis）及良性乳房纖維囊腫（fibrocystic breast disease）患者",
+      "C": "具有抑制芳香環轉化酶（aromatase）的活性，進而抑制雌激素的合成",
+      "D": "具有肝毒性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 59 題",
+    "question": "下列有關持續使用促性腺激素釋放激素（gonadotropin releasing hormone; GnRH）模擬藥 物時會發生的副作用描述，何者錯誤？",
+    "options": {
+      "A": "婦女長期使用時容易發生卵巢囊腫（ovarian cysts）的現象，但停藥後即可以改善",
+      "B": "長期皮下注射給藥時容易發生全身過敏性皮膚炎（generalized hypersensitivity dermatitis）",
+      "C": "婦女長期使用時容易降低骨質密度及發生骨質疏鬆（osteoporosis）的情形",
+      "D": "長期使用時容易發生中樞性性早熟（central precocious puberty）的情形"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 60 題",
+    "question": "在臨床上有一部分的小孩因類胰島素成長因子（insulin-like growth factor; IGF-1）的缺乏， 因此造成生長發育遲緩的現象，下列何種藥物可以用來促進其生長發育？",
+    "options": {
+      "A": "重組人類生長激素（recombinant human growth hormone）",
+      "B": "Octreotide",
+      "C": "Mecasermin",
+      "D": "Pegvisomant"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 61 題",
+    "question": "下列何項藥物可以用來治療不孕症？",
+    "options": {
+      "A": "Mifepristone",
+      "B": "Danazol",
+      "C": "Clomiphene",
+      "D": "Flutamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 62 題",
+    "question": "下列延長動作電位之抗心律不整藥物，何者誘發Torsade de Pointes之心室心律不整機率最 小？",
+    "options": {
+      "A": "Procainamide",
+      "B": "Quinidine",
+      "C": "Ibutilide",
+      "D": "Amiodarone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 63 題",
+    "question": "那一種抗心律不整藥物最常有臉紅、胸悶及呼吸急迫之副作用？",
+    "options": {
+      "A": "Propafenone",
+      "B": "Adenosine",
+      "C": "Procainamide",
+      "D": "Atenolol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 64 題",
+    "question": "那種藥物會抑制IKr channel而使心臟組織動作電位持續時間延長？",
+    "options": {
+      "A": "Atenolol",
+      "B": "Esmolol",
+      "C": "Sotalol",
+      "D": "Carvedilol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 65 題",
+    "question": "下列何種受體在血管內皮細胞上被活化，會使內皮細胞釋放內皮衍生舒張因子（EDRF）而 產生血管舒張作用？",
+    "options": {
+      "A": "Muscarinic M2",
+      "B": "Muscarinic M3",
+      "C": "Muscarinic M4",
+      "D": "Nicotinic"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 66 題",
+    "question": "下列何種藥物，最適合用於治療因為誤食Inocybe屬毒蕈之中毒？",
+    "options": {
+      "A": "Atropine",
+      "B": "Homatropine",
+      "C": "Ipratropium",
+      "D": "Pralidoxime"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 67 題",
+    "question": "當病患使用tetracycline治療時，併用下列何種藥物最會干擾其吸收？",
+    "options": {
+      "A": "CaCO3",
+      "B": "Al(OH)3",
+      "C": "Mg(OH)2",
+      "D": "NaHCO3"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ、Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 68 題",
+    "question": "下列何種NSAIDs藥物，可用於取代colchicine，作為第一線痛風的用藥？",
+    "options": {
+      "A": "Aspirin",
+      "B": "Acetaminophen",
+      "C": "Indomethacin",
+      "D": "Ketorolac"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 69 題",
+    "question": "下列有關抗癲癇藥物oxcarbazepine的敘述，何者錯誤？",
+    "options": {
+      "A": "主要靠其代謝物10-hydroxy-carbazepine（MHD）來產生抗癲癇作用",
+      "B": "其藥理學作用方式與carbamazepine相似，但相對嚴重的副作用較少發生",
+      "C": "其比carbamazepine具有較強的誘發肝臟細胞色素P450活性的作用",
+      "D": "使用oxcarbazepine較carbamazepine容易發生低鈉血症（hyponatremia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 70 題",
+    "question": "下列那一種抗癲癇藥物對於緩解重積性癲癇（status epilepticus）的效果最佳？",
+    "options": {
+      "A": "ethosuximide",
+      "B": "diazepam",
+      "C": "topiramate",
+      "D": "tiagabine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 71 題",
+    "question": "下列那一種抗癲癇藥物不能使用於失神性癲癇（小發作）的治療？",
+    "options": {
+      "A": "ethosuximide",
+      "B": "valproate",
+      "C": "phenytoin",
+      "D": "lamotrigine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 72 題",
+    "question": "下列何種藥物不屬於sedatives-hypnotics？",
+    "options": {
+      "A": "Diazepam",
+      "B": "Lorazepam",
+      "C": "Pentobarbital",
+      "D": "Morphine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 73 題",
+    "question": "關於chlorpromazine的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可以用來治療類精神疾病",
+      "B": "為一種dopamine受體的拮抗劑",
+      "C": "具有高度成癮性",
+      "D": "會發生姿態性低血壓"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 74 題",
+    "question": "下列何者不屬於amphetamine的禁斷現象？",
+    "options": {
+      "A": "渴望獲得藥物（craving for drugs）",
+      "B": "疲倦（lassitude）",
+      "C": "過食症（hyperphagia）",
+      "D": "失眠症（insomnia）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 75 題",
+    "question": "下列何種藥物是acetaminophen中毒時的最佳解毒劑？",
+    "options": {
+      "A": "Atropine",
+      "B": "Acetylcysteine",
+      "C": "Physostigmine",
+      "D": "Pralidoxime"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

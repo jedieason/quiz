@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 76 題",
+    "question": "心肌梗塞使用溶栓治療，可以恢復冠狀動脈血流。血流恢復後，最可能會發生下列何種細胞變化，而使心肌 受損程度更加嚴重？",
+    "options": {
+      "A": "細胞內中間絲（intermediate filament）減少",
+      "B": "增加自由基（free radical）的形成",
+      "C": "粒線體（mitochondria）腫脹",
+      "D": "蛋白質合成減少"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 77 題",
+    "question": "細胞凋亡（apoptosis）最常出現下列何種現象？",
+    "options": {
+      "A": "細胞脹腫（swelling）",
+      "B": "細胞內鈣離子明顯增加",
+      "C": "嗜中性球浸潤",
+      "D": "染色質濃縮（chromatin condensation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 78 題",
+    "question": "關於馬凡氏症候群（Marfan syndrome）的敘述，下列何者最適當？",
+    "options": {
+      "A": "最主要出現病變的器官為心臟血管系統、骨骼系統與神經系統",
+      "B": "致病原因為形成第一型膠原纖維相關的基因COL1A1 和COL1A2 產生突變而引起",
+      "C": "轉化生長因子-β（transforming growth factor-β, TGF-β）的過度活化是馬凡氏症候群的成因之一",
+      "D": "螢光原位雜交法（fluorescent in situ hybridization）是最適合用來診斷馬凡氏症候群的檢驗工具"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 79 題",
+    "question": "下列疾病中，何者一般被認為大部分是與TH2 細胞的作用或反應有關？ћ蠕蟲類寄生蟲感染 ќ外因性過敏 性鼻炎（allergic rhinitis） ѝ肉芽腫性發炎（granulomatous inflammation）",
+    "options": {
+      "A": "ћќѝ",
+      "B": "僅ћќ",
+      "C": "僅ќѝ",
+      "D": "僅ћѝ"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 80 題",
+    "question": "下列病理變化中，何者最類似腎臟移植後的超急性排斥（hyperacute rejection）之病變？",
+    "options": {
+      "A": "腎絲球內微血管出現血小板與凝血纖維微小栓塞、嗜中性白血球浸潤與缺血性傷害",
+      "B": "淋巴細胞性腎臟間質血管炎",
+      "C": "淋巴細胞性腎小管炎（tubulitis）",
+      "D": "腎絲球內與腎小管周圍微血管炎、腎絲球炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 81 題",
+    "question": "紫外線（UV light）之致癌作用，主要是對於DNA 造成下列何種損傷？",
+    "options": {
+      "A": "形成嘧啶二聚體（pyrimidine dimer）",
+      "B": "雙股DNA 斷裂（double-stranded DNA break）",
+      "C": "染色體非平衡性轉位（chromosome unbalanced translocation）",
+      "D": "基因擴增（gene amplification）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 82 題",
+    "question": "70 歲男性吃了生牛肉兩天後出現發燒、腹痛與出血性腹瀉，數天後他表現出少尿、水腫、出血、血尿與急性 腎衰竭，糞便細菌培養出大腸桿菌，此大腸桿菌的血清型經鑑定後確定是O157:H7 。關於這個疾病，下列敘 述何者最適當？",
+    "options": {
+      "A": "血液中的ADAMTS13 下降是主要致病機制",
+      "B": "血管內皮細胞受傷是致病主因",
+      "C": "凝血活酶時間（partial thromboplastin time）延長是疾病初期常見的變化",
+      "D": "此病是因為產生Von Willebrand factor 的抗體所導致"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 83 題",
+    "question": "梗塞（infarct）在病理檢查下可分成紅色梗塞（red infarct）與白色梗塞（white infarct），下列何種是 屬於白色梗塞？",
+    "options": {
+      "A": "睪丸扭轉（testicular tortion）",
+      "B": "肺臟梗塞",
+      "C": "小腸梗塞",
+      "D": "腎臟梗塞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 84 題",
+    "question": "下列何種疾病最可能藉由抑制前列腺素E2（prostaglandin E2）來治療？",
+    "options": {
+      "A": "開放動脈導管（patent ductus arteriosus）",
+      "B": "心房中膈缺損（atrial septal defect）",
+      "C": "心室中膈缺損（ventricular septal defect）",
+      "D": "主動脈閉鎖（aortic atresia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 85 題",
+    "question": "在骨髓切片中，骨髓母細胞（myeloblasts）占比為25%，病理診斷為何？",
+    "options": {
+      "A": "原發性骨髓纖維化（primary myelofibrosis）",
+      "B": "慢性骨髓性白血病（chronic myelogenous leukemia）",
+      "C": "急性骨髓性白血病（acute myeloid leukemia）",
+      "D": "骨髓化生不良症候群（myelodysplastic syndrome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 86 題",
+    "question": "下列何者是造成鬱血性脾腫大（congestive splenomegaly）最常見的原因？",
+    "options": {
+      "A": "心臟衰竭（heart failure）",
+      "B": "門靜脈血栓（portal vein thrombosis）",
+      "C": "脾靜脈血栓（splenic vein thrombosis）",
+      "D": "肝硬化（liver cirrhosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 87 題",
+    "question": "下列有關惡性間皮瘤（malignant mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "與石棉暴露關係密切",
+      "B": "常見BAP1 突變",
+      "C": "最常發生於胸膜",
+      "D": "常造成遠端轉移"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 88 題",
+    "question": "下列何者最不可能為氣胸（pneumothorax）的併發症？",
+    "options": {
+      "A": "縱膈腔偏移（shifting）",
+      "B": "肺部瘢痕形成（scarring）",
+      "C": "肺癌（lung cancer）",
+      "D": "肺部積膿（empyema）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 89 題",
+    "question": "下列何者為最常見之良性肺臟腫瘤？",
+    "options": {
+      "A": "錯構瘤（hamartoma）",
+      "B": "孤立性纖維瘤（solitary fibrous tumor）",
+      "C": "血管瘤（hemangioma）",
+      "D": "平滑肌瘤（leiomyoma）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 90 題",
+    "question": "關於自體免疫性肝炎（autoimmune hepatitis），下列何者錯誤？",
+    "options": {
+      "A": "IgG 或γ-球蛋白增高",
+      "B": "第二型自體免疫性肝炎較常發生於老年人",
+      "C": "病理切片下可見許多的漿細胞（plasma cells）浸潤，可能進展至肝硬化",
+      "D": "通常用類固醇或免疫抑制劑治療可改善發炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 91 題",
+    "question": "下列關於胰臟炎的敘述何者錯誤？",
+    "options": {
+      "A": "嚴重的急性胰臟炎是一種醫療急症。可導致瀰散性血管內凝血、水腫、急性呼吸窘迫、休克及急性腎小管壞 死",
+      "B": "PRSS1 和SPINK1 突變可誘導胰臟炎",
+      "C": "在組織學中，慢性胰臟炎經常呈現廣泛的纖維化和殘留的蘭氏小島和導管",
+      "D": "慢性胰臟炎是一種可逆的變化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 92 題",
+    "question": "68 歲女性，這些年來因膝關節炎疼痛的緣故必須服用大量非類固醇類抗發炎藥（NSAIDs）。最近幾天她感覺 上腹痛並會噁心、嘔吐，這天因有吐血的情形而至急診室求診，下列那一項最可能造成上述表現？",
+    "options": {
+      "A": "急性胃炎",
+      "B": "腺癌",
+      "C": "幽門桿菌感染",
+      "D": "增生性息肉"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 93 題",
+    "question": "在長期之第二型糖尿病患，其胰島最有可能有下列何種物質之沉積？",
+    "options": {
+      "A": "脂褐質",
+      "B": "類澱粉",
+      "C": "鈣質",
+      "D": "鋅"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 94 題",
+    "question": "下列何種細胞基因異常最不可能發生在腎臟之乳突狀癌（papillary carcinoma）？",
+    "options": {
+      "A": "染色體3p 缺失（3p deletions）",
+      "B": "三染色體7（trisomy 7）",
+      "C": "三染色體17（trisomy 17）",
+      "D": "男性病患之Y 染色體丟失（loss of Y）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 95 題",
+    "question": "下列有關乳房放射狀疤痕（radial scar）的敘述，何者最適當？",
+    "options": {
+      "A": "與第一型糖尿病（type 1 diabetes）相關",
+      "B": "常見於外傷或手術後",
+      "C": "乳頭含血分泌物（bloody nipple discharge）",
+      "D": "形狀不規則，會與乳癌混淆"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 96 題",
+    "question": "下列何者為診斷原位乳癌之最重要病理特徵？",
+    "options": {
+      "A": "有完整肌上皮層（myoepithelial layer）",
+      "B": "明顯的纖維化及纖維母細胞（fibroblast）增生",
+      "C": "沒有明顯的淋巴球漿細胞（lymphoplasma cell）浸潤",
+      "D": "雌激素受體（estrogen receptor）陽性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 97 題",
+    "question": "根據臨床資料與分子研究，子宮內膜癌可區分為第一型（type I）與第二型（type II），下列有關子宮內膜 癌（endometrial carcinoma）的敘述，何者最不適當？",
+    "options": {
+      "A": "一般而言，第一型子宮內膜癌比第二型子宮內膜癌發生年齡較早",
+      "B": "第一型子宮內膜癌的組織型為子宮內膜樣腺癌（endometrioid adenocarcinoma），其前驅病灶（precursor lesion）為子宮內膜增生（endometrial hyperplasia）",
+      "C": "第二型子宮內膜癌的組織型中包括漿液性癌（serous carcinoma）。漿液性癌罕見相關之前驅病灶",
+      "D": "一般而言，第二型子宮內膜癌比第一型子宮內膜癌臨床表現更為惡性（aggressive）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 98 題",
+    "question": "大約三分之一的血管炎（vasculitis）之患者同時有周邊神經病變，其最常見的周邊神經病變表現型態是：",
+    "options": {
+      "A": "polyneuropathy",
+      "B": "mononeuropathy",
+      "C": "polyradiculoneuropathy",
+      "D": "mononeuritis multiplex"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 99 題",
+    "question": "圖中所示是一個具有高度傳染性的腦組織鏡下所見，罹患該病的患者容易有下列何種情形？",
+    "options": {
+      "A": "長出惡性腦瘤",
+      "B": "自發性蜘蛛膜下腔大出血",
+      "C": "快速進行性失智",
+      "D": "出現腦膜炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 100 題",
+    "question": "圖示是腦底Willis 氏環，其中有一處病變，最可能引發下列何者？ [圖片] [圖片]",
+    "options": {
+      "A": "痴呆",
+      "B": "步態不穩、共濟失調",
+      "C": "舞蹈症",
+      "D": "自發性蜘蛛膜下腔出血"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

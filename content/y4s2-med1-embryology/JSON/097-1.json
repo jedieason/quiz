@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 29 題",
+    "question": "下列何者不是第4 和第6 鰓弓軟骨癒合的產物？",
+    "options": {
+      "A": "會厭（epiglottis）",
+      "B": "甲狀軟骨（thyroid cartilage）",
+      "C": "杓狀軟骨（arytenoid cartilage）",
+      "D": "環狀軟骨（cricoid cartilage）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 30 題",
+    "question": "下列那一種細胞是由中胚層衍生而來？",
+    "options": {
+      "A": "原始生殖細胞（primordial germ cell）",
+      "B": "血島細胞（blood island）",
+      "C": "氣管之內襯上皮細胞",
+      "D": "神經嵴細胞（neural crest cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 31 題",
+    "question": "下列那一項構造的胚胎起源與第二對咽弓（pharyngeal arch）無關？",
+    "options": {
+      "A": "砧骨",
+      "B": "莖突",
+      "C": "莖突舌骨韌帶",
+      "D": "舌骨之小角部"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 32 題",
+    "question": "下列何者不會導致小頭畸形（microcephaly）？",
+    "options": {
+      "A": "德國麻疹病毒（rubella virus）",
+      "B": "巨細胞病毒（cytomegalovirus）",
+      "C": "弓漿蟲（Toxoplasma gondii）",
+      "D": "沙利竇脈（thalidomide）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

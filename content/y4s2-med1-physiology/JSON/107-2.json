@@ -1,0 +1,334 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 47 題",
+    "question": "有關人類的彩色視覺，下列何者是最恰當的敘述？",
+    "options": {
+      "A": "正常人類視網膜上的M型錐細胞（M cones）主要吸收紅光",
+      "B": "人類視覺的三原色是指紅色、綠色與黃色",
+      "C": "人類男性與女性色盲發生的比率為1：1",
+      "D": "錐細胞（cone）辨別紅色與綠色的基因，同時位於X染色體上且位置相近"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 48 題",
+    "question": "當光線進入視網膜時，最先經過下列何種細胞？",
+    "options": {
+      "A": "rod or cone cells",
+      "B": "bipolar cells",
+      "C": "ganglion cells",
+      "D": "horizontal cells"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 49 題",
+    "question": "在昏暗的環境下，視網膜桿狀細胞（rod cell）外部區段（outer segment）產生的鈉離子內流（influx）電流 主要是因為下列那一物質的作用？",
+    "options": {
+      "A": "cAMP",
+      "B": "cGMP",
+      "C": "傳導素（transducin）",
+      "D": "all-trans retinal"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 50 題",
+    "question": "當考生正專注於國家考試試題時，額葉測得的腦波最可能是下列何者？",
+    "options": {
+      "A": "alpha rhythm",
+      "B": "beta rhythm",
+      "C": "theta rhythm",
+      "D": "delta rhythm"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 51 題",
+    "question": "由右耳傳入中樞神經系統的auditory input，將傳至何處？",
+    "options": {
+      "A": "右側之postcentral gyrus",
+      "B": "兩側之posterior temporal gyrus",
+      "C": "兩側之superior temporal gyrus",
+      "D": "右側之posterior temporal gyrus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 52 題",
+    "question": "瘦素（leptin）會抑制食慾，使得體重得以維持恆定，是因為其促進下列何種傳導物質，進而抑制進食中樞所 致？",
+    "options": {
+      "A": "α-melanocyte stimulating hormone（α-MSH）",
+      "B": "neuropeptide Y（NPY）",
+      "C": "orexin",
+      "D": "agouti-related peptide（AgRP）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 53 題",
+    "question": "有關右眼之外側視野訊息之敘述，何者正確？",
+    "options": {
+      "A": "經由right optic nerve傳遞，在optic chiasm交叉，然後經由left optic tract傳至左側thalamus",
+      "B": "經由right optic nerve傳遞，在optic chiasm不交叉，然後經由right optic tract傳至右側thalamus",
+      "C": "經由right optic tract傳遞，在optic chiasm交叉，然後經由left optic radiation傳至左側thalamus",
+      "D": "經由right optic tract傳遞，在optic chiasm不交叉，然後經由right optic radiation傳至右側thalamus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 54 題",
+    "question": "活化下列何種位於運動終板（motor end plate）上的受器，可啟動骨骼肌細胞的動作電位（action  potential）？",
+    "options": {
+      "A": "nicotinic receptor",
+      "B": "muscarinic receptor",
+      "C": "dihydropyridine receptor",
+      "D": "ryanodine receptor"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 55 題",
+    "question": "在平滑肌收縮過程中，$Ca^{2+}$與下列何者結合後才能促使cross-bridge cycling進行，並啟動收縮？",
+    "options": {
+      "A": "actin",
+      "B": "myosin",
+      "C": "troponin",
+      "D": "calmodulin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 56 題",
+    "question": "下列何者可直接促進血塊形成（clot formation）？",
+    "options": {
+      "A": "thrombin使fibrinogen→fibrin",
+      "B": "plasminogen→plasmin",
+      "C": "tissue factor活化factor XII",
+      "D": "$Ca^{2+}$和factor IXa活化factor V"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 57 題",
+    "question": "若血液黏滯係數（blood viscosity）增加時，最可能直接引起下列那一改變？",
+    "options": {
+      "A": "周邊總阻力（total peripheral resistance）增加",
+      "B": "小動脈（arterioles）半徑增加",
+      "C": "平均動脈壓（mean arterial pressure）下降",
+      "D": "心搏量（stroke volume）增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 58 題",
+    "question": "下列何者最有可能引起血壓下降？",
+    "options": {
+      "A": "活化小動脈血管平滑肌β1 腎上腺素型受器（β1 adrenergic receptors）",
+      "B": "開啟小動脈血管平滑肌細胞上鈣離子通道（calcium channel）",
+      "C": "增加小動脈一氧化氮（NO）的量",
+      "D": "活化血管張力素轉換酶（angiotensin-converting enzyme）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 59 題",
+    "question": "下列何者降低時，可增加淋巴的流速？",
+    "options": {
+      "A": "微血管靜水壓（hydrostatic pressure）",
+      "B": "微血管通透性（permeability）",
+      "C": "血漿膠體滲透壓（colloid osmotic pressure）",
+      "D": "組織間液膠體滲透壓（colloid osmotic pressure）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 60 題",
+    "question": "下列有關肺部發生纖維化（fibrosis）後肺功能變化之敘述，何者錯誤？",
+    "options": {
+      "A": "肺活量（vital capacity）減少",
+      "B": "功能性肺餘容量（functional residual capacity）增加",
+      "C": "運動時，常呈現淺快呼吸型態（rapid shallow breathing）",
+      "D": "第一秒用力呼氣容積（FEV1）通常會減少"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 61 題",
+    "question": "下列有關肺氣腫（emphysema）之敘述，何者錯誤？",
+    "options": {
+      "A": "彈性回縮力（elastic recoil）增加",
+      "B": "肺順應性（lung compliance）增加",
+      "C": "功能性肺餘容量（functional residual capacity）增加",
+      "D": "用力呼氣時，呼氣氣流速度（expiratory flow rate）降低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 62 題",
+    "question": "下列何種過程最需要肺臟的參與？",
+    "options": {
+      "A": "釋出血清素（serotonin）進入血液中",
+      "B": "活化舒緩激肽（bradykinin）",
+      "C": "將血纖維蛋白原（fibrinogen）轉變為血纖維蛋白（fibrin）",
+      "D": "將血管收縮素I（angiotension I）轉變為血管收縮素II（angiotension II）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 63 題",
+    "question": "下列何者不屬於消化道的內在神經系統（intrinsic nervous system）？",
+    "options": {
+      "A": "interstitial cell of Cajal（ICC）",
+      "B": "myenteric plexus",
+      "C": "nodose ganglion",
+      "D": "submucosal plexus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 64 題",
+    "question": "下列那種膽汁成分之相對比例，最易導致膽結石的產生？",
+    "options": {
+      "A": "膽鹽30%、卵磷脂60%、膽固醇10%",
+      "B": "膽鹽40%、卵磷脂55%、膽固醇5%",
+      "C": "膽鹽80%、卵磷脂10%、膽固醇10%",
+      "D": "膽鹽60%、卵磷脂25%、膽固醇15%"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 65 題",
+    "question": "某病患主訴最近常覺得口渴，身體檢查時發現其呼吸有acetone的果香味、空腹血糖值高達380 mg/dL。相對 於正常人，該病患尿液不會有下列何者變化？",
+    "options": {
+      "A": "尿液的pH值較正常人低",
+      "B": "尿液之NH4 +排出量較正常人多",
+      "C": "24小時之尿液排出量較正常人多",
+      "D": "尿液之HCO3 - 排出量較正常人多"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 66 題",
+    "question": "關於近端腎小管的鈉離子再吸收的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在頂膜（apical membrane）鈉離子會與葡萄糖、磷離子等被協同轉運（cotransporter）吸收",
+      "B": "基底外側膜（basolateral membrane）會利用鈉－鉀－氯協同轉運蛋白（Na-K-2Cl cotransporter）運送至 組織間液",
+      "C": "經由被動轉運（passive transport），一小部分的鈉離子會經由細胞間緊密連接（tight junction）重新回到 腎小管腔內",
+      "D": "過濾到腎小管的鈉離子約有60%會在近端腎小管被再吸收回體循環"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 67 題",
+    "question": "下列何者是用來判斷病人是否罹患甲狀腺功能低下（hypothyroidism）的最佳指標？",
+    "options": {
+      "A": "血漿中甲狀腺素結合球蛋白（thyroxine-binding globulin）濃度降低",
+      "B": "血漿中甲狀腺素總量（total plasma T4，T3，RT3）降低",
+      "C": "血漿中游離態甲狀腺素濃度降低",
+      "D": "血漿中甲狀腺刺激素（thyroid stimulating hormone）濃度降低"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 68 題",
+    "question": "酮酸中毒患者體內酮體（ketone body）是由下列那些物質構成？①乙醯乙酸（acetoacetate） ②β-羥丁酸 （β-hydroxybutyrate） ③丙酮（acetone） ④α-酮戊二酸（α-ketoglutarate）",
+    "options": {
+      "A": "①②③④",
+      "B": "僅①②④",
+      "C": "僅①②③",
+      "D": "僅③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 69 題",
+    "question": "人體內，vitamin D3轉為25-hydroxycholecalciferol主要是在下列何種器官中進行？",
+    "options": {
+      "A": "skin",
+      "B": "kidney",
+      "C": "liver",
+      "D": "parathyroid gland"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 70 題",
+    "question": "下列關於促腎上腺皮質激素（adrenocorticotropic hormone, ACTH）和腎上腺皮質醇（cortisol）的分泌特性 之敘述，何者錯誤？",
+    "options": {
+      "A": "兩者分泌均會隨晝夜生物時鐘（circadian rhythm）而改變",
+      "B": "每日皮質醇產生量最多的時間主要是在入夜睡眠時間",
+      "C": "調控促腎上腺皮質激素分泌晝夜變化主要部位在下視丘的suprachiasmatic nuclei",
+      "D": "皮質醇的分泌主要受到促腎上腺皮質激素的分泌變化所調控"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 71 題",
+    "question": "一位35歲女性主訴畏寒、水腫、無月經且時有乳汁分泌。血液分析發現甲狀腺激素數值過低，則此病患之無 月經及泌乳現象最可能由於下列何種激素之影響？",
+    "options": {
+      "A": "下視丘所分泌之多巴胺（dopamine）刺激腦下垂體分泌泌乳素（prolactin）",
+      "B": "下視丘所分泌之性釋素（GnRH）刺激腦下垂體分泌促黃體素（LH）",
+      "C": "下視丘所分泌之甲釋素（TRH）刺激腦下垂體分泌泌乳素（prolactin）",
+      "D": "下視丘所分泌之多巴胺（dopamine）刺激腦下垂體分泌促黃體素（LH）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 72 題",
+    "question": "雌激素（estrogen）分泌量在月經週期（menstrual cycle）中何時最高？其主要作用為何？",
+    "options": {
+      "A": "濾泡期（follicular phase）；促進濾泡生長",
+      "B": "排卵（ovulation）前約24小時；促進黃體刺激素潮放（LH surge）",
+      "C": "黃體期（luteal phase）；促進子宮內膜增厚",
+      "D": "經期（menstruation）；促進子宮內膜崩潰"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 73 題",
+    "question": "濾泡促素（FSH）主要是由睪丸塞托萊氏細胞（Sertoli cells）所分泌的何種激素調控？",
+    "options": {
+      "A": "抑制素（inhibin）",
+      "B": "雌激素（estrogen）",
+      "C": "睪固酮（testosterone）",
+      "D": "助孕酮（progesterone）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  }
+]

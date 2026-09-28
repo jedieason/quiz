@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 76 題",
+    "question": "下列何種細胞不屬於永久性組織（nondividing or permanent tissues）?",
+    "options": {
+      "A": "神經元（neurons）",
+      "B": "骨骼肌細胞（skeletal muscle cells）",
+      "C": "平滑肌細胞（smooth muscle cells）",
+      "D": "心肌細胞（cardiac muscle cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 77 題",
+    "question": "下列有關炎症反應與介質（mediator）的配對，何者錯誤？",
+    "options": {
+      "A": "血管擴張（vasodilation）與TNF, IL-1",
+      "B": "增加血管滲透性與C3a及C5a",
+      "C": "發燒（fever）與前列腺素（prostaglandins）",
+      "D": "疼痛（pain）與遲緩激肽（bradykinin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 78 題",
+    "question": "下列何者是第一期與第二期梅毒病灶中最主要的發炎反應細胞？",
+    "options": {
+      "A": "淋巴球（lymphocyte）",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "漿細胞（plasma cell）",
+      "D": "嗜酸性白血球（eosinophil）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 79 題",
+    "question": "下列器官中，最少受到腮腺炎病毒侵襲，所以無顯病理變化的是：",
+    "options": {
+      "A": "肝臟",
+      "B": "中樞神經系統",
+      "C": "睪丸",
+      "D": "胰臟"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 80 題",
+    "question": "流行病學研究發現，移民美國第一代的日本人死於胃癌的比率小於原日本住民，但高於當地 美國人；移民美國第二代的日本人死於胃癌的比率小於移民美國第一代的日本人，但仍高於 當地美國人。由這研究結果所得到的推論，何者為最適當？",
+    "options": {
+      "A": "癌症的發生僅與環境有關",
+      "B": "癌症的發生僅與基因遺傳有關",
+      "C": "環境與基因遺傳均可影響癌症的發生",
+      "D": "年齡是影響癌症發生的因素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 81 題",
+    "question": "下列何種致癌物最容易引起白血病及惡性淋巴瘤？",
+    "options": {
+      "A": "Asbestos",
+      "B": "Cadmium compounds",
+      "C": "Vinyl chloride",
+      "D": "Benzene"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 82 題",
+    "question": "有關肺心症（cor pulmonale）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在急性肺心症，右心室明顯肥厚",
+      "B": "在急性肺心症，右心室擴張且呈卵圓形",
+      "C": "在慢性肺心症，右心室壁增厚",
+      "D": "在慢性肺心症，右心室壁的脂肪消失"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 83 題",
+    "question": "45歲男性胰臟腺癌末期患者，數度發生下肢短暫性靜脈血栓（evanescent  phlebothrombosis），病人如同時發生腦梗塞，其最可能的心臟併發症為何？",
+    "options": {
+      "A": "非細菌性血栓性心內膜炎（non-bacterial thrombotic endocarditis）",
+      "B": "Libman-Sacks氏心內膜炎（Libman-Sacks endocarditis）",
+      "C": "急性感染性心內膜炎（acute infective endocarditis）",
+      "D": "急性心肌梗塞（acute myocardial infarction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 84 題",
+    "question": "下列四種血液疾病中，那兩種疾病最常發生變異的基因相同？  ①增多性紅血球症（polycythemia vera）  ②原發性血小板增多症（essential thrombocythemia）  ③全身性肥大細胞增生症（systemic mastocytosis）  ④急性淋巴性白血病（acute lymphoblastic leukemia）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "③④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 85 題",
+    "question": "5歲女童兩周來出現面色蒼白、精神不佳。血液中出現terminal deoxynucleotidyl transferase （TdT）、CD10、CD19染色陽性的原始細胞（blast cells）。染色體檢查發現腫瘤細胞有t （12;21）的染色體轉位。下列何者為最可能的診斷？",
+    "options": {
+      "A": "T細胞慢性淋巴母細胞白血病（T-cell chronic lymphoblastic leukemia）",
+      "B": "T細胞急性淋巴母細胞白血病（T-cell acute lymphoblastic leukemia）",
+      "C": "B細胞急性淋巴母細胞白血病（B-cell acute lymphoblastic leukemia）",
+      "D": "B細胞慢性淋巴母細胞白血病（B-cell chronic lymphoblastic leukemia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 86 題",
+    "question": "下列何者為移植肺發生慢性排斥之最主要的病理變化？",
+    "options": {
+      "A": "發炎細胞浸潤",
+      "B": "瀰漫性肺泡傷害",
+      "C": "阻塞性支氣管炎",
+      "D": "巨細胞病毒感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 87 題",
+    "question": "急性間質性肺炎與下列那一項較無關？",
+    "options": {
+      "A": "吸入毒氣",
+      "B": "過敏性反應",
+      "C": "病毒性感染",
+      "D": "吸入胃部內含異物"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 88 題",
+    "question": "下列何種藥物造成的肝傷害以肝細胞壞死為主？",
+    "options": {
+      "A": "amiodarone",
+      "B": "acetaminophen",
+      "C": "phenothiazine",
+      "D": "methotrexate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 89 題",
+    "question": "24歲男性主訴過去一個星期腹痛、發燒及拉肚子，身體檢查發現右下腹有壓痛的情形，糞便 檢查並有潛血反應。內視鏡下看見廻腸及升結腸的黏膜較為水腫，且有潰瘍的現象；但橫結 腸及降結腸則為正常。他的升結腸切片檢查最有可能看到下列何種病理表現？",
+    "options": {
+      "A": "隱窩膿瘍（crypt abscess）",
+      "B": "腺癌（adenocarcinoma）",
+      "C": "壞死性血管炎（necrotizing vasculitis）",
+      "D": "非乾酪性肉芽腫（non-caseating granulomas）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 90 題",
+    "question": "4週大的女嬰全身皮膚變黃，大便顏色由黃棕色逐漸變成淡黃色甚至灰白色。身體檢查發現 女嬰有肝腫大的情形，肝臟切片檢查發現膽小管（bile ductule）增生，門脈區水腫及纖維 化，肝細胞有明顯膽汁鬱積（cholestasis）。以下何者為最有可能的診斷？",
+    "options": {
+      "A": "總膽管囊腫（choledochal cyst）",
+      "B": "膽管炎（cholangitis）",
+      "C": "膽道閉鎖（biliary atresia）",
+      "D": "膽管癌（cholangiocarcinoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 91 題",
+    "question": "下列何種疾病主要是因大腸桿菌產生之類志賀氏毒素（Shiga-like toxin）所導致？",
+    "options": {
+      "A": "血栓性血小板減少性紫斑症（thrombotic thrombocytopenic purpura）",
+      "B": "特發性血小板減少性紫斑症（idiopathic thrombocytopenic purpura）",
+      "C": "典型溶血性尿毒症候群（typical hemolytic-uremic syndrome）",
+      "D": "非典型溶血性尿毒症候群（atypical hemolytic-uremic syndrome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 92 題",
+    "question": "下列那一個基因的突變與甲狀腺髓質癌（medullary carcinoma）的形成最有關係？",
+    "options": {
+      "A": "RAS",
+      "B": "RET",
+      "C": "BRAF",
+      "D": "PTEN"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 93 題",
+    "question": "下列分子缺陷中，何者最常與偶發性（sporadic）副甲狀腺腺瘤有關？",
+    "options": {
+      "A": "cyclin D1",
+      "B": "calcium-sensing receptor",
+      "C": "vitamin D receptor",
+      "D": "parathyroid hormone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 94 題",
+    "question": "生過3個小孩的26歲婦女在懷孕28週時發生自發性流產，其流產生出的男嬰比一般正常週數 的胎兒要小，而且兩手的第三指和第四指有連在一起的畸形。胎盤除了比較小之外，還可以 看到一些大小約0.8公分像葡萄狀的水泡。則這些胎盤組織最可能有下列那種染色體異常？",
+    "options": {
+      "A": "69,XXY",
+      "B": "46,XX",
+      "C": "23,Y",
+      "D": "47,XXY"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 95 題",
+    "question": "40歲男性發現在龜頭上數個亮紅色表面光滑的斑塊，病理診斷為”Erythroplasia of  Queyrat”，則應如何向病人解釋此疾病？",
+    "options": {
+      "A": "淋病，須以抗生素治療",
+      "B": "尖頭濕疣（condyloma acuminatum）",
+      "C": "原位癌，出現異生細胞",
+      "D": "梅毒，須以抗生素治療"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 96 題",
+    "question": "有關軟骨肉瘤（chondrosarcoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "大多數病人的年齡為20幾歲",
+      "B": "腫瘤內少有鈣化",
+      "C": "第一級（grade 1）腫瘤的轉移機率約10%",
+      "D": "見到第三級（grade 3）惡性軟骨之形態時，要先想到該腫瘤是否為軟骨母細胞骨肉瘤 （chondroblastic osteosarcoma），因第三級軟骨肉瘤較少見"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 97 題",
+    "question": "一名小孩因感冒而服用阿斯匹林（aspirin），隨後發生了肝及腦的病變。肝臟變化如圖所 示，他的腦部病變最有可能是：",
+    "options": {
+      "A": "核黃疸（kernicterus）",
+      "B": "點狀出血（petechial hemorrhage）",
+      "C": "腦水腫（brain edema）",
+      "D": "豆狀核變性（lenticular degeneration）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 98 題",
+    "question": "病人因腦膿瘍顱內壓上升而發生經天幕腦脫疝（transtentorial herniation）時，會壓迫到那一 條血管而造成局部缺血？",
+    "options": {
+      "A": "前大腦動脈",
+      "B": "中大腦動脈",
+      "C": "後大腦動脈",
+      "D": "基底動脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 99 題",
+    "question": "有一農夫經常在稻穀收割期時發生急性發燒、咳嗽、呼吸困難，且血中白血球增高，其最可 能的診斷為：",
+    "options": {
+      "A": "支氣管肺炎",
+      "B": "結核性肺炎",
+      "C": "過敏性肺炎",
+      "D": "成人呼吸窘迫症候群"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 100 題",
+    "question": "【背景題幹：有一農夫經常在稻穀收割期時發生急性發燒、咳嗽、呼吸困難，且血中白血球增高，其最可 能的診斷為：】\n承上題，經由病理切片診斷，下列現象最可能發生？ [圖片]",
+    "options": {
+      "A": "間質纖維化，淋巴球，漿細胞浸潤",
+      "B": "間質纖維化，嗜酸性球浸潤",
+      "C": "乾酪性壞死及肉芽腫",
+      "D": "嗜中性白血球浸潤及化膿"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 29 題",
+    "question": "橫膈（diaphragm）的那一部分最容易產生先天性缺損？",
+    "options": {
+      "A": "前內側（anteromedial）",
+      "B": "前外側（anterolateral）",
+      "C": "後內側（posteromedial）",
+      "D": "後外側（posterolateral）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 30 題",
+    "question": "鰓竇（branchial sinus）形成的原因，肇因於胚胎時期下列何者閉鎖不全？",
+    "options": {
+      "A": "咽囊（pharyngeal pouch）",
+      "B": "咽弓（pharyngeal arch）",
+      "C": "頸竇（cervical sinus）",
+      "D": "口咽膜（oropharyngeal membrane）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 31 題",
+    "question": "下列有關心房間隔（interatrial septum）的敘述，何項正確？",
+    "options": {
+      "A": "第一中隔（septum primum）比第二中隔（septum secundum）為厚",
+      "B": "第一中隔（septum primum）上會發生穿孔而形成第一孔（foramen primum）",
+      "C": "第一中隔（septum primum）與第二中隔（septum secundum）發育生長的方向均從腹側向背側",
+      "D": "第二中隔（septum secundum）在左右心房間的不完全分隔，形成卵圓孔（oval foramen）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 32 題",
+    "question": "下列那一對腦神經為前腦（prosencephalon）衍生形成？",
+    "options": {
+      "A": "視神經（optic nerve）",
+      "B": "動眼神經（oculomotor nerve）",
+      "C": "三叉神經（trigeminal nerve）",
+      "D": "前庭耳蝸神經（vestibulocochlear nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

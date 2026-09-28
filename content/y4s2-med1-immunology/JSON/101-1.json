@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 62 題",
+    "question": "進入血液中的抗原會在何處被抗原呈獻細胞（antigen-presenting cell, APC）呈獻給T 淋巴細胞辨識， 而活化宿主的特異性免疫反應（specific immunity）？",
+    "options": {
+      "A": "骨髓（Bone marrow）",
+      "B": "黏膜淋巴組織（Mucosa-associated lymphoid tissue；MALT）",
+      "C": "心臟（heart）",
+      "D": "脾臟（spleen）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 63 題",
+    "question": "Toll-like 受器（TLRs）執行訊息傳遞，下列那一種存在於細胞膜上，能接受細菌之lipopolysaccharide （LPS）刺激？",
+    "options": {
+      "A": "TLR-3",
+      "B": "TLR-4",
+      "C": "TLR-5",
+      "D": "TLR-7"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 64 題",
+    "question": "一個曾經被流感病毒感染過的人，其體內最具中和性保護力的抗體，應具有辨識那一種病毒蛋白質 的能力？",
+    "options": {
+      "A": "血球凝集素（hemagglutinin, HA）",
+      "B": "基質（matrix, M）蛋白",
+      "C": "核套蛋白（nucleocapsid, NP）",
+      "D": "非結構（nonstructural, NS）蛋白"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 65 題",
+    "question": "40 餘歲女性出現眼睛疼痛、疲憊、消瘦、雙手顫抖等症狀，檢查結果為甲狀腺功能過高，且出現促 甲狀腺荷爾蒙受體（TSH receptor）抗體的葛瑞夫氏症（Graves’ disease）。這個疾病的成因為何？",
+    "options": {
+      "A": "感染症破壞甲狀腺體，引起功能過高",
+      "B": "產生出自體抗體的自體免疫疾病",
+      "C": "攝取碘質過多，引起甲狀腺功能過高",
+      "D": "電解質代謝失常，引起甲狀腺功能過高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 66 題",
+    "question": "胸腺中，那一種細胞可表現主要組織抗原（MHC）以促進正選擇（positive selection）？",
+    "options": {
+      "A": "皮質表皮細胞（cortical epithelial cell）",
+      "B": "髓質表皮細胞（medullary epithelial cell）",
+      "C": "巨噬細胞（macrophage）",
+      "D": "樹突細胞（dendritic cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 67 題",
+    "question": "Plasmacytoid dendritic cell 主要藉由分泌何類細胞激素來對抗病毒？",
+    "options": {
+      "A": "Type Ⅰ interferons",
+      "B": "IFN-γ",
+      "C": "TNF-α",
+      "D": "IL-2"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 68 題",
+    "question": "記憶性$CD8^+$ T 細胞的分化與功能維持，需要$CD4^+$ T 細胞的幫忙，以目前研究所知，那些分子訊息 參與這個過程？",
+    "options": {
+      "A": "CD28 與IFN-γ",
+      "B": "CD40 與IFN-γ",
+      "C": "CD40 與IL-2",
+      "D": "CD28 與IL-2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 69 題",
+    "question": "下列那一項是免疫球蛋白受器（Fc receptor）的主要功能？",
+    "options": {
+      "A": "直接與抗原結合",
+      "B": "與T 細胞受體（T cell receptor）結合",
+      "C": "增進吞噬功能（phagocytosis）",
+      "D": "刺激產生介白素-2（interleukin-2）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 70 題",
+    "question": "抗體與抗原分子結合時的反應力不包含下列那一項？",
+    "options": {
+      "A": "共價鍵結（covalent bond）",
+      "B": "氫鍵結（hydrogen bond）",
+      "C": "疏水性反應力（hydrophobic force）",
+      "D": "凡得瓦力（van der Waals force）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 71 題",
+    "question": "小新得到喉嚨感染，醫師為他做了喉頭細菌培養發現鏈狀排列的格蘭氏陽性菌。小新三週以後出現 心臟衰竭而住院。醫師發現他有新出現的心雜音，診斷為風濕性心臟病。關於此病患的疾病，下列 敘述，何者正確？",
+    "options": {
+      "A": "他的心衰竭主要是腎炎引發的高血壓所引起",
+      "B": "細菌在心臟瓣膜上繁殖而引起疾病",
+      "C": "他可能也會發生關節腫痛的症狀",
+      "D": "病患的免疫系統對細菌產生免疫容忍而無法清除細菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 72 題",
+    "question": "志玲每次戴了含鎳的項鍊或耳環表演後幾天就會在接觸的地方產生癢疹。皮膚科醫師認為是免疫反 應產生的過敏性皮膚炎。這些認識含鎳抗原的免疫細胞是在何處產生敏感化（sensitization），在何 處執行其免疫功能（effector function）？",
+    "options": {
+      "A": "敏感化：皮膚，執行功能：淋巴結",
+      "B": "敏感化：淋巴結，執行功能：皮膚",
+      "C": "敏感化和執行功能都在皮膚",
+      "D": "敏感化和執行功能都在淋巴結"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 73 題",
+    "question": "抗體之效能作用（effector functions）由其分子中那一個部位決定？",
+    "options": {
+      "A": "重鏈（heavy chain）之變異區（variable region）",
+      "B": "重鏈之不變區（constant region）",
+      "C": "輕鏈（light chain）之變異區",
+      "D": "輕鏈之不變區"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 74 題",
+    "question": "李媽媽腎臟衰竭到了末期，接受透析治療一段時間後，接受了腎臟移植。由一陌生的車禍腦死捐贈 者得到一枚腎臟。李媽媽與捐贈者的主要組織抗原（Major Histocompatibility Complex）測試定型是 完全相同的。但是李媽媽腎臟移植之後仍出現排斥反應，其原因可能為何？",
+    "options": {
+      "A": "目前主要組織抗原測試定型的精確度尚有不足。而且次要組織抗原（Minor Histocompatibility Antigens）不同也會引起排斥反應",
+      "B": "李媽媽長期透析治療，引起過高的異體免疫反應（alloreactivity）",
+      "C": "腎臟移植手術時，種入之腎臟中帶有捐贈者之免疫細胞而引起之植入物抗宿主（graft versus host）免 疫反應",
+      "D": "因捐贈者為B 肝帶原（HBsAg positive），植入之腎臟中之HBsAg 引起連串免疫反應進行導致排 斥反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

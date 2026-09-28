@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 32 題",
+    "question": "下列何者由軸旁中胚層（paraxial mesoderm）衍生而來？",
+    "options": {
+      "A": "脊索（notochord）",
+      "B": "體節（somite）",
+      "C": "體腔（coelom）",
+      "D": "原條（primitive streak）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 33 題",
+    "question": "下列關於氣管（trachea）發育之敘述，何項錯誤？",
+    "options": {
+      "A": "其內襯上皮源於前腸（foregut）之內胚層（endoderm）",
+      "B": "其軟骨源於臟層間葉組織（splanchnic mesenchyme）",
+      "C": "其腺體源自於前腸（foregut）之中胚層（mesoderm）",
+      "D": "其肌肉源於臟層間葉組織（splanchnic mesenchyme）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 34 題",
+    "question": "在男性生殖系統，下列何者構造衍生自胚胎時期之中腎管（mesonephric duct）？",
+    "options": {
+      "A": "細精管（seminiferous tubule）",
+      "B": "睪丸網（rete testis）",
+      "C": "射精管（ejaculatory duct）",
+      "D": "睪丸附件（appendix of testis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 35 題",
+    "question": "動脈導管（ductus arteriosus）源自下列何構造？",
+    "options": {
+      "A": "左側第六動脈弓（aortic arch）",
+      "B": "左側第五動脈弓（aortic arch）",
+      "C": "右側第五動脈弓（aortic arch）",
+      "D": "左側第四動脈弓（aortic arch）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 36 題",
+    "question": "下列有關四肢（limbs）發育的敘述，何者錯誤？",
+    "options": {
+      "A": "肢芽（limb buds）於胚胎第四週末時，開始出現於體壁腹外側",
+      "B": "頂外胚層嵴（apical ectodermal ridge）誘導肢芽（limb buds）的生長及發育",
+      "C": "下肢芽（lower limb buds）較上肢芽（upper limb buds）晚一或二天發育",
+      "D": "發育中的上肢和下肢均以其縱軸朝外側旋轉90度"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

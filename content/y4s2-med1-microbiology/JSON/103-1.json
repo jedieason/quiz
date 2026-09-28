@@ -1,0 +1,255 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 42 題",
+    "question": "有關大腸桿菌（E. coli）致病性，下列敘述何者錯誤？",
+    "options": {
+      "A": "enterotoxigenic E. coli 會引起旅行者腹瀉，其致病機轉是細菌侵入並破壞大腸表皮，造成黏膜潰瘍 發炎",
+      "B": "enteropathogenic E. coli 主要之致病機制為細菌黏附至小腸上皮細胞，破壞微絨毛",
+      "C": "enterohemorrhagic E. coli 常見血清型為O157：H7，可產生Shiga toxin",
+      "D": "E. coli 之P pili 與腎盂腎炎（pyelonephritis）之形成有關"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 43 題",
+    "question": "下列有關Clostridium difficile 的敘述，何者錯誤？",
+    "options": {
+      "A": "通常對clindamycin 敏感",
+      "B": "可見於院內感染",
+      "C": "可見於正常人腸道",
+      "D": "其致病與抗生素的使用有關"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 44 題",
+    "question": "下列有關Bacteroides fragilis 的敘述，何者錯誤?",
+    "options": {
+      "A": "20% bile 抑制其生長",
+      "B": "可水解esculin",
+      "C": "為革蘭氏陰性菌",
+      "D": "有些對clindamycin 有抗藥性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 45 題",
+    "question": "下列有關Bacillus cereus 的敘述，何者錯誤？",
+    "options": {
+      "A": "需要特殊培養基，細菌在低溫培養效果較好（cold enrichment）",
+      "B": "具有heat-stable proteolysis-resistant enterotoxin 會引起嘔吐",
+      "C": "具有heat-labile enterotoxin 會引起腹瀉",
+      "D": "在宿主體內形成capsule 的菌株可造成肺炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 46 題",
+    "question": "造成兔熱病（tularemia）的病菌具有下列那種特徵？",
+    "options": {
+      "A": "會產生芽孢（spores）",
+      "B": "是一種微嗜氧菌（microaerophil）",
+      "C": "能在巨噬細胞（macrophages）內存活",
+      "D": "常由胃腸道感染人體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 47 題",
+    "question": "細菌的電子傳遞產生能量發生在何處？",
+    "options": {
+      "A": "中間體（mesosome）",
+      "B": "顆粒體（granules）",
+      "C": "細胞質膜（cytoplasmic membrane）",
+      "D": "細胞質（cytoplasm）內"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 48 題",
+    "question": "有關分枝桿菌（Mycobacterium）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "為需氧性桿菌且不形成孢子",
+      "B": "可用螢光染色法篩選陽性檢體",
+      "C": "複製一次（doubling time）約需2 小時",
+      "D": "孔雀綠（malachite green）可用來抑制一般細菌，但不會抑制分枝桿菌之生長"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 49 題",
+    "question": "下列何者最常用於燒傷傷口之消毒？",
+    "options": {
+      "A": "silver sulfadiazine",
+      "B": "povidon-iodine",
+      "C": "soap",
+      "D": "azole cream"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 50 題",
+    "question": "細胞壁的那一種成分？",
+    "options": {
+      "A": "teichoic acid",
+      "B": "內毒素中的lipid A",
+      "C": "somatic 抗原",
+      "D": "內毒素中的核心（core）多醣體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 51 題",
+    "question": "當細菌的23S rRNA 和核糖體蛋白（ribosomal proteins）發生突變時，可造成細菌對下列何種抗生素 產生抗藥性？",
+    "options": {
+      "A": "環丙沙星（ciprofloxacin）",
+      "B": "利肺寧（rifampin）",
+      "C": "青黴素（penicillin）",
+      "D": "紅黴素（erythromycin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 52 題",
+    "question": "下列關於腺病毒（adenovirus）的敘述，何者錯誤？",
+    "options": {
+      "A": "為DNA 病毒",
+      "B": "引起結膜炎（conjunctivitis）",
+      "C": "可以潛伏於淋巴組織中",
+      "D": "具有外套（envelope）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 53 題",
+    "question": "反轉錄病毒嵌入宿主的染色體中，其基因上那一個片段具有啟動子（promoter）序列可以調控病毒的 轉錄（transcription）？",
+    "options": {
+      "A": "LTR",
+      "B": "gag",
+      "C": "pol",
+      "D": "env"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 54 題",
+    "question": "下列何種病毒，與精神分裂症（schizophrenia）有關？",
+    "options": {
+      "A": "西尼羅腦炎病毒（West Nile encephalitis virus）",
+      "B": "玻納病病毒（Borna disease virus）",
+      "C": "拉克里斯病毒（La Crosse virus）",
+      "D": "辛諾柏病毒（Sin Nombre virus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 55 題",
+    "question": "下列何者不是導致流感病毒產生抗原飄移（antigenic drift）之原因？",
+    "options": {
+      "A": "當兩種病毒發生基因重分配（genetic reassortment）所致",
+      "B": "因為病毒合成RNA 常發生錯誤、引起突變所致",
+      "C": "常發生於血球凝集素基因（hemagglutinin gene）",
+      "D": "常發生於神經胺酸酶基因（neuraminidase gene）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 56 題",
+    "question": "下列對於腸病毒（enteroviruses）的描述，何者錯誤？",
+    "options": {
+      "A": "在pH3 至pH9 之環境下仍具抗性",
+      "B": "病毒基因體（naked genome）本身具感染之能力",
+      "C": "病毒RNA 在細胞中會被轉譯成polyprotein",
+      "D": "病毒在細胞核複製其子代"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 57 題",
+    "question": "孕婦何時感染rubella virus 最容易造成先天性胎兒畸形？",
+    "options": {
+      "A": "懷孕初期三個月",
+      "B": "懷孕中期三個月",
+      "C": "懷孕後期三個月",
+      "D": "周產期"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 58 題",
+    "question": "下列那一種黴菌不屬於擔子菌綱（Basidiomycetes）？",
+    "options": {
+      "A": "Cryptococcus",
+      "B": "Trichosporon",
+      "C": "Aspergillus",
+      "D": "Malassezia"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 59 題",
+    "question": "下列何種黴菌為主要病原菌（primary pathogen）？",
+    "options": {
+      "A": "Aspergillus niger",
+      "B": "Cryptococcus neoformans",
+      "C": "Candida albicans",
+      "D": "Paracoccidioides brasiliensis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 60 題",
+    "question": "下列何者不是伺機性黴菌感染疾病之重要 predisposing factor？",
+    "options": {
+      "A": "服用抗微生物藥物",
+      "B": "惡性腫瘤",
+      "C": "外科手術或燒傷",
+      "D": "男女性別"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 61 題",
+    "question": "抗黴菌藥物terbinafine 之作用機轉為抑制下列何者之生成？",
+    "options": {
+      "A": "蛋白質",
+      "B": "核酸",
+      "C": "麥角固醇（ergosterol）",
+      "D": "β-聚葡萄糖（β-glucan）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

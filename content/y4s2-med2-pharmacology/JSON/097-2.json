@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 51 題",
+    "question": "局部使用下列何種藥物可作散瞳劑和解除鼻塞？",
+    "options": {
+      "A": "Atropine",
+      "B": "Phenylephrine",
+      "C": "Clonidine",
+      "D": "Yohimbine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 52 題",
+    "question": "神經肌肉阻斷劑doxacurium 的作用機轉是：",
+    "options": {
+      "A": "阻斷acetylcholine 釋放",
+      "B": "抑制cholinesterase",
+      "C": "阻斷muscarinic receptor",
+      "D": "阻斷motor end-plate 上nicotinic receptor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 53 題",
+    "question": "下列何種利尿劑雖然具有強利尿效果，但易引起耳聾的副作用？",
+    "options": {
+      "A": "Chlorothiazide",
+      "B": "Acetazolamide",
+      "C": "Furosemide",
+      "D": "Indapamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 54 題",
+    "question": "下列何種藥物是透過抑制phosphodiesterase III 而改善congestive heart failure？",
+    "options": {
+      "A": "Dobutamine",
+      "B": "Captopril",
+      "C": "Digoxin",
+      "D": "Milrinone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 55 題",
+    "question": "臨床上用於治療心絞痛之血管舒張劑，何者之作用機轉是經由cGMP 媒介？",
+    "options": {
+      "A": "Nifedipine",
+      "B": "Enalapril",
+      "C": "Minoxidil",
+      "D": "Nitroglycerin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 56 題",
+    "question": "下列何者屬於類固醇類之抗男性荷爾蒙製劑（Steroid antiandrogen）？",
+    "options": {
+      "A": "Cyproterone acetate",
+      "B": "Flutamide",
+      "C": "Bicalutamide",
+      "D": "Ketoconazole"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 57 題",
+    "question": "下列何種用藥在經由肝臟（cytochrome p450 3A）代謝後會藉不可逆（irreversibly）方式抑制血小板 上的P2Y 接受體？",
+    "options": {
+      "A": "Dipyridamole",
+      "B": "Clopidogrel",
+      "C": "Heparin",
+      "D": "Eptifibatide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 58 題",
+    "question": "紅血球生成素（erythropoietin）可使用於治療貧血（anemia），其主要副作用為下列何者？",
+    "options": {
+      "A": "腎毒性（nephrotoxicity）",
+      "B": "腸胃道刺激作用（GI tract irritation）",
+      "C": "過敏反應（allergic reaction）",
+      "D": "高血壓（hypertension）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 59 題",
+    "question": "下列何種抗癌藥物其主要作用位置在於細胞週期的M phase？",
+    "options": {
+      "A": "Paclitaxel",
+      "B": "Etoposide",
+      "C": "Methotrexate",
+      "D": "Cisplatin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 60 題",
+    "question": "下列何者是革蘭氏陽性菌對macrolide 抗生素產生抗藥性的主要機轉？",
+    "options": {
+      "A": "減少甲基化酵素（methylase）之產生",
+      "B": "抑制乙醯轉移酵素的活性",
+      "C": "增加細胞膜對藥物的通透性",
+      "D": "改變50S ribosome 次單位結合位置的結構"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 61 題",
+    "question": "Cyclosporine 是一種有效的免疫抑制劑，經常用於器官移植之抗排斥作用，其原因為何？",
+    "options": {
+      "A": "增加IgG 抗體的合成",
+      "B": "干擾抗體的確認與結合",
+      "C": "抑制Interleukins 基因轉錄作用",
+      "D": "活化Natural killer（NK）細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 62 題",
+    "question": "下列何者是Tetracyclines 的抗菌機轉？",
+    "options": {
+      "A": "結合50S ribosome 次單元",
+      "B": "抑制translocase 的活性",
+      "C": "抑制Aminoacyl-tRNA 結合到細菌的ribosomes",
+      "D": "抑制ribosomal peptidyl transferase 的活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 63 題",
+    "question": "下列何者是藥物clearance 的單位？",
+    "options": {
+      "A": "ml",
+      "B": "ml/min",
+      "C": "mg/min",
+      "D": "mg/ml/min"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 64 題",
+    "question": "下列何種細菌毒素引起之腹瀉作用與cAMP 之增加有關？",
+    "options": {
+      "A": "Cholera toxin",
+      "B": "E. Coli heat-stable toxin",
+      "C": "Botulinum toxin",
+      "D": "Pertussis toxin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 65 題",
+    "question": "下列何者與腸胃促進劑Cisapride 併用易造成心律不整？",
+    "options": {
+      "A": "Ketoconazole",
+      "B": "Amphotericin B",
+      "C": "Griseofulvin",
+      "D": "Nystatin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 66 題",
+    "question": "何種群落刺激因子（colony-stimulating factor，CSF）目前可適用於治療癌症化療所造成的骨髓抑制 反應（myelosuppressive reaction），其名又稱Filgrastim？",
+    "options": {
+      "A": "G-CSF",
+      "B": "GM-CSF",
+      "C": "Multi-CSF",
+      "D": "M-CSF"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 67 題",
+    "question": "下列何者不是服用nitrovasodilators 所引起的副作用？",
+    "options": {
+      "A": "Hypotension",
+      "B": "Lupus-like syndrome",
+      "C": "Headache",
+      "D": "Tolerance"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 68 題",
+    "question": "下列何種藥物具有阻斷muscarinic receptor 之作用，而常用於治療巴金森氏症？",
+    "options": {
+      "A": "Oxybutynin",
+      "B": "Ipratropium",
+      "C": "Biperiden",
+      "D": "Scopolamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 69 題",
+    "question": "患有氣喘病史之高血壓患者，不宜使用下列何種藥物？",
+    "options": {
+      "A": "Diltiazem",
+      "B": "Furosemide",
+      "C": "Propranolol",
+      "D": "Captopril"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 70 題",
+    "question": "組織胺histamine H1-受體拮抗劑可以用來治療下列疾病，何者除外？",
+    "options": {
+      "A": "暈車、暈船",
+      "B": "過敏性鼻炎",
+      "C": "蕁麻疹",
+      "D": "胃潰瘍"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 71 題",
+    "question": "下列何種藥品可用來治療偏頭痛，但因具有子宮收縮的作用，故懷孕的婦女不可使用，因易導致 流產？",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Aspirin",
+      "C": "Ergot alkaloids",
+      "D": "Celecoxib"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 72 題",
+    "question": "下列eicosanoids 有血管收縮之作用，但是何者例外？",
+    "options": {
+      "A": "Thromboxane A2",
+      "B": "Prostaglandin I2",
+      "C": "Prostaglandin F2",
+      "D": "Leukotriene D4"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 73 題",
+    "question": "有關thiazides 利尿劑的敘述，下列何者錯誤？",
+    "options": {
+      "A": "產生利鈉作用",
+      "B": "降低周邊血管阻力",
+      "C": "降低交感神經活性",
+      "D": "使血中尿酸濃度增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 74 題",
+    "question": "Nitric oxide（NO）可以直接活化下列何種酵素？",
+    "options": {
+      "A": "Adenylate cyclase",
+      "B": "Membrane-bound guanylyl cyclase",
+      "C": "Cytosolic guanylyl cyclase",
+      "D": "Protein kinase C"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 75 題",
+    "question": "下列有關omeprazole 之敘述，何者錯誤？",
+    "options": {
+      "A": "proton pump 抑制劑",
+      "B": "抑制胃酸分泌之作用持久",
+      "C": "改善gastrin 引發之胃食道逆流（gastro-esophageal reflux）",
+      "D": "其與$H^+$, $K^+$-ATPase 之結合作用屬於可逆性"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 1 題",
+    "question": "關於類結核型痲瘋病（tuberculoid leprosy）與腫瘤型痲瘋病（lepromatous leprosy）的敘述，下列何者最不適 當？",
+    "options": {
+      "A": "兩種病人都會對痲瘋菌素（lepromin）有高度的免疫反應",
+      "B": "類結核型痲瘋病體內免疫球蛋白量是正常的",
+      "C": "腫瘤型痲瘋病會出現結節性紅斑（erythema nodosum）",
+      "D": "腫瘤型痲瘋病傳染力比較高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 2 題",
+    "question": "33歲患者反覆高燒入院，發現有細菌性肝膿瘍（liver abscess），從引流出來組織液培養細菌，在馬康機瓊脂 （MacConkey agar）上產生粉紅色菌落，且表面具有高度黏性的特質。這株菌最有可能是：",
+    "options": {
+      "A": "大腸桿菌（Escherichia coli）",
+      "B": "創傷弧菌（Vibrio vulnificus）",
+      "C": "霍亂弧菌（Vibrio cholerae）",
+      "D": "克雷伯氏菌（Klebsiella pneumoniae）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 3 題",
+    "question": "革蘭氏陰性菌其DNA旋轉酶的A次單元（gyrase-A subunit）出現突變，則此菌株最有可能對何種抗生素降低敏 感性或抗藥性之特性？",
+    "options": {
+      "A": "環丙沙星（ciprofloxacin）",
+      "B": "安比西林（ampicillin）",
+      "C": "頭芽孢菌素（cephalosporin）",
+      "D": "克林黴素（clindamycin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 4 題",
+    "question": "下列何種機制通常與革蘭氏陰性菌產生抗藥性無關？",
+    "options": {
+      "A": "分泌酵素水解特定抗生素，使抗生素失去活性",
+      "B": "於特定基因出現突變，使抗生素失去作用標的",
+      "C": "加速抗生素由菌體內排出，使抗生素無法達到作用濃度",
+      "D": "形成內孢子停止代謝活性，使抗生素失去作用標的"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 5 題",
+    "question": "下列何者是最適合用於分離退伍軍人菌屬（Legionella）的培養基？",
+    "options": {
+      "A": "Buffered charcoal yeast extract agar",
+      "B": "Caffeic acid agar",
+      "C": "Regan-Lowe agar",
+      "D": "Cystine-tellurite agar"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 6 題",
+    "question": "金黃色葡萄球菌（Staphylococcus aureus）分泌之腸毒素（enterotoxin）所造成之食物中毒，下列敘述何者最適 當？",
+    "options": {
+      "A": "腸毒素不具耐熱性",
+      "B": "應使用大量抗生素治療",
+      "C": "疾病潛伏期平均約4小時",
+      "D": "通常症狀至少持續4至5天"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 7 題",
+    "question": "下列何者最不可能經由性行為傳染之致病菌？",
+    "options": {
+      "A": "淋病雙球菌（Neisseria gonorrhoeae）",
+      "B": "梅毒螺旋體（Treponema pallidum）",
+      "C": "砂眼披衣菌（Chlamydia trachomatis）",
+      "D": "單核細胞增多性李斯特菌（Listeria monocytogenes）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 8 題",
+    "question": "下列有關細菌呼吸作用（respiration）之敘述，何者最不適當？",
+    "options": {
+      "A": "有氧呼吸（aerobic respiration）較發酵作用產生更多的ATP",
+      "B": "有氧呼吸的電子傳遞鏈位於細菌細胞膜",
+      "C": "兼性厭氧細菌（facultative anaerobes）可行無氧呼吸（anaerobic respiration）",
+      "D": "無氧呼吸較有氧呼吸產生更多的ATP"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 9 題",
+    "question": "下列何者不是敗血梭狀芽胞桿菌（Clostridium septicum）的特徵？",
+    "options": {
+      "A": "常從土壤中分離出來，對氧氣有耐受性",
+      "B": "可見於潛藏性大腸癌（occult colon cancer）病人",
+      "C": "於血液瓊脂培養基上，菌落呈游走狀（swarming）散布",
+      "D": "導致非外傷性肌肉壞死（nontraumatic myonecrosis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 10 題",
+    "question": "下列有關病毒的敘述，何者最適當？",
+    "options": {
+      "A": "RNA病毒複製時，基因體的複製錯誤率大於DNA病毒",
+      "B": "病毒複製的速率是以等比級數方式增加",
+      "C": "流感病毒（influenza virus）對環境的耐受性比腸病毒（enterovirus）強",
+      "D": "所有RNA病毒均在寄主細胞質中完成複製工作"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 11 題",
+    "question": "下列那一個最有可能是病毒感染引發「全身性類感冒症狀（flu-like systemic symptom）」之因子？",
+    "options": {
+      "A": "T細胞",
+      "B": "干擾素",
+      "C": "抗體",
+      "D": "免疫複合物（immune complex）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 12 題",
+    "question": "下列有關布尼亞科（bunyaviridae）病毒的敘述，何者最適當？",
+    "options": {
+      "A": "為正股(+)RNA病毒",
+      "B": "病毒在細胞核中進行複製",
+      "C": "漢他病毒（hantavirus）主要以老鼠為媒介傳播",
+      "D": "以人傳人方式傳播"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 13 題",
+    "question": "下列何種疾病與EB病毒（Epstein-Barr virus）感染較無關？",
+    "options": {
+      "A": "愛滋病患者的口腔毛狀白斑（hairy oral leukoplakia）",
+      "B": "新生兒的先天性聽力受損",
+      "C": "鼻咽癌",
+      "D": "單核球增多症（mononucleosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 14 題",
+    "question": "有關反轉錄病毒（retrovirus）的敘述，何者最不適當？",
+    "options": {
+      "A": "原病毒（provirus）只出現在其宿主細胞染色體固定的位置",
+      "B": "反轉錄時利用宿主的tRNA為引子（primer）",
+      "C": "在病毒顆粒中基因體具有兩套（two copies）單股RNA",
+      "D": "病毒顆粒中帶有反轉錄病毒酶（reverse transcriptase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 15 題",
+    "question": "新型冠狀病毒（SARS-CoV2）最初是如何被鑑定出是一個與蝙蝠冠狀病毒相近的病毒？",
+    "options": {
+      "A": "電子顯微鏡的影像證明",
+      "B": "病人檢體中的病毒序列與蝙蝠冠狀病毒序列有極高的相似度",
+      "C": "病人的臨床症狀",
+      "D": "病人與蝙蝠的抗體會交叉反應（cross react）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 16 題",
+    "question": "下列抗黴菌藥物中，何者在菌體上的作用部位與其他藥物不同？",
+    "options": {
+      "A": "三唑（triazole）",
+      "B": "棘白菌素（echinocandin）",
+      "C": "烯丙胺（allylamine）",
+      "D": "多烯（polyenes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 17 題",
+    "question": "下列何者會合成類胡蘿蔔素色素（carotenoid pigments），使菌落呈粉紅至紅色？",
+    "options": {
+      "A": "Trichosporon spp.",
+      "B": "Rhodotorula spp.",
+      "C": "Cryptococcus spp.",
+      "D": "Malassezia spp."
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

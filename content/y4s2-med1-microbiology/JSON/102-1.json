@@ -1,0 +1,255 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 42 題",
+    "question": "下列有關Scarlet fever 的敘述，何者錯誤？",
+    "options": {
+      "A": "是Group A Streptococci 引發咽喉炎之併發症",
+      "B": "臨床上可見病患口腔中產生Strawberry tongue",
+      "C": "臨床上可見病患皮膚上產生Pastia’s lines",
+      "D": "是由細菌感染之噬菌體溶解細菌後，釋放出Pyrogenic exotoxin 所造成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 43 題",
+    "question": "下列有關流感嗜血桿菌（Haemophilus influenzae）的敘述，何者錯誤？",
+    "options": {
+      "A": "幼兒感染後能引起腦膜炎（meningitis）",
+      "B": "其生長需要在培養基中補充加熱過的血液",
+      "C": "棲居於正常人體呼吸道的，主要是具莢膜的菌株",
+      "D": "市面上已有針對b 血清型別的疫苗"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 44 題",
+    "question": "下列那種病菌造成腸胃道感染所需的菌量最低？",
+    "options": {
+      "A": "弧菌屬（Vibrio）",
+      "B": "沙門氏菌屬（Salmonella）",
+      "C": "志賀氏菌屬（Shigella）",
+      "D": "耶爾辛氏菌屬（Yersinia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 45 題",
+    "question": "革蘭氏陰性菌造成敗血症（septicemia）的原因，常與其所共有的那種成分相關？",
+    "options": {
+      "A": "磷壁酸（teichoic acids）",
+      "B": "鞭毛素（flagellin）",
+      "C": "脂質A（lipid A）",
+      "D": "線毛素（pilin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 46 題",
+    "question": "有關立克次氏體（Rickettsia）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "其細胞壁含有peptidoglycan",
+      "B": "多經由體蝨、鼠蚤或壁蝨等傳染性昆蟲所傳播",
+      "C": "其細胞壁不含lipopolysaccharide，故沒有內毒素的活性",
+      "D": "為絕對細胞內寄生菌"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答 Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 47 題",
+    "question": "viridans streptococci 感染所造成之心內膜炎，不能單獨使用aminoglycosides 類的藥物，而必須合併 penicillin 的使用才能發揮其殺菌的效果，其主要原因為何？",
+    "options": {
+      "A": "aminoglycosides 類的藥物無法穿過viridans streptococci 之細胞壁",
+      "B": "aminoglycosides 無法與viridans streptococci 的核糖體結合",
+      "C": "viridans streptococci 沒有細胞壁結構",
+      "D": "aminoglycosides 類的藥物無法穿過viridans streptococci 之細胞膜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 48 題",
+    "question": "一位5 歲的小孩，經常咳到滿臉通紅甚至嘔吐，且伴隨有頭痛、發燒及喉嚨痛等症狀而求診。經聽 診後，發現肺部有雜音，X 光則顯示下肺葉部出現斑塊狀的「間質性肺炎」陰影，因此懷疑是黴漿 菌（Mycoplasma）感染。可以用下列何種藥物進行治療？",
+    "options": {
+      "A": "萬古黴素（vancomycin）",
+      "B": "青黴素（penicillin）",
+      "C": "四環黴素（tetracycline）",
+      "D": "枯草桿菌素（bacitracin）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 49 題",
+    "question": "某旅行社舉辦出國5 日遊，回國後，有3 名參加的孩童先後因出血性腹瀉至醫院就醫，其中1 名4 歲兒童還併發溶血性尿毒症候群（hemolytic uremic syndrome）。下列那種細菌最有可能是導致此事 件的致病原？",
+    "options": {
+      "A": "大腸桿菌（Escherichia coli）",
+      "B": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "C": "副溶血弧菌（Vibrio parahaemolyticus）",
+      "D": "胃幽門桿菌（Helicobacter pylori）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 50 題",
+    "question": "一位58 歲男性突然出現嘔吐、大量水性腹瀉、急性腎衰竭等症狀，隨後在其糞便中分離出霍亂弧菌 （Vibrio cholerae）。下列何者最能做為確定此人罹患霍亂症（cholera）的依據？",
+    "options": {
+      "A": "臨床症狀",
+      "B": "所分離的細菌能分泌霍亂毒素",
+      "C": "所分離的細菌屬O1 血清型",
+      "D": "在病人的血清中偵測到霍亂毒素"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 51 題",
+    "question": "【背景題幹：一位58 歲男性突然出現嘔吐、大量水性腹瀉、急性腎衰竭等症狀，隨後在其糞便中分離出霍亂弧菌 （Vibrio cholerae）。下列何者最能做為確定此人罹患霍亂症（cholera）的依據？】\n承上題，下列對霍亂弧菌的敘述，何者正確？",
+    "options": {
+      "A": "對酸的耐受性高",
+      "B": "所產生的神經毒素會刺激腸道的蠕動",
+      "C": "人類是此菌唯一的天然宿主",
+      "D": "無法生長於未添加鹽的培養基"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 52 題",
+    "question": "有關C 型肝炎病毒的敘述，何者錯誤？",
+    "options": {
+      "A": "屬於Flaviviridae",
+      "B": "具有envelope",
+      "C": "已經有疫苗可以預防感染",
+      "D": "與肝癌有關"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 53 題",
+    "question": "孕婦感染下列何種病毒，最容易造成胎兒先天性畸形？",
+    "options": {
+      "A": "單純疱疹病毒一型",
+      "B": "帶狀疱疹病毒",
+      "C": "德國麻疹病毒",
+      "D": "麻疹病毒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 54 題",
+    "question": "下列那一種病毒需進入寄主細胞之細胞核進行基因體複製（genome replication）？",
+    "options": {
+      "A": "Poxvirus",
+      "B": "Paramyxovirus",
+      "C": "Bunyavirus",
+      "D": "Orthomyxovirus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 55 題",
+    "question": "使用於孩童之MMR 三合一減毒疫苗，包含那三種病毒？",
+    "options": {
+      "A": "Measles-Mumps-Rubella",
+      "B": "Measles-Mumps-Rotavirus",
+      "C": "Measles-Mumps-Reovirus",
+      "D": "Measles-Mumps-Rhinovirus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 56 題",
+    "question": "下列有關流行性感冒病毒的敘述，何者錯誤？",
+    "options": {
+      "A": "基因含多段，因此重組現象普遍發生",
+      "B": "共分A、B、C 三型",
+      "C": "B 型常造成全世界大流行",
+      "D": "病毒感染後，續發性細菌感染（secondary bacterial infection），常引起肺炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 57 題",
+    "question": "南部爆發登革熱大流行，若患者有下列何種臨床症狀時，醫師會診斷為登革病毒（dengue viruses）之感 染？①紅疹（rash） ②關節炎（arthritis） ③血小板減少（thrombocytopenia） ④出血熱（hemorrhagic  fever）",
+    "options": {
+      "A": "①②③",
+      "B": "①②④",
+      "C": "②③④",
+      "D": "①③④"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分外。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 58 題",
+    "question": "愛滋病病人的Kaposi’s sarcoma 是由下列何種病毒感染所引起？",
+    "options": {
+      "A": "HSV-1（herpes simplex virus type 1）",
+      "B": "CMV（cytomegalovirus）",
+      "C": "HHV-8（human herpes virus type 8）",
+      "D": "HSV-2（herpes simplex virus type 2）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 59 題",
+    "question": "目前唯一會對人類造成全身性感染之青黴菌屬（Penicillium），其兩型性（Dimorphic）病原為何？",
+    "options": {
+      "A": "P. marneffei",
+      "B": "P. notutum",
+      "C": "P. chrysogenum",
+      "D": "P. claviformes"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 60 題",
+    "question": "抑制真菌DNA 及RNA 合成之抗真菌藥物為何？",
+    "options": {
+      "A": "Terbinafine",
+      "B": "Amphotericin B",
+      "C": "Flucytosine",
+      "D": "Fluconazole"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 61 題",
+    "question": "一位66 歲男性，教職退休一年後，覺得缺乏運動，於是買了腳踏車準備鍛鍊身體。但是第一次出遊就 因閃避來車而撞上路邊綠籬，右手肘被樹枝穿刺約2-3 cm 深之傷口，經送醫包紮後回家休養，傷口紅 腫、潰瘍、痛楚並有似膿分泌物，再經醫生診治後給予7 天口服Tetracycline 但情況並無好轉，後換成 口服Cephalexin 也沒有改善。約15 天後，右手肘及手臂出現直線排列多處之具滲出液潰瘍（Oozing  ulcers）及節瘤（Nodules）。檢體經過25℃培養長出絲狀真菌，菌絲有分隔（Septate hyphae），分生 孢子（Conidia）聚生於分生孢子柄的頂端以玫瑰花飾（Rosette）形狀排列，置於37℃之培養則長出酵 母菌菌落。這位男士感染了那種菌？",
+    "options": {
+      "A": "Conidiobolus coronatus",
+      "B": "Sporothrix schenckii",
+      "C": "Mycobacterium marinum",
+      "D": "Staphylococcus aureus"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

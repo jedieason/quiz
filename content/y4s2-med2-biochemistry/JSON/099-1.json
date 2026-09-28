@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 26 題",
+    "question": "下列何者不能直接提供人體能量？",
+    "options": {
+      "A": "麵條",
+      "B": "蘋果",
+      "C": "維生素C",
+      "D": "飲料中之酒精"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 27 題",
+    "question": "下列關於粒線體（mitochondria）的敘述，何者錯誤？",
+    "options": {
+      "A": "含有自己的genome",
+      "B": "電子傳遞鍊（electron transport system）之基因，全位於mitochondrial genome",
+      "C": "mitochondrial genome mutation 常造成先天神經肌肉或內分泌疾病",
+      "D": "mitochondrial genome mutation 通常遺傳自母親"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 28 題",
+    "question": "何種維生素所形成的coenzyme 不參與酵素pyruvate dehydrogenase complex 的作用？",
+    "options": {
+      "A": "thiamine",
+      "B": "biotin",
+      "C": "riboflavin",
+      "D": "niacin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 29 題",
+    "question": "心絞痛緩解藥物nitroglycerin 釋出NO（nitric oxide），啟動訊息傳遞途徑，以放鬆心肌，此過程中 不包括下列何種分子？",
+    "options": {
+      "A": "cGMP",
+      "B": "G protein-coupled receptor",
+      "C": "protein kinase G",
+      "D": "guanylyl cyclase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 30 題",
+    "question": "肺結核病人常以各種不同藥物一併治療，rifampicin 為主要的藥物之一。Rifampicin 抑制肺結核桿菌 的機轉為抑制下列那一種酶？",
+    "options": {
+      "A": "去氧核糖核酸聚合酶（DNA polymerase）",
+      "B": "細菌核糖核酸聚合酶（bacterial RNA polymerase）",
+      "C": "粒線體核糖核酸聚合酶（mitochondrial RNA polymerase）",
+      "D": "反轉錄酶（reverse transcriptase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 31 題",
+    "question": "一分子棕櫚醯輔酵素A（palmitoyl-CoA）經過beta-oxidation，完全產生acetyl-CoA 須加入多少水分子？",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 32 題",
+    "question": "下列何種鹼基不存於一般RNA 分子？",
+    "options": {
+      "A": "腺嘌呤（adenine）",
+      "B": "尿嘧啶（uracil）",
+      "C": "胞嘧啶（cytosine）",
+      "D": "胸腺嘧啶（thymine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 33 題",
+    "question": "下列那個維生素是由膽固醇（cholesterol）所衍生？",
+    "options": {
+      "A": "維生素A（vitamin A）",
+      "B": "維生素D（vitamin D）",
+      "C": "維生素E（vitamin E）",
+      "D": "維生素K（vitamin K）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 34 題",
+    "question": "下列有關inositol 1, 4, 5-triphosphate 的敘述，何者正確？",
+    "options": {
+      "A": "可將G protein 磷酸化",
+      "B": "可由phospholipase A 所催化之反應產生",
+      "C": "經由活化之phospholipase C 分解產生的second messenger",
+      "D": "可活化protein kinase A"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 35 題",
+    "question": "在DNA 複製中，下列何酵素功能主要是用以增加DNA 複製之準確度？",
+    "options": {
+      "A": "單股DNA 結合蛋白",
+      "B": "3’→5’外切核酸酶",
+      "C": "DNA 連接酶",
+      "D": "DNA 解螺旋酶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 36 題",
+    "question": "聚合酶鏈鎖反應（polymerase chain reaction, PCR）為二十世紀最偉大的發明之一。PCR 反應早已廣 泛應用於醫學及生物研究。PCR 反應並不需要下列何種物質？",
+    "options": {
+      "A": "DNA 雙股模板（template）",
+      "B": "引子（primer）",
+      "C": "去氧核糖核酸聚合酶（DNA polymerase）",
+      "D": "反轉錄酶（reverse transcriptase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 37 題",
+    "question": "Tm 值是描述雙股DNA 有一半的鏈結被打開而成單股時的溫度，下列的敘述，何者錯誤？",
+    "options": {
+      "A": "Tm 值和DNA 中的GC 含量有關",
+      "B": "Tm 值和溶液中離子的濃度有關",
+      "C": "Tm 值和溶液中的pH 值無關",
+      "D": "Tm 值和DNA 的長度有關"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 38 題",
+    "question": "下列何種胺基酸為合成甲狀腺素T3 & T4的前驅物？",
+    "options": {
+      "A": "arginine",
+      "B": "tryptophan",
+      "C": "lysine",
+      "D": "tyrosine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 39 題",
+    "question": "下列有關脊椎動物脂肪酸的延長之敘述，何者錯誤？",
+    "options": {
+      "A": "合成的位置在平滑內質網上",
+      "B": "利用malonyl-CoA 作為受質",
+      "C": "把palmitoyl-CoA 延長後變成stearoyl-CoA",
+      "D": "methyl-CoA 亦可作為其受質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 40 題",
+    "question": "尿素有兩個氮原子。假如第一個氮原子是從氨來的，第二個氮原子是從下列何者來的？",
+    "options": {
+      "A": "aspartate",
+      "B": "histidine",
+      "C": "arginine",
+      "D": "ornithine"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 41 題",
+    "question": "在DNA 複製時，原核細胞的primase 之功能為：",
+    "options": {
+      "A": "合成RNA 的引子，做為DNA 合成的啟始",
+      "B": "填補Okazaki 片段間的空隙",
+      "C": "作用方向是從3'→5'",
+      "D": "有校正功能"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 42 題",
+    "question": "關於葡萄糖-6-磷酸酵素（glucose-6-phosphatase）表現的組織和其在細胞內的分布，下列何者正確？",
+    "options": {
+      "A": "kidney, plasma membrane",
+      "B": "small intestine, cytosol",
+      "C": "muscle, plasma membrane",
+      "D": "liver, endoplasmic reticulum membrane"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 43 題",
+    "question": "在粒線體懸浮液中，以琥珀酸（succinate）為受質進行氧化磷酸化反應，此時若加入2,4 二硝基苯酚 （2,4-dinitrophenol），下列何種情況會發生？",
+    "options": {
+      "A": "氧氣的消耗會下降",
+      "B": "氧氣的消耗會增加",
+      "C": "ATP 的產生可繼續",
+      "D": "氫離子的梯度會維持"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 44 題",
+    "question": "在某一細胞內ATP、ADP、AMP 的濃度分別為4 mM、2 mM、0.2 mM，則其能荷（energy charge）值為：",
+    "options": {
+      "A": "0.81",
+      "B": "0.84",
+      "C": "0.90",
+      "D": "0.93"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 45 題",
+    "question": "下列有關肌肉的肝醣磷酸化酶（glycogen phosphorylase）的敘述，何者正確？",
+    "options": {
+      "A": "作用於肝醣（glycogen）的還原端移去葡萄糖分子",
+      "B": "將肝醣降解直接產成葡萄糖-6-磷酸（glucose-6-phosphate）",
+      "C": "將肝醣的（α1→6）糖苷鍵［（α1→6）glycosidic bond］作水解",
+      "D": "以活化型（a 型）及非活化型（b 型）二種型式存在"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 46 題",
+    "question": "下表為某一酵素之受質（substrate）濃度與反應速率分析表，已知此酵素依據米凱利斯－門頓動力學 （Michaelis-Menten kinetics）運作，此酵素的KM值約為多少mM？  受質濃度（substrate concentration）  V0 （mmol/L）  （µmol/min）  1.2  326  3  485  6  650  9  732  1500  970",
+    "options": {
+      "A": "1.5",
+      "B": "3",
+      "C": "6",
+      "D": "1500"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 47 題",
+    "question": "關於脂肪吸收代謝，下列敘述何者錯誤？",
+    "options": {
+      "A": "腸道吸收後，分泌至血液之乳糜微粒（chylomicron），以含三酸甘油酯（triglyceride）為主",
+      "B": "血液中乳糜微粒及極低密度脂蛋白（VLDL）之三酸甘油酯，是經由荷爾蒙敏感脂解酶 （hormone-sensitive lipase）所分解",
+      "C": "荷爾蒙敏感脂解酶受cAMP 之調控",
+      "D": "三酸甘油酯分解後，脂肪酸在肌細胞被送至粒線體（mitochondria），生產能量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 48 題",
+    "question": "胰臟癌中有很高的比例可發現有RAS 基因的突變。正常RAS 蛋白屬於small G protein 家族成員，可 在一些receptor tyrosine kinases（RTKs）訊號傳導中活化。常見的致癌RAS 突變可造成RAS 不受RTK 調控而有持續性活化（constitutive activation）。下列敘述何者錯誤？",
+    "options": {
+      "A": "致癌RAS 突變常是造成RAS 失去GTPase 活性",
+      "B": "致癌RAS 突變常是造成RAS 無法與GTP 結合",
+      "C": "RTK 接受生長因子訊號活化後，是透過guanine exchange factor（GEF）來活化RAS",
+      "D": "正常RAS 與GTPase activating protein（GAP）結合後，其GTPase 活性會提高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 49 題",
+    "question": "鈴木先生患有一種稱為Oguchi’s disease 的罕見遺傳性夜盲症，其白晝視力正常，但當夜間的黑暗背 景出現強光（例如在高速公路上見到對面來車的頭燈）後，會有比常人須更長的時間，才能看見東 西。目前已有一些證據顯示此種病人之rhodopsin signaling pathway 有缺陷，由所描述之病徵與你對 rhodopsin signaling 機制之認識來判斷，下列敘述何者不太可能是致病機轉？",
+    "options": {
+      "A": "此病之缺陷可能牽涉到不正常的desensitization of rhodopsin",
+      "B": "有可能是病人之rhodopsin kinase 有缺陷",
+      "C": "有可能是病人之arrestin 有缺陷",
+      "D": "有可能是病人之transducin 有缺陷，完全無法被吸收光後的rhodopsin 活化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 50 題",
+    "question": "歲的李太太從年輕時就是胖胖的，最近發現自己居然瘦了一圈，慶幸之餘，卻由健檢得知尿中及 空腹時血漿中的葡萄糖過高，醫師判斷她可能罹患了第2 型糖尿病（type 2 diabetes）。此型糖尿病 患者胰臟仍產生胰島素，但體內細胞會「抵抗」胰島素之作用。胰島素正常作用時不會發生下列何 項？",
+    "options": {
+      "A": "胰島素受體蛋白carboxyl 部分之tyrosine residues 被磷酸化",
+      "B": "insulin receptor substrate-1（IRS-1）被磷酸化，進而活化PI-3 kinase",
+      "C": "活化的PI-3 kinase促進PIP3產生，接著使protein kinase B（PKB/AKT）被活化",
+      "D": "活化的PKB 刺激glucose transporter GLUT4 由細胞膜上移入細胞內部，使得細胞無法吸收葡萄糖"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

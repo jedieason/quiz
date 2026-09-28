@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 1 題",
+    "question": "鈉離子（Na）以不同濃度分布於細胞膜兩側，此時驅使鈉離子依單純擴散（simple diffusion）作用由 高濃度之一側向低濃度之一側移動之能量梯度是屬於一種：",
+    "options": {
+      "A": "熱能（thermal energy）",
+      "B": "化學能（chemical potential energy）",
+      "C": "電位能（electrical potential energy）",
+      "D": "機械能（mechanical energy）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 2 題",
+    "question": "一物質單純擴散（simple diffusion）進入一細胞內之速率最可能因下列何種因素而增加？",
+    "options": {
+      "A": "胞內ATP 濃度增加",
+      "B": "細胞滲透度（osmolality）增加",
+      "C": "細胞微絨毛（microvilli）數目之增加",
+      "D": "環境溫度降低"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 3 題",
+    "question": "嚴重心臟衰竭（severe heart failure）病患，在休息狀態時，下列描述何者正確？",
+    "options": {
+      "A": "動脈容積度（compliance）與脈搏壓（pulse pressure）均降低",
+      "B": "動脈容積度與脈搏壓均增加",
+      "C": "心搏出量與脈搏壓均降低",
+      "D": "心搏出量與脈搏壓均增加"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 4 題",
+    "question": "脊髓之白質主要組成為何？",
+    "options": {
+      "A": "neuronal soma",
+      "B": "dendrites",
+      "C": "connective tissue",
+      "D": "myelinated axons"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 5 題",
+    "question": "骨骼肌產生收縮所需之ATP，最先由何方式產生？",
+    "options": {
+      "A": "磷酸肌酸（creatine phosphate）轉移出能量和磷酸根與ADP 結合",
+      "B": "氧化磷酸化反應（oxidative phosphorylation）",
+      "C": "醣分解反應（glycolysis）",
+      "D": "脂肪酸（fatty acid）氧化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 6 題",
+    "question": "間接的或稱為聽診的血壓測量法，其理論根據為何？",
+    "options": {
+      "A": "層流所產生的音頻震盪（audible vibration）",
+      "B": "亂流所產生的音頻震盪",
+      "C": "層流所伴隨的靜音",
+      "D": "亂流所伴隨的靜音"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 7 題",
+    "question": "在靜脈血液中血紅素是以何種形式存在，被視為調控酸鹼平衡的緩衝劑？",
+    "options": {
+      "A": "去氧血紅素（Hb）與重碳酸氫根離子（HCO3 -）結合",
+      "B": "含氧血紅素（HbO2）",
+      "C": "去氧血紅素與氫離子結合（HbH）",
+      "D": "去氧血紅素與二氧化碳結合（HbCO2）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 8 題",
+    "question": "一位健康的人，於站立時由肺餘容積（residual volume）再開始吸氣時，此時空氣大部分會進入到那 一個區域的肺泡？",
+    "options": {
+      "A": "肺底處",
+      "B": "肺尖處",
+      "C": "肺中央處",
+      "D": "平均分布於全部"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 9 題",
+    "question": "下列何者可抑制唾液分泌？",
+    "options": {
+      "A": "aspirin",
+      "B": "atropine",
+      "C": "cimetidine",
+      "D": "vasoactive intestinal peptide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 10 題",
+    "question": "當酸性食糜（pH＜3）進入十二指腸內產生之生理反應，下列敘述何者正確？",
+    "options": {
+      "A": "增加胃酸分泌",
+      "B": "降低膽汁的生成",
+      "C": "增加富含碳酸氫根（bicarbonate）的胰液分泌",
+      "D": "抑制富含酵素之胰液分泌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 11 題",
+    "question": "在正常情況下腎小管所分泌的氫離子，其大部分的最終途徑為何？",
+    "options": {
+      "A": "以重吸收碳酸氫根（HCO3 -）的方式回收",
+      "B": "以銨離子（NH4 +）的形式排出",
+      "C": "以游離氫離子的形式排出",
+      "D": "以可滴定酸（titratable acid）的形式排出"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 12 題",
+    "question": "鈉碘共同運輸子（$Na^+$-I- symporter，NIS）的功能為何？",
+    "options": {
+      "A": "將碘離子由單碘酪胺酸（MIT）解離",
+      "B": "將碘離子與酪胺酸結合",
+      "C": "將單碘酪胺酸與甲狀腺球蛋白分離",
+      "D": "將碘離子運輸進入甲狀腺上皮細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 13 題",
+    "question": "降鈣素（calcitonin）是由那一種腺體分泌？",
+    "options": {
+      "A": "腎上腺",
+      "B": "甲狀腺",
+      "C": "副甲狀腺",
+      "D": "腦下腺"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 14 題",
+    "question": "下列有關腎上腺髓素（adrenomedullin）的敘述，何者正確？",
+    "options": {
+      "A": "皮質醇（cortisol）抑制腎上腺髓素的分泌",
+      "B": "腎上腺髓素抑制抗利尿素（ADH）的分泌",
+      "C": "腎上腺髓素降低鈉的排泄",
+      "D": "腎上腺髓素促進皮質醇分泌"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 15 題",
+    "question": "腦下腺前葉中那一種細胞數目的比率最高？",
+    "options": {
+      "A": "促乳素細胞（lactotropes）",
+      "B": "促甲狀腺素細胞（thyrotropes）",
+      "C": "生長素細胞（somatotropes）",
+      "D": "促性腺素細胞（gonadotropes）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 16 題",
+    "question": "29 歲女性被送至急診是因為氣促（shortness of breath）及意識不清（conscious disturbance）。實驗數 據如下：pH 7.32, HCO3 - 6 mEq/L, PaCO2 12 mmHg, $Na^+$ 142 mEq/L, $Cl^-$ 110 mEq/L。此病人之酸鹼狀 況（acid-base status）之最適切描述為何？",
+    "options": {
+      "A": "代謝性酸血症與適當之呼吸代償（metabolic acidosis with appropriate respiratory compensation）",
+      "B": "代謝性酸血症合併呼吸酸血症（combined metabolic acidosis and respiratory acidosis）",
+      "C": "代謝性酸血症合併呼吸鹼血症（combined metabolic acidosis and respiratory alkalosis）",
+      "D": "只有代謝性酸血症（metabolic acidosis only）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 17 題",
+    "question": "副交感神經興奮時，可導致：①增加呼吸道阻力（airway resistance） ②降低呼吸道阻力 ③增加 解剖性無效腔（anatomic dead space） ④降低解剖性無效腔",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 18 題",
+    "question": "那一種荷爾蒙α次單元（α-subunit）與促黃體素（LH）α次單元相同？",
+    "options": {
+      "A": "泌乳激素（prolactin）",
+      "B": "促腎上腺皮質素（ACTH）",
+      "C": "生長素（GH）",
+      "D": "人絨膜促性素（hCG）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 19 題",
+    "question": "腦瘤長在大腦半球間區域（interhemispheric region）之額－頂葉區（frontal-parietal area），患者最可 能會有下列何種症狀？",
+    "options": {
+      "A": "一側臉部感覺異常",
+      "B": "膝腱反射（knee jerk reflex）減弱或消失",
+      "C": "上、下肢體所有感覺功能消失",
+      "D": "肌肉無力症狀在下肢較明顯"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 20 題",
+    "question": "骨骼肌收縮過程中鈣離子扮演重要的角色。罹患惡性高體溫症（malignant hyperthermia）的患者，由 於肌肉細胞鈣離子持續過度的釋放，導致肌肉僵直（rigidity）、心搏加速、高體溫、過度換氣等症 狀。有關鈣離子調控，下列何者錯誤？",
+    "options": {
+      "A": "肌肉動作電位藉由肌細胞膜傳遞，促使T-tubule 釋放鈣離子",
+      "B": "鈣離子與細肌絲（thin filament）上的troponin 結合",
+      "C": "鈣離子再吸收是肌肉放鬆（muscle relaxation）的重要因素",
+      "D": "ATP（adenosine triphosphate）是使粗肌絲（thick filament）和細肌絲間之鍵結鬆開的重要因素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 21 題",
+    "question": "先天性protein C 缺乏之病患常會合併下列何者狀況？",
+    "options": {
+      "A": "發生血栓機率較正常人高",
+      "B": "血小板功能異常",
+      "C": "易有出血傾向",
+      "D": "血小板數目降低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 22 題",
+    "question": "李小弟是嚴重性A 型血友病患，經常關節內出血，下列敘述何者正確？",
+    "options": {
+      "A": "此病是第九凝血因子缺少",
+      "B": "此病人的內因性凝血途徑（intrinsic pathway）發生異常",
+      "C": "此病之血小板功能異常",
+      "D": "此病血小板數目降低，導致出血傾向"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 23 題",
+    "question": "決定鉀離子在遠端腎小管分泌排出之主要因素中，不包括下列何者？",
+    "options": {
+      "A": "管腔內帶負電荷離子多寡（lumen-negative transepithial potential difference）",
+      "B": "遠端腎小管腔內尿液流速（distal flow rate）",
+      "C": "醛酮素（aldosterone）可增加皮質收集管管壁細胞鈉鉀幫浦（$Na^+$-$K^+$ pump）的數目及效率",
+      "D": "抗利尿荷爾蒙（antidiuretic hormone）存在與否"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 24 題",
+    "question": "下列敘述何者與血液中甲狀腺素結合球蛋白（thyroxine binding globulin）無關？",
+    "options": {
+      "A": "甲狀腺經切除一週後，血中仍可存在約50%正常量之甲狀腺素（T4）",
+      "B": "短時間內投與正常人超過每日所需量之甲狀腺素，並不影響其血中游離甲狀腺素（free T4）值",
+      "C": "感染時可在局部組織提供高碘濃度環境",
+      "D": "可攜帶甲狀腺素進入中樞神經"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 25 題",
+    "question": "女性次發性性腺功能低下症（secondary hypogonadism）患者之卵巢無法排卵，是由於缺乏下列那種 荷爾蒙？",
+    "options": {
+      "A": "生長激素（GH）",
+      "B": "促黃體素（LH）",
+      "C": "甲促素（TSH）",
+      "D": "泌乳激素（prolactin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

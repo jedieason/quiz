@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 62 題",
+    "question": "小王由於白血病必須進行骨髓移植，他只有一位親弟弟，他這位弟弟進行HLA 檢驗，則HLA 完全 與他符合的機會大約為多少%？",
+    "options": {
+      "A": "100",
+      "B": "75",
+      "C": "50",
+      "D": "25"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 63 題",
+    "question": "下列有關交感性眼炎（sympathetic ophthalmia）的敘述，何者正確？",
+    "options": {
+      "A": "由於交感性神經炎（sympathetic neuritis）引起的眼病變",
+      "B": "雙眼喪失協調性",
+      "C": "罕見的由於自體免疫反應引起的雙眼病變",
+      "D": "雙眼外旋肌的炎症"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 64 題",
+    "question": "引發第一型過敏免疫反應的呼吸道疾病時，下列那一項有關過敏原特性的描述最恰當？",
+    "options": {
+      "A": "常具有酵素活性",
+      "B": "常是大分子的蛋白質",
+      "C": "此類分子通常水溶性差",
+      "D": "此類分子通常不太穩定"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 65 題",
+    "question": "下列何者為不參與細胞毒殺作用的分子？",
+    "options": {
+      "A": "穿孔素（perforin）和顆粒相關酵素（granule-associated enzymes；granzymes）",
+      "B": "FasL 和Fas 的作用",
+      "C": "氧反應代謝物（reactive oxygen intermediates）和一氧化氮（NO）",
+      "D": "整合凝集素（integrin）和纖維網蛋白（fibronectin）的作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 66 題",
+    "question": "下列關於細胞黏著分子（adhesion molecule）的敘述，何者錯誤？",
+    "options": {
+      "A": "內皮細胞上的黏著分子包括E-selectin、P-selectin 和L-selectin，屬於免疫球蛋白家族成員",
+      "B": "整合凝集素（integrin）屬於黏著分子，由兩條非共價鍵結合的蛋白鏈組成",
+      "C": "選擇凝集素（selectin）與糖類分子結合",
+      "D": "細胞激素（cytokine）會誘發黏著分子在內皮細胞上表現"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 67 題",
+    "question": "下列關於T 細胞的敘述，何者正確？",
+    "options": {
+      "A": "是在淋巴結的生長中心（germinal center）聚集最多的細胞",
+      "B": "可幫助B 細胞抗體重鏈類型的轉換（isotype switching）",
+      "C": "可經由IL-12 的作用而分化為Th2 形式的細胞",
+      "D": "直接參與第一型過敏反應（type-1 hypersensitivity）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 68 題",
+    "question": "下列那一項是屬於IgE 媒介的過敏免疫反應（IgE-mediated hypersensitivity）所引起的疾病：",
+    "options": {
+      "A": "全身性對藥物反應的休克（anaphylaxis）",
+      "B": "植物葉面油質所引起的皮膚紅腫",
+      "C": "長期感染病原菌所引起的肉芽腫組織（granulomatous）",
+      "D": "自體免疫疾病所引起的腎絲球腎炎（glomerulonephritis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 69 題",
+    "question": "抗體之效用功能（effector functions）是由下列那一項決定？",
+    "options": {
+      "A": "輕鏈（light chain）的變異區（variable region）",
+      "B": "輕鏈（light chian）的不變區（constant region）",
+      "C": "重鏈（heavy chain）的變異區（variable region）",
+      "D": "重鏈（heavy chain）的不變區（constant region）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 70 題",
+    "question": "下列何者是輔助型T 細胞（helper T cell）的共同接受器（co-receptor）？",
+    "options": {
+      "A": "CD2",
+      "B": "CD3",
+      "C": "CD4",
+      "D": "CD8"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 71 題",
+    "question": "抗體與抗原之結合不依賴：",
+    "options": {
+      "A": "共價鍵（covalent bonds）",
+      "B": "靜電作用（electrostatic interactions）",
+      "C": "氫鍵（hydrogen bonds）",
+      "D": "凡德瓦爾力（van der Waals forces）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 72 題",
+    "question": "下列何者是屬於補體的C3 轉化酶（C3 convertase）？",
+    "options": {
+      "A": "C5b67",
+      "B": "C3a",
+      "C": "C3b",
+      "D": "C3bBb"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 73 題",
+    "question": "下列何種免疫反應是淋巴系統（lymphoid system）的主要功能？",
+    "options": {
+      "A": "先天性的免疫反應（innate immunity）",
+      "B": "適應性免疫反應（adaptive immunity）",
+      "C": "發炎反應（inflammation）",
+      "D": "吞噬作用（phagocytosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 74 題",
+    "question": "患者因肛門嚴重搔癢就診，並出現脫肛（rectal prolapse）症狀時，你應懷疑受到下列何種寄生蟲感 染？",
+    "options": {
+      "A": "蛔蟲（Ascaris lumbricoides）",
+      "B": "美洲鈎蟲（Necator americanus）",
+      "C": "鞭蟲（Trichuris trichiura）",
+      "D": "蟯蟲（Enterobius vermicularis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

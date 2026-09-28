@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 32 題",
+    "question": "胚胎的胚內體腔（intraembryonic coelom），最早出現在下列何者？",
+    "options": {
+      "A": "軸旁中胚層（paraxial mesoderm）",
+      "B": "中間中胚層（intermediate mesoderm）",
+      "C": "外側中胚層（lateral mesoderm）",
+      "D": "內胚層（endoderm）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 33 題",
+    "question": "衍生自第二咽弓（second pharyngeal arch）的肌肉，是由下列那一條腦神經支配？",
+    "options": {
+      "A": "三叉神經（trigeminal nerve）",
+      "B": "顏面神經（facial nerve）",
+      "C": "舌咽神經（glossopharyngeal nerve）",
+      "D": "副神經（accessory nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 34 題",
+    "question": "下列關於十二指腸（duodenum）發育的敘述，何者最適當？",
+    "options": {
+      "A": "由前腸（foregut）與後腸（hindgut）共同發育而來",
+      "B": "血液供應有上腸繫膜動脈（superior mesenteric artery）與下腸繫膜動脈（inferior mesenteric artery）",
+      "C": "因胃（stomach）的旋轉使十二指腸旋轉至右側，並且大部分貼在後腹壁",
+      "D": "發育過程中均呈現中空管狀的結構"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 35 題",
+    "question": "嬰兒剛出生使用肺部呼吸時，常會伴隨一些現象的改變，下列敘述何者正確？",
+    "options": {
+      "A": "肺部血管阻力顯著增加",
+      "B": "肺部血流量上升",
+      "C": "肺動脈管壁顯著變厚",
+      "D": "右心房壓力高於左心房"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 36 題",
+    "question": "大腦導水管（cerebral aqueduct）是衍生自那一腦泡（brain vesicle）？",
+    "options": {
+      "A": "菱腦（rhombencephalon）",
+      "B": "中腦（mesencephalon）",
+      "C": "間腦（diencephalon）",
+      "D": "端腦（telencephalon）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

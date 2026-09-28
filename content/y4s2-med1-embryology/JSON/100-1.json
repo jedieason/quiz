@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 29 題",
+    "question": "下列關於受精作用（fertilization）之敘述，何者正確？",
+    "options": {
+      "A": "通常發生於子宮腔",
+      "B": "在卵子產生第二極體（2nd polar body）後發生",
+      "C": "通常在排卵後3-5 天發生",
+      "D": "可促使卵細胞（oocyte）活化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 30 題",
+    "question": "肝臟中，由內胚層發育而來的是：",
+    "options": {
+      "A": "肝索細胞（cord of hepatic cell）",
+      "B": "纖維組織（fibrous tissue）",
+      "C": "造血組織（hematopoietic tissue）",
+      "D": "庫弗氏細胞（Kupffer cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 31 題",
+    "question": "關於胎兒心臟系統的敘述，何者錯誤？",
+    "options": {
+      "A": "右心房約有三分之一血液經卵圓孔到左心房",
+      "B": "肺靜脈由肺臟帶回充氧血至左心房",
+      "C": "動脈導管連通主動脈與肺動脈",
+      "D": "靜脈導管在下腔靜脈與臍靜脈間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 32 題",
+    "question": "關於腦垂體的發育，下列敘述何者正確？",
+    "options": {
+      "A": "垂體漏斗（infundibulum）屬於腺體部分",
+      "B": "神經垂體（neurohypophysis）為中腦衍生而來",
+      "C": "神經外胚層發育為腦垂體前葉（anterior lobe）",
+      "D": "腺垂體（adenohypophysis）來自口腔外胚層"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

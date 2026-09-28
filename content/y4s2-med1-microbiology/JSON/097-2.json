@@ -1,0 +1,256 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 42 題",
+    "question": "會侵入腸壁細胞並進一步擴散至鄰近細胞，造成受侵犯細胞死亡而破壞大腸黏膜層的細菌屬於下列 何種菌屬？",
+    "options": {
+      "A": "志賀氏菌（Shigella）",
+      "B": "霍亂弧菌（Vibrio）",
+      "C": "幽門桿菌（Helicobacter）",
+      "D": "沙門氏菌（Salmonella）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 43 題",
+    "question": "下列梭狀芽胞桿菌中，會引起偽膜性結腸炎（pseudomembranous colitis）的是：",
+    "options": {
+      "A": "肉毒桿菌（Clostridium botulinum）",
+      "B": "困難梭狀桿菌（C. difficile）",
+      "C": "產氣莢膜桿菌（C. perfringens）",
+      "D": "破傷風桿菌（C. tetani）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 44 題",
+    "question": "下列那一項物質存在革蘭氏陰性細菌中，而不存在革蘭氏陽性細菌中？",
+    "options": {
+      "A": "胜肽聚糖（peptidoglycan）",
+      "B": "脂質A（lipid A）",
+      "C": "莢膜（capsule）",
+      "D": "鞭毛（flagella）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 45 題",
+    "question": "DNA 病毒之蛋白質可與調節細胞週期之p53 蛋白質作用者為：",
+    "options": {
+      "A": "人類乳頭瘤病毒第十六型（HPV16）之E6 蛋白質",
+      "B": "人類乳頭瘤病毒第十六型（HPV16）之E7 蛋白質",
+      "C": "腺病毒（Adenovirus）之E1A 蛋白質",
+      "D": "EB 病毒（Epstein-Barr virus）潛伏性膜蛋白質第一型（LMP1）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 46 題",
+    "question": "分枝桿菌可抵抗酸性酒精脫色的耐酸性是和此菌細胞壁上的何種成分有關？",
+    "options": {
+      "A": "阿拉伯半乳聚糖（arabinogalactan）",
+      "B": "脂質（lipid）",
+      "C": "胜肽聚糖（peptidoglycan）",
+      "D": "蛋白質（protein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 47 題",
+    "question": "下列何種病毒結構可以抵抗酸及消毒劑（detergents）？",
+    "options": {
+      "A": "套膜（envelope）",
+      "B": "核酸蛋白質結合體",
+      "C": "蛋白殼（capsid）",
+      "D": "核酸（DNA 或RNA）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 48 題",
+    "question": "肺炎鏈球菌（Streptococcus pneumoniae）可用下列何種方法鑑定？",
+    "options": {
+      "A": "尿素酶試驗（urease test）",
+      "B": "膽汁溶解試驗（bile solubility test）",
+      "C": "錫克氏試驗（Schick test）",
+      "D": "氧 化 酶試驗（oxidase test）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 49 題",
+    "question": "下列何種細菌的特徵是初步判定為單核球增多性李斯特菌（Listeria monocytogenes）感染之重要依據？",
+    "options": {
+      "A": "溶血性",
+      "B": "運動性",
+      "C": "染色法",
+      "D": "血清型"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 50 題",
+    "question": "下列關於流行性感冒病毒（Influenza virus）的血球凝集素（hemagglutinin, HA）之敘述，何者為錯？",
+    "options": {
+      "A": "血清學上可區分為各種亞型（subtype），例如H1、H2、…H15 等，均存在於禽流感病毒（Avian flu virus）",
+      "B": "人類流行性感冒病毒包括H1、H2、H3 等三種亞型",
+      "C": "人類流行性感冒病毒的HA 和禽流感病毒的HA 和相同結構的唾液酸（sialic acid）結合",
+      "D": "是中和抗體的主要作用目標"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答 Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 51 題",
+    "question": "有關狂犬病病毒（Rabies viruses）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "產生Negri 小體（Negri body）",
+      "B": "不能被乙醚破壞",
+      "C": "是RNA 病毒",
+      "D": "主要侵犯神經組織"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 52 題",
+    "question": "下列第幾型乳頭瘤病毒常在子宮頸癌組織中出現？",
+    "options": {
+      "A": "六",
+      "B": "十一",
+      "C": "十八",
+      "D": "三十六"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 53 題",
+    "question": "下列關於病毒與其可引起之疾病的敘述，何者錯誤？",
+    "options": {
+      "A": "呼吸道融合病毒（Respiratory syncytial virus）可引起肺炎（pneumonia）",
+      "B": "副流行性感冒病毒（Parainfluenza virus）可引起哮喘（croup）",
+      "C": "鼻病毒（Rhinovirus）可引 起疱疹性 咽呷炎（herpangina）",
+      "D": "冠狀病毒（Human coronavirus）可引起感冒（common cold）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 54 題",
+    "question": "下列何者不是人類免疫缺乏病毒（HIV）的傳染途徑？",
+    "options": {
+      "A": "日常生活接觸",
+      "B": "輸血",
+      "C": "紋身",
+      "D": "哺乳"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 55 題",
+    "question": "下列何種病毒之基因體為DNA，並可造成幼兒傳染性紅疹症（erythema infectiosum）？",
+    "options": {
+      "A": "人類細小病毒（parvovirus）B19",
+      "B": "德國麻疹病毒（Rubella virus）",
+      "C": "麻疹病毒（Measles virus）",
+      "D": "伊柯病毒（Echovirus）第十六型"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 56 題",
+    "question": "腺病毒之傳播方式為：",
+    "options": {
+      "A": "性行為",
+      "B": "接觸",
+      "C": "輸血",
+      "D": "母奶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 57 題",
+    "question": "下列節肢動物媒介病毒（Arbovirus）中，那一種病毒不以節肢動物為傳播之媒介？",
+    "options": {
+      "A": "黃熱病病毒（Yellow fever virus）",
+      "B": "西尼羅河腦炎病毒（West Nile virus）",
+      "C": "拉薩病毒（Lassa virus）",
+      "D": "登革病毒（Dengue virus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 58 題",
+    "question": "下列關於真菌的描述，何者錯誤？",
+    "options": {
+      "A": "大多數種類的真菌屬於多細胞生物",
+      "B": "能引起人類疾病的真菌在真菌中占少數",
+      "C": "大多數致病性真菌的繁殖方式是有性生殖",
+      "D": "菌絲和孢子可作為鑑別真菌的重要依據"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 59 題",
+    "question": "引起全身性感染的真菌大多數是何種真菌？",
+    "options": {
+      "A": "產毒素真菌",
+      "B": "條件致病性真菌",
+      "C": "具有變異原性真菌",
+      "D": "多細胞真菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 60 題",
+    "question": "下列那一種真菌是屬於內源性感染真菌？",
+    "options": {
+      "A": "念珠菌（Candida）",
+      "B": "麴菌（Aspergillus）",
+      "C": "表皮癬菌（Epidermophyton）",
+      "D": "新型隱球菌（Cryptococcus neoformans）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 61 題",
+    "question": "表皮癬菌屬（Epidermophyton）可引起：",
+    "options": {
+      "A": "鵝口瘡",
+      "B": "頭癬",
+      "C": "甲癬",
+      "D": "汗斑"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  }
+]

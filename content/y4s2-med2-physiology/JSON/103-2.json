@@ -1,0 +1,314 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 1 題",
+    "question": "下列有關細胞內鈣離子的敘述，何者錯誤？",
+    "options": {
+      "A": "鈣離子可結合攜鈣素（calmodulin）",
+      "B": "鈣離子可活化蛋白激酶C（protein kinase C）",
+      "C": "當細胞膜上鈣離子通道（$Ca^{2+}$ channel）開啟時，細胞內鈣離子向細胞外流出",
+      "D": "鈣離子可促進胞吐作用（exocytosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 2 題",
+    "question": "飲食中食鹽含量長期偏低，造成鈉攝取不足。其腎小管上皮細胞最可能發生下列何種變化？",
+    "options": {
+      "A": "頂端膜（apical membrane）之鈉-鉀幫浦（$Na^+$-$K^+$ATPase pumps）數量增加",
+      "B": "底側膜（basolateral membrane）之鉀離子通道（$K^+$ channel）數量增加",
+      "C": "頂端膜（apical membrane）之鈉離子通道（$Na^+$ channel）數量增加",
+      "D": "底側膜（basolateral membrane）之鈉-氫交換器（$Na^+$-$H^+$ exchanger）數量增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 3 題",
+    "question": "下列那一腦區的神經活性，在巴金森氏症病患會明顯較正常人高？  external segment of the glob",
+    "options": {
+      "A": "external segment of the globus pallidus",
+      "B": "subthalamic nuclei",
+      "C": "thalamus",
+      "D": "motor cortex"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 4 題",
+    "question": "因車禍發生暫時性失憶症狀，不認得自己的父母，最有可能是下列那一腦區受創？  amygdala",
+    "options": {
+      "A": "amygdala",
+      "B": "visual cortex",
+      "C": "limbic association cortex",
+      "D": "hippocampus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 5 題",
+    "question": "在hippocampus 中發生long-term potentiation（LTP）需要何種neurotransmitter 與receptor 參與？  epinephrine; β",
+    "options": {
+      "A": "epinephrine; β adrenergic receptor",
+      "B": "acetylcholine; nicotinic receptor",
+      "C": "glutamate; NMDA receptor",
+      "D": "glycine; AMPA receptor"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 6 題",
+    "question": "下列有關乙醯膽鹼（acetylcholine）之敘述，何者錯誤？",
+    "options": {
+      "A": "乙醯膽鹼由choline 與acetyl coenzyme A 所合成",
+      "B": "乙醯膽鹼受器可分成nicotinic receptor 與muscarinic receptor 兩類 atropine",
+      "C": "為各類型乙醯膽鹼受器之拮抗劑（antagonist）",
+      "D": "乙醯膽鹼酶（acetylcholinesterase）存在於pre-synaptic 及post-synaptic membranes 上，可破壞 acetylcholine"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 7 題",
+    "question": "Superior colliculi 與下列何種功能有關？  auditory reflex",
+    "options": {
+      "A": "auditory reflex",
+      "B": "合成並釋放anti-diuretic hormone（ADH）",
+      "C": "語言形成",
+      "D": "eye movement"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 8 題",
+    "question": "下列何者是屬於efferent pathway？  dorsal columns",
+    "options": {
+      "A": "dorsal columns",
+      "B": "spinothalamic tract",
+      "C": "pyramidal tract",
+      "D": "spinotectal tract"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 9 題",
+    "question": "患者抱怨眼瞼下垂（眼睛張不大），時有手腳無力狀況，吞嚥亦有障礙，步態穩定，拿水杯的手亦 穩定，神經傳導檢查正常，經acetylcholinesterase 抑制劑治療後症狀改善。此患者最可能患有下列何 種疾病？",
+    "options": {
+      "A": "小腦萎縮症（spinocerebellar atrophy）",
+      "B": "肌肉萎縮症（muscle dystrophy）",
+      "C": "漸凍人（amyotrophic lateral sclerosis）",
+      "D": "重症肌無力（myasthenia gravis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 10 題",
+    "question": "下列有關骨骼肌之敘述，何者錯誤？",
+    "options": {
+      "A": "由肌膜（sarcolemma）所形成的T-tubules 是肌肉收縮時釋放鈣離子的重要來源",
+      "B": "每一個肌原纖維（myofibril）都由肌漿網（sarcoplasmic reticulum）所包圍著",
+      "C": "肌凝蛋白（myosin）是一個從肌肉的肌節（sarcomere）的中央延展到Z-line 的大型蛋白",
+      "D": "在肌肉收縮過程中，肌動蛋白絲（actin filament）與暗帶（A-band）皆不會縮短"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 11 題",
+    "question": "體循環中各種血管內的壓力，由大至小排列，其順序應為何？①主動脈（aorta） ②小動脈（arteriole）  ③腔靜脈（vena cava） ④小靜脈（venule） ⑤微血管（capillary）",
+    "options": {
+      "A": "①②③④⑤",
+      "B": "①②⑤③④",
+      "C": "①②⑤④③",
+      "D": "①③②④⑤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 12 題",
+    "question": "某段微血管內之靜水壓為32 mmHg，膠體滲透壓為21 mmHg；組織間液之靜水壓為1 mmHg，膠體 滲透壓為0 mmHg，請問此位置的液體最終動態為何？",
+    "options": {
+      "A": "超濾之淨流出壓力（ultrafiltration with net outward pressure）＝12 mmHg",
+      "B": "超濾之淨流出壓力（ultrafiltration with net outward pressure）＝10 mmHg",
+      "C": "重吸收之淨流入壓力（reabsorption with net inward pressure）＝12 mmHg",
+      "D": "重吸收之淨流入壓力（reabsorption with net inward pressure）＝10 mmHg"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 13 題",
+    "question": "一位25 歲國家級之運動選手，他在平靜休息時的心臟功能與同樣身材之正常人做比較，下列何者最為 可能？",
+    "options": {
+      "A": "心輸出量（cardiac output）較正常人高",
+      "B": "脈搏數較正常人低",
+      "C": "每次心跳之心輸出量（stroke volume）較正常人為低",
+      "D": "心室壁變肥厚，導致心室較正常人小"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 14 題",
+    "question": "下列何者與血鉀過高（hyperkalemia）最無關？",
+    "options": {
+      "A": "高而尖的T 波",
+      "B": "寬大的QRS 波",
+      "C": "atrial fibrillation",
+      "D": "ventricular tachycardia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 15 題",
+    "question": "當肺泡氧分壓（alveolar PO2）由100 mmHg 突然降至50 mmHg。此時，血液中的氧氣總量（total oxygen  content）亦因此減少，其最主要是由於下列何者減少最多所導致？",
+    "options": {
+      "A": "溶解的氧氣量",
+      "B": "重碳酸根離子（HCO3 -）",
+      "C": "與血紅素結合之氧氣量",
+      "D": "碳醯胺基血紅素（carbamino-hemoglobin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 16 題",
+    "question": "一位健康者於平靜吸氣過程中需克服那些作用力？①呼吸道阻力（airway resistance） ②組織彈性 回縮力（elastic recoil）",
+    "options": {
+      "A": "僅①",
+      "B": "僅②",
+      "C": "①＋②；且①＞②",
+      "D": "①＋②；且①＜②"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 17 題",
+    "question": "胰臟切除（pancreatectomy）患者較可能引起下列何種症狀？",
+    "options": {
+      "A": "代謝性鹼中毒",
+      "B": "血糖過低",
+      "C": "體重增加",
+      "D": "脂溶性維生素缺乏"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者 均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 18 題",
+    "question": "下列何者為促使膽管上皮細胞碳酸氫根離子（bicarbonate）分泌增加之主要因子？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "胰泌素（secretin）",
+      "D": "血中膽鹽的濃度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 19 題",
+    "question": "正常休息狀況下，下列何者最接近心輸出量（cardiac output）除以腎血流量（renal blood flow）的比值？  4",
+    "options": {
+      "A": "4",
+      "B": "40",
+      "C": "400",
+      "D": "4000"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 20 題",
+    "question": "近端腎小管在分泌氫離子進入管腔的同時，經常伴隨著下列何者進入微血管？",
+    "options": {
+      "A": "碳酸酐酶（carbonic anhydrase）",
+      "B": "鈉-氫逆向運輸蛋白（sodium-hydrogen antiporter）",
+      "C": "氫離子緩衝白蛋白（hydrogen buffering albumin）",
+      "D": "碳酸氫根離子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 21 題",
+    "question": "葛瑞夫氏疾病（Graves' disease）是因體內產生的抗體與細胞膜上的何種激素受體結合所導致？",
+    "options": {
+      "A": "甲狀腺素（thyroxine）",
+      "B": "甲促素（TSH）",
+      "C": "甲釋素（TRH）",
+      "D": "三碘甲狀腺素（triiodothyronine, T3）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 22 題",
+    "question": "下列葡萄糖轉運子（glucose transporter，GLUT）何者是位於肌肉細胞上，且會因應胰島素而加速運 送葡萄糖進入細胞？  GLUT1",
+    "options": {
+      "A": "GLUT1",
+      "B": "GLUT2",
+      "C": "GLUT3",
+      "D": "GLUT4"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 23 題",
+    "question": "下列何種狀況最可能抑制血管加壓素（vasopressin）之分泌？",
+    "options": {
+      "A": "大量出血（hemorrhage）",
+      "B": "出汗過多",
+      "C": "長期嘔吐（vomiting）",
+      "D": "飲一瓶金門高粱（60%酒精濃度）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ或AD者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 24 題",
+    "question": "陳先生得了無精症（azoospermia）。他身材不高、體型稍胖、皮膚細白、體毛較少，乳房較為凸出 （gynecomastia）、臉上沒有鬍渣。外陰部檢查，發現兩側睪丸很小，兩側輸精管都摸得到，陰莖發 育也還好，染色體分析發現其性染色體為XXY。下列激素分析的結果何者較可能是陳先生的報告？ （註：正常值：FSH：1～8 mIU/mL；LH：2～12 mIU/mL；testosterone：3～10.7 ng/mL）  FSH",
+    "options": {
+      "A": "：25 mIU/mL；LH：35mIU/mL；testosterone：2.5 ng/mL FSH",
+      "B": "：3 mIU/mL；LH：2.5 mIU/mL；testosterone：5.5 ng/mL FSH",
+      "C": "：2.5 mIU/mL；LH：2.5 mIU/mL；testosterone：5.5 ng/mL FSH",
+      "D": "：0.1 mIU/mL；LH：0.1 mIU/mL；testosterone：0.3 ng/mL"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 25 題",
+    "question": "【背景題幹：陳先生得了無精症（azoospermia）。他身材不高、體型稍胖、皮膚細白、體毛較少，乳房較為凸出 （gynecomastia）、臉上沒有鬍渣。外陰部檢查，發現兩側睪丸很小，兩側輸精管都摸得到，陰莖發 育也還好，染色體分析發現其性染色體為XXY。下列激素分析的結果何者較可能是陳先生的報告？ （註：正常值：FSH：1～8 mIU/mL；LH：2～12 mIU/mL；testosterone：3～10.7 ng/mL）  FSH】\n承上題，醫師為了確定其造精功能，建議他接受睪丸的採樣檢查（testis biopsy），病理報告發現該 組織檢體雖有曲細精管（seminiferous tubule）存在，但是其中只有Sertoli cells。睪丸中的Sertoli cells 是指下列何者？",
+    "options": {
+      "A": "睪丸間質細胞（interstitial cells）",
+      "B": "曲細精管上皮細胞（seminiferous tubule epithelium）",
+      "C": "精細胞的幹細胞（the stem cells of germ cells）",
+      "D": "分泌睪固酮（testosterone）的細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

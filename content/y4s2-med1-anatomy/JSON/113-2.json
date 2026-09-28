@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 1 題",
+    "question": "雙眼向右看時，右眼的外直肌收縮，同時左眼的內直肌收縮。腦幹內負責啟動兩眼協調進行外側注視 （lateral gaze）的神經核，主要是下列何者？",
+    "options": {
+      "A": "動眼神經核（oculomotor nucleus）",
+      "B": "外旋神經核（abducens nucleus）",
+      "C": "中線旁橋腦網狀結構（paramedian pontine reticular formation）",
+      "D": "E-W神經核（Edinger-Westphal nucleus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 2 題",
+    "question": "下列基底核（basal ganglia）的構造中，何者的神經組織相似，都屬於紋狀體（striatum）？",
+    "options": {
+      "A": "尾核（caudate nucleus）與殼核（putamen）",
+      "B": "尾核（caudate nucleus）與蒼白球（globus pallidus）",
+      "C": "殼核（putamen）與蒼白球（globus pallidus）",
+      "D": "豆狀核（lentiform nucleus）與蒼白球（globus pallidus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 3 題",
+    "question": "小腦傳出的神經纖維經丘腦（thalamus）後主要傳遞至下列何處的大腦皮質（cerebral cortex）？",
+    "options": {
+      "A": "主要運動區（primary motor area）",
+      "B": "扣帶運動區（cingulate motor area）",
+      "C": "運動輔助區（supplementary motor area）",
+      "D": "運動前區（premotor area）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 4 題",
+    "question": "下列何者由杏仁核（amygdala）發出，傳遞至下丘腦（hypothalamus）？",
+    "options": {
+      "A": "終紋（stria terminalis）",
+      "B": "穹窿（fornix）",
+      "C": "內側前腦束（medial forebrain bundle）",
+      "D": "內側縱束（medial longitudinal fasciculus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 5 題",
+    "question": "有關丘腦（thalamus）功能之敘述，下列何者錯誤？",
+    "options": {
+      "A": "外膝狀體（lateral geniculate body）與視覺有關",
+      "B": "前核（anterior nucleus）與嗅覺有關",
+      "C": "腹外側核（ventrolateral nucleus）與錐體外運動系統（extrapyramidal system）有關",
+      "D": "腹後外側核（ventral posterolateral nucleus）與體感覺有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 6 題",
+    "question": "後下小腦動脈（posterior inferior cerebellar artery）阻塞，可產生外側延腦症候群（lateral medullary syndrome），下列何者最不可能出現？",
+    "options": {
+      "A": "小腦功能異常",
+      "B": "對側肢體溫度感覺異常",
+      "C": "吞嚥困難",
+      "D": "對側肢體無力"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 7 題",
+    "question": "下列何者不出現在中耳（middle ear）？",
+    "options": {
+      "A": "鼓索神經（chorda tympani nerve）",
+      "B": "內頸動脈（internal carotid artery）",
+      "C": "鐙骨肌（stapedius muscle）",
+      "D": "岩小神經（lesser petrosal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 8 題",
+    "question": "下列那一條眼外肌與眼球向外看的動作最不相關？",
+    "options": {
+      "A": "外直肌（lateral rectus）",
+      "B": "上斜肌（superior oblique）",
+      "C": "下斜肌（inferior oblique）",
+      "D": "上直肌（superior rectus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 9 題",
+    "question": "視神經管（optic canal）與下列何者相通？",
+    "options": {
+      "A": "翼腭窩（pterygopalatine fossa）",
+      "B": "中顱窩（middle cranial fossa）",
+      "C": "顳下窩（infratemporal fossa）",
+      "D": "顳窩（temporal fossa）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 10 題",
+    "question": "通過下列何者的血管與其所通過的孔洞名稱不同？",
+    "options": {
+      "A": "棘孔（foramen spinosum）",
+      "B": "眶下孔（infraorbital foramen）",
+      "C": "腭大孔（greater palatine foramen）",
+      "D": "前篩孔（anterior ethmoidal foramen）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 11 題",
+    "question": "下列何項功能，與第七對腦神經（CN VII）無關？",
+    "options": {
+      "A": "口水分泌",
+      "B": "鼻黏膜分泌",
+      "C": "臉部汗腺分泌",
+      "D": "頰肌（buccinator）收縮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 12 題",
+    "question": "下列何者同時支配上、中、下三個咽縮肌（pharyngeal constrictor muscles）？",
+    "options": {
+      "A": "舌咽神經（glossopharyngeal nerve）",
+      "B": "三叉神經（trigeminal nerve）",
+      "C": "迷走神經（vagus nerve）",
+      "D": "舌下神經（hypoglossal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 13 題",
+    "question": "下列何者與張腭帆肌（tensor veli palatini muscle）具有相同來源的神經支配？",
+    "options": {
+      "A": "腭咽肌（palatopharyngeus）",
+      "B": "頸闊肌（platysma）",
+      "C": "鼓室張肌（tensor tympani）",
+      "D": "莖突咽肌（stylopharyngeus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 14 題",
+    "question": "上甲狀腺靜脈（superior thyroid vein）的血液，通常注入下列何者？",
+    "options": {
+      "A": "外頸靜脈（external jugular vein）",
+      "B": "內頸靜脈（internal jugular vein）",
+      "C": "頭臂靜脈（brachiocephalic vein）",
+      "D": "前頸靜脈（anterior jugular vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 15 題",
+    "question": "解剖位置下，緊鄰心臟基部（base of the heart）、左心房正後方的器官為下列何者？",
+    "options": {
+      "A": "氣管（trachea）",
+      "B": "降主動脈（descending aorta）",
+      "C": "食道（esophagus）",
+      "D": "右主支氣管（right main bronchus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 16 題",
+    "question": "解剖姿勢下，肺動脈幹（pulmonary trunk）通常約在下列何處，分支成左右肺動脈？",
+    "options": {
+      "A": "第四／第五胸椎高度處",
+      "B": "第六／第七胸椎高度處",
+      "C": "第一／第二胸椎高度處",
+      "D": "第二／第三胸椎高度處"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 17 題",
+    "question": "下列那一關節最不可能參與呼吸時胸廓的運動？",
+    "options": {
+      "A": "劍突胸骨關節（xiphisternal joint）",
+      "B": "肋橫關節（costotransverse joint）",
+      "C": "柄胸關節（manubriosternal joint）",
+      "D": "胸肋關節（sternocostal joint）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 18 題",
+    "question": "有關胸管（thoracic duct）在縱隔之敘述，下列何者正確？",
+    "options": {
+      "A": "在食道與脊椎之間",
+      "B": "在氣管與食道之間",
+      "C": "在胸主動脈與脊椎之間",
+      "D": "在奇靜脈與交感神經幹之間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 19 題",
+    "question": "下列何者藉由橫膈（diaphragm）的食道裂口（esophageal hiatus）由胸腔進入腹腔？",
+    "options": {
+      "A": "胸管（thoracic duct）",
+      "B": "主動脈（aorta）",
+      "C": "迷走神經幹（vagal trunk）",
+      "D": "下腔靜脈（inferior vena cava）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 20 題",
+    "question": "下列構造與十二指腸（duodenum）關係的敘述，何者最為正確？",
+    "options": {
+      "A": "膽囊（gallbladder）位於十二指腸上段（superior part of duodenum）的後方",
+      "B": "下腔靜脈（inferior vena cava）位於十二指腸水平段（horizontal part of duodenum）的前方",
+      "C": "胰臟頭部（head of pancreas）位於十二指腸下降段（descending part of duodenum）的外側",
+      "D": "上腸繫膜靜脈（superior mesenteric vein）位於十二指腸水平段（horizontal part of duodenum）的前 方"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 21 題",
+    "question": "提睪肌（cremaster muscle）是由前腹壁中的何塊肌肉向下形成？",
+    "options": {
+      "A": "腹橫肌（transversus abdominis）",
+      "B": "腹內斜肌（internal oblique muscle）",
+      "C": "腹外斜肌（external oblique muscle）",
+      "D": "腹直肌（rectus abdominis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 22 題",
+    "question": "下列何者一般不直接起源自腹腔動脈幹（celiac trunk）？",
+    "options": {
+      "A": "左胃動脈（left gastric artery）",
+      "B": "右胃動脈（right gastric artery）",
+      "C": "肝總動脈（common hepatic artery）",
+      "D": "脾動脈（splenic artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 23 題",
+    "question": "關於尿道球腺（bulbourethral gland），下列敘述何者正確？",
+    "options": {
+      "A": "直徑約5公分",
+      "B": "尿道球腺和外尿道括約肌（external urethral sphincter）都位於會陰深隙（deep perineal pouch）內",
+      "C": "尿道球腺的導管（ducts of bulbourethral glands）不穿過會陰膜（perineal membrane）",
+      "D": "尿道球腺的導管開口於膜部尿道（membranous urethra）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 24 題",
+    "question": "下列何者供應陰蒂腳（crura of clitoris）血液？",
+    "options": {
+      "A": "前庭球動脈（artery of bulb of vestibule）",
+      "B": "陰蒂深動脈（deep artery of clitoris）",
+      "C": "陰蒂背動脈（dorsal artery of clitoris）",
+      "D": "橫會陰動脈（transverse perineal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 25 題",
+    "question": "膀胱下動脈（inferior vesical artery）阻塞時，對下列何者的影響最小？",
+    "options": {
+      "A": "直腸",
+      "B": "膀胱",
+      "C": "儲精囊",
+      "D": "前列腺"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 26 題",
+    "question": "海綿體尿道部（spongy urethra）破裂時，尿液最不可能滲漏至下列何處？",
+    "options": {
+      "A": "陰囊（scrotum）皮下",
+      "B": "陰莖（penis）皮下",
+      "C": "會陰深隙（deep perineal pouch）",
+      "D": "前下腹壁之淺筋膜層（superficial fascia of anterior inferior abdominal wall）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 27 題",
+    "question": "下列那一條神經，會走在肱肌（brachialis）與肱二頭肌（biceps brachii）之間？",
+    "options": {
+      "A": "尺神經（ulnar nerve）",
+      "B": "橈神經（radial nerve）",
+      "C": "正中神經（median nerve）",
+      "D": "肌皮神經（musculocutaneous nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 28 題",
+    "question": "腓骨（fibula）頭部與頸部的骨折，最可能傷及下列何者？",
+    "options": {
+      "A": "腓動脈（fibular artery）",
+      "B": "脛前動脈（anterior tibial artery）",
+      "C": "脛後動脈（posterior tibial artery）",
+      "D": "膕動脈（popliteal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 29 題",
+    "question": "構成跗部位的骨頭（tarsal bones）中，何者沒有肌肉或是肌腱附著？",
+    "options": {
+      "A": "跟骨（calcaneus bone）",
+      "B": "舟狀骨（navicular bone）",
+      "C": "骰骨（cuboid bone）",
+      "D": "距骨（talus bone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 30 題",
+    "question": "下列那一條神經出現在枕下三角內（suboccipital triangle）？",
+    "options": {
+      "A": "枕下神經（suboccipital nerve）",
+      "B": "枕大神經（greater occipital nerve）",
+      "C": "枕小神經（lesser occipital nerve）",
+      "D": "第三枕神經（3rd occipital nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 31 題",
+    "question": "下列何者由坐骨大孔（greater sciatic foramen）進入臀區時，其位置最靠外側？",
+    "options": {
+      "A": "閉孔內肌神經（nerve to obturator internus）",
+      "B": "陰部神經（pudendal nerve）",
+      "C": "大腿後側皮神經（posterior cutaneous nerve of thigh）",
+      "D": "坐骨神經（sciatic nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

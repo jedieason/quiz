@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 75 題",
+    "question": "藉由改善飲用水系統最能達到防治下列何種寄生蟲之感染？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "麥地那線蟲（Dracunculus medinensis）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "廣東住血線蟲（Angiostrongylus cantonensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 76 題",
+    "question": "低蛋白血症（hypoproteinemia）最常發生於感染下列何種寄生蟲的病患？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "犬蛔蟲（Toxocara canis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 77 題",
+    "question": "下列為人體感染犬複殖器絛蟲（Dipylidium caninum）的途徑，那些是錯誤的？①誤食蟲卵 ②誤食 狗身上的帶蟲跳蚤 ③誤食生殖節片（gravid proglottid）",
+    "options": {
+      "A": "僅①①",
+      "B": "僅①①",
+      "C": "僅①①",
+      "D": "①①①"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 78 題",
+    "question": "有關埃及血吸蟲（Schistosoma haematobium）的感染，下列敘述那些正確？①病患常有血尿（hematuria） ②病患尿液中常出現嗜酸性白血球（eosinophilic leukocyturia） ③慢性感染的病患因成蟲刺激而可能誘 發膀胱癌",
+    "options": {
+      "A": "僅①①",
+      "B": "僅①①",
+      "C": "僅①①",
+      "D": "①①①"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 79 題",
+    "question": "下列有關瘧原蟲之敘述中，何者正確？",
+    "options": {
+      "A": "感染人類之瘧疾中，以卵形瘧（ovale malaria）的地理分布最廣",
+      "B": "臺灣近年有境外移入諾氏瘧原蟲（Plasmodium knowlesi）感染的病例",
+      "C": "間日瘧原蟲（Plasmodium vivax）喜侵入較成熟的紅血球，且受感染的紅血球會有脹大的現象",
+      "D": "惡性瘧（malignant tertian malaria）的復發（relapse）源自患者肝細胞中潛藏之休眠體（hypnozoites）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 80 題",
+    "question": "下列致病原與其導致疾病之配對中，何者正確？",
+    "options": {
+      "A": "微小阿米巴（Endolimax nana）－腹瀉（diarrhea）",
+      "B": "大腸纖毛蟲（Balantidium coli）－赤痢（dysentery）",
+      "C": "福氏內格里阿米巴（Naegleria fowleri）－阿米巴肉芽腫性腦炎（granulomatous amebic encephalitis）",
+      "D": "波列基阿米巴（Entamoeba polecki）－肝膿瘍（amebic liver abscess）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 81 題",
+    "question": "白蛉（sandfly）可以媒介下列何種寄生蟲感染症？",
+    "options": {
+      "A": "黑水熱（blackwater fever）",
+      "B": "斷骨熱（break-bone fever）",
+      "C": "黑熱病（kala-azar）",
+      "D": "黑死病（black death）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 82 題",
+    "question": "下列有關恙蟲病（scrub typhus）之敘述，何者錯誤？",
+    "options": {
+      "A": "其致病原在自然界中以鼠類為主要儲菌宿主（reservoir host）",
+      "B": "臺閩地區之病媒蟎種主要為地里恙蟎（Leptotrombidium deliense）",
+      "C": "恙蟲病為一種廣泛世界性分布之人畜共通傳染病",
+      "D": "人類感染而未能及時治療之死亡率約1～60%"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

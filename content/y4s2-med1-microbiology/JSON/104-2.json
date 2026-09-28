@@ -1,0 +1,248 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 42 題",
+    "question": "下列有關產氣單胞桿菌（Aeromonas）之敘述，何者錯誤？",
+    "options": {
+      "A": "細胞形態似腸內菌",
+      "B": "屬兼性厭氧菌",
+      "C": "青黴素Penicillin最具療效",
+      "D": "廣存於淡水及鹹水中"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 43 題",
+    "question": "下列有關Campylobacter upsaliensis之敘述，何者錯誤？",
+    "options": {
+      "A": "主要由接觸飼養的貓狗所感染",
+      "B": "與Guillain-Barré syndrome無關",
+      "C": "細胞形態似Helicobacter pylori",
+      "D": "屬微氧需求菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 44 題",
+    "question": "下列有關Bordetella pertussis 引起之百日咳的敘述，何者錯誤？",
+    "options": {
+      "A": "卡它期（catarrhal stage）症狀似感冒",
+      "B": "陣發期（paroxysmal stage）通常細菌量最多",
+      "C": "核酸放大偵測法敏感（sensitive）且特異性（specificity）高",
+      "D": "可用紅黴素（Erythromycin）治療"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 45 題",
+    "question": "尿素酵素（urease）是以下何種細菌的致病因子？",
+    "options": {
+      "A": "致病性大腸桿菌（Enteropathogenic E. coli）",
+      "B": "霍亂弧菌（Vibrio cholerae）",
+      "C": "博德氏桿菌（Bordetella pertussis）",
+      "D": "幽門桿菌（Helicobacter pylori）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 46 題",
+    "question": "下列有關白喉毒素（diphtheria toxin）的敘述，那一項錯誤？",
+    "options": {
+      "A": "是一種endotoxin",
+      "B": "可結合至細胞表面之heparin-binding epidermal growth factor",
+      "C": "可結合至心臟及神經細胞導致受損",
+      "D": "A subunit會使細胞內的elongation factor 2（EF-2）失去活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 47 題",
+    "question": "下列對麻瘋分枝桿菌（Mycobacterium leprae）之敘述，何者正確？",
+    "options": {
+      "A": "可在麻瘋瘤型麻瘋（lepromatous leprosy）病人的黏膜抹片或皮膚括取物中被發現",
+      "B": "已經成功的在培養基中培養出來",
+      "C": "生長速度快，因此潛伏期很短",
+      "D": "並非典型的耐酸性染色菌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 48 題",
+    "question": "有一病人因久咳且痰中帶有血絲及膿液而就診，經醫師採集其痰液進行細菌培養檢測後，發 現其痰檢體中出現結核分枝桿菌，是為肺結核之患者。下列那一種抗生素不會出現在醫師的 處方箋中？",
+    "options": {
+      "A": "Isoniazid",
+      "B": "Ethambutol",
+      "C": "Rifampin",
+      "D": "Vancomycin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 49 題",
+    "question": "流感嗜血桿菌（Haemophilus influenzae）的生長在血液培養盤上金黃色葡萄球菌 （Staphylococcus aureus）菌落的周圍有促進的現象，此是因為後者能提供其生長所需的那 種成分？",
+    "options": {
+      "A": "磷血紅素（hemin）",
+      "B": "螯鐵素（siderophores）",
+      "C": "半胱氨酸（L-cysteine）",
+      "D": "菸醯胺腺嘌呤雙核酸（nicotinamide adenine dinucleotide）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 50 題",
+    "question": "下列那一項無法作為細菌行無氧呼吸（anaerobic respiration）時之最後的電子接受分子？",
+    "options": {
+      "A": "Nitrate",
+      "B": "Sulfate",
+      "C": "Carbon dioxide",
+      "D": "NADH"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 51 題",
+    "question": "下列菌屬中，何者對鹼性環境的耐受度最高？",
+    "options": {
+      "A": "螺旋桿菌屬（Helicobacter）",
+      "B": "弧菌屬（Vibrio）",
+      "C": "假單胞菌屬（Pseudomonas）",
+      "D": "奈瑟氏菌屬（Neisseria）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 52 題",
+    "question": "下列何種病毒感染後，在感染部位的抹片檢查可以看到有多核的融合細胞與內涵體 （inclusion body）？",
+    "options": {
+      "A": "Herpes simplex virus",
+      "B": "Human papillomavirus",
+      "C": "Adenovirus",
+      "D": "Epstein-Barr virus"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 53 題",
+    "question": "一旦感染下列何種病毒，可以及早利用接種疫苗的方式來預防病毒在體內擴散而發病？",
+    "options": {
+      "A": "玻納病毒（Borna disease virus）",
+      "B": "狂犬病毒（Rabies virus）",
+      "C": "線狀病毒（Filovirus）",
+      "D": "馬堡病毒（Marburg virus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 54 題",
+    "question": "下列對於副黏液病毒科（Paramyxoviridae）之敘述，何者正確？",
+    "options": {
+      "A": "為正股（positive sense）RNA病毒",
+      "B": "依核蛋白（nucleoprotein）共分為A、B及C三型",
+      "C": "核蛋白衣（nucleocapsid）為二十面體對稱結構",
+      "D": "皆具有套膜（envelope）及融合（fusion）蛋白質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 55 題",
+    "question": "下列何種病毒具有E1A與E1B這兩種促進細胞生長的活化因子？",
+    "options": {
+      "A": "Adenovirus",
+      "B": "Papillomavirus",
+      "C": "Epstein-Barr virus",
+      "D": "Cytomegalovirus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 56 題",
+    "question": "下列何者不是致病性普里昂蛋白（scrapie-like prion protein, PrPSC）的特性？",
+    "options": {
+      "A": "致病潛伏期很長",
+      "B": "造成神經組織空洞化",
+      "C": "可存在於細胞外",
+      "D": "引起很強的免疫反應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 57 題",
+    "question": "某25歲護士上班回家後，出現發燒、頭痛、喉嚨痛、流鼻水、打噴嚏、無痰性乾咳、肌肉痛 不舒服等症狀，病情持續了4天沒有好轉，反而進一步延伸為細菌性肺炎及肌炎 （myositis），該護士經住院治療二星期後痊癒，此護士可能受下列何病原感染？",
+    "options": {
+      "A": "麻疹病毒（Measles virus）",
+      "B": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "C": "流行性感冒病毒（Influenza virus）",
+      "D": "腸病毒71型（Enterovirus 71）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 58 題",
+    "question": "某病毒可引起孩童之急性下呼吸道疾病，經由鼻腔分泌物分離出該病毒，發覺其不具血球凝 集作用，但可使感染之細胞融合（syncytia）。該病毒可能為下列何者？",
+    "options": {
+      "A": "流行性感冒病毒A型（Influenza virus A）",
+      "B": "副流行性感冒病毒（Parainfluenza virus）",
+      "C": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "D": "麻疹病毒（Measles virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 59 題",
+    "question": "有一黴菌在顯微鏡下可見分隔菌絲及瓶狀產孢器（phialides）且分生孢子（conidia）排列 成‘paint brush’，最可能為下列何者？",
+    "options": {
+      "A": "Histoplasma capsulatum",
+      "B": "Sporothrix schenckii",
+      "C": "Fusarium solani",
+      "D": "Penicillium marneffei"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 60 題",
+    "question": "一般而言，Fluconazole對下列何種黴菌無療效？",
+    "options": {
+      "A": "Candida albicans",
+      "B": "Candida krusei",
+      "C": "Candida tropicalis",
+      "D": "Candida parapsilosis"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 61 題",
+    "question": "下列何者為盛行於北美洲密西西比河流域，兩型性（dimorphic）全身感染性真菌？",
+    "options": {
+      "A": "Blastomyces dermatitidis and Histoplasma capsulatum",
+      "B": "Coccidioides immitis and Paracoccidioides brasiliensis",
+      "C": "Paracoccidioides brasiliensis and Histoplasma capsulatum",
+      "D": "Blastomyces dermatitidis and Paracoccidioides brasiliensis"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

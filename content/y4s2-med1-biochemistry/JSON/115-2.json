@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 74 題",
+    "question": "利用抗原抗體交互作用的專一性（specificity）進行蛋白質純化，屬於下列何種方法？",
+    "options": {
+      "A": "親合力層析法（affinity chromatography）",
+      "B": "離子交換層析法（ion-exchange chromatography）",
+      "C": "凝膠過濾層析術（gel filtration chromatography）",
+      "D": "鹽析法（salting-out）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 75 題",
+    "question": "下列何者屬於蛋白質的二級結構（secondary structure）？",
+    "options": {
+      "A": "α-helix",
+      "B": "tetramer",
+      "C": "subunit",
+      "D": "capping structure"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 76 題",
+    "question": "根據波爾效應（Bohr effect），人類的血紅蛋白（hemoglobin）對氧的結合力會受到下列何項因素而發生改 變？",
+    "options": {
+      "A": "血液酸鹼度",
+      "B": "體溫",
+      "C": "大氣中的含氧量",
+      "D": "心跳速度"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 77 題",
+    "question": "下列何者不是輔酶A（coenzyme A）結構中的化學組成單元？",
+    "options": {
+      "A": "pantothenic acid",
+      "B": "β-mercaptoethylamine",
+      "C": "3'-phosphoadenosine diphosphate",
+      "D": "vitamin A"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 78 題",
+    "question": "原核細胞之DNA 會維持於何種狀態，使其結構更緊湊地排列，並協助轉錄作用時雙股DNA 之分離？",
+    "options": {
+      "A": "負超螺旋化－低度纏繞（supercoiling-underwound）",
+      "B": "正超螺旋化－過度纏繞（supercoiling-overwound）",
+      "C": "無超螺旋化－鬆弛狀態（relaxed state）",
+      "D": "線性延展（linear extension）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 79 題",
+    "question": "核小體（nucleosome）是由DNA 和組蛋白（histone）構成的，下列何種組蛋白不屬於核小體中的組蛋白核心 （histone core）？",
+    "options": {
+      "A": "H1",
+      "B": "H2A",
+      "C": "H2B",
+      "D": "H3"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 80 題",
+    "question": "在大腸桿菌的複製體（replisome）結構中，下列那一項蛋白功能描述為錯誤？",
+    "options": {
+      "A": "DNA 解旋酶（helicase）：緩解複製過程中引入的DNA 超螺旋張力",
+      "B": "單股結合蛋白（single-stranded DNA-binding protein, SSB）：負責結合並穩定單股DNA",
+      "C": "引子酶（primase）：負責合成RNA 引子",
+      "D": "DNA 聚合酶Ⅲ（polymerase Ⅲ）：負責新股DNA 的複製合成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 81 題",
+    "question": "在細菌的DNA 轉座（transposition）過程中，當轉座子（transposon）插入受體DNA 時，目標位點DNA 序列 會如何變化？",
+    "options": {
+      "A": "無變化",
+      "B": "在轉座子插入的兩側，形成相同順序的短重複序列",
+      "C": "在轉座子插入的兩側，形成相反順序的短重複序列",
+      "D": "目標位點序列會被刪除"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 82 題",
+    "question": "化療藥物cisplatin 對DNA 造成的損傷，主要是以那個修復機制移除？",
+    "options": {
+      "A": "直接修復機制（direct repair）",
+      "B": "鹼基切除修復（base excision repair）",
+      "C": "鹼基錯誤配對修復（mismatch repair）",
+      "D": "核苷酸切除修復（nucleotide excision repair）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 83 題",
+    "question": "基因轉錄作用中，RNA 聚合酶（RNA polymerase）催化的反應不需要下列何者？",
+    "options": {
+      "A": "四種ribonucleoside 5'-triphosphates",
+      "B": "引子（primer）",
+      "C": "鎂離子",
+      "D": "DNA 模板"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 84 題",
+    "question": "下列有關ubiquitin 對蛋白質進行的轉譯後修飾，何者錯誤？",
+    "options": {
+      "A": "被ubiquitin 修飾的蛋白質一定會被26S proteasome 分解",
+      "B": "被修飾的蛋白質在分解前，deubiquitinating enzymes 會先將ubiquitin 釋出並回收使用",
+      "C": "ubiquitin 主要連接於標的蛋白上之離胺酸（lysine）",
+      "D": "E3 接合酶（E3 ligase）可將ubiquitin 連接於標的蛋白上"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 85 題",
+    "question": "下列何種培養情況下，大腸桿菌會同時高度表達lacZ、lacY 和 lacA 基因？",
+    "options": {
+      "A": "乳糖（lactose）和葡萄糖（glucose）同時存在",
+      "B": "只存在乳糖（lactose）但沒有葡萄糖（glucose）",
+      "C": "只存在葡萄糖（glucose）但沒有乳糖（lactose）",
+      "D": "乳糖（lactose）和葡萄糖（glucose）皆不存在"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 86 題",
+    "question": "下列何種真核細胞轉譯起始因子（eIF）直接參與蛋白質合成起始階段（initiation stage）之mRNA 5'端帽 結構（5' cap structure）的辨識與結合？",
+    "options": {
+      "A": "eIF4A",
+      "B": "eIF4B",
+      "C": "eIF4E",
+      "D": "eIF4G"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 87 題",
+    "question": "當氟代去氧葡萄糖（[ 18F]2-fluoro-2-deoxyglucose）進入癌細胞後，經醣類代謝後，產生何種產物，以供正 子斷層造影（positron emission tomography）檢測之用？",
+    "options": {
+      "A": "氟代羥基葡萄糖（[ 18F]2-fluoro-2-hydroxyglucose）",
+      "B": "6-磷酸氟代去氧葡萄糖（[ 18F]6-phospho-2-fluoro-2-deoxyglucose）",
+      "C": "6-磷酸氟代葡萄糖（[ 18F]6-phospho-2-fluoro-2-glucose）",
+      "D": "1,6-雙磷酸氟代去氧葡萄糖（[ 18F]1,6-bisphospho-2-fluoro-2-deoxyglucose）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 88 題",
+    "question": "下列有關糖解作用（glycolysis）及葡萄糖新生（gluconeogenesis）的協同調控之敘述，何者錯誤？",
+    "options": {
+      "A": "acetyl-CoA 會藉由抑制pyruvate kinase 活性來抑制糖解作用",
+      "B": "acetyl-CoA 會藉由增強pyruvate carboxylase 活性來增加葡萄糖新生",
+      "C": "fructose-1,6-bisphosphate 會藉由抑制pyruvate kinase 活性來抑制糖解作用",
+      "D": "fructose-2,6-bisphosphate 會藉由增強phosphofructokinase 活性來增加糖解作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 89 題",
+    "question": "細胞膜上的脂筏（lipid raft）聚集物的主要成分不包含那類分子？",
+    "options": {
+      "A": "鞘醣脂（glycosphingolipids）",
+      "B": "膽固醇",
+      "C": "三酸甘油酯",
+      "D": "蛋白質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 90 題",
+    "question": "關於脂質合成相關酶，何者催化之反應與condensation 無關？",
+    "options": {
+      "A": "acetyl-CoA acetyl transferase",
+      "B": "HMG-CoA synthase",
+      "C": "β-ketoacyl-ACP synthase",
+      "D": "β-ketoacyl-ACP reductase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 91 題",
+    "question": "下列有關ionophores 的敘述，何者錯誤？",
+    "options": {
+      "A": "可以影響離子的穿膜擴散",
+      "B": "可為一種抗生素（antibiotics）",
+      "C": "會破壞電化學梯度（electrochemical gradients）",
+      "D": "提高細胞膜主動運輸（active transport）功能"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 92 題",
+    "question": "在胺基酸的代謝過程，下列何種酵素催化後的直接產物為丙酮酸（pyruvate）？",
+    "options": {
+      "A": "絲胺酸羥基甲基轉移酶（serine hydroxymethyltransferase）",
+      "B": "甘胺酸分裂酵素（glycine cleavage enzyme）",
+      "C": "絲胺酸脫水酶（serine dehydratase）",
+      "D": "天門冬胺酸轉胺酶（aspartate aminotransferase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 93 題",
+    "question": "在人體細胞中，下列何種胺基酸是主要用來製造脯胺酸（proline）的前驅物？",
+    "options": {
+      "A": "苯丙胺酸（phenylalanine）",
+      "B": "色胺酸（tryptophan）",
+      "C": "麩胺酸（glutamate）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 94 題",
+    "question": "細胞加入粒線體呼吸鏈抑制劑會造成呼吸鏈電子傳遞中斷。假設一新發現之藥物已知其功能為呼吸鏈抑制 劑，並會完全阻斷complex Ⅲ的功能。當細胞加入此藥物一段時間後，下列那一組呼吸鏈代謝物，兩者主要 皆以還原態存在？",
+    "options": {
+      "A": "coenzyme Q，NADH",
+      "B": "coenzyme Q，cytochrome c",
+      "C": "cytochrome b，cytochrome c",
+      "D": "cytochrome a，cytochrome b"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 95 題",
+    "question": "細胞合成前列腺素（prostaglandins）時，組織或細胞主要以下列何種方式提供花生四烯酸（arachidonic  acid）作為前列腺素合成的原料？",
+    "options": {
+      "A": "運用細胞長鏈脂肪合成代謝作用所製造出的花生四烯酸",
+      "B": "由周圍脂肪細胞提供儲存的花生四烯酸",
+      "C": "由細胞本身脂肪顆粒中所儲存的花生四烯酸來提供",
+      "D": "由細胞膜上的磷脂經酵素作用釋放出的花生四烯酸來提供"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 96 題",
+    "question": "下列有關細胞持續存在腎上腺素時，對於β-腎上腺素受體（receptor）之去敏感化（desensitization）的 描述，何者錯誤？",
+    "options": {
+      "A": "腎上腺素結合到受體促進Gsα與Gsβγ的分開，Gsβγ會招引β-adrenergic receptor kinase（βARK） 來將β-腎上腺素受體位於胺基（amino）端的絲胺酸（serine）磷酸化",
+      "B": "β-arrestin 會結合於β-腎上腺素受體上被磷酸化之絲胺酸（serine），引發細胞內吞（endocytosis）作 用",
+      "C": "結合於β-腎上腺素受體的β-arrestin 在被內吞進入細胞內的囊泡（vesicles）後，會與β-腎上腺素受體 分開",
+      "D": "β-腎上腺素受體在其絲胺酸（serine）於胞內囊泡（vesicles）中被去磷酸化（dephosphorylated）後， 可再度被運回細胞膜上，解除去敏感化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 97 題",
+    "question": "在細胞週期進行過程中，下列分子間的作用何者無助於從G1 期進入S 期？",
+    "options": {
+      "A": "上游轉錄因子p53 活化，進而刺激p21 的轉錄（transcription）",
+      "B": "p21 從CDK2/cyclin E 複合體脫離",
+      "C": "活化的CDK2∕cyclin E 複合體磷酸化pRb，使之與E2F 分離",
+      "D": "被活化的E2F 轉錄因子促使參與DNA 合成之相關基因被轉錄"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 98 題",
+    "question": "如果想要製作標記具有放射性之 32P 的基因片段探針（probe），通常會利用DNA 聚合酶（DNA polymerase） 來合成此片段 ，進行該反應時需加入下列何種 32P-dATP 材料來進行標記？",
+    "options": {
+      "A": "α- 32P-dATP",
+      "B": "β- 32P-dATP",
+      "C": "γ- 32P-dATP",
+      "D": "ATP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 99 題",
+    "question": "下列那一個實驗技術可以用來偵測特定基因在染色體上的位置？",
+    "options": {
+      "A": "限制酶片段長度多型性（restriction fragment length polymorphism, RFLP）",
+      "B": "螢光原位雜交（fluorescent in situ hybridization, FISH）",
+      "C": "反轉錄PCR（reverse transcription-PCR, RT-PCR）",
+      "D": "DNA 微陣列（DNA microarrays）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 100 題",
+    "question": "在聚合酶連鎖反應（polymerase chain reaction, PCR）中，不需加入下列何種成分？",
+    "options": {
+      "A": "核苷三磷酸（NTP）包括腺苷三磷酸（ATP）、鳥苷三磷酸（GTP）、胞苷三磷酸（CTP）以及胸腺苷三磷酸 （TTP）",
+      "B": "DNA 模板（DNA template）",
+      "C": "熱穩定性DNA 聚合酶（thermostable DNA polymerase）",
+      "D": "兩個寡核苷酸引子（oligonucleotide primers）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

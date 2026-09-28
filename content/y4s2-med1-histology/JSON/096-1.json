@@ -1,0 +1,113 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 33 題",
+    "question": "大腸組織中，下列何者最少？",
+    "options": {
+      "A": "杯狀細胞（goblet cells）",
+      "B": "潘氏細胞（Paneth cells）",
+      "C": "腸內分泌細胞（enteroendocrine cells）",
+      "D": "黏膜上皮細胞（epithelial cells of mucosa）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 34 題",
+    "question": "「皮脂腺（sebaceous gland）」具有下列何種特徵？",
+    "options": {
+      "A": "分布在表皮之基底層（stratum basale）",
+      "B": "大部分分泌物可經由毛囊（hair follicle）之上段釋出",
+      "C": "是屬於內分泌腺體",
+      "D": "是屬於頂漿分泌腺體（apocrine gland）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 35 題",
+    "question": "下列對於「脾臟之紅髓（red pulp）」的敘述，何者正確？",
+    "options": {
+      "A": "由淋巴小結（lymphatic nodule）組成",
+      "B": "位於皮質區",
+      "C": "富含血液",
+      "D": "主要功能是過濾淋巴液"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 36 題",
+    "question": "有關骨骼肌收縮時的敘述，下列何者正確？",
+    "options": {
+      "A": "I 帶不變，A 帶變短",
+      "B": "I 帶變短，A 帶不變",
+      "C": "I 帶變短，A 帶變長",
+      "D": "I 帶變長，A 帶變短"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 37 題",
+    "question": "細胞間具有緊密結合（tight junction）的是：",
+    "options": {
+      "A": "第三腦室的脈絡叢細胞之間",
+      "B": "側腦室的襯裏細胞（ependymal cells）之間",
+      "C": "脊髓中央管的襯裏細胞（ependymal cells）之間",
+      "D": "大腦導水管的襯裏細胞（ependymal cells）之間"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 38 題",
+    "question": "下列那一構造可以用銀染法染成黑色？",
+    "options": {
+      "A": "纖維軟骨（fibrocartilage）",
+      "B": "彈性纖維（elastic fiber）",
+      "C": "網狀纖維（reticular fiber）",
+      "D": "膠原纖維（collagen fiber）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 39 題",
+    "question": "特異性顆粒（specific granule）中具有類晶體（crystalloid body）的白血球是什麼？",
+    "options": {
+      "A": "單核球",
+      "B": "嗜酸性球",
+      "C": "嗜鹼性球",
+      "D": "嗜中性球"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 40 題",
+    "question": "位於小腸上皮細胞之紋狀緣（striated border），是由下列何種構造組成？",
+    "options": {
+      "A": "鞭毛（flagella）",
+      "B": "纖毛（cilia）",
+      "C": "靜纖毛（stereocilia）",
+      "D": "微絨毛（microvilli）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 41 題",
+    "question": "當眼房水（aqueous humor）引流路徑異常，會導致眼內壓升高，若不治療可能損害視神經而引起失 明，此常見之眼科疾病為：",
+    "options": {
+      "A": "青光眼（glaucoma）",
+      "B": "白內障（cataract）",
+      "C": "視乳突水腫（papilledema）",
+      "D": "視網膜剝離（retinal detachment）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

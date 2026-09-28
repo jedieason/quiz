@@ -1,0 +1,352 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 1 題",
+    "question": "坐骨神經（sciatic nerve）的血液供應來自下列何者？",
+    "options": {
+      "A": "臀下動脈（inferior gluteal artery）",
+      "B": "臀上動脈（superior gluteal artery）",
+      "C": "閉孔動脈（obturator artery）",
+      "D": "股動脈（femoral artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 2 題",
+    "question": "手腕屈肌支持帶（flexor retinaculum）的外側附著於何處？",
+    "options": {
+      "A": "舟狀骨（scaphoid）及月狀骨（lunate）",
+      "B": "大多角骨（trapezium）及小多角骨（trapezoid）",
+      "C": "舟狀骨（scaphoid）及大多角骨（trapezium）",
+      "D": "橈骨莖突（radial styloid process）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 3 題",
+    "question": "肩關節脫位（dislocation）最易損及下列何者？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "橈神經（radial nerve）",
+      "C": "腋神經（axillary nerve）",
+      "D": "尺神經（ulnar nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 4 題",
+    "question": "下列何者位於闊韌帶（broad ligament）的後方？",
+    "options": {
+      "A": "膀胱",
+      "B": "卵巢",
+      "C": "子宮",
+      "D": "子宮圓韌帶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 5 題",
+    "question": "下列何者不受腰神經叢（lumbar plexus）支配？",
+    "options": {
+      "A": "股薄肌（gracilis muscle）",
+      "B": "股四頭肌（quadriceps femoris muscle）",
+      "C": "闊筋膜張肌（tensor fasciae latae muscle）",
+      "D": "髂肌（iliacus muscle）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或Ｄ者給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 6 題",
+    "question": "臀上動脈（superior gluteal artery）發生阻塞，下列何者最不受影響？",
+    "options": {
+      "A": "臀大肌（gluteus maximus muscle）",
+      "B": "臀小肌（gluteus minimus muscle）",
+      "C": "梨狀肌（piriformis muscle）",
+      "D": "上孖肌（superior gemellus muscle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 7 題",
+    "question": "下列何者不受陰部神經（pudendal nerve）所支配？",
+    "options": {
+      "A": "膀胱",
+      "B": "尿道",
+      "C": "陰道",
+      "D": "直腸"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 8 題",
+    "question": "下列何者行經於腰薦神經幹與第一薦神經之間，再經由坐骨大孔到臀部？",
+    "options": {
+      "A": "髂腰動脈（iliolumbar artery）",
+      "B": "臀上動脈（superior gluteal artery）",
+      "C": "臀下動脈（inferior gluteal artery）",
+      "D": "內陰部動脈（internal pudendal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 9 題",
+    "question": "下列何者不是肝門靜脈與體靜脈的吻合枝？",
+    "options": {
+      "A": "食道下段與奇靜脈（azygos vein）",
+      "B": "肛管下段與外陰部靜脈（external pudendal vein）",
+      "C": "旁臍靜脈（paraumbilical vein）與前腹壁淺靜脈（anterior superficial epigastric vein）",
+      "D": "後腹壁靜脈（posterior epigastric vein）與結腸靜脈（colic vein）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 10 題",
+    "question": "膽囊動脈主要源自於下列何者？",
+    "options": {
+      "A": "肝右動脈（right hepatic artery）",
+      "B": "肝左動脈（left hepatic artery）",
+      "C": "胃網膜右動脈（right gastro-omental artery）",
+      "D": "肝總動脈（common hepatic artery）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均 給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 11 題",
+    "question": "肺臟下緣與壁層胸膜（pleura）下緣的空隙為：",
+    "options": {
+      "A": "下縱膈腔（inferior mediastinum）",
+      "B": "肋橫膈隱窩（costodiaphragmatic recess）",
+      "C": "中縱膈腔（middle mediastinum）",
+      "D": "橫竇（transverse sinus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 12 題",
+    "question": "橫膈（diaphragm）上的腔靜裂口（caval opening）通過下列何種結構？",
+    "options": {
+      "A": "迷走神經（vagus nerve）",
+      "B": "膈神經（phrenic nerve）",
+      "C": "上腔靜脈（superior vena cava）",
+      "D": "胸管（thoracic duct）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 13 題",
+    "question": "下列有關脾臟或胰臟的敘述，何者錯誤？",
+    "options": {
+      "A": "脾臟的上緣呈鋸齒狀（notched border）",
+      "B": "胰臟的體部在第二腰椎的高度",
+      "C": "胰臟的尾部延伸至胃脾韌帶（gastrosplenic ligament）間",
+      "D": "胰臟的動脈供應主要來自脾動脈（splenic artery）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 14 題",
+    "question": "下列有關腹腔的敘述，何者錯誤？",
+    "options": {
+      "A": "男性的腹腔（peritoneal cavity）是完全封閉的",
+      "B": "女性的腹腔（peritoneal cavity）是完全封閉的",
+      "C": "胰臟是腹膜後器官（retroperitoneal organ）",
+      "D": "腹腔小囊（lesser sac）位在胃的後方"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 15 題",
+    "question": "乙狀結腸（sigmoid colon）的靜脈匯入下列何者？",
+    "options": {
+      "A": "下腸繫膜靜脈（inferior mesenteric vein）",
+      "B": "上腸繫膜靜脈（superior mesenteric vein）",
+      "C": "門靜脈（portal vein）",
+      "D": "脾靜脈（splenic vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 16 題",
+    "question": "與情緒記憶最有關之腦區為：",
+    "options": {
+      "A": "杏仁核（amygdaloid nucleus）",
+      "B": "海馬回（hippocampus）",
+      "C": "紋狀體（corpus striatum）",
+      "D": "小腦（cerebellum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 17 題",
+    "question": "腦部大池（cisterna magna）位在：",
+    "options": {
+      "A": "大腦腳間窩（interpeduncular fossa）",
+      "B": "四疊體後方",
+      "C": "橋腦前方",
+      "D": "小腦與延腦後方交接處"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 18 題",
+    "question": "上眼瞼（superior palpebra）皮膚之感覺由何神經傳遞？",
+    "options": {
+      "A": "眼神經（ophthalmic nerve）",
+      "B": "視神經（optic nerve）",
+      "C": "動眼神經（oculomotor nerve）",
+      "D": "面神經（facial nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 19 題",
+    "question": "下列有關內頸及外頸動脈（internal and external carotid arteries）血液供應之敘述，何者錯誤？",
+    "options": {
+      "A": "供應鼻腔黏膜之血液來自內頸及外頸動脈",
+      "B": "供應上臼齒之血液來自外頸動脈",
+      "C": "供應硬腦膜之血液來自內頸及外頸動脈",
+      "D": "內頸動脈之血液不供應頭皮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 20 題",
+    "question": "與視神經一同穿過視神經管（optic canal）之血管為何？",
+    "options": {
+      "A": "眶上動脈（superior orbital artery）",
+      "B": "中央動脈（central artery）",
+      "C": "眼動脈（ophthalmic artery）",
+      "D": "視動脈（optic artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 21 題",
+    "question": "腭舌肌（palatoglossus muscle）由何神經支配？",
+    "options": {
+      "A": "舌咽神經（glossopharyngeal nerve）",
+      "B": "副神經（accessory nerve）之顱根（cranial root），轉經迷走神經（vagus nerve）",
+      "C": "第十二顱神經",
+      "D": "第五顱神經第三支"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 22 題",
+    "question": "頸闊肌（platysma muscle）與下列何肌肉受相同神經支配？",
+    "options": {
+      "A": "莖突舌骨肌（stylohyoid muscle）",
+      "B": "咬肌（masseter muscle）",
+      "C": "二腹肌前腹（anterior belly of digastric muscle）",
+      "D": "肩胛舌骨肌（omohyoid muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 23 題",
+    "question": "額骨（frontal bone）與鼻骨（nasal bone）之交會點稱為：",
+    "options": {
+      "A": "眉間（glabella）",
+      "B": "星點（asterion）",
+      "C": "鼻根點（nasion）",
+      "D": "翼點（pterion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 24 題",
+    "question": "頭部外傷時，顱骨pterion 部分有壓迫性骨折，極易造成那一條血管損害，導致出血？",
+    "options": {
+      "A": "內頸動脈（internal carotid artery）",
+      "B": "中大腦動脈（middle cerebral artery）",
+      "C": "乙狀竇（sigmoid sinus）",
+      "D": "中腦膜動脈（middle meningeal artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 25 題",
+    "question": "下列有關子宮外孕（ectopic pregnancy）的敘述，何者錯誤？",
+    "options": {
+      "A": "子宮外孕最常見的著床位置是在輸卵管",
+      "B": "輸卵管峽部（isthmus）為輸卵管外孕（ectopic tubal pregnancy）最常發生的著床位置",
+      "C": "子宮外孕可能著床於卵巢",
+      "D": "右側輸卵管外孕，若引起輸卵管破裂時，其臨床表現類似闌尾炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 26 題",
+    "question": "一年輕學生因車禍受傷，造成腓骨頸（neck of fibula）骨折，導致經過此處的神經受傷，下列那一功 能最可能因此受到影響？",
+    "options": {
+      "A": "膝關節伸直（extension of knee）",
+      "B": "膝關節屈曲（flexion of knee）",
+      "C": "髁關節屈曲（plantarflexion of ankle）",
+      "D": "髁關節背屈（dorsiflexion of ankle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 27 題",
+    "question": "股三角（femoral triangle）常用來測量中心靜脈壓（CVP），以下有關股三角的敘述，何者錯誤？",
+    "options": {
+      "A": "由腹股溝韌帶、縫匠肌、內收長肌構成",
+      "B": "股靜脈、股動脈、股神經的關係為股靜脈在最外側，股神經在最內側",
+      "C": "髂腰肌、恥骨肌為其底部",
+      "D": "有豐富的淋巴組織"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 28 題",
+    "question": "你若為胸腔外科醫師正在作肺部手術，則以下觀察何者正確？",
+    "options": {
+      "A": "右主支氣管之長度比左主支氣管短",
+      "B": "左肺有三葉，右肺有二葉",
+      "C": "異物較易進入左側支氣管",
+      "D": "成人氣管長度約25 公分"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

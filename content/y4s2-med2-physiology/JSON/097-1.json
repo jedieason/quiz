@@ -1,0 +1,318 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 1 題",
+    "question": "神經細胞動作電位（action potential）發生過程中，膜電位去極化（depolarization）達電位尖峰（peak） 時，下列何項敘述正確？",
+    "options": {
+      "A": "胞膜內鉀離子濃度大量減少",
+      "B": "胞膜內鈉離子濃度大量減少",
+      "C": "胞膜外鈉離子濃度遠大於胞膜內鈉離子濃度",
+      "D": "胞膜內鉀離子濃度遠小於胞膜外鉀離子濃度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 2 題",
+    "question": "下列何者無法經由擴散（diffusion）方式穿透細胞膜？",
+    "options": {
+      "A": "一氧化碳（CO）",
+      "B": "鈉離子（$Na^+$）",
+      "C": "甘油（glycerol）",
+      "D": "尿素（urea）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 3 題",
+    "question": "支配骨骼肌之α運動神經元（motor neuron）位於何處？",
+    "options": {
+      "A": "ventral horn of the spinal cord",
+      "B": "primary motor cortex",
+      "C": "basal ganglia",
+      "D": "pyramidal tract"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 4 題",
+    "question": "有關aphasia 之病徵與可能受損部位的敘述，何者正確？",
+    "options": {
+      "A": "語言理解能力正常，說話困難，慢且不流暢，可能受損部位是Broca’s area",
+      "B": "語言理解能力正常，說話困難，慢且不流暢，可能受損部位是angular gyrus",
+      "C": "語言理解能力正常，說話流暢，但無意義，可能受損部位是angular gyrus",
+      "D": "語言理解能力正常，說話流暢，但無意義，可能受損部位是Wernicke’s area"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 5 題",
+    "question": "Limbic system 中與恐懼情緒（fear）關係密切之結構為何？",
+    "options": {
+      "A": "thalamus",
+      "B": "hippocampus",
+      "C": "fornix",
+      "D": "amygdaloid nuclei"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 6 題",
+    "question": "下列何者為最主要的吸氣肌肉？",
+    "options": {
+      "A": "橫膈肌（diaphragm）",
+      "B": "外肋間肌（external intercostal muscles）",
+      "C": "內肋間肌（internal intercostal muscles）",
+      "D": "胸鎖乳突肌（sternocleidomastoids）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 7 題",
+    "question": "移除骨骼肌細胞質液（cytosol）內的鈣離子，會產生下列何種現象？",
+    "options": {
+      "A": "肌動蛋白（actin）上的肌凝蛋白（myosin）連接處，經旋轉肌凝蛋白（tropomyosin）作用而暴露 出來",
+      "B": "旋轉肌凝蛋白會改變形態，使得旋轉子（troponin）從連接橋（cross-bridge）結合處離開",
+      "C": "旋轉子會改變形態，使得連接橋結合處暴露出來",
+      "D": "肌動蛋白上的肌凝蛋白連接處，被旋轉肌凝蛋白占據"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 8 題",
+    "question": "若病患之靜脈瓣失去作用而導致下肢產生靜脈曲張（varicose veins）時，可能會發生下列何種結果？",
+    "options": {
+      "A": "靜脈回流增加",
+      "B": "心搏出量下降",
+      "C": "靜脈順應性（compliance）下降",
+      "D": "靜脈管壁張力（wall tension）下降"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 9 題",
+    "question": "下列那一個因子必須在血管內皮細胞與其受器（receptor）結合，活化蛋白質C 以減低凝血效應？",
+    "options": {
+      "A": "凝血酶（thrombin）",
+      "B": "血漿素（plasmin）",
+      "C": "肝素（heparin）",
+      "D": "維生素K"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 10 題",
+    "question": "下列何種藥物為$H^+$-$K^+$ ATPase 之抑制劑？",
+    "options": {
+      "A": "Atropine",
+      "B": "Cimetidine",
+      "C": "Misoprostol",
+      "D": "Omeprazole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 11 題",
+    "question": "下列何種情況最不會導致呼吸道阻力（airway resistance）增加？",
+    "options": {
+      "A": "吸氣達到肺總量（total lung capacity）",
+      "B": "副交感神經興奮",
+      "C": "降低肺容積",
+      "D": "用力呼氣（forced expiration）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 12 題",
+    "question": "下列關於輔脂酶（colipase）之敘述，何者正確？",
+    "options": {
+      "A": "位於小腸上皮細胞膜上",
+      "B": "負責消化三酸甘油酯（triglycerides）",
+      "C": "可將脂肪酶原（prolipase）轉化成脂肪酶（lipase）",
+      "D": "避免脂肪酶（lipase）受到膽鹽的影響而降低其活性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 13 題",
+    "question": "維生素D3 的主要生理作用為何？",
+    "options": {
+      "A": "促進近側腎小管的鈣離子吸收",
+      "B": "促進亨利氏彎管粗上行枝的鈣離子吸收",
+      "C": "促進腸胃道的鈣離子吸收",
+      "D": "促進皮質收集管的鈣離子吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 14 題",
+    "question": "憋尿時，人體主要利用下列何種機制？",
+    "options": {
+      "A": "腎神經抑制膀胱逼尿肌收縮",
+      "B": "交感神經刺激尿道外括約肌收縮",
+      "C": "副交感神經抑制膀胱逼尿肌收縮",
+      "D": "會陰神經（pudendal nerve）刺激尿道外括約肌收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 15 題",
+    "question": "下列有關能量攝取與甲狀腺的關係，何者正確？",
+    "options": {
+      "A": "攝取過量的碳水化合物可抑制甲狀腺素（thyroxine）的分泌",
+      "B": "來自脂肪組織的瘦體素（leptin）可促進甲釋素（thyrotropin releasing hormone）的分泌",
+      "C": "瘦體素抑制甲狀腺素的分泌",
+      "D": "甲狀腺素過多會抑制瘦體素的分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 16 題",
+    "question": "腎上腺素（epinephrine）是由那一種胺基酸合成？",
+    "options": {
+      "A": "色胺酸（tryptophan）",
+      "B": "酪胺酸（tyrosine）",
+      "C": "半胱胺酸（cysteine）",
+      "D": "胱胺酸（cystine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 17 題",
+    "question": "下列何種狀況會造成胰島素（insulin）／昇糖素（glucagon）的molar ratio 小於0.5？",
+    "options": {
+      "A": "進食大量碳水化合物",
+      "B": "靜脈注射葡萄糖",
+      "C": "進食少量餅乾",
+      "D": "飢餓"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 18 題",
+    "question": "卵的第二次減數分裂（second meiotic division）何時完成？",
+    "options": {
+      "A": "排卵前",
+      "B": "濾泡破裂排卵時",
+      "C": "精子穿透卵的細胞膜時",
+      "D": "著床後"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 19 題",
+    "question": "神經學檢查中有關之神經反射，何者屬於單突觸反射（monosynaptic reflex）？",
+    "options": {
+      "A": "瞳孔反射（pupillary light reflex）",
+      "B": "回縮反射（withdrawal reflex）",
+      "C": "膝腱反射（knee jerk）",
+      "D": "交叉伸肌反射（crossed-extensor reflex）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 20 題",
+    "question": "小腦損傷的患者走路時步態會有不穩（ataxia）的現象，相關之敘述何者錯誤？",
+    "options": {
+      "A": "患者張開眼睛有助於增加步行穩定度",
+      "B": "肌肉無力（weakness）是引起步態障礙的主要因素",
+      "C": "小腦接收來自前庭系統（vestibular system）、骨骼肌、皮膚等感覺訊息",
+      "D": "患者可能合併有執行細緻動作（fine movement）的困難"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 21 題",
+    "question": "一位52 歲男性病患因為車禍大量出血，有關此時的生理現象之描述，下列何者錯誤？",
+    "options": {
+      "A": "會刺激副交感神經系統導致心跳加速",
+      "B": "心輸出量（cardiac output）會下降",
+      "C": "四肢會冰冷同時冒冷汗",
+      "D": "回到右心房之體靜脈血量會降低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 22 題",
+    "question": "王先生是一位具有30 年抽菸史的55 歲病患，日前因呼吸困難至門診檢查，胸部X 光片顯示過度充 氣的肺部、扁平的橫膈膜，疑似肺微血管減少和肺泡壁被破壞形成超大的肺泡囊，且呈現用力時呼 吸困難的現象，肺功能檢查之FEV1/FVC = 45%。下列何者可能會出現於此病患？",
+    "options": {
+      "A": "限制性肺疾病（restrictive lung disease）",
+      "B": "肺順應性（lung compliance）減少",
+      "C": "生理性無效腔（physiological dead space）增加",
+      "D": "功能性肺餘容量（functional residual capacity）減少"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 23 題",
+    "question": "血漿中[ $Na^+$ ] = 138 meq/L; [ $K^+$ ] = 3.5 meq/L; [ $Cl^-$ ] = 114 meq/L; BUN 為14 mg/dL; Creatinine 為 1.5 mg/dL，請計算其血漿有效滲透度（effective osmolality; mOsm/kg H2O）為何？",
+    "options": {
+      "A": "276",
+      "B": "281",
+      "C": "285",
+      "D": "290"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 24 題",
+    "question": "在一側腎動脈結紮，另一側腎臟切除與否下，血中腎素（renin）濃度的變化情形為何？",
+    "options": {
+      "A": "另一側腎臟切除下，腎素濃度上升；另一側腎臟保留下，腎素濃度不變",
+      "B": "另一側腎臟切除下，腎素濃度上升；另一側腎臟保留下，腎素濃度上升",
+      "C": "另一側腎臟切除下，腎素濃度不變；另一側腎臟保留下，腎素濃度上升",
+      "D": "另一側腎臟切除下，腎素濃度下降；另一側腎臟保留下，腎素濃度上升"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 25 題",
+    "question": "下列何處病灶會影響因嬰兒吸吮動作誘發之母乳分泌？",
+    "options": {
+      "A": "門脈系統",
+      "B": "腦下垂體前葉",
+      "C": "腦下垂體後葉",
+      "D": "下視丘之視上核（supraoptic nucleus）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者 均給分。"
+  }
+]

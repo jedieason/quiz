@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 1 題",
+    "question": "一般使用結核菌素試驗（tuberculin skin test）測試是否感染結核桿菌，當無法區分是感染者或施打 bacillus Calmette-Guérin（BCG）疫苗後的反應，通常會加做下列何種測試以進一步確認？",
+    "options": {
+      "A": "反轉錄聚合酶鏈鎖反應（reverse transcriptase-PCR）",
+      "B": "丙型干擾素釋放試驗（IFN-γ release assays）",
+      "C": "北方點墨法（northern blotting）",
+      "D": "腫瘤壞死因子釋放試驗（TNF-α release assays）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 2 題",
+    "question": "經何種細菌汙染的蜂蜜，嬰兒誤食後，最有可能因細菌產生的毒素，導致乏力性麻痺甚至呼吸困難？",
+    "options": {
+      "A": "艱難梭菌（Clostridium difficile）",
+      "B": "破傷風梭菌（Clostridium tetani）",
+      "C": "肉毒桿菌（Clostridium botulinum）",
+      "D": "產氣莢膜梭菌（Clostridium perfringens）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 3 題",
+    "question": "青黴素結合蛋白質（Penicillin-binding proteins）的突變，最不可能造成細菌對下列何類藥物出現抗藥 性？",
+    "options": {
+      "A": "頭芽孢菌素（cephalosporins）",
+      "B": "碳青黴烯（carbapenems）",
+      "C": "單酰胺菌素（monobactams）",
+      "D": "磺胺類藥物（sulfonamides）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 4 題",
+    "question": "關於退伍軍人菌屬（Legionella）感染的敘述，下列何者最不適當？",
+    "options": {
+      "A": "BCYE agar常用於培養退伍軍人菌屬",
+      "B": "退伍軍人菌屬為革蘭氏陽性桿菌",
+      "C": "好發於夏末至秋天，天氣溫暖的季節",
+      "D": "可造成龐提亞克熱（Pontiac fever）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 5 題",
+    "question": "下列何種細菌毒素經短暫100℃加熱後較易失去活性？",
+    "options": {
+      "A": "大腸桿菌（E. coli）內毒素（endotoxin）",
+      "B": "金黃色葡萄球菌（Staphylococcus aureus）毒性休克症候群毒素-1（Toxic Shock Syndrome Toxin-1）",
+      "C": "破傷風梭狀芽孢桿菌（Clostridium tetani）破傷風痙攣毒素（tetanospasmin）",
+      "D": "腦膜炎雙球菌（Neisseria meningitidis）脂寡糖（lipooligosaccharide）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 6 題",
+    "question": "下列有關細菌結構及其於致病過程中所扮演角色，何者敘述最不適當？",
+    "options": {
+      "A": "鞭毛（flagellum）為細菌運動相關構造",
+      "B": "莢膜（capsule）與細菌抵禦吞噬作用有關",
+      "C": "細菌生物膜（biofilm）結構可協助細菌黏附於組織或醫用器材",
+      "D": "纖毛（fimbriae）是比鞭毛（flagellum）直徑更大的毛髮狀結構，並與細菌之黏附（adhesion）能力有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 7 題",
+    "question": "肺纖維性囊腫病人的痰中常有綠膿桿菌（Pseudomonas aeruginosa），下列那個毒力因子最能幫助此菌在宿 主形成聚落（colonization）？",
+    "options": {
+      "A": "絲氨酸蛋白酶（serine protease）",
+      "B": "海藻酸鹽（alginate）",
+      "C": "綠膿桿菌素（pyocyanin）",
+      "D": "鋅金屬基質蛋白酶（zinc metalloprotease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 8 題",
+    "question": "有關化膿性鏈球菌（Streptococcus pyogenes）毒力因子（virulence factors）的敘述，下列何者最不適 當？",
+    "options": {
+      "A": "M蛋白質（M protein）可協助此菌躲避吞噬作用（phagocytosis）",
+      "B": "猩紅熱（scarlet fever）會出現皮膚紅疹（rash），主要是因為鏈球菌激酶（streptokinase）所導致",
+      "C": "鏈球菌溶血素O（Streptolysin O）具抗原性，且易被氧破壞",
+      "D": "去氧核糖核酸酶（deoxyribonuclease, DNase）可助長細菌在宿主組織內散播"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 9 題",
+    "question": "有關甲硝唑（metronidazole）之敘述，下列何者最適當？",
+    "options": {
+      "A": "可有效治療霍亂",
+      "B": "進入菌體內直接造成毒性",
+      "C": "可治療鬆脆類桿菌（Bacteroides fragilis）感染症",
+      "D": "對好氧菌很有效"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 10 題",
+    "question": "病毒感染時最常利用下列何種蛋白質進入細胞內？",
+    "options": {
+      "A": "基質蛋白（matrix protein）",
+      "B": "蛋白水解酶（protease）",
+      "C": "醣蛋白（glycoprotein）",
+      "D": "核心蛋白（core protein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 11 題",
+    "question": "下列何種病毒感染人類引發疾病後，比較不會直接造成細胞增生形成腫瘤？",
+    "options": {
+      "A": "B型肝炎病毒（HBV）",
+      "B": "人類嗜淋巴球病毒一型（HTLV-1）",
+      "C": "人類乳突瘤病毒（HPV）",
+      "D": "人類免疫缺陷病毒（HIV）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 12 題",
+    "question": "郵輪上的一群人出現了上吐下瀉的症狀，未經治療，症狀在2～3天都獲得緩解。他們最可能感染了下列何種 病毒？",
+    "options": {
+      "A": "腺病毒40型（Adenovirus 40）",
+      "B": "諾羅病毒（Norovirus）",
+      "C": "輪狀病毒（Rotavirus group A）",
+      "D": "腸病毒D68（Enterovirus D68）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 13 題",
+    "question": "下列臨床症狀，何者與麻疹病毒感染較無關？",
+    "options": {
+      "A": "腦炎（encephalitis）",
+      "B": "畏光（photophobia）",
+      "C": "口腔出現科氏斑點（Koplik spots）",
+      "D": "進行性多灶性白質腦病（Progressive multifocal leukoencephalopathy, PML）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 14 題",
+    "question": "有關人類中東呼吸症候群（MERS）病毒，下列敘述何者最適當？",
+    "options": {
+      "A": "被感染的病人會產生出血及休克之病徵",
+      "B": "遺傳基因為正股(+)RNA",
+      "C": "主要是以果子狸為中間宿主而傳播",
+      "D": "喜歡在室溫25℃複製生長"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 15 題",
+    "question": "有關人類免疫缺陷病毒（HIV）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "病毒之蛋白酶（protease）主要作用於宿主細胞蛋白質",
+      "B": "病毒Rev蛋白質可調控病毒mRNA轉送至細胞質",
+      "C": "病毒Tat蛋白質為一極強的轉活化因子（transactivator）",
+      "D": "在複製的早期會產生多種剪接（spliced）的mRNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 16 題",
+    "question": "下列何種念珠菌對 fluconazole 最具有先天的抗藥性？",
+    "options": {
+      "A": "Candida albicans",
+      "B": "Candida tropicalis",
+      "C": "Candida krusei",
+      "D": "Candida parapsilosis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 17 題",
+    "question": "造成全身感染之真菌中，下列何者會在感染組織中較常形成酵母團（spherule）？",
+    "options": {
+      "A": "莢膜組織胞漿菌（Histoplasma capsulatum）",
+      "B": "皮炎芽生黴菌（Blastomyces dermatitidis）",
+      "C": "巴西副球黴菌（Paracoccidioides brasiliensis）",
+      "D": "粗球黴菌（Coccidioides immitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 62 題",
+    "question": "想了解台灣地區有多少比率的小朋友最近幾年曾經被腸病毒感染過，應該檢查：",
+    "options": {
+      "A": "血清中的病毒培養（virus culture）",
+      "B": "血清中的病毒抗原濃度",
+      "C": "血清中的抗體力價（titer）",
+      "D": "血清中具有特異性的聚合酶鏈反應（polymerase chain reaction, PCR）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 63 題",
+    "question": "下列何者並非針對單一器官的自體免疫疾病？",
+    "options": {
+      "A": "格雷武司氏病（Graves’ disease）",
+      "B": "全身性紅斑性狼瘡（systemic lupus erythematosus）",
+      "C": "重症肌無力（myasthenia gravis）",
+      "D": "多發性硬化症（multiple sclerosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 64 題",
+    "question": "下列那一種病毒感染，目前沒有發展出有效預防的疫苗？",
+    "options": {
+      "A": "A 型肝炎病毒（Hepatitis A virus, HAV）",
+      "B": "人類免疫不全病毒（Human immunodeficiency virus, HIV）",
+      "C": "流行性感冒病毒（Influenza virus）",
+      "D": "小兒麻痺病毒（Poliovirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 65 題",
+    "question": "四種過敏免疫反應（hypersensitivity）中，在接觸引起反應的抗原後，那一型式需要最久時間才出現 症狀？",
+    "options": {
+      "A": "第一型",
+      "B": "第二型",
+      "C": "第三型",
+      "D": "第四型"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 66 題",
+    "question": "下列有關脂多醣（lipopolysaccharide）的敘述，何者最正確？",
+    "options": {
+      "A": "一般都是革蘭氏陽性（Gram positive）細菌的結構",
+      "B": "和宿主巨噬細胞表面的CD16 分子結合",
+      "C": "也會刺激宿主細胞表面的Toll-like receptor 4（TLR4）分子",
+      "D": "主要刺激宿主的T 細胞分泌TNF-α與IL-1"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 67 題",
+    "question": "下列何種細胞是專業化的抗原呈現細胞（professional antigen-presenting cell）？",
+    "options": {
+      "A": "$CD4^+$ T 細胞",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "巨噬細胞（macrophage）",
+      "D": "肥胖細胞（mast cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 68 題",
+    "question": "下列何種細胞表面分子會對活化的T 細胞提供抑制的訊息？",
+    "options": {
+      "A": "CD28",
+      "B": "CTLA-4",
+      "C": "LFA-1",
+      "D": "ICAM-1"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 69 題",
+    "question": "淋巴結中那一種細胞可以呈現抗原抗體複合物（immune complexes）給B 細胞，同時也可以長久地 保存抗原？",
+    "options": {
+      "A": "邊緣區域之巨噬細胞（marginal zone macrophages）",
+      "B": "髓質區域之巨噬細胞（medullary macrophages）",
+      "C": "囊泡樹狀突出細胞（follicular dendritic cells）",
+      "D": "T 細胞區域之樹狀突出細胞（dendritic cells in T cell areas）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 70 題",
+    "question": "下列何種細胞激素在毒性休克症候群（toxic shock syndrome）扮演重要角色？",
+    "options": {
+      "A": "IL-10",
+      "B": "IL-8",
+      "C": "TNF-α",
+      "D": "TGF-β"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 71 題",
+    "question": "嗜中性白血球（neutrophil）自血管進入組織時，首先與內皮細胞（endothelial cell）結合的分子為：",
+    "options": {
+      "A": "E-selectin",
+      "B": "CD31",
+      "C": "ICAM-1",
+      "D": "VCAM-1"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 72 題",
+    "question": "下列那個是屬於補體活化替代途徑（alternative pathway）的C3 補體轉化酶（C3 convertase）？",
+    "options": {
+      "A": "C3a",
+      "B": "C3b",
+      "C": "C3bBb",
+      "D": "C4b2a"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 73 題",
+    "question": "抗體分子中的互補決定區域（complementarity-determining regions）可以：",
+    "options": {
+      "A": "活化補體（complement activation）",
+      "B": "與抗原結合",
+      "C": "決定抗體的亞型（subclasses）",
+      "D": "決定抗體的異型（allotypes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 74 題",
+    "question": "在B 型細胞發育過程中，下列那一種再排列步驟最先發生？",
+    "options": {
+      "A": "重鏈（heavy chain）基因之V→D",
+      "B": "重鏈（heavy chain）基因之D→J",
+      "C": "重鏈（heavy chain）基因之V→J",
+      "D": "輕鏈（light chain）基因之V→J"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 29 題",
+    "question": "下列何者不是絨毛膜（chorion）的組成結構？",
+    "options": {
+      "A": "細胞滋養層（cytotrophoblast）",
+      "B": "融合滋養層（syncytiotrophoblast）",
+      "C": "胚外體壁中胚層（extraembryonic somatic mesoderm）",
+      "D": "胚外臟壁中胚層（extraembryonic splanchnic mesoderm）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 30 題",
+    "question": "下列何者和下副甲狀腺（inferior parathyroid gland）有相同的胚胎起源？",
+    "options": {
+      "A": "甲狀腺（thyroid gland）",
+      "B": "頸竇（cervical sinus）",
+      "C": "氣管（trachea）",
+      "D": "胸腺（thymus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 31 題",
+    "question": "下列關於肝臟（liver）發育之敘述，何者正確？",
+    "options": {
+      "A": "由中腸（midgut）衍生而來",
+      "B": "肝索（hepatic cord）由中胚層衍生而來",
+      "C": "庫弗氏細胞（Kupffer cell）由內胚層衍生而來",
+      "D": "胚胎發育第六週開始有造血活動"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 32 題",
+    "question": "下列有關眼球結構與發育來源的配對，何者錯誤？",
+    "options": {
+      "A": "間質組織（mesenchyme）－睫狀肌（ciliary muscle）",
+      "B": "間質組織－瞳孔舒張/括約肌（dilator/sphincter pupillae）",
+      "C": "神經嵴（neural crest）－虹膜基質（stroma of iris）",
+      "D": "體表外胚層（surface ectoderm）－晶狀體泡（lens vesicle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

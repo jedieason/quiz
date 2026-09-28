@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 29 題",
+    "question": "下列有關棘頜口線蟲（Gnathostoma spinigerum）感染的敘述，何者錯誤？",
+    "options": {
+      "A": "成蟲可寄生於貓的胃壁",
+      "B": "完成生活史需2個中間宿主",
+      "C": "感染人體後只侵犯皮下組織",
+      "D": "食入未熟帶蟲之淡水魚而被感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 30 題",
+    "question": "下列何種寄生蟲感染，最有可能造成一種咽喉型的病症（halzoun），導致咽喉劇烈疼痛、出血及呼吸困難？",
+    "options": {
+      "A": "牛羊肝吸蟲（Fasciola hepatica）",
+      "B": "貓肝吸蟲（Opisthorchis felineus）",
+      "C": "槍狀肝吸蟲（Dicrocoelium dendriticum）",
+      "D": "泰國肝吸蟲（Opisthorchis viverrini）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 31 題",
+    "question": "下列何種寄生蟲感染會導致人類肺部的病變？",
+    "options": {
+      "A": "犬複殖器絛蟲（Dipylidium caninum）",
+      "B": "顆粒性包生絛蟲（Echinococcus granulosus）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "短小包膜絛蟲（Hymenolepis nana）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 32 題",
+    "question": "有關利什曼原蟲（Leishmania spp.）的敘述，下列何者正確？",
+    "options": {
+      "A": "前鞭毛體（promastigote）在脊椎動物宿主體內會被巨噬細胞（macrophage）吞噬後形成無鞭毛體 （amastigote）",
+      "B": "在中間宿主體內，會因為氧氣分壓降低而導致蟲體外型鞭毛縮短，轉變成為無鞭毛體",
+      "C": "有關利什曼原蟲的分類，可以借助中間宿主的種株（species）來決定",
+      "D": "當無鞭毛體進入中間宿主腸道後段時，會受到腸道內皮細胞的影響，轉化變形成為循環後期錐鞭毛體 （metacyclic trypomastigote）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 33 題",
+    "question": "下列症狀中何者與枯西氏錐蟲（Trypanosoma cruzi）之感染症無關？",
+    "options": {
+      "A": "單側眼瞼水腫（Romaña's sign）",
+      "B": "心肌炎（myocarditis）",
+      "C": "巨結腸（megacolon）",
+      "D": "黑熱病（kala-azar）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 34 題",
+    "question": "有關瘧原蟲（Plasmodium spp.）在病媒蚊體內之發育，下列敘述何者錯誤？",
+    "options": {
+      "A": "瘧蚊叮咬感染宿主而吸入雌或雄配子母細胞（gametocyte）",
+      "B": "受精合子（zygote）發育成具活性卵動子（ookinete）",
+      "C": "卵動子鑽入蚊唾液腺發育成孢子體（sporozoites）",
+      "D": "依瘧原蟲種類不同，在蚊體內生長發育約8～35日不等時程"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 35 題",
+    "question": "下列何者為曾經流行於臺澎金馬及中國南方地區之班氏絲蟲（Wuchereria bancrofti）的主要傳播病媒？",
+    "options": {
+      "A": "埃及斑蚊（Aedes aegypti）",
+      "B": "白線斑蚊（Aedes albopictus）",
+      "C": "fatigans）",
+      "D": "微小瘧蚊（Anopheles minimus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 1 題",
+    "question": "下列何者是交通性水腦症（communicating hydrocephalus）阻塞的部位？",
+    "options": {
+      "A": "腦室間孔（interventricular foramen）",
+      "B": "大腦導水管（cerebral aqueduct）",
+      "C": "第四腦室側孔（lateral aperture）",
+      "D": "蜘蛛膜顆粒（arachnoid granulation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 2 題",
+    "question": "下列何者為穿過海綿竇（cavernous sinus）之感覺神經？",
+    "options": {
+      "A": "副神經",
+      "B": "第八顱神經",
+      "C": "第四顱神經",
+      "D": "眼神經（ophthalmic nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 3 題",
+    "question": "下列有關支配腮腺（parotid gland）之神經纖維的敘述，何者正確？",
+    "options": {
+      "A": "來自於第七顱神經之副交感神經纖維",
+      "B": "其節前纖維經由岩大神經（greater petrosal nerve）傳遞",
+      "C": "其節前纖維穿過卵圓孔（foramen ovale）至顱外",
+      "D": "其節後纖維經由面神經（facial nerve）伴行至腮腺"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 4 題",
+    "question": "左肺上、下葉的分界相當於第幾肋骨的位置？",
+    "options": {
+      "A": "四",
+      "B": "六",
+      "C": "八",
+      "D": "十"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 5 題",
+    "question": "第一年住院醫師，做闌尾切除手術時，找不到闌尾在何處，你若是他的主治醫師，請你告訴他下列 何種方法最容易找到闌尾？",
+    "options": {
+      "A": "沿著迴盲瓣（ileocecal valve）往盲腸（cecum）平行方向去找",
+      "B": "沿著升結腸（ascending colon）的結腸袋（haustra）往身體下方去找",
+      "C": "沿著升結腸（ascending colon）的結腸帶（teniae coli）往身體下方去找",
+      "D": "先找到迴腸終端（terminal ileum）再往身體右側去找"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 6 題",
+    "question": "下列功能組成（functional component）的腦幹神經核中，何者最接近中線？",
+    "options": {
+      "A": "屬一般體傳入（general somatic afferent）",
+      "B": "屬一般體傳出（general somatic efferent）",
+      "C": "屬一般內臟傳入（general visceral afferent）",
+      "D": "屬一般內臟傳出（general visceral efferent）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 7 題",
+    "question": "一年輕男子於車禍中，肱骨的橈溝（radial groove）處遭受橫向撞擊而骨折，傷及通過其間之神經， 下列何種功能最可能受到影響？",
+    "options": {
+      "A": "腕關節屈曲（flexion of wrist）",
+      "B": "手指關節之伸展（extension of fingers）",
+      "C": "腕關節之旋前功能（pronation of wrist）",
+      "D": "肩關節之外展（abduction of shoulder）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 8 題",
+    "question": "臨床上睪丸水囊（hydrocele of testis）為液體堆積於何處？",
+    "options": {
+      "A": "副睪（epididymis）",
+      "B": "儲精囊（seminal vesicle）",
+      "C": "蔓狀靜脈叢（pampiniform venous plexus）",
+      "D": "睪丸總鞘膜（tunica vaginalis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 9 題",
+    "question": "股深動脈（deep artery of thigh）發出的穿通動脈（perforating arteries）穿過下列何者，至大腿後面？",
+    "options": {
+      "A": "恥骨肌（pectineus）",
+      "B": "股二頭肌（biceps femoris）",
+      "C": "內收大肌（adductor magnus）",
+      "D": "內收長肌（adductor longus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 10 題",
+    "question": "下列何者能外展手臂？",
+    "options": {
+      "A": "棘下肌（infraspinatus）",
+      "B": "棘上肌（supraspinatus）",
+      "C": "肩胛下肌（subscapularis）",
+      "D": "小圓肌（teres minor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 11 題",
+    "question": "下列何者沒有傳導腳趾感覺？",
+    "options": {
+      "A": "腓淺神經（superficial fibular nerve）",
+      "B": "隱神經（saphenous nerve）",
+      "C": "足底內神經（medial plantar nerve）",
+      "D": "腓深神經（deep fibular nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 12 題",
+    "question": "下列何者不受閉孔神經（obturator nerve）的支配？",
+    "options": {
+      "A": "內收短肌（adductor brevis）",
+      "B": "股薄肌（gracilis）",
+      "C": "閉孔內肌（obturator internus）",
+      "D": "內收長肌（adductor longus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 13 題",
+    "question": "下列何者為興奮膀胱頸內括約肌的主要神經？",
+    "options": {
+      "A": "交感神經",
+      "B": "迷走神經",
+      "C": "陰部神經",
+      "D": "骨盆內臟神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 14 題",
+    "question": "下列何者為尿道嵴（urethral crest）所在處？",
+    "options": {
+      "A": "膀胱（urinary bladder）",
+      "B": "膜部尿道（membranous urethra）",
+      "C": "陰莖部尿道（spongy urethra）",
+      "D": "前列腺尿道（prostatic urethra）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 15 題",
+    "question": "下列何者會直接跨越輸尿管？",
+    "options": {
+      "A": "子宮動脈",
+      "B": "陰道動脈",
+      "C": "陰部內動脈",
+      "D": "直腸中動脈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 16 題",
+    "question": "將麻醉劑注射於坐骨棘（ischial spine）附近，主要影響下列那條神經？",
+    "options": {
+      "A": "陰部神經",
+      "B": "股後皮神經",
+      "C": "生殖股神經",
+      "D": "髂腹股溝神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 17 題",
+    "question": "射精管的開口於：",
+    "options": {
+      "A": "儲精囊",
+      "B": "膜部尿道",
+      "C": "陰莖部尿道",
+      "D": "前列腺尿道"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 18 題",
+    "question": "下列對前鋸肌（serratus anterior）的敘述，何者正確？",
+    "options": {
+      "A": "在胸廓的前壁",
+      "B": "下壓肋骨",
+      "C": "由肋間神經支配",
+      "D": "可向前旋轉肩胛骨"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 19 題",
+    "question": "下列何者通過橫膈（diaphragm）的食道裂口（esophageal opening）？",
+    "options": {
+      "A": "迷走神經",
+      "B": "膈神經",
+      "C": "下腔靜脈",
+      "D": "胸管"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 20 題",
+    "question": "下列關於後縱膈腔的敘述，何者正確？",
+    "options": {
+      "A": "位於心包後方與胸椎之間",
+      "B": "食道在內垂直下行",
+      "C": "半奇靜脈在第四胸椎高度跨過脊椎",
+      "D": "食道不與縱膈膜直接相接觸"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 21 題",
+    "question": "下列有關小腸的敘述，何者錯誤？",
+    "options": {
+      "A": "空腸壁較迴腸壁厚",
+      "B": "空腸繫膜上的弓狀動脈（arterial arcade）較迴腸多",
+      "C": "空腸的環狀皺壁（plicae circulares）較迴腸多",
+      "D": "迴腸壁有聚集的淋巴組織（Peyer’s patch）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 22 題",
+    "question": "直腸的自主神經叢直接源自下列何者？",
+    "options": {
+      "A": "腸繫膜間神經叢（intermesenteric plexus）",
+      "B": "下腹上神經叢（superior hypogastric plexus）",
+      "C": "下腹下神經叢（inferior hypogastric plexus）",
+      "D": "腰薦神經叢（lumbosacral plexus）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 23 題",
+    "question": "下列有關背部的敘述，何者錯誤？",
+    "options": {
+      "A": "豎脊肌（erector spinae）為脊柱的主要伸肌群",
+      "B": "背部菱形肌（rhomboid muscle）的外型在上臂平舉時方為易見",
+      "C": "位在枕下三角內的動脈為枕下動脈（suboccipital artery）",
+      "D": "構成枕下三角頂部的肌肉為頭半脊肌（semispinalis capitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 24 題",
+    "question": "下列有關前庭系統（vestibular system）之敘述，何者錯誤？",
+    "options": {
+      "A": "前庭膜性迷路（membranous labyrinth）包括三個半規管（semicircular ducts）、橢圓囊（utricle） 和球囊（saccule）",
+      "B": "三個半規管之感覺接受器位於膨大之壺腹（ampulla）處，稱為斑（macula）；橢圓囊和球囊之感 覺接受器為嵴（crista）",
+      "C": "嵴負責感知角加速度（angular acceleration），斑負責感知線加速度（linear acceleration）",
+      "D": "左右兩側之半規管形成功能上之配對，當頭部運動導致一側接受器興奮時，對側接受器會受到抑制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 25 題",
+    "question": "大腦大靜脈（great cerebral vein of Galen）注入：",
+    "options": {
+      "A": "岩上竇（superior petrosal sinus）",
+      "B": "橫竇（transverse sinus）",
+      "C": "直竇（straight sinus）",
+      "D": "上矢狀竇（superior sagittal sinus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 26 題",
+    "question": "視網膜神經節細胞投射至下列何處，其功能與控制眼球運動相關？",
+    "options": {
+      "A": "上丘（superior colliculus）",
+      "B": "四疊體前核（pretectal nucleus）",
+      "C": "視交叉上核（suprachiasmatic nucleus）",
+      "D": "丘腦枕部（pulvinar）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 27 題",
+    "question": "鄰近小腦天幕（cerebellar tentorium）之大腦皮質所需的血液主要是由何動脈供應？",
+    "options": {
+      "A": "腦膜中動脈（middle meningeal artery）",
+      "B": "大腦前動脈（anterior cerebral artery）",
+      "C": "小腦上動脈（superior cerebellar artery）",
+      "D": "大腦後動脈（posterior cerebral artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 28 題",
+    "question": "由翼腭神經節（pterygopalatine ganglion）所發出之節後纖維並不支配：",
+    "options": {
+      "A": "瞳孔括約肌（sphincter pupillae）",
+      "B": "鼻腔黏液腺（mucous glands）",
+      "C": "軟腭之腭腺（palatine glands）",
+      "D": "淚腺（lacrimal gland）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

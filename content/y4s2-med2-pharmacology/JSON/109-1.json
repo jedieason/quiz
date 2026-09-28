@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 109 年第一次醫師國考第 51 題",
+    "question": "有關fondaparinux敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要作用為抑制凝血因子thrombin",
+      "B": "透過antithrombin III結合作用來中和factor Xa",
+      "C": "採用皮下注射，每天一次",
+      "D": "腎臟疾病患者，不宜使用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 52 題",
+    "question": "下列何種藥物不具有改善骨質疏鬆的效果？",
+    "options": {
+      "A": "vitamin D",
+      "B": "alendronate",
+      "C": "raloxifene",
+      "D": "danazol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 53 題",
+    "question": "下列何項藥物可用以治療佩吉特氏病（Paget's disease）？",
+    "options": {
+      "A": "thyroxine",
+      "B": "exenatide",
+      "C": "calcitonin",
+      "D": "rosiglitazone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 54 題",
+    "question": "那一種藥物臨床上最適用於治療心房心律不整及防止心肌梗塞之復發與突發性死亡？",
+    "options": {
+      "A": "verapamil",
+      "B": "quinidine",
+      "C": "propranolol",
+      "D": "flecainide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 55 題",
+    "question": "下列降血壓藥物中，何者使血管舒張的機轉主要是抑制鈣離子內流入平滑肌細胞？",
+    "options": {
+      "A": "aliskiren",
+      "B": "carvedilol",
+      "C": "doxazosin",
+      "D": "felodipine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 56 題",
+    "question": "長期服用下列何種藥物來治療胃潰瘍時，易導致陽痿？",
+    "options": {
+      "A": "omeprazole",
+      "B": "cimetidine",
+      "C": "nizatidine",
+      "D": "ranitidine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 57 題",
+    "question": "一早產兒發生動脈導管閉鎖不全，可以使用下列何種藥物來使其關閉？",
+    "options": {
+      "A": "diclofenac",
+      "B": "ibuprofen",
+      "C": "rofecoxib",
+      "D": "sulindac"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 58 題",
+    "question": "有關抗癲癇藥物作用的敘述，下列何者錯誤？",
+    "options": {
+      "A": "ethosuximide主要透過阻斷T-type鈣離子通道來產生抗癲癇作用",
+      "B": "tiagabine主要透過阻斷GABA轉運子（transporter）的作用來產生抗癲癇作用",
+      "C": "topiramate透過阻斷glutamate轉運子（transporter）的作用來產生抗癲癇作用",
+      "D": "valproic acid可透過阻斷鈉離子通道來產生抗癲癇作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 59 題",
+    "question": "下列止痛藥，何者的作用機制不是經由活化μ receptor？",
+    "options": {
+      "A": "nalbuphine",
+      "B": "morphine",
+      "C": "methadone",
+      "D": "fentanyl"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 60 題",
+    "question": "下列何種藥物，不會增加細胞中的cyclic GMP含量？",
+    "options": {
+      "A": "isoproterenol",
+      "B": "sodium nitroprusside",
+      "C": "sildenafil",
+      "D": "atrial natriuretic peptide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 61 題",
+    "question": "酸性藥物中毒時，給與NaHCO3的主要原因為何？",
+    "options": {
+      "A": "增加酸性藥物在肝臟代謝的速率",
+      "B": "改變酸性藥物在血液中的穩定度",
+      "C": "增加藥物在血液中的free form，利於腎絲球的過濾",
+      "D": "減少藥物在腎小管的再回收"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 62 題",
+    "question": "下列何種抗生素須併用cilastatin，以避免被腎臟之dehydropeptidase水解破壞？",
+    "options": {
+      "A": "imipenem",
+      "B": "minocycline",
+      "C": "sulfamethoxazole",
+      "D": "tobramycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 63 題",
+    "question": "Cefepime可增加下列何種藥物進入細菌（例如：enterococci）的濃度，因此二者併用可增加抗菌作用 ？",
+    "options": {
+      "A": "amantadine",
+      "B": "amikacin",
+      "C": "azlocillin",
+      "D": "aztreonam"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 64 題",
+    "question": "下列抗癌藥物中何者會被xanthine oxidase代謝，若同時服用xanthine oxidase抑制劑allopurinol時，可能會增加 其毒性？",
+    "options": {
+      "A": "5-fluorouracil",
+      "B": "6-mercaptopurine",
+      "C": "methotrexate",
+      "D": "6-thioguanin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 65 題",
+    "question": "下列何者因可抑制calcineurin phosphatase，可減少器官移植後的排斥反應？",
+    "options": {
+      "A": "basilixmab",
+      "B": "methylprednisolone",
+      "C": "cyclosporine",
+      "D": "orthoclone OKT3"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 66 題",
+    "question": "下列何者為長期服用glucocorticoid藥物最可能造成的副作用？",
+    "options": {
+      "A": "類紅斑性狼瘡",
+      "B": "骨質疏鬆",
+      "C": "肝臟中毒",
+      "D": "腎上腺腫瘤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 67 題",
+    "question": "5歲男童因為生長激素受體的基因突變，造成新陳代謝障礙，所以無法長大。下列何者最適合改善此種症狀？",
+    "options": {
+      "A": "somatropin",
+      "B": "octreotide",
+      "C": "atosiban",
+      "D": "mecasermin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 68 題",
+    "question": "下列何者屬於M3蕈毒鹼受體（M3 muscarinic receptor）拮抗劑，臨床上用於治療膀胱過動症（overactive  bladder）？",
+    "options": {
+      "A": "pirenzepine",
+      "B": "trihexyphenidyl",
+      "C": "ipratropium",
+      "D": "oxybutynin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 69 題",
+    "question": "下列藥物中，何者是屬於serotonin（5-HT3）的拮抗劑，用於預防因做化療（chemotherapy）時或手術後所引 起的噁心、嘔吐？",
+    "options": {
+      "A": "methysergide",
+      "B": "ketanserin",
+      "C": "cyproheptadine",
+      "D": "ondensetron"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 70 題",
+    "question": "小孩因病毒感染而引起發燒反應，首選退燒藥物應是下列何者？",
+    "options": {
+      "A": "aspirin",
+      "B": "acetaminophen",
+      "C": "etodolac",
+      "D": "celecoxib"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 71 題",
+    "question": "下列何者為GABAB受體的致效劑（agonist），主要作用於中樞神經系統，用於治療肌肉疼痛和痙攣？",
+    "options": {
+      "A": "dantrolene",
+      "B": "baclofen",
+      "C": "rocuronium",
+      "D": "tizanidine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 72 題",
+    "question": "相較於haloperidol，非典型抗精神病藥物olanzapine比較不會造成錐體外症候群（extrapyramidal symptoms）， 下列何者為其可能的作用原因？",
+    "options": {
+      "A": "olanzapine活化α-adrenergic receptor",
+      "B": "olanzapine抑制突觸前dopamine釋放",
+      "C": "olanzapine與D2 dopamine receptor的親和力較低",
+      "D": "olanzapine對D1 dopamine receptor的親和力較高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 73 題",
+    "question": "乙醇（酒精）與下列何者併用會造成乙醛（acetaldehyde）蓄積，導致噁心、嘔吐及低血壓等身體不適的反 應？",
+    "options": {
+      "A": "disulfiram",
+      "B": "acamprosate",
+      "C": "naltrexone",
+      "D": "baclofen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 74 題",
+    "question": "下列何者可用於治療急性與慢性無機砷中毒（inorganic arsenic poisoning）的螫合劑（chelating agent）？",
+    "options": {
+      "A": "unithiol",
+      "B": "penicillamine",
+      "C": "deferoxamine",
+      "D": "prussian blue"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 75 題",
+    "question": "下列具細胞週期專一性之抗癌藥物（cell cycle-specific agents）中，藥物與其所抑制細胞週期之配對，何者正 確？",
+    "options": {
+      "A": "capecitabine－mitosis（M）期",
+      "B": "irinotecan－DNA synthesis（S）期",
+      "C": "ixabepilone－M期",
+      "D": "vincristine－S期"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  }
+]

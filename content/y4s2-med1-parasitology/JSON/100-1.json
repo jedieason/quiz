@@ -1,0 +1,104 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 75 題",
+    "question": "人體蟯蟲（Enterobius vermicularis）感染最常使用的診斷方法為何？",
+    "options": {
+      "A": "直接塗抹法（Direct wet film method）",
+      "B": "玻璃膠紙肛圍擦拭法（Cellophane tape perianal swabs method）",
+      "C": "福馬林－乙醚濃縮法（Formol-ether concentration technique）",
+      "D": "飽和食鹽水浮游法（Saturated sodium chloride solution floating method）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 76 題",
+    "question": "下列有關人體感染糞小桿線蟲（Strongyloides stercoralis）的敘述，何者正確？",
+    "options": {
+      "A": "通常因吞食絲狀（filariform）幼蟲而感染",
+      "B": "即使嚴重感染也不會引起貧血",
+      "C": "在免疫妥協（immunocompromised）病人造成彌漫性感染",
+      "D": "糞便藉由“浮游法，floatation method”可以提高檢出率"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 77 題",
+    "question": "吸蟲（trematodes）生活史大多需經兩種中間宿主，下列何者為共同必需的中間宿主？",
+    "options": {
+      "A": "水生植物",
+      "B": "淡水螺",
+      "C": "淡水魚",
+      "D": "節肢動物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 78 題",
+    "question": "下列有關瘧疾的敘述，何者正確？",
+    "options": {
+      "A": "復燃（recurrence）現象，常見於間日瘧及卵形瘧患者 primaquine",
+      "B": "可殺滅瘧原蟲之血液裂殖體（blood schizonts）及配子細胞（gametocytes），因而可根 治間日瘧",
+      "C": "地中海貧血（thalassemia）患者對惡性瘧之抵抗力較高",
+      "D": "惡性瘧的復發源自肝細胞中之休眠子（hypnozoites）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或 AC者均給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 79 題",
+    "question": "臨床上要診斷內臟幼蟲移行症（visceral larva migrans）須根據下列那三個診斷依據？",
+    "options": {
+      "A": "嗜伊紅性白血球增多、脾臟腫大、血清白蛋白增多",
+      "B": "嗜中性白血球增多、肝臟腫大、血清球蛋白增多",
+      "C": "嗜伊紅性白血球增多、肝臟腫大、血清球蛋白增多",
+      "D": "嗜中性白血球增多、脾臟腫大、血清白蛋白增多"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 80 題",
+    "question": "林先生幾個星期前到泰國旅遊時吃了特殊處理的生豬肉，不久後即開始有腹痛，最近眼眶附近浮腫， 很幸運的從浮腫部位手術摘除將近1 公分大小的蟲體而痊癒，林先生最可能感染到何種寄生蟲？",
+    "options": {
+      "A": "蟠尾絲蟲（Onchocerca volvulus）",
+      "B": "有棘顎口線蟲（Gnathostoma spinigerum）",
+      "C": "結膜吸吮線蟲（Thelazia callipaeda）",
+      "D": "麥地那蟲（Dracunculus medinensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 81 題",
+    "question": "下列敘述，何者錯誤？",
+    "options": {
+      "A": "配戴隱形眼鏡者是罹患棘阿米巴性角膜炎（Acanthamoeba keratitis）的高危險群",
+      "B": "早期棘阿米巴性角膜炎患者常需進行角膜移植恢復視力，近年來多已可用藥物治癒",
+      "C": "自營生活的阿米巴（free-living amoebae）所造成的腦部感染均與游泳有關",
+      "D": "棘阿米巴與巴氏阿米巴（Balamuthia mandrillaris）的患者通常免疫力較差"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 82 題",
+    "question": "下列何者之唾液含有神經毒素，在吸食宿主血液時，會造成宿主之運動神經麻痺？",
+    "options": {
+      "A": "體蝨（body louse）",
+      "B": "臭蟲（bedbug）",
+      "C": "舌蠅（tsetse fly）",
+      "D": "蜱（tick）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

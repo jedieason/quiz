@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 33 題",
+    "question": "為鑑定組織切片上某一蛋白質表現位置，最敏感且專一性的方法是：",
+    "options": {
+      "A": "蘇木精與伊紅染色法（hematoxylin and eosin）",
+      "B": "過碘酸-席夫染色法（Periodic acid-Schiff）",
+      "C": "免疫細胞化學法（immunocytochemistry）",
+      "D": "組織化學法（histochemistry）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 34 題",
+    "question": "在血液抹片染色，下列何者是最大的血球？",
+    "options": {
+      "A": "紅血球",
+      "B": "淋巴球",
+      "C": "單核球",
+      "D": "嗜中性球"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 35 題",
+    "question": "人體中數量最少的白血球是：",
+    "options": {
+      "A": "淋巴球（lymphocytes）",
+      "B": "嗜中性球（neutrophils）",
+      "C": "嗜伊紅球（eosinophils）",
+      "D": "嗜鹼性球（basophils）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 36 題",
+    "question": "下列何者含有最少量的結締組織？",
+    "options": {
+      "A": "腎臟實質",
+      "B": "肝臟實質",
+      "C": "大腦實質",
+      "D": "舌實質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 37 題",
+    "question": "下列對於「心房利鈉尿肽（atrial natriuretic peptide）」之敘述，何者正確？",
+    "options": {
+      "A": "主要由心室之心肌細胞負責分泌",
+      "B": "主要由內皮細胞負責分泌",
+      "C": "主要功能為增加血壓",
+      "D": "主要功能為調節電解質及降低血壓"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 38 題",
+    "question": "橫結腸的特徵不包括下列何者？",
+    "options": {
+      "A": "管狀腸腺（tubular intestinal glands）",
+      "B": "黏膜肌層（muscularis mucosae）",
+      "C": "結腸帶（taeniae coli）",
+      "D": "腸絨毛（villi）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 39 題",
+    "question": "有關腎絲球內之環間細胞（mesangial cells），下列敘述何者錯誤？",
+    "options": {
+      "A": "胚胎發育上，此細胞源於單核吞噬系統（mononuclear phagocytotic system）之先驅細胞",
+      "B": "當腎絲球受傷時，此細胞可以分泌白血球間質-1（interleukin-1）",
+      "C": "此細胞具有吞噬能力（phagocytosis）以去除腎絲球過濾後之殘渣物",
+      "D": "此細胞可以提供足細胞（podocyte）結構上的支持"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 40 題",
+    "question": "有關胎盤障蔽（placental barrier）的敘述，下列何者正確？",
+    "options": {
+      "A": "在懷孕第四個月開始時，胎盤障蔽開始逐漸變厚",
+      "B": "胎盤障蔽的絨毛壁逐漸變薄，是由於合體滋養層（syncytiotrophoblast）退化所致",
+      "C": "胎盤障蔽與肺之血空氣障蔽在組織結構與功能上極為相似",
+      "D": "胎盤障蔽在最薄的部分，含有一層連續而完整的細胞滋養層（cytotrophoblast）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 41 題",
+    "question": "有關中耳（middle ear）的敘述，下列何者正確？",
+    "options": {
+      "A": "聽管（auditory or Eustachian tube）平時是開的，僅在吞嚥或喊叫才關閉",
+      "B": "三塊聽骨為透明軟骨",
+      "C": "中耳腔又稱鼓室（tympanic cavity）",
+      "D": "聽小骨間藉由韌帶聯合而形成關節"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

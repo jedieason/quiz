@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 18 題",
+    "question": "巨噬細胞（macrophage）和嗜中性球（neutrophil）是體內最主要的吞噬細胞，它們都具有吞噬 （phagocytosis）並殺死病原的能⼒，有關這兩群細胞的敘述何者錯誤？",
+    "options": {
+      "A": "當嗜中性球被細菌活化後，會進⾏⼀種特殊的細胞死亡的過程，把核內的染⾊質（chromatin）釋放到細胞 外的空間形成neutrophil extracellular traps（NETs），有效的抓住微⽣物",
+      "B": "這兩群細胞在受到細菌刺激後都會進⾏所謂的呼吸爆發（respiratory burst）的現象，這是因為胞內酵素的 作⽤，導致超氧離⼦（superoxide）的⽣成與⼆氧化碳⼤量釋出，藉以殺死細菌",
+      "C": "巨噬細胞在各個器官及組織都存在，比如在肝臟的庫⽒細胞（Kupffer cell）及神經組織中的⼩神經膠質細 胞（microglia）等都是特化的巨噬細胞",
+      "D": "如果NADPH氧化酶（oxidase）的基因發⽣突變⽽失去功能，會導致這兩群主要的吞噬細胞不能有效地殺 死病原，結果造成慢性⾁芽腫病（chronic granulomatous disease, CGD）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 19 題",
+    "question": "⼤部分⼈體內成熟T細胞上之TCR為α-chain及β-chain所組成，故稱為αβ T cells。當比對TCR α-chain及β- chain的DNA序列時，發現β-chain比α-chain多出了下列何種基因片段？",
+    "options": {
+      "A": "V",
+      "B": "D",
+      "C": "J",
+      "D": "C"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 20 題",
+    "question": "成熟的淋巴球在發育過程中會利⽤各種機制來達成⾃我耐受性（self-tolerance），下列何者和達成⾃我耐受 性有直接的相關性？①AIRE基因 ②CTLA-4基因 ③Fas基因 ④正向選擇（positive selection） ⑤負 向選擇（negative selection） ⑥regulatory T細胞形成",
+    "options": {
+      "A": "①②③④⑥",
+      "B": "①②③⑤⑥",
+      "C": "僅②③⑤⑥",
+      "D": "僅①②③⑤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 21 題",
+    "question": "下列何種細胞素，並非毒殺性CD8 T細胞（cytotoxic CD8 T cells）所分泌來執⾏細胞毒殺功能？",
+    "options": {
+      "A": "TNF-α",
+      "B": "TGF-β",
+      "C": "LT-α",
+      "D": "IFN-γ"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 22 題",
+    "question": "胸腺依賴性（thymus-dependent）抗原活化B細胞需要輔助型T細胞的參與，⽽且這兩種細胞所辨識的抗原 是存在⼀種相關性辨識（linked recognition）的關係，有關相關性辨識的敘述，何者錯誤？",
+    "options": {
+      "A": "如果⼀個B細胞的抗原接受器是辨識⼀種病毒的表⾯蛋⽩，⽽輔助型T細胞的抗原接受器是辨識此病毒內部 的核⼼蛋⽩，這個輔助型T細胞是無法協助前述B細胞的活化",
+      "B": "相關性辨識可以確保⾃我耐受性（self-tolerance）的產⽣，因為對⾃體有反應的（self-reactive）T細胞必 須碰到對⾃體有反應的B細胞才能引起⾃體抗體（autoantibody）的產⽣，⽽這種機率相當低",
+      "C": "我們可以利⽤相關性辨識的概念來設計疫苗幫助嬰兒產⽣有效的抗體，去對付具有莢膜構造的病菌，比如 流感嗜⾎桿菌（Haemophilus influenzae）",
+      "D": "很多⼈對盤尼⻄林（penicillin）過敏的原因是因為盤尼⻄林注射到體內會和⾃體的蛋⽩形成聚合物，此聚合 物會誘發TH2細胞的⽣成，再藉著相關性辨識去活化B細胞產⽣IgE引起過敏反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 23 題",
+    "question": "在黏膜產⽣的分泌型IgA（secretary IgA）⼤部分為：",
+    "options": {
+      "A": "單體（monomer）",
+      "B": "⼆聚體（dimer）",
+      "C": "三聚體（trimer）",
+      "D": "五聚體（pentamer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 24 題",
+    "question": "⾼免疫球蛋⽩M症候群（hyper-IgM syndrome）是⼀種罕⾒的先天性免疫不全疾病，患者⾎清中除了IgM之 外其他類型，例如IgG和IgA數值明顯低於平均值，造成病患容易感染。B細胞中特定基因的缺陷會造成B細胞 無法產⽣類型轉換（class switching），但是T細胞的基因突變也可以導致相同的疾病。以下那個蛋⽩質缺陷 會造成T細胞無法幫助B細胞類型轉換？",
+    "options": {
+      "A": "AID（activation-induced cytidine deaminase）",
+      "B": "CD40",
+      "C": "CD40 ligand",
+      "D": "NEMO（NF-κB essential modulator，或稱IKK γ）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 25 題",
+    "question": "針對可以引起氣喘等第⼀型過敏性疾病之過敏原，下列那⼀項敘述最正確？",
+    "options": {
+      "A": "與⼀般抗原相同，都需經抗原呈獻細胞作⽤來活化T細胞",
+      "B": "同卵雙胞胎對特定過敏原都會有相同的反應",
+      "C": "都具有蛋⽩⽔解酶（protease）的功能",
+      "D": "病⼈體內都可以檢測出對過敏原具特異性的IgE"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 26 題",
+    "question": "下列⾃體免疫疾病中，何者侵犯不⽌⼀處組織，屬於系統性疾病？",
+    "options": {
+      "A": "⾃體溶⾎性貧⾎（autoimmune hemolytic anemia）",
+      "B": "⾃體免疫愛迪森疾患（autoimmune Addison's disease）",
+      "C": "Hashimoto's thyroiditis",
+      "D": "類風濕性關節炎（rheumatoid arthritis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 27 題",
+    "question": "下列⽤來治療癌症的抗體，何者屬於checkpoint blockade療法？",
+    "options": {
+      "A": "Avastin（anti-VEGF antibody）",
+      "B": "Pembrolizumab（anti-PD-1 antibody）",
+      "C": "Rituximab（anti-CD20 antibody）",
+      "D": "Trastuzumab（anti-HER2/neu antibody）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 28 題",
+    "question": "藉由抑制破骨細胞（osteoclast cell）的活化，可以改善骨質流失的藥物為何？",
+    "options": {
+      "A": "Infliximab（anti-TNF-α）",
+      "B": "Denosumab（anti-RANK-L）",
+      "C": "Daclizumab（anti-IL-2R）",
+      "D": "Belimumab（anti-BLyS）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

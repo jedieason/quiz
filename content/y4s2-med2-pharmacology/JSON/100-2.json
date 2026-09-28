@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 51 題",
+    "question": "Fluoxetine 被用來治療憂鬱症（Depression），是與下列何種神經傳遞物質有關？",
+    "options": {
+      "A": "Norepinephrine",
+      "B": "Dopamine",
+      "C": "Serotonin",
+      "D": "Histamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 52 題",
+    "question": "下列何者是Cephalosporins 的抗菌機轉？",
+    "options": {
+      "A": "抑制Peptidoglycans 前驅物的合成",
+      "B": "抑制胜肽鍵的轉移反應",
+      "C": "干擾Ergosterol 的合成",
+      "D": "抑制β-lactamases 的活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 53 題",
+    "question": "下列何種抗瘧疾藥物中毒時會產生皮膚發紅、流汗、頭暈、嘔吐、下痢、耳鳴及視覺模糊等副作用？",
+    "options": {
+      "A": "Primaquine",
+      "B": "Pyrimethamine",
+      "C": "Quinine",
+      "D": "Amodiaquine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 54 題",
+    "question": "下列何類抗癌藥物之作用在於影響細胞週期，且同時使用於MOPP 及ABVD 的抗癌治療處方劑？",
+    "options": {
+      "A": "Antibiotics",
+      "B": "Antimetabolites",
+      "C": "Alkylating agents",
+      "D": "Plant alkaloids"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 55 題",
+    "question": "重組Interleukin-2 蛋白質可以用來治療下列何種疾病？",
+    "options": {
+      "A": "惡性黑色素細胞瘤",
+      "B": "風濕性關節炎",
+      "C": "膀胱癌",
+      "D": "牛皮癬"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 56 題",
+    "question": "有位曾患腎盂腎炎的孕婦，因細菌引起嚴重上呼吸道感染，下列何者為治療該孕婦的首選藥物？",
+    "options": {
+      "A": "Clarithromycin",
+      "B": "Erythromycin",
+      "C": "Azithromycin",
+      "D": "Tetracycline"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 57 題",
+    "question": "愛滋病人受到下列何種感染時，以Trimethoprim 與Sulfamethoxazole 合併使用治療才有效？",
+    "options": {
+      "A": "肺結核（Tuberculosis）",
+      "B": "隱球菌腦膜炎（Cryptococcal meningitis）",
+      "C": "口腔念珠菌病（Oral candidiasis）",
+      "D": "毒漿體原蟲病（Toxoplasmosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 58 題",
+    "question": "下列何者最適合與Aminoglycoside 合併使用來治療葡萄球菌的感染？",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Tetracycline",
+      "C": "Nafcillin",
+      "D": "Erythromycin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 59 題",
+    "question": "口服鐵製劑治療貧血，最常見之副作用為何？",
+    "options": {
+      "A": "腸胃道刺激作用（GI tract irritation）",
+      "B": "低血鉀症（Hypokalemia）",
+      "C": "高血壓（Hypertension）",
+      "D": "頭痛（Headache）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 60 題",
+    "question": "對於Tolbutamide 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可以增加胰臟β 細胞之胰島素分泌",
+      "B": "可經由抑制ATP-sensitive $K^+$ channel的作用增加胰島素的分泌",
+      "C": "為一種多胜肽（Polypeptide）",
+      "D": "增進肌肉及脂肪細胞對葡萄糖的吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 61 題",
+    "question": "下列何者不是Mifepristone（RU 486）之作用？",
+    "options": {
+      "A": "Antiprogesterone",
+      "B": "Antiestrogen",
+      "C": "Antiandrogen",
+      "D": "Antiglucocorticoid"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 62 題",
+    "question": "下列藥品何者可經由抑制Leukotriene receptor 的作用，來當作口服治療氣喘的用藥？",
+    "options": {
+      "A": "Zafirlukast",
+      "B": "Albuterol",
+      "C": "Theophylline",
+      "D": "Tiopropium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 63 題",
+    "question": "下列何種降血壓藥物的作用機轉是經由NO-cGMP pathway？",
+    "options": {
+      "A": "Verapamil",
+      "B": "Trimethaphan",
+      "C": "Diazoxide",
+      "D": "Nitroprusside"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 64 題",
+    "question": "下列何種神經肌肉阻斷劑的作用是直接抑制骨骼肌細胞內鈣離子自肌漿網釋出而使骨骼肌鬆弛？",
+    "options": {
+      "A": "Baclofen",
+      "B": "Dantrolene",
+      "C": "Pancuronium",
+      "D": "Atracurium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 65 題",
+    "question": "一位農夫因噴灑農藥而中毒，當送至急診室時，出現胸悶、瞳孔縮小、視力模糊和唾液分泌過多等 症狀，此時應給予何種藥物治療之？",
+    "options": {
+      "A": "Atropine",
+      "B": "Physostigmine",
+      "C": "Propantheline",
+      "D": "Edrophonium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 66 題",
+    "question": "下列物質在胃部的壁細胞（Parietal cells）有受體，可以調節胃酸之分泌，但是何者例外？",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Histamine",
+      "C": "Prostaglandin",
+      "D": "Secretin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 67 題",
+    "question": "有關抗組織胺與抗暈車藥的敘述，下列何者正確？",
+    "options": {
+      "A": "第二代抗組織胺Loratadine 可當作暈車藥",
+      "B": "H2 blocker也可以有抗暈車功能",
+      "C": "Meclizine 具有anti-adrenergic effect",
+      "D": "Diphenhydramine 是一種抗組織胺，但是可作為抗暈車藥"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 68 題",
+    "question": "要減少腦部腫瘤產生的水腫，下列何者是效果最佳且最常使用的腎上腺皮質素？",
+    "options": {
+      "A": "Betamethasone",
+      "B": "Prednisolone",
+      "C": "Dexamethasone",
+      "D": "Triamcinolone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 69 題",
+    "question": "關於Deprenyl 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "Deprenyl 主要抑制Monoamine oxidase B",
+      "B": "代謝產物會促進Dopamine 的釋放",
+      "C": "與Levodopa 併用時，容易有發生高血壓的危險",
+      "D": "與Levodopa 併用時，可以降低Levodopa 的使用劑量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 70 題",
+    "question": "使用治療憂鬱症藥物時，經常會因為藥物同時具有阻斷組織胺（Histamine）H1 受體、毒蕈素型 （Muscarinic）乙醯膽鹼受體及甲型-腎上腺素性受體（α-adrenergic receptors）而產生一些副作用，下 列那一種治療憂鬱症藥物最不具有這些受體的抑制作用？",
+    "options": {
+      "A": "Mirtazapine",
+      "B": "Fluoxetine",
+      "C": "Amitriptyline",
+      "D": "Nefazodone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 71 題",
+    "question": "下列那一種麻醉性氣體具有相對較大的最低肺泡濃度（Minimal alveolar concentration）？",
+    "options": {
+      "A": "Halothane",
+      "B": "Enflurane",
+      "C": "Nitric oxide",
+      "D": "Ether"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 72 題",
+    "question": "有關Benzodiazepines 類鎮靜-催眠（Sedative-hypnotic）藥物，對於正常睡眠週期的影響，下列何者 錯誤？",
+    "options": {
+      "A": "縮短眼球快動型睡眠（Rapid eye movement）的期間",
+      "B": "縮短第二期非眼球快動型睡眠（Non-rapid eye movement）的期間",
+      "C": "縮短進入睡眠所需要的時間",
+      "D": "縮短第四期非眼球快動型睡眠（Non-rapid eye movement）的期間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 73 題",
+    "question": "有關鴉片類物質藥理作用之敘述，下列何者錯誤？",
+    "options": {
+      "A": "鴉片類物質可以通透胎盤影響子代",
+      "B": "鴉片類物質具有活化化學受體激發區（Chemoreceptor trigger zone）的作用",
+      "C": "鴉片類物質具有促進膀胱平滑肌收縮的作用",
+      "D": "鴉片類物質可以增加腸胃道的蠕動"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 74 題",
+    "question": "遲發性運動困難（Tardive dyskinesia）一般係由下列那一種原因所造成？",
+    "options": {
+      "A": "去極化（Depolarization）所導致邊緣系統（Mesolimbic system）多巴胺（Dopamine）神經元被抑制",
+      "B": "多巴胺受體過度敏感性（Supersensitivity）",
+      "C": "藥物阻斷乙醯膽鹼系統的活性",
+      "D": "阻斷血清素（Serotonin）受體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 75 題",
+    "question": "下列何者慢性中毒時會發生齒齦發炎與牙齒脫落的毒性作用？",
+    "options": {
+      "A": "Tetraethyl lead",
+      "B": "Mercury vapor",
+      "C": "Trivalent arsenic",
+      "D": "Iron"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

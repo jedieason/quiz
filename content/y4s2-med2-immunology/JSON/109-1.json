@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 109 年第一次醫師國考第 18 題",
+    "question": "位於腸道底層免疫組織中之M細胞的主要免疫功能為：",
+    "options": {
+      "A": "直接殺菌",
+      "B": "製造抗體",
+      "C": "捕捉及轉運腸道中的抗原至下層的淋巴組織",
+      "D": "保護周邊的腸道表皮細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 19 題",
+    "question": "模式辨識受體（pattern recognition receptors, PRRs）是先天免疫系統用來識別病原相關分子模式（pathogen- associated molecular patterns, PAMPs）的抗原受體，在所有先天免疫細胞都會表現。有關模式辨識受體的敘述 何者錯誤？",
+    "options": {
+      "A": "模式辨識受體中的類鐸受體（Toll-like receptors）是演化上古老而保守的病原辨識受體，即便在無脊椎動物 也有表現",
+      "B": "類鐸受體（Toll-like receptors）中TLR3和TLR7分別辨識源自於病毒的雙股及單股RNA",
+      "C": "模式辨識受體中的類NOD受體（nod-like receptors）主要是辨識胞內的病原菌，如沙門氏菌（Salmonella）及 李斯特菌（Listeria）的細胞壁成分",
+      "D": "模式辨識受體中的類RIG-I受體（RIG-I-like receptors）是辨識DNA病毒的DNA，而且免疫細胞的類RIG-I受 體和DNA結合後的訊息傳遞結果會產生第一型干擾素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 20 題",
+    "question": "TCR為T細胞辨識外來抗原之主要分子，但TCR本身並不足以執行訊息傳遞的功能。TCR必須與CD3 complex 組合為TCR complex以達到專一辨識抗原及訊息傳遞作用。下列原因何者錯誤？",
+    "options": {
+      "A": "TCR的α-chain及β-chain的cytoplasmic domain非常短，無法進行signal transduction",
+      "B": "TCR與CD3 complex結合而表現在細胞表面",
+      "C": "CD3 complex的膜蛋白分子具有immunoreceptor tyrosine-based activation motifs（ITAMs），故能促進胞內訊 息傳遞",
+      "D": "CD3 complex的膜蛋白分子具有immunoreceptor tyrosine-based inhibition motifs（ITIMs），故能促進胞內訊息 傳遞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 21 題",
+    "question": "具有前期B細胞抗原接受器（pre-B cell receptor）之B型細胞具有下列那一項生物特性？",
+    "options": {
+      "A": "輕鏈基因重組（light chain gene rearrangement）",
+      "B": "細胞表面具IgM分子",
+      "C": "快速細胞分裂",
+      "D": "接受專一性抗原刺激"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 22 題",
+    "question": "成熟的CD4 T細胞在活化後，可以分化為不同的effector T細胞，其中可以分泌IL-17的CD4 T細胞主要功能 是：",
+    "options": {
+      "A": "清除胞內病原的感染",
+      "B": "清除胞外細菌的感染",
+      "C": "毒殺胞外的寄生蟲",
+      "D": "抑制T細胞過度的發炎反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 23 題",
+    "question": "下列有關遺傳性免疫缺失疾病（immunodeficiency diseases）的敘述，何者錯誤？",
+    "options": {
+      "A": "autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy（APECED）是因為AIRE基因缺陷所造成",
+      "B": "bare lymphocyte syndrome的病人是因為MHC class II無法表現，所以體內CD4 T細胞數目雖正常但表面沒有 MHC class II",
+      "C": "Omenn syndrome常因為是RAG1或RAG2基因突變",
+      "D": "如果是白血球先天性缺陷造成的疾病，造血幹細胞移植是可行的療法"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 24 題",
+    "question": "腸胃道中含有大量IgA，在黏膜免疫反應中可以有效阻斷病原菌入侵人體，相關的敘述何者最正確？",
+    "options": {
+      "A": "血清與腸胃道中2種IgA亞型的抗體比例一致",
+      "B": "細胞激素IL-12可以促進B細胞分泌IgA",
+      "C": "分泌型IgA上的分泌片段（secretory component）是由上皮細胞合成的",
+      "D": "病原菌抗原結合IgA，可以有效啟動補體古典活化路徑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 25 題",
+    "question": "家豪對塵蟎過敏，常常在秋冬換季時出現流鼻水、打噴嚏、眼睛癢等症狀，在發作時他的免疫反應相較於正 常人最可能出現下列何種現象？",
+    "options": {
+      "A": "T細胞分泌較高量的TGF-β細胞激素",
+      "B": "有明顯遲發性過敏反應（delayed type hypersensitivity）",
+      "C": "出現很高量對塵蟎具特異性的IgA",
+      "D": "活化的肥大細胞（mast cell）釋放發炎介質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 26 題",
+    "question": "臨床上成功應用於breast cancer免疫療法的單株抗體trastuzumab（Herceptin）是針對下列那一個分子？",
+    "options": {
+      "A": "Her-2/neu",
+      "B": "MAG-1",
+      "C": "MUC-1",
+      "D": "CD-20"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 27 題",
+    "question": "以下方法均可減少植體抗宿主疾病（graft-versus-host disease, GVHD），下列何者除外？",
+    "options": {
+      "A": "以alemtuzumab處理預植入的造血幹細胞，經由拮抗CD52的作用，使得成熟的T淋巴球數目減少",
+      "B": "將預植入的造血幹細胞實行淋巴球混合作用（mixed lymphocyte reaction），以減低T淋巴球的數目",
+      "C": "選擇MHC class I及MHC class II配合的植體，以降低植入後成熟T淋巴球的抗宿主反應",
+      "D": "使用抗胸腺球蛋白（anti-thymoglobulin）預處理植入的細胞，減低T淋巴球及白血球的數目"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 28 題",
+    "question": "腫瘤細胞缺乏下列何種分子時，NK細胞有更好的毒殺腫瘤細胞能力？",
+    "options": {
+      "A": "MHC class I",
+      "B": "MHC class II",
+      "C": "T1",
+      "D": "HER-2/neu"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

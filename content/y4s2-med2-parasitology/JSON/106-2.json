@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 29 題",
+    "question": "班氏絲蟲（Wuchereria bancrofti）之患者服用下列何種藥物有助於白天採血檢查微絲蟲（microfilaria）？",
+    "options": {
+      "A": "albendazole",
+      "B": "diethylcarbamazine",
+      "C": "praziquantel",
+      "D": "metronidazole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 30 題",
+    "question": "下列何種人體寄生蟲可因入侵生殖系統進入腹腔（peritoneal cavity）而導致慢性骨盆腔腹膜炎（chronic  pelvic peritonitis）？",
+    "options": {
+      "A": "蟯蟲（Enterobius vermicularis）",
+      "B": "鞭蟲（Trichuris trichiura）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "蛔蟲（Ascaris lumbricoides）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 31 題",
+    "question": "衛氏肺吸蟲（Paragonimus westermani）的感染途徑為：",
+    "options": {
+      "A": "生食含囊狀幼蟲（metacercaria）的淡水魚",
+      "B": "生食含囊狀幼蟲（metacercaria）的水生植物",
+      "C": "生食含囊狀幼蟲（metacercaria）的淡水螃蟹",
+      "D": "由尾動幼蟲（cercaria）鑽入皮膚感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 32 題",
+    "question": "李姓學童日前於居家附近池塘游泳返家後，陸續出現發燒、頭痛、鼻塞及嗅覺失常等症狀，經住院檢查發現 白血球高達24,000/cmm（>90%為嗜中性白血球）、頸部僵硬及凱尼格氏徵象（Kernig’s sign），並於住院五 天後死亡。依據上述結果，李姓學童最可能感染何種寄生蟲？",
+    "options": {
+      "A": "福氏內格里阿米巴（Naegleria fowleri）",
+      "B": "痢疾阿米巴（Entamoeba histolytica）",
+      "C": "棘阿米巴（Acanthamoeba spp.）",
+      "D": "大腸阿米巴（Entamoeba coli）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 33 題",
+    "question": "陳先生到印度鄉野自助旅行數月，回來後出現腹瀉、發燒、貧血等症狀，之後並出現肝脾腫大 （hepatosplenomegaly）現象，骨髓穿刺在其巨噬細胞中發現無鞭毛體（amastigotes），血液及糞便檢查沒 有其他發現，他最可能感染的寄生蟲病是：",
+    "options": {
+      "A": "黑水熱（blackwater fever）",
+      "B": "黑熱病（black fever）",
+      "C": "絲蟲症（filariasis）",
+      "D": "卡格氏症（Chagas’disease）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 34 題",
+    "question": "下列有關痢疾阿米巴（Entamoeba histolytica）的敘述中，何者正確？",
+    "options": {
+      "A": "阿米巴肝膿瘍（amebic liver abscess）常發生在左葉肝臟",
+      "B": "在膿瘍的中央採檢體，檢出其滋養體 （trophozoites）的機會比較大",
+      "C": "阿米巴肝膿瘍（amebic liver abscess）的第一線用藥為mebendazole",
+      "D": "阿米巴腫（ameboma）常易被誤診為惡性腫瘤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 35 題",
+    "question": "下列何種節肢動物，主要以機械性傳播（mechanical transmission）方式媒介病原體？",
+    "options": {
+      "A": "蚊（mosquito）",
+      "B": "家蠅（house fly）",
+      "C": "跳蚤（flea）",
+      "D": "體蝨（body louse）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

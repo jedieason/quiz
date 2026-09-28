@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 33 題",
+    "question": "下列何者其管壁外圍不含平滑肌層？",
+    "options": {
+      "A": "輸精管（ductus deferens）",
+      "B": "副睪管（ductus epididymis）",
+      "C": "射精管（ejaculatory duct）",
+      "D": "輸出小管（ductulus efferens）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 34 題",
+    "question": "對於「豎毛肌（arrector pili muscles）」的敘述，下列何者正確？",
+    "options": {
+      "A": "由成束骨骼肌構成",
+      "B": "由表皮伸展到毛囊（hair follicle）",
+      "C": "此肌肉收縮時，會造成「雞皮疙瘩」現象",
+      "D": "由成束肌上皮細胞（myoepithelial cell）構成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 35 題",
+    "question": "有關梅氏神經叢（Meissner’s plexus）的敘述，何者正確？",
+    "options": {
+      "A": "調節黏膜層蠕動與腺體之分泌",
+      "B": "分布在消化道肌肉層中",
+      "C": "類似交感神經有刺激括約肌的功能",
+      "D": "在漿膜層常見"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 36 題",
+    "question": "有關睪丸血液屏障（blood-testis barrier），下列敘述何項錯誤？",
+    "options": {
+      "A": "此屏障將有絲分裂（mitosis）的細胞與減數分裂（meiosis）的細胞隔開",
+      "B": "此屏障將細精小管（seminiferous tubule）分為基底隔間（basal compartment）及腔室隔間（luminal compartment）",
+      "C": "可用一般光學顯微鏡觀察到此屏障",
+      "D": "功能上，此屏障可以保護精子生成細胞不被免疫系統攻擊"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 37 題",
+    "question": "下列有關女性生殖系統的敘述，何者錯誤？",
+    "options": {
+      "A": "大前庭腺（greater vestibular gland）相當於男性的尿道球腺（bulbourethral gland）",
+      "B": "陰阜（mons pubis）之皮膚具有豐富的梅氏小體（Meissner’s corpuscle）",
+      "C": "小陰唇的皮膚不具有毛髮",
+      "D": "小前庭腺（lesser vestibular gland）是屬於漿液性腺體（serous gland）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 38 題",
+    "question": "下列何者不參與心肌細胞之收縮？",
+    "options": {
+      "A": "肌漿網（sarcoplasmic reticulum）",
+      "B": "T 小管（T-tubules）",
+      "C": "肌間盤裡的間隙接合（gap junction of intercalated disc）",
+      "D": "胞橋小體（desmosomes）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 39 題",
+    "question": "通常會出現在韌帶（ligament）或肌腱（tendon）與硬骨相接處的是？①透明軟骨（hyaline cartilage）  ②彈性軟骨（elastic cartilage） ③纖維軟骨（fibrocartilage）",
+    "options": {
+      "A": "只有①",
+      "B": "只有②",
+      "C": "只有③",
+      "D": "①②都有"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 40 題",
+    "question": "下列何者由連接蛋白（connexin）所構成？",
+    "options": {
+      "A": "緊密連接（zonula occludens）",
+      "B": "黏著小帶（zonula adherens）",
+      "C": "胞橋小體（desmosomes）",
+      "D": "間隙接合（gap junctions）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 41 題",
+    "question": "以電子顯微鏡觀察細胞膜（plasma membrane）結構，下列敘述何者錯誤？",
+    "options": {
+      "A": "具三層構造特徵，內外兩層緻密層（electron dense layers）夾雜著透明層（electron lucent layer）",
+      "B": "內外兩層（electron layers）代表磷脂質親水性的一端",
+      "C": "中間透明層（electron lucent layer）代表厭水性分子",
+      "D": "細胞膜內側面具醣外被（glycocalyx）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

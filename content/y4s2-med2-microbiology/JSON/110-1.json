@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 1 題",
+    "question": "關於金黃色葡萄球菌（Staphylococcus aureus）致病因子的敘述，下列何者錯誤？",
+    "options": {
+      "A": "蛋白質 A（protein A）可與免疫球蛋白IgG之Fc結合，抑制宿主之調理及吞噬作用",
+      "B": "腸毒素（enterotoxins）和中毒休克症候群毒素-1（toxic shock syndrome toxin-1）為超級抗原 （superantigens）",
+      "C": "脫皮毒素（exfoliative toxin）會引起表皮燙傷症候群（scalded skin syndrome）",
+      "D": "葡萄球菌激酶（staphylokinase）促進纖維蛋白質（fibrin）的形成，阻礙吞噬細胞作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 2 題",
+    "question": "關於細菌膜孔蛋白質（porins）之敘述，下列何者正確？",
+    "options": {
+      "A": "主要位於內膜（inner membrane）",
+      "B": "可讓親水性分子通過",
+      "C": "與內毒素（endotoxin）功能相似",
+      "D": "屬於纖毛（fimbriae）蛋白質"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 3 題",
+    "question": "關於單核球增生李斯特菌（Listeria monocytogenes）之敘述，下列何者正確？",
+    "options": {
+      "A": "具運動性之革蘭氏陽性菌",
+      "B": "絕對（obligate）胞內寄生",
+      "C": "於攝氏4度時無法生長",
+      "D": "主要經由飛沫（aerosol）傳染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 4 題",
+    "question": "治療由化膿性鏈球菌（Streptococcus pyogenes）所引起的軟組織（soft tissue）病變時，下列何者是醫護人員會 面臨的最大挑戰？",
+    "options": {
+      "A": "此病菌對青黴素（Penicillin）有抗藥性",
+      "B": "此感染症常包含多種細菌感染（mixed infection），不易治療",
+      "C": "受感染組織的迅速壞死，進一步引起敗血症（septicemia）",
+      "D": "此病菌常造成持續性感染（persistent infection），不易根除"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 5 題",
+    "question": "關於炭疽桿菌（Bacillus anthracis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "莢膜（Capsule）是毒力因子之一，具有抗吞噬作用",
+      "B": "其保護性抗原（Protective antigen, PA）當作免疫原（immunogen）的效力，較水腫因子（edema factor）或致 死因子（lethal factor）差",
+      "C": "致死毒素（Lethal toxin）具金屬蛋白酶（metalloprotease）活性",
+      "D": "水腫毒素（Edema toxin）具腺苷酸環化酶（adenylate cyclase）活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 6 題",
+    "question": "有一病人因久咳且痰中帶有血絲而就診，經醫師採集其痰液進行細菌培養檢測後，發現結核分枝桿菌 （Mycobacterium tuberculosis）。有關此病菌特性的敘述，下列何者錯誤？",
+    "options": {
+      "A": "該菌為抗酸性染色（acid-fast stain）陽性",
+      "B": "該菌染色體DNA之G+C含量較大腸桿菌（Escherichia coli）為高",
+      "C": "該菌細胞壁富含黴菌酸（mycolic acids）",
+      "D": "此菌在人體內主要引起Th-2型免疫反應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 7 題",
+    "question": "辨識具有毒力，所謂神奈川試驗陽性（Kanagawa-positive）之副溶血弧菌（Vibrio parahaemolyticus），通常是 依據此菌所產生的下列那種成分？",
+    "options": {
+      "A": "莢膜多醣體（capsular polysaccharides）",
+      "B": "熱不安定性腸毒素（heat-labile enterotoxin）",
+      "C": "熱安定性溶血素（thermo-stable direct hemolysin）",
+      "D": "脂多醣體（lipopolysaccharides）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 8 題",
+    "question": "關於第一型人類嗜T淋巴球病毒（Human T-cell lymphotropic virus type 1, HTLV-1）引起之人類急性T細胞白血病 （adult acute T-cell lymphocytic leukemia, ATLL）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可由輸血、性交以及哺乳傳染",
+      "B": "約一半的感染者會產生此病",
+      "C": "治療多用疊氮胸苷（azidothymidine, AZT）與甲型干擾素（interferon-α）",
+      "D": "此病之預後（prognosis）很差"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 9 題",
+    "question": "下列何者不屬於反轉錄病毒科（Retrovirus family）？",
+    "options": {
+      "A": "腫瘤病毒亞科（Oncovirinae）",
+      "B": "環狀病毒亞科（Orbivirinae）",
+      "C": "慢病毒亞科（Lentivirinae）",
+      "D": "泡沫病毒亞科（Spumavirinae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 10 題",
+    "question": "下列何種方法，最不能去除外科器械上的傳染性蛋白質（prion）之感染能力？",
+    "options": {
+      "A": "高壓滅菌 121℃，1個小時",
+      "B": "浸泡於5%次氯酸（hypochlorite）溶液",
+      "C": "浸泡於1 M氫氧化鈉（NaOH）溶液",
+      "D": "紫外線消毒"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 11 題",
+    "question": "關於人類乳突瘤病毒（Human papillomavirus, HPV）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可以感染皮膚以及黏膜組織",
+      "B": "沒有外套膜（envelope）",
+      "C": "其E1A與E1B蛋白質可以活化致癌基因",
+      "D": "HPV-16和HPV-18常與癌症的形成有關"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 12 題",
+    "question": "關於肝炎病毒（hepatitis viruses）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "A型肝炎病毒與C型肝炎病毒皆為正股RNA病毒",
+      "B": "B型肝炎病毒與C型肝炎病毒皆有外套膜（envelope）",
+      "C": "A型肝炎病毒與E型肝炎病毒常透過血液傳染",
+      "D": "B型肝炎病毒在宿主細胞核內複製"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 13 題",
+    "question": "下列何者為人類免疫缺陷病毒（Human immunodeficiency virus, HIV）之套膜蛋白質（envelope protein）？",
+    "options": {
+      "A": "gp120",
+      "B": "gp21",
+      "C": "p66",
+      "D": "p55"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 14 題",
+    "question": "關於致病性皮癬菌（Dermatophytes）之敘述，下列何者正確？",
+    "options": {
+      "A": "不會人傳人",
+      "B": "表皮癬菌屬（Epidermophyton）不產生小分生孢子（microconidia）",
+      "C": "小孢癬菌屬（Microsporum）極少產生大分生孢子（macroconidia）",
+      "D": "毛癬菌屬（Trichophyton）產生大量大分生孢子（macroconidia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 15 題",
+    "question": "下列何者為多烯類（polyenes）藥物抑制真菌之主要機轉？",
+    "options": {
+      "A": "直接與麥角固醇（ergosterol）結合，破壞細胞膜，造成細胞質電解質不平衡",
+      "B": "抑制14-α-脫甲基酶（Demethylase），使羊毛甾醇（lanosterol）無法進行C14位置之脫甲基反應",
+      "C": "抑制鯊烯環氧酶（squalene epoxidase），使鯊烯（squalene）無法進行閉環以形成羊毛甾醇",
+      "D": "抑制1,3-β-葡聚醣（1,3-β-glucans）之合成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 16 題",
+    "question": "真菌菌絲（hyphae）之兩種基本形態為何？",
+    "options": {
+      "A": "隔菌絲（septate hyphae） 和多核體菌絲（coenocytic hyphae）",
+      "B": "隔菌絲和發芽管（germ tube）",
+      "C": "假菌絲（pseudohyphae）和多核體菌絲",
+      "D": "假菌絲和鎖狀連接菌絲（clamp connection hyphae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 17 題",
+    "question": "目前預防博德氏百日咳桿菌（Bordetella pertussis）的疫苗，主要組成為何？",
+    "options": {
+      "A": "無細胞疫苗（acellular vaccines）",
+      "B": "脂多醣體（lipopolysaccharides）",
+      "C": "減毒疫苗（attenuated vaccines）",
+      "D": "莢膜多醣體（capsular polysaccharides）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

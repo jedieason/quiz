@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 32 題",
+    "question": "母親在懷孕約幾週時，會開始明顯感受胎動（quickening）？",
+    "options": {
+      "A": "7到10",
+      "B": "11到14",
+      "C": "17到20",
+      "D": "22到25"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 33 題",
+    "question": "中腸環（midgut loop）的旋轉，以下列何者為軸心？",
+    "options": {
+      "A": "卵黃柄（yolk stalk）",
+      "B": "腹腔動脈（celiac artery）",
+      "C": "腸繫膜上動脈（superior mesenteric artery）",
+      "D": "腸繫膜下動脈（inferior mesenteric artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 34 題",
+    "question": "下列何種構造不是由中腎管（mesonephric duct）衍生而成？",
+    "options": {
+      "A": "睪丸網（rete testis）",
+      "B": "副睪（epididymis）",
+      "C": "輸精管（ductus deferens）",
+      "D": "精囊（seminal vesicle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 35 題",
+    "question": "胎兒循環中，下列何種血管的含氧量最高？",
+    "options": {
+      "A": "主動脈（aorta）",
+      "B": "臍動脈（umbilical artery）",
+      "C": "臍靜脈（umbilical vein）",
+      "D": "肺靜脈（pulmonary vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 36 題",
+    "question": "下列何者不參與鼓膜（tympanic membrane）的形成？",
+    "options": {
+      "A": "第一與第二咽弓（pharyngeal arch）之間葉組織（mesenchyme）",
+      "B": "第一咽囊（pharyngeal pouch）之內胚層（endoderm）",
+      "C": "神經外胚層（neuroectoderm）",
+      "D": "第一咽溝（pharyngeal groove）之外胚層（ectoderm）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

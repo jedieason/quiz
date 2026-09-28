@@ -1,0 +1,309 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 51 題",
+    "question": "下列有關mifepristone（RU-486）的藥理作用描述，何者錯誤？",
+    "options": {
+      "A": "為一種具選擇性糖皮質激素受體拮抗劑（glucocorticoid receptor antagonist）",
+      "B": "具有高度的抗孕激素活性（antiprogestin activity）作用，因此可以被用來當作一種避孕劑",
+      "C": "會惡化庫欣氏症候群（Cushing’s syndrome）的臨床症狀",
+      "D": "口服有效"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 52 題",
+    "question": "testosterone 在代謝過程中經過何者之作用轉化成estradiol？",
+    "options": {
+      "A": "5α-reductase",
+      "B": "cytochrome P450s",
+      "C": "3β-hydroxy steroid dehydrogenase",
+      "D": "aromatase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 53 題",
+    "question": "對insulin 具有耐受性的糖尿病患者因同時有水腫的問題需作治療改善，不宜使用下列何種利尿劑？",
+    "options": {
+      "A": "chlorothiazide",
+      "B": "acetazolamide",
+      "C": "furosemide",
+      "D": "spironolactone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 54 題",
+    "question": "下列何者不是cAMP 媒介之藥理作用？",
+    "options": {
+      "A": "vasopressin 促進腎臟對水分之再吸收",
+      "B": "norepinephrine 促進血管收縮",
+      "C": "epinephrine 促進肝醣分解",
+      "D": "epinephrine 促進脂肪細胞分解三酸甘油酯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 55 題",
+    "question": "下列有關藥物與血漿蛋白結合之敘述，何者錯誤？",
+    "options": {
+      "A": "大部分的藥物會與albumin 結合",
+      "B": "鹼性藥物會與alpha1-acid glycoprotein結合",
+      "C": "血漿蛋白結合率高的藥物，藥效作用時間會縮短",
+      "D": "與血漿蛋白結合之藥物會暫時失去藥理活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 56 題",
+    "question": "市面上之威而鋼（sildenafil）治療陽痿的主要作用機轉為何？",
+    "options": {
+      "A": "增加NO 的合成",
+      "B": "增加NO 的釋出",
+      "C": "活化guanylate cyclase",
+      "D": "抑制phosphodiesterase V"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 57 題",
+    "question": "下列有關於藥物與受體交互作用之敘述，何者錯誤？",
+    "options": {
+      "A": "full agonist 對與活化狀態受體（active form）結合後的反應最高",
+      "B": "partial agonist 對與不活化狀態受體（inactive form）的結合後仍有部分反應",
+      "C": "inverse agonist 對與不活化狀態受體（inactive form）的結合後產生抑制性反應",
+      "D": "antagonist 對於活化狀態受體（active form）和不活化狀態受體（inactive form）結合後皆無任何反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 58 題",
+    "question": "下列何種藥物可以清除感染非洲睡眠症病人血液及淋巴結中之錐蟲？",
+    "options": {
+      "A": "nifurtimox",
+      "B": "melarsoprol",
+      "C": "pentamidine",
+      "D": "suramin"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 59 題",
+    "question": "Infliximab 單株抗體可用於Crohn’s disease 之緩解，其主要作用之標的為何？",
+    "options": {
+      "A": "interferon",
+      "B": "IL-2",
+      "C": "TNF-α",
+      "D": "LTB4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 60 題",
+    "question": "關於methadone 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "止痛的效果較morphine 差",
+      "B": "作用的半衰期較morphine 長",
+      "C": "口服有效",
+      "D": "所產生的戒斷作用較morphine 輕微"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 61 題",
+    "question": "有關succimer 之敘述中，下列何者正確？",
+    "options": {
+      "A": "又名DMPS（dimercaptopropanesulfornic acid）",
+      "B": "要以肌肉注射給藥",
+      "C": "可用於治療小孩之血中高鉛濃度",
+      "D": "會有高血壓之副作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 62 題",
+    "question": "下列有關statin 敘述，何者錯誤？",
+    "options": {
+      "A": "主要作用於HMG-CoA reductase，抑制膽固醇生合成",
+      "B": "引發高親和力LDL receptor 表現增加",
+      "C": "atorvastatin 屬於prodrug，必須經腸道代謝成活性代謝物",
+      "D": "可與cholestyramine 合用，達到降膽固醇之相加作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 63 題",
+    "question": "有關enalapril 對心衰竭病人治療作用之敘述，何者錯誤？",
+    "options": {
+      "A": "為慢性心衰竭治療之第一線治療藥物",
+      "B": "使用digoxin 治療之慢性心衰竭病人可以enalapril 取代",
+      "C": "可與利尿劑併用",
+      "D": "腎動脈狹窄病人應避免使用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 64 題",
+    "question": "下列有關heparin 和warfarin 之敘述，何者錯誤？",
+    "options": {
+      "A": "採用aPTT（activated partial thromboplastin time）來檢測heparin 之抗凝血活性",
+      "B": "以prothrombin time 來檢測warfarin 之抗凝血活性",
+      "C": "heparin 過量之拮抗劑為Factor VIIa",
+      "D": "warfarin過量之拮抗劑為冷凍血漿和Vit. K1"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 65 題",
+    "question": "下列何種藥物用於治療嗜鉻細胞瘤（pheochromocytoma），但會產生錐體外路徑症狀之副作用？",
+    "options": {
+      "A": "labetalol",
+      "B": "metyrosine",
+      "C": "phenoxybenzamine",
+      "D": "tamsulosin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 66 題",
+    "question": "有關nicotinic cholinoceptor 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "是一種G 蛋白耦合之受體",
+      "B": "可被乙醯膽鹼活化",
+      "C": "位於交感神經節節後神經細胞體上",
+      "D": "活化後可使骨骼肌收縮"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 67 題",
+    "question": "男性禿頭專用毛髮增生劑finasteride 主要透過下列何種機轉來促進毛髮增生？",
+    "options": {
+      "A": "為黃體素（progesterone）的衍生物，透過抑制雄激素（antiandrogenic）及抑制促性腺激素 （antigonadotropic）的作用來產生促進毛髮增生",
+      "B": "具有降低循環及前列腺內的二氫睪固酮（dihydrotestosterone）的產生，進而促進毛髮增生",
+      "C": "具有抑制芳香環轉化酶（aromatase）的活性，進而促進毛髮增生",
+      "D": "為一種合成的黃體素，透過活化黃體素受體來促進毛髮增生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 68 題",
+    "question": "下列那一類藥物最適合用於治療患有Zollinger-Ellison syndrome 的病人？",
+    "options": {
+      "A": "antacids",
+      "B": "H2 antagonists",
+      "C": "proton pump inhibitors",
+      "D": "anticholinergic agents"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 69 題",
+    "question": "下列何種治療氣喘的藥物之治療指數（therapeutic index）窄，使用時需特別小心？",
+    "options": {
+      "A": "nedocromil",
+      "B": "ipratropium",
+      "C": "terbutaline",
+      "D": "theophylline"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 70 題",
+    "question": "下列何種NSAIDs 藥物，最容易引起血栓的副作用？",
+    "options": {
+      "A": "diclofenac",
+      "B": "ibuprofen",
+      "C": "rofecoxib",
+      "D": "sulindac"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 71 題",
+    "question": "下列何者不是臨床上作基因治療的必要條件？",
+    "options": {
+      "A": "目前無合適治療法的疾病",
+      "B": "疾病的突變基因之確定",
+      "C": "疾病的突變基因與疾病具關聯性",
+      "D": "In vitro 的偵測系統即足夠評估其療效（efficacy）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 72 題",
+    "question": "下列有關中樞神經興奮劑methylphenidate 的敘述，何者錯誤？",
+    "options": {
+      "A": "可以有效改善注意力不足/過動症候群（attention-deficit/hyperactivity syndrome）",
+      "B": "具有阻斷norepinephrine 及dopamine 被再吸收到突觸前神經元的作用",
+      "C": "具有促進食慾的作用",
+      "D": "不適合使用於心血管疾病病史的病人"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 73 題",
+    "question": "下列有關抗癲癇藥物lamotrigine 的敘述，何者錯誤？",
+    "options": {
+      "A": "其主要作用於電位敏感的鈉離子通道，以安定神經膜及抑制興奮性神經傳導物的釋放作用",
+      "B": "其對於局部癲癇、泛發性強直性陣攣性癲癇具有治療的效果",
+      "C": "其對sodium valproate 合併使用時，其體內半衰期會縮短，因此使用劑量需要加倍",
+      "D": "其可以用於雙極性疾患（bipolar disorder）之鬱症預防"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 74 題",
+    "question": "下列有關抗癲癇藥物carbamazepine 的描述，何者錯誤？",
+    "options": {
+      "A": "其口服效果不佳，需以靜脈注射的方式給藥",
+      "B": "carbamazepine 具有延長鈉離子管道不反應期的作用",
+      "C": "oxcarbazepine 的作用強度較carbamazepine 大",
+      "D": "carbamazepine 會促進肝臟微粒體酵素的活性，因此會增加其他藥物的代謝作用"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或 AC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 75 題",
+    "question": "下列降血壓藥物與其主要機轉配對何者正確？",
+    "options": {
+      "A": "fenoldopam—可以釋放出一氧化氮（nitric oxide）",
+      "B": "hydralazine—抑制鈣離子內流入血管平滑肌細胞",
+      "C": "minoxidil—其代謝物可開啟血管平滑肌鉀離子通道",
+      "D": "sodium nitroprusside—可以活化dopamine D 受體 1"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

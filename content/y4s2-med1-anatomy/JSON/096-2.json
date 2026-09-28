@@ -1,0 +1,349 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 1 題",
+    "question": "大拇指的內收動作（adduction），可作為檢查那一條神經的功能是否完整？",
+    "options": {
+      "A": "橈神經",
+      "B": "正中神經",
+      "C": "尺神經",
+      "D": "前臂橈神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 2 題",
+    "question": "精索靜脈曲張（varicocele）的現象：",
+    "options": {
+      "A": "好發於左側",
+      "B": "好發於右側",
+      "C": "發生率兩側差不多",
+      "D": "很少發生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 3 題",
+    "question": "一中年女性主訴手指會麻，下列那一部位的感覺缺失可使醫師確認受傷的神經是尺神經（ulnar nerve）？",
+    "options": {
+      "A": "大拇指的掌面（palmar surface of thumb）",
+      "B": "前臂掌面的尺側（ulnar side of the volar surface of forearm）",
+      "C": "小指的掌面（palmar surface of the 5th finger）",
+      "D": "手背近虎口處（dorsum of hand between the thumb and the 2nd finger）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 4 題",
+    "question": "臨床檢查發現病人肋間動脈（intercostal arteries）變大，甚至可摸到脈搏跳動，且X 光片顯示肋骨下 緣有動脈增大的切跡，這些現象顯示病人最可能患有：",
+    "options": {
+      "A": "先天性橫膈缺損",
+      "B": "主動脈狹窄（coarctation of aorta）",
+      "C": "開放性卵圓孔（oval foramen）",
+      "D": "臍動脈（umbilical artery）閉鎖不全"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 5 題",
+    "question": "下列何者與橈神經（radial nerve）伴行並通行於橈神經溝？",
+    "options": {
+      "A": "旋肱後動脈（posterior circumflex humeral artery）",
+      "B": "旋肱前動脈（anterior circumflex humeral artery）",
+      "C": "肱深動脈（profunda brachii artery）",
+      "D": "橈側返動脈（radial recurrent artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 6 題",
+    "question": "下列何者的起始點（origin）不在肱骨？",
+    "options": {
+      "A": "喙肱肌（coracobrachialis）",
+      "B": "肱肌（brachialis）",
+      "C": "肱橈肌（brachioradialis）",
+      "D": "掌長肌（palmaris longus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 7 題",
+    "question": "若病人同時出現動眼（oculomotor）神經、外旋（abducent）神經、滑車（trochlear）神經與三叉神經 之眼神經（ophthalmic nerve）與上頜神經（maxillary nerve）的缺損，其病灶部位最可能是在下列何 處？",
+    "options": {
+      "A": "眼窩（orbital fossa ）",
+      "B": "框上裂（superior orbital fissure）",
+      "C": "海綿竇（cavernous sinus）",
+      "D": "橋腦（pons）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 8 題",
+    "question": "足底長韌帶（long plantar ligament）前端附著於下列何骨？",
+    "options": {
+      "A": "楔狀骨（cuneiform）",
+      "B": "距骨（talus）",
+      "C": "舟狀骨（navicular）",
+      "D": "骰骨（cuboid）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 9 題",
+    "question": "下列有關喉部（larynx）之敘述，何者錯誤？",
+    "options": {
+      "A": "喉室（ventricle）位於前庭襞（vestibular fold）及聲襞（vocal fold）之間",
+      "B": "聲帶肌（vocalis muscle）位於聲襞之內",
+      "C": "環杓側肌與環杓後肌（lateral and posterior cricoarytenoid muscles）相互拮抗，控制前庭裂（rima vestibuli）之開關",
+      "D": "橫杓肌（transverse arytenoid muscle）收攏左右的杓狀軟骨（arytenoid cartilages）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 10 題",
+    "question": "下列何者構成股三角（femoral triangle）的內側緣？",
+    "options": {
+      "A": "內收長肌（adductor longus）",
+      "B": "恥骨肌（pectineus）",
+      "C": "縫匠肌（sartorius）",
+      "D": "股薄肌（gracilis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 11 題",
+    "question": "臀肌粗隆（gluteal tuberosity）位於何處？",
+    "options": {
+      "A": "髂骨（ilium）",
+      "B": "坐骨（ischium）",
+      "C": "恥骨（pubis）",
+      "D": "股骨（femur）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 12 題",
+    "question": "臀上神經受到壓迫損傷，下列何者的功能最不受影響？",
+    "options": {
+      "A": "臀大肌",
+      "B": "臀中肌",
+      "C": "臀小肌",
+      "D": "闊筋膜張肌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 13 題",
+    "question": "下列何者會通過坐骨小孔？",
+    "options": {
+      "A": "臀小肌",
+      "B": "梨狀肌",
+      "C": "上孖肌",
+      "D": "閉孔內肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 14 題",
+    "question": "負責傳遞舌前三分之二段味覺之神經纖維，其細胞體位於：",
+    "options": {
+      "A": "翼腭神經節（pterygopalatine ganglion）",
+      "B": "膝狀神經節（geniculate ganglion）",
+      "C": "下頜下神經節（submandibular ganglion）",
+      "D": "三叉神經節（trigeminal ganglion）"
+    },
+    "answer": "B",
+    "explanation": "考選部更正備註：答Ｂ給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 15 題",
+    "question": "下列有關腰、薦部位（lumbar and sacral regions）的敘述何者錯誤？",
+    "options": {
+      "A": "腸骨腱間線（intercrestic line）的中點是腰椎穿刺的指標點",
+      "B": "薦三角（sacral triangle）的底是腸骨後上棘（posterosuperior iliac spine）的連線",
+      "C": "薦三角為薦椎在體表的投射位置",
+      "D": "薦孔（sacral hiatus）的位置無法由體表觸知"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 16 題",
+    "question": "右肺門（hilum）正後方的溝（或切跡）是由何結構造成的？",
+    "options": {
+      "A": "食道",
+      "B": "動脈弓",
+      "C": "奇靜脈",
+      "D": "上腔靜脈"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 17 題",
+    "question": "與第七胸椎橫突形成關節的是肋骨上的那一項構造？",
+    "options": {
+      "A": "肋骨頭關節面",
+      "B": "肋骨頸",
+      "C": "肋骨小節",
+      "D": "肋骨體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 18 題",
+    "question": "下列有關大腦靜脈的敘述，何者錯誤？",
+    "options": {
+      "A": "上大腦靜脈（superior cerebral vein）注入上矢狀竇（superior sagittal sinus）處易扯斷，造成硬腦膜 下出血",
+      "B": "上矢狀竇的血液大部分流向左橫竇",
+      "C": "岩上竇（superior petrosal sinus）注入乙狀竇（sigmoid sinus）",
+      "D": "乙狀竇（sigmoid sinus）注入內頸靜脈（internal jugular vein）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 19 題",
+    "question": "下列何者為泌尿生殖膈的一部分？",
+    "options": {
+      "A": "梨狀肌",
+      "B": "提肛肌",
+      "C": "會陰深橫肌",
+      "D": "尿道海綿體肌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 20 題",
+    "question": "尿道球腺的開口於：",
+    "options": {
+      "A": "膜部尿道",
+      "B": "陰莖尿道",
+      "C": "骨盆橫膈",
+      "D": "泌尿生殖膈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 21 題",
+    "question": "小腦的襻緣纖維（climbing fibers）主要徑行於下列何者？",
+    "options": {
+      "A": "脊髓小腦前徑（anterior spinocerebellar tract）",
+      "B": "脊髓小腦後徑（posterior spinocerebellar tract）",
+      "C": "楔狀核小腦徑（cuneocerebellar tract）",
+      "D": "橄欖小腦徑（olivocerebellar tract）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 22 題",
+    "question": "下列有關十二指腸的敘述何者錯誤？",
+    "options": {
+      "A": "膽管及胰管開口於十二指腸",
+      "B": "十二指腸第一段位在肋下平面（subcostal plane）的高度",
+      "C": "十二指腸第二段在右腎門內側下行",
+      "D": "Treitz 韌帶將十二指腸固定在右橫膈腳"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 23 題",
+    "question": "下列何者為造成硬腦膜外出血（epidural hematoma）之最可能原因？",
+    "options": {
+      "A": "大腦動脈環（arterial circle of cerebrum）上血管瘤破裂",
+      "B": "上頜動脈（maxillary artery）出血",
+      "C": "腦膜中動脈（middle meningeal artery）破裂",
+      "D": "大腦前動脈（anterior cerebral artery）出血"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 24 題",
+    "question": "下列何結構是由後腦（metencephalon）衍生而來？",
+    "options": {
+      "A": "延腦（medulla oblongata）",
+      "B": "小腦（cerebellum）",
+      "C": "丘腦（thalamus）",
+      "D": "下丘腦（hypothalamus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 25 題",
+    "question": "腭帆張肌（tensor veli palatini）與下列何肌受相同顱神經支配？",
+    "options": {
+      "A": "顳肌（temporal muscle）",
+      "B": "胸鎖乳突肌（sternocleidomastoid muscle）",
+      "C": "二腹肌後腹（posterior belly of digastric muscle）",
+      "D": "下直肌（inferior rectus muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 26 題",
+    "question": "自錘骨（stapes）及砧骨（incus）之間穿過者為：",
+    "options": {
+      "A": "鼓室神經（tympanic nerve）",
+      "B": "岩大神經（greater petrosal nerve）",
+      "C": "鼓索神經（chorda tympani nerve）",
+      "D": "岩小神經（lesser petrosal nerve）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 27 題",
+    "question": "大腦動脈環（arterial circle of cerebrum）不包括：",
+    "options": {
+      "A": "椎動脈（vertebral artery）",
+      "B": "大腦前動脈（anterior cerebral artery）",
+      "C": "大腦後動脈（posterior cerebral artery）",
+      "D": "後交通枝（posterior communicating artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 28 題",
+    "question": "翼腭窩（pterygopalatine fossa）與其周邊之連通經由：",
+    "options": {
+      "A": "上頜孔（maxillay foramen）進入硬腭黏膜",
+      "B": "翼管（pterygoid canal）接受交感神經節前纖維",
+      "C": "圓孔（foramen rotundum）接受第五顱神經之第二支",
+      "D": "翼腭孔（pterygopalatine foramen）進入鼻腔"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

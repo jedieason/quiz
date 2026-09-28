@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 37 題",
+    "question": "下列有關運動終板（motor end plate）組成構造的敘述，何項正確？",
+    "options": {
+      "A": "突觸間隙（synaptic cleft）的位置是介於軸突終端（axon terminal）與許旺細胞（Schwann cell）之間",
+      "B": "神經傳導物質的受體（neurotransmitter receptor）主要分布在軸突終端（axon terminal）",
+      "C": "接合皺襞（junctional fold）由肌纖維膜（sarcolemma）形成",
+      "D": "突觸小泡（synaptic vesicle）主要分布在肌纖維膜（sarcolemma）上"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 38 題",
+    "question": "下列何者具有雙層膜（double membranes）結構？",
+    "options": {
+      "A": "溶酶體（lysosome）",
+      "B": "過氧化質體（peroxisome）",
+      "C": "核套（nuclear envelope）",
+      "D": "脂肪小滴（lipid droplet）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 39 題",
+    "question": "下列何者的成長方式，不是以間質成長（interstitial growth）進行？",
+    "options": {
+      "A": "透明軟骨（hyaline cartilage）",
+      "B": "纖維軟骨（fibrocartilage）",
+      "C": "彈性軟骨（elastic cartilage）",
+      "D": "硬骨（bone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 40 題",
+    "question": "蒲金氏細胞（Purkinje cells）是位於：",
+    "options": {
+      "A": "大腦皮質（cerebral cortex）",
+      "B": "小腦皮質（cerebellar cortex）",
+      "C": "丘腦（thalamus）",
+      "D": "脊髓灰質（spinal gray matter）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 41 題",
+    "question": "有關肌型動脈（muscular artery）的敘述，下列何者正確？",
+    "options": {
+      "A": "外膜（tunica adventitia）是血管壁最薄的一層",
+      "B": "中膜（tunica media）的主要組成是彈性板（elastic lamellae）",
+      "C": "內膜（tunica intima）是由多層扁平狀的內皮細胞（endothelial cells）和結締組織組成",
+      "D": "有明顯的波浪狀內彈性膜（internal elastic membrane）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 42 題",
+    "question": "下列有關齒堊質（cementum）的敘述，何項正確？",
+    "options": {
+      "A": "牙周韌帶（periodontal ligament）的Sharpey's fibers會伸入齒堊質（cementum）",
+      "B": "內接齒髓（dental pulp），外接琺瑯質（enamel）",
+      "C": "由成釉細胞（ameloblast）分泌形成",
+      "D": "在齒根（root）及齒冠（crown）均有此構造"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 43 題",
+    "question": "十二指腸腺（Brunner's gland）位於：",
+    "options": {
+      "A": "黏膜（mucosa）",
+      "B": "黏膜下層（submucosa）",
+      "C": "外肌層（muscularis externa）",
+      "D": "外膜（adventitia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 44 題",
+    "question": "下列何種構造的上皮，不是移形上皮（transitional epithelium）？",
+    "options": {
+      "A": "腎盂（renal pelvis）",
+      "B": "尿道近端（proximal part of the urethra）",
+      "C": "膀胱（urinary bladder）",
+      "D": "尿道外口（external urethral orifice）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 45 題",
+    "question": "下列何者為子宮內膜（endometrium）在增生期（proliferative phase）的特徵？",
+    "options": {
+      "A": "基質細胞（stromal cells）不進行分裂，而是儲存大量膠原（collagen）與基質（ground substance）",
+      "B": "螺旋動脈（spiral artery）已經延伸至子宮內膜（endometrium）的頂部",
+      "C": "上皮細胞肥大（hypertrophy），子宮內膜（endometrium）出現水腫（edema）",
+      "D": "子宮腺（uterine gland）基部的上皮細胞開始進行腺體重建"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 46 題",
+    "question": "細精管（seminiferous tubules）中的細胞，下列何者最靠近管腔底部？",
+    "options": {
+      "A": "精原細胞（spermatogonium）",
+      "B": "精母細胞（spermatocyte）",
+      "C": "精細胞（spermatid）",
+      "D": "睪丸間質細胞（Leydig cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

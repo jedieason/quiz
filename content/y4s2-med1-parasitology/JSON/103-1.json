@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 75 題",
+    "question": "下列何種寄生蟲之感染經常造成腹絞痛、噁心、嘔吐及急性水樣腹瀉，並常伴隨有低蛋白血症、低 血鉀及低血鈣等嚴重電解質失衡病症？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "海獸胃線蟲（Anisakis spp.）",
+      "C": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "D": "棘顎口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 76 題",
+    "question": "下列何種寄生蟲曾經廣泛流行於我國離島之金門及澎湖地區？",
+    "options": {
+      "A": "班氏絲蟲（Wuchereria bancrofti）",
+      "B": "馬來亞絲蟲（Brugia malayi）",
+      "C": "蟠尾絲蟲（Onchocerca volvulus）",
+      "D": "羅阿絲蟲（Loa loa）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 77 題",
+    "question": "張先生於2 週前，曾赴中國大陸湖南省洞庭湖從事遊湖活動，期間曾將手腳伸入水中戲水，並於當 晚回旅館休息時發覺戲水的手腳部位出現搔癢紅疹，返臺後出現全身不適、發燒及咳嗽等症狀，經 住院檢查發現有輕微肝脾腫大（hepatosplenomegaly）及急性肝炎（acute hepatitis）現象。依據上述 結果，張先生最可能感染何種寄生蟲？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "橫川吸蟲（Metagonimus yokogawai）",
+      "C": "異形吸蟲（Heterophyes heterophyes）",
+      "D": "日本血吸蟲（Schistosoma japonicum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 78 題",
+    "question": "下列有關短小包膜絛蟲（Hymenolepis nana）感染人體的敘述，何者錯誤？①吞食蟲卵為唯一 的感染途徑  ②主要感染小孩  ③輕度感染即會引起腹痛及腹瀉  ④有可能引起過度感染 （hyperinfection）",
+    "options": {
+      "A": "②④",
+      "B": "①③",
+      "C": "①②",
+      "D": "③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 79 題",
+    "question": "下列寄生蟲之配對中，何者在患者新鮮糞便中均含有對人類之感染型（infective forms）？",
+    "options": {
+      "A": "環胞子蟲（Cyclospora cayetanensis）及雙核阿米巴（Dientamoeba fragilis）",
+      "B": "人肉胞子蟲（Sarcocystis hominis）及梨形鞭毛蟲（Giardia lamblia）",
+      "C": "隱胞子蟲（Cryptosporidium parvum）及嗜碘阿米巴（Iodamoeba bütschlii）",
+      "D": "等胞子蟲（Isospora belli）及大腸纖毛蟲（Balantidium coli）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 80 題",
+    "question": "Primaquine 的殺傷對象主要是瘧原蟲的那些發育期？",
+    "options": {
+      "A": "血液裂殖體（blood schizonts）、肝臟裂殖體（liver schizonts）及休眠體（hypnozoites）",
+      "B": "肝臟裂殖體（liver schizonts）、休眠體（hypnozoites）及配子母細胞（gametocytes）",
+      "C": "休眠體（hypnozoites）、配子母細胞（gametocytes）及血液裂殖體（blood schizonts）",
+      "D": "配子母細胞（gametocytes）、血液裂殖體（blood schizonts）及孢子體（sporozoites）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 81 題",
+    "question": "下列何者為臺灣地區傳播日本腦炎（Japanese B encephalomyelitis）的主要病媒蚊種？",
+    "options": {
+      "A": "埃及斑蚊（Aedes aegypti）",
+      "B": "白線斑蚊（Aedes albopictus）",
+      "C": "熱帶家蚊（Culex fatigans）",
+      "D": "三斑家蚊（Culex tritaeniorhychus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 82 題",
+    "question": "跳蚤（flea）可以傳播下列何種疾病之病原體？",
+    "options": {
+      "A": "地方性斑疹傷寒（endemic typhus）",
+      "B": "流行性斑疹傷寒（epidemic typhus）",
+      "C": "恙蟲病（scrub typhus）",
+      "D": "落磯山斑疹熱（Rocky Mountain spotted fever）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

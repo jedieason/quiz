@@ -1,0 +1,308 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 51 題",
+    "question": "水腫患者若使用aminoglycosides 作感染的治療時，則不宜使用下列何種利尿劑來治療水腫？",
+    "options": {
+      "A": "chlorothiazide",
+      "B": "acetazolamide",
+      "C": "furosemide",
+      "D": "indapamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 52 題",
+    "question": "下列有關乙醇（ethanol）的描述，何者錯誤？",
+    "options": {
+      "A": "在乙醇吸收及分布相同的情況下，飲用相同量的酒精時，通常男性血中乙醇濃度會高於女性",
+      "B": "投與benzodiazepines 的藥物可以緩解酒精的禁斷作用（withdrawal syndromes）",
+      "C": "乙醇經由肝臟代謝，會增加NADH/NAD+的比值",
+      "D": "血漿中乙醇濃度超過200 mg/dL（0.2%）時，走路會搖晃，不適合駕車"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 53 題",
+    "question": "下列何者藥品主要是抑制肥胖細胞（mast cells）釋放出組織胺，可用來預防運動誘導之氣管痙攣 （exercise-induced bronchospasm）作用？",
+    "options": {
+      "A": "cromolyn sodium",
+      "B": "ipratropium",
+      "C": "montelukast",
+      "D": "zileuton"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 54 題",
+    "question": "服用下列何種血管舒張劑易產生多毛症的副作用？",
+    "options": {
+      "A": "hydralazine",
+      "B": "minoxidil",
+      "C": "captopril",
+      "D": "sildenafil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 55 題",
+    "question": "服用下列何種降血壓藥物後，易產生鎮靜的副作用？",
+    "options": {
+      "A": "nifedipine",
+      "B": "clonidine",
+      "C": "hydralazine",
+      "D": "losartan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 56 題",
+    "question": "下列何者屬於opioid 類製劑，用於止瀉，正常用量不具成癮性或呼吸抑制作用？",
+    "options": {
+      "A": "codeine",
+      "B": "meperidine",
+      "C": "octreotide",
+      "D": "loperamide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 57 題",
+    "question": "下列何種藥物不用於偏頭痛之治療？",
+    "options": {
+      "A": "methysergide",
+      "B": "sumatriptan",
+      "C": "ergotamine",
+      "D": "clozapine"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 58 題",
+    "question": "下列那一類的病人在服用chlorpromazine 後，會加重其病情？",
+    "options": {
+      "A": "焦慮症",
+      "B": "精神分裂症",
+      "C": "失眠症",
+      "D": "巴金森氏症"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 59 題",
+    "question": "下列那一種維生素會增加週邊組織對於levodopa 的代謝作用？",
+    "options": {
+      "A": "vitamine B6",
+      "B": "vitamine B12",
+      "C": "vitamine D",
+      "D": "vitamine E"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 60 題",
+    "question": "下列有關全身性麻醉劑的描述，何者錯誤？",
+    "options": {
+      "A": "脂溶性越高的麻醉劑，其產生麻醉作用所需要的濃度越高",
+      "B": "溶解度較差的氣體麻醉劑，其恢復期較短；反之，高溶解度的氣體麻醉劑恢復期較長",
+      "C": "ketamine 會刺激交感神經活性，使得心跳及血壓上升",
+      "D": "麻醉劑的效價（potency）與最低肺泡麻醉濃度（minimum alveolar anesthetic concentration；MAC） 呈反比"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 61 題",
+    "question": "下列有關metoclopramide 之敘述，何者錯誤？",
+    "options": {
+      "A": "可減少小腸ACh 之釋放",
+      "B": "屬於dopamine D2 受體拮抗劑及5-HT4 agonist",
+      "C": "可以作用於中樞神經之chemoreceptor trigger zone（CTZ）",
+      "D": "有dystonia 副作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 62 題",
+    "question": "下列何種散瞳藥物的作用機轉是經由抑制muscarinic receptor，且於屬於短效型，適合用於成人？",
+    "options": {
+      "A": "scopolamine",
+      "B": "pilocarpine",
+      "C": "tropicamide",
+      "D": "atropine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 63 題",
+    "question": "下列降血壓藥物中，何者會減少bradykinin 和substance P 的破壞，因而易引起乾咳的副作用？",
+    "options": {
+      "A": "lisinopril",
+      "B": "amlodipine",
+      "C": "diazoxide",
+      "D": "clonidine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 64 題",
+    "question": "下列何種血管舒張劑可經由抑制phosphodiesterase 5 而用於治療陽萎？",
+    "options": {
+      "A": "enalapril",
+      "B": "vardenafil",
+      "C": "minoxidil",
+      "D": "nitroglycerin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 65 題",
+    "question": "下列何種抗心律不整藥物是屬於Class IC，具有抑制$Na^+$和L-type $Ca^{2+}$ channels 的作用？",
+    "options": {
+      "A": "propranolol",
+      "B": "mexiletine",
+      "C": "propafenone",
+      "D": "amiodarone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 66 題",
+    "question": "下列關於副甲狀腺素（parathyroid hormone，PTH）的敘述，何者錯誤？",
+    "options": {
+      "A": "副甲狀腺素會刺激骨頭的蝕骨作用（bone resorption）",
+      "B": "副甲狀腺素的作用是經由細胞核受體（nuclear receptor）",
+      "C": "副甲狀腺素會促進小腸鈣離子（$Ca^{2+}$）的吸收（absorption）",
+      "D": "副甲狀腺素治療骨質疏鬆症（osteoporosis）的副作用為引起高血鈣（hypercalcemia）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 67 題",
+    "question": "下列對於glucocorticoid 之藥理作用敘述，何者錯誤？",
+    "options": {
+      "A": "降低前列腺素（prostaglandin）之產生",
+      "B": "降低甲狀腺－刺激荷爾蒙（thyroid-stimulating hormone）之分泌",
+      "C": "增加成骨細胞（osteoblast）之形成及活性",
+      "D": "降低胃腸道對鈣的吸收"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 68 題",
+    "question": "下列何種降血脂藥物其作用機轉具有活化細胞轉錄因子（peroxisome proliferator-activated receptor） 以增加血中HDL-C 及lipoprotein lipase 含量？",
+    "options": {
+      "A": "niacin",
+      "B": "fenofibrate",
+      "C": "cholestyramine",
+      "D": "fluvastatin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 69 題",
+    "question": "下列免疫調節劑（immunomodulating agents）何者可使用於驅蟲治療外，其同時也可促進單核球，B 及T 淋巴球細胞之功能？",
+    "options": {
+      "A": "levamisole",
+      "B": "thalidomide",
+      "C": "Bacille Calmett-Guérin",
+      "D": "interferons"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 70 題",
+    "question": "Cyclosporine 抑制異體器官排斥反應（graft rejection）之作用機制為何？",
+    "options": {
+      "A": "選擇性促進T 淋巴細胞產生抗體",
+      "B": "抑制輔助型T 淋巴細胞活化",
+      "C": "抑制移植細胞增生",
+      "D": "減低初級免疫（innate immune）反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 71 題",
+    "question": "氣喘病人應避免使用aspirin，是因為使用aspirin 後下列何種物質產生可能增加，而易導致氣管收縮？",
+    "options": {
+      "A": "thromboxane",
+      "B": "prostaglandin D2",
+      "C": "leukotriene",
+      "D": "PAF（platelet-activating factor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 72 題",
+    "question": "下列何者為ampicillin 與piperacillin 合併治療Pseudomonas aeruginosa 感染時誘發抗藥性的原因？",
+    "options": {
+      "A": "piperacillin 抑制ampicillin 與penicillin 結合蛋白接觸",
+      "B": "ampicillin 誘發beta-lactamase 的產生",
+      "C": "piperacillin 抑制autolytic enzyme 的活性",
+      "D": "ampicillin 係一種bacteriostatic 作用劑"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 73 題",
+    "question": "下列何者是M. tuberculosis 對isoniazid 產生抗藥性的主要機轉？",
+    "options": {
+      "A": "減少N-acetyltransferase 的活性",
+      "B": "減少katG 基因的表現",
+      "C": "減少細胞的isoniazid 的濃度",
+      "D": "造成inh A 基因的突變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 74 題",
+    "question": "交感神經釋放出norepinephrine 作用在β1 receptor，導致cAMP 增加，protein kinase A 活化後，會磷 酸化下列何種蛋白使心肌收縮力增強？",
+    "options": {
+      "A": "L-type $Ca^{2+}$ channel",
+      "B": "lipase",
+      "C": "glycogen phosphorylase",
+      "D": "guanylate cyclase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 75 題",
+    "question": "下列降血壓藥物中，何者是透過選擇性抑制α1-receptor 而達到舒張血管的作用？",
+    "options": {
+      "A": "clonidine",
+      "B": "yohimbine",
+      "C": "doxazosin",
+      "D": "ritodrine"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

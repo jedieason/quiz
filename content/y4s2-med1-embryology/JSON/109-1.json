@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 109 年第一次醫師國考第 32 題",
+    "question": "由於胚體快速的成長，所以造成橫膈背部（dorsal part of diaphragm）的最終位置，相當於下列那一椎骨的高 度？",
+    "options": {
+      "A": "T8",
+      "B": "T10",
+      "C": "L1",
+      "D": "L3"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 33 題",
+    "question": "胚胎發育時，下列那一咽溝（pharyngeal groove）會持續存在，並且衍生形成外聽道（external acoustic  meatus）？",
+    "options": {
+      "A": "第一",
+      "B": "第二",
+      "C": "第三",
+      "D": "第四"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 34 題",
+    "question": "精索積水（hydrocele of the spermatic cord）是由於下列何者閉鎖不全造成？",
+    "options": {
+      "A": "白膜（tunica albuginea）",
+      "B": "鞘突（processus vaginalis）",
+      "C": "泌尿生殖竇（urogenital sinus）",
+      "D": "泌尿生殖褶（urogenital fold）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 35 題",
+    "question": "下列何項構造不會在前腹壁上造成腹膜皺襞（peritoneal fold）？",
+    "options": {
+      "A": "靜脈導管（ductus venosus）",
+      "B": "臍尿管（urachus）",
+      "C": "上腹下動脈（inferior epigastric artery）",
+      "D": "臍動脈（umbilical artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第一次醫師國考第 36 題",
+    "question": "關於顱骨（cranium）發育的敘述，何項錯誤？",
+    "options": {
+      "A": "起源於腦組織周圍之間質組織",
+      "B": "部分神經顱（neurocranium）由多塊軟骨癒合形成",
+      "C": "臟顱（viscerocranium）是大腦的主要保護結構",
+      "D": "第一、二對咽弓（pharyngeal arch）參與軟骨性臟顱（cartilaginous viscerocranium）的形成"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

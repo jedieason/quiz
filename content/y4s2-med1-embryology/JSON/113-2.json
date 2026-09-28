@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 32 題",
+    "question": "胚胎發育的第三週（第15～21天）期間，下列何者不會出現？",
+    "options": {
+      "A": "原腸胚（gastrula）",
+      "B": "脊索（notochord）",
+      "C": "神經溝（neural groove）",
+      "D": "咽弓（pharyngeal arch）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 33 題",
+    "question": "肺臟（lung）發育進入那一時期之後，會開始出現明顯的血氣障壁（blood-air barrier），以及產生較多 的表面張力劑（surfactant）？",
+    "options": {
+      "A": "偽腺期（pseudoglandular stage）",
+      "B": "末囊期（terminal sac stage）",
+      "C": "小管期（canalicular stage）",
+      "D": "肺泡期（alveolar stage）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 34 題",
+    "question": "下腔靜脈肝臟段（hepatic portion of the inferior vena cava）主要是由下列何者發育而來？",
+    "options": {
+      "A": "卵黃靜脈（vitelline vein）",
+      "B": "臍靜脈（umbilical vein）",
+      "C": "下主靜脈（subcardinal vein）",
+      "D": "上主靜脈（supracardinal vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 35 題",
+    "question": "下列何者屬於軀幹的軸下肌（hypaxial muscle）？",
+    "options": {
+      "A": "豎脊肌（erector spinae）",
+      "B": "腹直肌（rectus abdominis）",
+      "C": "闊背肌（latissmus dorsi）",
+      "D": "棘肌（spinalis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 36 題",
+    "question": "聽小骨（auditory ossicle）之砧骨（incus）是源自何處？",
+    "options": {
+      "A": "第一咽弓（first pharyngeal arch）",
+      "B": "第二咽弓（second pharyngeal arch）",
+      "C": "第三咽弓（third pharyngeal arch）",
+      "D": "第四咽弓（fourth pharyngeal arch）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

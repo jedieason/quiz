@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 18 題",
+    "question": "若不小心吃到了一份被沙門氏菌（Salmonella enterica）污染的沙拉，出現了腹瀉的反應，下列何者最有可 能是首先辨識並對該病原體產生反應的身體部位？",
+    "options": {
+      "A": "脾臟",
+      "B": "胸腺",
+      "C": "腸黏膜相關淋巴組織",
+      "D": "肝臟"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 19 題",
+    "question": "在抗體與抗原的交互作用中，下列那個作用力參與最少？",
+    "options": {
+      "A": "范德瓦爾斯力（van der Waals force）",
+      "B": "氫鍵（hydrogen bond）",
+      "C": "偶極－偶極力（dipole-dipole force）",
+      "D": "共價鍵（covalent bond）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 20 題",
+    "question": "主要組織相容性複合體（major histocompatibility complex, MHC）為T 細胞辨識抗原過程中重要的分子， 關於MHC 的敘述，下列何者最不適當？",
+    "options": {
+      "A": "MHC class I 呈獻的抗原胜肽較短，而MHC class II 呈獻的抗原胜肽較長",
+      "B": "MHC class I 呈獻抗原給CD8 T 細胞，而MHC class II 呈獻抗原給CD4 T 細胞",
+      "C": "組成MHC class II 的分子有兩個，分別是α chain 與β chain，其中β chain 的變化性（variability） 遠高於α chain",
+      "D": "MHC class I 與 class II 都有分子不會接觸到抗原，class I 中是β2-microglobulin，而class II 中是α chain"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 21 題",
+    "question": "下列有關pre-B 細胞受體（pre-B cell receptor）的敘述，何者最不適當？",
+    "options": {
+      "A": "具有免疫球蛋白輕鏈之κ鏈（κ chain）",
+      "B": "可以傳遞存活訊號使pre-B 細胞繼續發育",
+      "C": "具有Igα和Igβ兩個訊號傳遞蛋白",
+      "D": "可以傳遞訊號抑制免疫球蛋白重鏈（heavy chain）基因進行重組（rearrangement）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 22 題",
+    "question": "下列何者最不可能高度表現於調節性T 細胞（Treg）？",
+    "options": {
+      "A": "CD25",
+      "B": "IL-10",
+      "C": "CTLA-4",
+      "D": "B7"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 23 題",
+    "question": "在沒有病原菌感染的情況下，人體腸胃道組織中的樹突細胞（dendritic cell）最常見的特徵是：",
+    "options": {
+      "A": "會分泌大量細胞激素IL-12",
+      "B": "細胞表面有高量B7-1 分子，是高效能的抗原呈獻細胞",
+      "C": "腸道中的TGF-β與IL-10 會增進樹突細胞對共生菌的耐受性",
+      "D": "可製造A 酸（retinoic acid）並增進T 毒殺細胞功能"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 24 題",
+    "question": "革蘭氏陽性細菌細胞壁的peptidoglycan 最主要是經由下列何種受體被辨識？",
+    "options": {
+      "A": "Toll-like receptor 2",
+      "B": "Toll-like receptor 4",
+      "C": "Toll-like receptor 8",
+      "D": "Toll-like receptor 9"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 25 題",
+    "question": "自體免疫疾病一但建立之後，通常會逐漸演化成長期且持續的疾病，在治療上面也缺乏具有特異性且有效的 治療方式。下列有關自體免疫疾病難以治癒的原因，何者最不適當？",
+    "options": {
+      "A": "自體免疫疾病的病程中，免疫系統不斷接受抗原的刺激，形成一個正回饋的發炎反應",
+      "B": "治療上無法移除自身抗原",
+      "C": "表位擴散（epitope spreading）的特性造成更多辨識自身抗原的免疫細胞活化",
+      "D": "自體免疫疾病的病人都有調節型T 細胞（regulatory T cell）的異常"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 26 題",
+    "question": "有關腫瘤免疫反應的敘述，下列何者最適當？",
+    "options": {
+      "A": "有腫瘤特異性抗原的呈獻，可產生並存在著腫瘤專一性T 淋巴球",
+      "B": "免疫細胞無法進入腫瘤組織內，因而無法抑制腫瘤細胞的生長",
+      "C": "腫瘤細胞不斷生長增加時，亦產生性質變異，表現突變的細胞表面分子，進而造成免疫細胞的死亡",
+      "D": "因腫瘤細胞性質的變異，表現出腫瘤抑制基因（tumor suppressor gene）的產物，引起了腫瘤抑制自然殺 手細胞的效果"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 27 題",
+    "question": "下列何種移植最容易發生graft-versus-host disease（GVHD）？",
+    "options": {
+      "A": "肝臟",
+      "B": "骨髓",
+      "C": "腎臟",
+      "D": "肺臟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 28 題",
+    "question": "腫瘤如黑色素瘤（melanoma）會產生骨髓衍生性抑制細胞（MDSCs），最主要透過分泌下列何種細胞激素以利 腫瘤細胞生長？",
+    "options": {
+      "A": "IL-1",
+      "B": "IL-10",
+      "C": "TNF-α",
+      "D": "IFN-γ"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

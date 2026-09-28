@@ -1,0 +1,306 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 76 題",
+    "question": "跌倒2週後，瘀青處做切片檢查，發現黃棕色之色素，最可能為：",
+    "options": {
+      "A": "脂褐素（lipofuscin）",
+      "B": "膽紅素（bilirubin）",
+      "C": "黑色素（melanin）",
+      "D": "血鐵素（hemosiderin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 77 題",
+    "question": "某病人有腎臟病變，組織表現為壞死現象，細胞質內胞器消失，細胞核溶解，但組織外形完整，且與周圍正 常組織分界清楚，此為何類壞死？",
+    "options": {
+      "A": "液化性壞死",
+      "B": "乾酪化壞死",
+      "C": "類纖維蛋白性壞死",
+      "D": "凝固性壞死"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 78 題",
+    "question": "下列遺傳疾病，何者較適合利用重覆引子聚合酶連鎖反應法（repeat-primer polymerase chain reaction）進行篩檢再配合南方轉漬分析（Southern blot），則可以得到較確定的診斷？",
+    "options": {
+      "A": "透納氏症候群（Turner syndrome）",
+      "B": "狄喬治氏症候群（DiGeorge syndrome）",
+      "C": "X染色體脆折症（Fragile X syndrome）",
+      "D": "尼曼匹克症（Niemann-Pick disease）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 79 題",
+    "question": "下列有關結核菌素試驗（tuberculin test）原理之敘述，何者正確？",
+    "options": {
+      "A": "主要是藉由刺激巨噬細胞（macrophages），釋放出伽瑪干擾素（γ-interferon）",
+      "B": "主要是藉由刺激T淋巴細胞（lymphocytes），釋放出伽瑪干擾素（γ-interferon）",
+      "C": "主要是藉由刺激巨噬細胞（macrophages），釋放出腫瘤壞死因子（tumor necrotic factor）",
+      "D": "主要是藉由刺激T淋巴細胞（lymphocytes），釋放出腫瘤壞死因子（tumor necrotic factor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 80 題",
+    "question": "下列何者與鎘（cadmium）中毒之相關性較低？",
+    "options": {
+      "A": "肺癌（lung cancer ）",
+      "B": "骨質疏鬆（osteoporosis）",
+      "C": "畸胎瘤（teratoma）",
+      "D": "腎損傷（kidney injury）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 81 題",
+    "question": "下列何者是用來判定為惡性腫瘤可靠性最高的指標？",
+    "options": {
+      "A": "細胞的分化差或未分化",
+      "B": "生長速度快及有絲分裂",
+      "C": "局部侵襲",
+      "D": "轉移至其它器官"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 82 題",
+    "question": "下列抑癌蛋白何者最不具有直接調控細胞週期的功能？",
+    "options": {
+      "A": "RB",
+      "B": "p53",
+      "C": "E-cadherin",
+      "D": "p16/INK4a"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 83 題",
+    "question": "下列血管炎何者於顯微鏡下最少出現肉芽腫性發炎（granulomatous inflammation）？",
+    "options": {
+      "A": "Churg-Strauss syndrome",
+      "B": "Microscopic polyangiitis",
+      "C": "川崎氏症（Kawasaki disease）",
+      "D": "Buerger disease"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者均給分。"
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 84 題",
+    "question": "馬凡氏症候群（Marfan syndrome）的病人在心臟瓣膜上最常出現的病理變化為何？",
+    "options": {
+      "A": "主動脈瓣連合處融合（commissural fusion of aortic valve）",
+      "B": "主動脈瓣鈣化",
+      "C": "二尖瓣出現黏液性變性（myxomatous degeneration）",
+      "D": "二尖瓣連合處融合（commissural fusion of mitral valve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 85 題",
+    "question": "下列何者最可能引起次發性骨髓化生不良症候群（secondary myelodysplastic syndrome）？",
+    "options": {
+      "A": "長期缺乏鈣質",
+      "B": "接受抗癌化學治療",
+      "C": "接受骨質疏鬆藥物治療",
+      "D": "服用抗結核藥物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 86 題",
+    "question": "有關脾梗塞（splenic infarct）的敘述，下列何者正確？",
+    "options": {
+      "A": "脾臟有豐富的側枝循環（collateral circulation），所以極少發生梗塞",
+      "B": "脾腫大（splenomegaly）不是造成脾梗塞的好發因子",
+      "C": "在正常大小的脾臟，最常造成脾梗塞的原因是心臟來的栓子（emboli）",
+      "D": "脾梗塞經常造成大量的腹腔內出血"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 87 題",
+    "question": "下列何者為影響肺栓塞（pulmonary embolism）嚴重度最重要的因素？",
+    "options": {
+      "A": "造成栓塞（embolism）的原因",
+      "B": "栓子（embolus）的成分",
+      "C": "栓子（embolus）的大小",
+      "D": "栓子（embolus）的來源"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 88 題",
+    "question": "造成病毒性肺炎的病原，下列何者最不常見？",
+    "options": {
+      "A": "輪狀病毒（rotavirus）",
+      "B": "副流感病毒（parainfluenza virus）",
+      "C": "流感病毒（influenza virus）",
+      "D": "腺病毒（adenovirus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 89 題",
+    "question": "有關慢性支氣管炎的特徵，下列何者最不適當？",
+    "options": {
+      "A": "黏液分泌過多（hypersecretion of mucus）",
+      "B": "嗜酸性白血球增加（eosinophilia）",
+      "C": "支氣管上皮杯狀細胞化生（goblet cell metaplasia）",
+      "D": "抽菸（cigarette smoking）為最重要危險因子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 90 題",
+    "question": "下列疾病與檢驗配對之敘述，何者最不適當？",
+    "options": {
+      "A": "primary biliary cirrhosis病人90%以上的病人有anti-mitochondrial抗體",
+      "B": "antinuclear antibody（ANA）及anti-smooth muscle antibody為第一型自體免疫性肝炎的血清指標",
+      "C": "第二型自體免疫性肝炎的血清指標為anti-liver kidney microsomal antibodies（anti-LKM1）",
+      "D": "約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies（cANCA）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 91 題",
+    "question": "關於膽囊膽固醇結石（cholesterol stone）產生機制，下列敘述何者錯誤？",
+    "options": {
+      "A": "膽汁中鈣離子過飽和",
+      "B": "膽囊運動不足（hypomotility）",
+      "C": "加速膽固醇晶體成核（nucleation）",
+      "D": "黏液分泌過多"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 92 題",
+    "question": "30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面 是黃色的，在顯微鏡下觀察如附圖，細胞含chromogranin及synaptophysin。下列何者為最可能的診斷？ [圖片]",
+    "options": {
+      "A": "增生性息肉（hyperplastic polyp）",
+      "B": "小管狀腺瘤（tubular adenoma）",
+      "C": "神經內分泌腫瘤（neuroendocrine tumor）",
+      "D": "腺癌（adenocarcinoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 93 題",
+    "question": "毒物引起之急性腎小管壞死其壞死部位最不可能發生在：",
+    "options": {
+      "A": "近曲小管（proximal convoluted tubules）",
+      "B": "亨耳氏環上升支（ascending limbs of Henle's loop）",
+      "C": "近曲小管直部（straight segments of proximal tubules）",
+      "D": "集尿管（collecting ducts）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 94 題",
+    "question": "最常造成次發性副甲狀腺功能亢進症（Secondary hyperparathyroidism）的原因是：",
+    "options": {
+      "A": "MEN1 mutation",
+      "B": "CCND1 gene inversion",
+      "C": "Renal failure",
+      "D": "Multiple endocrine neoplasia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 95 題",
+    "question": "最常造成腦下垂體機能亢進的原因是：",
+    "options": {
+      "A": "前葉腺瘤",
+      "B": "前葉增生",
+      "C": "前葉癌",
+      "D": "下視丘疾病"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 96 題",
+    "question": "測量血清中前列腺特定抗原（prostatic-specific antigen, PSA）的濃度已經被廣泛用來協助診斷或處理 前列腺癌（prostate cancer），下列有關前列腺特定抗原或其改良型測量方法的敘述，何者最不適當？",
+    "options": {
+      "A": "前列腺特定抗原為前列腺上皮所生成",
+      "B": "除了前列腺癌外，良性前列腺增生症、前列腺炎等情況，都會造成血清中前列腺特定抗原濃度上升",
+      "C": "有關前列腺特定抗原上升速率（PSA velocity），一般而言，前列腺癌病人的上升速率高於沒有前列腺癌 的病人",
+      "D": "游離與總前列腺特異抗原比值（free PSA/total PSA），一般而言，前列腺癌病人的比值高於良性前列腺 疾病的病人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 97 題",
+    "question": "20歲女生最近覺得下腹部腹脹不舒服，超音波檢查發現右側卵巢有一個約7公分大的腫瘤，經手術切取後腫 瘤外觀表面平滑，腫瘤切面觀察有固體部分也有壞死及出血區域，同時含有毛髮及像牙齒一樣的物質。切片 下出現一些像胚胎時期的神經上皮細胞（neuroepithelium），則下列何者為最有可能之診斷？",
+    "options": {
+      "A": "成熟畸胎瘤（mature teratoma）",
+      "B": "漿液性囊狀腺癌（serous cystadenocarcinoma）",
+      "C": "未成熟畸胎瘤（immature teratoma）",
+      "D": "胚胎性癌（embryonal carcinoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 98 題",
+    "question": "下列那一種分子是由造骨母細胞（osteoblasts）或骨間質細胞（stromal cells）所製造分泌，並用來結合 RANK ligand（RANKL），進而阻礙RANKL與蝕骨細胞（osteoclast precursors）上的RANK作用 ？",
+    "options": {
+      "A": "Wnt",
+      "B": "LRP5/6",
+      "C": "osteoprotegerin",
+      "D": "RUNX2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 99 題",
+    "question": "下列有關軸突性周邊神經病變（peripheral axonal neuropathy）之敘述，何者錯誤？",
+    "options": {
+      "A": "破壞解離的髓鞘可形成myelin ovoids",
+      "B": "Wallerian degeneration起自周邊神經傷害處近端，往神經元細胞體中心進行",
+      "C": "修復過程有時會產生traumatic neuroma",
+      "D": "再生之軸突髓鞘（myelin sheath）比未受病變前之髓鞘細薄"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 100 題",
+    "question": "因腦壓太高造成的herniation，導致的Duret hemorrhage，發生於何處？",
+    "options": {
+      "A": "大腦灰質",
+      "B": "大腦白質",
+      "C": "腦幹",
+      "D": "小腦"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

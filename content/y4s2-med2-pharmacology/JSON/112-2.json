@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 51 題",
+    "question": "下列何種給藥方式之藥物生體可用率（bioavailability）最高？",
+    "options": {
+      "A": "口服（oral）",
+      "B": "直腸給藥（rectal）",
+      "C": "吸入型給藥（inhalation）",
+      "D": "靜脈注射（intravenous）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 52 題",
+    "question": "有關cephalosporins類抗生素之敘述，下列何者錯誤？",
+    "options": {
+      "A": "cephalexin對綠膿桿菌（P aeruginosa）效用差，但通常能用於治療革蘭氏陽性菌的感染",
+      "B": "cefuroxime能用於流感嗜血桿菌（H influenzae）的感染治療",
+      "C": "cefoperazone與ceftazidime都無法使用在綠膿桿菌（P aeruginosa）感染治療",
+      "D": "ceftriaxone應避免使用在腸桿菌屬（Enterobacter sp）感染，主要是因為容易產生抗藥性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 53 題",
+    "question": "關於抗癌藥物doxorubicin之敘述，下列何者錯誤？",
+    "options": {
+      "A": "屬於天然抗生素的抗癌藥",
+      "B": "可抑制topoisomerase I而產生抗癌作用",
+      "C": "於心肌細胞內可能產生自由基而致心臟毒性",
+      "D": "是對細胞週期無專一性藥物（cell cycle-nonspecific agent）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 54 題",
+    "question": "下列抗生素中，何者可以抑制癌細胞之細胞週期（cell cycle）進行，於臨床上主要作為抗癌藥物？",
+    "options": {
+      "A": "bleomycin",
+      "B": "gentamicin",
+      "C": "telithromycin",
+      "D": "daptomycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 55 題",
+    "question": "有關抗癌藥物之敘述，下列何者正確？",
+    "options": {
+      "A": "6-mercaptopurine為azathioprine之衍生物，可以作為免疫增強劑",
+      "B": "CHOP組合治療lymphoma，其中C是指cisplatin",
+      "C": "cyclophosphamide須經過cytochrome P450 oxidase代謝後，才具DNA alkylating作用",
+      "D": "methotrexate之抗癌機制為抑制topoisomerase II之活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 56 題",
+    "question": "關於免疫抑制劑cyclosporine之敘述，下列何者錯誤？",
+    "options": {
+      "A": "抑制 calcineurin 活性",
+      "B": "減少NF-AT轉錄因子作用",
+      "C": "減少 interleukin-1產生",
+      "D": "可誘發腎毒性或高血壓"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 57 題",
+    "question": "抗血小板藥物abciximab的相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "屬於單株抗體藥物",
+      "B": "作用點在於抗glycoprotein IIIb/IIa",
+      "C": "抑制fibrinogen相關血小板凝集反應",
+      "D": "與tirofiban作用機制類似"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 58 題",
+    "question": "Oprelvekin為interleukin-11重組性藥物，其主要運用於緩解化學治療所導致的血小板缺乏症 （thrombocytopenia），下列有關此藥物之敘述，何者錯誤？",
+    "options": {
+      "A": "可刺激megakaryocyte增殖及提高周邊血小板數量",
+      "B": "可刺激多種淋巴及骨髓細胞（lymphoid/myeloid）增殖",
+      "C": "可減少周邊嗜中性白血球（neutrophil）數量",
+      "D": "常見副作用為疲憊、頭痛及心房心律不整"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 59 題",
+    "question": "下列何種藥物的主要作用標的為雌激素受體（estrogen receptor），用於乳癌的輔助治療？",
+    "options": {
+      "A": "progesterone",
+      "B": "ketoconazole",
+      "C": "tamoxifen",
+      "D": "danazol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 60 題",
+    "question": "下列何種降血糖藥物必須用注射方式給與？",
+    "options": {
+      "A": "acarbose",
+      "B": "saxagliptin",
+      "C": "liraglutide",
+      "D": "rosiglitazone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 61 題",
+    "question": "有位45歲男性因患有腎上腺腫瘤而呈現Cushing's syndrome，下列何種藥物可減輕此病人的症狀？",
+    "options": {
+      "A": "triamcinolone",
+      "B": "betamethasone",
+      "C": "fludrocortisone",
+      "D": "ketoconazole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 62 題",
+    "question": "下列藥物何者可以經由抑制腎素renin的作用，用於治療高血壓？",
+    "options": {
+      "A": "aliskiren",
+      "B": "captopril",
+      "C": "eplerenone",
+      "D": "losartan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 63 題",
+    "question": "下列抗心律不整藥物，何者具有抑制thyroxine（T4）轉變成triiodothyronine（T3）的作用？",
+    "options": {
+      "A": "adenosine",
+      "B": "amiodarone",
+      "C": "lidocaine",
+      "D": "dronedarone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 64 題",
+    "question": "下列何者屬於口服型vasopressin（ADH）antagonists利尿劑？",
+    "options": {
+      "A": "conivaptan",
+      "B": "metolazone",
+      "C": "triamterene",
+      "D": "tolvaptan"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 65 題",
+    "question": "膀胱過度活動症（overactive bladder）的病人，可以使用下列何種藥物來治療，其作用機轉是透過β3 adrenoceptor？",
+    "options": {
+      "A": "sibutramine",
+      "B": "lorcaserin",
+      "C": "mirabegron",
+      "D": "buspirone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 66 題",
+    "question": "下列有關varenicline藥理性質的敘述，何者錯誤？",
+    "options": {
+      "A": "是中樞神經細胞蕈毒鹼受體拮抗劑（muscarinic receptor antagonist）",
+      "B": "其最主要的臨床用途為協助菸癮者戒菸（smoking cessation）",
+      "C": "可能的副作用是引起焦慮（anxiety）和憂鬱（depression）",
+      "D": "用於戒菸時，其效用（efficacy）優於bupropion"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 67 題",
+    "question": "下列何者是zafirlukast治療氣喘之作用機轉？",
+    "options": {
+      "A": "拮抗adenosine receptor",
+      "B": "抑制leukotriene receptor",
+      "C": "減少cAMP降解",
+      "D": "減少組織胺釋放"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 68 題",
+    "question": "住院接受腸道手術之病人常出現術後腸阻塞（postoperative ileus）現象，可考慮於術前及術後給與 alvimopan，以改善腸阻塞問題。有關使用此藥之注意事項，下列何者正確？",
+    "options": {
+      "A": "屬於鴉片受體拮抗劑，可能產生心血管毒性",
+      "B": "易進入中樞神經系統，術後給藥不可超過七日",
+      "C": "不可與鴉片類止痛劑併用，以免拮抗其止痛效果",
+      "D": "只能注射給藥，因此只限住院病人使用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 69 題",
+    "question": "下列何種藥物是屬於5-HT4 agonist，可用於治療胃食道逆流（gastroesophageal reflux）？",
+    "options": {
+      "A": "tegaserod",
+      "B": "cisapride",
+      "C": "fluoxetine",
+      "D": "ritanserin"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物最適合用來作為懷孕婦女的引產藥（induce labor）？",
+    "options": {
+      "A": "dinoprostone",
+      "B": "alprostadil",
+      "C": "iloprost",
+      "D": "latanoprost"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 71 題",
+    "question": "下列何種藥物最適合用來治療輕度到中度的氣喘（asthma）？",
+    "options": {
+      "A": "misoprostol",
+      "B": "ibuprofen",
+      "C": "zileuton",
+      "D": "indomethacin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 72 題",
+    "question": "下列神經傳遞物質，何者與fluoxetine抗憂鬱的作用機制最有關聯性？",
+    "options": {
+      "A": "norepinephrine",
+      "B": "serotonin",
+      "C": "glutamate",
+      "D": "acetylcholine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 73 題",
+    "question": "有關抗癲癇藥物phenytoin的敘述，下列何者錯誤？",
+    "options": {
+      "A": "具有延長鈉離子管道不反應期的作用",
+      "B": "會抑制肝臟微粒體酵素的活性，因此會減少其他藥物的代謝作用",
+      "C": "與albumin具有高度的親和力",
+      "D": "溶解度較fosphenytoin差"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 74 題",
+    "question": "鴉片類藥物經長期使用後，許多作用會逐漸產生耐受性，下列藥理作用何者最不容易產生耐受性？",
+    "options": {
+      "A": "瞳孔縮小（miosis）",
+      "B": "鎮痛（analgesia）",
+      "C": "咳嗽抑制（cough suppression）",
+      "D": "欣快感（euphoria）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 75 題",
+    "question": "下列何種藥物主要是用於治療鐵（iron）中毒？",
+    "options": {
+      "A": "dimercaprol",
+      "B": "penicillamine",
+      "C": "melarsoprol",
+      "D": "deferoxamine"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

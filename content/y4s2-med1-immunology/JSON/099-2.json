@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 62 題",
+    "question": "確定每一個成熟B 細胞只能產生辨識一種抗原決定位抗體的機制為何？",
+    "options": {
+      "A": "對偶基因排除（allelic exclusion）",
+      "B": "親和力成熟（affinity maturation）",
+      "C": "RNA 多樣裁接（alternative splicing）",
+      "D": "類型轉換（class switch）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 63 題",
+    "question": "在胸腺（thymus）中，T 細胞進行負選擇（negative selection）之目的是除去下列那種細胞？",
+    "options": {
+      "A": "T 細胞受器（T cell receptor, TCR）基因重組失敗之T 細胞",
+      "B": "不能辨識自己MHC 分子之T 細胞",
+      "C": "能辨識自己MHC 呈獻自己peptide（self MHC + self peptide）之T 細胞",
+      "D": "能辨識外來MHC 呈獻自己peptide（foreign MHC + self peptide）之T 細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 64 題",
+    "question": "有關第一型與第二型主要組織相容性複合體（MHC class I and class II）的分子之描述，下列何者正確？",
+    "options": {
+      "A": "MHC class I 有較多的多樣性（polymorphism）",
+      "B": "共顯表現來自父母的對偶基因",
+      "C": "MHC class I 可以表現在所有的細胞上",
+      "D": "與抗原蛋白片段結合區均由2 條胜肽鏈組合而成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 65 題",
+    "question": "X-linked hyper IgM syndrome 是由於下列何種分子之缺陷所引起？",
+    "options": {
+      "A": "CD28/B7",
+      "B": "Fas/Fas ligand（FasL）",
+      "C": "CD40/CD40 ligand（CD40L）",
+      "D": "Interferon-γ 受體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 66 題",
+    "question": "有關共生菌與腸道上皮細胞的交互作用，下列敘述何者正確？",
+    "options": {
+      "A": "上皮細胞會分泌TGF-β、PGE2等抗發炎物質來調控共生菌引起的免疫反應",
+      "B": "共生菌主要利用M細胞進入體內，被樹突細胞吞噬後所活化的T細胞較易分化為第一型輔助性T細 胞（TH1）",
+      "C": "上皮細胞會分泌IL-10 幫助B 細胞分泌IgA，來中和共生菌的作用",
+      "D": "腸道上皮細胞完全不表現TLR4 及CD14，所以共生菌的LPS 不會引起發炎反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 67 題",
+    "question": "樹突細胞（dendritic cells）最主要之功能為何？",
+    "options": {
+      "A": "專一性辨識抗原",
+      "B": "呈獻抗原使T 細胞活化",
+      "C": "殺死癌細胞",
+      "D": "直接清除病原菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 68 題",
+    "question": "對抗細菌產生之毒物（toxins），下列那一項防禦機制最為重要？",
+    "options": {
+      "A": "天生免疫力（innate immunity）",
+      "B": "B 細胞活化",
+      "C": "T 細胞作用",
+      "D": "自然殺手（natural killer）細胞反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 69 題",
+    "question": "因應機場或是港口檢疫場所之需，通常都會選用反應時間短、不需要昂貴儀器的檢驗方法。因此下 列利用抗體與抗原反應的方法中，那一項是最佳的選擇？",
+    "options": {
+      "A": "酵素聯結免疫吸著分析法（ELISA）",
+      "B": "免疫層析試紙分析法（immunochromatographic assay）",
+      "C": "免疫沈澱法（immunoprecipitation）",
+      "D": "西方墨點法（Western blotting）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 70 題",
+    "question": "B 細胞於結合抗原之後，因為無法正常傳遞活化訊號，所引起的遺傳疾病X-關聯無珈瑪球蛋白血症 （X-linked agammaglobulinemia syndrome），常是因為那一個基因的缺損所致？",
+    "options": {
+      "A": "Activation-induced cytidine deaminase（AID）",
+      "B": "Bruton’s tyrosine kinase（Btk）",
+      "C": "CD40 ligand（CD40L）",
+      "D": "Recombination-activating gene（RAG）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 71 題",
+    "question": "李女士目前50 餘歲，患有類風濕性關節炎（rheumatoid arthritis）。一直配合醫師規律治療，但目前 李女士體內的類風濕性因子（rheumatoid factor）價數頗高，關節腫脹一直好好壞壞。此類風濕性因 子是下列那一種？",
+    "options": {
+      "A": "抗C3 自體抗體（anti-C3 autoantibody）",
+      "B": "抗C4 自體抗體（anti-C4 autoantibody）",
+      "C": "抗IgA 自體抗體（anti-IgA autoantibody）",
+      "D": "抗IgG 自體抗體（anti-IgG autoantibody）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 72 題",
+    "question": "在黴漿菌感染（mycoplasma infection）之後，有時伴隨出現自體免疫性溶血性貧血（autoimmune  hemolytic anemia），其原因為何？",
+    "options": {
+      "A": "脾臟之高內皮小靜脈細胞（high endothelial venule, HEV）被活化，因而消滅紅血球所引起",
+      "B": "胸腺之中央移除（central deletion）機轉被活化，而消滅紅血球所引起",
+      "C": "引起人類白血球抗原（HLA 抗原）的表現，進而導致紅血球之消滅",
+      "D": "由於黴漿菌抗原與紅血球抗原之分子類似性（molecular mimicry），而導致之自體免疫疾病"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 73 題",
+    "question": "科學家北里柴三郎將破傷風細菌毒素去活性後打到白兔身上產生免疫反應。這些白兔的血清可以打 到猴子身上，保護這些猴子不會受到破傷風的傷害。關於這樣的免疫保護，下列敘述何者正確？",
+    "options": {
+      "A": "白兔和猴子都是主動免疫",
+      "B": "白兔和猴子都是被動免疫",
+      "C": "白兔是主動免疫猴子是被動免疫",
+      "D": "猴子是主動免疫白兔是被動免疫"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 74 題",
+    "question": "下列有關hereditary ataxia-telangiectasia 的情況，何者正確？",
+    "options": {
+      "A": "為X-linked 遺傳",
+      "B": "細胞染色體斷裂於T cell receptor 及immunoglobulin heavy chain 之處，並且有嚴重的T 細胞缺乏",
+      "C": "造成adenosine deaminase deficiency",
+      "D": "亦有MHC II 分子表現之缺陷"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

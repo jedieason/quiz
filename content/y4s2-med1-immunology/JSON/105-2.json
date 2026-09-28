@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 62 題",
+    "question": "當一個B細胞產生的抗體由IgM轉變為IgG時，其機制為：",
+    "options": {
+      "A": "DNA重組（recombination）",
+      "B": "RNA剪接（splicing）",
+      "C": "蛋白質裂解（degradation）",
+      "D": "新的基因表現（expression of a new gene）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 63 題",
+    "question": "T細胞受器多樣化（T cell receptor diversity）之原因很多，但不包含下列那一項？",
+    "options": {
+      "A": "V(D)J基因片段連接[V(D)J gene segments joining]",
+      "B": "N-核苷酸添加（N-nucleotides addition）",
+      "C": "P-核苷酸添加（P-nucleotides addition）",
+      "D": "體細胞超突變（somatic hypermutation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 64 題",
+    "question": "下列何種情形下，抗原呈現細胞可以直接活化$CD8^+$ T細胞？",
+    "options": {
+      "A": "當抗原呈現細胞表現高量MHC class I時",
+      "B": "當樹突細胞表現高量B7與4-1BBL時",
+      "C": "當抗原呈現細胞分泌高量IFN-γ時",
+      "D": "當病毒不能感染抗原呈現細胞時"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 65 題",
+    "question": "下列有關Crohn's disease的敘述何者錯誤？",
+    "options": {
+      "A": "病人體內對腸內共生菌有強烈發炎反應",
+      "B": "為第一型輔助性T細胞（TH1）主導的發炎疾病",
+      "C": "使用廣泛性抗生素可治療這種疾病",
+      "D": "可能與HLA-DQ2分子功能異常有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 66 題",
+    "question": "下列何者為減毒性活菌疫苗？",
+    "options": {
+      "A": "沙克疫苗（小兒麻痺注射疫苗）",
+      "B": "流行性感冒疫苗",
+      "C": "卡介苗（肺結核疫苗）",
+      "D": "破傷風疫苗"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 67 題",
+    "question": "會感染人體的致病性微生物種類繁多，但是只有少數被證明與癌症致病機轉有關。下列那一種細胞內感染的微生物有較強的證 據會引起人類的癌症？",
+    "options": {
+      "A": "腸病毒七十一型",
+      "B": "EB病毒（Epstein-Barr virus）",
+      "C": "鏈球菌",
+      "D": "結核分支桿菌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 68 題",
+    "question": "茂伯騎機車擦傷後，傷口一年多還不癒合而演變成骨髓炎，細菌培養長出非典型分支桿菌。追溯過去病史，他從少年開始就易 受沙門氏菌等長期感染，他最可能罹患那一種類型的原發性免疫缺損？",
+    "options": {
+      "A": "$CD8^+$ 細胞功能的缺損",
+      "B": "IL-12-IFNγ軸心缺損",
+      "C": "NK細胞功能的缺損",
+      "D": "TH2 型免疫反應的缺損"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 69 題",
+    "question": "下列那一項疾病的發病機轉與第一型過敏反應最相關？",
+    "options": {
+      "A": "過敏性氣喘（allergic asthma）",
+      "B": "阿瑟氏反應（Arthus reaction）",
+      "C": "溶血性貧血（hemolytic anemia）",
+      "D": "血清病（serum sickness）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 70 題",
+    "question": "免疫反應攻擊自體組織細胞會產生免疫疾病。依照Coombs和Gell對免疫疾病的分類，下列那一項免疫反應該歸類為第一型的 過敏反應（hypersensitivity）？",
+    "options": {
+      "A": "全身性紅斑狼瘡的國中女生發生溶血性貧血",
+      "B": "十歲男童發現抗血小板抗體引起的牙齦流血傾向",
+      "C": "皮下注射過敏原三日後引起皮膚產生硬塊並發熱",
+      "D": "吸入風媒花花粉後馬上發生鼻塞和流眼淚"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 71 題",
+    "question": "許多新的生物製劑及擬人化的單株抗體已經被發展出來，以治療自體免疫病，但不包括下列那一項？",
+    "options": {
+      "A": "抗Btk tyrosine kinase抗體（Btk tyrosine kinase monoclonal antibody）治療紅斑性狼瘡（systemic lupus erythematsus）",
+      "B": "CTLA4免疫蛋白複合蛋白質（CTLA4-immunoglobulin fusion protein）治療類風濕性關節炎（rheumatoid arthritis）",
+      "C": "抗腫瘤壞死因子抗體（TNF-specific monoclonal antibody）治療類風濕性關節炎（rheumatoid arthritis）",
+      "D": "抗α4：β1 integrin抗體（α4：β1 integrin-specific monoclonal antibody）治療發炎性腸道疾病（inflammatory bowel disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 72 題",
+    "question": "Heat-shock proteins可被用來促進實驗性腫瘤疫苗（tumor vaccine）的作用，其機轉為何？",
+    "options": {
+      "A": "幫助抗原呈獻細胞（antigen-presenting cell）的增生",
+      "B": "促進抗原呈獻細胞（antigen-presenting cell）的co-stimulating molecules的表現",
+      "C": "幫助tumor antigen在MHC（major histocompatibility complex）class I分子的呈現",
+      "D": "幫助抗原呈獻細胞（antigen-presenting cell）對腫瘤細胞的耐受性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 73 題",
+    "question": "腫瘤細胞在身體內存在並壯大的能力至為驚人，它有許多種方式逃避身體免疫系統的偵查及消滅，而得以繼續長大，這些方式 並不包括下列那一項？",
+    "options": {
+      "A": "引起調節型T（Treg）細胞的增加，進而引起免疫反應之轉向",
+      "B": "腫瘤細胞不表現或只有極低的胜肽：人類白血球抗原（peptide：MHC）表現",
+      "C": "引起延遲性過敏反應（late phase allergic reaction）而形成腫塊長大",
+      "D": "腫瘤抗原雖經抗原呈現細胞（APC）表現給T細胞，但會使T細胞對此抗原不反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 74 題",
+    "question": "下課時兩個小學生互相拿著筆比劃玩耍，一不小心跌倒在一起，其中一位的筆戳到另一位的眼睛，刺入眼中造成傷口，為何傷 者住院後卻出現雙眼同時腫脹，連未受傷眼睛也有炎症情況？",
+    "options": {
+      "A": "醫療失誤之後感染造成",
+      "B": "眼睛是免疫特殊部位（immunologically privileged sites），組織破裂，釋放傷害因子，進而影響到另一未受傷眼睛",
+      "C": "眼睛是免疫特殊部位，組織破裂釋出本身抗原時，引起免疫反應，進行攻擊破壞另一未受傷眼睛（sympathetic ophthalmia）",
+      "D": "受傷眼睛內產生調節型T淋巴球（Treg cells），將免疫反應導向另一未受傷眼睛"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

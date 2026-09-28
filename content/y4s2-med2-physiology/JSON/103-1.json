@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 1 題",
+    "question": "有關細胞週期（cell cycle）之敘述，下列何者正確？",
+    "options": {
+      "A": "依序可分為M 期、G1 期、G2 期、S 期，再回到M 期",
+      "B": "可受到各種MAP kinase（mitogen-activated protein kinase）調控",
+      "C": "被細胞外之生長因子（growth factor）所抑制",
+      "D": "只要細胞存活，細胞週期就會不斷進行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 2 題",
+    "question": "光線照射視網膜的感光受器（photoreceptor）會使其發生過極化，而減少何種傳導物質之釋放，進而 抑制雙極細胞（bipolar cell）？",
+    "options": {
+      "A": "γ-aminobutyric acid（GABA）",
+      "B": "glutamate",
+      "C": "glycine",
+      "D": "melatonin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 3 題",
+    "question": "下列何處損傷最可能導致病人有異常高的肌肉張力（hypertonia）？",
+    "options": {
+      "A": "α motor neurons",
+      "B": "γ motor neurons",
+      "C": "upper motor neurons",
+      "D": "skeletal muscles"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 4 題",
+    "question": "因長期帶耳機聽高音量的重低音搖滾樂，造成聽力受損。其最有可能受損的耳蝸神經位於何處？",
+    "options": {
+      "A": "靠近oval window 的basilar membrane",
+      "B": "靠近oval window 的tectorial membrane",
+      "C": "靠近耳蝸尾端處的basilar membrane",
+      "D": "靠近耳蝸尾端處的tectorial membrane"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 5 題",
+    "question": "引起轉移痛（referred pain）的主要機轉為何？",
+    "options": {
+      "A": "腦部神經的重整現象（reorganization）",
+      "B": "肢體的支配神經受損",
+      "C": "源於幻覺而非神經性疼痛",
+      "D": "病灶的器官與表體疼痛部位具有相同支配的神經節"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 6 題",
+    "question": "關於誤食有機磷（organophosphate）中毒，引起肌肉麻痺的原因，下列何者正確？",
+    "options": {
+      "A": "有機磷占據骨骼肌終板上之acetylcholine receptors",
+      "B": "運動神經無法產生動作電位",
+      "C": "運動神經無法釋放acetylcholine",
+      "D": "運動神經釋放之acetylcholine 無法被水解清除"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 7 題",
+    "question": "慣用右手之患者突然右半身體無法動彈（hemiplegia），且無法清楚說話，但能以左手手勢正確回應 醫生提出之問題。經診斷為腦部血管阻塞性中風。下列何處損傷可以合理解釋該患者之症狀？",
+    "options": {
+      "A": "左半腦含Broca’s area",
+      "B": "左半腦含Wernicke’s area",
+      "C": "右半腦含Broca’s area",
+      "D": "右半腦含Wernicke’s area"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 8 題",
+    "question": "下列何者，與心肌細胞不具有強直性收縮（tetanic contraction）的特質最有關？",
+    "options": {
+      "A": "L-type 鈣離子通道（$Ca^{2+}$ channel）",
+      "B": "ATP-sensitive 鉀離子通道（$K^+$ channel）",
+      "C": "dihydropyridine receptor",
+      "D": "ryanodine receptor"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 9 題",
+    "question": "下列何者參與外生性凝血因子的活化路徑？",
+    "options": {
+      "A": "第7 因子",
+      "B": "第5 因子",
+      "C": "第12 因子",
+      "D": "第11 因子"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 10 題",
+    "question": "在心動週期中，主動脈瓣膜的關閉，發生於下列那一階段？",
+    "options": {
+      "A": "等體積心室收縮期（isovolumetric contraction）",
+      "B": "等體積心室舒張期（isovolumetric relaxation）",
+      "C": "心室快速充血期（rapid filling）",
+      "D": "心室快速射血期（rapid ejection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 11 題",
+    "question": "收縮壓（systolic pressure）為148 mmHg、舒張壓（diastolic pressure）為82 mmHg，其平均動脈壓 （mean arterial blood pressure）為多少mmHg？",
+    "options": {
+      "A": "66",
+      "B": "104",
+      "C": "115",
+      "D": "133"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 12 題",
+    "question": "下列有關血管的敘述，何者錯誤？",
+    "options": {
+      "A": "靜脈比動脈有較大的順應性（compliance）",
+      "B": "主動脈及其他大動脈可藉由管壁的伸展性，產生壓力暫存（pressure reservoir）的作用",
+      "C": "小動脈（arteriole）的血流阻力是可以改變的",
+      "D": "全身血液量最主要分布在各微血管床"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 13 題",
+    "question": "下列何者能刺激血管收縮？",
+    "options": {
+      "A": "心房利鈉胜肽（atrial natriuretic peptide）",
+      "B": "前列環素（prostacyclin）",
+      "C": "一氧化氮（nitric oxide）",
+      "D": "內皮素-1（endothelin-1）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 14 題",
+    "question": "下列何種情況下，左心室心輸出量（cardiac output）會減少？",
+    "options": {
+      "A": "吃飯",
+      "B": "運動",
+      "C": "氣溫升高",
+      "D": "從平躺站立起來"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 15 題",
+    "question": "下列何者為限制性肺部疾病（restrictive lung diseases）之最主要特徵？",
+    "options": {
+      "A": "肺順應性（lung compliance）減少",
+      "B": "呼吸道阻力（airway resistance）增加",
+      "C": "功能性肺餘容量（functional residual capacity）增加",
+      "D": "第一秒用力呼氣容積／用力肺活量（FEV1/FVC）＜80%"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 16 題",
+    "question": "一氧化碳中毒病人可能會出現那些變化？①體循環動脈血氧飽和度（arterial hemoglobin oxygen  saturation）下降 ②血液中乳酸（lactic acid）上升 ③體循環血液總含氧量（oxygen content of systemic  arterial blood）下降 ④氧氣與血紅素解離曲線（oxygen-hemoglobin dissociation curve）往右移",
+    "options": {
+      "A": "①③④",
+      "B": "①②③",
+      "C": "僅①③",
+      "D": "僅③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 17 題",
+    "question": "下列何者以次級主動運輸方式吸收進入小腸上皮細胞？",
+    "options": {
+      "A": "胺基酸",
+      "B": "膽固醇",
+      "C": "鈣",
+      "D": "果糖"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 18 題",
+    "question": "下列引起黃疸（jaundice）的病因中，何者為膽紅素（bilirubin）產生過多、超出正常肝臟內所能接合 （conjugation）的能力範圍？",
+    "options": {
+      "A": "急性肝炎",
+      "B": "溶血性疾病",
+      "C": "總膽管結石",
+      "D": "胰臟頭部癌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 19 題",
+    "question": "若某物質X 可被濾出，其血漿中的濃度與腎絲球過濾率（glomerular filtration rate）的乘積大於尿中 濃度與每分鐘尿量的乘積，則下列何者為腎小管對此物質的作用？",
+    "options": {
+      "A": "重吸收作用大於分泌作用",
+      "B": "幾乎不進行重吸收作用",
+      "C": "重吸收作用等於分泌作用",
+      "D": "分泌作用大於重吸收作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 20 題",
+    "question": "一位3 歲女童自嬰兒期開始有多喝多尿的症狀。尿液檢測發現尿滲透度（urinary osmolality）數值低 於150 mOsm/kg、尿中之鈉離子濃度低於正常，該童之尿滲透度無法以限水或給予抗利尿激素的方 式提高數值，下列何者是最可能之診斷？",
+    "options": {
+      "A": "中樞性尿崩症（central diabetes insipidus）",
+      "B": "腎因性尿崩症（nephrogenic diabetes insipidus）",
+      "C": "慢性腎盂腎炎（chronic pyelonephritis）",
+      "D": "心因性尿崩症（psychogenic diabetes insipidus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 21 題",
+    "question": "下列何者在下視丘分泌減少時會引起泌乳激素（prolactin）分泌增加？",
+    "options": {
+      "A": "乙醯膽鹼（acetylcholine）",
+      "B": "腎上腺素（epinephrine）",
+      "C": "多巴胺（dopamine）",
+      "D": "血清素（serotonin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 22 題",
+    "question": "42 歲男性因高血鈣入院接受副甲狀腺瘤切除手術，術後出現低血鈣的現象，其最主要原因可能為下 列何者？",
+    "options": {
+      "A": "因尿中鈣質排放量遽增導致鈣質流失",
+      "B": "因腸胃道鈣質排放增加導致鈣質流失",
+      "C": "鈣質沉積於骨中增加，導致血鈣急遽下降",
+      "D": "因手術中誘發的stress 導致的激素變化所致"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 23 題",
+    "question": "下列何者負責接受鈣離子訊息，進而啟動骨骼肌細胞收縮？  myosin",
+    "options": {
+      "A": "myosin",
+      "B": "actin",
+      "C": "tropomyosin",
+      "D": "troponin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 24 題",
+    "question": "有關副甲狀腺的敘述，下列何者正確？",
+    "options": {
+      "A": "胚胎來源全來自第三咽弓",
+      "B": "共有兩個腺體左右對稱",
+      "C": "位於甲狀腺的表面",
+      "D": "分泌的激素主要為降鈣素（calcitonin）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 25 題",
+    "question": "有關婦女懷孕的敘述，下列何者錯誤？",
+    "options": {
+      "A": "若懷孕6 週後切除卵巢，並不會影響其懷孕的進程",
+      "B": "婦女懷孕時，月經週期會被抑制，主要是因為血中動情素大量增加所致",
+      "C": "人類絨毛膜性腺激素（human chorionic gonadotropin）是由絨毛組織中滋養葉融合層細胞 （syncytiotrophoblast）所製造分泌",
+      "D": "懷孕時胎兒腎上腺類皮質素（adrenal corticoid）的合成，需要胎盤協助合成其中間產物"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  }
+]

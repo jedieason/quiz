@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 26 題",
+    "question": "65 歲肥胖的張先生最近常有左胸痛之現象。於某星期天早晨，張先生醒來後，忽然有激烈左胸痛， 且疼痛有轉移至左臂之現象，並有呼吸急促，喘不過氣之情形。張先生最需要檢測的血液檢查為何？",
+    "options": {
+      "A": "乳酸脫氫酶（lactate dehydrogenase）",
+      "B": "肌酸磷激酶-MM（creatine kinase-MM）",
+      "C": "肌肉結構蛋白-I（troponin-I）",
+      "D": "肌紅素（myoglobin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 27 題",
+    "question": "一位老太太冬天在浴室中洗澡過久且門窗緊閉，以致瓦斯中毒，並送往急診室急救。請問該中毒現 象，主要是一氧化碳（CO）直接影響下列何種蛋白之功能？",
+    "options": {
+      "A": "細胞色素C（cytochrome c）",
+      "B": "血紅素（hemoglobin）",
+      "C": "肌紅素（myoglobin）",
+      "D": "白蛋白（albumin）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 28 題",
+    "question": "甲君在激烈運動後立刻飲下一瓶高粱酒，且未進食，下列有關其體內醣類代謝之敘述何者錯誤？",
+    "options": {
+      "A": "可能會造成低血糖（hypoglycemia）",
+      "B": "酒精代謝會消耗NAD+",
+      "C": "造成肝醣分解（glycogenolysis）減少",
+      "D": "造成糖質新生作用（gluconeogenesis）減少"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 29 題",
+    "question": "mRNA 的前驅物是必須經由下列何項來剪接掉其intron？",
+    "options": {
+      "A": "是自己剪接不靠其它因子",
+      "B": "由spliceosome 來執行",
+      "C": "由RNA polymerase 來控制",
+      "D": "由RNA helicase 來控制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 30 題",
+    "question": "醫師為一位過重的糖尿病患開立1500 Kcal 飲食，下列營養師所列之處方何者較接近？",
+    "options": {
+      "A": "210 公克碳水化合物、60 公克脂肪、100 公克蛋白質",
+      "B": "190 公克碳水化合物、50 公克脂肪、75 公克蛋白質",
+      "C": "250 公克碳水化合物、70 公克脂肪、90 公克蛋白質、6 公克NaCl",
+      "D": "300 公克碳水化合物、80 公克脂肪、75 公克蛋白質、8 公克綜合維他命丸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 31 題",
+    "question": "細胞中基因轉錄（transcription）負責各種不同基因的表達。在轉錄的過程中，不需要下列那一項目？",
+    "options": {
+      "A": "核糖核酸聚合酶（RNA polymerase）",
+      "B": "啟動子（promoter）",
+      "C": "去氧核糖核酸聚合酶（DNA polymerase）",
+      "D": "促進子（enhancer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 32 題",
+    "question": "癌症細胞常有過度分裂繁殖之現象。治療癌症之藥物也常針對此特性。下列何種藥物可以抑制 thymidylate synthase？",
+    "options": {
+      "A": "methotrexate",
+      "B": "5-FU（5-fluorouracil）",
+      "C": "cyclophosphamide",
+      "D": "vinca alkaloids（vincristine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 33 題",
+    "question": "下列有關蛋白質激酶C（protein kinase C）的敘述，何者正確？",
+    "options": {
+      "A": "可在細胞膜上被二醯甘油（diacylglycerol）活化",
+      "B": "可對二醯甘油進行磷酸化",
+      "C": "可活化p53 抑癌基因",
+      "D": "可被cylic AMP 活化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 34 題",
+    "question": "核小體（nucleosome）為染色質（chromatin）的基本單元，其組成是由四種不同的組織蛋白（histone） 構成核心（core）以供DNA 環繞其上，在DNA 進出核心組織蛋白處，由一特定的組織蛋白所連接， 請指出該連接蛋白（linker protein）的名稱為何？",
+    "options": {
+      "A": "H1 組織蛋白",
+      "B": "H2AB 組織蛋白",
+      "C": "H3 組織蛋白",
+      "D": "H4 組織蛋白"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 35 題",
+    "question": "α酮戊二酸脫氫酶（α-ketoglutarate dehydrogenase）為檸檬酸循環（citric acid cycle）調控酵素（ regulatory enzyme）之一，其酵素活性可受到下列何物之抑制？",
+    "options": {
+      "A": "AMP",
+      "B": "ADP",
+      "C": "NAD+",
+      "D": "琥珀醯輔酶A（succinyl-CoA）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 36 題",
+    "question": "在糖解作用（glycolysis）中，下列那個酵素所催化的反應中，可直接生成ATP？",
+    "options": {
+      "A": "磷酸甘油酸變位酶（phosphoglycerate mutase）",
+      "B": "磷酸甘油酸激酶（phosphoglycerate kinase）",
+      "C": "烯醇化酶（enolase）",
+      "D": "磷酸果糖激酶（phosphofructokinase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 37 題",
+    "question": "下列何者為2,4-dinitrophenol 抑制呼吸鏈（respiratory chain）之機制？",
+    "options": {
+      "A": "抑制ATP-ADP 交換（exchange）",
+      "B": "磷酸化反應與電子傳遞的解偶聯（uncoupling）",
+      "C": "抑制ATP synthase 活性",
+      "D": "抑制電子的傳遞（electron transfer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 38 題",
+    "question": "一分子acetyl CoA 氧化生成二氧化碳和水共產生多少分子的ATP（包括GTP 在內）？［假設一對電 子進入呼吸鏈在NADH-Q reductase（Complex I），cytochrome reductase（Complex III），cytochrome  oxidase（Complex IV）分別可產生1、0.5、1 個ATP］",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 39 題",
+    "question": "下列那個輔酶（coenzyme）可輔助轉胺酶（aminotransferase）進行胺基（amino group）之傳遞反應？",
+    "options": {
+      "A": "NAD+",
+      "B": "FAD",
+      "C": "磷酸吡哆醛（pyridoxal phosphate）",
+      "D": "硫胺素焦磷酸（thiamine pyrophosphate）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 40 題",
+    "question": "胰凝乳蛋白酶原（chymotrypsinogen）如何轉換形成胰凝乳蛋白酶（chymotrypsin）？",
+    "options": {
+      "A": "由一蛋白激酶（protein kinase）將胰凝乳蛋白酶原作磷酸化（phosphorylation），而生成胰凝乳蛋 白酶",
+      "B": "胰凝乳蛋白酶原與cAMP 結合，而形成胰凝乳蛋白酶",
+      "C": "胰凝乳蛋白酶原與鈣離子結合，而形成胰凝乳蛋白酶",
+      "D": "胰凝乳蛋白酶原經由蛋白水解（proteolysis），而生成胰凝乳蛋白酶"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 41 題",
+    "question": "α-胺基酸中的胺基（-NH2）與羧基（-COOH），其pKa 值分別為10 和2，當pH 接近中性時， 胺基會接受一個質子（proton），而羧基則失去一個質子，這種狀態或現象稱為：",
+    "options": {
+      "A": "異構現象（isomerization）",
+      "B": "中和現象（neutralization）",
+      "C": "兩性離子（zwitterions）",
+      "D": "立體異構現象（stereoisomerization）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 42 題",
+    "question": "在DNA 上不常見的5'-methyl cytosine 被去胺基後（deamination），可見在複製後出現何種突變？",
+    "options": {
+      "A": "CG to TA",
+      "B": "CG to GC",
+      "C": "CG to AT",
+      "D": "G 被去除掉"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 43 題",
+    "question": "在試管中進行polymerase chain reaction（PCR）合成DNA，需要：",
+    "options": {
+      "A": "DNA 模板（template），引子（primer），DNA 聚合酶（polymerase）",
+      "B": "DNA 模板（template），DNA 解旋酸（helicase），DNA 聚合酶（polymerase）",
+      "C": "引導體（primosome），引子（primer），DNA 聚合酶（polymerase）",
+      "D": "複製叉（replication fork），引子（primer），DNA 聚合酶（polymerase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 44 題",
+    "question": "如果一細胞無法合成或獲得葉酸（folic acid），則此細胞將無法合成下列那種胺基酸？",
+    "options": {
+      "A": "isoleucine",
+      "B": "leucine",
+      "C": "lysine",
+      "D": "methionine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 45 題",
+    "question": "Serotonin 是由那一個胺基酸衍生合成？",
+    "options": {
+      "A": "tyrosine",
+      "B": "tryptophan",
+      "C": "arginine",
+      "D": "lysine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 46 題",
+    "question": "酮體（ketone bodies）不包括下列何者？",
+    "options": {
+      "A": "acetobutyrate",
+      "B": "3-hydroxybutyrate",
+      "C": "acetone",
+      "D": "acetoacetate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 47 題",
+    "question": "下列何者位於粒線體的外膜（outer mitochondrial membrane）？",
+    "options": {
+      "A": "acyl CoA synthetase",
+      "B": "cytochrome c",
+      "C": "nucleotide kinase",
+      "D": "glycerol 3-phosphate dehydrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 48 題",
+    "question": "中樞神經細胞中荷爾蒙或neurotransmitters 作用時可透過phosphatidylinositol（PI）-based signal  transduction system。躁鬱症治療常用的鋰鹽（lithium）被認為可降低PI system 之運作，使神經細胞 對neurotransmitters 刺激較不敏感，因而達到療效。下列關於PI system 之敘述何者錯誤？",
+    "options": {
+      "A": "PI system 的啟動牽涉到phospholipase C 的活化",
+      "B": "IP3 的形成必須藉由一phosphatase 作用",
+      "C": "PI system 啟動後細胞質內鈣離子濃度上升",
+      "D": "PI system 啟動造成diacylglycerol（DAG）的釋出"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 49 題",
+    "question": "E. coli 修護DNA 複製產生之錯配（mismatch），須靠辨識母股（parental strand）上的何種修飾？",
+    "options": {
+      "A": "adenine 甲基化",
+      "B": "guanine 甲基化",
+      "C": "cytosine 甲基化",
+      "D": "thymine 甲基化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 50 題",
+    "question": "5'-AAGAAGAAGAAGAAGAAGAAG3'---為一合成的RNA，以此為模板而進行在試管中的轉譯實驗， 請問預期可產生幾種的胜肽種類？",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]

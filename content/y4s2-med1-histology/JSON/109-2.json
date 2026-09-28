@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 37 題",
+    "question": "在骨骼肌（skeletal muscle）中，每一個肌肉細胞（muscle cell）又稱為：",
+    "options": {
+      "A": "肌原纖維（myofibril）",
+      "B": "肌纖維（muscle fiber）",
+      "C": "肌絲（myofilament）",
+      "D": "肌束（muscle fascicle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 38 題",
+    "question": "下列何者不是平滑肌細胞（smooth muscle cell）的特徵？",
+    "options": {
+      "A": "緻密體（dense body）",
+      "B": "細胞膜小凹（caveolae）",
+      "C": "細胞核會隨著細胞收縮而改變形狀",
+      "D": "多核"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 39 題",
+    "question": "在正常情形下，下列有關人類血液（blood）之敘述，何者正確？",
+    "options": {
+      "A": "巨核細胞／紅血球前驅細胞（megakaryocyte/erythrocyte progenitor, MEP）是血小板（platelet）和紅血球 （erythrocyte）的共同前驅細胞",
+      "B": "紅血球（erythrocyte）在血液中的含量是最少的，其平均直徑約10～12 μm，壽命大約180天",
+      "C": "白血球（white blood cell）分為許多種類，其中數目最少的是嗜酸性球（eosinophil）",
+      "D": "血小板內有細胞核（nucleus）與許多顆粒（granule），能協助血塊（blood clot）的形成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 40 題",
+    "question": "下列有關血–腦屏障（blood-brain barrier）的敘述，何者錯誤？",
+    "options": {
+      "A": "其組成主要包括星狀膠細胞（astrocyte）與連續型微血管",
+      "B": "微血管的內皮細胞之間具有緊密接合（tight junction）",
+      "C": "大腦（cerebrum）是唯一具有血–腦屏障的腦部組織",
+      "D": "正常功能的星狀膠細胞（astrocyte）有助於血–腦屏障的維持"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 41 題",
+    "question": "下列有關淋巴系統（lymphatic system）的敘述，何者錯誤？",
+    "options": {
+      "A": "淋巴管以盲管狀的淋巴微管（blind-ended lymphatic capillary）為起始端",
+      "B": "淋巴微管（lymphatic capillary）的通透性（permeability）大於一般微血管（blood capillary）",
+      "C": "淋巴微管（lymphatic capillary）主要由內皮細胞（endothelial cell）構成",
+      "D": "淋巴微管（lymphatic capillary）具有完整的基底膜（basal lamina）和瓣膜（valve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 42 題",
+    "question": "在十二指腸（duodenum）和胃（stomach）的交接處，可觀察到下列何項構造？",
+    "options": {
+      "A": "十二指腸有表面黏膜細胞（surface mucous cell）",
+      "B": "胃有布魯納氏腺（Brunner's gland）",
+      "C": "十二指腸有不連續的黏膜肌層（discontinuous layer of muscularis mucosae）",
+      "D": "胃肌外層有顯著加厚的縱走肌（longitudinal layer of muscularis externa）作為括約肌（sphincter）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 43 題",
+    "question": "下列何者位於肌外層（muscularis externa）調節腸蠕動（peristalsis）？",
+    "options": {
+      "A": "梅斯納氏小體（Meissner's corpuscle）",
+      "B": "梅斯納氏神經叢（Meissner's plexus）",
+      "C": "歐巴氏神經叢（Auerbach's plexus）",
+      "D": "蒲金氏纖維（Purkinje fiber）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 44 題",
+    "question": "下列那一構造位於腎髓質（renal medulla）？",
+    "options": {
+      "A": "遠曲小管（distal convoluted tubule）",
+      "B": "緻密斑（macula densa）",
+      "C": "亨利氏環的細段（thin limb of loop of Henle）",
+      "D": "腎小體（renal corpuscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 45 題",
+    "question": "關於男性陰莖（penis）結構的敘述，何者正確？",
+    "options": {
+      "A": "由疏鬆結締組織的白膜（tunica albuginea）包覆陰莖海綿體（corpora cavernosa）",
+      "B": "陰莖海綿體（corpora cavernosa）中具有許多不規則的血管腔，血管腔外圍有平滑肌束（smooth muscle bundle）",
+      "C": "血管組成都是由小動脈（arteriole）至微血管（capillary）後，再連接小靜脈（venule）",
+      "D": "陰莖龜頭（glans penis）的皮下組織含有豐富的脂肪組織"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 46 題",
+    "question": "下列關於睪丸支持細胞（Sertoli cell）的敘述，何者正確？",
+    "options": {
+      "A": "在青春期之後具有複製能力",
+      "B": "主要藉由黏連接合（adherens junction）形成睪丸支持細胞間接合複合體（Sertoli cell-to-Sertoli cell junctional complex）",
+      "C": "可形成血睪障壁（blood-testis barrier）",
+      "D": "僅具有外分泌（exocrine）功能"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

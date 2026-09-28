@@ -1,0 +1,334 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 47 題",
+    "question": "就低溫下幫助維持細胞膜的流動性（membrane fluidity）而言，下列何種化學物質最為重要？",
+    "options": {
+      "A": "飽和脂肪酸",
+      "B": "膽固醇",
+      "C": "穿膜蛋白",
+      "D": "周圍膜蛋白"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 48 題",
+    "question": "下列何者最不可能造成視野缺失（scotoma）？",
+    "options": {
+      "A": "散光（astigmatism）",
+      "B": "斜視（strabismus）",
+      "C": "黃斑部退化（macular degeneration）",
+      "D": "左側側膝核附近發生缺血缺氧中風（ischemic, hypoxic stroke around left lateral geniculate nucleus, LGN）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 49 題",
+    "question": "下列有關耳蝸構造及功能的描述，何者最不適當？",
+    "options": {
+      "A": "內毛細胞數量通常較外毛細胞少，卻主要負責聽覺刺激的分析，外毛細胞則和在背景噪音下刻意傾聽特定聲 音訊息有關",
+      "B": "scala media內的液體是內淋巴液，鉀離子的濃度遠比鈉離子為高",
+      "C": "越接近卵圓窗和圓形窗的basilar membrane越狹窄，負責越高頻聲音的登錄（encoding）",
+      "D": "耳蝸尖細的一端有一個孔道，使內淋巴液得以在scala vestibuli和scala tympani兩腔中相通"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 50 題",
+    "question": "Enteric nervous system應視為自主神經的一支，其和消化道運動控制較相關的次系統是下列何項？",
+    "options": {
+      "A": "choroid plexus",
+      "B": "submucosal plexus",
+      "C": "brachial plexus",
+      "D": "myenteric plexus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 51 題",
+    "question": "下列有關腦電圖（EEG）的敘述，何者最不適當？",
+    "options": {
+      "A": "參照電極及紀錄電極可置放於頭皮上方",
+      "B": "紀錄電極所量測到的電位（或電壓）改變強度（波的振幅），一般是在微伏特（microV）的尺度範圍",
+      "C": "警醒或專心從事思考時，在頂葉或枕葉的紀錄電極常會呈現出頻率極低（＜2 Hz）的波形",
+      "D": "紀錄電極可反映出電極下方附近，大腦皮質部位神經元之細胞外的淨電流活動"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 52 題",
+    "question": "促使睡眠開始及維持睡眠的關鍵之一是下視丘preoptic area的神經活動。下列對preoptic area的描述，何者最為 適當？",
+    "options": {
+      "A": "其神經活動與體溫調節及性腺荷爾蒙之分泌有關",
+      "B": "其神經元多分泌orexin做為efferent fibers聯外用的化學物質",
+      "C": "其神經活動在睡眠開始後會變得低下，且遠低於意識清醒時",
+      "D": "其神經活動和reticular activating system中神經元的活動會有互相增強（reciprocal facilitation）的現象"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 53 題",
+    "question": "不考慮離子之主動運輸等情況之一般生理離子條件下，若神經細胞在靜止膜電位為 -60 mV時，鈉離子與鉀離 子的被動運輸之主要動態會是：",
+    "options": {
+      "A": "鈉、鉀離子會漏進細胞",
+      "B": "鈉、鉀離子會漏出細胞",
+      "C": "鈉離子漏出細胞，鉀離子漏進細胞",
+      "D": "鉀離子漏出細胞，鈉離子漏進細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 54 題",
+    "question": "單胺氧化酶抑制劑（monoamine oxidase inhibitors）類藥物，會增加下列何種神經傳導物質的含量？",
+    "options": {
+      "A": "乙醯膽鹼（acetylcholine）",
+      "B": "麩胺酸（glutamate）",
+      "C": "甘胺酸（glycine）",
+      "D": "正腎上腺素（norepinephrine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 55 題",
+    "question": "下列有關負重（load）與等張單次收縮（isotonic twitch contraction）之間關係的敘述，何者錯誤？",
+    "options": {
+      "A": "負重越重時，收縮潛伏期（latent period）會越長",
+      "B": "負重越重時，收縮速度（shortening velocity）會越慢",
+      "C": "負重越重時，收縮期間（twitch duration）會越長",
+      "D": "負重越重時，收縮時需要產生的張力就要越大"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 56 題",
+    "question": "為一位患者進行抗凝血治療，下列何者最不予考慮？",
+    "options": {
+      "A": "aspirin",
+      "B": "vitamin K",
+      "C": "prostacyclin",
+      "D": "heparin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 57 題",
+    "question": "有關心電圖中各個波形與波間距離所代表的生理現象，下列何者錯誤？",
+    "options": {
+      "A": "P波反映心房再極化",
+      "B": "T波反映心室再極化",
+      "C": "QRS complex對應於心室動作電位之初生期",
+      "D": "ST interval對應於心室動作電位之高原期（plateau）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 58 題",
+    "question": "有關主動脈瓣之關閉（aortic valve closure）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主動脈瓣之關閉產生第二心音",
+      "B": "心室等容舒張期（isovolumic ventricular relaxation）開始於主動脈瓣之關閉",
+      "C": "主動脈瓣之關閉結束了心室射血期（ventricular ejection）",
+      "D": "主動脈瓣關閉之瞬間是主動脈壓最高的時刻"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 59 題",
+    "question": "某人參加考試時，因心情緊張導致血壓微幅升高，引起頸動脈竇與主動脈弓感壓接受器放電速率增加，此時 體內循環系統為維持恆定，會產生一連串接續反應過程將血壓朝向正常值回復，該過程中最不可能者為下列 何項？",
+    "options": {
+      "A": "投射到靜脈的交感神經活性減少，導致靜脈收縮減弱，降低靜脈壓，減少靜脈回流",
+      "B": "投射到微動脈的交感神經活性減少，微動脈半徑縮小，減少周邊總阻力",
+      "C": "投射到心臟的副交感神經活性增加，使心跳速率減緩，減少心臟輸出",
+      "D": "投射到心臟的交感神經活性減少，使心室心肌細胞收縮力降低，減少心搏量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 60 題",
+    "question": "某受試者，其氧氣消耗量為每分鐘600毫升（mL/min），肺動脈血氧濃度為每公升140毫升，肱動脈（brachial artery）血氧濃度為每公升200毫升，則此受試者的心輸出量（cardiac output）為多少L/min？",
+    "options": {
+      "A": "4.2",
+      "B": "10",
+      "C": "30",
+      "D": "34.2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 61 題",
+    "question": "健康者站立，在其肺容量等於功能肺餘容量（functional residual capacity）時開始吸氣（inspiration），此時吸 入的氣體最容易進入下列何區域的肺泡（alveolus）？",
+    "options": {
+      "A": "肺底（base）處",
+      "B": "肺中段",
+      "C": "肺尖（apex）處",
+      "D": "平均分布於肺臟各處"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 62 題",
+    "question": "在正常生理情況下，比較周邊組織微血管（tissue capillary）與肺泡微血管（pulmonary capillary）兩處的紅血 球（erythrocyte），下列敘述何者正確？",
+    "options": {
+      "A": "肺泡微血管內的紅血球，其細胞膜電位（cell membrane potential）更加去極化（depolarization）",
+      "B": "肺泡微血管內的紅血球，其細胞內碳酸氫根離子濃度（[HCO3 -]）比較高",
+      "C": "周邊組織微血管內的紅血球，其細胞內氯離子濃度（[$Cl^-$]）比較低",
+      "D": "周邊組織微血管內的紅血球，其細胞內pH值比較高"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 63 題",
+    "question": "下列關於胃泌素（gastrin）的敘述，何者正確？",
+    "options": {
+      "A": "主要製造的器官是小腸（small intestine），以促進胃酸分泌",
+      "B": "主要透過抑制Gi蛋白產生作用，以抑制胃酸分泌",
+      "C": "主要作用於主細胞（chief cell），以抑制胃酸分泌",
+      "D": "主要作用於細胞膜上的膽囊收縮素乙型（CCKB）接受器，以促進胃酸分泌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 64 題",
+    "question": "下列何種酵素可幫助麥芽糖（maltose）水解成為葡萄糖 ？",
+    "options": {
+      "A": "蔗糖酶（sucrase）",
+      "B": "乳糖酶（lactase）",
+      "C": "海藻糖酶（trehalase）",
+      "D": "澱粉酶（amylase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 65 題",
+    "question": "有關腎臟的酸鹼平衡功能，下列何者正確？",
+    "options": {
+      "A": "近端腎小管再吸收HCO3 -，遠端腎小管分泌$H^+$",
+      "B": "近端腎小管分泌$H^+$，遠端腎小管再吸收HCO3 -",
+      "C": "近端腎小管和遠端腎小管均再吸收HCO3 -",
+      "D": "近端腎小管和遠端腎小管均分泌$H^+$"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分 外。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 66 題",
+    "question": "計算純水清除率（clearance of free-water,  ）的公式是  = V（urine flow rate）–Cosm（clearance of osmoles）。而Cosm之定義為：V×（Uosm/Posm），其中Uosm與Posm分別為尿液與血漿之osmolality。下列何種 生理狀態，最可能使純水清除率（ ）成為負值？",
+    "options": {
+      "A": "飲用大量純水之後",
+      "B": "腎小球濾過率（glomerular filtration rate）增加",
+      "C": "血中抗利尿荷爾蒙（antidiuretic hormone）增加",
+      "D": "溶質清除率（Cosm）減少"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 67 題",
+    "question": "我們身體那一部位是二十四小時節律性（circadian rhythms）的重要調節樞紐，且當其受光激活會進而引發松 果體（pineal gland）分泌何種荷爾蒙進行調節運作？",
+    "options": {
+      "A": "腦下腺前葉（anterior pituitary）；多巴胺（dopamine）",
+      "B": "視交叉上核（suprachiasmatic nucleus, SCN）；褪黑素（melatonin）",
+      "C": "腦下腺後葉（posterior pituitary）；腎上腺促素釋素（corticotropin-releasing hormone, CRH）",
+      "D": "下視丘室旁核（paraventricular nucleus, PVN）；生長激素釋素（growth hormone-releasing hormone, GHRH）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 68 題",
+    "question": "下列有關醛固酮（aldosterone）之敘述，何者正確？",
+    "options": {
+      "A": "體抑素（somatostatin）可刺激醛固酮分泌，以減低腎臟碘離子之再吸收",
+      "B": "腎上腺素（epinephrine）可刺激醛固酮分泌，以減低腎臟鈣離子之再吸收",
+      "C": "血管收縮素（angiotensin-II）可刺激醛固酮分泌，以減低腎臟鈉離子之排放",
+      "D": "腎上腺促素（adrenocorticotropic hormone, ACTH）可刺激醛固酮分泌，以減低腎臟鉀離子之排放"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 69 題",
+    "question": "一般人於登高山時會促使身體腎上腺（adrenal gland）發生何種反應，以提供腦部充足能量使用，保持清醒？",
+    "options": {
+      "A": "雌二醇（17β-estradiol）分泌增加，促進骨骼肌肝醣生成（glycogenesis）",
+      "B": "腎上腺素（epinephrine）分泌增加，促進肝臟肝糖分解（glycogenolysis）",
+      "C": "多巴胺（dopamine）分泌增加，促進脂肪組織釋出脂肪酸（fatty acids）",
+      "D": "醛固酮（aldosterone）分泌增加，促進肝臟釋出酮體（ketone bodies）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 70 題",
+    "question": "半夜血糖降低時，身體會發生何種反應，以協助調節血糖恆定（glucose homeostasis）？",
+    "options": {
+      "A": "腸道（intestine）分泌胰泌素（secretin）",
+      "B": "腎臟（kidney）分泌維生素D（vitamin D）",
+      "C": "胰臟（pancreas）分泌體抑素（somatostatin）",
+      "D": "腎上腺（adrenal gland）分泌腎上腺素（epinephrine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 71 題",
+    "question": "有關甲狀腺素功能異常的敘述，下列何者最為適當？",
+    "options": {
+      "A": "甲狀腺功能低下和生長激素分泌不足，在新生兒都可造成身材矮小",
+      "B": "甲狀腺功能低下的病人，血中促甲狀腺素（TSH）濃度都會升高",
+      "C": "甲狀腺功能亢進的病人，血中T3、T4和TSH濃度都會升高",
+      "D": "甲狀腺功能低下和生長激素分泌不足，在新生兒都可造成智能障礙"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 72 題",
+    "question": "黃體生成素（luteinizing hormone, LH）主要作用於何種卵巢細胞，以促進何種荷爾蒙的分泌？",
+    "options": {
+      "A": "濾泡膜細胞（theca cells）→睪固酮（testosterone）",
+      "B": "濾泡膜細胞（theca cells）→雌二醇（estradiol）",
+      "C": "顆粒細胞（granulosa cells）→雌二醇（estradiol）",
+      "D": "顆粒細胞（granulosa cells）→睪固酮（testosterone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 73 題",
+    "question": "有關卵子形成（oogenesis）的敘述，下列何者正確？",
+    "options": {
+      "A": "第一次減數分裂開始於胚胎期",
+      "B": "出生後卵原細胞（oogonia）會進行有絲分裂（mitosis）",
+      "C": "幼童期會完成第一次減數分裂形成次級卵母細胞（secondary oocyte）",
+      "D": "排卵前會完成第二次減數分裂形成卵子（ovum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

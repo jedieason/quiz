@@ -1,0 +1,337 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 47 題",
+    "question": "下列①⾄④項中那些物質運輸⽅向是由⾼濃度到低濃度？ ①鈣離⼦經由幫浦（$Ca^{2+}$ ATPase）回收⾄肌漿網（sarcoplasmic reticulum） ②鈉離⼦經由鈉-葡萄糖共同轉運蛋⽩（sodium-glucose cotransporter）進入⼩腸表⽪細胞內 ③近端腎⼩管氫離⼦經由鈉-氫逆向運輸（$Na^+$-$H^+$ countertransport）分泌⾄管腔 ④鉀離⼦經由滲漏性鉀離⼦通道（leak $K^+$ channels）流出細胞",
+    "options": {
+      "A": "①③",
+      "B": "②③",
+      "C": "②④",
+      "D": "①②"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 48 題",
+    "question": "氣味受器（odorant receptors）主要位於下列何處？",
+    "options": {
+      "A": "嗅球（olfactory bulb）之⽑叢狀細胞（tufted cells）上",
+      "B": "嗅球（olfactory bulb）之僧帽細胞（mitral cells）上",
+      "C": "嗅覺⽪質（olfactory cortex）的感覺神經元上",
+      "D": "嗅覺上⽪（olfactory epithelium）內的感覺神經元上"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 49 題",
+    "question": "Caudate nucleus主導下列何種功能？",
+    "options": {
+      "A": "情緒控制",
+      "B": "動作執⾏",
+      "C": "調控⾃律神經",
+      "D": "記憶能⼒"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 50 題",
+    "question": "下列有關視神經盤（optic disc）的敘述，何者錯誤？",
+    "options": {
+      "A": "視神經盤和黃斑（macula densa）是視網膜（retina）上兩個不同的構造",
+      "B": "視神經盤富含光感受器（photoreceptor）",
+      "C": "視神經盤為視神經（optic nerve）聚集處",
+      "D": "視神經盤導致視野（visual field）上的盲點（blind spot）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 51 題",
+    "question": "下列那⼀種肌細胞具有最低的ATPase活性？",
+    "options": {
+      "A": "slow oxidative fibers",
+      "B": "smooth muscle fibers",
+      "C": "fast-oxidative glycolytic fibers",
+      "D": "fast-glycolytic fibers"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 52 題",
+    "question": "骨骼肌收縮時tropomyosin發⽣結構變化，會導致下列何種反應？",
+    "options": {
+      "A": "$Ca^{2+}$離開troponin後啟動骨骼肌收縮",
+      "B": "暴露出actin上的myosin結合位置，使骨骼肌收縮",
+      "C": "分解ATP產⽣能量使actin與myosin結合，並產⽣滑動",
+      "D": "tropomyosin與myosin接合，啟動骨骼肌收縮"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 53 題",
+    "question": "因⾞禍⽽急需輸⾎患者的⾎型為AB型，在場三⼈中，⼩李⾎型是A型，⼩吳是B型，⼩何是O型，下列敘述何 者正確？",
+    "options": {
+      "A": "只有⼩李及⼩吳可捐⾎給患者",
+      "B": "只有⼩何可捐⾎給患者",
+      "C": "三⼈均可捐⾎給患者",
+      "D": "三⼈均不可捐⾎給患者"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 54 題",
+    "question": "正常情況下，下列何種⾎漿蛋⽩主要由肝臟⽣成？",
+    "options": {
+      "A": "protein C",
+      "B": "von Willebrand factor（vWF）",
+      "C": "granulocyte-colony stimulating factor（G-CSF）",
+      "D": "interferon gamma"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 55 題",
+    "question": "⼼臟舒張期時的⼼雜⾳（murmur）可由下列何者引起？",
+    "options": {
+      "A": "房室瓣狹窄、主動脈瓣狹窄",
+      "B": "房室瓣閉鎖不全、主動脈瓣閉鎖不全",
+      "C": "房室瓣狹窄、主動脈瓣閉鎖不全",
+      "D": "房室瓣閉鎖不全、主動脈瓣狹窄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 56 題",
+    "question": "下列何者最可能增加⼼肌細胞的收縮⼒（contractility）？",
+    "options": {
+      "A": "促進肌漿網（sarcoplasmic reticulum）上的鈣離⼦幫浦（$Ca^{2+}$ ATPase）的活性",
+      "B": "抑制肌漿網（sarcoplasmic reticulum）上ryanodine receptors的作⽤",
+      "C": "抑制細胞膜上鈉－鉀幫浦（$Na^+$-$K^+$ ATPase）的作⽤",
+      "D": "增加細胞膜上鈉－鈣交換蛋⽩（$Na^+$-$Ca^{2+}$ exchanger）的活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 57 題",
+    "question": "下列那⼀個敘述最符合在休息狀態下，⼼房纖維顫動（atrial fibrillation）的病患之⾝體情況？",
+    "options": {
+      "A": "⼼電圖上P波較正常⼈明顯",
+      "B": "⼼電圖上QRS波正常但R-R間隔不規則",
+      "C": "⼼室充⾎（ventricular filling）效率明顯下降了30～40%或更多",
+      "D": "因為房室結（A-V node）傳導的延遲，⼼室跳動速率明顯下降"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 58 題",
+    "question": "下列何者在動脈粥狀硬化（atherosclerosis）患者會有增加的現象？①收縮壓（systolic pressure） ②舒 張壓（diastolic pressure） ③脈搏壓（pulse pressure） ④動脈順應性（compliance）",
+    "options": {
+      "A": "僅①②③",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③④"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 59 題",
+    "question": "下列何者不屬於肺氣腫（emphysema）應有的變化？",
+    "options": {
+      "A": "呼吸道阻⼒增加（increased airway resistance）",
+      "B": "擴散容積增加（increased diffusing capacity）",
+      "C": "總肺容量增加（increased total lung capacity）",
+      "D": "通氣灌流失衡（ventilation perfusion mismatch）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 60 題",
+    "question": "登⼭者進入⾼海拔地區時，動脈氧分壓降為80 mmHg時，最主要是發⽣下列何種反應所造成？",
+    "options": {
+      "A": "呼吸性酸⾎症（respiratory acidosis）",
+      "B": "紅⾎球減少製造 2,3-⼆磷⽢油酯（2,3-diphosphoglycerate），以便增加⾎紅素對氧氣親和⼒",
+      "C": "主動脈體（aortic body）因缺氧⽽抑制神經衝動",
+      "D": "每分鐘通氣量（ventilation）增加"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 61 題",
+    "question": "下列何者氧分壓 最⾼？",
+    "options": {
+      "A": "肺泡（alveolus）",
+      "B": "肺泡微⾎管（alveolar capillary）內⾎液",
+      "C": "體動脈⾎（systemic arterial blood）",
+      "D": "呼出氣體（expired air）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 62 題",
+    "question": "下列何者最具有刺激胃黏膜增⽣（growth of the gastric mucosa）的功能？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "運動素（motilin）",
+      "D": "胰泌素（secretin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 63 題",
+    "question": "下列何者最可能導致食道遲緩不能症（achalasia）？",
+    "options": {
+      "A": "nitric oxide及vasoactive intestinal polypeptide分泌過多",
+      "B": "食道的myenteric plexus缺損",
+      "C": "會厭軟骨（epiglottis）之功能缺陷",
+      "D": "幽⾨狹窄（pylorostenosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 64 題",
+    "question": "在不分泌唾液的狀況下，下列那些營養成分在⼈體中仍可被消化？①醣類 ②脂肪 ③蛋⽩質",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②③",
+      "C": "僅①③",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 65 題",
+    "question": "下列有關第⼆型⽔通道蛋⽩（aquaporin 2）之敘述，何者正確？",
+    "options": {
+      "A": "其轉位⾄細胞膜之現象是受⾎管加壓素(vasopressin)所調控",
+      "B": "主要存在於亨利⽒環下降枝（descending limb of loop of Henle）",
+      "C": "協助⽔分⼦由⾼張（hypertonic）向低張（hypotonic）處移動",
+      "D": "負責進⾏⽔分的主動運輸（active transport）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 66 題",
+    "question": "下列何者最不常作為腎⼩管之管腔內氫離⼦的酸鹼緩衝物質？",
+    "options": {
+      "A": "HCO3 -",
+      "B": "HPO4 2-",
+      "C": "NH3",
+      "D": "C3H7COO-"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 67 題",
+    "question": "下列有關腎⼩管葡萄糖再吸收的描述，何者正確？",
+    "options": {
+      "A": "遠端腎⼩管頂膜（apical membrane）利⽤第⼀型葡萄糖運輸蛋⽩（glucose transporter 1）再吸收葡萄糖",
+      "B": "遠端腎⼩管基底外側膜（basolateral membrane）利⽤第⼀型鈉依賴性葡萄糖運輸蛋⽩（sodium- dependent glucose transporter 1）再吸收葡萄糖",
+      "C": "近端腎⼩管頂膜（apical membrane）主要利⽤第⼆型鈉依賴性葡萄糖運輸蛋⽩（sodium-dependent glucose transporter 2）再吸收葡萄糖",
+      "D": "近端腎⼩管基底外側膜（basolateral membrane）主要利⽤第⼀型葡萄糖運輸蛋⽩（glucose transporter 1）再吸收葡萄糖"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 68 題",
+    "question": "下列何者最不會隨晝夜⽣物時鐘⽽改變？",
+    "options": {
+      "A": "體溫",
+      "B": "⽪質醇（cortisol）分泌",
+      "C": "褪⿊激素（melatonin）分泌",
+      "D": "胰島素分泌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 69 題",
+    "question": "下列何者是steroidogenic acute regulatory protein的主要功能？",
+    "options": {
+      "A": "促使膽固醇轉變成妊烯醇酮（pregnenolone）",
+      "B": "促使膽固醇進入細胞內",
+      "C": "促使膽固醇送入粒線體內",
+      "D": "促使膽固醇轉變成低密度脂蛋⽩（low density lipoprotein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 70 題",
+    "question": "下列那⼀種激素主要是進入細胞內與其受器（receptor）結合⽽產⽣作⽤？",
+    "options": {
+      "A": "thyroid hormone",
+      "B": "insulin",
+      "C": "growth hormone",
+      "D": "atrial natriuretic peptide（ANP）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 71 題",
+    "question": "下列有關以激素治療因⼿術切除腦下垂體腫瘤（pituitary adenoma）所導致前葉功能全⾯性降低之敘述，何 者正確？",
+    "options": {
+      "A": "只補充雄性素（androgen）即可恢復病患精⼦製造能⼒",
+      "B": "不需要補充甲狀腺素（thyroid hormone）",
+      "C": "需補充抗利尿激素（ADH）以防⽌尿崩症",
+      "D": "當處於壓⼒（stress）狀況時，需補充額外之腎上腺⽪質素（cortisol）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 72 題",
+    "question": "⾎睪屏障（blood testis barrier）具有保護下列何種細胞之功能？",
+    "options": {
+      "A": "Leydig cells",
+      "B": "myoid cells",
+      "C": "fibroblasts",
+      "D": "primary spermatocytes"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 73 題",
+    "question": "下列何者對於乳汁⽣成（milk synthesis）扮演最重要的⾓⾊？",
+    "options": {
+      "A": "oxytocin",
+      "B": "prolactin",
+      "C": "progesterone",
+      "D": "prostaglandins"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

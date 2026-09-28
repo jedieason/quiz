@@ -1,0 +1,276 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 42 題",
+    "question": "以下有關QuantiFERON-TBGold test 之敘述，何者錯誤？",
+    "options": {
+      "A": "偵測被活化的T 細胞所產生之IFN-γ",
+      "B": "敏感度比tuberculin-skin test 高",
+      "C": "用來檢查結核分枝桿菌感染",
+      "D": "需採病人痰液做QuantiFERON-TBGold test"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 43 題",
+    "question": "下列有關放線菌（Actinomyces）的敘述，何者錯誤？",
+    "options": {
+      "A": "革蘭氏陰性菌",
+      "B": "菌體呈分枝",
+      "C": "菌落似臼齒",
+      "D": "可用青黴素治療"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 44 題",
+    "question": "下列何種病症，是由Salmonella typhi 所引起？",
+    "options": {
+      "A": "赤痢（dysentery）",
+      "B": "腸熱症（enteric fever）",
+      "C": "假膜性大腸炎（pseudomembranous colitis）",
+      "D": "出血性熱（hemorrhagic fever）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 45 題",
+    "question": "有關梅毒（Syphilis）之敘述，何者錯誤？",
+    "options": {
+      "A": "其致病原為Borrelia burgdorferi",
+      "B": "主要為性接觸傳染之疾病",
+      "C": "婦女懷孕時若感染梅毒則可能導致胎兒患有先天性梅毒",
+      "D": "一般感染後2 年內最具傳染性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 46 題",
+    "question": "下列何者是引發氣性壞疽（gas gangrene）的主要致病菌所產生之最重要毒素？",
+    "options": {
+      "A": "核酸酶（nuclease）",
+      "B": "蛋白酶（protease）",
+      "C": "卵磷脂酶（lecithinase）",
+      "D": "凝固酶（coagulase）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 47 題",
+    "question": "下列關於痲瘋病（leprosy）的敘述那一項錯誤？",
+    "options": {
+      "A": "由痲瘋分枝桿菌（Mycobacterium leprae）引起",
+      "B": "有痲瘋瘤型（lepromatous form）及類結核型（tuberculoid form）二類",
+      "C": "痲瘋瘤型痲瘋患者比類結核型的痲瘋患者更具有傳染性",
+      "D": "經由飛沫傳染，傳染力極強"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 48 題",
+    "question": "黃癬（favus）為頭部之慢性癬病，病原菌可破壞毛囊引起永久性脫毛，其病原菌為何？",
+    "options": {
+      "A": "絮狀表皮癬菌（Epidermophyton floccosum）",
+      "B": "小芽孢癬菌（Microsporum canis）",
+      "C": "許蘭氏毛癬菌（Trichophyton schoenleinii）",
+      "D": "糠粃馬拉色氏菌（Malassezia furfur）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或 BC者均給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 49 題",
+    "question": "一位嗜食泡菜的家庭主婦，某天晚上突然發生視覺模糊、吞嚥困難及口乾的情形，且此麻痺現象逐 漸向下延伸，引發呼吸困難。送醫急救時，醫師得知該婦人前一天及當天中午獨自在家午餐時，新 開了一罐親戚所贈送的自製泡菜作為配菜。下列那種細菌最有可能導致此疾病？",
+    "options": {
+      "A": "傷寒桿菌（Salmonella typhi）",
+      "B": "肉毒桿菌（Clostridium botulinum）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "仙人掌桿菌（Bacillus cereus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 50 題",
+    "question": "【背景題幹：一位嗜食泡菜的家庭主婦，某天晚上突然發生視覺模糊、吞嚥困難及口乾的情形，且此麻痺現象逐 漸向下延伸，引發呼吸困難。送醫急救時，醫師得知該婦人前一天及當天中午獨自在家午餐時，新 開了一罐親戚所贈送的自製泡菜作為配菜。下列那種細菌最有可能導致此疾病？】\n承上題，下列何者最可作為確診此疾病的依據？",
+    "options": {
+      "A": "臨床症狀",
+      "B": "由糞便中分離出致病菌",
+      "C": "以鏡檢法在可疑的食物中觀察到致病菌",
+      "D": "在病人血清中檢測出導致此病的細菌毒素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 51 題",
+    "question": "下列何種反轉錄病毒沒有攜帶致癌基因（oncogene）？",
+    "options": {
+      "A": "Avian eryt hroblastosis virus",
+      "B": "Abelson murine leukemia virus",
+      "C": "Rous sarcoma virus",
+      "D": "HTLV-1（Human T-cell lymphotropic virus type 1）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 52 題",
+    "question": "下列關於HIV（Human immunodeficiency virus）病毒蛋白的功能，何者錯誤？",
+    "options": {
+      "A": "Tat 與運送病毒RNA 到細胞質有關",
+      "B": "Vif 可以拮抗細胞中APOBEC-3G 的作用",
+      "C": "Vpu 可以降低細胞上CD4 的表現",
+      "D": "gp41 幫助病毒與細胞膜的融合"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 53 題",
+    "question": "在細胞質內進行複製之DNA 病毒為：",
+    "options": {
+      "A": "EB 病毒（Epstein-Barr virus）",
+      "B": "腺病毒（Adenovirus）",
+      "C": "痘病毒（Poxvirus）",
+      "D": "小DNA 病毒（Parvovirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 54 題",
+    "question": "下列何種病毒的感染過程中有潛伏期（latency），且可再激活（reactivation）後，再進入潛伏期？",
+    "options": {
+      "A": "Hepatitis B virus",
+      "B": "Human immunodeficiency virus",
+      "C": "Coxsackie virus A3",
+      "D": "Varicella-zoster virus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 55 題",
+    "question": "孕婦在懷孕期間感染下列那些病毒後，容易造成嬰兒先天性缺陷？①Cytomegalovirus ②Influenza  virus ③Rubella virus ④Adenovirus",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "③④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 56 題",
+    "question": "目前接種的B 型肝炎疫苗是屬於下列那一種？",
+    "options": {
+      "A": "活病毒",
+      "B": "活減毒疫苗",
+      "C": "死病毒",
+      "D": "基因重組次單位疫苗"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 57 題",
+    "question": "下列那個病毒不會因有機溶劑或膽鹽之處理而喪失活性？",
+    "options": {
+      "A": "Hantaan virus",
+      "B": "HIV",
+      "C": "Influenza viruses",
+      "D": "Hepatitis A virus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 58 題",
+    "question": "真菌細胞膜中之主要之固醇類型為何？",
+    "options": {
+      "A": "膽固醇（cholesterol）",
+      "B": "麥角固醇（ergosterol）",
+      "C": "柱頭固醇（stigmasterol）",
+      "D": "羊毛脂固醇（lanosterol）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 59 題",
+    "question": "下列那種真菌病原菌是屬於地域性（endemic）特有種？",
+    "options": {
+      "A": "Candida albicans",
+      "B": "Cryptococcus neoformans",
+      "C": "Histoplasma capsulatum",
+      "D": "Sporothrix schenckii"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 60 題",
+    "question": "念珠菌菌血症（candidemia）中致死率最高者為下列何種感染？",
+    "options": {
+      "A": "Candida albicans",
+      "B": "Candida glabrata",
+      "C": "Candida parapsilosis",
+      "D": "Candida tropicalis"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分外。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 61 題",
+    "question": "如圖所示。所謂花椰菜樣節瘤（cauliflower-like nodule）為何種真菌感染症之特徵？ [圖片]",
+    "options": {
+      "A": "Eumycotic mycetoma",
+      "B": "Chromoblastomycosis",
+      "C": "Subcutaneous zygomycosis",
+      "D": "Actinomycotic mycetoma"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

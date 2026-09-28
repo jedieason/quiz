@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 76 題",
+    "question": "傷口有過多膠原蛋白（collagen）堆積，生長超出原始傷口的邊界，並且不消退，稱為：",
+    "options": {
+      "A": "蟹足腫（keloid）",
+      "B": "肥厚疤（hypertrophic scar）",
+      "C": "肉芽腫（granuloma）",
+      "D": "肉芽組織（granulation tissue）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 77 題",
+    "question": "下列何項器官或組織的再生能力最強？",
+    "options": {
+      "A": "肺",
+      "B": "肌肉",
+      "C": "胰",
+      "D": "肝"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 78 題",
+    "question": "關於唐氏症候群（Down syndrome）的敘述，下列何者最適當？",
+    "options": {
+      "A": "單核苷酸多態性（single nucleotide polymorphism）基因分型法是最適合用來診斷唐氏症的工具",
+      "B": "95%的個案是由於細胞多出的一條第21號染色體轉位到第14號染色體所致",
+      "C": "可利用螢光原位雜交法（fluorescence in situ hybridization）診斷唐氏症",
+      "D": "異常細胞鑲嵌（mosaicism）型唐氏症是由於第21號染色體的短臂鑲嵌到其它染色體內所致"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 79 題",
+    "question": "關於過敏性疾病的敘述，下列何者最適當？",
+    "options": {
+      "A": "鼻瘜肉（nasal polyp）一般被認為與IgE媒介所引發的外因性過敏性鼻炎或鼻竇炎（atopic allergic rhinitis or sinusitis）有關",
+      "B": "運動引發的過敏一般被認為主要是與TH2細胞的過度反應有關",
+      "C": "發炎性腸道疾病（inflammatory bowel disease）一般被認為主要與TH2細胞的過度反應有關",
+      "D": "全身過敏性反應（systemic anaphylaxis）的臨床症狀一般被認為與被活化的肥大細胞（mast cells）釋放一些 引起血管活化調節物質有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 80 題",
+    "question": "下列關於胃的原發性黏膜相關淋巴瘤（mucosa-associated lymphoid tissue lymphoma, MALToma）之敘述，何者 最不適當？",
+    "options": {
+      "A": "屬於B-cell lymphoma",
+      "B": "與其關係最密切之微生物為Helicobacter pylori",
+      "C": "cytotoxin-associated gene A（CagA）為其相關微生物之重要致病基因",
+      "D": "當其發生轉移時，最常出現之染色體變化為$t(11;14)$"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 81 題",
+    "question": "下列造成腹水（ascites）的原因中，何種原因的積液所含的蛋白質濃度最高？",
+    "options": {
+      "A": "細菌性腹膜炎（peritonitis）",
+      "B": "腎病症候群（nephrotic syndrome）",
+      "C": "肝硬化（liver cirrhosis）",
+      "D": "營養不良（malnutrition）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 82 題",
+    "question": "下列疾病容易引起血栓（thrombosis），但何者除外？",
+    "options": {
+      "A": "肝素引起血小板低下（heparin-induced thrombocytopenia）",
+      "B": "抗磷脂質抗體症候群（antiphospholipid antibody syndrome）",
+      "C": "Protein S缺乏（protein S deficiency）",
+      "D": "Von Willebrand disease"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 83 題",
+    "question": "72歲男性呈現心臟衰竭，右心壁肥厚及左心肥大，心肌切片檢查顯示在心肌間質有細絲狀物質沉積，此絲狀 物直徑約10～12微米並呈無分支狀結構。下列何者最符合上述的病理變化？",
+    "options": {
+      "A": "endocardial fibroelastosis",
+      "B": "ischemic interstitial fibrosis",
+      "C": "transthyretin amyloidosis",
+      "D": "postirradiation fibrosis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 84 題",
+    "question": "45歲女性，鼻腔腫瘤切片發現中等大小異常淋巴球浸潤，且有明顯的血管侵犯（angioinvasion）及組織壞死， 免疫染色顯示腫瘤細胞表現CD56，此腫瘤最可能與何種病毒有關？",
+    "options": {
+      "A": "人類嗜T淋巴球病毒第一型（human T-lymphotropic virus 1）",
+      "B": "Epstein-Barr病毒（Epstein-Barr virus）",
+      "C": "人類免疫缺乏病毒（human immunodeficiency virus）",
+      "D": "人類疱疹病毒第八型（human herpesvirus 8）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 85 題",
+    "question": "6歲男童兩週來出現面色蒼白、精神不佳。病童血液中紅血球、血小板、白血球數目減少。男童之前曾有類似 感冒症狀，也服用過抗生素與退燒藥。骨髓切片檢查發現骨髓中約80%～90%都是脂肪組織，造血母細胞 （blast cells）數目並未明顯增加。造血細胞形態大致正常。下列有關病人的敘述，何者最適當？",
+    "options": {
+      "A": "最常見的感染性病因是黴漿菌感染",
+      "B": "此類疾病以原發性（idiopathic）引起的最多",
+      "C": "此類病人大多會因為脾臟出現造血功能而腫大",
+      "D": "化療藥物中以taxol類為最常見病因"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 86 題",
+    "question": "有關肺的鱗狀細胞癌（squamous cell carcinoma）的敘述，下列何者最適當？",
+    "options": {
+      "A": "女性比男性多",
+      "B": "通常發生於肺部周邊區域",
+      "C": "EGFR有高度表現且常合併突變",
+      "D": "相對於其它組織形態，最常出現高鈣血症"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 87 題",
+    "question": "α1-抗胰蛋白酶缺乏症（α1-antitrypsin deficiency）造成之肺氣腫類型多屬於下列何者？",
+    "options": {
+      "A": "全腺泡型肺氣腫（panacinar emphysema）",
+      "B": "中心型肺氣腫（centriacinar emphysema）",
+      "C": "遠端腺泡型肺氣腫（distal acinar emphysema）",
+      "D": "不規則型肺氣腫（irregular emphysema）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 88 題",
+    "question": "肺泡玻璃樣膜（hyaline membranes of alveoli）與下列何種病變最為相關？",
+    "options": {
+      "A": "慢性支氣管炎（chronic bronchitis）",
+      "B": "氣喘（asthma）",
+      "C": "急性呼吸窘迫症候群（ARDS）",
+      "D": "肺氣腫（emphysema）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 89 題",
+    "question": "下列關於胰臟癌的敘述，何者最不適當？",
+    "options": {
+      "A": "腺泡細胞癌（acinar cell carcinoma）是最常見的胰臟癌類型",
+      "B": "胰腺癌（ductal carcinoma）預後不良",
+      "C": "胰腺癌（ductal carcinoma）經常發現CDKN2A inactivation和KRAS突變",
+      "D": "大部分的胰腺癌（ductal carcinoma）發生在胰臟頭部（pancreatic head）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 90 題",
+    "question": "下列何處的鱗狀細胞癌（squamous cell carcinoma）與人類乳突瘤病毒（human papillomavirus）最為相關？",
+    "options": {
+      "A": "牙齦（gingiva）",
+      "B": "頰黏膜（buccal mucosa）",
+      "C": "口咽（oropharynx）",
+      "D": "食道（esophagus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 91 題",
+    "question": "有關肝臟的威爾森氏病（Wilson disease），下列何種生化檢查的診斷價值最低？",
+    "options": {
+      "A": "血清的銅離子濃度",
+      "B": "血清的銅藍蛋白（ceruloplasmin）濃度",
+      "C": "肝臟的銅離子濃度",
+      "D": "尿液的銅離子濃度"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 92 題",
+    "question": "下列何種炎症細胞最不可能出現在硬化性後腹腔纖維化（sclerosing retroperitoneal fibrosis）的病灶中？",
+    "options": {
+      "A": "淋巴球",
+      "B": "IgG4陽性漿細胞",
+      "C": "嗜酸性白血球",
+      "D": "嗜中性白血球"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 93 題",
+    "question": "有關腎臟微小病變（minimal-change disease）之特徵，下列敘述何者最適當？",
+    "options": {
+      "A": "最主要的病理變化為腎小球中的壁上皮細胞（parietal epithelial cells）的足突消失",
+      "B": "腎小球的基底膜變厚",
+      "C": "近側腎小管上皮有脂質沉積",
+      "D": "在人類此疾病已證實與血管新生因子（angiopoietin-like 1）有密切關係"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 94 題",
+    "question": "最常造成原發性副甲狀腺功能亢進症（primary hyperparathyroidism）的原因是：",
+    "options": {
+      "A": "primary hyperplasia",
+      "B": "parathyroid carcinoma",
+      "C": "multiple parathyroid adenomas",
+      "D": "solitary parathyroid adenoma"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 95 題",
+    "question": "下列有關人類乳突狀病毒（human papillomavirus）與子宮頸癌或鱗狀前驅病灶（squamous cervical precursor lesions）的敘述，何者最不適當？",
+    "options": {
+      "A": "大部分的鱗狀上皮內病灶（squamous intraepithelial lesion）不論是低度（low-grade）或高度（high-grade）都 與人類乳突狀病毒的感染有關",
+      "B": "大部分的低度鱗狀上皮內病灶與低危險性人類乳突狀病毒（low-risk human papillomavirus）的感染有關",
+      "C": "大部分的高度鱗狀上皮內病灶與高危險性人類乳突狀病毒（high-risk human papillomavirus）的感染有關",
+      "D": "在低度鱗狀上皮內病灶中，人類乳突狀病毒的病毒量，在表面成熟上皮較基底層上皮為高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 96 題",
+    "question": "卵巢腫瘤中，最常見的是源自於穆勒氏上皮（Müllerian epithelium）的上皮性腫瘤，下列有關卵巢上皮性腫瘤 的敘述， 何者最不適當？",
+    "options": {
+      "A": "主要的組織型包括漿液性（serous）、黏液性（mucinous）與子宮內膜樣性（endometrioid）",
+      "B": "卵巢漿液性癌（serous carcinoma）為最常見的卵巢上皮癌，兩側卵巢皆被侵犯的比例很低 ，低於20%",
+      "C": "卵巢漿液性癌（serous carcinoma）可以分為高惡性度（high-grade）與低惡性度（low-grade）",
+      "D": "卵巢上皮癌中，第二常見組織型為子宮內膜樣癌（endometrioid carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 97 題",
+    "question": "根據卵巢上皮癌的發生機轉，可區分為第一型（type I）與第二型（type II）腫瘤，下列何者為第二型（type II）腫瘤？",
+    "options": {
+      "A": "子宮內膜樣癌（endometrioid carcinoma）",
+      "B": "亮細胞癌（clear cell carcinoma）",
+      "C": "低惡性度漿液性癌（low-grade serous carcinoma）",
+      "D": "高惡性度漿液性癌（high-grade serous carcinoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 98 題",
+    "question": "非創傷性蜘蛛網膜下出血（subarachnoid hemorrhage）最常見之成因是：",
+    "options": {
+      "A": "arteriovenous malformation血管破裂",
+      "B": "cavernous hemangioma血管破裂",
+      "C": "arteriolar sclerosis血管破裂",
+      "D": "saccular aneurysm in the circle of Willis血管破裂"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 99 題",
+    "question": "庫賈氏症（Creutzfeldt-Jakob disease）患者大腦主要的病理變化是：",
+    "options": {
+      "A": "demyelinated plaque",
+      "B": "ring hemorrhage",
+      "C": "TH17 T cell infiltrate",
+      "D": "spongiform encephalopathy"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 100 題",
+    "question": "14歲男童於橋腦（pons）處有一經病理切片診斷為diffuse glioma, WHO grade II。針對brain stem glioma往往 具有某特殊的基因變化，現已被歸屬成另外單獨類別之glioma，此特殊的基因變化是：",
+    "options": {
+      "A": "ATRX loss",
+      "B": "H3.1 or H3.3 K27M mutation",
+      "C": "MGMT hypermethylation",
+      "D": "1p/19q co-deletion"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

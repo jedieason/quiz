@@ -1,0 +1,250 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 41 題",
+    "question": "林先生32 歲，剛剛在國內完成博士學位，因為他是念地質學，所以需要到處採集地質標本。兩個月前 他有機會到美國加州接近墨西哥邊界沙漠地區整整一個月時間在該地區進行調查，甚至包括一些洞 穴。回國以後林先生開始發燒、畏寒、夜間盜汗、乾咳，持續4 個星期，這段期間林先生開始以為是 感冒，醫師也開過抗生素治療，但病情持續無法改善。全身檢查結果除了右胸有約3 cm 較硬腫塊外， 在鼠蹊及腋下也有較小約1 cm 淋巴腫，血液樣本在25℃培養，找到具有分節孢子（Arthrospores） 之絲狀真菌，分節孢子斷裂呈現桶狀（Barrel-shaped）。組織學則呈現寄生性spherules，內含內孢 子（endospores）。林先生最可能感染那一種病原菌？",
+    "options": {
+      "A": "Histoplasma capsulatum",
+      "B": "Blastomyces dermatitidis",
+      "C": "Paracoccidioides brasiliensis",
+      "D": "Coccidioides immitis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 43 題",
+    "question": "Amphotericin B 屬於一種Polyenes 抗真菌藥物，直接與麥角固醇（Ergosterol）結合破壞真菌細胞膜， 但在治療新型隱球菌已出現抗藥性，抗藥菌株最可能改變產生何種固醇，取代敏感性的麥角固醇？",
+    "options": {
+      "A": "Cholesterol",
+      "B": "Sitosterol",
+      "C": "Lanosterol",
+      "D": "Fecosterol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 44 題",
+    "question": "王醫師為婦科疾病的權威醫師，他的門診病患中感染何型人類乳突病毒（HPV），會導致罹患子宮 頸癌風險大幅提高？",
+    "options": {
+      "A": "Type 9",
+      "B": "Type 6",
+      "C": "Type 18",
+      "D": "Type 11"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 45 題",
+    "question": "器官移植後的病人出現肺炎併發症，應首先懷疑下列何種病毒感染是導致肺炎併發症的原因？",
+    "options": {
+      "A": "單純疱疹病毒（herpes simplex virus）",
+      "B": "EB 病毒（Epstein-Barr virus）",
+      "C": "腺病毒（adenovirus）",
+      "D": "巨細胞病毒（cytomegalovirus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 46 題",
+    "question": "下列有關呼吸道細胞融合病毒（Respiratory syncytial virus）之敘述，何者正確？",
+    "options": {
+      "A": "屬於正黏液病毒（Orthomyxovirus）",
+      "B": "侵入呼吸道後會引起支氣管上皮細胞壞死、黏液分泌、發炎細胞浸潤、黏膜下層水腫",
+      "C": "感染後可終身免疫",
+      "D": "核酸為正股RNA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 47 題",
+    "question": "在B 型肝炎病毒造成急性感染之患者身上，下列何種抗體最早出現？",
+    "options": {
+      "A": "Anti-HBc",
+      "B": "Anti-PreS",
+      "C": "Anti-HBs",
+      "D": "Anti-HBe"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 48 題",
+    "question": "下列那一種症狀不是由克沙奇A 型病毒（Coxsackie A virus）所引起的？",
+    "options": {
+      "A": "疱疹性咽峽炎（herpangina）",
+      "B": "心臟炎（carditis）",
+      "C": "胸膜痛（pleurodynia）",
+      "D": "腦膜炎（meningitis）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 49 題",
+    "question": "Amantadine 及Rimantadine 藥物常被用來治療流行性感冒病毒A 型，其抑制病毒入侵之機轉為何？",
+    "options": {
+      "A": "阻止病毒之入侵及解體（uncoating）",
+      "B": "阻止病毒在宿主內合成DNA",
+      "C": "阻止病毒在宿主內合成RNA",
+      "D": "阻止病毒在宿主內合成蛋白質"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 50 題",
+    "question": "下列何者是常見於發生在後期愛滋病患者，尤其是該患者$CD4^+$的T lymphocyte數目少於10 cells/mm3 時的分枝桿菌（Mycobacterium）感染？",
+    "options": {
+      "A": "M. leprae",
+      "B": "M. avium complex",
+      "C": "M. bovis",
+      "D": "M. kansasii"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 51 題",
+    "question": "一位男性因其陰莖出現潰瘍而就醫，經醫師診察後發現其潰瘍處界限分明，表面呈肉紅色糜爛，觸 摸時可感覺皮下似埋有一鈕扣，是為硬性下疳的症狀，且患者無壓痛感，但壓時有清澈之滲出液溢 出，經VDRL 試驗呈陽性反應，表示該病人可能患有何種疾病？",
+    "options": {
+      "A": "梅毒（syphilis）",
+      "B": "疱疹（herpes）",
+      "C": "淋病（gonorrhea）",
+      "D": "生殖器濕疣（anogenital warts）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 52 題",
+    "question": "下列真菌疾病中，那些是兩型性真菌（Dimorphic fungi）？",
+    "options": {
+      "A": "Aspergillus niger and Rhizopus stolonifer",
+      "B": "Candida albicans and Rhizopus stolonifer",
+      "C": "Sporothrix schenckii and Candida albicans",
+      "D": "Sporothrix schenckii and Penicillium marneffei"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 53 題",
+    "question": "一位70 歲的老婦人在整理自家花園時不慎被埋在土裡樹枝上的細刺扎到，當時不以為意，但一週後 出現說話、吞嚥、呼吸困難等情形，且有胸痛，兩天後並發生頸部僵硬和呼吸衰竭，急送某醫學中 心，醫師立即將她送入加護病房進行氣管切開並接上人工呼吸器。病人被診斷為破傷風（tetanus）， 下列何者是診斷此病最主要的依據？",
+    "options": {
+      "A": "臨床症狀",
+      "B": "由血液中分離出破傷風菌",
+      "C": "在血液中偵測到破傷風毒素",
+      "D": "在由傷口取得的檢體中以顯微鏡觀察到破傷風菌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 54 題",
+    "question": "【背景題幹：一位70 歲的老婦人在整理自家花園時不慎被埋在土裡樹枝上的細刺扎到，當時不以為意，但一週後 出現說話、吞嚥、呼吸困難等情形，且有胸痛，兩天後並發生頸部僵硬和呼吸衰竭，急送某醫學中 心，醫師立即將她送入加護病房進行氣管切開並接上人工呼吸器。病人被診斷為破傷風（tetanus）， 下列何者是診斷此病最主要的依據？】\n承上題，下列何者不宜用來處理破傷風病人？",
+    "options": {
+      "A": "給予破傷風抗毒素",
+      "B": "擴創術（debridement）",
+      "C": "給予青黴素（penicillin）",
+      "D": "給予破傷風疫苗"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 55 題",
+    "question": "黴漿菌（Mycoplasma）與L form 細菌同樣都缺乏細胞壁結構，其二者最大的差異為何？",
+    "options": {
+      "A": "黴漿菌細胞膜上含有固醇，而L form 細菌則無",
+      "B": "L form 細菌細胞膜上含有固醇，而黴漿菌則無",
+      "C": "在適當的生長條件下，黴漿菌可形成細胞壁結構，而L form 細菌則否",
+      "D": "黴漿菌對β-lactam 類藥物敏感，而L form 細菌則有抗性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 56 題",
+    "question": "有一些細菌對trimethoprim 產生抗性，其主要原因為何？",
+    "options": {
+      "A": "此菌株的核糖體與trimethoprim 的結合力降低",
+      "B": "此菌株的dihydrofolate reductase 與trimethoprim 的結合力降低",
+      "C": "Trimethoprim 與此類菌之rRNA 的結合力下降",
+      "D": "Trimethoprim 與此類菌之transpeptidase 的結合力下降"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 57 題",
+    "question": "腸內菌屬（Enterobacteriaceae）的Lipopolysaccharide（LPS）分子中那一個部分的變異最大，可以用 來區別同一種（species）菌種不同的血清型分類（serotype）？",
+    "options": {
+      "A": "Lipid A",
+      "B": "Core polysaccharide",
+      "C": "O antigen",
+      "D": "整體結構"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 58 題",
+    "question": "下列那種細菌以家禽、家畜為其貯存宿主（reservoir）？",
+    "options": {
+      "A": "空腸彎曲菌（Campylobacter jejuni）",
+      "B": "霍亂弧菌（Vibrio cholerae）",
+      "C": "百日咳桿菌（Bordetella pertussis）",
+      "D": "腦膜炎奈瑟氏菌（Neisseria meningitidis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 59 題",
+    "question": "不產芽孢厭氧菌（non-sporeforming anaerobes）感染人體，最常造成下列那種形式的病變？",
+    "options": {
+      "A": "食物中毒（food poisoning）",
+      "B": "溶血性貧血（hemolytic anemia）",
+      "C": "組織壞死和膿瘍（abscess）",
+      "D": "自體免疫病（autoimmune diseases）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 60 題",
+    "question": "艱難梭菌（Clostridium difficile）感染所造成的疾病之確診係根據下列那一項？",
+    "options": {
+      "A": "由病人糞便中分離到此菌",
+      "B": "在病人糞便中偵測到此菌所分泌的細胞毒素或腸毒素",
+      "C": "由病人血液中分離到此菌",
+      "D": "在病人血清中偵測到此菌所分泌的細胞毒素或腸毒素"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 61 題",
+    "question": "有關細菌DNA 複製的敘述，那一項錯誤？",
+    "options": {
+      "A": "可從不特定的DNA 序列開始",
+      "B": "可從多個起始點開始",
+      "C": "有不同的機轉並可雙向進行",
+      "D": "是由多種DNA polymerases 來負責"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

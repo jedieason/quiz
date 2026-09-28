@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 62 題",
+    "question": "當抗原穿過皮膚進入組織時，B 細胞及T 細胞免疫反應在何處發生？",
+    "options": {
+      "A": "皮下組織",
+      "B": "骨髓",
+      "C": "淋巴結",
+      "D": "脾臟"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 63 題",
+    "question": "下列何者是毒殺型T 細胞（cytotoxic T cell）的共同接受器（co-receptor）？",
+    "options": {
+      "A": "CD2",
+      "B": "CD3",
+      "C": "CD4",
+      "D": "CD8"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 64 題",
+    "question": "一段抗原蛋白片段被T 細胞辨識時，不會與下列那一個分子直接接觸？",
+    "options": {
+      "A": "CD3 複合體分子",
+      "B": "主要組織相容性複合體（MHC）分子",
+      "C": "T 細胞受體（TCR）α 鏈",
+      "D": "T 細胞受體（TCR）β 鏈"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 65 題",
+    "question": "T 細胞受體之β 鏈（T cell receptor β-chain, TCRβ）基因之胚原序列（germline sequence）可存在於下 列那種細胞中？",
+    "options": {
+      "A": "$CD4^+$$CD8^+$ T 細胞",
+      "B": "輔助型T 細胞（helper T cell）",
+      "C": "毒殺型T 細胞（cytotoxic T cell）",
+      "D": "B 細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 66 題",
+    "question": "下列有關mixed lymphocyte reaction（MLR）的敘述何者錯誤？",
+    "options": {
+      "A": "MLR 可以用來偵測器官移植時，捐贈者與接受者組織不相容之情形",
+      "B": "MLR 可以用來偵測$CD4^+$ T 細胞增生之情形",
+      "C": "MLR 會加入[3H]-thymidine 來偵測DNA 合成之情況",
+      "D": "[3H]-thymidine 的量越多表示細胞增生程度越好，捐贈者的器官越容易被接受"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 67 題",
+    "question": "關於T 輔助細胞在B 細胞活化過程中所提供協助的敘述，下列那一項錯誤？",
+    "options": {
+      "A": "兩種細胞必須辨識同一種抗原（linked recognition），才能有效刺激抗體生成",
+      "B": "T 輔助細胞分泌細胞激素（cytokines）協助B 細胞的複製與活化",
+      "C": "T 輔助細胞表面表現CD40L 分子，可協助B 細胞第2 訊號的傳遞",
+      "D": "T 輔助細胞表面表現B7，是主要的協同刺激因子（co-stimulatory molecule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 68 題",
+    "question": "上皮內淋巴細胞（intraepithelial lymphocytes, IELs）主要包含二群$CD8^+$ T 細胞，一群為CD8 α:α T 細 胞，另一群為CD8 α:β T 細胞，下列有關這二群細胞之敘述，何者正確？",
+    "options": {
+      "A": "二者皆可利用perforin 及granzyme 毒殺受感染的上皮細胞",
+      "B": "二者皆利用T 細胞受體與呈現抗原的MHC class I 分子結合",
+      "C": "二者皆主要以naïve T 細胞型式存在上皮細胞之間",
+      "D": "二者的T 細胞受體變異性（TCR diversity）皆很小"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 69 題",
+    "question": "有關皮膚與黏膜的防禦作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "皮膚的外層細胞角質化，可增強對病原體的防禦能力",
+      "B": "胃黏膜的強酸性胃液，可摧毀大部分細菌",
+      "C": "皮脂腺分泌的油脂可阻止細菌繁殖",
+      "D": "皮膚表面的鹼性狀態，可阻止微生物在皮膚繁殖"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 70 題",
+    "question": "關於先天性免疫力（innate immunity）相關的基因突變會導致嚴重的原發性免疫缺損疾病的敘述，下 列何者正確？",
+    "options": {
+      "A": "NEMO 的突變不會影響先天性免疫力",
+      "B": "慢性肉芽腫病的病患易受肝炎病毒感染",
+      "C": "白血球黏著分子缺損可能會導致新生兒臍帶傷口延遲癒合",
+      "D": "Toll-like receptor 的缺損不會導致對病毒的免疫缺損"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 71 題",
+    "question": "有關第三型過敏免疫反應，最正確的敘述為何？",
+    "options": {
+      "A": "抗體辨識與結合細胞表面抗原，造成細胞壞死所產生的過度免疫反應",
+      "B": "主要參與反應的抗體為IgE",
+      "C": "大量過度活化TH1 與CD8 T 細胞所致",
+      "D": "常因持續性病原菌感染所引發"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 72 題",
+    "question": "過敏原和抗原特異性的IgE 結合後如何活化肥大細胞（mast cells）？",
+    "options": {
+      "A": "經由補體接受體被吞噬到肥大細胞內",
+      "B": "經由B 細胞表面的抗體刺激B 細胞產生更多IgE",
+      "C": "經由肥大細胞表面的IgE 接受體傳訊息到細胞內",
+      "D": "黏著到樹突細胞上的MHC 分子刺激T 細胞產生IL-4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 73 題",
+    "question": "下列有關adoptive T-cell transfer 用於腫瘤免疫治療的敘述，那一項錯誤？",
+    "options": {
+      "A": "自健康人體內純化T 細胞在體外刺激後打回癌症病人的療法",
+      "B": "T 細胞體外活化需要IL-2 細胞激素刺激",
+      "C": "T 細胞可以經由抗原呈獻細胞（antigen presenting cells）活化",
+      "D": "T 細胞活化後仍保有記憶性（memory）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 74 題",
+    "question": "關於移植體對抗宿主疾病（graft-versus-host disease, GVHD），下列何者錯誤？",
+    "options": {
+      "A": "需要接受者的抗原呈獻細胞（antigen presenting cells）啟動",
+      "B": "可運用混合淋巴球反應（mixed lymphocyte reaction）檢測",
+      "C": "因接受者的T 細胞過多造成",
+      "D": "可以去除移植體的T 細胞而減緩其反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

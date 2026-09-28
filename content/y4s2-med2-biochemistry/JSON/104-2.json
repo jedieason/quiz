@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 26 題",
+    "question": "蛋白質結構中的β-摺板（β-sheet）與α-螺旋（α-helix）在結構分類上屬於：",
+    "options": {
+      "A": "一級結構（primary structure）",
+      "B": "二級結構（secondary structure）",
+      "C": "三級結構（tertiary structure）",
+      "D": "四級結構（quaternary structure）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 27 題",
+    "question": "下列關於異位調節酵素（allosteric enzymes）的敘述，何者錯誤？",
+    "options": {
+      "A": "異位調節因子（allosteric effector）會影響此類酵素活性中心的結構",
+      "B": "異位調節屬於可逆性（reversible）的活性調控方式",
+      "C": "此類酵素大多以單體（monomeric）的方式存在",
+      "D": "將此類酵素催化反應之初速度（Vo或Vi）對受質濃度（[S]）作圖，所得曲線呈S形 （sigmoidal shape）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 28 題",
+    "question": "下列那一個胺基酸在酸鹼值7.0的電泳（electrophoresis）過程中，朝向陽極移動的速率最 快？",
+    "options": {
+      "A": "丙氨酸（alanine）",
+      "B": "離胺酸（lysine）",
+      "C": "麩胺醯胺（glutamine）",
+      "D": "天冬氨酸（aspartic acid）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 29 題",
+    "question": "下列何種輔酶（coenzyme）不參與α-ketoglutarate轉換成succinyl-CoA之氧化脫羧反應 （oxidative decarboxylation）？",
+    "options": {
+      "A": "Thiamine pyrophosphate",
+      "B": "Tetrahydrofolate",
+      "C": "FAD",
+      "D": "Coenzyme A"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 30 題",
+    "question": "在紅血球中，下列那一種物質可直接調控血紅素（hemoglobin）中氧分子的釋放？",
+    "options": {
+      "A": "Dihydroorotate",
+      "B": "2,3-bisphosphoglycerate",
+      "C": "Fructose-1,6-bisphosphate",
+      "D": "Cytochrome oxidase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 31 題",
+    "question": "下列何者是胸腺嘧啶（thymine）在細胞內代謝分解之中間產物？",
+    "options": {
+      "A": "Uric acid",
+      "B": "β-alanine",
+      "C": "Carbamoyl phosphate",
+      "D": "β-aminoisobutyrate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 32 題",
+    "question": "下列那一個酵素的缺陷，最可能導致嘌呤核苷降解（purine nucleoside degradation）的異 常，導致免疫缺陷疾病（immunodeficiency diseases）的發生？",
+    "options": {
+      "A": "Adenosine deaminase",
+      "B": "AMP aminohydrolase",
+      "C": "Purine oxidase",
+      "D": "Xanthine oxidoreductase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 33 題",
+    "question": "有關大腸桿菌（E. coli）DNA之複製過程，下列敘述何者錯誤？",
+    "options": {
+      "A": "解螺旋酶（helicase）在複製叉（replication fork）上負責解開雙股DNA",
+      "B": "DNA連接酶（ligase）在延遲股（lagging strand）上催化磷酸雙酯鍵（phosphodiester bond）的形成",
+      "C": "DNA聚合酶I型（DNA polymeraseⅠ）由岡崎片段（Okazaki fragment）的5'端水解RNA",
+      "D": "DnaA蛋白與oriC位置的GC rich區域結合"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 34 題",
+    "question": "下列何者與真核細胞轉錄作用無關？",
+    "options": {
+      "A": "DNA模板（DNA template）",
+      "B": "RNA聚合酶（RNA polymerase）",
+      "C": "RNA引子（RNA primer）",
+      "D": "啟動子（promoter）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 35 題",
+    "question": "真核細胞蛋白質合成的啟始階段（initiation stage）需要轉譯起始因子4F（eIF4F）複合物的 參與，下列那一種轉譯起始因子不包含於此種複合物中？",
+    "options": {
+      "A": "eIF4A",
+      "B": "eIF4B",
+      "C": "eIF4E",
+      "D": "eIF4G"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 36 題",
+    "question": "RAS-MAPK訊息傳遞路徑同時可調控細胞死亡與存活的訊號，RAS的活化需要下列那一個分 子？",
+    "options": {
+      "A": "ATP",
+      "B": "GTP",
+      "C": "NADH",
+      "D": "$Ca^{2+}$"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 37 題",
+    "question": "RecA是救命反應（SOS response）的主要調控蛋白質，導致受LexA repressor調控的基因 表現增加，其作用機制為何？",
+    "options": {
+      "A": "RecA協同DNA聚合酶，將LexA repressor從操縱基因（operator）上移除",
+      "B": "RecA直接結合到LexA操縱基因（operator）的位置上，使LexA repressor從操縱基因 （operator）上分離",
+      "C": "RecA與LexA repressor結合而弱化LexA repressor與操縱基因（operator）結合的親和力 （binding affinity）",
+      "D": "RecA與LexA repressor結合，引發LexA repressor的自體裂解（self-cleavage）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 38 題",
+    "question": "肺結核病人常以各種不同藥物一併治療，rifampicin為主要的藥物之一。Rifampicin抑制肺結 核桿菌的機轉為抑制下列那一種酶？",
+    "options": {
+      "A": "去氧核糖核酸聚合酶（DNA polymerase）",
+      "B": "細菌核糖核酸聚合酶（bacterial RNA polymerase）",
+      "C": "粒線體核糖核酸聚合酶（mitochondrial RNA polymerase）",
+      "D": "反轉錄酶（reverse transcriptase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 39 題",
+    "question": "下列那一個代謝途徑不會產生二氧化碳？",
+    "options": {
+      "A": "五碳糖磷酸途徑（pentose phosphate pathway）",
+      "B": "克氏循環（TCA cycle）",
+      "C": "從草醯乙酸（oxaloacetate）開始的糖質新生作用（gluconeogenesis）",
+      "D": "糖解作用（glycolysis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 40 題",
+    "question": "在糖解（glycolysis）作用中，那個酵素的功能可將六碳糖分解為兩個三碳糖？",
+    "options": {
+      "A": "phosphohexose isomerase",
+      "B": "aldolase",
+      "C": "triose phosphate isomerase",
+      "D": "enolase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 41 題",
+    "question": "下列何種革蘭氏陽性細菌的細胞壁醣複合物（glycoconjugates）之合成，可以被抗生素  penicillin所抑制？",
+    "options": {
+      "A": "glycolipids",
+      "B": "proteoglycans",
+      "C": "glycoproteins",
+      "D": "peptidoglycans"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 42 題",
+    "question": "在哺乳類動物利用膽鹼（choline）合成磷脂醯絲胺酸（phosphatidylserine）的過程中，需 要下列何者？",
+    "options": {
+      "A": "GTP",
+      "B": "CTP",
+      "C": "AMP",
+      "D": "UMP"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 43 題",
+    "question": "下列何者為中性（neutral）物質的穿膜促進性擴散作用（facilitated diffusion）之特徵？",
+    "options": {
+      "A": "這是一種需能反應",
+      "B": "主要依賴於膜電位（membrane potential）",
+      "C": "當代謝物濃度增加時，輸送速度會有上限",
+      "D": "以輸送速度與代謝物濃度作圖，將呈現線性圖"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 44 題",
+    "question": "下列關於脂蛋白（lipoprotein）的敘述，何者錯誤？",
+    "options": {
+      "A": "脂蛋白含脂質與蛋白質，它負責運送膽固醇（cholesterol）、磷脂質（phospholipid）與三 酸甘油酯（triacylglycerol）到各組織器官",
+      "B": "ApoC-II會促進血液中三酸甘油酯之分解",
+      "C": "含蛋白質量最多的脂蛋白是高密度脂蛋白（HDL, high density lipoprotein）",
+      "D": "運送肝臟細胞所合成的三酸甘油酯到周邊組織的脂蛋白為乳糜微粒（chylomicrons）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 45 題",
+    "question": "穀胱甘肽（glutathione）為人體內調節氧化還原之重要物質，下列那一種胺基酸不是作為合 成穀胱甘肽之主要骨架？",
+    "options": {
+      "A": "麩胺酸（glutamate）",
+      "B": "離胺酸（lysine）",
+      "C": "半胱胺酸（cysteine）",
+      "D": "甘胺酸（glycine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 46 題",
+    "question": "一名3個月大男嬰的血清中，苯丙胺酸（phenylalanine）與苯丙酮酸（phenylpyruvate）的 濃度較高。若是苯酮尿症（phenylketonuria），最可能會再出現下列那個檢驗數據？",
+    "options": {
+      "A": "苯丙胺酸羥化酶（Phenylalanine hydroxylase）活性降低",
+      "B": "血清中的黑尿酸（Homogentisic acid）濃度偏高",
+      "C": "血清中的維生素B12濃度偏低",
+      "D": "血清中的維生素B6濃度偏低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 47 題",
+    "question": "下列關於粒線體ATP synthase的敘述，何者錯誤？",
+    "options": {
+      "A": "位於粒線體內膜",
+      "B": "可利用氫離子濃度梯度（$H^+$ gradient）將ADP轉換為ATP",
+      "C": "為氫離子與磷酸根之symporter",
+      "D": "此酵素運作時會產生蛋白質四級結構變化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 48 題",
+    "question": "有關三聚體G蛋白質偶合受體（trimeric G protein-coupled receptor），不具下列何種特性？",
+    "options": {
+      "A": "部分受體利用環狀核苷酸（cyclic nucleotides）作為訊息傳遞者",
+      "B": "是一種細胞核受體（nuclear receptor）",
+      "C": "此受體會與G蛋白質交互作用",
+      "D": "此受體具有許多穿膜結構"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 49 題",
+    "question": "下列那一種荷爾蒙與受器（receptor）結合後，會啟動受器之酪胺酸激酶（tyrosine kinase） 的活性？",
+    "options": {
+      "A": "epinephrine",
+      "B": "glucagon",
+      "C": "insulin",
+      "D": "estrogen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 50 題",
+    "question": "測定細胞中某種特定mRNA的表現量，下列何種方法最適合？",
+    "options": {
+      "A": "Gel shift assay",
+      "B": "Site-directed mutagenesis",
+      "C": "Northern blotting",
+      "D": "Southern blotting"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

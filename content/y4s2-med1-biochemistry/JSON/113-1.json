@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 113 年第一次醫師國考第 74 題",
+    "question": "在競爭性抑制劑（competitive inhibitor）的存在下，下列何項是可預期的Michaelis-Menten酵素動力學 變化？",
+    "options": {
+      "A": "Vmax下降，KM下降",
+      "B": "Vmax不變，KM下降",
+      "C": "Vmax下降，KM上升",
+      "D": "Vmax不變，KM上升"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 75 題",
+    "question": "下列何者為穩定蛋白質α-螺旋結構的主要因素？",
+    "options": {
+      "A": "胜肽鏈上α碳原子之間的疏水性（hydrophobic）交互作用",
+      "B": "螺旋結構內胜肽鏈主幹上的胜肽鍵（peptide bond）之間的氫鍵作用（hydrogen bond）",
+      "C": "R基團（R group；side chain）之間靜電性的作用（electrostatic interaction）",
+      "D": "R基團（R group；side chain）之間氫鍵（hydrogen bond）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 76 題",
+    "question": "Enzyme Commission（EC）將酵素依反應類型區分為六大類別（classes），下列何者不屬於EC命名系統之酵 素類別？",
+    "options": {
+      "A": "lyases",
+      "B": "dehydrogenases",
+      "C": "hydrolases",
+      "D": "isomerases"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 77 題",
+    "question": "Lipoate是pyruvate dehydrogenase complex其中一個輔酶，參與催化pyruvate形成acetyl-CoA，下列有關 其結構與功能，何者錯誤？",
+    "options": {
+      "A": "含有2個thiol groups，可受到pyruvate dehydrogenase complex之NADP氧化形成雙硫鍵（disulfide bond）",
+      "B": "lipoate經由amide連結與dihydrolipoyl transacetylase之lysine結合",
+      "C": "作為acyl group carrier，轉移到coenzyme A，形成acetyl-CoA",
+      "D": "氧化形式之lipoate受到hydroxyethyl TPP還原並接受acetyl group"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 78 題",
+    "question": "轉胺酶（transaminases）是參與胺基酸合成的重要酵素，此酵素的活性中心帶有下列那一種輔酶 （coenzyme）？",
+    "options": {
+      "A": "甲基氰鈷胺（methylcobalamin）",
+      "B": "吡哆醛磷酸（pyridoxal phosphate）",
+      "C": "葉酸（folic acid）",
+      "D": "硫胺素（thiamine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 79 題",
+    "question": "核苷三磷酸（nucleoside triphosphates）以下列何種形式攜帶及傳遞能量？",
+    "options": {
+      "A": "磷酸酐鍵（phosphoanhydride bonds）",
+      "B": "磷酸二酯鍵（phosphodiester bonds）",
+      "C": "糖苷鍵（glycosidic bonds）",
+      "D": "氫鍵（hydrogen bonds）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 80 題",
+    "question": "拓樸異構酶（Topoisomerase）的主要功能為：",
+    "options": {
+      "A": "改變DNA分子的超螺旋（supercoil）",
+      "B": "改變DNA分子鹼基配對（base-pairing）的專一性",
+      "C": "改變DNA分子的核苷酸（nucleotide）數目",
+      "D": "將DNA與RNA做置換"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 81 題",
+    "question": "鹼基切除修復（base excision repair）過程中，催化修復作用的第一個酵素為：",
+    "options": {
+      "A": "DNA糖基化酶（DNA glycosylase）",
+      "B": "Apurinic/apyrimidinic核酸內切酶（AP endonuclease）",
+      "C": "DNA連接酶（DNA ligase）",
+      "D": "Dam甲基化酶（Dam methylase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 82 題",
+    "question": "關於大腸桿菌（E. coli）DNA聚合酶 I 型（DNA polymerase I）的Klenow fragment，下列敘述何者錯誤？",
+    "options": {
+      "A": "具有DNA聚合酶活性",
+      "B": "具有5'端到3'端核酸外切酶（exonuclease）活性",
+      "C": "是聚合酶C端（C-terminal）的大片段",
+      "D": "具有3'端到5'端核酸外切酶（exonuclease）活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 83 題",
+    "question": "致癌基因產物Ras位於細胞膜上傳遞信息，此蛋白是經由何種修飾而能夠結合在細胞膜？",
+    "options": {
+      "A": "ubiquitination",
+      "B": "acetylation",
+      "C": "adenylation",
+      "D": "prenylation"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 84 題",
+    "question": "原核生物RNA聚合酶在進行轉錄延伸作用（elongation）時，下列那一個次單元（subunit）參與最少？",
+    "options": {
+      "A": "α",
+      "B": "β",
+      "C": "β’",
+      "D": "σ"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 85 題",
+    "question": "擺動假說（wobble hypothesis）允許某些tRNA識別多個密碼子（codon）。在酵母菌中，一個tRNAArg具有反 密碼子（anticodon）(5')ICG，此tRNAArg應可識別下列那一個精胺酸（arginine）密碼子？",
+    "options": {
+      "A": "(5')CGA",
+      "B": "(5')AGC",
+      "C": "(5')UGC",
+      "D": "(5')GGC"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 86 題",
+    "question": "脊椎動物中，由下列那種酶負責合成18S與28S rRNA？",
+    "options": {
+      "A": "RNA polymerase I",
+      "B": "RNA polymerase II",
+      "C": "RNA polymerase III",
+      "D": "ribosomal RNase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 87 題",
+    "question": "無氧代謝時，將一莫耳（mole）的葡萄糖經由糖解作用（glycolysis）及酵素lactate dehydrogenase轉化 成兩莫耳的乳酸（lactate），最終淨產生：",
+    "options": {
+      "A": "一莫耳的ATP",
+      "B": "兩莫耳的ATP",
+      "C": "一莫耳的ATP以及兩莫耳的NADH",
+      "D": "兩莫耳的ATP以及兩莫耳的NADH"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 88 題",
+    "question": "飲食中的植物性澱粉（amylopectin and amylose），會在我們的消化道中被水解成：",
+    "options": {
+      "A": "glucose與maltose",
+      "B": "glucose與glucose-1-phosphate",
+      "C": "glucose-1-phosphate與maltose",
+      "D": "glucose-6-phosphate與maltose"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 89 題",
+    "question": "在醣蛋白質（glycoproteins）分子中，下列那一組胺基酸殘基（amino acid residues）皆可參與醣基 （carbohydrate moiety）與蛋白質的鍵結？",
+    "options": {
+      "A": "asparagine, serine, threonine",
+      "B": "cysteine, aspartate, glutamate",
+      "C": "serine, glutamine, arginine",
+      "D": "aspartate, arginine, threonine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 90 題",
+    "question": "下列有關膽鹽（bile salts）的敘述，何者錯誤？",
+    "options": {
+      "A": "由7α-hydroxylase催化其生合成之速率決定步驟",
+      "B": "屬於非極性分子，可促進脂質在小腸的吸收",
+      "C": "合成時需要cytochrome P450酵素的參與",
+      "D": "與膽固醇的量有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 91 題",
+    "question": "高雪氏症（Gaucher's disease）屬於溶小體儲積症（lysosomal storage disorder）的一種，與下列那一 類物質的代謝有關？",
+    "options": {
+      "A": "glycogen",
+      "B": "choline",
+      "C": "sphingolipid",
+      "D": "N-acetylglutamate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 92 題",
+    "question": "在脊椎動物細胞內，脂肪酸之omega氧化（ω-oxidation）反應主要發生於：",
+    "options": {
+      "A": "細胞核",
+      "B": "粒線體",
+      "C": "高基氏體",
+      "D": "內質網"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 93 題",
+    "question": "人體之脯胺酸（proline）或是精胺酸（arginine）主要由下列何種胺基酸代謝轉換形成？",
+    "options": {
+      "A": "麩胺酸（glutamate）",
+      "B": "色胺酸（tryptophan）",
+      "C": "纈胺酸（valine）",
+      "D": "甲硫胺酸（methionine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 94 題",
+    "question": "在饑餓時，人體會分解蛋白質產生胺基酸以供應能量，下列那一種胺基酸過度代謝最容易導致酮症 （ketosis）？",
+    "options": {
+      "A": "白胺酸（leucine）",
+      "B": "甲硫胺酸（methionine）",
+      "C": "精胺酸（arginine）",
+      "D": "麩胺酸（glutamate）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 95 題",
+    "question": "下列那一個酵素位於粒線體電子傳遞鏈的complex IV？",
+    "options": {
+      "A": "NADH dehydrogenase",
+      "B": "cytochrome oxidase",
+      "C": "succinate dehydrogenase",
+      "D": "ubiquinone:cytochrome c oxidoreductase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 96 題",
+    "question": "$Ca^{2+}$是一重要的訊息分子，細胞中存在$Ca^{2+}$結合蛋白例如calmodulin參與其傳訊機制，而calmodulin蛋白最 主要藉由那個結構來結合$Ca^{2+}$？",
+    "options": {
+      "A": "EF hand domain",
+      "B": "SH2 domain",
+      "C": "PTB domain",
+      "D": "PH domain"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 97 題",
+    "question": "下列何種分子引發的訊息傳遞通常不使用cAMP作為其主要的second messenger？",
+    "options": {
+      "A": "atrial natriuretic factor（ANF）",
+      "B": "glucagon",
+      "C": "dopamine",
+      "D": "serotonin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 98 題",
+    "question": "下列何種胺基酸為兒茶酚胺類激素（catecholamine hormones）生成之前驅物？",
+    "options": {
+      "A": "天門冬醯胺（asparagine）",
+      "B": "穀胺酸（glutamate）",
+      "C": "精胺酸（arginine）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 99 題",
+    "question": "大部分常用的限制酶（restriction enzyme）會辨識迴文序列（palindromic sequence）以截切去氧核糖核 酸，下列何者為迴文序列？",
+    "options": {
+      "A": "CCCCCC",
+      "B": "AGCAGC",
+      "C": "TAGGAT",
+      "D": "GCTAGC"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第一次醫師國考第 100 題",
+    "question": "聚合酶鏈鎖反應（polymerase chain reaction, PCR）不需要下列何種物質？",
+    "options": {
+      "A": "DNA雙股模板（template）",
+      "B": "引子（primer）",
+      "C": "去氧核糖核酸聚合酶（DNA polymerase）",
+      "D": "反轉錄酶（reverse transcriptase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

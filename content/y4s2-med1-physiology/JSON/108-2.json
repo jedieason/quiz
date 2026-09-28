@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 47 題",
+    "question": "有關guanylyl cyclase的敘述，下列何者正確？",
+    "options": {
+      "A": "可製造cAMP（cyclic adenosine monophosphate）",
+      "B": "可被一氧化氮（nitric oxide）活化",
+      "C": "其所催化的反應產物可直接活化protein kinase C",
+      "D": "促進血管收縮（vasoconstriction）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 48 題",
+    "question": "在正常情況下，astrocyte不具下列何種功能？",
+    "options": {
+      "A": "血腦障壁之形成",
+      "B": "形成myelin",
+      "C": "調節細胞外液之離子濃度",
+      "D": "協助提供葡萄糖給神經元"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 49 題",
+    "question": "下列何者不參與瞳孔對光的反射作用？",
+    "options": {
+      "A": "midbrain",
+      "B": "ciliary ganglion",
+      "C": "Edinger-Westphal nucleus",
+      "D": "trigeminal nerve"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 50 題",
+    "question": "下列cranial nerves中，何者只含sensory fibers？",
+    "options": {
+      "A": "第II腦神經（optic nerve）",
+      "B": "第V腦神經（trigeminal nerve）",
+      "C": "第VII腦神經（facial nerve）",
+      "D": "第X腦神經（vagus nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 51 題",
+    "question": "經由多次訓練與學習，投籃可以百發百中，與下列何腦區最為相關？",
+    "options": {
+      "A": "hippocampus",
+      "B": "basal ganglia",
+      "C": "substantia nigra",
+      "D": "cerebellum"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 52 題",
+    "question": "下列何處受損會導致病患出現動態顫抖（intention tremor）、動幅障礙（dysmetria）和姿勢不穩（unstable  posture）等運動失調症狀？",
+    "options": {
+      "A": "大腦運動皮質區",
+      "B": "小腦",
+      "C": "基底核",
+      "D": "中腦"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 53 題",
+    "question": "下運動神經元（lower motor neurons）的損傷會導致下列那一種疾病？",
+    "options": {
+      "A": "Parkinson’s disease",
+      "B": "Huntington’s disease",
+      "C": "amyotrophic lateral sclerosis",
+      "D": "myasthenia gravis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 54 題",
+    "question": "有關骨骼肌細胞的dihydropyridine receptors之敘述，下列何者正確？",
+    "options": {
+      "A": "為位於橫管膜（T tubule membrane）上的ligand-gated 鈣離子管道（$Ca^{2+}$ channel）",
+      "B": "為位於肌漿網（sarcoplasmic reticulum）上的voltage-gated鈣離子管道（$Ca^{2+}$ channel）",
+      "C": "為位於橫管膜（T tubule membrane）上的voltage-gated鈣離子管道（$Ca^{2+}$ channel）",
+      "D": "為位於肌漿網（sarcoplasmic reticulum）上的ligand-gated鈣離子管道（$Ca^{2+}$ channel）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 55 題",
+    "question": "下列有關骨骼肌之敘述，何者錯誤？",
+    "options": {
+      "A": "收縮力的產生是來自於肌動蛋白（actin）與肌凝蛋白（myosin）的相互作用",
+      "B": "鈣離子與calmodulin結合活化myosin light chain kinase而造成收縮",
+      "C": "H-band位於肌肉的肌節（sarcomere）的中央",
+      "D": "在Z-line兩側的I-band主要是由肌動蛋白（actin）所組成的"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 56 題",
+    "question": "下列那種免疫細胞在正常人類血液中最不常見？",
+    "options": {
+      "A": "嗜酸性球（eosinophil）",
+      "B": "淋巴球（lymphocyte）",
+      "C": "單核球（monocyte）",
+      "D": "肥大細胞（mast cell）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 57 題",
+    "question": "當人體突然大量失血，最不可能發生下列何種狀況？",
+    "options": {
+      "A": "動脈感壓受器放電頻率（arterial baroreceptor firing rate）增加",
+      "B": "支配靜脈的交感神經活性（sympathetic activity）增加",
+      "C": "支配心臟的副交感神經活性（parasympathetic activity）減少",
+      "D": "週邊血管總阻力（total peripheral resistance）增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 58 題",
+    "question": "下列有關副交感神經對心血管系統調控的敘述，何者正確？",
+    "options": {
+      "A": "刺激竇房結（SA node）上F型鈉離子通道（F-type $Na^+$ channels），使細胞膜去極化",
+      "B": "直接抑制cAMP 作用，延緩心室肌細胞收縮與放鬆的速率",
+      "C": "活化β2 腎上腺素受體（β2 adrenergic receptors），造成血管舒張",
+      "D": "增加竇房結（SA node）上鉀離子通透性，使細胞膜過極化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 59 題",
+    "question": "當微血管前小動脈（precapillary arterioles）收縮時，會產生下列何種顯著變化？",
+    "options": {
+      "A": "微血管的靜水壓（hydrostatic pressure）增加",
+      "B": "微血管的濾過速率（filtration rate）下降",
+      "C": "微血管的血漿膠體滲透壓（colloid osmotic pressure）增加",
+      "D": "組織間液膠體滲透壓（colloid osmotic pressure）上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 60 題",
+    "question": "氣體交換（gas exchange）可發生在下列那些位置？①支氣管（bronchi） ②肺泡（alveoli） ③末端細支 氣管（terminal bronchioles） ④呼吸性細支氣管（respiratory bronchioles）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②④",
+      "C": "僅②③④",
+      "D": "僅①③④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 61 題",
+    "question": "正常人體之血液分置入甲、乙兩管，同時分別灌入氣體使得兩者之二氧化碳分壓 均為46 mmHg，甲 管氧分壓 為100 mmHg，乙管氧分壓則為40 mmHg。下列敘述何者正確？",
+    "options": {
+      "A": "甲、乙兩管內二氧化碳總含量相同",
+      "B": "甲管內碳醯胺基血紅素（carbaminohemoglobin）佔全部血紅素（hemoglobin）之比例比乙管低",
+      "C": "乙管血液之氣體組成近似於體動脈血（systemic arterial blood）",
+      "D": "造成甲、乙兩管內血紅素（hemoglobin）分子特性差異之主要原因為波爾效應（Bohr effect）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 62 題",
+    "question": "張先生到醫院進行各項肺容積之測量，測量結果顯示總肺容量（total lung capacity）為5000毫升，肺餘容積 （residual volume）為300毫升，兩者之間的差值稱之為何？",
+    "options": {
+      "A": "肺活量（vital capacity）",
+      "B": "吸氣儲備容積（inspiratory reserve volume）",
+      "C": "潮氣容積（tidal volume）",
+      "D": "功能性肺餘容量（functional residual capacity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 63 題",
+    "question": "下列何者參與排便反射？",
+    "options": {
+      "A": "直腸的壓力感覺受器傳達至黏膜下神經叢",
+      "B": "直腸平滑肌受腰椎神經釋放的epinephrine刺激",
+      "C": "外肛和內肛括約肌一起受腸神經釋放的nitric oxide刺激",
+      "D": "內肛括約肌受到副交感神經釋放的 acetylcholine 刺激"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 64 題",
+    "question": "胰蛋白酶（trypsin）不參與下列那種酵素的活化？",
+    "options": {
+      "A": "colipase",
+      "B": "carboxypeptidase B",
+      "C": "elastase",
+      "D": "deoxyribonuclease"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 65 題",
+    "question": "下列有關腎臟的逆流機制（countercurrent mechanism）的敘述，何者錯誤？",
+    "options": {
+      "A": "主要是為了形成並維持腎臟髓質垂直性的滲透壓梯度",
+      "B": "所需要的能量由亨氏管上升段粗枝（thick ascending limb of loop of Henle）的鈉-鉀腺苷三磷酸酶（$Na^+$-$K^+$ ATPase）提供",
+      "C": "亨氏管上升段粗枝會利用鈉-氯協同運輸蛋白（$Na^+$-Cl+ cotransporter）將鈉、氯離子分泌至腎小管管腔",
+      "D": "直管（vasa recta）利用逆流交換（countercurrent exchange）的作用維持腎臟髓質垂直性的滲透壓梯度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 66 題",
+    "question": "下列有關腎小管對於鈉離子（$Na^+$）再吸收的敘述，何者錯誤？",
+    "options": {
+      "A": "近端腎小管主要由鈉－葡萄糖共同轉運蛋白（sodium-glucose cotransporter）負責",
+      "B": "亨利氏環的上升段粗枝（thick ascending limb of loop of Henle）由鈉－鉀－氯協同轉運蛋白（$Na^+$-$K^+$-2Cl- cotransporter）負責",
+      "C": "亨利氏環的上升段細枝（thin ascending limb of loop of Henle）由上皮鈉通道（epithelial sodium channel）負責",
+      "D": "遠曲小管（distal convoluted tubule）由鈉－氯協同轉運蛋白（$Na^+$-$Cl^-$ cotransporter）負責"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 67 題",
+    "question": "下列激素中，何者的化學結構屬性與其他三者不同？",
+    "options": {
+      "A": "aldosterone",
+      "B": "1,25-dihydroxycholecalciferol",
+      "C": "thyroxine",
+      "D": "testosterone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 68 題",
+    "question": "下列有關胰臟β細胞分泌胰島素主要機轉的敘述，何者正確？",
+    "options": {
+      "A": "血中葡萄糖是經由第四型葡萄糖轉運蛋白進入胰臟β細胞刺激胰島素分泌",
+      "B": "ATP敏感性的鉀離子通道打開造成鉀離子的外流是促進胰島素分泌的重要步驟",
+      "C": "血中的胺基酸會經由增加β細胞內的cAMP濃度促進胰島素的分泌作用",
+      "D": "β細胞內鈣離子的濃度升高與胰島素從分泌囊泡中釋放的作用有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 69 題",
+    "question": "當血中之鉀離子濃度上升時，下列那一個激素分泌增加最明顯？",
+    "options": {
+      "A": "anti-diuretic hormone",
+      "B": "angiotensinogen",
+      "C": "aldosterone",
+      "D": "atrial natriuretic peptide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 70 題",
+    "question": "下列有關甲狀腺激素（thyroid hormones）之敘述，何者錯誤？",
+    "options": {
+      "A": "主要藉由血液中結合蛋白（binding protein）運送至標的細胞（target cell）",
+      "B": "游離型（free-form）激素主要藉由結合標的細胞細胞膜上之受器（receptor）",
+      "C": "血中半衰期較一般胜肽類（peptide）激素為長",
+      "D": "可調控標的細胞之基因轉錄（transcription）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 71 題",
+    "question": "催產素（oxytocin）的主要作用為何？",
+    "options": {
+      "A": "促進子宮鬆弛（uterine relaxation）",
+      "B": "促進排乳作用（milk ejection）",
+      "C": "抑制黃體分解（luteolysis）",
+      "D": "抑制前列腺素 F2α（PGF2α）的分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 72 題",
+    "question": "下列有關Klinefelter's syndrome的敘述，何者錯誤？",
+    "options": {
+      "A": "細胞之核型（karyotype）多為47, XXY",
+      "B": "精蟲數目稀少",
+      "C": "其血中之睪固酮（testosterone）分泌量較低",
+      "D": "其LH及FSH的分泌量較低"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 73 題",
+    "question": "一位38歲男性因性功能障礙求診，抽血檢查結果，testosterone濃度為1.5 ng/mL（正常值為3～8 ng/mL）， prolactin濃度為150 ng/mL（正常成年男性為＜20 ng/mL）。下列何者是最不可能造成此性功能障礙的原因？",
+    "options": {
+      "A": "服用抑制dopamine分泌的藥物",
+      "B": "在腦下腺（pituitary gland）長了腫瘤",
+      "C": "在下視丘（hypothalamus）接近腦下腺（pituitary gland）處長了腫瘤",
+      "D": "隱睪症（cryptorchidism）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

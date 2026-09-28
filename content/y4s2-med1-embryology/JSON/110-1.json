@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 32 題",
+    "question": "肌原母細胞（myoblast）進入下列何者內，衍生形成橫膈雙腳（crura of diaphragm）？",
+    "options": {
+      "A": "外側體壁（lateral body wall）",
+      "B": "頸體節（cervical somite）",
+      "C": "橫中隔（septum transversum）",
+      "D": "食道背繫膜（dorsal mesentery of esophagus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 33 題",
+    "question": "從腹面觀（ventral view），中腸環（midgut loop）的旋轉方式為：",
+    "options": {
+      "A": "順時針方向作180度旋轉",
+      "B": "順時針方向作270度旋轉",
+      "C": "逆時針方向作180度旋轉",
+      "D": "逆時針方向作270度旋轉"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 34 題",
+    "question": "下列何項構造不是源自胚胎咽弓（pharyngeal arch）？",
+    "options": {
+      "A": "動脈導管（ductus arteriosus）",
+      "B": "主動脈弓（aortic arch）",
+      "C": "左側頸總動脈（left common carotid artery）",
+      "D": "升主動脈（ascending aorta）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 35 題",
+    "question": "下列何者源自體節之生骨節（sclerotome）的間質細胞？",
+    "options": {
+      "A": "脊椎骨（vertebra）",
+      "B": "髓核（nucleus pulposus）",
+      "C": "顱骨（cranium）",
+      "D": "四肢骨（appendicular skeleton）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 36 題",
+    "question": "下列有關視神經（optic nerve）發育的敘述，何者正確？",
+    "options": {
+      "A": "在胎兒出生前，視神經的髓鞘形成（myelination）已完全發育",
+      "B": "視神經細胞是由大腦的皮質部衍生形成",
+      "C": "視神經髓鞘僅包圍至視神經盤（optic nerve disc）",
+      "D": "視神經源自神經嵴（neural crest）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

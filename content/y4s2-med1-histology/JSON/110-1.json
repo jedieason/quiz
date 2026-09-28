@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 37 題",
+    "question": "下列上皮細胞間接合（intercellular junction）的構造，何者有中間絲（intermediate filament）參與？",
+    "options": {
+      "A": "緊密接合（tight junction）",
+      "B": "黏著小帶（zonula adherens）",
+      "C": "橋粒（desmosome）",
+      "D": "間隙接合（gap junction）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 38 題",
+    "question": "有關杯狀細胞（goblet cell）的敘述，下列何項正確？",
+    "options": {
+      "A": "是構成腺泡（acinus）的細胞",
+      "B": "屬於單細胞腺體（unicellular gland）",
+      "C": "屬於漿液分泌細胞（serous-secreting cell）",
+      "D": "通常分布於單層鱗狀（simple squamous）上皮細胞之間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 39 題",
+    "question": "下列關於白血球（leukocyte）的敘述，何者正確？",
+    "options": {
+      "A": "顆粒性白血球（granulocyte）包括淋巴球（lymphocyte）、嗜酸性球（eosinophil）和嗜鹼性球（basophil）； 無顆粒性白血球（agranulocyte）包括嗜中性白血球（neutrophil）和單核球（monocyte）",
+      "B": "含有嗜天青顆粒（azurophilic granule），此顆粒是溶酶體（lysosome）",
+      "C": "只有淋巴球（lymphocyte）能離開血管，進入結締組織（connective tissue）",
+      "D": "數量最多的是淋巴球（lymphocyte），最大的是嗜中性白血球（neutrophil）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 40 題",
+    "question": "有關角膜（cornea）的敘述，下列何者正確？",
+    "options": {
+      "A": "角膜上皮（corneal epithelium）由約5層非角質化複層扁平上皮細胞所組成，厚約 50μm",
+      "B": "Bowman氏膜（Bowman's membrane）呈現過碘酸–雪夫氏（periodic acid-Schiff, PAS）反應，厚約 50μm",
+      "C": "Descemet氏膜（Descemet's membrane）是一均質、微纖維的板層，厚約 40μm",
+      "D": "角膜基質（corneal stroma）由約30層薄板（thin lamellae）組成，每層含交錯的網狀微纖維束（reticular fibrils）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 41 題",
+    "question": "下列何者是淋巴球（lymphocyte）在淋巴結（lymph node）中正確的循環路徑？①輸入淋巴管（afferent lymphatic vessel） ②輸出淋巴管（efferent lymphatic vessel） ③被膜下竇（subcapsular sinus） ④髓質竇 （medullary sinus） ⑤小樑竇（trabecular sinus）",
+    "options": {
+      "A": "①⑤③④②",
+      "B": "①③⑤④②",
+      "C": "①④⑤③②",
+      "D": "①④③⑤②"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 42 題",
+    "question": "膽囊駱阿氏竇（Rokitansky-Aschoff sinuses）是：",
+    "options": {
+      "A": "漿液腺泡（serous acini）",
+      "B": "黏液腺泡（mucous acini）",
+      "C": "黏膜憩室（diverticula of mucosa）",
+      "D": "淋巴管（lymphatic vessels）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 43 題",
+    "question": "下列有關胃幽門部（pyloric stomach）的敘述，何項正確？",
+    "options": {
+      "A": "幽門腺是單泡狀腺（simple acinar gland）",
+      "B": "具有很淺的胃小凹（gastric pit），僅占胃黏膜（gastric mucosa）長度的十分之一",
+      "C": "具有顯著的粘膜肌層（muscularis mucosae）及增厚的環走肌外層（circular layer of muscularis externa）",
+      "D": "幽門腺主要是由許多壁細胞（parietal cell）及杯狀細胞（goblet cell）所組成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 44 題",
+    "question": "手掌皮膚（palm skin）可見到下列何種構造？",
+    "options": {
+      "A": "毛囊（hair follicles）",
+      "B": "豎毛肌（arrector pili muscles）",
+      "C": "皮脂腺（sebaceous glands）",
+      "D": "汗腺（sweat glands）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 45 題",
+    "question": "腦下腺前葉（anterior lobe of pituitary gland）嗜酸性細胞（acidophil）內，呈嗜酸性的主要構造是：",
+    "options": {
+      "A": "分泌顆粒（secretory granule）",
+      "B": "高爾基氏體（Golgi apparatus）",
+      "C": "粗糙內質網（rough endoplasmic reticulum）",
+      "D": "中心粒（centriole）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 46 題",
+    "question": "睪丸縱隔（mediastinum testis）是由下列何者延伸並聚集增厚而成的？",
+    "options": {
+      "A": "皮膚（skin）",
+      "B": "鞘膜臟層（visceral layer of tunica vaginalis）",
+      "C": "鞘膜壁層（parietal layer of tunica vaginalis）",
+      "D": "白膜（tunica albuginea）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

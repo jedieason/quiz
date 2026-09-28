@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 29 題",
+    "question": "林先生之前到中國旅遊時吃了淡水魚的生魚片，不久後出現腹痛，回國後眼眶附近浮腫，很幸運的在浮腫部 位摘除將近4 mm大小的蟲體，林先生最有可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "蟠尾絲蟲（Onchocerca volvulus）",
+      "B": "有棘頜口線蟲（Gnathostoma spinigerum）",
+      "C": "東方眼蟲（Thelazia callipaeda）",
+      "D": "麥地那線蟲 （Dracunculus medinensis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 30 題",
+    "question": "有關鞭蟲（Trichuris trichiura）感染人體的敘述，下列何者錯誤？",
+    "options": {
+      "A": "幼蟲直接在腸道發育為成蟲",
+      "B": "成蟲主要寄生在大腸",
+      "C": "會引起自體感染（autoinfection）",
+      "D": "幼童重度感染可能會引起脫肛（rectum prolapse）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 31 題",
+    "question": "詹先生近年來因愛好生態攝影而經常前往北歐之瑞典及芬蘭等國旅遊，期間曾多次品嚐當地之醃魚特產，日 前因腹部不適及出現貧血病症而就醫，經醫院檢查發現有嚴重維他命B12缺乏，並於其空腸（jejunum）近端 發現有帶狀蟲體寄生。依據以上敘述，詹先生最可能感染何種寄生蟲？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "橫川吸蟲（Metagonimus yokogawai）",
+      "C": "廣節裂頭絛蟲（Diphyllobothrium latum）",
+      "D": "增生性裂頭幼蟲（Sparganum proliferum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 32 題",
+    "question": "人類感染下列何種寄生蟲，最常造成神經性囊尾幼蟲症（neurocysticercosis）？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "牛肉絛蟲（Taenia saginata）",
+      "C": "豬肉絛蟲（Taenia solium）",
+      "D": "亞洲無鈎絛蟲（Taenia saginata asiatica）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 33 題",
+    "question": "下列何者為瘧疾（malaria）患者發燒週期之最可能原因？",
+    "options": {
+      "A": "瘧原蟲入侵紅血球內，因為產生裂殖子（merozoite）而自紅血球內排出代謝產物所致",
+      "B": "除惡性瘧原蟲（Plasmodium falciparum）外，原蟲感染的細胞狀態是同步，所以發燒會呈現週期且有規律性",
+      "C": "間日瘧原蟲（P. vivax）感染之發燒週期一般為48小時，可能因不同次族群（sub-population）感染，造成不 規則的發燒週期",
+      "D": "相較於惡性瘧原蟲（Plasmodium falciparum），三日瘧原蟲（P. malariae）的潛伏期較間日瘧原蟲（P. vivax）為短"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 34 題",
+    "question": "下列何種病症通常與杜氏利什曼原蟲（Leishmania donovani）之感染無關？",
+    "options": {
+      "A": "腹瀉（diarrhea）",
+      "B": "貧血（anemia）",
+      "C": "黑水熱（blackwater fever）",
+      "D": "肝脾腫大（hepatosplenomegaly）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 35 題",
+    "question": "下列有關鼠蚤（Xenopsylla cheopis）傳播之鼠疫（plague）敘述，何者錯誤？",
+    "options": {
+      "A": "人類感染初期會呈現腋窩（axilla）腫大之腺鼠疫（bubonic plague）",
+      "B": "人類感染後期呈現人傳播人之肺鼠疫（pneumonic plague）",
+      "C": "感染性鼠蚤藉由嘔吐作用（vomiting）污染叮咬傷口而感染人類",
+      "D": "主要致病原為鼠疫桿菌（Yersinia pestis），屬於格蘭氏陰性菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

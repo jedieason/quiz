@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 18 題",
+    "question": "後天性免疫反應需較長時間建立，從接觸病原後需數天到數週才達到高峰。然而，這些反應比先天性免疫反 應更具特異性，且能產生免疫記憶，增強面臨相同病原體時的保護，下列何者最符合此種應用？",
+    "options": {
+      "A": "疫苗",
+      "B": "抗生素",
+      "C": "抗過敏反應藥物",
+      "D": "免疫抑制劑"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 19 題",
+    "question": "痛風（gout）是尿酸結晶（urate crystals）沉澱在關節組織後所引起的發炎症。下列那一種先天性免疫活 化途徑最可能參與上述發炎反應？",
+    "options": {
+      "A": "NLRP1",
+      "B": "NLRP3",
+      "C": "MDA5",
+      "D": "cGAS"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 20 題",
+    "question": "關於major histocompatibility complex（MHC）polymorphism 與抗病毒免疫反應，下列敘述何者最具相關 性？",
+    "options": {
+      "A": "增加可被MHC 呈獻的抗原種類，有利於抑制病毒在族群中傳播",
+      "B": "呈獻出最容易被T 細胞記憶的主要抗原點（predominant epitope）",
+      "C": "確保沒有年齡別的抗病毒免疫力差異性",
+      "D": "避免T 細胞在毒殺病毒時造成過度的自體免疫反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 21 題",
+    "question": "下列何種CD4 效應T 細胞（effector CD4 T cells）分泌的細胞激素（cytokines），扮演最重要的免疫抑制 功能？",
+    "options": {
+      "A": "IL-4",
+      "B": "IL-10",
+      "C": "IL-12",
+      "D": "TNF-α"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 22 題",
+    "question": "下列那些基因缺失會造成抗體無法進行類型轉換（class switch）？①activation-induced cytidine  deaminase（AID） ②adenosine deaminase（ADA） ③CD40 ④CD40 ligand ⑤RAG1",
+    "options": {
+      "A": "①③④",
+      "B": "②④⑤",
+      "C": "①②⑤",
+      "D": "③④⑤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 23 題",
+    "question": "每一顆B 細胞只表現一種專一性（specificity）抗原受體，其最主要的機制為：",
+    "options": {
+      "A": "RNA 選擇性剪接（alternative splicing）",
+      "B": "DNA 重組（rearrangement）",
+      "C": "等位基因排除（allelic exclusion）",
+      "D": "類型轉換重組（class switch recombination）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 24 題",
+    "question": "呼吸道剛被病毒感染時，最不可能產生下列何種分子？",
+    "options": {
+      "A": "type I interferon",
+      "B": "type II interferon",
+      "C": "CCL2",
+      "D": "IL-18"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 25 題",
+    "question": "Streptococcus pneumoniae 是一種胞外菌（extracellular bacteria）。下列何者最有可能幫助S.  pneumoniae 逃脫免疫偵測？",
+    "options": {
+      "A": "產生大量的lipopolysaccharide（LPS），毒殺免疫細胞",
+      "B": "形成孢子，躲避免疫偵測",
+      "C": "減少基因表達，避免刺激免疫反應",
+      "D": "細菌表面的莢膜多醣（capsular polysaccharide），干擾補體活化反應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 26 題",
+    "question": "2018 年諾貝爾生醫獎，由James Allison 與Tasuku Honjo 共同獲得，表彰他們發展出利用免疫檢查點抑制 劑（immune checkpoint inhibitor, ICI）對抗癌療法的突破性研究，下列關於免疫檢查點抑制劑的描述， 何者最不適當？",
+    "options": {
+      "A": "ICI 在癌症治療取得突破性的結果，如：黑色素瘤（melanoma）獲得較好的反應",
+      "B": "Pembrolizumab 與Nivolumab 是兩種常見的PD-1 抗體藥物，其治療反應率優於CTLA-4 抗體藥物",
+      "C": "Ipilimumab 是CTLA-4 抗體藥物，其治療副作用率高於PD-1 抗體藥物",
+      "D": "對於急性淋巴細胞白血病（acute lymphocytic leukemia, ALL），除了CAR-T 療法外，ICI 亦有顯著的療 效"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 27 題",
+    "question": "移植前所進行捐贈者與受贈者之淋巴細胞混合反應（mixed lymphocyte reaction, MLR），最主要評估下列 何者之相容程度？",
+    "options": {
+      "A": "HLA-A",
+      "B": "HLA-DR",
+      "C": "H2-D",
+      "D": "H2-K"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 28 題",
+    "question": "抗CD20 抗體（Rituximab）可治療非霍奇金氏淋巴瘤（non-Hodgkin's lymphoma）。主要是經由下列何種機 轉引起B 細胞的凋亡，達到抗腫瘤效果？",
+    "options": {
+      "A": "ADCC（經由活化Fc receptor）",
+      "B": "immunotoxin（抗體 + toxin）",
+      "C": "抗體結合chemotherapeutic drug",
+      "D": "免疫檢查點阻斷方法（immune checkpoint blockade）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 18 題",
+    "question": "下列有關先天性免疫系統對抗病原菌感染的敘述，何者最適當？",
+    "options": {
+      "A": "先天性免疫細胞只有監測身體的功能，無法有效移除病原體",
+      "B": "先天性免疫細胞無法提供專一性的保護力，且缺乏有效的記憶反應",
+      "C": "先天性免疫細胞摧毀它們所遇到的一切，需要後天性免疫來調節抑制這個過程",
+      "D": "先天性免疫細胞分泌的細胞激素和趨化因子在沒有後天性免疫的情況下具有毒性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 19 題",
+    "question": "病原菌感染時，在感染處引起先天性免疫發炎反應，吸引下列何種血液中的免疫細胞最快來到感染處？",
+    "options": {
+      "A": "B 細胞",
+      "B": "NK 細胞",
+      "C": "嗜中性白血球",
+      "D": "CD8 毒殺T 細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 20 題",
+    "question": "下列對於MHC 分子的描述，何者最不適當？",
+    "options": {
+      "A": "MHC class I 及MHC class II 分子是由多個基因所表達（polygenic）",
+      "B": "MHC class III 的基因產物在免疫系統中不具功能",
+      "C": "每一個表達MHC class I 及MHC class II 分子的基因是具有基因多型性（polymorphism）",
+      "D": "MHC class II 分子間的差異大部分是在β1 region 上的胺基酸序列"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 21 題",
+    "question": "下列關於B 細胞發育的敘述，何者最不適當？",
+    "options": {
+      "A": "骨髓是B 細胞開始進行發育的器官",
+      "B": "會辨識自體抗原的B 細胞可以在骨髓中被清除",
+      "C": "會辨識自體抗原的B 細胞可以在脾臟中被清除",
+      "D": "無法表現替代輕鏈（surrogate light chain）的B 細胞，發育時會停滯在immature B 細胞時期"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 22 題",
+    "question": "T 淋巴細胞生成與發育的位置為何？",
+    "options": {
+      "A": "肺臟",
+      "B": "脾臟",
+      "C": "淋巴結",
+      "D": "胸腺"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 23 題",
+    "question": "慢性感染Mycobacterium tuberculosis 時，病人肺部常形成肉芽腫（granuloma），是一種群聚巨噬細胞及 其他免疫細胞的病理組織，下列有關肉芽腫的敘述何者最不適當？",
+    "options": {
+      "A": "巨噬細胞無法有效清除感染的Mycobacterium tuberculosis",
+      "B": "被感染的巨噬細胞形成融合在一起的現象",
+      "C": "常見TH17 細胞圍繞在融合的巨噬細胞周圍",
+      "D": "常見於病人帶有NADPH oxidase 基因突變"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 24 題",
+    "question": "有關體細胞超突變（somatic hypermutation），下列敘述何者最不適當？",
+    "options": {
+      "A": "主要發生在germinal center 的B 細胞中",
+      "B": "由activation-induced cytidine deaminase（AID）在抗體的Fc region 造成點突變",
+      "C": "為促進親和力成熟（affinity maturation）的主要機制",
+      "D": "可增加抗體的多樣性（diversity）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 25 題",
+    "question": "肺結核是由Mycobacterium tuberculosis 感染後引起的慢性傳染病。下列何者是造成該細菌長期潛伏於被感 染的細胞內的最主要因素？",
+    "options": {
+      "A": "複製繁殖力高",
+      "B": "抵抗吞噬體的作用",
+      "C": "抑制樹突細胞抗原呈獻",
+      "D": "抗原變異性大"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 26 題",
+    "question": "下列何種自體免疫疾病，最主要是由T 細胞攻擊組織，進而影響中樞神經系統功能？",
+    "options": {
+      "A": "類風濕性關節炎",
+      "B": "多發性硬化症",
+      "C": "克隆氏症",
+      "D": "紅斑性狼瘡"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 27 題",
+    "question": "在腫瘤微環境（tumor microenvironment）中，下列何者是最不具免疫抑制性的分子或細胞？",
+    "options": {
+      "A": "programmed death-1（PD-1）",
+      "B": "調節性T 細胞（regulatory T cell, Treg）",
+      "C": "M1 巨噬細胞（M1 macrophage）",
+      "D": "interleukin 10（IL-10）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 28 題",
+    "question": "以PD-L1 單株抗體作為免疫癌症療法最主要的機轉，是阻斷下列何種細胞表現的PD-L1 與PD-1 的結合？",
+    "options": {
+      "A": "巨噬細胞",
+      "B": "樹突細胞",
+      "C": "T 細胞",
+      "D": "腫瘤細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

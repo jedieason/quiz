@@ -1,0 +1,309 @@
+[
+  {
+    "origin": "出自 098 年第一次醫師國考第 51 題",
+    "question": "下列何者為汽油燃燒後產生的氣體，氣喘病人吸入體內會使其症狀惡化？",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "Nitrogen dioxide",
+      "C": "Sulfur dioxide",
+      "D": "Dioxin"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或 Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 52 題",
+    "question": "人類重組interleukin-11 又稱為oprelvekin，此生物性製劑主要使用於緩解化療（chemotherapy）引發 之何種症狀？",
+    "options": {
+      "A": "Vomiting",
+      "B": "Severe thrombocytopenia",
+      "C": "Alopecia",
+      "D": "Diarrhea"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 53 題",
+    "question": "下列何者是臨床上已廣泛用來抑制攝護腺肥大及治療雄性禿之5α-reductase type 2 inhibitor？",
+    "options": {
+      "A": "Finasteride",
+      "B": "Dutasteride",
+      "C": "Megestrol acetate",
+      "D": "Leuprolide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 54 題",
+    "question": "酸化尿液會加重下列何種藥物之毒性？",
+    "options": {
+      "A": "Amphetamine",
+      "B": "Phenobarbital",
+      "C": "Morphine",
+      "D": "Diazepam"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 55 題",
+    "question": "患有氣喘的心律不整病人，不宜使用下列何種抗心律不整的藥物？",
+    "options": {
+      "A": "Propranolol",
+      "B": "Quinidine",
+      "C": "Verapamil",
+      "D": "Phenytoin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 56 題",
+    "question": "當氣喘病人使用某噴霧製劑，可以使支氣管擴張，而此作用不受β-blocker 之抑制，此外，本藥品一 般無中樞神經之作用，口服時bioavailability 少於40%，則此藥品為何？",
+    "options": {
+      "A": "Atropine",
+      "B": "Scopolamine",
+      "C": "Glucocorticoid",
+      "D": "Ipratropium"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 57 題",
+    "question": "下列何種藥物是屬於短效型cholinesterase 抑制劑，用於診斷重症肌無力症？",
+    "options": {
+      "A": "Bethanechol",
+      "B": "Echothiophate",
+      "C": "Edrophonium",
+      "D": "Ipratropium"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 58 題",
+    "question": "下列何者最容易引起全身性過敏？",
+    "options": {
+      "A": "Hydralazine",
+      "B": "Promethazine",
+      "C": "α-Methyldopa",
+      "D": "Penicillin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 59 題",
+    "question": "懷孕婦女在懷孕期接受primidone 等抗癲癇藥物治療，通常其新生兒會發生下列那一種凝血因子的缺 乏症？",
+    "options": {
+      "A": "Vitamin K-依賴型凝血因子",
+      "B": "Thrombin",
+      "C": "Fibrin",
+      "D": "Fibrinogen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 60 題",
+    "question": "下列那一種抗憂鬱藥物較不容易產生姿勢性低血壓的副作用？",
+    "options": {
+      "A": "Desipramine",
+      "B": "Trazodone",
+      "C": "Fluoxetine",
+      "D": "Amitriptyline"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 61 題",
+    "question": "下列有關中樞神經興奮劑藥理作用之描述，何者錯誤？",
+    "options": {
+      "A": "Amphetamine 與Cocaine 作用方式最大的差異在於其對多巴胺再回收系統作用之差異",
+      "B": "Nicotine 屬於一種中樞神經興奮劑",
+      "C": "Cocaine 具有抑制單胺氧化酶（monoamine oxidase）代謝多巴胺的作用",
+      "D": "Caffeine 屬於一種中樞神經興奮劑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 62 題",
+    "question": "下列那一種鴉片類藥物所產生的藥理作用，最不容易產生耐受性？",
+    "options": {
+      "A": "止痛作用（analgesia）",
+      "B": "瞳孔縮小（miosis）",
+      "C": "呼吸抑制作用（respiratory depression）",
+      "D": "鎮靜作用（sedation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 63 題",
+    "question": "以下有關精神疾病治療藥物所產生之副作用與其可能作用機制的配對，何者錯誤？",
+    "options": {
+      "A": "無月經-乳漏（Amenorrhea-galactorrhea）：阻斷多巴胺受體所致",
+      "B": "體重增加：阻斷膽鹼受體所致",
+      "C": "直立性低血壓（orthostatic hypotension）：阻斷甲型-腎上腺素性受體所致",
+      "D": "口乾與尿液滯留：阻斷蕈毒素受體所致"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 64 題",
+    "question": "下列何者對β1-receptor 的選擇性高，常用於治療急性心衰竭的病人？",
+    "options": {
+      "A": "Dobutamine",
+      "B": "Terbutaline",
+      "C": "Epinephrine",
+      "D": "Dopamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 65 題",
+    "question": "下列何種神經肌肉阻斷劑的作用duration 最短，因其容易被pseudocholinesterase 分解？",
+    "options": {
+      "A": "Alcuronium",
+      "B": "Doxacurium",
+      "C": "Pancuronium",
+      "D": "Succinylcholine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 66 題",
+    "question": "下列何種藥物是透過拮抗aldosterone receptor 而改善congestive heart failure？",
+    "options": {
+      "A": "Eplerenone",
+      "B": "Captopril",
+      "C": "Digoxin",
+      "D": "Milrinone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 67 題",
+    "question": "下列有關octreotide 之敘述，何者錯誤？",
+    "options": {
+      "A": "長效型之somatostatin 衍生物",
+      "B": "增加胃酸分泌",
+      "C": "減少腸子蠕動性",
+      "D": "治療VIPoma, insulinoma 之症狀"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 68 題",
+    "question": "下列何種治療congestive heart failure 的藥物，其作用機轉是經由阻斷β-adrenergic receptor 而來的？",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Valsartan",
+      "C": "Eplerenone",
+      "D": "Milrinone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 69 題",
+    "question": "下列關於Dopamine 的敘述，何者錯誤？",
+    "options": {
+      "A": "Dopamine 會抑制泌乳激素（prolactin）的分泌",
+      "B": "Dopamine 拮抗劑（antagonist）可用來治療肢端肥大症（acromegaly）",
+      "C": "病人初次服用Dopamine agonist 時，會有噁心、嘔吐、姿勢性低血壓等副作用的發生",
+      "D": "Dopamine agonist 可增加腎血流量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 70 題",
+    "question": "下列藥物何者同時具有抑制Cholesterol side-chain-cleaving enzyme 和Aromatase 之能力？",
+    "options": {
+      "A": "Aminoglutethimide",
+      "B": "Raloxifene",
+      "C": "Clomiphene",
+      "D": "Mifepristone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 71 題",
+    "question": "有關降血脂藥物statins 在臨床使用上可能產生之副作用，下列何者錯誤？",
+    "options": {
+      "A": "muscle pain and weakness",
+      "B": "myositis",
+      "C": "increased microalbuminuria",
+      "D": "increased uric acid and gout"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 72 題",
+    "question": "下列何種降血脂藥物主要作用機轉在於抑制小腸細胞對膽固醇之吸收，進而減低血中膽固醇含量？",
+    "options": {
+      "A": "Cholestyramine",
+      "B": "Ezetimibe",
+      "C": "Simvastatin",
+      "D": "Niacin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 73 題",
+    "question": "以生物性製劑（biologicals，如單株抗體等）進行免疫性相關治療所產生之副作用，下列何者錯誤？",
+    "options": {
+      "A": "cytokine release syndrome",
+      "B": "flu-like symptoms",
+      "C": "vascular leak syndrome",
+      "D": "Cushing’s syndrome"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 74 題",
+    "question": "癌細胞對vincristine 與methotrexate 產生抗藥性的原因是增加：",
+    "options": {
+      "A": "黏著分子的表現",
+      "B": "DNA repair 酵素的表現",
+      "C": "P-glycoprotein transporter 的表現",
+      "D": "Glucose-6-phosphate dehydrogenase 的表現"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第一次醫師國考第 75 題",
+    "question": "下列何種藥物廣泛地使用於抑制細胞免疫的反應，也會抑制prostaglandins 及leukotrienes 的合成及促 進IgG 的合成作用？",
+    "options": {
+      "A": "Cyclosporine",
+      "B": "Prednisone",
+      "C": "Cyclophosphamide",
+      "D": "Mercaptopurine 情況：有一早產之新生兒因呼吸窘迫送到加護病房，其母親患糖尿病。數日後，嬰兒仍不幸死亡，請依此 回答第76～77 題。"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

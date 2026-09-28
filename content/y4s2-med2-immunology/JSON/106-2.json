@@ -1,0 +1,140 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 18 題",
+    "question": "下列何種產物具有調理作用（opsonization），可增強macrophage、neutrophils的吞噬作用？",
+    "options": {
+      "A": "Interferon",
+      "B": "IL-1",
+      "C": "TNF-α",
+      "D": "complement"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 19 題",
+    "question": "成熟的B細胞可以同時表現IgD與IgM兩種免疫球蛋白於細胞表面上，其主要的分子機制為何？",
+    "options": {
+      "A": "RNA多樣裁接（alternative splicing）",
+      "B": "對偶基因排除（allelic exclusion）",
+      "C": "V(D)J片段重組（recombination）",
+      "D": "基因轉換（gene conversion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 20 題",
+    "question": "B細胞被抗原刺激後，細胞膜上之免疫球蛋白可轉變成分泌型抗體，其機制為何？",
+    "options": {
+      "A": "DNA重組（DNA recombination）",
+      "B": "RNA剪接（RNA splicing）",
+      "C": "蛋白分解酶（protease）切割",
+      "D": "蛋白激酶（protein kinase）修飾"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 21 題",
+    "question": "有關細胞激素的功能，下列敘述何者錯誤？",
+    "options": {
+      "A": "調節性T細胞（regulatory T cell）可以分泌TGF-β來抑制效應性T細胞（effector T cell）之功能",
+      "B": "IL-6與TGF-β可以幫助$CD4^+$ T細胞分化變成第十七型輔助性T細胞（TH17）",
+      "C": "IL-17主要的功能為吸引嗜酸性白血球",
+      "D": "IL-4與IL-5主要由第二型輔助性T細胞（TH2）分泌而來，可以一起幫助B細胞產生IgE抗體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 22 題",
+    "question": "人類與小鼠的腸道中，寄生有上千種的共生菌，但是正常個體並不會對這些共生菌產生免疫反應，下列敘述 何者錯誤？",
+    "options": {
+      "A": "共生菌不像致病菌會利用毒性因子，破壞上皮細胞或是引起發炎細胞激素之分泌",
+      "B": "與共生菌存在的上皮細胞會分泌TGF-β等細胞激素",
+      "C": "腸道的免疫系統主要會產生IgA與共生菌結合，而後引起補體的活化清除共生菌",
+      "D": "腸道的上皮細胞在接觸共生菌的表面，並不會表現Toll-like receptors及CD14，因此較不易產生發炎反應"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 23 題",
+    "question": "最近新上市一種抗氣喘藥物，您發現氣喘病人治療幾個月後，不僅相關臨床症狀消失，檢測血液中抗原特異 性IgE抗體效價也降低，而且也偵測不到抗原特異性$CD4^+$ T細胞分泌的IL-4、IL-5及IL-13，這種抗氣喘藥物可 能具有調節免疫反應的功能，下列那種細胞最不可能與這種治療效果有關？",
+    "options": {
+      "A": "第一型輔助性T細胞（TH1）",
+      "B": "TR1細胞",
+      "C": "第十七型輔助性T細胞（TH17）",
+      "D": "$CD4^+$ $CD25^+$ T細胞"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 24 題",
+    "question": "最常導致超高 IgE 症候群（hyper IgE syndrome）的基因突變是位在下列那一個基因？",
+    "options": {
+      "A": "STAT1",
+      "B": "JAK1",
+      "C": "NEMO",
+      "D": "STAT3"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 25 題",
+    "question": "小玉每年在晚秋時常發作氣喘，醫師建議進行抽血來檢測過敏原，主要是檢查血清中對過敏原具特異性之何 種抗體？",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgE",
+      "D": "IgA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 26 題",
+    "question": "對抗細胞表面受體（cell surface receptors）的抗體，能夠引起器官破壞的自體免疫病，例如抗乙醯膽鹼受體 抗體（anti-acetylcholine receptor antibody）能夠引起下列那一種疾病？",
+    "options": {
+      "A": "重症肌無力（myasthenia gravis）",
+      "B": "尋常天疱瘡（pemphigus vulgaris）",
+      "C": "多發性硬化症（multiple sclerosis）",
+      "D": "紅斑性狼瘡（systemic lupus erythematosus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 27 題",
+    "question": "下列那一項敘述與腫瘤細胞逃避免疫系統監測無關？",
+    "options": {
+      "A": "抗體導致腫瘤細胞表面抗原的內吞（endocytosis）作用",
+      "B": "腫瘤細胞促進調節性T細胞（regulatory T cells）的浸潤",
+      "C": "腫瘤細胞分泌TGF-β細胞激素",
+      "D": "腫瘤細胞會活化抗原呈現細胞（antigen-presenting cell），並促進其co-stimulatory signals 的大量表現"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 28 題",
+    "question": "豬心移植於靈長類動物將發生超急性排斥（hyperacute rejection），此現象可以透過基因轉殖下列何種人類 基因而減緩？",
+    "options": {
+      "A": "免疫球蛋白-G（immunoglobulin-G）",
+      "B": "補體（complement）",
+      "C": "CD（clusters of differentiation）52",
+      "D": "CD（clusters of differentiation）59"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 47 題",
+    "question": "下列何種狀況，細胞的平滑內質網（smooth endoplasmic reticulum）可釋出鈣離子？",
+    "options": {
+      "A": "平滑內質網的鈣離子幫浦（$Ca^{2+}$ ATPase）活化時",
+      "B": "平滑內質網的IP3受器（inositol phosphate receptor）與IP3結合時",
+      "C": "細胞膜電位過極化（hyperpolarization）時",
+      "D": "細胞膜store-operated $Ca^{2+}$ channel開啟時"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 48 題",
+    "question": "下列有關高張溶液（hypertonic solution）的敘述，何者正確？",
+    "options": {
+      "A": "若將紅血球置於此種溶液中，達成平衡時，細胞體積漲大",
+      "B": "該溶液滲透壓（osmotic pressure）低於血漿滲透壓",
+      "C": "該溶液所含之水分比例高於血漿",
+      "D": "其容積滲透濃度（osmolarity）高於300 mOsmol/L"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 49 題",
+    "question": "交感神經興奮時，眼睛會產生下列何種反應？",
+    "options": {
+      "A": "使sphincter muscle of iris收縮，產生miosis",
+      "B": "使radial muscle of iris收縮，產生mydriasis",
+      "C": "使ciliary muscle收縮，有助於遠距離之視覺",
+      "D": "使ciliary muscle收縮，有助於近距離之視覺"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 50 題",
+    "question": "體溫調節中樞位於何處？",
+    "options": {
+      "A": "premotor cortex",
+      "B": "cerebellum",
+      "C": "amygdala",
+      "D": "hypothalamus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 51 題",
+    "question": "α-及γ-運動神經元同時興奮（co-activation）時，最主要的生理功能為下列何者？",
+    "options": {
+      "A": "避免在肌肉收縮時，喪失肌肉長度的訊息",
+      "B": "避免在肌肉收縮時，喪失肌肉張力的訊息",
+      "C": "避免在肌肉放鬆時，喪失肌肉長度的訊息",
+      "D": "避免在肌肉放鬆時，喪失肌肉張力的訊息"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 52 題",
+    "question": "訓練孩童捏陶土和剪紙等手部精細動作，最主要目的是為強化下列那一條神經路徑？",
+    "options": {
+      "A": "brainstem pathway",
+      "B": "dorsal column pathway",
+      "C": "corticospinal tract",
+      "D": "anterolateral spinothalamic tract"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 53 題",
+    "question": "活化下列何種傳出神經元（efferent neuron）可誘發muscle spindle收縮？",
+    "options": {
+      "A": "α-神經元",
+      "B": "δ-神經元",
+      "C": "β-神經元",
+      "D": "γ-神經元"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 54 題",
+    "question": "比較同一種肌細胞的等長收縮（isometric twitch contraction）和等張收縮（isotonic twitch contraction），下列 敘述何者正確？",
+    "options": {
+      "A": "等長收縮的延遲時間和完成一次收縮所需的時間皆比等張收縮短",
+      "B": "等長收縮的延遲時間和完成一次收縮所需的時間皆比等張收縮長",
+      "C": "等長收縮的延遲時間比等張收縮短，但完成一次收縮所需的時間比等張收縮長",
+      "D": "等長收縮的延遲時間比等張收縮長，但完成一次收縮所需的時間比等張收縮短"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 55 題",
+    "question": "骨骼肌收縮所需要鈣離子之主要來源？",
+    "options": {
+      "A": "橫管（T-tube）",
+      "B": "粒線體（mitochondria）",
+      "C": "肌漿網（sarcoplasmic reticulum）",
+      "D": "細胞外液"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 56 題",
+    "question": "血小板（platelet）會透過下列那種反應貼附於破損的血管壁上，促使止血反應的進行？",
+    "options": {
+      "A": "活化凝血因子（clotting factor）XI、VIII、V形成intrinsic pathway之正回饋機制",
+      "B": "釋放tissue factor與凝血因子（clotting factor）VII結合",
+      "C": "透過vWF與膠原蛋白（collagen）接合",
+      "D": "釋放囊泡中的serotonin與內皮細胞上受器結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 57 題",
+    "question": "下列有關母體與胎兒的紅血球與氧氣結合的敘述，何者正確？",
+    "options": {
+      "A": "胎兒與母體的血紅素皆為 α2-β2 chain，因此氧氣量相同",
+      "B": "母體的血紅素為α2-β2 chain，胎兒的血紅素為 ε2-ζ2 chain，因此母體血紅素較易接合氧氣",
+      "C": "母體的血紅素為 α2-β2chain，胎兒的血紅素為 α4 chain，因此胎兒血紅素較易接合氧氣",
+      "D": "母體的血紅素為 α2-β2chain，胎兒的血紅素為 α2-γ2 chain，因此胎兒血紅素較易接合氧氣"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 58 題",
+    "question": "下列有關小動脈（arterioles） 調控之敘述，何者正確？",
+    "options": {
+      "A": "骨骼肌的小動脈管壁平滑肌收縮僅受β-腎上腺受器（β-adrenergic receptor）調控",
+      "B": "腎上腺素與血管的α-腎上腺受器（α-adrenergic receptor）結合後會使小動脈血管擴張",
+      "C": "增加副交感神經對血管平滑肌的刺激，會使小動脈血管收縮",
+      "D": "若供應某器官之血流下降時，此器官的小動脈可能發生擴張現象"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 59 題",
+    "question": "若因車禍而失血（hemorrhage）約20%血量，在身體啟動代償機制（reflex compensations）後，下列何者最可 能比失血前增高？",
+    "options": {
+      "A": "心搏量（stroke volume）",
+      "B": "心輸出量（cardiac output）",
+      "C": "血管周邊總阻力（total peripheral resistance）",
+      "D": "平均動脈壓（mean arterial pressure）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 60 題",
+    "question": "若完全切除動物的感壓接受器（baroreceptor）神經路徑，下列何者最符合切除後短期內平均動脈壓的變化？",
+    "options": {
+      "A": "顯著升高",
+      "B": "顯著下降",
+      "C": "先降後升",
+      "D": "完全不受影響"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 61 題",
+    "question": "甲、乙、丙為同年齡且體型相近的成年男性，三人的生理無效腔（physiologic dead space）皆為150毫升。而 甲的潮氣容積（tidal volume）為200毫升，呼吸頻率（frequency of respiration）為30次／分；乙的潮氣容積為 500毫升，呼吸頻率為12次／分；丙的潮氣容積為1000毫升，呼吸頻率為6次／分。三人的肺泡通氣量 （alveolar ventilation）大小之比較，下列何者正確？",
+    "options": {
+      "A": "甲＞乙＞丙",
+      "B": "丙＞乙＞甲",
+      "C": "三人皆相同",
+      "D": "乙＞甲＞丙"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 62 題",
+    "question": "有關呼吸時的作功（work of breathing），下列敘述何者正確？",
+    "options": {
+      "A": "氣喘（asthma）患者呼吸比正常人更費力，作功的顯著增加主要是用於使肺臟充氣（inflation）",
+      "B": "肺纖維化（lung fibrosis）患者呼吸比正常人更費力，作功的顯著增加主要是用於使空氣經呼吸道流動",
+      "C": "表面活性劑（surfactant）分泌不足時，欲使肺臟充氣（inflation）的作功會顯著增加",
+      "D": "與氣管尚未舒張前相比較，氣管舒張（bronchodilation）時欲使空氣經呼吸道流動的作功會顯著增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 63 題",
+    "question": "下列何者是迴腸（ileum）切除患者最易導致的現象？",
+    "options": {
+      "A": "黃疸（jaundice）",
+      "B": "貧血（anemia）",
+      "C": "消化道潰瘍（peptic ulcer）",
+      "D": "血糖過高（hyperglycemia）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 64 題",
+    "question": "肝臟產生的膽酸主要是透過什麼作用幫助脂肪的消化吸收？",
+    "options": {
+      "A": "還原作用",
+      "B": "分解作用",
+      "C": "乳化作用",
+      "D": "氧化作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 65 題",
+    "question": "下列關於膽囊收縮素（cholecystokinin）之敘述，何者最恰當？",
+    "options": {
+      "A": "具促進胃排空（gastric emptying）作用",
+      "B": "可刺激胰臟分泌富含酵素的胰液",
+      "C": "只在腸道合成與分泌",
+      "D": "其血中半衰期可長達3小時"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 66 題",
+    "question": "以低濃度的對胺基馬尿酸（para-aminohippuric acid; PAH）測定腎血流量（renal blood flow），發現PAH的清 除率（clearance）為630 mL/min，受測者血比容（hematocrit）為50%。若設定PAH的萃取比率（extraction ratio）為90%，則腎血流量最接近多少mL/min？",
+    "options": {
+      "A": "1134",
+      "B": "1400",
+      "C": "2268",
+      "D": "2682"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 67 題",
+    "question": "下列有關腎小管內液流速增加而活化腎小管腎絲球回饋（tubuloglomerular feedback; TGF）的描述，何者正 確？",
+    "options": {
+      "A": "緻密斑（macula densa）擔任感測腎小管內液水分多寡的角色，無關鈉離子多寡",
+      "B": "可以經由釋放腺苷（adenosine）作用到其受器，引起鈣離子釋放並造成入球小動脈的收縮",
+      "C": "可能增加腎素分泌，最後造成出球小動脈收縮",
+      "D": "最終會造成腎小球過濾率上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 68 題",
+    "question": "下列何者與正常人類的個體生長（growth）相關性最小？",
+    "options": {
+      "A": "prolactin",
+      "B": "growth hormone",
+      "C": "androgens",
+      "D": "estrogens"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 69 題",
+    "question": "下列有關鈣與磷的代謝的敘述，何者正確？",
+    "options": {
+      "A": "腸道的吸收效率，鈣比磷好",
+      "B": "百分之九十九的磷都在血液中",
+      "C": "血中鈣百分之九十五以上是以游離態存在",
+      "D": "鈣在腸道的吸收主要是受活化態維生素D所調控"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 70 題",
+    "question": "下列有關長期高鈉飲食所產生的生理變化，何者最不可能發生？",
+    "options": {
+      "A": "尿中鈉排泄量上升",
+      "B": "血中心房利鈉胜肽（atrial natriuretic peptide）濃度上升",
+      "C": "血中升壓素（vasopressin）濃度下降",
+      "D": "血中醛固酮（aldosterone）濃度下降"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 71 題",
+    "question": "下列何者是長期缺乏維生素D的病人最不容易發生的症狀？",
+    "options": {
+      "A": "骨折（bone fracture）",
+      "B": "肌肉抽筋（muscle spasm）",
+      "C": "產生白化症（albinism）",
+      "D": "軟骨症（osteomalacia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 72 題",
+    "question": "有關賽托利細胞（Sertoli cell）之功能與作用的敘述，下列何者錯誤？",
+    "options": {
+      "A": "經由分泌抑制素B（inhibin B），回饋抑制腦下垂體黃體刺激素（luteinizing hormone）的分泌",
+      "B": "提供精子生長所需的養分",
+      "C": "形成血睪屏障（blood-testis barrier）",
+      "D": "在胚胎時期，分泌Müllerian抑制物質（Müllerian-inhibiting substance），造成女性原始生殖管道（Müllerian duct）的退化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 73 題",
+    "question": "有關人類正常的月經週期（menstrual cycle）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "濾泡期（follicular phase）中主要分泌的類固醇荷爾蒙是estrogen",
+      "B": "濾泡期（follicular phase）靠近排卵期時LH和FSH的分泌量均會上升",
+      "C": "黃體期（luteal phase）中主要分泌的類固醇荷爾蒙是estrogen及progesterone",
+      "D": "優勢卵泡（dominant follicle）形成主要發生於濾泡期的末期即將進入黃體期前"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

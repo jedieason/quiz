@@ -1,0 +1,321 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 1 題",
+    "question": "下列何種臨床疾病之病因被認為和Endothelin-1 無關？",
+    "options": {
+      "A": "高血壓",
+      "B": "心衰竭",
+      "C": "心肌梗塞",
+      "D": "肺動脈高壓症"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 2 題",
+    "question": "NMDA receptor 亦為離子通道，開啟時下列何種離子可通過？",
+    "options": {
+      "A": "僅鈉",
+      "B": "僅鈉與鉀",
+      "C": "僅鈉與鈣",
+      "D": "鈉、鉀與鈣"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 3 題",
+    "question": "黃體（corpus luteum）主要是由何種細胞組成？",
+    "options": {
+      "A": "顆粒細胞（granulosa cells）",
+      "B": "膜細胞（theca cells）",
+      "C": "纖維組織母細胞（fibroblasts）",
+      "D": "肌肉細胞（muscle cells）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 4 題",
+    "question": "肢體末梢神經對稱性感覺喪失最可能發生在下列何種疾病的患者？",
+    "options": {
+      "A": "cerebellar lesions",
+      "B": "cerebrovascular diseases",
+      "C": "diabetic polyneuropathy",
+      "D": "Parkinson’s disease"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 5 題",
+    "question": "如果脊髓受損（spinal cord injury）患者的主要損傷部位在背側之脊髓神經束（dorsal column），下列 何者最不可能發生？",
+    "options": {
+      "A": "閉眼時無法正確辨識手掌中的物體",
+      "B": "震動感覺（vibratory sense）較差",
+      "C": "無法正確偵測皮膚上的溫度變化",
+      "D": "閉眼時無法站穩"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 6 題",
+    "question": "下列有關骨骼肌收縮的敘述，何者錯誤？",
+    "options": {
+      "A": "動作電位是經由T-tubules 傳遞",
+      "B": "肌細胞內鈣離子濃度上升會促進肌動蛋白（actin）與肌凝蛋白（myosin）之交互作用",
+      "C": "Ryanodine 受器是一種鈣離子釋放通道",
+      "D": "鈣離子是經由肌細胞膜釋放到細胞質內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 7 題",
+    "question": "lower motor neuron 損傷後，其所支配之骨骼肌最可能發生何種症狀？",
+    "options": {
+      "A": "伸張反射（stretch reflex）消失",
+      "B": "縮回反射（withdrawal reflex）增強",
+      "C": "肌肉張力（muscle tone）增加",
+      "D": "痙攣性麻痺（spastic paralysis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 8 題",
+    "question": "與大部分血管新生（angiogenesis）關係最密切的生長因子（growth factor）為何？",
+    "options": {
+      "A": "PDGF（platelet-derived growth factor）",
+      "B": "IGF-1（insulin-like growth factor-1）",
+      "C": "VEGF（vascular endothelial growth factor）",
+      "D": "TGF-β（transforming growth factor-β）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 9 題",
+    "question": "關於左心室之冠狀動脈血流供應，下列何者正確？",
+    "options": {
+      "A": "平均分配於心臟收縮期及舒張期",
+      "B": "主要在心臟舒張期",
+      "C": "主要在心臟收縮期",
+      "D": "往往依收縮壓高低而有所不同"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 10 題",
+    "question": "下列何種immunoglobulin（Ig）可促使basophils 和mast cells 分泌組織胺（histamine）？",
+    "options": {
+      "A": "Ig M",
+      "B": "Ig A",
+      "C": "Ig E",
+      "D": "Ig G"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 11 題",
+    "question": "一位健康者其體循環之動脈血pH 值瞬間由7.4 降低至7.3，經過幾分鐘後會產生下列何種狀況？",
+    "options": {
+      "A": "降低肺通氣量（ventilation）",
+      "B": "增加腦脊髓液中的二氧化碳分壓",
+      "C": "體循環動脈血pH 值維持不變",
+      "D": "降低肺泡二氧化碳分壓"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均 給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 12 題",
+    "question": "下列何者為臨床上最常被用來測量肺部氣體擴散率（diffusion rate）的氣體？",
+    "options": {
+      "A": "Carbon dioxide",
+      "B": "Carbon monoxide",
+      "C": "Helium",
+      "D": "Nitrogen"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 13 題",
+    "question": "下列何種氣體於體液之擴散係數（diffusion coefficient）最高？",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon monoxide",
+      "D": "Carbon dioxide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 14 題",
+    "question": "下列那一種血漿蛋白不是以肝臟為主要的製造場所？",
+    "options": {
+      "A": "白蛋白（albumin）",
+      "B": "β 球蛋白（β-globulin）",
+      "C": "γ 球蛋白（γ-globulin）",
+      "D": "纖維蛋白原（fibrinogen）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 15 題",
+    "question": "由basal ganglia 輸出至thalamus 的訊息主要由何者媒介？",
+    "options": {
+      "A": "GABA",
+      "B": "acetylcholine",
+      "C": "glutamate",
+      "D": "dopamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 16 題",
+    "question": "鈉離子的再吸收（reabsorption）在下列何處最大？",
+    "options": {
+      "A": "亨利氏彎管的細下降支（thin descending limb）",
+      "B": "亨利氏彎管的細上升支（thin ascending limb）",
+      "C": "亨利氏彎管的粗上升支（thick ascending limb）",
+      "D": "集尿管（collecting duct）的髓質部（inner medullary portion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 17 題",
+    "question": "霍亂弧菌毒素會刺激小腸絨毛分泌細胞產生cyclic AMP，接著引發下列何種離子大量釋出，導致分 泌性腹瀉？",
+    "options": {
+      "A": "鈉離子",
+      "B": "氯離子",
+      "C": "鈣離子",
+      "D": "鎂離子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 18 題",
+    "question": "腎臟血流量在腎臟內分布並不均勻，血流量最多之處位於下列那一個部位？",
+    "options": {
+      "A": "腎臟皮質",
+      "B": "腎臟外側髓質",
+      "C": "腎臟內側髓質",
+      "D": "腎臟脂肪組織"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 19 題",
+    "question": "一位20 歲男性最近出現下肢水腫、小便有沖不掉的泡泡。抽血檢驗發現病人血中白蛋白數值偏低 （albumin 2.0 g/dL）；而且尿液常規檢查發現病人有蛋白尿（urine protein > 300 mg/dL）。抽血檢驗 發現其血色素值有升高現象（hemoglobin 16.8 g/dL）。有關病人之敘述，下列何者最可能發生？",
+    "options": {
+      "A": "病人腎臟的鈉總排出量會增加",
+      "B": "病人血中之腎素（renin）濃度會上升",
+      "C": "病人細胞外組織間質液（interstitial fluid）的淨水壓（hydrostatic pressure）會下降",
+      "D": "病人胸管內的淋巴流量（thoracic duct lymph flow）會減少"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 20 題",
+    "question": "一位48 歲女性，主訴近幾年來常常腰酸背痛，手部麻木，足部和手部明顯變粗大，住院時之空腹血 糖181 mg/dL，血壓165/95 mmHg，血中growth hormone 值25 ng/mL（正常女性< 5 ng/mL）。此病 人最可能之診斷為何？",
+    "options": {
+      "A": "acromegaly",
+      "B": "gigantism",
+      "C": "dwarfism",
+      "D": "rickets"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 21 題",
+    "question": "關於胃黏膜分泌胃酸和內在因子（intrinsic factor）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "慢性胃炎會引起胃黏膜逐漸萎縮，並導致胃酸分泌減少",
+      "B": "無酸症（achlorhydria）病人經各種刺激後，胃液的pH 值仍無法降至pH6.5 以下",
+      "C": "內在因子是胃黏膜的主細胞（chief cell）所分泌的醣蛋白（glycoprotein）；胃酸則由壁細胞（parietal cell）所分泌",
+      "D": "缺乏內在因子會使維生素B B12吸收不良，進而導致惡性貧血（pernicious anemia）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 22 題",
+    "question": "臨床表現低血鈉、低血糖及色素沈著於皮膚皺摺（crease）處之患者，其原發病灶最可能位於何處？",
+    "options": {
+      "A": "腎上腺",
+      "B": "腎臟",
+      "C": "腦下垂體",
+      "D": "肝臟"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 23 題",
+    "question": "懷孕3 個月後，切除卵巢一般不會導致流產，原因為何？",
+    "options": {
+      "A": "母親體內仍有足夠黃體促素（LH）",
+      "B": "母親體內仍有足夠濾泡促素（FSH）",
+      "C": "胎盤產生足夠的雌激素（estrogen）及助孕素（progesterone）維持子宮內膜厚度",
+      "D": "胎盤產生足夠的雌激素及雄性素（androgen）維持子宮內膜厚度"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 24 題",
+    "question": "下列何者為對光敏感的感光色素成分？",
+    "options": {
+      "A": "retinal",
+      "B": "transducin",
+      "C": "phosphodiesterase",
+      "D": "opsin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 25 題",
+    "question": "一位55 歲的男性因性慾降低及勃起功能障礙而求診，經抽血檢驗發現其血中睪酮（testosterone）量 只有150 ng/dL（正常值為300 ng/dL）。醫師給予之診斷為男性更年期（或稱男性性腺分泌不足）， 故給予定時之睪酮注射補充治療（replacement therapy）。經由一段時間的睪酮補充之後，下列何種 現象是較不會發生的？",
+    "options": {
+      "A": "落髮量增多，結果頭頂禿髮的情形變嚴重",
+      "B": "陰部及臉上鬍鬚之毛髮量增多",
+      "C": "血中血紅素（hemoglobin）數值增加",
+      "D": "睪丸內精子之製造量增加"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

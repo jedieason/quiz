@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 76 題",
+    "question": "下列那一項為不可逆的細胞變化？",
+    "options": {
+      "A": "脂肪變性",
+      "B": "核破裂",
+      "C": "粒線體水腫",
+      "D": "細胞水腫"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 77 題",
+    "question": "某病人於五天前接受闌尾切除手術，現在檢查手術縫合傷口時，變化最接近下列那一個敘述？",
+    "options": {
+      "A": "仍有肉芽組織存在",
+      "B": "蟹足腫（keloid）出現",
+      "C": "傷口強度已達未受傷皮膚的70%",
+      "D": "膠原蛋白分解的速率較合成的速率快"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 78 題",
+    "question": "有關腫瘤的被膜（capsule），下列敘述何者錯誤？",
+    "options": {
+      "A": "一般良性腫瘤之被膜比惡性腫瘤清楚明顯",
+      "B": "被膜是由腫瘤周圍正常組織細胞受壓力蛻變而成",
+      "C": "可分隔正常與腫瘤組織",
+      "D": "可防止惡性腫瘤細胞的生長及浸潤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 79 題",
+    "question": "下列有關發炎性水腫的敘述，何者錯誤？",
+    "options": {
+      "A": "大部分是由於局部血管通透性增加",
+      "B": "滲出的液體比重高於1.020",
+      "C": "是一種蛋白濃度低的滲出液",
+      "D": "血管靜水壓及血漿膠質滲透壓不平衡"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 80 題",
+    "question": "某65 歲男性過去三週不明原因發燒、倦怠、體重減輕而接受身體檢查。檢驗數據顯示紅血球沉降速 率上升，鼻竇感染。病人同時有額顳部觸痛及咀嚼時口顎無力現象。下列何者最能代表其頭頸部動 脈病變？",
+    "options": {
+      "A": "Takayasu 動脈炎（Takayasu arteritis）",
+      "B": "巨細胞動脈炎（Giant cell arteritis）",
+      "C": "Kawasaki 氏病（Kawasaki disease）",
+      "D": "閉塞性血栓動脈炎（Thromboangiitis obliterans）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 81 題",
+    "question": "何杰金氏淋巴瘤（Hodgkin lymphoma, HL），相較於非何杰金氏淋巴瘤（Non-Hodgkin lymphoma, NHL） 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "HL 蔓延較具次序性，大多順著淋巴循環的方向漸次波及下一組淋巴群",
+      "B": "HL 淋巴結節外蔓延較少",
+      "C": "HL 常會波及腸系膜淋巴群及伏代爾環（Waldeyer ring）淋巴群",
+      "D": "HL 蔓延較可預期，先是淋巴結節疾病，接著循序影響脾臟、肝臟、然後骨髓"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 82 題",
+    "question": "下列有關弓漿蟲淋巴結炎（Toxoplasma lymphadenitis）病理變化的敘述，何者錯誤？",
+    "options": {
+      "A": "邊緣帶或皮層之類單核球B 細胞（Monocytoid B cells）增生",
+      "B": "類上皮組織球（Epithelioid histiocytes）聚集形成許多小肉芽腫",
+      "C": "濾泡增生（Follicular hyperplasia）",
+      "D": "乾酪性肉芽腫（Caseating granuloma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 83 題",
+    "question": "下列何者非酒精對肝細胞之損害？",
+    "options": {
+      "A": "內質網及粒線體受損傷",
+      "B": "細胞內脂蛋白排出受阻",
+      "C": "三酸甘油酯之利用增加",
+      "D": "細胞內脂肪酸氧化減少"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 84 題",
+    "question": "陳先生今年45 歲，最近一年多以來，常有飯後上腹部灼熱不舒服的感覺。身體檢查並沒有特別異常。 上消化道內視鏡檢查則發現食道下端黏膜有紅斑狀變化。切片檢查可見鱗狀上皮的基底層增生，且 上皮內有嗜中性及嗜伊紅性白血球的浸潤。下列何者是最可能的診斷？",
+    "options": {
+      "A": "巴雷特氏食道（Barrett esophagus）",
+      "B": "食道靜脈瘤（Esophageal varices）",
+      "C": "麥洛利魏氏症候群（Mallory-Weiss syndrome）",
+      "D": "逆流性食道炎（Reflux esophagitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 85 題",
+    "question": "某三週大的足月產嬰兒被發現有腹部腫大、糞便顏色變淺及尿液顏色變深的現象。身體檢查發現黃 疸、肝臟腫大且肝功能稍不正常，但無脾腫大。切片檢查可見肝小葉排列不規則，且有肝細胞局部 壞死與巨細胞出現，同時可見膽汁鬱積、門脈區發炎細胞浸潤與Kupffer 細胞增生。經治療後他在一 個月後恢復正常，且追蹤檢查亦無異常。下列何者是最可能的診斷？",
+    "options": {
+      "A": "α1-antitrypsin deficiency",
+      "B": "Dubin-Johnson syndrome",
+      "C": "Extrahepatic biliary atresia",
+      "D": "Idiopathic neonatal hepatitis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 86 題",
+    "question": "一位45 歲竹科園區新進的美國工程師因膝關節疼痛至門診，問診後發現他長期腹瀉約有一年時間， 細菌分子學檢查發現有Tropheryma whippelii 感染，則此種疾病小腸切片在顯微鏡下的特徵為何？",
+    "options": {
+      "A": "腸絨毛擴張充滿許多巨噬細胞內含許多PAS 染色之陽性顆粒",
+      "B": "腸黏膜上覆蓋一層發炎細胞纖維蛋白偽膜",
+      "C": "慢性發炎並有乾酪性的肉芽腫形成",
+      "D": "腸隱窩炎（cryptitis）伴隨有微膿瘍形成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 87 題",
+    "question": "某44 歲男性，已知是B 型肝炎帶原者近20 年。最近覺得容易疲倦且右上腹部不適。身體檢查發現 他肝臟較小且有脾腫大現象。腹部超音波檢查在肝臟右葉發現一個10 公分大的腫瘤。血清中胎兒甲 型蛋白值（alpha-fetoprotein）上升。下列有關肝臟腫瘤的敘述，何者最適當？",
+    "options": {
+      "A": "以腺體構造不規則排列在纖維組織是最常見的腫瘤形態",
+      "B": "腫瘤外圍不會形成纖維化被膜",
+      "C": "腫瘤細胞主要經由靜脈系統轉移",
+      "D": "K-RAS 基因突變是腫瘤發生的主要原因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 88 題",
+    "question": "一位48 歲女性，檢查發現有肝臟硬化併有靜脈曲張，如此病人發生靜脈曲張破裂出血，以何處為最 常見？",
+    "options": {
+      "A": "肝臟",
+      "B": "食道",
+      "C": "肺臟",
+      "D": "大腸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 89 題",
+    "question": "下列那一種腫瘤最不會分泌激素（hormone）？",
+    "options": {
+      "A": "絨毛膜癌（Choriocarcinoma）",
+      "B": "卵囊膜瘤（Thecoma）",
+      "C": "卵黃囊瘤（Yolk sac tumor）",
+      "D": "平滑肌瘤（Leiomyoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 90 題",
+    "question": "某14 歲女生因不規則陰道出血而求診，身體理學檢查、超音波及實驗室檢查皆為正常，這位少女出 血之最可能原因為何？",
+    "options": {
+      "A": "子宮內膜癌（Endometrial carcinoma）",
+      "B": "凝血疾病（Coagulation disorders）",
+      "C": "下視丘功能異常（Hypothalamic dysfunction）",
+      "D": "先天性腎上腺增生（Congenital adrenal hyperplasia）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 91 題",
+    "question": "大腦鐮下腦脫疝（subfalcine herniation）可壓迫血管而造成何處的壞死？",
+    "options": {
+      "A": "同側扣帶迴（cingulate gyrus）",
+      "B": "同側枕葉（occipital lobe）",
+      "C": "同側基底核（basal ganglia）",
+      "D": "雙側頂葉（parietal lobe）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 92 題",
+    "question": "漿果樣動脈瘤（berry aneurysm）自發性破裂造成的出血多半在何部位？",
+    "options": {
+      "A": "硬膜及頭蓋骨之間",
+      "B": "硬膜及蜘蛛膜之間",
+      "C": "蜘蛛膜及軟腦膜之間",
+      "D": "腦實質內"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 93 題",
+    "question": "某第1 型神經纖維瘤病（neurofibromatosis 1, NF1）之患者，其家族均為臨床上正常而無NF1 之跡象。 此現象為：",
+    "options": {
+      "A": "常染色體（autosomal）顯性遺傳，但具低外顯率（penetrance）",
+      "B": "常染色體顯性遺傳，具基因多效性（pleiotropism）",
+      "C": "常染色體隱性遺傳",
+      "D": "新突變之常染色體顯性遺傳"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 94 題",
+    "question": "橋本氏甲狀腺炎（Hashimoto thyroiditis）的原因為何？",
+    "options": {
+      "A": "腦下垂體功能失調",
+      "B": "甲狀腺刺激素減少",
+      "C": "營養失調",
+      "D": "自體免疫失調"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 95 題",
+    "question": "下列何者為威姆氏腫瘤（Wilms tumor）預後不佳之指標？",
+    "options": {
+      "A": "散發性（sporadic）案例",
+      "B": "具三相式病理變化（Triphasic pattern），包括腎芽基（Blastema）、基質及上皮細胞等",
+      "C": "退行分化（Anaplasia）程度高",
+      "D": "2 歲以下之病人"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 96 題",
+    "question": "在自然細胞生長及組織發育中的細胞死亡，是下列那一種現象？",
+    "options": {
+      "A": "自溶（autolysis）",
+      "B": "凋亡（apoptosis）",
+      "C": "壞死（necrosis）",
+      "D": "吞噬（phagocytosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 97 題",
+    "question": "一位國小六年級女生最近一個月常常肚子痛，經超音波檢查發現在右側卵巢有一腫瘤，接受手術切 除，腫瘤組織學特徵有腎絲球樣的結構，並在腫瘤細胞內及細胞之間出現透明小滴（hyaline droplet）。 下列何種抗原最可能在腫瘤細胞呈現陽性反應？",
+    "options": {
+      "A": "Cancer antigen 125",
+      "B": "Inhibin",
+      "C": "α-fetoprotein",
+      "D": "Human chorionic gonadotropin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 98 題",
+    "question": "睪丸病理切片結果如圖示，請問下列診斷何者最正確？ [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "發炎性睪丸炎及纖維化",
+      "B": "生殖細胞瘤",
+      "C": "結核病",
+      "D": "老年性萎縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 99 題",
+    "question": "一名70 歲罹患心臟衰竭的男性出現肺臟病變，鏡下變化如圖所示，則該病變應是：",
+    "options": {
+      "A": "肺出血",
+      "B": "結核性肺炎",
+      "C": "化膿性肺炎",
+      "D": "隱球菌性肺炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 100 題",
+    "question": "某50 歲男性病人發生心臟擴大及出現鬱血性心臟衰竭症狀，圖示其左心室前壁及心中隔白色病變。 此病變最可能的診斷是：",
+    "options": {
+      "A": "Infective endocarditis",
+      "B": "Acute myocardial infarction",
+      "C": "Amyloidosis",
+      "D": "Ventricular scar and aneurysm"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

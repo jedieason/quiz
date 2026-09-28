@@ -1,0 +1,211 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 1 題",
+    "question": "一位船員皮膚上有傷口化膿且周邊紅斑，經鑑定發現是一株好氧，且具有觸酶（catalase）和凝集酶 （coagulase）活性，同時可以存活在高鹽培養基的細菌。依據前述，該菌最可能是：",
+    "options": {
+      "A": "創傷弧菌（Vibrio vulnificus）",
+      "B": "腸炎弧菌（Vibrio parahaemolyticus）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "表皮葡萄球菌（Staphylococcus epidermidis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 2 題",
+    "question": "下列何者為治療花柳性淋巴肉芽腫（lymphogranuloma venereum）的首選藥物？",
+    "options": {
+      "A": "metronidazole",
+      "B": "penicillin",
+      "C": "doxycycline",
+      "D": "isoniazid"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 3 題",
+    "question": "胜肽聚醣（Peptidoglycan）為革蘭氏陽性細菌細胞壁之主要成分，下列那一隻細菌除外？",
+    "options": {
+      "A": "砂眼披衣菌（Chlamydia trachomatis）",
+      "B": "糞腸球菌（Enterococcus faecalis）",
+      "C": "仙人掌桿菌（Bacillus cereus）",
+      "D": "單核細胞增多性李斯特菌（Listeria monocytogenes）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 4 題",
+    "question": "有關細菌質體（plasmid）之敘述，下列何者最適當？",
+    "options": {
+      "A": "可在細菌間傳遞帶有抗藥性相關基因",
+      "B": "與細菌染色體同步進行複製",
+      "C": "多為存在於細胞質內之線狀RNA",
+      "D": "僅存在於革蘭氏陰性菌之細胞質中"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 5 題",
+    "question": "當細菌培養液只含有乳糖，此時抑制子（repressor）和代謝基因活化蛋白質（catabolite gene-activator protein ,  CAP）之活性，以及調節乳糖操縱子（lac operon）表現的敘述，下列何者正確？",
+    "options": {
+      "A": "抑制子的功能被抑制，且CAP 不活化，促使乳糖操縱子表現",
+      "B": "抑制子的功能被抑制，且CAP 不活化，導致乳糖操縱子不表現",
+      "C": "抑制子的功能被抑制，且CAP 被活化，導致乳糖操縱子不表現",
+      "D": "抑制子的功能被抑制，且CAP 被活化，促使乳糖操縱子表現"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 6 題",
+    "question": "有關無乳鏈球菌（Streptococcus agalactiae）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "屬於B 群鏈球菌（Group B streptococci）",
+      "B": "血清學鑑定的三個主要標誌為 Lancefield group B 抗原（antigen）、型特異性莢膜多醣體（type-specific capsular polysaccharides）、表面蛋白質（surface proteins）",
+      "C": "主要棲居在人體上呼吸道",
+      "D": "此菌可經由產婦生產時感染嬰兒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 7 題",
+    "question": "關於白喉桿菌（Corynebacterium diphtheriae）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要的致病因子為白喉毒素（diptheria toxin），作用於轉譯延長因子（elongation factor-2 , EF-2）",
+      "B": "造成疾病的主要生物型（biotype）是gravis biotype",
+      "C": "細胞壁上含有短鏈分枝菌酸（short-chain mycolic acids）",
+      "D": "主要造成呼吸道或皮膚的疾病"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 8 題",
+    "question": "關於鬆脆類桿菌（Bacteroides fragilis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是少數沒有莢膜（capsule）的病原菌之一",
+      "B": "可產生不耐熱（heat-labile）的鋅金屬蛋白酶（zinc metalloprotease）毒素造成腹瀉",
+      "C": "其脂多醣體（lipopolysaccharides, LPS）具微毒性或無毒性",
+      "D": "可產生β-內酰胺酶（β-lactamases），使其對青黴素（penicillin）具抗藥性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 9 題",
+    "question": "關於尿素分解尿漿菌（Ureaplasma urealyticum）的敘述，下列何者正確？",
+    "options": {
+      "A": "其細胞膜富含固醇類（sterols）",
+      "B": "主要引起皮膚病灶（skin lesions）",
+      "C": "為降低罹患產後熱（postpartum fever）的風險，建議預備懷孕的婦女應施打此菌之疫苗",
+      "D": "常使用盤尼西林（penicillin）治療此菌引起的感染症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 10 題",
+    "question": "下列有關病毒的敘述，何者正確？",
+    "options": {
+      "A": "愛滋病毒（human immunodeficiency virus）之酵素均由被感染細胞的基因轉譯製造",
+      "B": "茲卡病毒（Zika virus）為負股(-) RNA 病毒",
+      "C": "新型冠狀病毒（SARS-CoV-2）之複製在細胞質中進行",
+      "D": "腸病毒（enterovirus）具有外套膜，為RNA 病毒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 11 題",
+    "question": "下列那幾種病毒可經由動物暨節肢動物而傳播？①漢他病毒（hantavirus） ②日本腦炎病毒（Japanese  encephalitis virus） ③黃熱病病毒（yellow fever virus） ④狂犬病病毒（rabies virus）",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "②④"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 12 題",
+    "question": "下列何者不是Bunyavirus 與Arenavirus 共同具有的特性？",
+    "options": {
+      "A": "為人畜共同傳染（zoonoses）的病毒",
+      "B": "基因體為片段RNA 組成（segmented RNA genome）",
+      "C": "可能造成出血熱（hemorrhagic fever）",
+      "D": "二者病毒顆粒（virion）中都沒有包裹核糖體（ribosome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 13 題",
+    "question": "下列何者不是負股RNA 病毒（negative-sense RNA virus）？",
+    "options": {
+      "A": "流感病毒（influenza virus）",
+      "B": "伊波拉病毒（Ebola virus）",
+      "C": "狂犬病毒（rabies virus）",
+      "D": "登革熱病毒（dengue virus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 14 題",
+    "question": "下列人類疾病何者不是由痘科病毒（Poxvirus）引起？",
+    "options": {
+      "A": "天花",
+      "B": "傳染性軟疣（molluscum contagiosum）造成的皮膚病灶",
+      "C": "手指頭上的 Orf 病灶",
+      "D": "疱疹性膿性指頭疽（whitlow）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 15 題",
+    "question": "下列那一種藥物，主要抑制C 型肝炎病毒（hepatitis C virus）的聚合酶（polymerase）？",
+    "options": {
+      "A": "索華迪（sofosbuvir）",
+      "B": "波普瑞韋（boceprevir）",
+      "C": "拉米夫定（lamivudine）",
+      "D": "聚乙二醇干擾素（pegylated interferon）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 16 題",
+    "question": "近年來基質輔助雷射脫附飛行時間質譜儀（matrix-assisted laser desorption ionization-time of flight mass spectrometry,  MALDI-TOF MS）廣泛應用在微生物的鑑定上，其主要的偵測標的物為何？",
+    "options": {
+      "A": "蛋白質",
+      "B": "核酸",
+      "C": "粒線體",
+      "D": "微量元素"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 17 題",
+    "question": "下列何者具有寬大菌絲，且沒有或較少細胞中隔（septum）？",
+    "options": {
+      "A": "Fusarium spp.",
+      "B": "Trichosporon spp.",
+      "C": "Rhizopus spp.",
+      "D": "Scedosporium spp."
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

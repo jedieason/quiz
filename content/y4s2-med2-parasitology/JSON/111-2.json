@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 29 題",
+    "question": "下列何種寄生蟲重度感染幼童時，最有可能造成異位性移行（ectopic migration）寄生？",
+    "options": {
+      "A": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "B": "蟯蟲（Enterobius vermicularis）",
+      "C": "蛔蟲（Ascaris lumbricoides）",
+      "D": "鞭蟲（Trichuris trichiura）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 30 題",
+    "question": "李先生經常往返臺灣及非洲經商，在非洲有時會喝到沒煮沸的水，最近他腳踝皮膚出現潰瘍，醫師從潰瘍處 拉出100 公分長的寄生蟲，您認為李先生最有可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "鉤蟲（hookworm）",
+      "B": "羅阿絲蟲（Loa loa）",
+      "C": "蟠尾絲蟲（Onchocerca volvulus）",
+      "D": "麥地那線蟲（Dracunculus medinensis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 31 題",
+    "question": "人類是下列何種寄生蟲的終宿主也是中間宿主？",
+    "options": {
+      "A": "短小包膜絛蟲（Hymenolepis nana）",
+      "B": "豬肉絛蟲（Taenia solium）",
+      "C": "曼森裂頭絛蟲（Spirometra mansonoides）",
+      "D": "牛肉絛蟲（Taenia saginata）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 32 題",
+    "question": "下列何者為吸蟲之共同特徵？",
+    "options": {
+      "A": "生活史中需要二個中間宿主",
+      "B": "雄性成蟲具抱雌溝",
+      "C": "蟲卵皆具有卵蓋",
+      "D": "均須經由螺類傳播"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 33 題",
+    "question": "有關黑熱病（kala-azar）的敘述，下列何者正確？",
+    "options": {
+      "A": "主要致病原是熱帶利什曼原蟲（Leishmania tropica）",
+      "B": "引起該疾病之利什曼原蟲無鞭毛體（amastigote），可以做為分類上的主要依據",
+      "C": "晚期會出現肝脾腫大（hepatosplenomegaly）、黑尿及發熱的症狀，故稱為黑熱病",
+      "D": "有部分患者皮膚會出現紅腫及結節（depigmented nodule）的後黑熱病（post-kala-azar）症狀"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 34 題",
+    "question": "下列何者是傳播蟠尾絲蟲（Onchocerca volvulus）之主要病媒？",
+    "options": {
+      "A": "蚋（Simulium spp.）",
+      "B": "蠓（Culicoides spp.）",
+      "C": "虻（Chrysops spp.）",
+      "D": "蚊（mosquito）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 35 題",
+    "question": "下列何時期之恙蟎屬（Leptotrombidium spp.）為人類感染恙蟲病（tsutsugamushi disease）之主要媒介？",
+    "options": {
+      "A": "幼蟎（larvae）",
+      "B": "稚（若）蟎（nymph）",
+      "C": "雌蟎（female）",
+      "D": "雄蟎（male）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

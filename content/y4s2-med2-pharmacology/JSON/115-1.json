@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 115 年第一次醫師國考第 51 題",
+    "question": "下列何者不屬於肝臟代謝藥物的phase II 反應？",
+    "options": {
+      "A": "acetylation",
+      "B": "glycine conjugation",
+      "C": "sulfation",
+      "D": "hydrolysis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 52 題",
+    "question": "下列抗腫瘤藥物中，何者可與微小管蛋白tubulin 結合，進而阻斷tubulin 聚合成小管，抑制腫瘤細胞生 長？",
+    "options": {
+      "A": "cisplatin",
+      "B": "cytarabine",
+      "C": "vinorelbine",
+      "D": "docetaxel"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 53 題",
+    "question": "下列關於aminoglycosides 抗生素之敘述，何者錯誤？",
+    "options": {
+      "A": "可藉由併用ampicillin 增加藥物穿透細菌的能力，以增強治療enterococcal endocarditis 效用",
+      "B": "作用強度及毒殺細菌速度與使用劑量呈正相關",
+      "C": "可產生後抗生素效應（postantibiotic effect），因此單日使用單一高劑量會比多次低劑量效用更好",
+      "D": "靜脈注射給藥後在腦脊髓液的濃度比在腎臟皮質中的濃度高"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 54 題",
+    "question": "下列治療癌症之抗體藥物中，何者可與乳癌細胞之HER2 受體結合，而達到抗癌作用？",
+    "options": {
+      "A": "bevacizumab",
+      "B": "necitumumab",
+      "C": "panitumumab",
+      "D": "pertuzumab"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 55 題",
+    "question": "下列藥物中，何者可抑制黴菌之cytochrome P450 酵素，進而抑制細胞膜麥角脂醇（ergosterol）生成？",
+    "options": {
+      "A": "amphotericin B",
+      "B": "fluconazole",
+      "C": "griseofulvin",
+      "D": "terbinafine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 56 題",
+    "question": "下列藥物中，何者與warfarin 合併使用時，最可能產生出血的風險？",
+    "options": {
+      "A": "cholestyramine",
+      "B": "chlorthalidone",
+      "C": "benzodiazepines",
+      "D": "amiodarone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 57 題",
+    "question": "下列藥物中，何者最適合用於治療第八凝血因子缺乏之血友病（hemophilia A）？",
+    "options": {
+      "A": "deferoxamine",
+      "B": "desmopressin",
+      "C": "oprelvekin",
+      "D": "ferumoxytol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 58 題",
+    "question": "下列有關大分子抗體藥物evolocumab 改善高血脂之敘述，何者錯誤？",
+    "options": {
+      "A": "具抑制proprotein convertase subtilisin/kexin type 9（PCSK9）之作用",
+      "B": "促使LDL 含量明顯下降",
+      "C": "促使apoB-100 明顯上升",
+      "D": "具有類流感症狀（flu-like symptoms）之副作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 59 題",
+    "question": "下列何者不是屬於促進胰島素分泌的藥物？",
+    "options": {
+      "A": "nateglinide",
+      "B": "glimepiride",
+      "C": "sulpiride",
+      "D": "repaglinide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 60 題",
+    "question": "下列關於糖皮質素（glucocorticoids）之副作用，何者錯誤？",
+    "options": {
+      "A": "肌肉量和肌力下降",
+      "B": "低血糖",
+      "C": "骨質疏鬆",
+      "D": "消化性潰瘍"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 61 題",
+    "question": "下列口服利尿劑中，何者屬於loop diuretics？",
+    "options": {
+      "A": "bumetanide",
+      "B": "acetazolamide",
+      "C": "indapamide",
+      "D": "tolvaptan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 62 題",
+    "question": "下列關於testosterone cypionate 之敘述，何者錯誤？",
+    "options": {
+      "A": "可使用肌肉注射",
+      "B": "會有黃疸（jaundice）的副作用",
+      "C": "可增加HDL 及降低LDL 之血中濃度",
+      "D": "會有男性乳房增大之副作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 63 題",
+    "question": "Sacubitril 可與valsartan 併用治療心衰竭，下列有關其作用機轉之敘述，何者錯誤？",
+    "options": {
+      "A": "sacubitril 會抑制BNP 及ANP 的代謝",
+      "B": "sacubitril 會增加angiotensin I 及angiotensin II 的含量，因此需要與valsartan 合用",
+      "C": "valsartan 抑制AT1受體後，有利於AT2受體的活化",
+      "D": "sacubitril 不會增加bradykinin 累積而產生angioedema"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 64 題",
+    "question": "下列鈣離子通道阻斷劑（calcium channel blocker）中，何者半衰期最短，且無法口服使用於降低血壓？",
+    "options": {
+      "A": "amlodipine",
+      "B": "diltiazem",
+      "C": "clevidipine",
+      "D": "verapamil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 65 題",
+    "question": "下列關於ipratropium 的敘述，何者最不適當？",
+    "options": {
+      "A": "為muscarinic cholinergic receptor 的拮抗劑",
+      "B": "最常用的劑型為吸入劑型與霧化劑型",
+      "C": "常用於慢性阻塞性肺病（chronic obstructive pulmonary disease），幫助支氣管擴張",
+      "D": "常用於青光眼（glaucoma），幫助房水（aqueous humor）排出"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 66 題",
+    "question": "病人使用clonidine 時，最不容易出現下列何種效果？",
+    "options": {
+      "A": "血壓降低",
+      "B": "口乾舌燥",
+      "C": "嚴重腹瀉",
+      "D": "更年期熱潮紅（menopausal hot flushes）減輕"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 67 題",
+    "question": "下列呼吸道治療藥物中，何者亦可治療慢性復發蕁麻疹（chronic recurrent urticaria）及花生過敏？",
+    "options": {
+      "A": "albuterol",
+      "B": "dupilumab",
+      "C": "roflumilast",
+      "D": "omalizumab"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 68 題",
+    "question": "下列何種胃腸道藥物是cystic fibrosis transmembrane conductance regulator 抑制劑，最適合用於治療 HIV 藥物引起的腹瀉？",
+    "options": {
+      "A": "linaclotide",
+      "B": "crofelemer",
+      "C": "diphenoxylate",
+      "D": "docusate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 69 題",
+    "question": "下列何者為PGE1衍生物，可用來治療便秘型腸躁症（irritable bowel syndrome with constipation）？",
+    "options": {
+      "A": "linaclotide",
+      "B": "prucalopride",
+      "C": "lubiprostone",
+      "D": "bimatoprost"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 70 題",
+    "question": "下列治療類風濕性關節炎的藥物中，何者不是經由直接抑制TNF-α的作用而產生療效？",
+    "options": {
+      "A": "infliximab",
+      "B": "etanercept",
+      "C": "adalimumab",
+      "D": "abatacept"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 71 題",
+    "question": "下列何種藥物可併用opioid 來減低病人術後的疼痛，但不建議使用超過5 天？",
+    "options": {
+      "A": "belimumab",
+      "B": "tramadol",
+      "C": "ketorolac",
+      "D": "ibuprofen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 72 題",
+    "question": "下列關於ethosuximide 之敘述，何者錯誤？",
+    "options": {
+      "A": "突然停藥可能會加重absence seizure",
+      "B": "可抑制丘腦皮質神經細胞之T-type calcium channels",
+      "C": "合併使用valproate 時，ethosuximide 之療效會降低",
+      "D": "最常見的副作用為胃腸不適"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 73 題",
+    "question": "下列治療阿茲海默症（Alzheimer disease）的藥物，何者的藥理作用機制與其他三個藥物不同？",
+    "options": {
+      "A": "memantine",
+      "B": "donepezil",
+      "C": "rivastigmine",
+      "D": "galantamine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 74 題",
+    "question": "下列藥物中，何者可經由拮抗orexin 受體產生安眠作用？",
+    "options": {
+      "A": "tasimelteon",
+      "B": "suvorexant",
+      "C": "midazolam",
+      "D": "buspirone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第一次醫師國考第 75 題",
+    "question": "下列何種天然藥物因其具有提高T cell 活性的免疫調節作用，可用於治療上呼吸道感染（upper  respiratory infection）？",
+    "options": {
+      "A": "St. John's wort",
+      "B": "Echinacea",
+      "C": "Vinca alkaloids",
+      "D": "Ginkgo"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

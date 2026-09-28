@@ -1,0 +1,209 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 1 題",
+    "question": "有關肝炎病毒中，下列何者與黃熱病毒（yellow fever virus）屬同一科？",
+    "options": {
+      "A": "Hepatitis A virus",
+      "B": "Hepatitis B virus",
+      "C": "Hepatitis C virus",
+      "D": "Hepatitis D virus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 2 題",
+    "question": "有關炭疽桿菌（Bacillus anthracis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "由多胜肽（polypeptide）所組成的莢膜為重要的毒力因子（virulence factor）",
+      "B": "為毛工病（wool-sorter's disease）的致病菌",
+      "C": "在含血液培養盤上可形成大型β-溶血菌落",
+      "D": "炭疽毒素（anthrax toxin）的基因位於質體上"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 3 題",
+    "question": "肺結核患者的致病菌，能藉由抑制宿主細胞之早期內體自體抗原1（early endosomal autoantigen 1,  EEA1），以阻止下列那一種現象的發生？",
+    "options": {
+      "A": "溶小體（lysosome）與吞噬體（phagosome）的融合",
+      "B": "巨噬細胞（macrophage）分泌介白質11（interleukin-11）",
+      "C": "巨噬細胞（macrophage）內的環單磷酸腺苷（cAMP）濃度上升",
+      "D": "丙型丁胺酸（gamma-aminobutyric acid, GABA）的釋放"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 4 題",
+    "question": "關於Q熱（Q fever）致病菌之相改變（phase transition）現象的敘述，下列何者正確？",
+    "options": {
+      "A": "相改變是因為此菌的鞭毛（flagellum）基因發生突變所造成",
+      "B": "當此菌處於第一相（phase I）時，其細胞壁（cell wall）不含O抗原醣（O-antigen sugars）",
+      "C": "當此菌處於第二相（phase II）時，能抑制吞噬體（phagosome）與溶小體（lysosome）的融合",
+      "D": "急性期時，病人體內產生的IgM及IgG抗體主要是對抗第二相的抗原"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 5 題",
+    "question": "某求診男性，經診斷患有尿道炎（urethritis）和結膜炎（conjunctivitis）。下列何者最有可能是其致病菌？",
+    "options": {
+      "A": "埃及嗜血桿菌（Haemophilus aegyptius）",
+      "B": "立氏立克次體（Rickettsia rickettsii）",
+      "C": "人類黴漿菌（Mycoplasma hominis）",
+      "D": "砂眼披衣菌（Chlamydia trachomatis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 6 題",
+    "question": "下列那一種抗生素，適合用來治療嗜肺性退伍軍人菌（Legionella pneumophila）所引起的肺炎？",
+    "options": {
+      "A": "克林達黴素（clindamycin）",
+      "B": "阿奇黴素（azithromycin）",
+      "C": "安比西林（ampicillin）",
+      "D": "兩性黴素B（amphotericin B）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 7 題",
+    "question": "關於致病菌與疾病的配對，下列何者錯誤？",
+    "options": {
+      "A": "肺炎克雷白氏桿菌（Klebsiella pneumoniae）– 肝膿瘍（liver abscess）",
+      "B": "創傷弧菌（Vibrio vulnificus）– 敗血症（septicemia）",
+      "C": "空腸彎曲桿菌（Campylobacter jejuni）– 腸胃炎（gastroenteritis）",
+      "D": "鼠疫桿菌（Yersinia pestis）–萊姆病（Lyme disease）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 8 題",
+    "question": "下列何者最不常用在以細菌來進行的基因工程技術中？",
+    "options": {
+      "A": "DNA gyrase",
+      "B": "Restriction enzyme",
+      "C": "DNA ligase",
+      "D": "Cloning vector"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 9 題",
+    "question": "下列那一種造成呼吸道感染的病毒，可不經由反轉錄作用（reverse transcription），而直接以polymerase  chain reaction（PCR）檢測？",
+    "options": {
+      "A": "腺病毒（adenovirus）",
+      "B": "A型流感病毒（influenza A virus）",
+      "C": "中東呼吸症候群冠狀病毒（MERS-CoV）",
+      "D": "呼吸道細胞融合病毒（respiratory syncytial virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 10 題",
+    "question": "有關人類乳突瘤病毒（Human Papillomavirus, HPV）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "HPV-6和HPV-11是引起子宮頸癌的低危險病毒株",
+      "B": "E5 病毒蛋白質會與p53結合",
+      "C": "E7病毒蛋白質會與p105RB蛋白質結合",
+      "D": "E1蛋白質與病毒的複製有關"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 11 題",
+    "question": "下列何種病毒，通常不經過垂直感染傳給胎兒？",
+    "options": {
+      "A": "德國麻疹病毒（Rubella virus）",
+      "B": "巨細胞病毒（Cytomegalovirus）",
+      "C": "呼腸病毒（Reovirus）",
+      "D": "單純疱疹病毒（Herpes simplex virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 12 題",
+    "question": "下列何種病毒複製時，會在細胞質產生一種稱為內基氏小體（Negri body）的包涵體？",
+    "options": {
+      "A": "天花病毒（variola virus）",
+      "B": "狂犬病病毒（rabies virus）",
+      "C": "人類巨細胞病毒（human cytomegalovirus）",
+      "D": "水痘–帶狀疱疹病毒（varicella-zoster virus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 13 題",
+    "question": "人類腺病毒（adenovirus）與下列何種病毒使用相同的細胞受器（receptor）？",
+    "options": {
+      "A": "B型克沙奇病毒（Coxsackie B virus）",
+      "B": "諾羅病毒（Norovirus）",
+      "C": "巨細胞病毒（Cytomegalovirus）",
+      "D": "流感病毒（Influenza virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 14 題",
+    "question": "下列那種黴菌會引起全身性感染，且其酵母菌型常呈現舵輪（mariner's wheel）樣之多重出芽生殖?",
+    "options": {
+      "A": "粗球黴菌（Coccidioides immitis）",
+      "B": "巴西副球黴菌（Paracoccidioides brasiliensis）",
+      "C": "莢膜組織胞漿菌（Histoplasma capsulatum）",
+      "D": "皮炎芽生菌（Blastomyces dermatitidis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 15 題",
+    "question": "下列何者為具厚壁球形體（spherules）以及關節孢子（arthroconidia）之真菌？",
+    "options": {
+      "A": "鬚髮癬菌（Trichophyton mentagrophytes）",
+      "B": "申克孢子絲菌（Sporothrix schenckii）",
+      "C": "莢膜組織胞漿菌（Histoplasma capsulatum）",
+      "D": "粗球孢子菌（Coccidioides immitis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 16 題",
+    "question": "3歲男童，因為咽喉疼痛伴隨吞嚥與呼吸困難送至急診室，經醫師檢查，發現他在每次吸氣時都出現明顯阻塞 的聲音，側頸X光（lateral neck x-ray）報告顯示會厭軟骨腫脹（swollen epiglottis），此最有可能是下列何種 細菌感染所造成？",
+    "options": {
+      "A": "b型流感嗜血桿菌（Haemophilus influenzae type b）",
+      "B": "無乳鏈球菌（Streptococcus agalactiae）",
+      "C": "奈瑟氏腦膜炎球菌（Neisseria meningitidis）",
+      "D": "單核球增多性李斯特菌（Listeria monocytogenes）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 17 題",
+    "question": "【背景題幹：3歲男童，因為咽喉疼痛伴隨吞嚥與呼吸困難送至急診室，經醫師檢查，發現他在每次吸氣時都出現明顯阻塞 的聲音，側頸X光（lateral neck x-ray）報告顯示會厭軟骨腫脹（swollen epiglottis），此最有可能是下列何種 細菌感染所造成？】\n承上題，下列何者為該細菌最重要的致病因子（virulence factor）？",
+    "options": {
+      "A": "細菌表面的線毛（pili）",
+      "B": "細菌表面的多醣體莢膜（polysaccharide capsule）",
+      "C": "細胞毒素（cytotoxin）",
+      "D": "細胞壁的胜肽聚醣（peptidoglycan）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

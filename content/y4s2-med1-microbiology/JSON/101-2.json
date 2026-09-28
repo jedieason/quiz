@@ -1,0 +1,251 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 42 題",
+    "question": "發展淋病（gonorrhea）疫苗最主要的困難為何？",
+    "options": {
+      "A": "淋病球菌無法於體外培養",
+      "B": "淋病球菌體表成分不具抗原性",
+      "C": "淋病球菌無法在人體產生保護性抗體",
+      "D": "淋病球菌體表抗原性極易改變"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 43 題",
+    "question": "肝硬化或肝癌病人因生食海鮮，特別是生蠔，而導致進展快速的敗血症（septicemia），常由於感染 了下列那種細菌？",
+    "options": {
+      "A": "創傷弧菌（Vibrio vulnificus）",
+      "B": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "C": "副溶血弧菌（Vibrio parahaemolyticus）",
+      "D": "空腸彎曲菌（Campylobacter jejuni）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 44 題",
+    "question": "從一泌尿道感染病人的檢體中，分離到一抗耐啶酸（Nalidixic acid）的細菌，此菌產生抗藥最主要的 原因為何？",
+    "options": {
+      "A": "細胞壁結構組成改變",
+      "B": "DNA gyrase 結構發生改變",
+      "C": "50S 核糖體結構改變",
+      "D": "30S 核糖體結構改變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 45 題",
+    "question": "有關葡萄球菌（Staphylococcus）引起的食物中毒的敘述，下列那一項錯誤？",
+    "options": {
+      "A": "是由heat-labile enterotoxin 引起",
+      "B": "症狀產生快，大約4 小時內就會發生",
+      "C": "症狀消失快，大約24 小時會消失",
+      "D": "有些Staphylococcus aureus 菌種會導致pseudomembranous enterocolitis"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 46 題",
+    "question": "下列那一類細菌的細胞膜含有固醇（sterols），生長時需從外界攝取膽固醇（cholesterol），且對penicillin 類的抗生素具有抗性？",
+    "options": {
+      "A": "志賀氏菌（Shigella）",
+      "B": "黴漿菌（Mycoplasma）",
+      "C": "沙門氏菌（Salmonella）",
+      "D": "分枝桿菌（Mycobacterium）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 47 題",
+    "question": "人單核球艾利希氏體症（human monocytotropic ehrlichiosis）會有持續發燒、頭痛、全身或局部肌肉 痛、肝脾及淋巴結腫大等症狀，通常較少出現皮膚斑疹，是由Ehrlichia canis 感染所致，屬於新興傳 染病的一種。關於此症的敘述，下列何者錯誤？",
+    "options": {
+      "A": "該疾病可用Doxycycline 或Tetracycline 進行治療",
+      "B": "該致病原之傳播媒介以壁虱（硬蜱）為主",
+      "C": "該致病原會寄生在感染者的顆粒球、單核球、紅血球及血小板細胞中",
+      "D": "該致病原之細胞壁主要由peptidoglycan 組成"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 48 題",
+    "question": "人罹患「急性肺炎」，並因而導致34 名感染者死亡，下列何者後來被證實為致病原？",
+    "options": {
+      "A": "Legionella pneumophila",
+      "B": "Chlamydia pneumoniae",
+      "C": "Streptococcus pneumoniae",
+      "D": "Haemophilus influenzae"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 49 題",
+    "question": "在某安養院，有多名老人先後出現乾咳和胸痛等急性呼吸道感染症狀，其中數名更發展成肺炎而緊 急送醫治療。醫院由病人的肺組織或呼吸道分泌液等檢體以及安養院的冷卻水塔中，分離出同一種 培養時需添加半胱胺酸（L-cysteine）的革蘭氏陰性桿菌。下列有關此感染症的敘述，何者錯誤？",
+    "options": {
+      "A": "病人由呼吸道得到感染",
+      "B": "因傳染性高，病人需隔離",
+      "C": "目前仍無疫苗可以使用",
+      "D": "細胞型免疫（cellular immunity）是人體主要的防禦機制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 50 題",
+    "question": "【背景題幹：在某安養院，有多名老人先後出現乾咳和胸痛等急性呼吸道感染症狀，其中數名更發展成肺炎而緊 急送醫治療。醫院由病人的肺組織或呼吸道分泌液等檢體以及安養院的冷卻水塔中，分離出同一種 培養時需添加半胱胺酸（L-cysteine）的革蘭氏陰性桿菌。下列有關此感染症的敘述，何者錯誤？】\n承上題，下列有關此致病菌的敘述，何者正確？",
+    "options": {
+      "A": "此菌可感染人和動物",
+      "B": "此菌必須培養在無氧的環境中",
+      "C": "此菌在惡劣環境中會形成孢子（spores）",
+      "D": "此菌可在巨噬細胞（macrophage）內增殖"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 51 題",
+    "question": "有關E 型肝炎病毒的敘述，下列何者正確？",
+    "options": {
+      "A": "可造成慢性肝炎甚至肝癌",
+      "B": "可以RT-PCR 進行偵測",
+      "C": "感染孕婦有較低的致死率",
+      "D": "病毒基因體只含有一個大的open reading frame（ORF）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 52 題",
+    "question": "下列何種病毒之抗體測定是目前捐血時必須檢驗的項目？",
+    "options": {
+      "A": "Hepatitis A virus",
+      "B": "Hepatitis C virus",
+      "C": "Hepatitis E virus",
+      "D": "Hepatitis D virus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 53 題",
+    "question": "下列何種病毒不會造成呼吸道感染？",
+    "options": {
+      "A": "Hepatitis D virus",
+      "B": "Influenza virus",
+      "C": "Respiratory syncytial virus",
+      "D": "Adenovirus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 54 題",
+    "question": "下列有關日本腦炎病毒（Japanese encephalitis virus）與登革熱病毒（Dengue virus）特性之敘述，何 者正確？",
+    "options": {
+      "A": "均可注射疫苗，預防感染",
+      "B": "被感染之宿主可再直接散播病毒",
+      "C": "均由埃及斑蚊傳播",
+      "D": "感染後均產生感冒般症狀（flu-like symptom）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 55 題",
+    "question": "野生小兒麻痺病毒株已近乎絕跡，陳醫師發現疑似案例，下列何種實驗方法最能夠確定其為小兒麻 痺野生株或沙賓口服疫苗株？",
+    "options": {
+      "A": "紅血球凝集試驗",
+      "B": "溶菌斑實驗",
+      "C": "基因定序",
+      "D": "單株抗體中和反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 56 題",
+    "question": "某男大學生正在談戀愛，突然身體不適出現嚴重之虛弱無力、疲勞、發燒、咽喉炎及腺體腫脹等症 狀，經醫師診斷後給予氨比西林（Ampicillin）治療後出現紅疹，血液抹片檢查觀察到非典型淋巴細 胞，且血清內測得嗜異性抗體（heterophile antibody）。下列有關該疾病之敘述何者正確？",
+    "options": {
+      "A": "由EB 病毒（Epstein-Barr virus）感染所引起的傳染性單核球增多症（infectious mononucleosis）",
+      "B": "由HIV 病毒（Human immunodeficiency virus）感染所引起之免疫缺失症",
+      "C": "由巨細胞病毒（Cytomegalovirus）感染所引起之類單核球增多症（mononucleosis-like）",
+      "D": "由單純疱疹病毒（Herpes simplex virus）感染所引起之咽喉炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 57 題",
+    "question": "在真菌伺機性感染症（Opportunistic mycosis）中，目前唯一造成人類疾病並屬於擔子菌綱 （Basidiomycetes）之病原菌是下列何者？",
+    "options": {
+      "A": "Penicillium marneffei",
+      "B": "Aspergillus fumigatus",
+      "C": "Rhizopus stolonifer",
+      "D": "Cryptococcus neoformans"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 58 題",
+    "question": "一位65 歲女性是長期糖尿病患者，因念珠菌血症（Candidemia）住院治療，血液培養證實感染之病原 為白色念珠菌（Candida albicans）。經以靜脈注射投予Fluconazole 二星期，血液培養呈陰性反應，病 情也獲得控制後出院。但再經二星期，同樣的感染再度發生，在同時考慮這位患者之腎功能（creatinine 指數1.3 mg/dL），最可能進一步治療之方式為何？",
+    "options": {
+      "A": "繼續投予Fluconazole 同時提高劑量",
+      "B": "改投予Amphotericin B 合併Flucytosine",
+      "C": "改投予Caspofungin",
+      "D": "改投予Ketoconazole"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 59 題",
+    "question": "下列何種病毒，會引起睪丸、卵巢、胰臟等腺體發炎之病症？",
+    "options": {
+      "A": "麻疹病毒",
+      "B": "呼吸道融合病毒",
+      "C": "副流行性感冒病毒",
+      "D": "腮腺炎病毒"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 60 題",
+    "question": "下列那一個選項所列的兩種菌屬，最可能是造成Tinea unguium（甲癬、灰指甲）感染之皮膚真菌性 病原（Dermatophytes）？",
+    "options": {
+      "A": "Sporothrix and Microsporum",
+      "B": "Epidermophyton and Microsporum",
+      "C": "Trichophyton and Epidermophyton",
+      "D": "Trichophyton and Sporothrix"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答 Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 61 題",
+    "question": "關於細菌基因傳遞的敘述，下列何者錯誤？",
+    "options": {
+      "A": "Conjugation 是由細菌與細菌接觸進行",
+      "B": "Plasmid 不能經由conjugation 傳遞",
+      "C": "在某些細菌是可直接將外來DNA 帶入菌體內",
+      "D": "Transduction 通常由噬菌體造成"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

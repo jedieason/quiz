@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 26 題",
+    "question": "下列那一個胺基酸不會吸收波長為280 nm 的紫外光，因此對蛋白質的莫耳吸光係數（molar extinction  coefficient）貢獻很小？",
+    "options": {
+      "A": "苯丙胺酸（phenylalanine）",
+      "B": "天冬醯胺（asparagine）",
+      "C": "酪胺酸（tyrosine）",
+      "D": "色胺酸（tryptophan）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 27 題",
+    "question": "下列調控酵素活性的方式，何者為不可逆的（irreversible）？",
+    "options": {
+      "A": "異位調節（allosteric regulation）",
+      "B": "共價修飾（covalent modification）",
+      "C": "酶原（zymogen）的蛋白水解切割（proteolytic clevage）",
+      "D": "非競爭型抑制劑（uncompetitive inhibitor）的結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 28 題",
+    "question": "凝血蛋白之麩胺酸基之γ-羧化（γ-carboxylation）修飾，需要何種維生素參與？",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin D",
+      "C": "Vitamin E",
+      "D": "Vitamin K"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 29 題",
+    "question": "一位3 個月大的男嬰自出生後便有成長遲緩現象，理學檢查發現有肌無力癥候。血液檢查發現乳酸 （lactate）、丙酮酸（pyruvate）、丙胺酸（alanine）上升，並有代謝性酸中毒（metabolic acidosis） 現象。根據這些病徵，可優先考慮以何種維生素作為治療？",
+    "options": {
+      "A": "維生素B6（pyridoxine）",
+      "B": "菸鹼酸（niacin）",
+      "C": "核黃素（riboflavin）",
+      "D": "硫胺（thiamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 30 題",
+    "question": "許多藥物的合成乃是結合分子生物學與合成化學而得，抗愛滋病的藥物3’-Azido-2’,3’-dideoxythymidine （AZT）即為其中一項，下列關於AZT 的敘述，何者錯誤？",
+    "options": {
+      "A": "AZT 由易被HIV 病毒感染的T 淋巴球所吸收而轉變為三磷酸根AZT（AZT triphosphate）",
+      "B": "HIV 病毒的反轉錄酶對於AZT triphosphate 有極高的親和力",
+      "C": "HIV 病毒的DNA 進行複製時若3’端加入AZT triphosphate 則會終止複製反應",
+      "D": "人類T 淋巴球的DNA 複製酶對AZT triphosphate 有高親和力，所以會帶來許多副作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 31 題",
+    "question": "核酸去嘌呤作用（depurination of nucleotides）是破壞在連接鹼基（base residues）與核糖（ribose）的 化學鍵。這個化學鍵稱為：",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "糖苷鍵（N-glycosyl bond）",
+      "C": "磷酸二酯鍵（phosphodiester bond）",
+      "D": "醯胺鍵（amide bond）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 32 題",
+    "question": "飢餓時，下列何者是增加血糖濃度最重要的酵素？",
+    "options": {
+      "A": "肌細胞之glycogen phosphorylase",
+      "B": "肝臟細胞之glycogen phosphorylase",
+      "C": "肌細胞之lactate dehydrogenase",
+      "D": "肝臟細胞之pyruvate kinase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 33 題",
+    "question": "在下列何種情況下，acetyl-CoA 進入citric acid cycle 會減少？",
+    "options": {
+      "A": "[AMP]/[ATP]高",
+      "B": "[ATP]/[ADP]高",
+      "C": "[NAD+]/[NADH]高",
+      "D": "[oxaloacetate]高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 34 題",
+    "question": "血中腎上腺素（epineprine）濃度上升時會抑制肝臟或肌肉的何種代謝作用？",
+    "options": {
+      "A": "肝臟的糖解作用（glycolysis）",
+      "B": "肌肉的糖解作用",
+      "C": "肝臟的葡萄糖新生作用（gluconeogenesis）",
+      "D": "肌肉的肝糖分解作用（glycogenolysis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 35 題",
+    "question": "下列有關DNA 複製（DNA replication）的敘述，何者錯誤？",
+    "options": {
+      "A": "DNA 複製以半保留（semiconservative）模式進行",
+      "B": "DNA 複製過程中會產生引導股（leading strand）與落後股（lagging strand）",
+      "C": "DNA 合成（DNA synthesis）由3’往5’端進行",
+      "D": "DNA 複製後，原始模版（parental strand）與新合成模版（newly synthesized strand）兩股以反向平 行（antiparallel）形成雙股結構"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 36 題",
+    "question": "在人類細胞中，DNA 複製（DNA replication）時是以何種物質為引子（primer）？",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "蛋白質",
+      "D": "不需引子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 37 題",
+    "question": "遺傳性非息肉症大腸直腸癌（hereditary nonpolyposis colon cancer, HNPCC）病患是在何種DNA 修復 功能上產生缺失？",
+    "options": {
+      "A": "核苷酸切除修復（nucleotide excision repair）",
+      "B": "鹼基切除修復（base excision repair）",
+      "C": "重組修復（recombinational repair）",
+      "D": "核酸錯誤配對修復（mismatch repair）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 38 題",
+    "question": "遺傳密碼（codon）與反密碼（anticodon）的相互作用是經由那一種化學鍵來進行？",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "離子鍵（ionic bond）",
+      "C": "肽鍵（peptide bond）",
+      "D": "縮醛鍵（acetal bond）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 39 題",
+    "question": "下列那一序列會調控真核mRNA 進行核內polyadenylation？",
+    "options": {
+      "A": "UUAUUU",
+      "B": "UUUUUAU",
+      "C": "UAUUUUU",
+      "D": "AAUAAA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 40 題",
+    "question": "下列那一個激素無法促進脂肪細胞（adipocyte）內脂肪的代謝以產生ATP？",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Epinephrine",
+      "D": "Glucocorticoids"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 41 題",
+    "question": "下列有關eicosanoids 的敘述，何者正確？",
+    "options": {
+      "A": "Eicosanoids 是屬於autocrine 的激素",
+      "B": "Eicosanoid family 中的前列腺素（prostaglandin）主要作用是促進子宮平滑肌之放鬆",
+      "C": "Eicosanoid family 中的thromboxanes 主要影響血液凝集功能（blood clotting）",
+      "D": "Eicosanoids 之半生期（half-life）長達1 年"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給 分。"
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 42 題",
+    "question": "下列關於脂蛋白（lipoprotein）的敘述，何者錯誤？",
+    "options": {
+      "A": "脂蛋白含脂質與蛋白質，它負責運送膽固醇（cholesterol）、磷脂質（phospholipid）與三酸甘油脂 （triacylglycerol）到各組織器官",
+      "B": "ApoC-II 會促進血液中三酸甘油脂之分解",
+      "C": "含蛋白質量最多的脂蛋白是高密度脂蛋白（HDL, high density lipoprotein）",
+      "D": "運送肝臟細胞所合成的三酸甘油脂到周邊組織的脂蛋白為乳糜微粒（chylomicrons）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 43 題",
+    "question": "一位工人被送至急診，懷疑不慎接觸到氰化物導致中毒（cyanide poisoning）。下列有關氰化物中毒 之敘述，何者正確？",
+    "options": {
+      "A": "吸入氰化物氣體不易中毒，因肺組織有大量的解毒系統",
+      "B": "氰化物會與細胞色素C氧化酶（cytochrome c oxidase）中之血紅素a3（heme a3）的Fe3+牢牢結合，造 成電子無法傳遞、粒線體呼吸及能量產生因而停止，造成細胞死亡",
+      "C": "解毒劑如亞硝酸鈉（sodium nitrite）是將變性血紅素蛋白（methemoglobin）轉化為氧化血紅素蛋 白（oxyhemoglobin）",
+      "D": "神經系統不會受到影響"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 44 題",
+    "question": "下列何者為粒線體電子傳遞鏈Complex II 的electron donor？",
+    "options": {
+      "A": "NADH",
+      "B": "Succinate",
+      "C": "NADPH",
+      "D": "Ubiquinone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 45 題",
+    "question": "有關呼吸鏈之化學滲透理論（chemiosmotic theory），下列敘述何者正確？",
+    "options": {
+      "A": "氧化磷酸化在粒線體外膜進行",
+      "B": "粒線體內膜之內外側質子（protons）的濃度相同",
+      "C": "ATP synthase 在chemiosmotic theory 沒有重要性",
+      "D": "ATP 的合成與質子移動力（proton-motive force）有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 46 題",
+    "question": "下列那一個酵素位於粒線體電子傳遞鏈的Complex IV？",
+    "options": {
+      "A": "NADH dehydrogenase",
+      "B": "Cytochrome oxidase",
+      "C": "Succinate dehydrogenase",
+      "D": "Uniquinone:cytochrome c oxidoreductase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 47 題",
+    "question": "Amino group 可藉由下列何種方式，由骨骼肌細胞運送到肝細胞代謝？",
+    "options": {
+      "A": "Krebs cycle",
+      "B": "Glucose-alanine cycle",
+      "C": "Urea cycle",
+      "D": "Citric acid cycle"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 48 題",
+    "question": "下列那個胺基酸的代謝異常，最常導致白化症（Albinism）？",
+    "options": {
+      "A": "離胺酸（lysine）",
+      "B": "精胺酸（arginine）",
+      "C": "色胺酸（tryptophan）",
+      "D": "酪胺酸（tyrosine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 49 題",
+    "question": "胰島素（insulin）是身體控制血糖最重要的激素，給糖尿病患注射胰島素主要會發生下列何項反應？",
+    "options": {
+      "A": "使insulin receptor dimerization",
+      "B": "Insulin receptor 磷酸化其受質，如IRS-1",
+      "C": "抑制protein kinase C",
+      "D": "抑制protein kinase G"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 50 題",
+    "question": "乳癌的病患有時會利用Tamoxifen（一種激素拮抗劑）來做為輔助治療。下列有關此藥劑之敘述，何 者正確？",
+    "options": {
+      "A": "Tamoxifen 是一種男性激素的拮抗劑（antagonist）",
+      "B": "對激素受體呈陰性的乳癌患者效果較好",
+      "C": "經由癌細胞表面之特殊受器（receptor）進入細胞",
+      "D": "進入細胞後，與激素受器結合，改變基因表達"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 29 題",
+    "question": "胚胎發育至第幾週時，肝細胞（hepatocyte）開始製造膽汁（bile）？",
+    "options": {
+      "A": "第4週",
+      "B": "第8週",
+      "C": "第12週",
+      "D": "第16週"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 30 題",
+    "question": "有關女性假陰陽人（female pseudohermaphroditism）具有特徵之敘述，下列何者錯誤？",
+    "options": {
+      "A": "男性荷爾蒙分泌太多",
+      "B": "染色體46, XX",
+      "C": "肇因於腎上腺萎縮",
+      "D": "外生殖器官男性化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 31 題",
+    "question": "靜脈血液通常為缺氧血，但是下列何項例外？",
+    "options": {
+      "A": "肝靜脈（hepatic vein）",
+      "B": "門靜脈（portal vein）",
+      "C": "臍靜脈（umbilical vein）",
+      "D": "子宮靜脈（uterine vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 32 題",
+    "question": "下列何處的肌肉組織不是衍生自中胚層（mesoderm）？",
+    "options": {
+      "A": "肋間（intercostal region）",
+      "B": "虹膜（iris）",
+      "C": "心臟（heart）",
+      "D": "消化道（digestive tract）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

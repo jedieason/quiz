@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 76 題",
+    "question": "下列有關急性炎症（acute inflammation）之血管反應，何者正確？",
+    "options": {
+      "A": "自血管滲出之液體主要為漏出液（transudate）",
+      "B": "血管擴張是由於組織胺（histamine）及一氧化氮（nitric oxide, NO）等作用在血管內皮（endothelium）所致",
+      "C": "血管滲透性（permeability）增加的最常見機轉是血管內皮受損、細胞壞死及脫落所致",
+      "D": "血管內皮細胞收縮導致血管滲漏是因為組織胺（histamine）、遲緩激肽（bradykinin）等物質所引起"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 77 題",
+    "question": "下列有關細胞壞死（necrosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "壞死細胞的細胞質在H＆E染色較正常細胞嗜鹼性（basophilia）",
+      "B": "細胞質中出現液泡是因為細胞質中胞器被消化所致",
+      "C": "細胞核凝縮（pyknosis）可見於細胞凋亡（apoptotic cell death）",
+      "D": "髓鞘質像（myelin figures）的形成是來自破損的細胞膜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 78 題",
+    "question": "人類乳突病毒（HPV）16及18型與子宮頸癌的發生有密切關係，病毒的E6及E7蛋白較不會抑制下列何種抑癌基因的功能？",
+    "options": {
+      "A": "p53",
+      "B": "RB",
+      "C": "p21",
+      "D": "BRCA1及BRCA2"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 79 題",
+    "question": "下肢深層靜脈栓塞（deep venous thrombosis）所導致的下肢水腫，其主要機轉為：",
+    "options": {
+      "A": "靜水壓上升",
+      "B": "血漿滲透壓下降",
+      "C": "淋巴管阻塞",
+      "D": "鈉與水的滯留"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 80 題",
+    "question": "有關肥厚性心肌病變（hypertrophic cardiomyopathy）的病理變化，下列何者錯誤？",
+    "options": {
+      "A": "主動脈瓣下（subaortic region）心室中隔呈明顯肥厚",
+      "B": "心室通常會明顯擴大",
+      "C": "心肌細胞呈雜亂排列",
+      "D": "心肌間質呈現纖維化"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 81 題",
+    "question": "有關淋巴癌的敘述，下列何者正確？",
+    "options": {
+      "A": "一旦血液中發現淋巴腫瘤細胞，就應歸類為白血病（leukemia）而非淋巴癌",
+      "B": "淋巴結外的被套細胞淋巴癌（mantle cell lymphoma）主要與幽門螺旋桿菌（Helicobacter pylori）有關",
+      "C": "無論是T細胞或B細胞淋巴癌，淋巴癌常常都會有抗原受體（antigen receptor）基因重組的現象",
+      "D": "在臺灣何杰金氏淋巴癌（Hodgkin lymphoma）較非何杰金氏淋巴癌（non-Hodgkin lymphoma）常見"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 82 題",
+    "question": "下列有關肺隔離（pulmonary sequestration）之敘述，何者錯誤？",
+    "options": {
+      "A": "肺組織與氣道系統無正常聯結",
+      "B": "血流供應來自肺動脈",
+      "C": "肺葉外肺隔離常合併其他先天異常",
+      "D": "肺葉內肺隔離常合併感染"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 83 題",
+    "question": "下列有關塵肺症（pneumoconioses）的敘述，何者錯誤？",
+    "options": {
+      "A": "吸入礦物塵埃、有機塵埃、化學煙霧或蒸氣引起",
+      "B": "最易造成塵肺症的顆粒大小在5到10微米",
+      "C": "體積較小之顆粒較易引起急性肺傷害",
+      "D": "吸菸可加重吸入礦物塵埃造成的傷害"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 84 題",
+    "question": "脫落性間質肺炎（desquamative interstitial pneumonia）病人肺泡內大量含有色素顆粒的細胞為：",
+    "options": {
+      "A": "中性白血球",
+      "B": "脫落之上皮細胞",
+      "C": "巨噬細胞",
+      "D": "活化之淋巴母細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 85 題",
+    "question": "下列何種病原體通常引起非典型肺炎（atypical pneumonia）？",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Mycobacterium avium-intracellulare",
+      "C": "Mycoplasma pneumoniae",
+      "D": "Nocardia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 86 題",
+    "question": "65歲女性，兩側性肋膜積水，其所含蛋白質濃度較低。其最有可能診斷為下列何者？",
+    "options": {
+      "A": "肺癌",
+      "B": "細菌性肺炎",
+      "C": "結核性肺炎",
+      "D": "心臟衰竭"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 87 題",
+    "question": "有關幽門桿菌性胃炎的敘述，下列何者最不適當？",
+    "options": {
+      "A": "在竇部（antrum）比體部（body）嚴重",
+      "B": "感染帶有CagA基因的細菌者，比較會產生胃癌",
+      "C": "細菌較易出現在腸道化生（intestinal metaplasia）的部位",
+      "D": "是胃淋巴瘤的主要成因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 88 題",
+    "question": "慢性胰臟炎最常見的原因為何？",
+    "options": {
+      "A": "膽結石",
+      "B": "長期酗酒",
+      "C": "慢性肝炎",
+      "D": "CFTR基因突變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 89 題",
+    "question": "56歲男性皮膚及鞏膜泛黃，且有茶色尿及灰白便。下列敘述何者正確？",
+    "options": {
+      "A": "此病人有溶血性黃疸",
+      "B": "若摸到腫大的膽囊，病人肝外膽管阻塞",
+      "C": "血中升高的膽紅素主要是非接合型膽紅素",
+      "D": "肝癌細胞因為會製造過多膽紅素也特別容易出現此類黃疸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 90 題",
+    "question": "5 歲男孩，一週前出現頭痛、發燒及頸部僵硬而住院治療，腦脊椎液培養出奈瑟氏腦膜炎雙球菌（Neisseria meningitidis）， 入院後病患發生低血壓性休克及皮膚出現紫斑，此病患的腎上腺最有可能呈現何種病理變化？",
+    "options": {
+      "A": "皮質細胞增生",
+      "B": "髓質細胞增生",
+      "C": "大量出血",
+      "D": "功能性腺瘤的產生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 91 題",
+    "question": "有關攝護腺結節狀增生（prostatic nodular hyperplasia）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "Dihydrotestosterone可作用於細胞核的androgen receptor，只導致上皮細胞增生",
+      "B": "主要發生的區域是移形區（transitional zone）",
+      "C": "可用α-adrenergic receptor抑制劑降低平滑肌張力以緩解尿路阻塞的症狀",
+      "D": "顯微鏡檢有時可在梗塞（infarct）附近發現上皮細胞有局部鱗狀化生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 92 題",
+    "question": "42歲女性病人因胃癌手術進行mitomycin-C化學治療。三個月後發生急性腎臟衰竭，高血壓和全身水腫，實驗室數據顯示 microangiopathic hemolytic anemia。下列敘述中何者最可能代表她腎絲球裡面的病理變化？",
+    "options": {
+      "A": "血管內皮細胞腫脹及沉積纖維蛋白性小血栓",
+      "B": "大量沉積免疫複合體",
+      "C": "半月形細胞增生及壞死",
+      "D": "細胞增生及中性球浸潤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 93 題",
+    "question": "下列疾病與其病理特徵的組合，何者正確？",
+    "options": {
+      "A": "疱疹（ herpes） 病毒感染與空洞細胞（koilocyte）",
+      "B": "水泡狀胎塊（hydatidiform mole）與Call-Exner bodies",
+      "C": "卵黃囊瘤（yolk sac tumor）與Birbeck granules",
+      "D": "萊氏細胞瘤（Leydig cell tumor）與Reinke crystalloids"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 94 題",
+    "question": "功能不良性子宮出血（dysfunctional uterine bleeding）最常見的機轉為何？",
+    "options": {
+      "A": "濾泡期太短（short follicular phase）",
+      "B": "黃體期不足（inadequate luteal phase）",
+      "C": "無排卵周期（anovulatory cycle）",
+      "D": "外源性黃體激素（exogenous progesterone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 95 題",
+    "question": "56歲女性，大陰唇處有一個界限明顯、會癢、表面較紅且會結痂的病變。她接受切片檢查。圖示是病變區在顯微鏡下的變化。 下列有關此病的敘述何者正確？",
+    "options": {
+      "A": "由human papillomavirus所引起",
+      "B": "是源自黑色素細胞的良性腫瘤",
+      "C": "是原發性的鱗狀細胞癌",
+      "D": "病變細胞的細胞質PAS染色為陽性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 96 題",
+    "question": "70歲長者在大腿內側及前臂屈側、腋窩、腹股溝及下腹部之皮膚有多個水泡（bullae），組織切片呈現表皮下非棘層鬆解的水 泡（subepidermal nonacantholytic blisters），免疫螢光檢查見免疫球蛋白及補體呈線形沉積於基底膜部位，其診斷為何？",
+    "options": {
+      "A": "尋常性天疱瘡（pemphigus vulgaris）",
+      "B": "紅斑性天疱瘡（pemphigus erythematosus）",
+      "C": "大水泡性類天疱瘡（bullous pemphigoid）",
+      "D": "疱疹性皮炎（dermatitis herpetiformis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 97 題",
+    "question": "34歲男性，因中樞神經系統症狀住院，腦部切片顯示多個髓鞘脫失（demyelination）病灶，其內之神經軸索（axons）數目略 減，病灶邊緣之寡樹突膠質細胞核呈玻璃狀雙染的包涵物（glassy amphophilic inclusions），亦見到奇異且巨大的星狀膠原細 胞（bizarre giant astrocytes），其診斷為何？",
+    "options": {
+      "A": "人類免疫力不足病毒腦炎（human immunodeficiency virus encephalitis）",
+      "B": "進行性多病灶腦白質病（progressive multifocal leukoencephalopathy）",
+      "C": "亞急性硬化性全腦炎（subacute sclerosing panencephalitis）",
+      "D": "第二型單純疱疹病毒腦炎（herpes simplex virus type 2 encephalitis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 98 題",
+    "question": "下列有關原發性中樞神經系統淋巴瘤的敘述，何者錯誤？",
+    "options": {
+      "A": "此為免疫抑制病人最常見的中樞神經系統腫瘤",
+      "B": "中樞神經系統以外的組織亦常被侵犯",
+      "C": "絕大多數的腫瘤為B細胞淋巴瘤，且大多數細胞會表現BCL-6",
+      "D": "血管內淋巴瘤（intravascular lymphoma）通常以廣泛的微小梗塞表現，而不是以腫塊表現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 99 題",
+    "question": "55歲女性因眼睛容易感到疲勞、出現燒熱感前來就診。另外病人抱怨口腔內也會有燒熱感，咀嚼及吞嚥乾的食物時會有困難。 身體檢查發現兩側耳下腺腫脹但不會感覺疼痛。血清檢查發現病人血中抗SS-A與抗SS-B抗體升高。有關此疾病之敘述，下列 何者正確？",
+    "options": {
+      "A": "唾液腺會有很多淋巴細胞（lymphocyte）浸潤，主要以CD8陽性T淋巴細胞為主",
+      "B": "應立即進行腎臟切片檢查以評估疾病嚴重度",
+      "C": "此類病人常會有類風濕因子（rheumatoid factor）升高現象",
+      "D": "此類病人常會有抗染色體中節抗體（anti-centromere antibody）升高現象"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 100 題",
+    "question": "【背景題幹：55歲女性因眼睛容易感到疲勞、出現燒熱感前來就診。另外病人抱怨口腔內也會有燒熱感，咀嚼及吞嚥乾的食物時會有困難。 身體檢查發現兩側耳下腺腫脹但不會感覺疼痛。血清檢查發現病人血中抗SS-A與抗SS-B抗體升高。有關此疾病之敘述，下列 何者正確？】\n（承上題）病人日後較容易罹患下列何種淋巴癌？ [圖片]",
+    "options": {
+      "A": "瀰漫型T淋巴細胞為主的淋巴癌（diffuse T-cell lymphoma）",
+      "B": "周邊區域型淋巴癌（marginal zone lymphoma）",
+      "C": "被套細胞淋巴癌（mantle cell lymphoma）",
+      "D": "何杰金氏淋巴癌（Hodgkin lymphoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

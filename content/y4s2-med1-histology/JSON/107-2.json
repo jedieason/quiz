@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 37 題",
+    "question": "下列有關粒線體之敘述何者錯誤？",
+    "options": {
+      "A": "粒線體以分裂方式（division）增加數目",
+      "B": "粒線體之基質（matrix）具有DNA與RNA",
+      "C": "粒線體之基質顆粒（matrix granules）可儲存雙價離子",
+      "D": "粒線體具單層膜"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 38 題",
+    "question": "下列那些軟骨組織可進行附加性生長（appositional growth）？①透明軟骨（hyaline cartilage） ②彈性軟 骨（elastic cartilage） ③纖維軟骨（fibrocartilage）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "①②③"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 39 題",
+    "question": "紅血球生成過程中，下列何者不再具有分裂能力？",
+    "options": {
+      "A": "正母紅血球（normoblasts）",
+      "B": "前母紅血球（proerythroblasts）",
+      "C": "嗜鹼性母紅血球（basophilic erythroblasts）",
+      "D": "多染性母紅血球（polychromatophilic erythroblasts）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 40 題",
+    "question": "下列何者不含有腦脊髓液（cerebrospinal fluid）？",
+    "options": {
+      "A": "大池（cisterna magna）",
+      "B": "硬腦膜下腔（subdural space）",
+      "C": "蜘蛛腦膜下腔（subarachnoid space）",
+      "D": "脊髓中央管（central canal of spinal cord）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 41 題",
+    "question": "動脈硬化斑塊（atheromatous plaques）常見特徵為：",
+    "options": {
+      "A": "內膜（tunica intima）有許多平滑肌細胞增生",
+      "B": "中膜（tunica media）有許多彈性板（elastic lamellae）出現",
+      "C": "外膜（tunica adventitia）顯著變厚",
+      "D": "三層構造均有顯著的平滑肌細胞增生、脂質（lipid）堆積和膠原蛋白（collagen）大量合成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 42 題",
+    "question": "下列何者是膽囊所沒有的構造？",
+    "options": {
+      "A": "黏膜肌層（muscularis mucosa）",
+      "B": "固有層（lamina propria）",
+      "C": "外肌層（muscularis externa）",
+      "D": "外膜（adventitia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 43 題",
+    "question": "結腸（colon）不具備下列那一項特徵？",
+    "options": {
+      "A": "杯狀細胞（goblet cells）",
+      "B": "單層柱狀上皮（simple columnar epithelium）",
+      "C": "潘氏細胞（Paneth cells）",
+      "D": "淋巴小結（lymphatic nodules）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 44 題",
+    "question": "鼻腔的嗅覺區（olfactory region）不具下列那一種細胞？",
+    "options": {
+      "A": "雙極神經元（bipolar neuron）",
+      "B": "杯狀細胞（goblet cell）",
+      "C": "基底細胞（basal cell）",
+      "D": "支持細胞（sustentacular cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 45 題",
+    "question": "腦下垂體不具有下列何種組織構造？",
+    "options": {
+      "A": "閏管（intercalated duct）",
+      "B": "竇狀微血管（sinusoidal capillaries）",
+      "C": "嫌色細胞（chromophobes）",
+      "D": "嗜色細胞（chromophils）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 46 題",
+    "question": "精子成型過程（spermiogenesis）是指下列何項？",
+    "options": {
+      "A": "由精母細胞（spermatogonia）轉換為初級精母細胞（primary spermatocytes）",
+      "B": "精原細胞脫離塞托利氏細胞（Sertoli cell）",
+      "C": "精子在副睪（epididymis）內轉換為具有受精能力之精子（spermatozoa）",
+      "D": "由精細胞（spermatid）轉換為成熟之精子（spermatozoa）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

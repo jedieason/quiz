@@ -1,0 +1,101 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 75 題",
+    "question": "食用未熟之淡水魚類，會感染下列何種人體寄生蟲？",
+    "options": {
+      "A": "海獸胃線蟲（Anisakis simplex）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "衛氏肺吸蟲（Paragonimus westermani）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 76 題",
+    "question": "下列人體寄生蟲檢查法，何者錯誤？",
+    "options": {
+      "A": "惡性瘧原蟲（Plasmodium faiciparum）－血液厚片塗抹法（thick blood smear）",
+      "B": "蟯蟲（Enterobius vermicularis）－肛圍擦拭法（cellophane tape swab method）",
+      "C": "旋毛蟲（Trichinella spiralis）－肌肉活體採樣檢查（biopsy）",
+      "D": "蟠尾絲蟲（Onchocerca volvulus）－膜濾法（nuclear pore filtration）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或 Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 77 題",
+    "question": "下列何者是中華肝吸蟲（Clonorchis sinensis）的確認診斷？",
+    "options": {
+      "A": "有生食淡水魚的習慣",
+      "B": "周邊血的嗜酸性白血球增多",
+      "C": "有上腹疼痛、肝腫大、黃疸的現象",
+      "D": "自糞便中檢出蟲卵"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 78 題",
+    "question": "在人類，豬囊尾幼蟲（Cysticercus cellulosae）最常侵犯下列何處？",
+    "options": {
+      "A": "眼睛",
+      "B": "腦",
+      "C": "小腸",
+      "D": "肝臟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 79 題",
+    "question": "若患者之新鮮糞便中含有感染型（infective form），則照顧患者之醫護人員較易受到感染的寄生 蟲是：",
+    "options": {
+      "A": "環孢子蟲（Cyclospora cayetanensis）",
+      "B": "人肉孢子蟲（Sarcocystis hominis）",
+      "C": "等孢子蟲（Isospora belli）",
+      "D": "隱孢子蟲（Cryptosporidium parvum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 80 題",
+    "question": "下列有關瘧疾的敘述，何者錯誤？",
+    "options": {
+      "A": "預防間日瘧之復發（relapse），宜用primaquine",
+      "B": "瘧疾發作（paroxysm）之過程依序為：惡寒（chill）、發燒（fever）、發汗（sweat）",
+      "C": "瘧疾的主要症狀為：發燒、貧血、肝腫大",
+      "D": "惡性瘧患者周邊血液中，通常較不易發現裂殖體（schizonts）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 81 題",
+    "question": "某一高科技業者因家庭教育的關係，很少清洗肚臍，一日因肚皮奇癢難耐，並發現肚臍鑽出似蛆之 小蟲，請問有關此病例之敘述，下列何者錯誤？",
+    "options": {
+      "A": "此病人應是罹患蠅蛆症（myiasis）",
+      "B": "蠅蛆症之發生，一定是母蠅產卵於患者之傷口，因此本病人之肚臍已有病灶（lesion）",
+      "C": "蠅蛆症不只在皮膚病灶，腸道或生殖泌尿道也可能發生",
+      "D": "本病人之治療應清創和移除所有蠅蛆，並視情況給予適當抗生素治療，以防二次感染（secondary infection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 82 題",
+    "question": "下列何種細菌可作為微生物殺蟲劑，消滅病媒蚊之幼蟲，用以防治登革熱？",
+    "options": {
+      "A": "比菲德氏菌（Bifidus）",
+      "B": "蘇力菌（Bacillus thuringiensis）",
+      "C": "乳酸桿菌（Lactobacillus acidophilus）",
+      "D": "大腸桿菌（Escherichia coli）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

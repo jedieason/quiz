@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 47 題",
+    "question": "下列何種物質最無法經由簡單擴散作用，而必須借助蛋白質才能進出細胞？",
+    "options": {
+      "A": "二氧化碳",
+      "B": "甘油",
+      "C": "醋酸",
+      "D": "葡萄糖"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 48 題",
+    "question": "有關視網膜的敘述，下列何者最不適當？",
+    "options": {
+      "A": "錐細胞（cone）和桿細胞（rod）皆位於視網膜內，最遠離玻璃體的外層位置",
+      "B": "錐細胞（cone）因數量遠較桿細胞（rod）多，因此錐細胞對空間解像力（或視覺敏銳度）的貢獻較桿細胞多",
+      "C": "亮適應主要涉及rhodopsin 之分解而非形成，所以較暗適應需時較短",
+      "D": "錐細胞（cone）被激起反應所需的光子量較桿細胞（rod）為多，因此在黑暗中去尋找光度極低的目標時，不 宜聚焦凝視"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 49 題",
+    "question": "已知corticospinal tract、corticobulbar tract、rubrospinal tract 下行的刺激訊息多匯集於四肢的縮肌（flexor muscle） 群，使之收縮；而pontine reticulospinal tract 主要的下行刺激訊息最終傾向引起四肢伸肌（extensor muscle）群的 收縮。若uncal herniation-induced supratentorial lesion 發生在中腦四疊體（superior and inferior colliculi）之中線 間，則肢體的狀態最可能是下列何者？",
+    "options": {
+      "A": "上下肢皆伸直僵硬",
+      "B": "上肢蜷起向內靠近胸部，下肢伸直僵硬",
+      "C": "下肢蜷起向內，上肢伸直僵硬向外",
+      "D": "頸部僵硬，上下肢完全失去張力"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 50 題",
+    "question": "具特化功能的交感神經系統的演化價值在於協助人類處理緊急危難，下列何項生理反應最不可能出現在極大 的生命威脅事件中？",
+    "options": {
+      "A": "血壓升高",
+      "B": "瞳孔縮小",
+      "C": "血糖升高",
+      "D": "氣管平滑肌放鬆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 51 題",
+    "question": "兔子僅以左眼多次學習light flickering 和shock 前後依序出現的制約，並以瞬膜在light flickering 出現後隨即迅 速關閉來表現該制約的學習記憶成果。學習結束後發現左右眼瞬膜皆能因應light flickering 出現而關閉。即使 在制約前先切除兔子的optic chiasm，左右眼仍能表現出這個記憶。但若在制約訓練前將聯絡左右腦的corpus  callosum 完全切斷，右眼不能表現出該制約記憶，僅左眼能。這個現象最適合說明下列何項？",
+    "options": {
+      "A": "該制約的學習有偏重大腦皮質某一邊的功能側化現象（lateralization）",
+      "B": "該制約記憶僅能存於左腦皮質",
+      "C": "該制約記憶提取必須經由右腦皮質",
+      "D": "該制約記憶可存放於左腦及右腦皮質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 52 題",
+    "question": "下列何種離子通道的開啟，最可能會造成抑制性突觸後電位（inhibitory postsynaptic potential）？",
+    "options": {
+      "A": "AMPA 受體（AMPA receptor）",
+      "B": "NMDA 受體（NMDA receptor）",
+      "C": "甘胺酸受體（glycine receptor）",
+      "D": "尼古丁受體（nicotinic receptor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 53 題",
+    "question": "下列有關血清素（serotonin）的敘述，何者正確？",
+    "options": {
+      "A": "人體血清素含量最多的部位的是大腦，其次是消化系統與血液",
+      "B": "人體血清素受體主要是離子通道型受體",
+      "C": "血清素神經元（serotonergic neurons）在睡覺時要比清醒時的活性來得高",
+      "D": "選擇性血清素再攝取抑制劑（selective serotonin reuptake inhibitors）臨床上可用來治療憂鬱症（depression）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 54 題",
+    "question": "傳遞fast pain 的神經有下列何種特性？",
+    "options": {
+      "A": "傳入纖維為具有髓鞘的C 纖維",
+      "B": "傳入神經纖維活化後，釋出的傳導物質通常為serotonin",
+      "C": "傳入纖維為具有髓鞘的A-delta 纖維",
+      "D": "因傳導速度快，通常較slow pain 不能精確定位疼痛點"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 55 題",
+    "question": "下列有關興奮收縮偶合（excitation-contraction coupling）的敘述，何者錯誤？",
+    "options": {
+      "A": "心肌、平滑肌與骨骼肌都需要動作電位傳入橫小管（transverse tubule, T-tubule），並活化電壓依賴性鈣離子通 道",
+      "B": "橫小管（transverse tubule, T-tubule）膜上的電壓依賴性鈣離子通道，也稱為二氫吡啶受器（dihydropyridine receptor）",
+      "C": "骨骼肌橫小管（transverse tubule, T-tubule）膜上的鈣離子通道的活化，改變肌漿網膜的鈣離子通道之構型，而 釋出鈣離子",
+      "D": "心肌橫小管（transverse tubule, T-tubule）膜上的鈣離子通道的活化，讓鈣離子流入，而促成肌漿網膜鈣離子通 道釋出鈣離子"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 56 題",
+    "question": "下列何者與二氧化碳（$CO_2$）在血液運送的機制最無關？",
+    "options": {
+      "A": "$CO_2$溶解於血漿（plasma）中",
+      "B": "$CO_2$經碳酸酐酶（carbonic anhydrase）轉化成H2CO3",
+      "C": "紅血球醣解作用產物2,3-biphosphoglycerate（2,3-BPG）減少，可增加$CO_2$與Fe 2+結合",
+      "D": "紅血球之血紅素（hemoglobin）可結合$CO_2$"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 57 題",
+    "question": "下列有關心臟調控之敘述，何者錯誤？",
+    "options": {
+      "A": "SA node 同時接受交感神經與副交感神經之調控",
+      "B": "AV node 同時接受交感神經與副交感神經之調控",
+      "C": "強力刺激迷走神經，可減慢心跳速率，並且降低心肌的收縮能力",
+      "D": "SA node 的膜電位是由鈣離子與鉀離子調控，與鈉離子無關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 58 題",
+    "question": "下列那一個現象不會發生在正常的心臟收縮期中？",
+    "options": {
+      "A": "心電圖出現T 波",
+      "B": "聽見第二心音",
+      "C": "主動脈壓力達到最高",
+      "D": "肺動脈壓力達到最高"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 59 題",
+    "question": "有關心輸出量（cardiac output）的敘述，下列何者正確？",
+    "options": {
+      "A": "一個健康成人執行費力長時間運動時，他的心輸出量會顯著增加",
+      "B": "一個健康成人執行費力長時間運動時，他的整體周邊血管阻力（total peripheral resistance）會顯著增加",
+      "C": "一個健康成人執行費力長時間運動時，他的組織耗氧量會增加數倍，原因是心搏量（stroke volume）也以倍 數增加",
+      "D": "一個健康成人在步入中老年以後，心輸出量通常隨著年齡增加而緩慢增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 60 題",
+    "question": "微血管之淨過濾壓（net filtration pressure）是決定微血管內液體流出微血管或是流入微血管的重要因素。某段 微血管之微血管流體靜壓為15 毫米汞柱，組織間液流體靜壓為0 毫米汞柱，血漿蛋白質造成之滲透壓為28 毫 米汞柱，組織間液蛋白質造成之滲透壓為3 毫米汞柱。此段微血管其淨過濾壓值，與該淨過濾壓值導致的微 血管液體流向傾向分別為何？",
+    "options": {
+      "A": "-16 毫米汞柱，液體流向傾向流入微血管",
+      "B": "-10 毫米汞柱，液體流向傾向流入微血管",
+      "C": "40 毫米汞柱，液體流向傾向流出微血管",
+      "D": "46 毫米汞柱，液體流向傾向流出微血管"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 61 題",
+    "question": "有關健康者平靜呼吸（quiet breathing）時的作功量（work），下列敘述何者正確？",
+    "options": {
+      "A": "僅吸氣階段需要作功",
+      "B": "僅呼氣階段需要作功",
+      "C": "吸氣階段與呼氣階段的作功量相同",
+      "D": "吸氣階段與呼氣階段均不需要作功"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 62 題",
+    "question": "三種血液樣本分別置於甲、乙、丙三 血紅素濃度為正常值的50%、丙試管 （carboxyhemoglobin），三管血液其餘 支試管，達成反應平衡後，下列敘述",
+    "options": {
+      "A": "甲試管血液中的氧分壓最高",
+      "B": "乙試管血液中的血氧飽和度百分比",
+      "C": "丙試管血液中的血氧飽和度百分比最",
+      "D": "三支試管血液中的氧氣總含量（tota"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 63 題",
+    "question": "關於神經影響唾液分泌的敘述，下列",
+    "options": {
+      "A": "在交感神經的作用下，唾液的分泌量",
+      "B": "在副交感神經的作用下，唾液會較交",
+      "C": "接受自主神經影響後，唾腺細胞內參",
+      "D": "唾腺細胞上的接受器，主要為甲型腎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 64 題",
+    "question": "在一般正常生理狀態下，有關胃酸分",
+    "options": {
+      "A": "受胃泌素釋放胜肽（gastrin releasing",
+      "B": "經氫氯離子共同轉運蛋白（H +-Cl - co",
+      "C": "受黏液素（mucin）直接抑制Gs 蛋白",
+      "D": "需有碳酸酐酵素（carbonic anhydrase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 65 題",
+    "question": "病人的血漿中[Na +]: 135 meq/L；[K +]: 3 （BUN）: 56 mg/dL；Creatinine: 1.5 m 何？",
+    "options": {
+      "A": "300",
+      "B": "310",
+      "C": "320",
+      "D": "330"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 66 題",
+    "question": "貝氏症候群（Bartter syndrome）致病機 （transporters）或通道（channels）發生",
+    "options": {
+      "A": "Na +-Cl - cotransporter",
+      "B": "Na +-K +-2Cl - contrasporter（NKCC2）",
+      "C": "ClC-Kb Cl - channels 三支試管內，甲試管：血紅素（hemoglobin）濃 管：血紅素總濃度正常，但是其中50%為一氧化 餘條件皆相同。若將氧分壓（ ）均為40 m 述何者正確？ （oxygen saturation percentage, ）為甲試管的 最高 al oxygen content）皆相同 列何者最適當？ 量會較副交感神經作用下為多 交感神經作用下為黏稠 參與的訊息因子有鈣離子 腎上腺素（alpha-adrenergic）受體與尼古丁（n 分泌與調控的敘述，下列何者正確？ g peptide, GRP）直接刺激細胞生成胃酸 otransporter）作用後，釋放胃酸 白，因而打開氯離子通道（Cl - channel），抑制 e）的參與，才能生成胃酸 3.5 meq/L；[Cl -]: 114 meq/L；Glucose: 180 mg/dL mg/dL，依此數據計算該病人的血漿滲透壓osm 機轉主要因亨利氏上升厚小管（thick ascending 生問題所致。這些載體或通道最不可能包括下 濃度與成分皆正常、乙試管： 化碳血紅素 mmHg 之相同氣體分別灌入三 的50% nicotinic）型受體 制細胞生成胃酸 L；Blood urea nitrogen molality（mOsm/kg H2O）為 g limb, Henle's loop）之載體 下列何者？",
+      "D": "ROMK K + channels"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 67 題",
+    "question": "有關催產素（oxytocin）作用的敘述，下列何者錯誤？",
+    "options": {
+      "A": "催產素是造成排乳（milk ejection）作用的主要荷爾蒙",
+      "B": "在產後，催產素分泌作用可由嬰兒吸吮乳房所誘發",
+      "C": "催產素促進子宮平滑肌收縮的作用，會被黃體素（progesterone）的作用所刺激",
+      "D": "在分娩期間，催產素分泌調控屬於正向回饋調控機轉"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 68 題",
+    "question": "有關生長激素（growth hormone）的作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "二聚合作用（dimerization）是活化其受體必要步驟",
+      "B": "生長激素分泌過多，會增加身體蛋白質的合成作用",
+      "C": "使用體抑素（somatostatin）可以用來治療肢端肥大症（acromegaly）",
+      "D": "長期生長激素分泌不足，會造成血糖升高"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 69 題",
+    "question": "有關鈉依賴葡萄糖共同轉運蛋白（SGLT）的敘述，下列何者最適當？",
+    "options": {
+      "A": "SGLT 運送葡萄糖進入細胞通常是經由促進性擴散（facilitated diffusion）作用",
+      "B": "SGLT 主要分布在肝臟及脂肪組織",
+      "C": "胰島素通常不直接調控SGLT 運送葡萄糖之作用",
+      "D": "給與第二型SGLT 抑制劑通常會導致血糖升高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 70 題",
+    "question": "下列何者與酪胺酸衍生物類荷爾蒙（tyrosine-derived hormones）的生理調控作用，關聯性最小？",
+    "options": {
+      "A": "壓力反應",
+      "B": "生理時鐘",
+      "C": "新陳代謝",
+      "D": "生長發育"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 71 題",
+    "question": "醛固酮（aldosterone）主要是從腎上腺的何處分泌？",
+    "options": {
+      "A": "絲球帶（zona glomerulosa）",
+      "B": "囊狀帶（zona fasciculata）",
+      "C": "網狀帶（zona reticularis）",
+      "D": "髓質（medulla）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 72 題",
+    "question": "卵巢顆粒細胞（granulosa cells）的類固醇生成（steroidogenesis）活性低落，最可能引發下列何種情況？",
+    "options": {
+      "A": "增進子宮內膜層增生",
+      "B": "骨吸收（bone resorption）增加",
+      "C": "血液中濾泡促素（FSH）含量降低",
+      "D": "血液中黃體生成素（LH）含量降低"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 73 題",
+    "question": "下列何者與胚胎性別分化（sex differentiation）最相關 ？",
+    "options": {
+      "A": "Müllerian-inhibiting substance（MIS）",
+      "B": "follicle-stimulating hormone（FSH）",
+      "C": "androgen-binding protein",
+      "D": "inhibin"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

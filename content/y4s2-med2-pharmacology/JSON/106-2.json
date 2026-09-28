@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 51 題",
+    "question": "關於抗病毒藥物acyclovir之敘述，下列何者正確？",
+    "options": {
+      "A": "為adenosine衍生物",
+      "B": "須被宿主細胞之thymidine kinase加入第一個磷酸根後才易被活化產生藥效",
+      "C": "只會作用於被病毒感染細胞，不會影響其他正常細胞",
+      "D": "用於治療人類免疫缺乏病毒（human immunodeficiency virus）感染所引起之疾病"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 52 題",
+    "question": "有關高分子量之unfractionated heparin（UFH）與低分子量LMW heparin之敘述，下列何者錯誤？",
+    "options": {
+      "A": "兩者皆可預防和治療肺栓塞",
+      "B": "UFH可有效中和factor Xa和thrombin，但LMW heparin對thrombin有較高之中和能力",
+      "C": "LMW heparin較少引發thrombocytopenia現象",
+      "D": "臨床上LMW heparin之劑量較好控制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 53 題",
+    "question": "下列何者為抗甲狀腺機能亢進藥物perchlorate主要的作用機轉？",
+    "options": {
+      "A": "阻斷甲狀腺攝取碘離子（thyroidal uptake of iodide）的作用",
+      "B": "抑制甲狀腺過氧化物酶催化反應（thyroid peroxidase-catalytic reaction）",
+      "C": "其促進周邊將triiodothyronine（T3）及 tetraiodothyronine（T4）進行脫碘化作用（deiodination）",
+      "D": "其具有抑制碘有機化（iodine organification）及減少triiodothyronine（T3）及 tetraiodothyronine（T4）釋放 的作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 54 題",
+    "question": "肝硬化引起的水腫對下列何種藥物之反應最佳？",
+    "options": {
+      "A": "mannitol",
+      "B": "eplerenone",
+      "C": "bumetanide",
+      "D": "thiazide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 55 題",
+    "question": "下列那一種利尿劑最適用於急性肺水腫病人？",
+    "options": {
+      "A": "thiazide",
+      "B": "ethacrynic acid",
+      "C": "acetazolamide",
+      "D": "spironolactone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 56 題",
+    "question": "過量neostigmine中毒，不會產生下列何種作用？",
+    "options": {
+      "A": "腹瀉",
+      "B": "流汗",
+      "C": "散瞳",
+      "D": "排尿"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 57 題",
+    "question": "下列何者不是治療氣喘的藥物？",
+    "options": {
+      "A": "cromolyn",
+      "B": "propranolol",
+      "C": "zileuton",
+      "D": "beclomethasone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 58 題",
+    "question": "有關中樞神經興奮劑cocaine的敘述，下列何者錯誤？",
+    "options": {
+      "A": "具局部麻醉及血管收縮作用",
+      "B": "與海洛因（heroin）會產生交互依賴（cross dependence）的作用",
+      "C": "具有阻斷多巴胺（dopamine）再回收系統作用，因此會增加腦中局部多巴胺濃度",
+      "D": "具有降低食慾的作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 59 題",
+    "question": "下列那一種鎮靜安眠藥物不會產生具有生物活性的代謝產物？",
+    "options": {
+      "A": "flurazepam",
+      "B": "diazepam",
+      "C": "lorazepam",
+      "D": "chlordiazepoxide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 60 題",
+    "question": "下列那一種鎮靜安眠藥物的半衰期最短？",
+    "options": {
+      "A": "alprazolam",
+      "B": "triazolam",
+      "C": "quazepam",
+      "D": "diazepam"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 61 題",
+    "question": "有關藥物作用活性的敘述，下列何者正確？",
+    "options": {
+      "A": "efficacy越大的藥物其potency也越大",
+      "B": "若10 mg藥物A與100 mg藥物B的作用程度相同時，藥物A的therapeutic index較藥物B大",
+      "C": "作用在同一受體的藥物會因受體組織分布的不同而產生不同的療效與毒性",
+      "D": "spare receptor是藥物產生毒性的主要原因"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 62 題",
+    "question": "有關藥物動力學的敘述，下列何者正確？",
+    "options": {
+      "A": "鹼性藥物較酸性藥物，易由胃部吸收",
+      "B": "在血液中鹼性藥物較酸性藥物，易與白蛋白結合",
+      "C": "鹼性藥物較酸性藥物，易由乳汁排出",
+      "D": "由腎臟排出時，鹼性藥物較酸性藥物，易由腎小管再吸收回到血液中"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 63 題",
+    "question": "下列抗生素中何者之脂溶性最大，最容易通過血腦屏障（blood brain barrier）進入中樞神經以治療腦膜炎？",
+    "options": {
+      "A": "cefazolin",
+      "B": "erythromycin",
+      "C": "gentamicin",
+      "D": "rifampin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 64 題",
+    "question": "Vancomycin為methicillin-resistant staphylococcal infection（MRSI）之首選用藥，制菌機轉與下列何者有 關，進而抑制細菌之細胞壁生成？",
+    "options": {
+      "A": "抑制細菌之transpeptidase",
+      "B": "和細菌細胞壁成分胜肽醣酐鍊（peptidoglycan）上之D-alanin-D-alanin（D-Ala-D-Ala）緊密結合",
+      "C": "抑制合成細胞壁所需原料D-Ala之生成",
+      "D": "抑制細胞膜上脂溶性載體bactoprenol之去磷酸化作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 65 題",
+    "question": "下列抗癌藥物中，何者可以和血管內皮生長因子A（vascular endothelial growth factor-A）結合，而抑制腫瘤 之血管新生（angiogenesis），達到抗癌作用？",
+    "options": {
+      "A": "bevacizumab",
+      "B": "cetuximab",
+      "C": "panitumumab",
+      "D": "trastuzumab"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 66 題",
+    "question": "下列何者經由抑制vitamin K epoxide reductase，而減少凝血因子製造？",
+    "options": {
+      "A": "heparin",
+      "B": "warfarin",
+      "C": "tPA（tissue plasminogen activator）",
+      "D": "melagartran"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 67 題",
+    "question": "一位患結節性甲狀腺腫瘤的老伯，已經安排要做甲狀腺切除手術。在手術前兩星期服用下列何者，可以減少 甲狀腺的血管分布？",
+    "options": {
+      "A": "radioactive iodine",
+      "B": "levothyroxine",
+      "C": "iodides",
+      "D": "liothyroine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 68 題",
+    "question": "下列何者常被加入鈣離子補充劑和牛奶中，預防兒童佝僂症及成年人骨軟化症？",
+    "options": {
+      "A": "calcitriol",
+      "B": "cholecalciferol",
+      "C": "gallium nitrate",
+      "D": "sevelamer"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 69 題",
+    "question": "Ranolazine為一新穎抗心絞痛藥物，其作用機轉為何？",
+    "options": {
+      "A": "抑制late component of the $Na^+$ current",
+      "B": "活化rapid component of the delayed rectifier $K^+$ current",
+      "C": "nitric oxide donor",
+      "D": "alpha-1 adrenergic receptor blocker"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物屬於長效型β2-adrenergic agonist，不得用於急性氣喘發作？",
+    "options": {
+      "A": "salbutamol",
+      "B": "salmeterol",
+      "C": "terbutaline",
+      "D": "metaproterenol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 71 題",
+    "question": "當偏頭痛（migraine）患者出現輕微到中度的頭痛症狀時，下列何者可以作為第一線的治療藥物？",
+    "options": {
+      "A": "acetaminophen",
+      "B": "allopurinol",
+      "C": "celecoxib",
+      "D": "naproxen"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 72 題",
+    "question": "下列那一個神經—肌肉阻斷劑，在治療劑量下作用時間（duration of action）最短？",
+    "options": {
+      "A": "succinylcholine",
+      "B": "cisatracurium",
+      "C": "pancuronium",
+      "D": "vecuronium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 73 題",
+    "question": "下列那一個抗憂鬱藥物抑制serotonin和norepinephrine的再回收，較沒有抗膽鹼（anticholinergic） 以及α腎 上腺素阻斷（α-adrenergic blocking）的副作用？",
+    "options": {
+      "A": "amitriptyline",
+      "B": "venlafaxine",
+      "C": "fluoxetine",
+      "D": "selegiline"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 74 題",
+    "question": "下列吸入性麻醉劑中，何者的最小肺泡濃度（minimal alveolar concentration; MAC）數值最大？",
+    "options": {
+      "A": "sevoflurane",
+      "B": "nitrous oxide",
+      "C": "halothane",
+      "D": "desflurane"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 75 題",
+    "question": "Dimercaprol（又稱British anti-lewisite, BAL）可用來治療急性有機或無機砷中毒的機轉，不包括下列何者：",
+    "options": {
+      "A": "避免砷抑制sulfhydryl-containing enzymes",
+      "B": "逆轉被砷所抑制的sulfhydryl-containing enzymes",
+      "C": "增加砷的排出速率",
+      "D": "還原砷成無毒性代謝物"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

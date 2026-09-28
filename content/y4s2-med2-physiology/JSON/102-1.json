@@ -1,0 +1,311 @@
+[
+  {
+    "origin": "出自 102 年第一次醫師國考第 1 題",
+    "question": "刺激交感神經將使眼睛虹膜（iris）之何種肌肉收縮，因而導致下列何種反應？",
+    "options": {
+      "A": "radial muscle；mydriasis",
+      "B": "circular muscle；miosis",
+      "C": "radial muscle；miosis",
+      "D": "circular muscle；mydriasis"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 2 題",
+    "question": "腦損傷發生後，受損之神經細胞附近常累積大量glutamate，glutamate 進一步與鄰近未受損神經細胞 之何種受器（receptor）結合，導致這些神經細胞過度興奮而死亡？",
+    "options": {
+      "A": "NMDA（N-methyl-D-aspartate）",
+      "B": "AMPA（α-amino-3-hydroxy-5-methylisoxazole-4-propionate）",
+      "C": "dopamine",
+      "D": "calcium"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 3 題",
+    "question": "下列何者完全不參與味覺訊息（taste signals）的傳遞？",
+    "options": {
+      "A": "chorda tympani nerve",
+      "B": "petrosal ganglion",
+      "C": "hypoglossal nerve",
+      "D": "geniculate ganglion"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 4 題",
+    "question": "下列何者最可能是unmyelinated nerve fiber 的傳導速度？",
+    "options": {
+      "A": "0.5 meters/second",
+      "B": "10 meters/second",
+      "C": "50 meters/second",
+      "D": "100 meters/second"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 5 題",
+    "question": "中樞神經系統內判斷聲音來源之水平方向位置的主要結構為何？",
+    "options": {
+      "A": "superior colliculus",
+      "B": "lateral geniculate nucleus",
+      "C": "spiral ganglion",
+      "D": "superior olive"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 6 題",
+    "question": "箭毒素（curare 亦即D-tubocurarine）中毒時，受影響之運動單位（motor unit）會發生何種狀況？",
+    "options": {
+      "A": "其骨骼肌無法產生終板電位（end plate potential）",
+      "B": "其運動神經無法產生動作電位",
+      "C": "其運動神經無法釋放acetylcholine",
+      "D": "其運動神經釋放之acetylcholine 無法被水解清除"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 7 題",
+    "question": "有關basal ganglia 參與骨骼肌運動之調節，與大腦皮質（cerebral cortex）及視丘（thalamus）間之神 經訊息傳遞主要路徑為何？",
+    "options": {
+      "A": "cerebral cortex→striatum→globus pallidus→thalamus→cerebral cortex",
+      "B": "cerebral cortex→globus pallidus→striatum→thalamus→cerebral cortex",
+      "C": "cerebral cortex→thalamus→striatum→globus pallidus→cerebral cortex",
+      "D": "cerebral cortex→striatum→thalamus→globus pallidus→cerebral cortex"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 8 題",
+    "question": "心臟傳導系統中，電位傳導最快之部位為何？",
+    "options": {
+      "A": "AV node",
+      "B": "bundle of His",
+      "C": "Purkinje system",
+      "D": "ventricular muscle"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 9 題",
+    "question": "下列有關sinus arrhythmia 的敘述，何者正確？",
+    "options": {
+      "A": "是一種正常現象，和心臟副交感神經刺激有關",
+      "B": "心跳於吸氣時變慢，呼氣時變快",
+      "C": "此現象多見於老年人",
+      "D": "深呼吸可改善此一現象"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 10 題",
+    "question": "一個肺炎病人使用50%氧氣所測得之動脈血氣檢查結果如下：  pH:7.36，PaCO2:33 mmHg，PaO2:55 mmHg，HCO3 -:18 mEq/L，BE:-5 mEq/L（假設respiratory exchange  ratio(R) = 0.8, water vapor pressure = 47 mmHg, alveolar $CO_2$ = arterial $CO_2$），請問肺泡氧分壓為多少 mmHg（最正確或誤差最小）？",
+    "options": {
+      "A": "356",
+      "B": "319",
+      "C": "275",
+      "D": "225"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 11 題",
+    "question": "當一位健康者站立並進行平靜呼氣，其過程中不會發生下列何種情況？",
+    "options": {
+      "A": "外肋間肌（external intercostal muscles）鬆弛",
+      "B": "胸腔向內移",
+      "C": "肺泡壓（alveolar pressure）大於大氣壓力",
+      "D": "腹肌收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 12 題",
+    "question": "下列何種疾病之肺順應性（lung compliance）最可能較正常人高？",
+    "options": {
+      "A": "肺纖維化（pulmonary fibrosis）",
+      "B": "肺水腫（pulmonary edema）",
+      "C": "肺炎（pneumonia）",
+      "D": "肺氣腫（pulmonary emphysema）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 13 題",
+    "question": "下列與吞嚥相關的敘述，何者正確？",
+    "options": {
+      "A": "對於第五、第九或第十對腦神經的傷害會影響吞嚥機轉",
+      "B": "人類吞嚥中樞位於左側大腦",
+      "C": "以深度麻醉進行手術時，病人仍有吞嚥反射",
+      "D": "食道弛緩症（Achalasia）的病因是上三分之一食道壁內神經叢異常"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 14 題",
+    "question": "下列與便秘（constipation）有關的敘述，何者錯誤？",
+    "options": {
+      "A": "因大腸蠕動力減弱而發生的便秘，常見於老年人或承受情緒上壓力的病人",
+      "B": "伴隨便秘發生的頭痛、食慾不振、作嘔和腹脹等症狀是由堆積的糞便中毒素所引起",
+      "C": "食物纖維（纖維素和其他多醣類）會引起腹脹，藉由提昇大腸蠕動力而改善便秘",
+      "D": "乙狀結腸的小段痙攣會引起交替出現的便秘和腹瀉"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 15 題",
+    "question": "下列何者為決定肝臟膽鹽（bile salt）分泌速率之主要因子？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "迷走神經",
+      "D": "血中膽鹽的濃度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 16 題",
+    "question": "有關乳糖耐受不良（lactose intolerance）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "通常新生兒小腸內有足夠的乳糖酶，不易發生乳糖耐受不良",
+      "B": "大多數亞洲人的乳糖酶在兩歲以後逐漸減少，因此容易發生乳糖耐受不良",
+      "C": "未經消化的乳糖被小腸內細菌代謝後，產生氣體和醋酸，導致腹部脹痛和腹瀉",
+      "D": "乳糖耐受不良的症狀輕者只有些微腹部不適，重者可能發生嚴重腹瀉甚至脫水"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 17 題",
+    "question": "下列何種身體變化會增加尿中鈣離子（Ca++）的排出量？",
+    "options": {
+      "A": "細胞外液量（extracellular fluid volume）增加",
+      "B": "血中磷（phosphate）濃度上升",
+      "C": "代謝性酸中毒（metabolic acidosis）",
+      "D": "血中之副甲狀腺素（parathyroid hormone）濃度上升"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 18 題",
+    "question": "某人24 小時尿液分析如下：  尿流量6.5 mL/min；小便的osmolality為55 mOsm/kg H2O；尿液中的鈉離子（$Na^+$）濃度為6 mEq/L。 則此人最可能的情形為何？",
+    "options": {
+      "A": "高尿溶質所導致之多尿（osmotic diuresis）",
+      "B": "大量水分攝取所導致之多尿（water diuresis）",
+      "C": "使用利尿劑所導致之多尿（diuretics-induced diuresis）",
+      "D": "使用抗利尿激素（antidiuretic hormone）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 19 題",
+    "question": "下列有關腎絲球（glomerulus）的敘述，何者正確？",
+    "options": {
+      "A": "帶正電的物質較易通過腎絲球微血管",
+      "B": "帶負電的物質較易通過腎絲球微血管",
+      "C": "腎絲球的足細胞（podocytes）負責阻止腎絲球對物質的過濾",
+      "D": "緊縮入球小動脈（afferent arteriole）可升高腎絲球過濾速度（GFR）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答 Ａ或Ｃ或AC者均給分。"
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 20 題",
+    "question": "一位成年男子抽血發現血中的肌酐酸（serum creatinine）值為4.1 mg/dL，24 小時之尿液肌酐酸值為 72 mg/dL，男子之24 小時尿液總量為1900 mL。利用男子之肌酐酸廓清率（creatinine clearance rate;  CCr）來估算其腎絲球過濾率（glomerular filtration rate），下列那一個是最接近實際之腎絲球過濾率 數值？",
+    "options": {
+      "A": "15-30 mL/min",
+      "B": "31-40 mL/min",
+      "C": "41-50 mL/min",
+      "D": ">50 mL/min"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 21 題",
+    "question": "關於腦下垂體激素之敘述，何者正確？",
+    "options": {
+      "A": "均為醣蛋白質（glycoprotein），且分為α 及β 次單元（subunit）",
+      "B": "屬醣蛋白結構之激素的特異性取決於α 次單元之結構",
+      "C": "腦下垂體前葉可合成proopiomelanocortin（POMC）",
+      "D": "促濾泡激素（follicle-stimulating hormone, FSH）由gonadotrope 細胞分泌；而黃體生成激素（luteinizing hormone, LH）則由mammotrope 細胞分泌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 22 題",
+    "question": "要懷疑一位病患可能患有引起副甲狀腺素分泌過高的副甲狀腺瘤，下列何種線索最不相關？",
+    "options": {
+      "A": "習慣性便秘及食慾不振",
+      "B": "嚴重的骨質疏鬆",
+      "C": "兩側復發性腎結石",
+      "D": "常常不明原因的肌肉抽搐"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 23 題",
+    "question": "有關Y 染色體之敘述，下列何者錯誤？",
+    "options": {
+      "A": "Y 染色體上有誘發胚胎分化為雄性的關鍵基因存在",
+      "B": "Y 染色體上的基因對雄性配子（gamete）之形成有重要的調控作用",
+      "C": "Y 染色體無法與X 染色體聯會",
+      "D": "Y 染色體有許多重複的片段"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 24 題",
+    "question": "有關SRY（sex determining region of the Y chromosome）基因的敘述，下列何者正確？",
+    "options": {
+      "A": "正常女性染色體之中也有SRY 基因",
+      "B": "SRY 位於Y 染色體的長臂（q arm）上",
+      "C": "SRY 基因會決定原始性腺往睪丸分化",
+      "D": "單獨SRY 基因缺損（deletion）可以在一般染色體分析（karyotyping）中看出來"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第一次醫師國考第 25 題",
+    "question": "由胎盤分泌的人絨膜性促素（hCG）與下列那三種腦下腺前葉激素具有相同的α 次單元（α-subunit）？",
+    "options": {
+      "A": "生長素（GH）、甲促素（TSH）及泌乳素（prolactin）",
+      "B": "甲促素、泌乳素及黃體生成激素（LH）",
+      "C": "泌乳素、黃體生成激素及促濾泡激素（FSH）",
+      "D": "黃體生成激素、促濾泡激素及甲促素"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

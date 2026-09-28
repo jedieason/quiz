@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 1 題",
+    "question": "下列那一對腦幹神經核，其神經元發出神經纖維後先在腦幹內交叉到對側才離開腦幹？",
+    "options": {
+      "A": "動眼神經核（oculomotor nucleus）",
+      "B": "滑車神經核（trochlear nucleus）",
+      "C": "外旋神經核（abducens nucleus）",
+      "D": "舌下神經核（hypoglossal nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 2 題",
+    "question": "小腦的苔狀傳入神經纖維（mossy fiber）主要與下列小腦皮質何者中的神經細胞產生突觸（synapses）？",
+    "options": {
+      "A": "分子層（molecular layer）",
+      "B": "蒲金氏細胞層（Purkinje cell layer）",
+      "C": "顆粒層（granule cell layer）",
+      "D": "分子層（molecular layer）以及蒲金氏細胞層（Purkinje cell layer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 3 題",
+    "question": "下列大腦皮質（cerebral cortex）的那一區負責控制兩眼外側注視（lateral gaze）的動作？",
+    "options": {
+      "A": "主要運動區（primary motor area）",
+      "B": "主要視覺區（primary visual area）",
+      "C": "運動輔助區（supplementary motor area）",
+      "D": "額葉眼動區（frontal eye field）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 4 題",
+    "question": "下列何者受刺激時，會造成同側身體伸肌（extensor muscles）收縮，屈肌（flexor muscles）鬆弛？",
+    "options": {
+      "A": "外側前庭脊髓徑（lateral vestibulospinal tract）",
+      "B": "外側網狀脊髓徑（lateral reticulospinal tract）",
+      "C": "紅核脊髓徑（rubrospinal tract）",
+      "D": "外側皮質脊髓徑（lateral corticospinal tract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 5 題",
+    "question": "有關負責傳遞本體感覺（proprioception）的神經纖維，下列敘述何者最恰當？",
+    "options": {
+      "A": "通常為較粗的神經纖維（large diameter fiber），主要經脊髓背根內側（medial division of posterior root）進入 脊髓",
+      "B": "通常為較粗的神經纖維（large diameter fiber），主要經脊髓背根外側（lateral division of posterior root）進入 脊髓",
+      "C": "通常為較細的神經纖維（small diameter fiber），主要經脊髓背根內側（medial division of posterior root）進入 脊髓",
+      "D": "通常為較細的神經纖維（small diameter fiber），主要經脊髓背根外側（lateral division of posterior root）進入 脊髓"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 6 題",
+    "question": "下列何者不是間腦（diencephalon）之構造？",
+    "options": {
+      "A": "丘腦（thalamus）",
+      "B": "松果體（pineal body）",
+      "C": "豆狀核（lentiform nucleus）",
+      "D": "下視丘（hypothalamus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 7 題",
+    "question": "下列有關眼神經（ophthalmic nerve）的描述，何者最不恰當？",
+    "options": {
+      "A": "屬於特殊感覺神經",
+      "B": "屬於體感覺神經",
+      "C": "接收眼眶結構之感覺訊息",
+      "D": "接收部分顏面之感覺訊息"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 8 題",
+    "question": "眼眶內側壁之鼻淚管（nasolacrimal canal）連通下列那一空間？",
+    "options": {
+      "A": "最上鼻道",
+      "B": "上鼻道",
+      "C": "中鼻道",
+      "D": "下鼻道"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 9 題",
+    "question": "鼓索神經（chorda tympani nerve）經過下列那一個顳骨構造離開中耳進入顳下窩（infratemporal fossa）？",
+    "options": {
+      "A": "岩鼓裂（petrotympanic fissure）",
+      "B": "莖乳突孔（stylomastoid foramen）",
+      "C": "乳突孔（mastoid foramen）",
+      "D": "咽鼓室管（pharyngotympanic tube）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 10 題",
+    "question": "下列何者不包覆在頸動脈鞘（carotid sheath）內？",
+    "options": {
+      "A": "頸總動脈（common carotid artery）",
+      "B": "舌咽神經（glossopharyngeal nerve）",
+      "C": "內頸動脈（internal carotid artery）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 11 題",
+    "question": "下列何者同時參與眼眶、鼻腔與口腔三者的形成？",
+    "options": {
+      "A": "篩骨（ethmoid bone）",
+      "B": "淚骨（lacrimal bone）",
+      "C": "顴骨（zygomatic bone）",
+      "D": "上頷骨（maxillary bone）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 12 題",
+    "question": "口腔底部近會厭軟骨（epiglottis）的黏膜，其神經支配為：",
+    "options": {
+      "A": "舌神經（lingual nerve）",
+      "B": "舌咽神經（glossopharyngeal nerve）",
+      "C": "鼓索神經（chorda tympani nerve）",
+      "D": "內喉神經（internal laryngeal nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 13 題",
+    "question": "蝶骨棘（spine of sphenoid bone）的位置最靠近下列何孔洞？",
+    "options": {
+      "A": "盲孔（foramen cecum）",
+      "B": "腭大孔（greater palatine foramen）",
+      "C": "棘孔（foramen spinosum）",
+      "D": "莖乳突孔（stylomastoid foramen）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 14 題",
+    "question": "下列何區的一般感覺，是第五對腦神經第三分支（CN V3）負責？",
+    "options": {
+      "A": "硬顎",
+      "B": "鼻腔內",
+      "C": "下眼瞼",
+      "D": "口腔內頰"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 15 題",
+    "question": "心臟缺血（cardiac ischemia）產生的痛覺主要經由下列何者傳遞入中樞神經系統？",
+    "options": {
+      "A": "膈神經（phrenic nerve）",
+      "B": "迷走神經（vagus nerve）",
+      "C": "交感神經系統（sympathetic system）",
+      "D": "左側喉返神經（left recurrent laryngeal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 16 題",
+    "question": "有關胸部交感神經節（thoracic sympathetic ganglion）的敘述，下列何者最為恰當？",
+    "options": {
+      "A": "通常會發出神經，並且只支配胸腹腔臟器",
+      "B": "僅以灰交通支（gray rami communicantes）與胸部脊神經（thoracic spinal nerve）相連",
+      "C": "上五個交感神經節，會發出節後神經纖維（postganglionic sympathetic fibers），支配胸腔內器官",
+      "D": "下七個交感神經節，會發出節後神經纖維（postganglionic sympathetic fibers），支配腹腔內器官"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 17 題",
+    "question": "臨床上左側優勢冠狀動脈（left dominant coronary artery）指的是下列何者？",
+    "options": {
+      "A": "前室間支動脈血液來自於左冠狀動脈",
+      "B": "前室間支動脈血液來自於右冠狀動脈",
+      "C": "後室間支動脈血液來自於左冠狀動脈",
+      "D": "後室間支動脈血液來自於右冠狀動脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 18 題",
+    "question": "咳血最常發生於：",
+    "options": {
+      "A": "肺動脈系統",
+      "B": "肺靜脈系統",
+      "C": "支氣管動脈系統",
+      "D": "支氣管靜脈系統"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 19 題",
+    "question": "下列何者經由橫膈（diaphragm）的主動脈裂口（aortic hiatus），穿通胸腔與腹腔？",
+    "options": {
+      "A": "胸管（thoracic duct）",
+      "B": "食道（esophagus）",
+      "C": "內胸動脈（internal thoracic artery）",
+      "D": "下膈靜脈（inferior phrenic vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 20 題",
+    "question": "左性腺靜脈（left gonadal vein）會直接匯入下列那一個靜脈？",
+    "options": {
+      "A": "下腔靜脈（inferior vena cava）",
+      "B": "左腎靜脈（left renal vein）",
+      "C": "左總髂靜脈（left common iliac vein）",
+      "D": "下腸繫膜靜脈（inferior mesenteric vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 21 題",
+    "question": "下列何者不在精索（spermatic cord）內？",
+    "options": {
+      "A": "髂腹股溝神經（ilioinguinal nerve）",
+      "B": "生殖股神經-生殖支（genital branch of genitofemoral nerve）",
+      "C": "輸精管（ductus deferens）",
+      "D": "蔓狀靜脈叢（pampiniform venous plexus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 22 題",
+    "question": "下列何者與網膜孔（omental foramen）的關係位置不正確？",
+    "options": {
+      "A": "總膽管在其後方",
+      "B": "肝門靜脈在其前方",
+      "C": "肝臟在其上方",
+      "D": "十二指腸在其下方"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 23 題",
+    "question": "關於直腸（rectum），下列敘述何者正確？",
+    "options": {
+      "A": "直腸的黏膜非常平滑，沒有任何皺褶",
+      "B": "提肛肌（levator ani）及肛尾韌帶（anococcygeal ligament）協助維持直腸與鄰近構造間的關係",
+      "C": "腹膜（peritoneum）只覆蓋到乙狀結腸（sigmoid colon），並未覆蓋到直腸",
+      "D": "肛管直腸彎曲（anorectal flexure）大略成80°，這主要是由U字型的尾骨肌（coccygeus）所造成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 24 題",
+    "question": "下列何肌肉覆蓋住陰莖腳（crus of penis）？",
+    "options": {
+      "A": "坐骨海綿體肌（ischiocavernosus muscle）",
+      "B": "球海綿體肌（bulbospongiosus muscle）",
+      "C": "會陰淺橫肌（superficial transverse perineal muscle）",
+      "D": "會陰深橫肌（deep transverse perineal muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 25 題",
+    "question": "下列何神經傳遞陰道（vagina）上部及子宮頸（cervix of uterus）的痛覺傳導纖維？",
+    "options": {
+      "A": "陰部神經（pudendal nerves）",
+      "B": "下腹神經（hypogastric nerves）",
+      "C": "骨盆內臟神經（pelvic splanchnic nerves）",
+      "D": "腰內臟神經（lumbar splanchnic nerves）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 26 題",
+    "question": "下列何者不是女性會陰深隙（deep perineal pouch）的內容物？",
+    "options": {
+      "A": "前庭球（bulb of vestibule）",
+      "B": "部分陰道（vagina）",
+      "C": "部分尿道（urethra）",
+      "D": "外尿道括約肌（external urethral sphincter muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 27 題",
+    "question": "下列那一條肌肉協助三角肌（deltoid muscle）外展（abduct）上臂？",
+    "options": {
+      "A": "棘上肌（supraspinatus）",
+      "B": "棘下肌（infraspinatus）",
+      "C": "大圓肌（teres major）",
+      "D": "小圓肌（teres minor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 28 題",
+    "question": "下列何者與大腿闊筋膜（fascia lata）的附著點無關？",
+    "options": {
+      "A": "腹股溝韌帶（inguinal ligament）",
+      "B": "薦棘韌帶（sacrospinous ligament）",
+      "C": "髂嵴（iliac crest）",
+      "D": "坐骨粗隆（ischial tuberosity）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 29 題",
+    "question": "下列那一條神經，支配圖中黑色區域的表皮感覺？ [圖片]",
+    "options": {
+      "A": "尺神經（ulnar nerve）",
+      "B": "橈神經（radial nerve）",
+      "C": "正中神經（median nerve）",
+      "D": "肌皮神經（musculocutaneous nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 30 題",
+    "question": "下列腋淋巴結（axillary lymph nodes）中，何者主要直接收集乳房的淋巴回流，尤其是乳房的外上側？",
+    "options": {
+      "A": "中央淋巴結（central nodes）",
+      "B": "前淋巴結（anterior nodes; pectoral nodes）",
+      "C": "外淋巴結（lateral nodes; humeral nodes）",
+      "D": "後淋巴結（posterior nodes; subscapular nodes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 31 題",
+    "question": "病人位於膕窩處的膕靜脈（popliteal vein）發生血栓，下列何者的血流量最不可能減少?",
+    "options": {
+      "A": "大隱靜脈（great saphenous vein）",
+      "B": "小隱靜脈（small saphenous vein）",
+      "C": "脛後靜脈（posterior tibial vein）",
+      "D": "股靜脈（femoral vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

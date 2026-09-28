@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 74 題",
+    "question": "下列鍵結或作用力中，何者在生理條件下的穩定度最高？",
+    "options": {
+      "A": "離子鍵（ionic bonds∕salt bridge）",
+      "B": "共價鍵（covalent bonds）",
+      "C": "氫鍵（hydrogen bonds）",
+      "D": "凡得瓦力（van der Waals interactions）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 75 題",
+    "question": "蛋白質主鏈上有兩個可以轉動的二面角（phi (Φ) and psi (Ψ)）。這兩個二面角是位於下列那個原子的兩 側？",
+    "options": {
+      "A": "N",
+      "B": "C-alpha",
+      "C": "C-carbonyl",
+      "D": "C-beta"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 76 題",
+    "question": "下列關於酵素的敘述，何者錯誤？",
+    "options": {
+      "A": "具有酵素功能的生物分子不一定是蛋白質",
+      "B": "酵素可改變其催化反應的熱力學平衡狀態",
+      "C": "酵素可改變其催化反應的動力學活化能",
+      "D": "酵素催化反應後大多可回復至初始狀態"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 77 題",
+    "question": "NAD + 的化學結構應為下列何者？ [圖片]",
+    "options": {
+      "A": "[圖片]",
+      "B": "[圖片]",
+      "C": "[圖片]",
+      "D": "[圖片]"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 78 題",
+    "question": "下列何者可以通過改變DNA 的連接數（linking number），來調控DNA 的緊密度或纏繞狀態，並在DNA 的複 製過程中扮演關鍵角色？ [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "DNA 解螺旋酶（DNA helicase）",
+      "B": "DNA 聚合酶（DNA polymerase）",
+      "C": "DNA 連接酶（DNA ligase）",
+      "D": "DNA 拓樸異構酶（DNA topoisomerase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 79 題",
+    "question": "當粒線體呼吸（mitochondrial respiration）被抑制時，也會造成嘧啶（pyrimidine）重新合成路徑（de  novo synthesis）之抑制，此現象是影響下列何種酵素所造成？",
+    "options": {
+      "A": "carbamoyl phosphate synthetase",
+      "B": "aspartate transcarbamoylase",
+      "C": "dihydroorotate dehydrogenase",
+      "D": "orotidine 5'-mono-phosphate decarboxylase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 80 題",
+    "question": "真核細胞的DNA 聚合酶中，下列何者沒有參與細胞核內染色體的DNA 合成？",
+    "options": {
+      "A": "DNA 聚合酶α",
+      "B": "DNA 聚合酶ε",
+      "C": "DNA 聚合酶γ",
+      "D": "DNA 聚合酶δ"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 81 題",
+    "question": "一般DNA 聚合酶（DNA polymerase）的聚合作用，反應中通常不需加：",
+    "options": {
+      "A": "引子（primer）",
+      "B": "鎂離子（Mg 2+）",
+      "C": "腺苷三磷酸（ATP）",
+      "D": "去氧核糖核苷三磷酸（dNTPs）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 82 題",
+    "question": "下列那一個蛋白沒有直接參與大腸桿菌的甲基指引核酸配對錯誤修復（methyl-directed mismatch  repair）？",
+    "options": {
+      "A": "DNA 聚合酶Ⅲ",
+      "B": "DNA 連接酶（DNA ligase）",
+      "C": "DNA 糖基化酶（DNA glycosylase）",
+      "D": "DNA 解螺旋酶Ⅱ（DNA helicase Ⅱ）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 83 題",
+    "question": "蛋白質轉譯後修飾時，下列那個胺基酸殘基無法進行磷酸化（phosphorylation）？",
+    "options": {
+      "A": "酪胺酸（tyrosine）",
+      "B": "絲胺酸（serine）",
+      "C": "甲硫胺酸（methionine）",
+      "D": "蘇胺酸（threonine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 84 題",
+    "question": "DNA 足跡鑑定（DNA footprinting assay）最適用於下列何種分析？",
+    "options": {
+      "A": "一段基因編碼區的5'端以及3'端的位置",
+      "B": "基因組中會與調控RNA 結合的位置",
+      "C": "DNA 與蛋白質發生專一性結合的位置",
+      "D": "被剪接的內含子（intron）在前信使RNA（pro-mRNA）中的位置"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 85 題",
+    "question": "在原核生物細胞的轉譯作用中，下列那一個蛋白質專責於結合並運送起始tRNA（initiator tRNA）？",
+    "options": {
+      "A": "IF1",
+      "B": "IF2",
+      "C": "IF3",
+      "D": "eIF2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 86 題",
+    "question": "RNA 聚合酶執行轉錄作用時，首先結合的特定DNA 序列稱為：",
+    "options": {
+      "A": "操作子（operator）",
+      "B": "抑制因子（repressor）",
+      "C": "啟動子（promoter）",
+      "D": "誘導子（inducer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 87 題",
+    "question": "在五碳糖磷酸途徑中（pentose phosphate pathway），核酮糖5-磷酸（ribulose 5-phosphate）可經由何 種酵素或代謝過程，轉換成glucose 6-phosphate？",
+    "options": {
+      "A": "單碳代謝作用（one carbon metabolism）",
+      "B": "轉酮酶和轉醛醇酶（transketolase and transaldolase）",
+      "C": "磷酸五碳糖甲基轉移酶及其羥化酶（phosphopentose methyltransferase and hydroxylase）",
+      "D": "磷酸五碳糖羧化酶及其還原酶（phosphopentose carboxylase and reductase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 88 題",
+    "question": "烏頭酸酶（aconitase）經由下列何種酵素催化作用，將檸檬酸（citrate）轉化成異檸檬酸 （isocitrate）？",
+    "options": {
+      "A": "脫水和再水合作用（dehydration and rehydration）",
+      "B": "脫羥基化和再羥化作用（dehydroxylation and rehydroxylation）",
+      "C": "脫氫和再氫化作用（dehydrogenation and rehydrogenation）",
+      "D": "脫羧化和再羧化作用（decarboxylation and recarboxylation）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 89 題",
+    "question": "位於細胞膜之胞外側（extracellular side）的周邊膜蛋白經常藉由與脂質形成共價鍵結後錨定（anchor） 在脂雙層結構的膜上，下列何者是最常鍵結的脂類？",
+    "options": {
+      "A": "棕櫚醯基（palmitoyl）",
+      "B": "糖磷脂醯肌醇（glycosyl phosphatidylinositol, GPI）",
+      "C": "法尼醯基（farnesyl）",
+      "D": "豆蔻醯基（N-myristoyl）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 90 題",
+    "question": "組成胞膜的脂質在合成之後會運送到細胞各處形成膜結構，可透過那一個分子在膜融合處完成運送？",
+    "options": {
+      "A": "脂質運送蛋白（lipid transfer protein）",
+      "B": "醯基載體蛋白（acyl carrier protein）",
+      "C": "載脂蛋白（apolipoprotein）",
+      "D": "肉鹼棕櫚醯轉移酶（carnitine palmitoyltransferase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 91 題",
+    "question": "下列何者可促進脂質合成速限步驟（rate-limiting step）酵素acetyl-CoA carboxylase 的活性？",
+    "options": {
+      "A": "citrate",
+      "B": "glucagon",
+      "C": "palmitoyl-CoA",
+      "D": "epinephrine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 92 題",
+    "question": "下列何種酵素主要參與將原血紅素（heme）代謝為膽綠素（biliverdin）？",
+    "options": {
+      "A": "血紅素氧化酶（heme oxidase）",
+      "B": "血紅素加氧酶（heme oxygenase）",
+      "C": "血紅素去氫酶（heme dehydrogenase）",
+      "D": "血紅素過氧化氫酶（heme peroxidase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 93 題",
+    "question": "下列那個胺基酸組合可經由細胞代謝合成三磷酸胞苷（cytidine triphosphate, CTP）？",
+    "options": {
+      "A": "甘胺酸（glycine）和麩胺酸（glutamate）",
+      "B": "精胺酸（arginine）和苯丙胺酸（phenylalanine）",
+      "C": "半胱胺酸（cysteine）和麩胺酸（glutamate）",
+      "D": "天門冬胺酸（aspartate）和麩醯胺酸（glutamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 94 題",
+    "question": "一般而言，當電子從NADH 藉由電子傳遞鏈轉移到氧分子（$O_2$），會比電子從FADH2藉由電子傳遞鏈轉移到氧 分子產生更多的ATP，其主要原因為何？",
+    "options": {
+      "A": "FADH2只能攜帶一個電子",
+      "B": "粒線體中complexⅡ比complexⅠ少",
+      "C": "complexⅡ無法將氫離子轉移到粒線體內外膜間隙",
+      "D": "細胞內NADH 濃度比FADH2高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 95 題",
+    "question": "下列荷爾蒙（hormones），何者不需藉由細胞膜上受體來傳遞訊號至胞內？",
+    "options": {
+      "A": "甲狀腺刺激素（thyroid-stimulating hormone）",
+      "B": "腎上腺素（adrenaline）",
+      "C": "濾泡刺激素（follicle-stimulating hormone）",
+      "D": "甲狀腺素（thyroid hormones）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 96 題",
+    "question": "下列受體系統何者最常透過環腺苷酸（c-AMP）當作訊號傳遞之第二信差（secondary messenger）？",
+    "options": {
+      "A": "G 蛋白偶聯受體（G protein-coupled receptor）",
+      "B": "受體酪胺酸激酶（receptor tyrosine kinase）",
+      "C": "核受體（nuclear receptor）",
+      "D": "配體門控離子通道（ligand-gated ion channel）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 97 題",
+    "question": "下列何者為磷脂肌醇4,5-雙磷酸（phosphotidylinositol 4,5-bisphosphate）被磷酸肌醇3-激酶 （phosphoinositide 3-kinase, PI3K）作用後的直接產物？",
+    "options": {
+      "A": "肌醇三磷酸（inositol trisphosphate）",
+      "B": "磷脂肌醇1,4,5 三磷酸（phosphatidylinositol 1,4,5-triphosphate）",
+      "C": "二酸甘油酯（diacylglycerol）",
+      "D": "磷脂肌醇3,4,5 三磷酸（phosphatidylinositol 3,4,5-triphosphate）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 98 題",
+    "question": "如果想要將一特定基因的單股多聚核苷酸（polynucleotide）製作成偵測此特定基因的探針（probe），通常 會利用多聚核苷酸激酶（polynucleotide kinase）在其5'端標記具有放射性的 32P，進行該反應時，需加入 下列何種 32P-dATP 材料來進行標記？",
+    "options": {
+      "A": "α- 32P-dATP",
+      "B": "β- 32P-dATP",
+      "C": "γ- 32P-dATP",
+      "D": "ATP"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 99 題",
+    "question": "在進行重組DNA 實驗時，常需使用可接入選殖DNA 片段的選殖質體（cloning plasmids），下列關於此選殖 質體的敘述何者正確？",
+    "options": {
+      "A": "在大腸桿菌內進行DNA 複製（replication）時，此環狀質體（circular plasmids）不需要複製起點 （origin of replication）",
+      "B": "經常可用來選殖超過50×10 3 鹼基對（base pairs）的外來DNA 片段",
+      "C": "通常需要具有抗生素抗藥性基因（antibiotic resistance gene）提供篩選的標記",
+      "D": "需要環化重組酶（Cre recombinase）協助外來DNA 片段插入"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 100 題",
+    "question": "下列功能性DNA 序列在一個細菌質體（plasmid）上的排序，何者最能有效地表達出蛋白質？",
+    "options": {
+      "A": "5'端-核糖體結合位點（ribosome-binding site） — 操作子（operator） — 啟動子（promoter） — 轉 錄終止子（transcription terminator）-3'端",
+      "B": "5'端-啟動子（promoter） — 操作子（operator） — 核糖體結合位點（ribosome-binding site） — 轉 錄終止子（transcription terminator）-3'端",
+      "C": "5'端-核糖體結合位點（ribosome-binding site） — 啟動子（promoter） — 操作子（operator） — 轉 錄終止子（transcription terminator）-3'端",
+      "D": "5'端-轉錄終止子（transcription terminator） — 核糖體結合位點（ribosome-binding site） — 啟動 子（promoter） — 操作子（operator）-3'端"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

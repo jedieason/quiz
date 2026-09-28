@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 76 題",
+    "question": "類纖維蛋白性壞死（fibrinoid necrosis）最常出現於下列何種情況？",
+    "options": {
+      "A": "結核（tuberculosis）",
+      "B": "腦梗塞（brain infarct）",
+      "C": "血管炎（vasculitis）",
+      "D": "急性胰臟炎（acute pancreatitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 77 題",
+    "question": "受傷後，纖維母細胞（fibroblast）及微血管增生於疏鬆的間質組織中，並混合著發炎細胞，為下列何者的組 織學特徵？",
+    "options": {
+      "A": "肉芽腫（granuloma）",
+      "B": "肉芽組織（granulation tissue）",
+      "C": "蟹足腫（keloid）",
+      "D": "類澱粉（amyloid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 78 題",
+    "question": "關於全身性紅斑性狼瘡（systemic lupus erythematosus），下列敘述何者正確？",
+    "options": {
+      "A": "腎絲球病變主要是因為對抗腎絲球基底膜（basement membrane）自體抗體的產生",
+      "B": "急性血管炎併有血管壁出現類纖維蛋白性壞死（fibrinoid necrosis）為典型的病變之一",
+      "C": "在皮膚組織裡，自體抗體最主要沉積在鱗狀上皮細胞膜周圍，這是引起水泡的主因",
+      "D": "紅色鐵絲環構造形成（wire-loop formation）是膜性病變型狼瘡腎絲球腎炎（membranous lupus glomerulonephritis）的典型變化之一"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 79 題",
+    "question": "鏈球菌感染較少引起下列那一個病變？",
+    "options": {
+      "A": "大葉性肺炎",
+      "B": "壞死性腸炎",
+      "C": "猩紅熱",
+      "D": "腎小球腎炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 80 題",
+    "question": "黃麴毒素（aflatoxin B1）之致癌機制，主要是造成下列何者之基因突變？",
+    "options": {
+      "A": "MYC",
+      "B": "RAS",
+      "C": "RB",
+      "D": "TP53"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 81 題",
+    "question": "下列何者為最常於造血系統惡性腫瘤活化致癌基因之染色體核型改變（karyotypic change）？",
+    "options": {
+      "A": "Translocation",
+      "B": "Deletion",
+      "C": "Gene amplification",
+      "D": "Aneuploidy"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 82 題",
+    "question": "一個過去身體健康的成年病人，因為呼吸困難求醫，醫師發現病人有明顯的胸水（pleural effusion），抽出的 胸水呈現乳白色混濁樣，胸水經生化檢查分析含有高濃度的三酸甘油脂（triglyceride），下列何者是造成病人 胸水的最可能原因？",
+    "options": {
+      "A": "心臟衰竭",
+      "B": "淋巴管阻塞",
+      "C": "肺梗塞（lung infarct）",
+      "D": "下腔靜脈阻塞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 83 題",
+    "question": "70歲女性，心臟超音波檢查發現二尖瓣出現鈣化的現象，心臟科醫師認為與退化有關，下列有關此病變的敘 述何者錯誤？",
+    "options": {
+      "A": "鈣化最容易出現在二尖瓣連合處（commissure of mitral valve）",
+      "B": "通常沒有瓣膜功能的異常",
+      "C": "感染性心內膜炎（infectious endocarditis）的風險增加",
+      "D": "引起血栓（thrombus）的機會增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 84 題",
+    "question": "有關慢性免疫性血小板減少性紫斑症（chronic immune thrombocytopenic purpura）的敘述，下列何者正確？",
+    "options": {
+      "A": "好發於60歲以上的老年女性",
+      "B": "病人血漿中有對抗血小板的自體抗體",
+      "C": "骨髓切片可見巨核細胞（megakaryocytes）顯著減少",
+      "D": "多數病人對醣皮質類固醇（glucocorticoid）治療缺乏反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 85 題",
+    "question": "有關慢性淋巴球性白血病（chronic lymphocytic leukemia）的敘述，下列何者正確？",
+    "options": {
+      "A": "是一種T淋巴球的惡性腫瘤",
+      "B": "好發於20歲以下的兒童及年輕人",
+      "C": "典型腫瘤細胞會表現CD20、CD5及CD23",
+      "D": "大多數腫瘤會有BCL2基因的轉位，造成BCL2的過度表現"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 86 題",
+    "question": "關於鼻咽上皮細胞癌的敘述，下列何者正確？",
+    "options": {
+      "A": "世界衛生組織依其組織形態，主要分為角化型鱗狀上皮細胞癌、非角化型上皮細胞癌、分化不良型腺癌三 種",
+      "B": "利用EBER-1原位雜交法，偵測病理切片中腫瘤細胞核內含有Epstein-Barr病毒的DNA，是目前主要用來病理 診斷鼻咽上皮細胞癌的主要工具之一",
+      "C": "一般認為病人預後與組織形態型別無關",
+      "D": "角化型鱗狀上皮細胞癌對放射治療的反應較非角化型的腫瘤差"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 87 題",
+    "question": "破壞肺泡壁彈性纖維（elastin）而造成肺氣腫（emphysema）的蛋白酶主要來自：",
+    "options": {
+      "A": "嗜中性白血球",
+      "B": "淋巴球",
+      "C": "嗜酸性白血球",
+      "D": "嗜鹼性白血球"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 88 題",
+    "question": "原發性纖毛運動障礙（primary ciliary dyskinesia）較常引起下列何種肺部疾病？",
+    "options": {
+      "A": "慢性支氣管炎",
+      "B": "支氣管擴張",
+      "C": "氣喘",
+      "D": "肺氣腫"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 89 題",
+    "question": "下列那一種肝炎病毒為去氧核醣核酸病毒（DNA virus）？",
+    "options": {
+      "A": "A型肝炎病毒",
+      "B": "B型肝炎病毒",
+      "C": "C型肝炎病毒",
+      "D": "D型肝炎病毒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 90 題",
+    "question": "關於偽膜性腸炎（pseudomembranous colitis）的描述，下列何者錯誤？",
+    "options": {
+      "A": "與抗生素使用有關",
+      "B": "它通常是由艱難梭菌（Clostridium difficile）引起的",
+      "C": "在顯微鏡下，pseudomembrane由破壞的腺體、黏蛋白和許多嗜中性白血球組成",
+      "D": "通常需要細菌培養來做診斷"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 91 題",
+    "question": "以下關於胃癌的敘述何者錯誤？",
+    "options": {
+      "A": "胃癌的發病率有地域上的差異，在日本的發生率比北美高",
+      "B": "家族性胃癌與腫瘤抑制基因CDH1的突變有密切相關",
+      "C": "瀰漫性型胃癌（diffuse gastric cancer）較腸型胃癌（intestinal type gastric cancer）和幽門桿菌有密切相關",
+      "D": "IL-1β，TNF，IL-10，IL-8和TLR4的基因變異與幽門桿菌胃炎相關的胃癌風險升高有關"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 92 題",
+    "question": "外因性之皮質醇增多症，腎上腺最有可能的病理變化為：",
+    "options": {
+      "A": "皮質萎縮",
+      "B": "瀰漫性增生",
+      "C": "微結節性增生",
+      "D": "巨結節性增生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 93 題",
+    "question": "黃色肉芽腫性腎盂腎炎（xanthogranulomatous pyelonephritis）最常見的致病菌為：",
+    "options": {
+      "A": "變形桿菌（Proteus）",
+      "B": "糞鏈球菌（Streptococcus faecalis）",
+      "C": "克雷白氏桿菌（Klebsiella）",
+      "D": "金黃色葡萄球菌（Staphylococcus aureus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 94 題",
+    "question": "甲狀腺髓質癌（medullary carcinoma）其腫瘤細胞的來源為何？在腫瘤細胞之間常可見到何種變化？",
+    "options": {
+      "A": "甲狀腺C細胞（C-cell）；砂樣小體（psammoma bodies）",
+      "B": "甲狀腺C細胞（C-cell）；類澱粉沉積（amyloid deposits）",
+      "C": "甲狀腺濾泡細胞（follicular cell）；砂樣小體（psammoma bodies）",
+      "D": "甲狀腺濾泡細胞（follicular cell）；類澱粉沉積（amyloid deposits）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 95 題",
+    "question": "下列有關卵巢性索間質瘤（sex cord stromal tumor）的敘述， 何者較不正確？",
+    "options": {
+      "A": "成人型顆粒細胞瘤（adult granulosa cell tumor）的臨床表現為良性腫瘤",
+      "B": "成人型顆粒細胞瘤（adult granulosa cell tumor）可能會分泌動情激素（estrogen），而與增生性乳房疾病 （proliferative breast disease）、子宮內膜增生（endometrial hyperplasia）等相關",
+      "C": "支持間質細胞瘤（Sertoli-Leydig cell tumor）通常具有荷爾蒙功能性（functional），導致男性化 （masculinization）或去女性化（defeminization）",
+      "D": "一半以上的支持間質細胞瘤（Sertoli-Leydig cell tumor）病例，其腫瘤細胞具有 DICER1 基因的突變"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 96 題",
+    "question": "下列有關睪丸（testis）與附睪（epididymis）發炎的敘述， 何者較不正確？",
+    "options": {
+      "A": "附睪（epididymis）發炎比睪丸（testis）發炎更常見",
+      "B": "因結核病（tuberculosis）引起的發炎，最先起於睪丸",
+      "C": "因淋病（gonorrhea）引起的發炎，最先起於附睪",
+      "D": "因梅毒（syphilis）引起的發炎，最先起於睪丸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 97 題",
+    "question": "下列睪丸腫瘤，何者最常見於三歲以下的小孩？",
+    "options": {
+      "A": "精細胞瘤（seminoma）",
+      "B": "卵黃囊瘤（yolk sac tumor）",
+      "C": "絨毛癌（choriocarcinoma）",
+      "D": "胚胎癌（embryonal carcinoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 98 題",
+    "question": "下列有關骨肉瘤（osteosarcoma）的描述何者錯誤？",
+    "options": {
+      "A": "大多數的low-grade osteosarcoma因第12對染色體之12q13-q15 amplification，致使MYC蛋白過度表現",
+      "B": "原發性骨肉瘤（primary osteosarcoma）好發於10～20歲青少年",
+      "C": "李–佛美尼症候群（Li-Fraumeni syndrome）患者，因帶有germ-line TP53 gene mutations，故罹患骨肉瘤的發 生率較一般人為高",
+      "D": "骨肉瘤之病理診斷主要依據是在切片上確切觀察到惡性細胞能產生類骨組織（osteoid）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 99 題",
+    "question": "下列何者是阿茲海默症（Alzheimer disease）患者大腦主要的病理變化？①neuritic plaque ②neurofibrillary tangle ③nemaline rods ④Lewy body",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 100 題",
+    "question": "下列何項描述較不可能在第一型單純疱疹病毒腦炎被觀察到？",
+    "options": {
+      "A": "Cowdry type A intranuclear inclusion",
+      "B": "perivascular lymphocytic cuff",
+      "C": "microglial nodule",
+      "D": "caseous necrotizing granuloma"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

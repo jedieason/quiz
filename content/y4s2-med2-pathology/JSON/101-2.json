@@ -1,0 +1,309 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 76 題",
+    "question": "50 歲的男性死者，解剖時發現肝臟重量為2300 公克且外觀顏色較黃。生前血液檢查發現並無特別異 常。圖示是肝臟切片顯微鏡下的變化。下列何者與死者肝臟變化最有相關性？ [圖片]",
+    "options": {
+      "A": "酗酒",
+      "B": "B 型肝炎病毒感染",
+      "C": "自體免疫反應",
+      "D": "服用Acetaminophen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 77 題",
+    "question": "25 歲男性，因車禍意外造成左大腿骨折，經石膏固定治療，幾週來左腿無法自由行動，發現他左腿 變細。下列何者最能解釋肌肉的變化？",
+    "options": {
+      "A": "細胞凋亡（apoptosis）",
+      "B": "萎縮（atrophy）",
+      "C": "發育不良（hypoplasia）",
+      "D": "營養不良（dystrophy）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 78 題",
+    "question": "羊水過少（oligohydramnios）與下列何種胎兒之疾病或變化最不相關？",
+    "options": {
+      "A": "腎未成形（renal agenesis）",
+      "B": "臀產式（breech presentation）",
+      "C": "腸閉鎖（intestinal atresia）",
+      "D": "肺發育不全（pulmonary hypoplasia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 79 題",
+    "question": "人類免疫缺乏病毒（HIV）感染流行病學調查顯示，具有其他性病（如軟性下疳等）的病人，也具 HIV 感染的危險性。據此有一假設：性行為時發炎之黏膜表面為傳染HIV 之理想地方。下列何細胞 是傳染HIV 病毒至CD4(+)細胞的重要媒介？",
+    "options": {
+      "A": "CD8(+)細胞",
+      "B": "天然殺手細胞（natural killer cells）",
+      "C": "樹突細胞（dendritic cells）",
+      "D": "嗜中性白血球"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 80 題",
+    "question": "下列有關papillary renal cell carcinoma 的敘述，何者錯誤？",
+    "options": {
+      "A": "來自遠端集尿管的上皮細胞，有兩側性及多發性",
+      "B": "腫瘤長大時會有出血及囊狀變化",
+      "C": "部分病例與MET protooncogene 的mutational activation 有關係",
+      "D": "與hepatocyte growth factor 有關係"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 81 題",
+    "question": "32 歲未婚婦女有月經痛的病史，3 天前開始下腹疼痛，超音波掃描檢查發現左側卵巢有一7 公分大 的腫瘤，經由手術取出腫瘤後切開檢查，為一囊狀病灶內含大量暗紅色液狀物，請問下列何種診斷 最為適當？",
+    "options": {
+      "A": "畸胎瘤（teratoma）",
+      "B": "黏液性囊狀腺瘤（mucinous cystadenoma）",
+      "C": "子宮內膜異位瘤（endometrioma）",
+      "D": "過誤瘤（hamartoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 82 題",
+    "question": "60 歲女性，身材較為肥胖。因最近有不正常的陰道出血就醫。她已停經10 年且未曾生育。骨盆腔檢 查發現子宮大小正常，兩側卵巢並無腫瘤，子宮頸外觀正常。她有20 年的糖尿病與高血壓病史。下 列何種變化最可能出現在她的子宮？",
+    "options": {
+      "A": "腺癌（adenocarcinoma）",
+      "B": "子宮腺肌症（adenomyosis）",
+      "C": "絨毛膜癌（choriocarcinoma）",
+      "D": "子宮肉瘤（leiomyosarcoma）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 83 題",
+    "question": "肺癌病人合併肋膜腔積水，細胞學檢查發現有肺癌細胞轉移，下列敘述何者最正確？",
+    "options": {
+      "A": "腫瘤細胞多半經由血液轉移",
+      "B": "腫瘤細胞多半經由淋巴轉移",
+      "C": "腫瘤細胞多半經由直接侵襲或播種方式轉移",
+      "D": "以鱗狀細胞癌最常見"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或C或AB或AC或BC或ABC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 84 題",
+    "question": "下列有關大血管轉位（transposition of great vessels）先天性心臟病的敘述，何者最不適當？",
+    "options": {
+      "A": "主動脈連接右心室",
+      "B": "肺動脈連接左心室",
+      "C": "升主動脈位於肺動脈幹左後方",
+      "D": "左心室壁會變較薄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 85 題",
+    "question": "有關成人多囊性腎疾病（adult polycystic kidney disease）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "多數與polycystin 1、2 基因突變有關",
+      "B": "與腎小管上皮細胞不正常的生長及分化有關",
+      "C": "很多病人直到腎臟衰竭時才被發現",
+      "D": "約5%病人會合併肝臟的多囊性疾病"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答 Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 86 題",
+    "question": "一位新生兒一出生就發生嚴重發紺（cyanosis）並被發現有一心室中隔缺損（ventricular septal defect）。 下列先天性心臟病中何者並不符合如此的臨床及病理表現？",
+    "options": {
+      "A": "tetralogy of Fallot",
+      "B": "tricuspid atresia with hypoplasia of right ventricle",
+      "C": "atrioventricular septal defect",
+      "D": "truncus arteriosus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 87 題",
+    "question": "45 歲男性換心手術6 個月後，定期接受心內膜心肌切片（endomyocardial biopsy）時發現有急性排斥， 此時病人心臟內最可能的病理變化是：",
+    "options": {
+      "A": "動脈血管硬化病變",
+      "B": "間質淋巴球浸潤及心肌細胞損傷",
+      "C": "多發性微小心肌梗塞壞死",
+      "D": "間質纖維化"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 88 題",
+    "question": "下列有關白血病及髓異生症候群（myelodysplastic syndrome）之敘述，何者錯誤？",
+    "options": {
+      "A": "絕大部分之慢性髓性白血病（chronic myeloid leukemia, CML）均可偵測到費城染色體（Philadelphia chromosome）",
+      "B": "急性白血病（acute leukemia）之分生變化單純是因為幹細胞之單株性增生外，多涉及分化障礙 （differentiation block）",
+      "C": "CML 是一種髓性幹細胞之單株性增生",
+      "D": "髓異生症候群是一種前白血病，一定會發展成白血病"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 89 題",
+    "question": "60 歲女性，主訴過去數星期以來經常有頭痛及暈眩現象。病人無發燒，但臉色紅潤而有多血或稍微 發紺，病人血壓正常，脾臟可觸摸到。血色素、血容積比、血小板及白血球皆明顯升高。血清中促 紅細胞生成素（erythropoietin）無法偵測到，鐵蛋白（ferritin）正常。下列何者為病人較常經歷的病程？",
+    "options": {
+      "A": "病人最後多因轉化成急性淋巴母細胞白血病（acute lymphoblastic leukemia）而死亡",
+      "B": "病人最後多因轉化成急性髓母細胞白血病（acute myeloblastic leukemia）而死亡",
+      "C": "發生骨髓纖維化，而在脾臟有顯著的髓外造血（extramedullary hematopoiesis）",
+      "D": "病人常可不經任何治療而自然獲得緩解"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 90 題",
+    "question": "下列何者為B 型肝炎最獨特的病理表現？",
+    "options": {
+      "A": "荳蔻肝（nutmeg liver）",
+      "B": "毛玻璃狀肝細胞（ground-glass hepatocytes）",
+      "C": "馬洛里氏小體（Mallory bodies）",
+      "D": "脂肪變性（steatosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 91 題",
+    "question": "下列何者不屬於肥大性胃病（hypertrophic gastropathy）？",
+    "options": {
+      "A": "Ménétrier 氏病（Ménétrier disease）",
+      "B": "Zollinger-Ellison 症候群",
+      "C": "胃增生性息肉（gastric hyperplastic polyp）",
+      "D": "肥大性過度分泌性胃病（hypertrophic-hypersecretory gastropathy）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 92 題",
+    "question": "32 歲男性，靜脈注射藥癮患者。近一週來覺得噁心、嘔吐及尿液顏色變深。實驗室檢查發現膽紅素、 結合型膽紅素值、AST 及ALT 值明顯上升。肝炎病毒檢測結果如下：HBsAg 陽性，Anti-HBs 陰性， Anti-HBc 陽性，IgM-anti-HBc陰性，IgG-anti-HAV 陽性，IgM-anti-HAV陰性，Anti-HCV 陰性，Anti-HDV 陽性。最可能的診斷為何？",
+    "options": {
+      "A": "急性A 型肝炎病毒感染",
+      "B": "急性B 型肝炎病毒感染",
+      "C": "慢性C 型肝炎病毒感染",
+      "D": "慢性B 型肝炎病毒感染併急性D 型肝炎病毒感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 93 題",
+    "question": "37 歲男子長年酗酒，最近3 年常噁心嘔吐。某晚喝酒完開始劇烈嘔吐，因大量吐血被送急診室。到 達醫院時脈搏增加，血壓下降，醫師檢查發現他的心音規則，心和肺都無雜音，腹部無壓痛或鼓脹， 糞便檢查並無潛血反應。下列何者是最符合的診斷？",
+    "options": {
+      "A": "Barrett 食道",
+      "B": "食道的鱗狀細胞癌",
+      "C": "Mallory-Weiss 症候群",
+      "D": "食道狹窄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 94 題",
+    "question": "五個月大男嬰，因哭鬧不停及出現粉紅色果凍樣大便（currant jelly stool）就醫，影像學檢查發現有 腸套疊。病人最可能出現下列何種病理變化？",
+    "options": {
+      "A": "腸道壞死",
+      "B": "腸壁平滑肌肥厚",
+      "C": "腸黏膜細胞增生",
+      "D": "腸道血管增生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 95 題",
+    "question": "40 歲男性，已知是B 型肝炎帶原者近20 年，最近由於全身倦怠就醫。去年他曾因上消化道出血住 院治療。身體檢查發現肝臟較小，實驗室檢查發現血中白蛋白值較低且凝血時間較長。下列何種身 體檢查結果最不可能出現？",
+    "options": {
+      "A": "蛇女頭（caput medusae）",
+      "B": "男性女乳症（gynecomastia）",
+      "C": "蜘蛛血管瘤（spider angioma）",
+      "D": "裂片形出血（splinter hemorrhage）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 96 題",
+    "question": "3 歲小女生，因為陰道出血來門診求診，骨盆腔檢查發現在陰道口有一葡萄樣的突出物，其顯微鏡下 有成堆的細胞排列成cambium layer 特徵，則最可能的診斷為：",
+    "options": {
+      "A": "尿道脫垂（urethral prolapse）",
+      "B": "尖圭濕疣（condyloma acuminatum）",
+      "C": "胚胎性橫紋肌肉瘤（embryonal rhabdomyosarcoma）",
+      "D": "陰道息肉（vaginal polyps）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 97 題",
+    "question": "40 歲女性，左腎上腺皮質發現一腫瘤。檢驗數據顯示血清ACTH 值並無異常，但血清腎素（renin）及 血鉀離子明顯下降。病理檢查發現腫瘤呈鮮黃色，顯微鏡下腫瘤細胞含多量脂質。腫瘤附近的腎上腺 皮質和對側腎上腺皮質並無萎縮現象。下列腎上腺腫瘤中，何者最符合此病人的臨床及病理特徵？",
+    "options": {
+      "A": "metastatic renal cell carcinoma",
+      "B": "aldosterone-producing adenoma",
+      "C": "cortisol-producing adenoma",
+      "D": "pheochromocytoma"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 98 題",
+    "question": "下列那一項病變最常見出現類澱粉血管病（amyloid angiopathy）？",
+    "options": {
+      "A": "腎上腺白質營養不良（adrenoleukodystrophy）",
+      "B": "髓母細胞瘤（medulloblastoma）",
+      "C": "Alzheimer 氏病",
+      "D": "Parkinson 氏病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 99 題",
+    "question": "下列那一種顱內腫瘤多半具有一層薄的莢膜，而且比較不具浸潤性？",
+    "options": {
+      "A": "室管膜瘤（ependymoma）",
+      "B": "腦膜瘤（meningioma）",
+      "C": "神經膠母細胞瘤（glioblastoma）",
+      "D": "寡突膠細胞瘤（oligodendroglioma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 100 題",
+    "question": "神經細胞被稱為紅色神經原（red neurons）的原因是因為：",
+    "options": {
+      "A": "含血鐵素",
+      "B": "含消耗色素",
+      "C": "在缺血缺氧造成急性損傷",
+      "D": "壞死後鈣鹽沈積"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

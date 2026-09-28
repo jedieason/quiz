@@ -1,0 +1,206 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 1 題",
+    "question": "一個5歲小男孩被診斷出細菌性肺炎，從檢體培養出主要具有alpha溶血能力、觸酶（catalase）陰性，且帶有莢 膜（capsule）的細菌，最可能是下列何種細菌？",
+    "options": {
+      "A": "化膿性鏈球菌（Streptococcus pyogenes）",
+      "B": "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "C": "表皮葡萄球菌（Staphylococcus epidermidis）",
+      "D": "金黃色葡萄球菌（Staphylococcus aureus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 2 題",
+    "question": "肺炎黴漿菌（Mycoplasma pneumoniae）對於β-內醯胺（β-lactam）類藥物如碳青黴烯（carbapenems）具有抗藥 性，最有可能的原因為何？",
+    "options": {
+      "A": "青黴素結合蛋白質（penicillin-binding protein）產生突變",
+      "B": "不具有胜肽聚糖（peptidoglycan）結構",
+      "C": "能分泌強力β-內醯胺酶（β-lactamase）",
+      "D": "能有效地將藥物排出菌體外"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 3 題",
+    "question": "有關砂眼的敘述，下列何者最不適當？",
+    "options": {
+      "A": "通常由血清型（serovars）A, B, Ba, C 砂眼披衣菌（Chlamydia trachomatis）感染造成",
+      "B": "最嚴重會導致角膜結痂，並可能造成失明的併發症",
+      "C": "除了眼睛分泌物，亦可透過帶菌的呼吸道飛沫或糞便傳染",
+      "D": "症狀消除後一般即可痊癒，不會再復發"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 4 題",
+    "question": "一位上班族抱怨左上腹疼痛，醫生開立呼氣測試，主要目的是測試病人是否感染下列何種細菌？該菌具有何種 酵素的活性？應偵測何種氣體？",
+    "options": {
+      "A": "傷寒沙門氏菌（Salmonella Typhi），蛋白酶（protease）， 氧氣（$O_2$）",
+      "B": "空腸彎曲桿菌（Campylobacter jejuni），尿素酶（urease），二氧化碳（$CO_2$）",
+      "C": "胃幽門桿菌（Helicobacter pylori），尿素酶（urease），二氧化碳（$CO_2$）",
+      "D": "大腸桿菌（Escherichia coli），蛋白酶（protease），氧氣（$O_2$）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 5 題",
+    "question": "關於退伍軍人菌屬（Legionella）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "雖為革蘭氏陰性（Gram-negative）桿菌，但不易以常規染劑染色",
+      "B": "為兼性細胞內寄生菌，可寄生在宿主巨噬細胞（macrophage）內並繁殖",
+      "C": "主要存在水域環境，如天然湖泊及人工的供水系統內",
+      "D": "對生長條件不挑剔，可使用血培養基（blood agar）加以培養分離"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 6 題",
+    "question": "一位25歲婦女因為高燒、頭痛、手腳胸口都有紅色斑丘疹（erythematous maculopapular rash）住院，培養血液 樣本發現只有以加強營養成分的巧克力瓊脂（enriched chocolate agar）可以培養出該菌，染色後發現是革蘭氏 陰性球菌，此婦女最可能感染的是下列何種細菌？",
+    "options": {
+      "A": "金氏金氏菌（Kingella kingae）",
+      "B": "淋病雙球菌（Neisseria gonorrhoeae）",
+      "C": "侵蝕愛啃菌（Eikenella corrodens）",
+      "D": "腦膜敗血伊莉莎白菌（Elizabethkingia meningoseptica）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 7 題",
+    "question": "下列何種細菌產生之A-B毒素（A-B toxin）會造成腹痛、腹瀉等症狀？",
+    "options": {
+      "A": "金黃色葡萄球菌（Staphylococcus aureus）之腸毒素（enterotoxins）",
+      "B": "產氣莢膜梭狀芽孢桿菌（Clostridium perfringens）之α毒素（α toxin）",
+      "C": "霍亂弧菌（Vibrio cholerae）之霍亂毒素（cholera toxin）",
+      "D": "單核細胞增多性李斯特菌（Listeria monocytogenes）之李斯特菌溶血素O（listeriolysin O）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 8 題",
+    "question": "有關破傷風桿菌（Clostridium tetani）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "破傷風類毒素（toxoid）可當做有效的疫苗",
+      "B": "有群體免疫（herd immunity）的現象存在，可降低感染罹病的機會",
+      "C": "造成痙攣性的肌肉麻痺",
+      "D": "此菌可產生內孢子（endospore）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 9 題",
+    "question": "下列何者細菌屬於生長緩慢、菌落無色素（nonpigmented colonies），顯微鏡下呈聚集現象（aggregation）的抗 酸性（acid-fast）桿菌？",
+    "options": {
+      "A": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "B": "結核分枝桿菌（Mycobacterium tuberculosis）",
+      "C": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "D": "鬆脆類桿菌（Bacteroides fragilis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 10 題",
+    "question": "抗C型肝炎病毒（HCV）的藥物雷巴威林（Ribavirin），是抑制該病毒複製的那一項步驟？",
+    "options": {
+      "A": "接觸（attachment）",
+      "B": "穿過細胞膜及解散外殼",
+      "C": "病毒RNA的生合成",
+      "D": "蛋白質合成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 11 題",
+    "question": "下列有關沙狀病毒（arenavirus）的敘述何者最不適當？",
+    "options": {
+      "A": "病毒顆粒中含核糖體（ribosome）",
+      "B": "病毒經由蚊子傳播",
+      "C": "病毒可經由空氣傳播",
+      "D": "病毒感染會造成腦膜炎及出血性症狀"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 12 題",
+    "question": "下列何種檢驗結果可以用來區分「未曾感染過但曾經接種B型肝炎病毒疫苗」與「曾經感染B型肝炎病毒但已 經康復」的個體？",
+    "options": {
+      "A": "Anti-HBc抗體陽性",
+      "B": "Anti-HBs抗體陽性",
+      "C": "HBs抗原陰性",
+      "D": "HBe抗原陰性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 13 題",
+    "question": "下列何者不屬於小RNA 病毒科（Picornaviridae）？",
+    "options": {
+      "A": "Poliovirus",
+      "B": "B19 virus",
+      "C": "Hepatitis A virus",
+      "D": "Rhinovirus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 14 題",
+    "question": "有關登革熱病毒（Dengue virus）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "是一個arbovirus",
+      "B": "與茲卡病毒（Zika virus）屬相同病毒科（family）",
+      "C": "患者將獲終身免疫",
+      "D": "感染後可能引起出血熱（hemorrhagic fever）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 15 題",
+    "question": "有關人類D型肝炎病毒（human hepatitis D virus）的敘述，下列何者正確？",
+    "options": {
+      "A": "主要藉由糞口傳染",
+      "B": "可藉由施打B型肝炎疫苗來預防感染",
+      "C": "D型肝炎病毒感染會促進HBsAg的抗體陽轉反應（positive conversion）",
+      "D": "需要B型肝炎病毒的HBc蛋白質，才能產生具感染性的病毒顆粒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 16 題",
+    "question": "麴菌（Aspergillus）CYP51A基因突變是產生下列何種藥物抗藥性的主要原因？",
+    "options": {
+      "A": "三唑（triazole）",
+      "B": "棘白菌素（echinocandin）",
+      "C": "多烯（polyene）",
+      "D": "烯丙胺（allylamines）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 17 題",
+    "question": "在HIV/AIDS患者血液培養分離到一株真菌，此菌在25℃呈絲狀（filamentous），並產生鮮紅色的色素滲入培 養基，35℃下菌落為酵母菌狀（yeasts），最有可能是下列何者？",
+    "options": {
+      "A": "Emergomyces pasteurianus",
+      "B": "Scedosporium apiospermum",
+      "C": "Paracoccidioides brasiliensis",
+      "D": "Talaromyces marneffei"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

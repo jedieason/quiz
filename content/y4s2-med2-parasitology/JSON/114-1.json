@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 29 題",
+    "question": "關於馬來絲蟲（Brugia malayi），下列敘述何者正確？",
+    "options": {
+      "A": "成蟲會侵犯患者眼睛造成失明",
+      "B": "自皮膚切片（skin snips）發現成蟲為主要診斷方法",
+      "C": "患者可能出現鼠蹊懸垂（hanging groin）",
+      "D": "於患者血液之微絲蟲（microfilaria）尾端出現尾核"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 30 題",
+    "question": "關於鞭蟲（Trichuris trichiura），下列敘述何者正確？①雌雄成蟲蟲體皆為前端細長，後端粗大 ②蟲卵 兩端具透明卵塞（egg plug） ③慢性感染可造成貧血或脫肛（rectal prolapse） ④蟲卵形態與肝毛線蟲 （Capillaria hepatica）蟲卵極為相似，須進行鑑別診斷",
+    "options": {
+      "A": "僅①④",
+      "B": "①③④",
+      "C": "①②③",
+      "D": "②③④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 31 題",
+    "question": "下列何種寄生蟲之蟲卵於小腸孵化後，可以藉由自體感染（autoinfection）方式重新感染同一宿主？",
+    "options": {
+      "A": "短小包膜絛蟲（Hymenolepis nana）",
+      "B": "縮小包膜絛蟲（Hymenolepis diminuta）",
+      "C": "顆粒性包生絛蟲（Echinococcus granulosus）",
+      "D": "犬複殖器絛蟲（Dipylidium caninum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 32 題",
+    "question": "豬肉絛蟲（Taenia solium）比牛肉絛蟲（Taenia saginata）對人類造成的病變更為嚴重，最主要原因是：",
+    "options": {
+      "A": "前者的頭節具額嘴（rostellum）及小鉤，對腸黏膜的破壞較大",
+      "B": "前者吸收較多營養，導致宿主衰弱",
+      "C": "前者分泌的毒素（toxin）作用較強，造成宿主產生病變",
+      "D": "前者會造成人類的囊尾幼蟲症（human cysticercosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 33 題",
+    "question": "有關枯西氏錐蟲（Trypanosoma cruzi）及其造成的疾病，下列敘述何者最為適當？",
+    "options": {
+      "A": "當病媒椿象（triatoma bug）叮咬人類後，無鞭毛體（amastigote）會進入體內，藉由連續分裂方式形成偽 囊體（pseudocyst）後留在組織中",
+      "B": "患者會出現眼瞼浮腫、結膜腫大，臨床上稱為後頸淋巴結腫大（Winterbottom's sign）",
+      "C": "患者出現的巨食道症（megaesophagus）或是巨結腸症（megacolon）等症狀，係肇因於補體（complement） 攻擊神經節後的結果",
+      "D": "性行為與輸血均可傳播本疾病"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 34 題",
+    "question": "有關寄生於人體腸道之鞭毛蟲，下列敘述何者最為適當？",
+    "options": {
+      "A": "生活史中只需要一個宿主，且經口感染",
+      "B": "均寄生於小腸",
+      "C": "感染型（infective form）都是囊體期（cyst stage）",
+      "D": "人腸道滴蟲（Pentatrichomonas hominis）之副基體（parabasal body）是其粒線體核酸集中的區域"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 35 題",
+    "question": "下列有關病媒（vector）的敘述，何者最為適當？",
+    "options": {
+      "A": "蒼蠅主要藉由經卵傳播（transovarial transmission）而媒介病原體",
+      "B": "腮腺炎是藉由昆蟲為媒介而傳染",
+      "C": "節肢動物的馬氏管（Malpighian tubules）主要負責移除含氮廢物",
+      "D": "防治病媒蚊無法遏阻登革熱的流行"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 32 題",
+    "question": "下列關於胚胎之胸心包膜（pleuropericardial membrane）的敘述，何項錯誤？",
+    "options": {
+      "A": "形成漿液心包膜的臟層（visceral layer of serous pericardium）",
+      "B": "此膜內包含有總主靜脈（common cardinal vein）",
+      "C": "此膜內包含有膈神經（phrenic nerve）",
+      "D": "此膜所形成之構造分隔胸膜腔與心包腔"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 33 題",
+    "question": "下列那一項構造衍生自第三咽弓（pharyngeal arch）？ [圖片]",
+    "options": {
+      "A": "莖突舌骨韌帶（stylohyoid ligament）",
+      "B": "舌骨之小角（lesser cornu of hyoid bone）",
+      "C": "舌骨之大角（greater cornu of hyoid bone）",
+      "D": "甲狀軟骨（thyroid cartilage）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 34 題",
+    "question": "在胚胎發育至第幾週時，小腸會由體外返回腹腔內？",
+    "options": {
+      "A": "第四週",
+      "B": "第七週",
+      "C": "第十週",
+      "D": "第十二週"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 35 題",
+    "question": "在胚胎時期心房間隔（interatrial septum）的發育，其第一孔（foramen primum）之封閉是由於：",
+    "options": {
+      "A": "第一中隔（septum primum）與心內膜墊（endocardial cushion）之融合",
+      "B": "第二中隔（septum secundum）與心內膜墊（endocardial cushion）之融合",
+      "C": "第一中隔（septum primum）之新細胞增生",
+      "D": "第一中隔（septum primum）與第二中隔（septum secundum）之融合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 36 題",
+    "question": "下列那一項構造，不包含於鼓膜（tympanic membrane）的發育？",
+    "options": {
+      "A": "第一咽溝（pharyngeal groove）的外胚層（ectoderm）",
+      "B": "第二咽溝（pharyngeal groove）的外胚層（ectoderm）",
+      "C": "第一咽囊（pharyngeal pouch）的內胚層（endoderm）",
+      "D": "第一和第二咽弓（pharyngeal arch）的間葉組織（mesenchyme）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

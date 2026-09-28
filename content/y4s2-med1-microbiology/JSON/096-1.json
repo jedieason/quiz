@@ -1,0 +1,264 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 42 題",
+    "question": "與淋病球菌（gonococci）異性帶菌者一次性接觸後，得到感染的危險性程度為何？",
+    "options": {
+      "A": "女高於男",
+      "B": "男高於女",
+      "C": "男女均為0％",
+      "D": "男女均為100％"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 43 題",
+    "question": "下列細菌，何者最少造成菌血症？",
+    "options": {
+      "A": "大腸桿菌（Escherichia coli）",
+      "B": "霍亂弧菌（Vibrio cholerae）",
+      "C": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "D": "傷寒沙門氏菌（Salmonella typhi）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 44 題",
+    "question": "霍亂弧菌（Vibrio cholerae）之血清型別是依據下列何者的抗原性予以區分？",
+    "options": {
+      "A": "鞭毛蛋白（flagellin）",
+      "B": "莢膜多醣體（capsular polysaccharides）",
+      "C": "脂多醣體（lipopolysaccharides）",
+      "D": "外膜蛋白（outer membrane proteins）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 45 題",
+    "question": "下列那一種抗生素之作用是與細菌體內50S 核糖體結合，進而影響菌體蛋白質合成？",
+    "options": {
+      "A": "四環黴素（tetracycline）",
+      "B": "頭孢菌素（cephalosporin）",
+      "C": "多黏菌素（polymyxin）",
+      "D": "紅黴素（erythromycin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 46 題",
+    "question": "下列對乳酸桿菌（lactobacillus）之敘述，何者錯誤？",
+    "options": {
+      "A": "為偶發性或絕對厭氧之革蘭氏陽性桿菌",
+      "B": "為口、胃、腸或生殖泌尿道之正常菌叢",
+      "C": "萬古黴素（Vancomycin）可治療因此菌引起之感染症",
+      "D": "會引起心內膜炎"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者 均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 47 題",
+    "question": "誤食蠟桿菌（Bacillus cereus）污染的食物，會引起胃腸炎，主因是此菌分泌的二種腸毒素（enterotoxin） 所致，其一是對熱不安定，會引起腹瀉，此腸毒素之作用機轉為何？",
+    "options": {
+      "A": "抑制宿主細胞蛋白質合成",
+      "B": "抑制乙醯膽鹼的釋放，阻斷周邊膽鹼性神經突的神經傳遞",
+      "C": "干擾宿主細胞離子之通透性，造成細胞脫水",
+      "D": "分解宿主細胞之核糖體，阻斷酵素合成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 48 題",
+    "question": "下列有關流行性感冒病毒（Influenza virus）之敘述，何者錯誤？",
+    "options": {
+      "A": "其外套膜上有兩個病毒的基因產物，即血球凝集素（hemagglutinin, HA）以及神經胺酸酶（neuraminidase, NA）",
+      "B": "HA 及NA 可以決定流行性感冒病毒的抗原性",
+      "C": "HA 可以造成紅血球凝集",
+      "D": "NA 可以和此病毒之細胞受器（receptor），即唾液酸（sialic acid）結合"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 49 題",
+    "question": "嗜異性抗體（heterophil antibodies）陰性之傳染性單核白血球增多症是由下列何病毒感染而引起？",
+    "options": {
+      "A": "人類乳頭瘤病毒（Human Papillomavirus）",
+      "B": "EB 病毒（Epstein-Barr Virus）",
+      "C": "巨細胞病毒（Cytomegalovirus）",
+      "D": "腺病毒（Adenovirus）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 50 題",
+    "question": "下列關於小RNA 病毒科（Picornaviridae）病毒之敘述，何者錯誤？",
+    "options": {
+      "A": "其基因體為單股正向RNA",
+      "B": "構造具二十面體對稱",
+      "C": "具有外套膜（envelope）可以抵抗外界不良環境",
+      "D": "包括腸病毒、鼻病毒、心肌病毒等各屬"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 51 題",
+    "question": "在細胞核內進行複製之RNA 病毒為何種病毒？",
+    "options": {
+      "A": "流行性感冒病毒（Influenza virus）",
+      "B": "小兒麻痺病毒（Poliovirus）",
+      "C": "疱疹病毒（Herpesvirus）",
+      "D": "登革熱病毒（Dengue virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 52 題",
+    "question": "下列那一種病毒不屬於節肢動物媒介感染？",
+    "options": {
+      "A": "披膜病毒（Togaviruses）",
+      "B": "黃病毒（Flaviviruses）",
+      "C": "α病毒（Alphaviruses）",
+      "D": "沙狀病毒（Arenaviruses）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 53 題",
+    "question": "人類的冠狀病毒（Coronaviruses）不會引起下列何種症狀？",
+    "options": {
+      "A": "嚴重急性呼吸道症候群",
+      "B": "感冒",
+      "C": "腦炎",
+      "D": "腹瀉"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 54 題",
+    "question": "下列關於病毒與其可引起之疾病的敘述，何者錯誤？",
+    "options": {
+      "A": "德國麻疹病毒（Rubella virus）可引起丘斑疹（maculopapular rash）",
+      "B": "腮腺炎病毒（Mumps virus）可引起睪丸炎（orchitis）",
+      "C": "麻疹病毒（Measles virus）可引起嚴重先天性缺陷（congenital defects）",
+      "D": "腸病毒（Enterovirus）可引起腦膜炎（meningitis）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 55 題",
+    "question": "下列關於第一型人類免疫缺乏病毒（HIV-1）藥物治療之敘述，何者錯誤？",
+    "options": {
+      "A": "單一藥物治療失敗的主要原因之一是HIV-1 有高突變率可以很快產生抗藥性",
+      "B": "非核苷反轉錄酶抑制劑（non-nucleoside reverse transcriptase inhibitor）不抑制反轉錄的步驟",
+      "C": "蛋白酶抑制劑（protease inhibitor）主要抑制病毒體的形成（morphogenesis）",
+      "D": "所謂雞尾酒療法是一種混合性療法"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 56 題",
+    "question": "最常引起嬰兒病毒性胃腸炎之RNA 病毒為：",
+    "options": {
+      "A": "腺病毒（Adenoviruses）40 及41 型",
+      "B": "A 型輪狀病毒（Rotavirus A）",
+      "C": "EB 病毒（Epstein-Barr Virus）",
+      "D": "鼻病毒（Rhinovirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 57 題",
+    "question": "下列有關真菌中毒症的特徵，何者錯誤？",
+    "options": {
+      "A": "真菌產生的毒素所引起",
+      "B": "發病有地區性",
+      "C": "發病有季節性",
+      "D": "具有傳染性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 58 題",
+    "question": "真菌菌絲的細胞壁結構不包括：",
+    "options": {
+      "A": "葡聚糖層（polysaccharide layer）",
+      "B": "脂多醣層（lipopolysaccharide layer）",
+      "C": "糖蛋白（glycoprotein）",
+      "D": "幾丁質層（chitin layer）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 59 題",
+    "question": "唑（Azole）類抗黴菌劑的作用機轉是：",
+    "options": {
+      "A": "抑制蛋白質合成",
+      "B": "抑制細胞膜生成",
+      "C": "抑制核酸合成",
+      "D": "抑制細胞壁生成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 60 題",
+    "question": "愛滋病患者最常見的條件致病性真菌感染為：",
+    "options": {
+      "A": "白色念珠菌（Candida albicans）引起的肺部感染",
+      "B": "新型隱球菌（Cryptococcus neoformans）引起的肺部感染",
+      "C": "卡氏肺囊蟲肺炎（Pneumocystis carinii pneumonia）",
+      "D": "毛癬菌（Trichophyton）引起的組織性壞死"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 61 題",
+    "question": "單細胞真菌的繁殖方式是：",
+    "options": {
+      "A": "二分裂",
+      "B": "出芽",
+      "C": "由孢子囊釋放孢子",
+      "D": "接合"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  }
+]

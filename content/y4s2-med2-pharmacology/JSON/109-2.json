@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 51 題",
+    "question": "有關藥物在身體內進行生物轉換（biotransformation），下列何者為最主要目的？",
+    "options": {
+      "A": "促進藥物通過血腦障壁",
+      "B": "使親脂性藥物轉具水溶性",
+      "C": "延長水溶性藥物的半衰期",
+      "D": "減少藥物自腎臟排泄"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 52 題",
+    "question": "關於B型肝炎病毒（HBV）用藥，下列敘述何者正確？",
+    "options": {
+      "A": "interferon alfa-2a可適用於肝功能代償不足（hepatic decompensation）的肝炎病患",
+      "B": "口服adefovir dipivoxil可有效產生HBeAg血清轉換（seroconversion）",
+      "C": "在對lamivudine產生抗藥性的HBV病患可使用entecavir",
+      "D": "長期使用tenofovir目前尚無抗藥性產生，但對adefovir產生抗藥性病患其效用較差"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 53 題",
+    "question": "有關化療藥物作用，下列敘述何者正確？",
+    "options": {
+      "A": "carboplatin作用在DNA上，為細胞週期專一性（cell cycle-specific）抗癌藥物",
+      "B": "5-fluorouracil的作用為阻斷細胞週期的M期",
+      "C": "cyclophosphamide須經由肝臟細胞色素P450代謝才能毒殺癌細胞",
+      "D": "procarbazine為COP合併用藥之一，能有效抑制monoamine oxidase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 54 題",
+    "question": "抗癌藥物bevacizumab為單株抗體藥物，因可與下列何者結合，進而抑制腫瘤之發展？",
+    "options": {
+      "A": "上皮生長因子（epidermal growth factor）",
+      "B": "纖維母細胞生長因子（fibroblast growth factor）",
+      "C": "血管內皮生長因子（vascular endothelial growth factor）",
+      "D": "血小板衍生生長因子（platelet-derived growth factor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 55 題",
+    "question": "陳小姐得到human epidermal growth factor receptor 2（HER-2）-positive乳癌，下列何者可抑制HER-2受體的活 化，在適當條件下，最適合用於治療此種乳癌？",
+    "options": {
+      "A": "gefitinib",
+      "B": "erlotinib",
+      "C": "lapatinib",
+      "D": "sorafenib"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 56 題",
+    "question": "關於免疫抑制劑sirolimus的相關毒性及副作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "具明顯骨髓抑制作用",
+      "B": "可能引起高血脂症",
+      "C": "不可與cyclosporine併用",
+      "D": "併用tacrolimus可能引發hemolytic-uremic syndrome"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 57 題",
+    "question": "有關干擾素（interferon, IFN）的特性與臨床使用，下列敘述何者錯誤？",
+    "options": {
+      "A": "IFN-α可治療多種腫瘤及病毒性肝炎",
+      "B": "IFN-β可治療多發性硬化症（multiple sclerosis, MS）",
+      "C": "IFN-β可治療慢性肉芽腫病變（chronic granulomatous disease）",
+      "D": "IFN-α與IFN-β皆可抑制細胞增殖"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 58 題",
+    "question": "下列藥物何者為血小板表面醣蛋白GP IIb/IIIa及vitronectin受體拮抗劑，可運用於急性冠狀動脈症候群（acute coronary syndromes）？",
+    "options": {
+      "A": "abciximab",
+      "B": "dipyridamole",
+      "C": "cilostazol",
+      "D": "prasugrel"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 59 題",
+    "question": "下列何種藥物的主要作用標的為雌激素受體（estrogen receptor），用於誘發卵巢排卵？",
+    "options": {
+      "A": "progesterone",
+      "B": "ketoconazole",
+      "C": "tamoxifen",
+      "D": "clomiphene"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 60 題",
+    "question": "下列何種藥物比較不適合在高血鈣時使用？",
+    "options": {
+      "A": "pamidronate",
+      "B": "vitamin D3",
+      "C": "calcitonin",
+      "D": "prednisolone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 61 題",
+    "question": "下列何種口服降血糖藥的主要效果，是刺激胰臟分泌更多的胰島素？",
+    "options": {
+      "A": "acarbose",
+      "B": "metformin",
+      "C": "glimepiride",
+      "D": "rosiglitazone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 62 題",
+    "question": "下列何者的作用機轉是經由活化brain natriuretic peptide（BNP）receptors，用於治療心臟衰竭？",
+    "options": {
+      "A": "dobutamine",
+      "B": "milrinone",
+      "C": "nesiritide",
+      "D": "sacubitril"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 63 題",
+    "question": "下列何者不是經由強心作用，來治療心臟衰竭？",
+    "options": {
+      "A": "digoxin",
+      "B": "dobutamine",
+      "C": "milrinone",
+      "D": "sacubitril"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 64 題",
+    "question": "下列關於molsidomine的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種prodrug",
+      "B": "可以提供nitric oxide",
+      "C": "可使cAMP濃度上升",
+      "D": "可用於治療心絞痛"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 65 題",
+    "question": "下列藥物中，何者最適合用於治療注意力不足過動症（attention deficit hyperactivity disorder）？",
+    "options": {
+      "A": "duloxetine",
+      "B": "milnacipran",
+      "C": "sibutramine",
+      "D": "methylphenidate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 66 題",
+    "question": "下列何者不是擬交感神經作用劑（sympathomimetic drugs）之臨床用途？",
+    "options": {
+      "A": "睫狀肌麻痺（cycloplegia）",
+      "B": "過敏性休克（anaphylactic shock）",
+      "C": "氣喘（asthma）",
+      "D": "抑制早產（suppress premature labor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 67 題",
+    "question": "下列何者是cromolyn sodium治療氣喘之主要作用機制？",
+    "options": {
+      "A": "降低迷走神經活性，解除支氣管平滑肌過度收縮",
+      "B": "活化腺苷酸環化酶（adenylyl cyclase）使cAMP量上升",
+      "C": "抑制磷酸二酯酶（phosphodiesterase）使cGMP量上升",
+      "D": "抑制肥大細胞去顆粒化（mast cell degranulation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 68 題",
+    "question": "Glucocorticoids可抑制發炎物質的合成，且具有誘發抗發炎蛋白的作用，而該抗發炎蛋白具有抑制 phospholipase A2的作用，此抗發炎蛋白是：",
+    "options": {
+      "A": "trypsin",
+      "B": "leptin",
+      "C": "lipocortin",
+      "D": "leukotriene"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 69 題",
+    "question": "當病人罹患發作性睡病（narcolepsy）時，使用下列何種藥物可以減低其睡意，而該藥物是一種inverse H3 agonist？",
+    "options": {
+      "A": "triprolidine",
+      "B": "tiotidine",
+      "C": "pitolisant",
+      "D": "cetirizine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 70 題",
+    "question": "患者罹患腦下垂瘤（pituitary tumor）導致泌乳素（prolactin）大量產生，使用下列何種藥物的治療效果最佳？",
+    "options": {
+      "A": "ergonovine",
+      "B": "bromocriptine",
+      "C": "methysergide",
+      "D": "ketanserin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 71 題",
+    "question": "下列何種藥物的降眼壓效果最明顯？",
+    "options": {
+      "A": "selexipag",
+      "B": "iloprost",
+      "C": "alprostadil",
+      "D": "bimatoprost"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 72 題",
+    "question": "Baclofen為中樞性肌肉鬆弛劑，下列何者為該藥物在中樞神經系統的作用機制？",
+    "options": {
+      "A": "活化GABAB受體",
+      "B": "抑制GABAB受體",
+      "C": "活化α2-腎上腺素受體",
+      "D": "抑制α2-腎上腺素受體"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 73 題",
+    "question": "下列那一個鴉片類藥物的止痛強度（potency）最高？",
+    "options": {
+      "A": "fentanyl",
+      "B": "morphine",
+      "C": "methadone",
+      "D": "meperidine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 74 題",
+    "question": "關於吸入性麻醉藥物nitrous oxide與halothane作用的比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "nitrous oxide最小肺泡濃度（MAC）值比halothane小",
+      "B": "nitrous oxide的麻醉強度（potency）比halothane弱",
+      "C": "nitrous oxide血液／氣體分配係數（blood：gas partition coefficient）值比halothane小",
+      "D": "nitrous oxide麻醉誘導及恢復速度比halothane快"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 75 題",
+    "question": "Penicillamine可用來治療重金屬中毒，但不包括下列何者？",
+    "options": {
+      "A": "銅中毒",
+      "B": "威爾森氏症（Wilson's disease）",
+      "C": "汞中毒",
+      "D": "砷中毒"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

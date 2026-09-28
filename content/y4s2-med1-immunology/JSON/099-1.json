@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 62 題",
+    "question": "下列那一個基因不具備多型性（polymorphic）的特性？",
+    "options": {
+      "A": "HLA-DQ α",
+      "B": "HLA-DQ β",
+      "C": "HLA-B",
+      "D": "β2-microglobulin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 63 題",
+    "question": "下列何種細胞是我們身體防衛系統中聯繫先天性的防禦能力（innate immunity）和適應性免疫反 應（adaptive immunity）的重要細胞？",
+    "options": {
+      "A": "樹狀突細胞（dendritic cell）",
+      "B": "自然殺手細胞（NK cell）",
+      "C": "T 淋巴細胞（T lymphocyte）",
+      "D": "B 淋巴細胞（B lymphocyte）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 64 題",
+    "question": "CD4 T 細胞可進一步區分為Th1, Th2 亞型，其分類的依據為何？",
+    "options": {
+      "A": "以一般血液學染色法、在顯微鏡下觀察",
+      "B": "依據不同T 細胞表面的CD markers",
+      "C": "依據其所分泌的細胞激素不同來分類",
+      "D": "用不同的分裂素（mitogen）刺激以區分何種T 細胞會分裂"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 65 題",
+    "question": "有關E 型肝炎病毒（HEV）之敘述，下列何者正確？",
+    "options": {
+      "A": "對孕婦造成高死亡率",
+      "B": "經由血液傳播",
+      "C": "是黃熱病病毒（flavivirus）的一種",
+      "D": "是一種負股RNA 病毒"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 66 題",
+    "question": "下列關於第一型人類嗜T 淋巴細胞病毒（Human T-lymphotropic virus type 1, HTLV-1）之敘述，何者 錯誤？",
+    "options": {
+      "A": "流行於日本、非洲、加勒比海等地",
+      "B": "主要感染CD8 T 淋巴細胞（CD8 T lymphocyte）",
+      "C": "感染後大部分人會長期成為無症狀帶原者",
+      "D": "可引起HTLV-1 相關脊髓病變（HTLV-1 associated myelopathy）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 67 題",
+    "question": "下列關於西尼羅河病毒（West Nile virus）之敘述，何者錯誤？",
+    "options": {
+      "A": "是RNA 病毒",
+      "B": "可引起腦炎（encephalitis）",
+      "C": "1999 年在美國紐約市爆發疫情",
+      "D": "其主要宿主（host）為哺乳類動物"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 68 題",
+    "question": "經由性行為傳染之病毒為：",
+    "options": {
+      "A": "人類多瘤病毒（polyomavirus）",
+      "B": "人類乳頭瘤病毒（papillomavirus）",
+      "C": "流行性感冒病毒（Influenza virus）",
+      "D": "嚴重急性呼吸道症候群冠狀病毒（SARS-coronavirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 69 題",
+    "question": "真菌毒素對人類的危害通常不包括：",
+    "options": {
+      "A": "致癌作用",
+      "B": "過敏反應",
+      "C": "慢性中毒",
+      "D": "致畸胎作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 70 題",
+    "question": "白色念珠菌（Candida albicans）引起的病變，不包括下列那一項？",
+    "options": {
+      "A": "濕疹",
+      "B": "鵝口瘡",
+      "C": "陰道炎",
+      "D": "腦膜炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 71 題",
+    "question": "關於新型隱球菌（Cryptococcus neoformans）致病性的描述，下列何者錯誤？",
+    "options": {
+      "A": "主要致病物質是莢膜多糖",
+      "B": "大多數感染者症狀不明顯",
+      "C": "主要經腸胃道入侵人體",
+      "D": "抵抗力降低時，才易侵入人體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 72 題",
+    "question": "有關“真菌＂的敘述，下列何者錯誤？",
+    "options": {
+      "A": "有典型的細胞核",
+      "B": "細胞壁特有成分是幾丁質",
+      "C": "最適生長pH 值為4.0到6.0",
+      "D": "最適生長溫度為37℃"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 73 題",
+    "question": "過量IgM 的免疫徵狀（hyper-IgM）是由於下列何種分子缺乏所造成？",
+    "options": {
+      "A": "CD40L",
+      "B": "CD28",
+      "C": "CTLA-4",
+      "D": "FasL"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 74 題",
+    "question": "母親患有自體抗體（autoantibodies）引起的自體免疫疾病，而初生嬰兒也患有相同疾病的原因為下列 何者？",
+    "options": {
+      "A": "初生嬰兒之helper T 細胞活性過高",
+      "B": "母親由於懷孕停用藥物，所以初生嬰兒體內藥物濃度不足",
+      "C": "由於疾病的顯性體遺傳",
+      "D": "由於自體抗體通過胎盤進入胎兒體內"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

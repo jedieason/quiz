@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 62 題",
+    "question": "下列那一種細胞常參與抗體依賴性細胞毒殺反應（antibody-dependent cell-mediated cytotoxicity,  ADCC）？",
+    "options": {
+      "A": "B 淋巴細胞",
+      "B": "CD8 T 淋巴細胞",
+      "C": "自然殺手細胞（natural killer cell）",
+      "D": "肥大細胞（mast cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 63 題",
+    "question": "樹突細胞為重要的專業抗原呈現細胞，其由周邊組織移動至淋巴結時，細胞表面分子會出現變化， 下列相關敘述何者正確？",
+    "options": {
+      "A": "在周邊的未成熟樹突細胞具有較強的吞噬能力，是因為表現高量的CD11c 分子",
+      "B": "樹突細胞在周邊攝入病原體後，會遷移至附近淋巴結是因為樹突細胞會表現CCR7 分子",
+      "C": "病原體會刺激未成熟樹突細胞轉變為成熟形式，而成熟的樹突細胞會表現大量的MHC class II 分 子與少量的B7 分子，來幫助活化T 細胞",
+      "D": "當成熟的樹突細胞活化T細胞時，可以分泌IL-10 來幫助T細胞分化變成第一型輔助性T細胞（TH1 ）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 64 題",
+    "question": "下列有關毒殺性T 細胞（cytotoxic T lymphocyte, CTL）與自然殺手細胞（natural killer cell, NK cell）之 比較，何者錯誤？",
+    "options": {
+      "A": "二者皆具有抗原特異性",
+      "B": "二者皆會表現FasL",
+      "C": "二者的活性皆與MHC class I 有關",
+      "D": "不表現MHC class I 分子的腫瘤細胞，可以逃過CTL 的辨認，但是無法逃過NK cell 的追蹤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 65 題",
+    "question": "免疫球蛋白重鏈（immunoglobulin heavy chain）基因之胚原序列（germline sequence）可存在於下列 那種細胞中？",
+    "options": {
+      "A": "成熟之B 細胞",
+      "B": "活化之B 細胞",
+      "C": "漿細胞（plasma cell）",
+      "D": "T 細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 66 題",
+    "question": "下列有關單株抗體（monoclonal antibody）的敘述，何項最正確？",
+    "options": {
+      "A": "都是IgM",
+      "B": "可以辨認很多抗原決定位",
+      "C": "可以利用staphylococcal Protein A 親和力管柱純化而得",
+      "D": "目前臨床上只能用於降低組織移植排斥的治療"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 67 題",
+    "question": "為了預防新突變種流行性感冒病毒感染，建議老人及兒童每年施打流感疫苗。流感病毒最易發生突 變的構造是下列那一項？",
+    "options": {
+      "A": "紅血球凝集素（hemagglutinin）",
+      "B": "反轉錄酶（reverse transcriptase）",
+      "C": "轉錄酶（transcriptase）",
+      "D": "外套蛋白質（capsid protein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 68 題",
+    "question": "有關黏膜免疫系統與由脾臟／淋巴結所構成的系統性免疫系統之比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "即使在缺乏感染之情形下，前者主要由活化的T 細胞或是記憶型T 細胞所構成",
+      "B": "前者抗原進入的路徑與後者類似，主要是透過血流或是皮下進入",
+      "C": "前者的免疫細胞與上皮細胞有密切接觸",
+      "D": "前者時常暴露在無害抗原之下，所以發展出很好的抑制免疫反應的調控機制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 69 題",
+    "question": "Toll-like receptors（TLRs）執行訊息傳遞，下列那一種可存在於內胞體（endosome）中，能辨識病毒 之雙股RNA（dsRNA）？",
+    "options": {
+      "A": "TLR-3",
+      "B": "TLR-4",
+      "C": "TLR-5",
+      "D": "TLR-7"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 70 題",
+    "question": "下列有關初級淋巴器官（primary lymphoid organ）之敘述，何者錯誤？",
+    "options": {
+      "A": "含有淋巴幹細胞（lymphoid stem cell）",
+      "B": "包含胎兒肝（fetal liver）、骨髓、胸腺",
+      "C": "除去辨識自我抗原（autoantigen）之淋巴細胞的場所",
+      "D": "接受抗原刺激之場所"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 71 題",
+    "question": "下列何種免疫調節劑是影響到所有活化的淋巴球，及作用於其他所有正在分裂的細胞，而並非僅限 於適應性免疫反應（adaptive immune responses）的調節及抑制？",
+    "options": {
+      "A": "mycophenolate",
+      "B": "cyclosporine A",
+      "C": "rapamycin（sirolimus）",
+      "D": "tacrolimus（FK-506）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 72 題",
+    "question": "張先生目前50 餘歲，最近出現多個關節腫脹、疼痛，主要在雙手近端指間關節、雙手腕關節、膝關 節等，檢查結果為類風濕性關節炎（rheumatoid arthritis）。醫師表示目前張先生體內的類風濕性因 子（rheumatoid factor）價數頗高，需積極治療。此因子是下列那一項？",
+    "options": {
+      "A": "細胞激素（cytokine）",
+      "B": "自體抗體（autoantibody）",
+      "C": "調節性T細胞（Treg細胞）產生之調控因子",
+      "D": "補體複合體（complement complex）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 73 題",
+    "question": "張太太的女兒現年10 歲，自上學期中就開始經常口渴，有消瘦現象。有一天昏倒送醫之後，診斷得 到第一型糖尿病，胰臟之β（beta）細胞破壞嚴重，缺乏胰島素，血糖過高。這個疾病的成因為何？",
+    "options": {
+      "A": "感染症破壞胰臟腺體，引起胰臟功能過高",
+      "B": "攝取糖份過多，引起胰臟功能衰竭",
+      "C": "產生自體免疫反應T 細胞，破壞胰臟β（beta）細胞所致的自體免疫疾病",
+      "D": "電解質代謝失常，引起胰臟功能衰竭"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 74 題",
+    "question": "P 先生對蝦蟹過敏，每次吃了海鮮大餐都會產生蕁麻疹。在K 先生的主動提議下，K 先生將P 先生 的血清注射到自己的皮下後1 週，K 先生吃了海鮮大餐後半小時也在注射的皮膚出現明顯的皮膚疹， 但吃其他的食物並不會出現反應，身體其他地方也無特別病狀。下列敘述何者正確？",
+    "options": {
+      "A": "P 先生的反應是被動免疫，K 先生的反應是主動免疫",
+      "B": "血清中具抗原特異性的IgE 已經黏附在皮下的過敏細胞",
+      "C": "P 先生的血清已經在K 先生的身上引起免疫容忍",
+      "D": "P 先生和K 先生的反應都是被動免疫"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

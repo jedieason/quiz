@@ -1,0 +1,329 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 47 題",
+    "question": "細胞分裂時由中心體發出的紡綞絲，是由下列何種細胞支架（cytoskeleton）組成？",
+    "options": {
+      "A": "肌動蛋白絲（actin filament）",
+      "B": "肌凝蛋白絲（myosin filament）",
+      "C": "中間絲（intermediate filament）",
+      "D": "微管（microtubule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 48 題",
+    "question": "眼震（nystagmus）常被用以反映vestibular system 的反射功能。但眼震通常被定義為在頭部轉動後為抵抗眼球 位置的慣性，而拉往與頭部轉動的方向相同的急速眼球運動。而眼震的方向和兩耳水平半規管內之淋巴液流 動方向通常是相反的。在檢查時可使受測者挺直坐下，以水平軸為基準使其頭部向下偏約30 度，將冷水注入 受測者的左耳，其眼震的方向最可能是下列何項？",
+    "options": {
+      "A": "向左",
+      "B": "向右",
+      "C": "先向左再向右",
+      "D": "先向右再向左"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 49 題",
+    "question": "被診斷成unilaterally left visual neglect，但視網膜和視神經皆健全正常的病人，模仿繪圖時將左邊畫紙留白，對 鏡中自己化妝只上右臉的妝、左臉留素顏，這些症狀描述最可能的腦傷在下列何處？",
+    "options": {
+      "A": "右側頂葉",
+      "B": "左側頂葉",
+      "C": "右側枕葉",
+      "D": "左側枕葉"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 50 題",
+    "question": "一位被診斷為重鬱症、對第一線和第二線藥物反應不佳且有重複自殺嘗試的病人，醫師決定給予電痙攣治療 （electroconvulsive therapy）。病人對於每天治療前兩小時內發生的事幾乎都無法回憶，但意識恢復後的學習記 憶皆屬正常。上述這種短期失憶應稱為：",
+    "options": {
+      "A": "retrograde amnesia",
+      "B": "anterograde amnesia",
+      "C": "confabulation amnesia",
+      "D": "jamais vu amnesia"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 51 題",
+    "question": "下列有關分布於梭內肌纖維（intrafusal muscle fiber）的Ia 型感覺神經元的描述，何項最不適當？",
+    "options": {
+      "A": "不能向中樞傳送梭外肌纖維（extrafusal muscle fiber）被拉長之速度或張力的訊息",
+      "B": "該型感覺神經元的感受器分布在每一種型態的梭內肌纖維的中央部位",
+      "C": "當dynamic gamma motor neuron 被刺激的情況下，能使分布於同一梭內肌纖維的Ia 型感覺神經元對該肌纖維 被拉長的速度會更加敏感",
+      "D": "當gamma motor neuron 被刺激的情況下，可使分布於同一梭內肌纖維的Ia 型感覺神經元對該肌纖維被拉長的 刺激會更加敏感"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 52 題",
+    "question": "一般細胞膜產生的動作電位在過衝（overshoot）與下衝（undershoot）時，最常見分別對下列何種離子的通透性 特別高？",
+    "options": {
+      "A": "鉀離子與鈉離子",
+      "B": "鉀離子與鉀離子",
+      "C": "鈉離子與鈉離子",
+      "D": "鈉離子與鉀離子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 53 題",
+    "question": "下列何種神經傳導物質不屬於兒茶酚胺類（catecholamine）物質？",
+    "options": {
+      "A": "多巴胺（dopamine）",
+      "B": "正腎上腺素（norepinephrine）",
+      "C": "腎上腺素（epinephrine）",
+      "D": "組織胺（histamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 54 題",
+    "question": "接受高頻率聲波興奮的毛細胞，主要位於何處？",
+    "options": {
+      "A": "耳蝸管（cochlea）基部",
+      "B": "耳蝸管（cochlea）頂端",
+      "C": "耳蝸管（cochlea）的中央部分",
+      "D": "平均分布於整個耳蝸管（cochlea）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 55 題",
+    "question": "下列有關有氧肌與無氧肌的敘述，何者錯誤？",
+    "options": {
+      "A": "有氧肌也稱為紅肌",
+      "B": "有氧肌纖維的直徑，一般要比無氧肌來得小",
+      "C": "支配有氧肌纖維的運動神經元本體，一般要比支配無氧肌纖維的來得大",
+      "D": "肌肉收縮時，一般會先活化有氧肌運動單位，然後才是無氧肌的運動單位"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 56 題",
+    "question": "下列何者能直接促使骨骼肌細胞中結合的actin 與myosin 分離？",
+    "options": {
+      "A": "ATP",
+      "B": "Ca 2+",
+      "C": "myosin light-chain phosphatase",
+      "D": "myosin light-chain kinase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 57 題",
+    "question": "下列關於鐮刀型紅血球疾病（sickle-cell disease）之敘述，何者正確？",
+    "options": {
+      "A": "非遺傳疾病",
+      "B": "因紅血球生成素（erythropoietin）不足造成",
+      "C": "對於瘧疾（malaria）較不具抵抗性",
+      "D": "鐮刀型紅血球較不容易通過微血管"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 58 題",
+    "question": "增加baroreceptor discharges 會導致下列何種生理變化？",
+    "options": {
+      "A": "心跳速率減緩（bradycardia）",
+      "B": "心搏量（stroke volume）增加",
+      "C": "抑制心臟交感神經活性，但不影響心臟副交感神經活性",
+      "D": "抑制心臟副交感神經活性，但不影響心臟交感神經活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 59 題",
+    "question": "健康檢查時測量得檢測者血壓之舒張壓（diastolic pressure）為50 mmHg，收縮壓（systolic pressure）為120  mmHg，下列敘述何者正確？",
+    "options": {
+      "A": "脈搏壓（pulse pressure）為170 mmHg",
+      "B": "脈搏壓（pulse pressure）為70 mmHg",
+      "C": "平均動脈壓（mean arterial pressure）約為85 mmHg",
+      "D": "平均動脈壓（mean arterial pressure）約為97 mmHg"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 60 題",
+    "question": "心臟與血管的瓣膜（valve）對於循環系統優質運作扮演著重要角色，下列敘述何者最不合理？",
+    "options": {
+      "A": "二尖瓣（bicuspid valve）開啟，左心房血液可流向左心室",
+      "B": "主動脈半月瓣（aortic semilunar valve）開啟，左心室血液可流向全身大部分器官",
+      "C": "周邊股靜脈（femoral vein）瓣膜開啟，血液可流向心臟",
+      "D": "下腔大靜脈（inferior vena cava）接心臟處之瓣膜開啟，血液才能回流入右心房"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 61 題",
+    "question": "血液容積大量增加後最可能導致下列何種現象？",
+    "options": {
+      "A": "心室舒張末期容積上升，心搏量增加",
+      "B": "心室舒張末期容積上升，心搏量減少",
+      "C": "心室舒張末期容積降低，心搏量增加",
+      "D": "心室舒張末期容積降低，心搏量減少"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 62 題",
+    "question": "下列何者最可能會造成明顯的長吸氣（apneusis）現象？ ①破壞呼吸調節區（pneumotaxic center） ②破壞延髓 （medullary oblongata）背側呼吸群（dorsal respiratory group, DRG） ③破壞pre-Bötzinger complex ④切斷迷走 神經（vagus nerve）",
+    "options": {
+      "A": "僅①",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 63 題",
+    "question": "體動脈（systemic artery）血中氧分壓（ ） 顯著降低時，頸動脈體（carotid body）內球細胞（glomus cell） 細胞膜（plasma membrane）會發生下列何種反應？",
+    "options": {
+      "A": "對氧氣敏感性鉀離子通道（$O_2$-sensitive K + channel）受抑制，細胞膜電位去極化（membrane depolarization）",
+      "B": "對氧氣敏感性鉀離子通道（$O_2$-sensitive K + channel）活化，細胞膜電位去極化（membrane depolarization）",
+      "C": "對氧氣敏感性鉀離子通道（$O_2$-sensitive K + channel）受抑制，細胞膜電位過極化（membrane hyperpolarization）",
+      "D": "對氧氣敏感性鉀離子通道（$O_2$-sensitive K + channel）活化，細胞膜電位過極化（membrane hyperpolarization）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 64 題",
+    "question": "腸道中，關於分解與吸收蛋白質類營養物質的敘述，下列何者最適當？",
+    "options": {
+      "A": "僅能吸收單一胺基酸（amino acid）",
+      "B": "分解蛋白質的酵素主要來自肝臟（liver）所分泌",
+      "C": "凝乳蛋白酵素（chymotrypsin），為主要外切酵素（exopeptidase）之一",
+      "D": "使用的共同運輸蛋白（cotransporter）多為鈉或氫依賴型（Na +- or H +- dependent）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 65 題",
+    "question": "下列何者之濃度變化，最可能影響小腸對葡萄糖與胺基酸的吸收？",
+    "options": {
+      "A": "血中胰島素",
+      "B": "血中鉀離子",
+      "C": "腸上皮細胞外之鈉離子",
+      "D": "腸上皮細胞外之鈣離子"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 66 題",
+    "question": "下列何者為決定鉀離子在遠端腎小管分泌排出之最主要因素？",
+    "options": {
+      "A": "抗利尿荷爾蒙（antidiuretic hormone, ADH）存在與否",
+      "B": "管腔內帶正電荷離子多寡",
+      "C": "近端腎小管腔內尿液流速（urine flow rate）",
+      "D": "經特定鉀離子通道排出（specific K + channels）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｄ或BD者均給分。"
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 67 題",
+    "question": "在短時間內喝下2000 ml 白開水，血液與尿液滲透壓較大量喝水前的基礎值有何變化？",
+    "options": {
+      "A": "血液滲透壓增加，尿液滲透壓降低",
+      "B": "血液滲透壓降低，尿液滲透壓增加",
+      "C": "血液滲透壓與尿液滲透壓皆增加",
+      "D": "血液滲透壓與尿液滲透壓皆降低"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 68 題",
+    "question": "正常受測者之血中電解質濃度為：Na +143，K +4.5，Cl -105，HCO3 -25 mEq/L。若有一病人之血中電解質濃度為： Na +120，K +6.7，Cl -86，HCO3 -25 mEq/L，此病人最有可能是下列何種情況所造成？",
+    "options": {
+      "A": "腎上腺功能不足（adrenal insufficiency）",
+      "B": "原發性高醛固酮血症（primary hyperaldosteronism）",
+      "C": "庫興氏症候群（Cushing's syndrome）",
+      "D": "低鈉飲食"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 69 題",
+    "question": "有關維生素D3（vitamin D3）的敘述，下列何者最為適當？",
+    "options": {
+      "A": "又稱為25-hydroxycholecalciferol",
+      "B": "在肝臟製造合成",
+      "C": "維生素D3經1α-hydroxylase 作用，形成有活性的代謝產物",
+      "D": "維生素D3可由食物中攝取補充"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 70 題",
+    "question": "有關原發性高醛固酮血症（primary hyperaldosteronism）的病人，常伴隨有糖尿病相關的葡萄糖耐受性受損現 象，下列何者是最有可能的解釋？",
+    "options": {
+      "A": "血中鈉離子濃度升高會造成周邊組織產生胰島素抗性",
+      "B": "血中醛固酮濃度升高就會刺激交感神經造成血糖升高",
+      "C": "血中醛固酮濃度升高會增加鈉離子和葡萄糖的再吸收作用",
+      "D": "血中鉀離子濃度降低會抑制胰島素分泌作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 71 題",
+    "question": "下列有關甲狀腺荷爾蒙生物活性（biological activity）高低之順序，何者正確？",
+    "options": {
+      "A": "三碘甲狀腺素（T3）＞甲狀腺素（T4）＞逆三碘甲狀腺素（RT3）",
+      "B": "甲狀腺素（T4）＞三碘甲狀腺素（T3）＞逆三碘甲狀腺素（RT3）",
+      "C": "三碘甲狀腺素（T3）＞逆三碘甲狀腺素（RT3）＞甲狀腺素（T4）",
+      "D": "逆三碘甲狀腺素（RT3）＞三碘甲狀腺素（T3）＞甲狀腺素（T4）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 72 題",
+    "question": "下列何者最不可能是胰島素分泌不足所導致的現象？",
+    "options": {
+      "A": "血中酮體（ketone bodies）增加",
+      "B": "產生滲透壓性利尿（osmotic diuresis）作用",
+      "C": "呼吸性酸中毒（respiratory acidosis）",
+      "D": "血中游離脂肪酸（free fatty acid）濃度升高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 73 題",
+    "question": "有關生殖生理很重要的「兩種細胞－兩種性促素學說（two-cell, two-gonadotropin theory）」是指：",
+    "options": {
+      "A": "誘發睪丸（testis）生成釋放睪固酮（testosterone）的運作機制",
+      "B": "誘發睪丸（testis）生成釋放黃體素（progesterone）的運作機制",
+      "C": "誘發卵巢（ovary）生成釋放雌二醇（17β-estradiol）的運作機制",
+      "D": "誘發卵巢（ovary）生成釋放雄烯二酮（androstenedione）的運作機制"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

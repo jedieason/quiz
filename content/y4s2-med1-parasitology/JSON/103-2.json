@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 75 題",
+    "question": "人體感染巴西鉤蟲（Ancylostoma braziliense）後，下列何種現象最不可能發生？",
+    "options": {
+      "A": "引起爬行疹（creeping eruption）",
+      "B": "蟲體爬行處組織會產生紅斑和水疱",
+      "C": "成蟲最終寄生在皮下組織",
+      "D": "蟲體可在皮下組織移行達數星期甚至數月之久"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 76 題",
+    "question": "下列何種寄生蟲之感染，最有可能引起直腸脫垂（rectal prolapse）？",
+    "options": {
+      "A": "鞭蟲（Trichuris trichiura）",
+      "B": "薑片蟲（Fasciolopsis buski）",
+      "C": "痢疾阿米巴（Entamoeba histolytica）",
+      "D": "曼森裂頭幼蟲（Sparganum mansoni）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 77 題",
+    "question": "下列寄生蟲與其中間宿主之配對，共有幾項正確？①中華肝吸蟲（Clonorchis sinensis）--淡水魚  ②衛氏肺吸蟲（Paragonimus westermani）--毛蟹 ③薑片蟲（Fasciolopsis buski）--菱角 ④槍狀肝 吸蟲（Dicrocoelium dendriticum）--螞蟻",
+    "options": {
+      "A": "1 項",
+      "B": "2 項",
+      "C": "3 項",
+      "D": "4 項"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 78 題",
+    "question": "下列寄生蟲中，何者的第一個人體寄生病例不是在臺灣發現的？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "衛氏肺吸蟲（Paragonimus westermani）",
+      "C": "薑片蟲（Fasciolopsis buski）",
+      "D": "橫川吸蟲（Metagonimus yokogawai）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 79 題",
+    "question": "老王至西非工作一年，期間曾多次遭到某種蠅類叮咬，其後叮咬處發生下疳（chancre），接著有週 期性發燒、後頸淋巴結腫大（Winterbottom's sign）等症狀，血液及腦脊髓液中檢出的寄生蟲數並不 高，他最可能感染的寄生蟲是：",
+    "options": {
+      "A": "卵形瘧原蟲（Plasmodium ovale）",
+      "B": "羅得西亞錐蟲（Trypanosoma brucei rhodesiense）",
+      "C": "岡比亞錐蟲（Trypanosoma brucei gambiense）",
+      "D": "蟠尾絲蟲（Onchocerca volvulus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 80 題",
+    "question": "下列何者與惡性瘧原蟲（Plasmodium falciparum）最無關？",
+    "options": {
+      "A": "腦性瘧疾（cerebral malaria）",
+      "B": "黑熱病（black fever）",
+      "C": "赤痢性瘧疾（dysenteric malaria）",
+      "D": "黑水熱（blackwater fever）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 81 題",
+    "question": "下列何者曾是臺灣離島金門地區傳播絲蟲病（filariasis）的主要病媒蚊種？",
+    "options": {
+      "A": "環紋家蚊（Culex annulus）",
+      "B": "埃及斑蚊（Aedes aegypti）",
+      "C": "三斑家蚊（Culex tritaeniorhychus）",
+      "D": "熱帶家蚊（Culex fatigans）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 82 題",
+    "question": "下列有關病媒滋生感染症之臨床病癥敘述，何者正確？",
+    "options": {
+      "A": "巴貝氏原蟲症（babesiosis）感染病患通常呈現高度寄生蟲血症及惡性貧血",
+      "B": "萊姆病（Lyme disease）感染早期症狀主要為關節炎及顏面神經麻痺等病症",
+      "C": "艾立克次體症（ehrlichiosis）感染病患主要呈現白血球及血小板減少等病症",
+      "D": "恙蟲病（scrub typhus）感染主要症狀為皮膚出現特異性的遊走性焦痂"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

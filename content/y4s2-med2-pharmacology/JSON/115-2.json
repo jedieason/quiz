@@ -1,0 +1,312 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 51 題",
+    "question": "關於嬰兒與年輕成人的藥物動力學反應差異，下列敘述何者錯誤？",
+    "options": {
+      "A": "身體組織的水分組成比例嬰兒較成人高",
+      "B": "脂溶性藥物在脂肪組織之分布嬰兒較成人高",
+      "C": "嬰兒肝臟代謝藥物之能力較成人低",
+      "D": "嬰兒腎臟排除藥物之能力較成人低"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 52 題",
+    "question": "下列何者是降血糖藥物sulfonylureas 於胰臟β細胞膜上的作用標的？",
+    "options": {
+      "A": "potassium channel",
+      "B": "calcium channel",
+      "C": "glucose transporter 2",
+      "D": "sodium-glucose co-transporter 2"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 53 題",
+    "question": "下列關於pilocarpine 的敘述，何者最不適當？",
+    "options": {
+      "A": "口服使用易產生腹瀉的副作用",
+      "B": "可刺激睫狀體（ciliary body）收縮，幫助房水（aqueous humor）排出，因此可用於治療青光眼 （glaucoma）",
+      "C": "可刺激唾液分泌，可用於緩解Sjögren syndrome 病患的症狀",
+      "D": "口服可治療膀胱過動症"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 54 題",
+    "question": "下列有關骨骼肌鬆弛劑作用機轉之敘述，何者錯誤？",
+    "options": {
+      "A": "diazepam 活化中樞神經之GABAA receptor",
+      "B": "baclofen 活化中樞神經之GABAB receptor",
+      "C": "tizanidine 拮抗中樞神經之α2-adrenoceptor",
+      "D": "dantrolene 抑制骨骼肌細胞內之ryanodine receptor channel"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 55 題",
+    "question": "Ampicillin 常與下列何種藥物併用，用以治療對β-lactamase 有抗藥性的金黃色葡萄球菌（S. aureus）感 染？",
+    "options": {
+      "A": "amoxicillin",
+      "B": "penicillin G",
+      "C": "cephalexin",
+      "D": "clavulanic acid"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 56 題",
+    "question": "下列關於治療乳癌第二期或第三期病患之敘述，何者錯誤？",
+    "options": {
+      "A": "術後之停經婦女可以先使用tamoxifen，之後接續以anastrozole 治療",
+      "B": "cyclophosphamide、methotrexate、fluorouracil 可做為輔助性化療（adjuvant chemotherapy）",
+      "C": "在癌組織過度表現HER-2 情況下，trastuzumab 可增加anthracycline 及taxane 輔助性化療效益",
+      "D": "letrozole 及anastrozole 皆能輔助治療缺乏雌激素受體及黃體素受體表現的癌組織"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 57 題",
+    "question": "下列關於惡性瘧原蟲（P. falciparum）用藥之敘述，何者錯誤？",
+    "options": {
+      "A": "chloroquine 不宜用於乾癬症病患",
+      "B": "chloroquine 避免與含鈣及鎂制酸劑同時服用",
+      "C": "對chloroquine 產生抗藥性之惡性瘧原蟲，可用mefloquine 治療",
+      "D": "對於已經投與mefloquine 治療原蟲者，可併用quinine 加強治療效益"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 58 題",
+    "question": "下列何者不是抗癌藥物vincristine 之副作用？",
+    "options": {
+      "A": "姿勢性低血壓",
+      "B": "腹瀉",
+      "C": "周邊神經毒性",
+      "D": "抗利尿激素分泌不當症候群（SIADH）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 59 題",
+    "question": "下列藥物中，何者為ADP P2Y12 receptor 拮抗劑，可抑制血小板凝集活性？",
+    "options": {
+      "A": "abciximab",
+      "B": "alteplase",
+      "C": "dipyridamole",
+      "D": "ticagrelor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 60 題",
+    "question": "下列何種藥物引發出血問題時，最適合使用andexanet alfa 反轉（reversal）其抗凝血作用？",
+    "options": {
+      "A": "apixaban",
+      "B": "dabigatran",
+      "C": "heparin",
+      "D": "warfarin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 61 題",
+    "question": "下列治療多發性硬化症（multiple sclerosis）藥物中，何者之主要作用機制為調節細胞上的鞘胺酸1–磷 酸鹽（sphingosine 1-phosphate）受體，以阻斷淋巴球由淋巴結滲出，並減低淋巴球細胞在中樞神經系統之 數量？",
+    "options": {
+      "A": "interferon beta",
+      "B": "glatiramer acetate",
+      "C": "natalizumab",
+      "D": "fingolimod hydrochloride"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 62 題",
+    "question": "下列何者為芳香環酶抑制劑（aromatase inhibitor），可減少雌激素生成，常用於治療乳癌？",
+    "options": {
+      "A": "letrozole",
+      "B": "fulvestrant",
+      "C": "toremifene",
+      "D": "clomiphene"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 63 題",
+    "question": "下列何種藥物不適合用於治療甲狀腺風暴（thyroid storm）？",
+    "options": {
+      "A": "propranolol",
+      "B": "propylthiouracil",
+      "C": "levothyroxine",
+      "D": "potassium iodide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 64 題",
+    "question": "下列關於chlorothiazide 的敘述，何者錯誤？",
+    "options": {
+      "A": "主要作用部位在近端腎小管",
+      "B": "可抑制Na +/Cl –共同運送系統",
+      "C": "可增加鈣離子再吸收",
+      "D": "具有碳酸酐酶的抑制作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 65 題",
+    "question": "下列治療高血壓藥物中，何者的作用機制為抑制血管收縮素轉化酶（angiotensin-converting enzyme）？",
+    "options": {
+      "A": "candesartan",
+      "B": "enalapril",
+      "C": "hydralazine",
+      "D": "minoxidil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 66 題",
+    "question": "下列有關強心劑digitalis 的敘述，何者錯誤？",
+    "options": {
+      "A": "除心律不整的副作用外，也會產生噁心、嘔吐、腹瀉等問題",
+      "B": "可能引發動作電位出現early after-depolarizations",
+      "C": "治療指數（therapeutic index）小",
+      "D": "與loop diuretics 合用時，易產生心臟毒性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 67 題",
+    "question": "活化下列何種受體（receptor）能夠最有效地幫助支氣管擴張？",
+    "options": {
+      "A": "α1 adrenergic receptor",
+      "B": "β2 adrenergic receptor",
+      "C": "M3 cholinergic receptor",
+      "D": "serotonin 5-HT3 receptor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 68 題",
+    "question": "下列藥物中，何者屬於methylxanthines，能導致氣管平滑肌舒張，但不會拮抗adenosine 之作用？",
+    "options": {
+      "A": "tiotropium",
+      "B": "enprofylline",
+      "C": "theophylline",
+      "D": "cromolyn"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 69 題",
+    "question": "病人做大腸內視鏡檢查前，下列何種藥物最常配合polyethylene glycol，用來清理大腸？",
+    "options": {
+      "A": "bisacodyl",
+      "B": "erythromycin",
+      "C": "lubiprostone",
+      "D": "octreotide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 70 題",
+    "question": "下列藥物中，何者可將尿酸（uric acid）轉變成allantoin 而排出，用於治療痛風？",
+    "options": {
+      "A": "probenecid",
+      "B": "pegloticase",
+      "C": "sulfinpyrazone",
+      "D": "febuxostat"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 71 題",
+    "question": "下列藥物中，何者是第二代bradykinin B2 receptor 拮抗劑，具有治療遺傳血管性水腫（hereditary  angioedema）的作用？",
+    "options": {
+      "A": "aliskiren",
+      "B": "captopril",
+      "C": "icatibant",
+      "D": "aprotinin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 72 題",
+    "question": "下列何種藥物，若用於治療小孩因病毒感染所引起的發燒，最容易產生Reye syndrome？",
+    "options": {
+      "A": "acetaminophen",
+      "B": "ibuprofen",
+      "C": "celecoxib",
+      "D": "aspirin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 73 題",
+    "question": "下列關於benzodiazepines 之敘述，何者錯誤？",
+    "options": {
+      "A": "作用在type A GABA 受體上",
+      "B": "與GABA 受體之結合位點是在α subunit 和β subunit 之間",
+      "C": "於GABA 不存在的情況下，無法直接開啟GABA 受體",
+      "D": "flurazepam 的血中半衰期比alprazolam 長"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 74 題",
+    "question": "下列何種藥物成癮的風險性（risk of addiction）最低？",
+    "options": {
+      "A": "ketamine",
+      "B": "cannabinoids",
+      "C": "alcohol",
+      "D": "nicotine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 75 題",
+    "question": "下列何種重金屬中毒時，會導致顫抖、牙齦口炎、肢痛病、周邊神經病變，甚至肺炎？",
+    "options": {
+      "A": "無機鉛",
+      "B": "有機鉛",
+      "C": "汞元素",
+      "D": "無機砷鹽"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

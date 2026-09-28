@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 74 題",
+    "question": "蛋白質純化方法中的膠體過濾層析法（gel filtration chromatography），是根據不同蛋白質之間何項物理化學特 性的差異達成分離效果？",
+    "options": {
+      "A": "電性高低（charge）",
+      "B": "分子大小（molecular size）",
+      "C": "質荷比高低（mass-to-charge ratio）",
+      "D": "穩定程度（stability）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 75 題",
+    "question": "下列關於蛋白質結構中α螺旋（α helix）與β摺板（β sheet）的敘述，何者正確？",
+    "options": {
+      "A": "α螺旋的胺基端（amino terminus）會因電偶極（dipole）排列的規律性而帶部分負電性（partial negative charge）",
+      "B": "自然界中的α螺旋大部分具有左手性（left-handed）的結構",
+      "C": "氫鍵（hydrogen bond）的形成與α螺旋的穩定性有關，但與β摺板的穩定性無關",
+      "D": "β摺板中相鄰的兩條多肽鏈（polypeptide chains）之間的方向性可為平行（parallel）或反平行（antiparallel）的 關係"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 76 題",
+    "question": "某酵素的Km=10 mM， kcat=1000 s -1，當受質濃度為0.01 mM 時，該酵素催化反應所展現的反應速率常數（rate  constant）最接近下列何者？",
+    "options": {
+      "A": "1,000 s -1",
+      "B": "10,000 mM s -1",
+      "C": "10 mM s -1",
+      "D": "100 mM -1 s -1"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 77 題",
+    "question": "在人類肝細胞中提供甲基使phosphoethanolamine 轉換成phosphocholine 的是下列何者？",
+    "options": {
+      "A": "methionine",
+      "B": "serine",
+      "C": "folic acid",
+      "D": "S-adenosyl-L-methionine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 78 題",
+    "question": "參與氮代謝（nitrogen metabolism）所需的輔酶（coenzyme），下列何者除外？",
+    "options": {
+      "A": "磷酸吡哆醛（pyridoxal phosphate, PLP）",
+      "B": "輔酶Q（coenzyme Q）",
+      "C": "四氫葉酸輔酶（tetrahydrofolate coenzyme）",
+      "D": "B12輔酶（B12 coenzyme）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 79 題",
+    "question": "下列那一個官能基出現在胸腺嘧啶（thymine）而不出現在尿嘧啶（uracil）？",
+    "options": {
+      "A": "去氧核糖（deoxyribose）",
+      "B": "甲基（-CH3）",
+      "C": "胺基（-NH2）",
+      "D": "核糖（ribose）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 80 題",
+    "question": "下列何者為核苷酸（nucleotide）重新合成路徑（de novo synthesis）及補救合成路徑（salvage pathway）皆會使用 的重要代謝物？",
+    "options": {
+      "A": "glycinamide ribonucleotide（GAR）",
+      "B": "5-phosphoribosylamine（PRA）",
+      "C": "formylglycinamide ribonucleotide（FGAR）",
+      "D": "5-phospho-α-D-ribosyl-1-pyrophosphate（PRPP）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 81 題",
+    "question": "下列關於DNA 複製（DNA replication）的敘述，何者錯誤？",
+    "options": {
+      "A": "大腸桿菌（E. coli）的DNA 複製，只會利用一個複製起始點（replication origin）",
+      "B": "真核細胞的DNA 複製，會利用多個複製起始點（replication origin）",
+      "C": "大腸桿菌（E. coli）染色體DNA 的複製以雙個複製叉（replication fork）進行",
+      "D": "大腸桿菌（E. coli）的DNA 複製需要利用RNA 為引子（primer），真核生物的DNA 複製則利用 DNA 為引子"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 82 題",
+    "question": "反轉錄酶（reverse transcriptase）主要的作用為：",
+    "options": {
+      "A": "以DNA 為模板合成DNA",
+      "B": "以DNA 為模板合成RNA",
+      "C": "以RNA 為模板合成DNA",
+      "D": "以RNA 為模板合成RNA"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 83 題",
+    "question": "下列何者是原核生物中核苷酸去除修復（nucleotide excision repair）過程的主要酵素？",
+    "options": {
+      "A": "Ruv A, B, C",
+      "B": "Uvr A, B, C",
+      "C": "Rec A, Lex A, Rec BCD",
+      "D": "Polymerase α, β, γ, δ"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 84 題",
+    "question": "三磷酸核苷（nucleoside triphosphate）是細胞內生化反應重要的能量來源，在蛋白質轉譯的過程中，核糖體轉 位（translocation）所需的能量是由下列何者提供？",
+    "options": {
+      "A": "ATP → ADP + Pi",
+      "B": "GTP → GDP + Pi",
+      "C": "ATP → AMP + PPi",
+      "D": "GTP → GMP + PPi"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 85 題",
+    "question": "小分子物質在原核細胞中調節基因轉錄起始，通常不是藉由下列何種作用機轉？",
+    "options": {
+      "A": "直接結合到DNA",
+      "B": "調控活化子（activator）與DNA 的結合",
+      "C": "改變抑制子（repressor）的蛋白質構型（conformation）",
+      "D": "調控抑制子（repressor）與DNA 的結合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 86 題",
+    "question": "下列關於真核細胞中，mRNA 在5' 端會經過加帽（capping）修飾的敘述，何者錯誤？",
+    "options": {
+      "A": "可保護mRNA 不被核酸外切酶（exonuclease）所水解",
+      "B": "可被eIF4E 辨識",
+      "C": "可幫助mRNA 之轉譯（translation）",
+      "D": "修飾反應主要發生於內質網（ER）及高基氏體（Golgi apparatus）內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 87 題",
+    "question": "下列何者是胺醯-tRNA 合成酶（aminoacyl-tRNA synthetases）的錯誤詮釋？",
+    "options": {
+      "A": "可將胺基酸接到tRNA 的3'端",
+      "B": "反應中可將ATP 分解，並釋出焦磷酸根（PPi）",
+      "C": "對每一種胺基酸的特異性很高，但可接受任何一種tRNA 作為受質（substrate）",
+      "D": "多數生物體中，對每一種胺基酸皆有其專一的胺醯-tRNA 合成酶"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 88 題",
+    "question": "下列那一個酵素所催化的反應為糖解作用（glycolysis）中唯一將電子轉移給NAD +之氧化還原反應？",
+    "options": {
+      "A": "enolase",
+      "B": "glyceraldehyde-3-phosphate dehydrogenase",
+      "C": "pyruvate dehydrogenase",
+      "D": "pyruvate kinase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 89 題",
+    "question": "醣基化是蛋白質上常見的一種轉譯後修飾，有N-linked 與O-linked 兩種主要的鍵結方式，其中N-linked 主要是 透過與蛋白質上的何種胺基酸結合？",
+    "options": {
+      "A": "絲胺酸（serine）",
+      "B": "酪胺酸（tyrosine）",
+      "C": "天門冬醯胺（asparagine）",
+      "D": "天門冬胺酸（aspartate）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 90 題",
+    "question": "葡萄糖在細胞內代謝成acetyl-CoA 的過程中，不需要下列何者參與？",
+    "options": {
+      "A": "glyceraldehyde 3-phosphate dehydrogenase",
+      "B": "pyruvate kinase",
+      "C": "pyruvate dehydrogenase complex",
+      "D": "phosphoenolpyruvate（PEP）carboxykinase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 91 題",
+    "question": "在cerebroside 合成過程中，下列何者攜帶glucose 參與ceramide 轉成cerebroside 的反應？",
+    "options": {
+      "A": "CDP",
+      "B": "UDP",
+      "C": "GDP",
+      "D": "ADP"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 92 題",
+    "question": "有關家族性高膽固醇症（familial hypercholesterolemia）的敘述，下列何者最不正確？",
+    "options": {
+      "A": "LDL receptor 過度表達",
+      "B": "LDL 的濃度太高",
+      "C": "LDL receptor 基因突變",
+      "D": "LDL receptor 運送到細胞膜過程受阻"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 93 題",
+    "question": "Tay-Sachs disease 屬於一種sphingolipidoses，關於此疾病下列敘述何者錯誤？",
+    "options": {
+      "A": "屬於lipid storage disease",
+      "B": "導致神經系統退化",
+      "C": "致病機轉主要是由於ganglioside 無法在endoplasmic reticulum 中分解",
+      "D": "由lysosomal N-acetylhexosaminidase A 功能缺失引起"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 94 題",
+    "question": "下列有關琥珀酸–甘胺酸路徑（succinate-glycine pathway）的敘述，何者錯誤？",
+    "options": {
+      "A": "此路徑作用的第一個酵素為δ-aminolevulinic acid synthase（ALA synthase）",
+      "B": "血基質（heme）中的碳原子來自琥珀酸（succinate）及甘胺酸（glycine）",
+      "C": "需要磷酸吡哆醛（pyridoxal phosphate）參與作用",
+      "D": "血基質（heme）合成在細胞質中完成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 95 題",
+    "question": "胺基酸在肌肉組織中代謝產生的氨（ammonia）會再以何種胺基酸型式攜帶進入肝臟進行代謝？",
+    "options": {
+      "A": "離胺酸（lysine）",
+      "B": "瓜胺酸（citrulline）",
+      "C": "精胺酸（arginine）",
+      "D": "丙胺酸（alanine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 96 題",
+    "question": "下列何者為粒線體電子傳遞鏈 complex IV 之電子供應者（electron donor）？",
+    "options": {
+      "A": "succinate",
+      "B": "cytochrome c",
+      "C": "coenzyme Q",
+      "D": "NADH"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 97 題",
+    "question": "下列何者不是真核生物細胞週期進行的主要調控蛋白？",
+    "options": {
+      "A": "cyclin",
+      "B": "cyclin-dependent protein kinase（CDK）",
+      "C": "laminin",
+      "D": "anaphase-promoting complex（APC/C）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 98 題",
+    "question": "下列何者與類固醇激素（steroid hormone）之作用方式無關？",
+    "options": {
+      "A": "激素會與受體形成複合體（hormone-receptor complexes）",
+      "B": "受體主要在細胞膜表面以磷酸化方式活化",
+      "C": "受體具備與特殊DNA 序列結合之特性",
+      "D": "受體與激素結合後可活化或抑制基因轉錄"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 99 題",
+    "question": "下列關於protein kinase A 的敘述，何者正確？",
+    "options": {
+      "A": "結合cyclic GMP 而活化",
+      "B": "結合AMP 而活化",
+      "C": "結合cyclic AMP 而活化",
+      "D": "其活化可促進細胞內脂肪酸的生合成（fatty acid biosynthesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 100 題",
+    "question": "以限制性片段長度多態性（restriction fragment length polymorphisms, RFLPs）來進行去氧核糖核酸指紋鑑定 （DNA fingerprinting）時，通常需要結合下列何種生物技術？",
+    "options": {
+      "A": "西方墨點法（Western blotting）",
+      "B": "南方墨點法（Southern blotting）",
+      "C": "北方墨點法（Northern blotting）",
+      "D": "長條墨點法（slot blotting）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

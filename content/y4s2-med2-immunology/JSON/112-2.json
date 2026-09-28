@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 18 題",
+    "question": "大明希望推廣免疫科普知識，當他使用人體模型介紹周邊免疫組織／器官時，指向下列何處組織／器官時為 錯誤示範？",
+    "options": {
+      "A": "tonsil",
+      "B": "lymph node",
+      "C": "spleen",
+      "D": "thymus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 19 題",
+    "question": "下列何項先天免疫作用分子是利用直接破壞病原菌細胞膜之方式達到殺菌效果？",
+    "options": {
+      "A": "cytokine",
+      "B": "C reactive protein（CRP）",
+      "C": "Toll-like receptor（TLR）",
+      "D": "defensin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 20 題",
+    "question": "關於T細胞的TCR抗原結合位置（complementary determining region, CDR）具最大變異度主要為何者？",
+    "options": {
+      "A": "CDR1",
+      "B": "CDR2",
+      "C": "CDR3",
+      "D": "CDR4"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 21 題",
+    "question": "T細胞和B細胞的抗原接受器（antigen receptor）是兩種適應性免疫細胞用來辨識抗原的重要工具，有關這兩 種細胞抗原接受器的敘述何者錯誤？",
+    "options": {
+      "A": "T細胞抗原接受器（TCR）由α和β鏈構成，而B細胞抗原接受器（BCR）由兩組重鏈（heavy chain）和輕鏈 （light chain）構成。兩種抗原接受器都具有變異區（variable region）及固定區（constant region），而且和 抗原結合的位置都是在變異區",
+      "B": "T細胞抗原接受器（TCR）只有一個抗原結合位，B細胞抗原接受器（BCR）則有兩個。TCR只有表現在細 胞膜上，而BCR則可以表現在細胞膜上或是以抗體的形式分泌出去",
+      "C": "BCR就是在B細胞膜表面的抗體，因此BCR的功能和抗體一樣，除了Fab可以和抗原結合外，Fc可以活化不 同的效用功能（effector functions）",
+      "D": "TCR必須同時辨識MHC及抗原胜肽，由於病原菌的胜肽會被MHC所呈獻，因此T細胞具有能力去偵測病原 菌的感染"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 22 題",
+    "question": "口服FTY720（fingolimod）為一新型免疫抑制劑，可以用來治療人類多發性硬化症，其免疫調節機轉為何？",
+    "options": {
+      "A": "阻斷自體抗體產生，引起之ADCC（antibody-dependent cell-mediated cytotoxicity）",
+      "B": "減少IL-2產生，抑制T細胞之增生",
+      "C": "阻斷IL-6-IL6 receptor之JAK/STAT徑路，抑制T細胞之活化",
+      "D": "競爭T細胞之S1PR1徑路，讓T淋巴細胞無法活化，進而凋亡"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 23 題",
+    "question": "下列何者不是抗體分子Fc部分的功能？",
+    "options": {
+      "A": "活化補體",
+      "B": "中和（neutralization）作用",
+      "C": "調理（opsonization）作用",
+      "D": "促進mast cell 釋放顆粒內物質（degranulation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 24 題",
+    "question": "下列有關oral tolerance的敘述何者正確？",
+    "options": {
+      "A": "食物經過消化成為小分子，所以不易刺激免疫反應的發生",
+      "B": "食物經過消化的小分子胜肽，會表現在胸腺而將相關的T細胞去除",
+      "C": "所有的食物都會引發oral tolerance",
+      "D": "可能與分泌TGF-β的T輔助細胞有關"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 25 題",
+    "question": "下列何種情況與第一型過敏反應疾病的發生最有相關？",
+    "options": {
+      "A": "嬰幼兒時期成長於很乾淨的家中",
+      "B": "2歲前常發生細菌性感染症",
+      "C": "有麻疹病毒（measles）或A型肝炎病毒感染史",
+      "D": "病人體內常具有針對某種蛋白質有特異性之高濃度IgG2a"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 26 題",
+    "question": "紅斑性狼瘡（SLE）病人因細胞核裂解產生對抗dsDNA自體抗體（anti-dsDNA Ab）所導致的免疫致病機轉主 要活化何種Toll-like receptor（TLR）？",
+    "options": {
+      "A": "TLR-1",
+      "B": "TLR-4",
+      "C": "TLR-7",
+      "D": "TLR-9"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 27 題",
+    "question": "器官移植後的慢性排斥（chronic rejection）作用，下列何情況最可能出現？",
+    "options": {
+      "A": "活化的異體反應性natural killer（NK）cells經由血管進入移植體，而破壞植體組織結構",
+      "B": "植體內圓周型的小血管內皮細胞損壞，細胞浸潤，血管壁及血管硬化，植體蒼白缺血",
+      "C": "血液中的抗植體血型抗體造成血管發炎反應及血管完全阻塞，植體黑紫腫脹",
+      "D": "接受移植者本身體內出現突變的植體抗原，造成產生對抗異體抗原的抗體反應，進而破壞植體組織結構"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 28 題",
+    "question": "下列關於anti-CTLA-4應用於腫瘤免疫療法之原理，何者正確？",
+    "options": {
+      "A": "CTLA-4蛋白質是結合樹突細胞（dendritic cell）之主要組織相容複合體（major histocompatibility complex, MHC）",
+      "B": "CTLA-4蛋白質是結合樹突細胞（dendritic cell）上的PD-1",
+      "C": "CTLA-4蛋白質是結合樹突細胞（dendritic cell）上的CD80/CD86",
+      "D": "CTLA-4蛋白質是結合樹突細胞（dendritic cell）上的CD11b"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

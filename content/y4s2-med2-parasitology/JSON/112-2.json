@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 29 題",
+    "question": "下列何種寄生蟲最不可能引起眼睛的病變？",
+    "options": {
+      "A": "犬蛔蟲（Toxocara canis）",
+      "B": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "C": "羅阿絲蟲（Loa loa）",
+      "D": "海獸胃線蟲（Anisakis spp.）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 30 題",
+    "question": "邱先生買了一塊農地種菜，經常弄得手腳滿是污泥，最近手臂發癢並出現延伸的紅斑，下列敘述那一項最不 適當？",
+    "options": {
+      "A": "皮膚搔癢（pruritus）可能是寄生蟲引起的過敏反應",
+      "B": "可能是搔癢抓破皮引起的細菌性感染",
+      "C": "可能是東方毛線蟲（Trichostrongylus orientalis）感染造成的",
+      "D": "可能罹患鉤蟲爬行疹（creeping eruption）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 31 題",
+    "question": "關於埃及血吸蟲（Schistosoma haematobium）的敘述，下列何者正確？",
+    "options": {
+      "A": "蟲卵具一個尖銳的側棘（lateral spine）",
+      "B": "成蟲寄生於人的下腸繫膜靜脈叢",
+      "C": "被認為是在埃及和非洲其他地區導致膀胱癌的主要原因",
+      "D": "治療首選藥物是metronidazole"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 32 題",
+    "question": "有關弓蟲症（toxoplasmosis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "腸道外期（extraintestinal stage）感染主要是肇因於食入含有緩殖子（bradyzoite）的食物所致",
+      "B": "免疫力正常的患者，通常無明顯症狀，有時與一般感冒（flu）無異",
+      "C": "急性感染期（acute infection）時，患者會出現大量腹水",
+      "D": "慢性感染期（chronic infection）時，患者會因為膠質細胞（glial cell）形成結節（nodule）而出現慢性腦炎的 症狀"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 33 題",
+    "question": "有關阿米巴之敘述，下列何者最正確？",
+    "options": {
+      "A": "自營生活的阿米巴（free-living amebae）所造成的腦部感染均與游泳有關",
+      "B": "在福氏內格里阿米巴（Naegleria fowleri）患者的組織切片中，可同時發現滋養體（trophozoites）及囊體 （cysts）",
+      "C": "如未及時診治，原發性阿米巴腦膜腦炎（primary amebic meningoencephalitis）患者通常會在症狀出現後3～6 天內死亡",
+      "D": "棘阿米巴性角膜炎（Acanthamoeba keratitis）患者都必需進行角膜移植恢復視力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 34 題",
+    "question": "下列何種節肢動物已被確認可以導致兒童過敏及氣喘（asthma）之主要致敏原（allergen）？",
+    "options": {
+      "A": "疥蟎（scabies mite）",
+      "B": "塵蟎（dust mite）",
+      "C": "毛囊蟎（follicle mite）",
+      "D": "恙蟎（chigger mite）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 35 題",
+    "question": "王先生上週赴美國東部之波士頓市（Boston）旅遊及參與田園野營活動，依其自敘曾被不明蟲體叮咬，返國 後陸續出現頭痛及急性高燒病症，經住院檢查發現白血球減少（leukopenia）及血小板減少 （thrombocytopenia），並在血液抹片（blood smear）發現其中性球（neutrophils）內有菌體感染，請依其旅 遊史及臨床病癥判斷，最有可能感染下列何種病媒傳染病？",
+    "options": {
+      "A": "人巴貝氏原蟲症（human babesiosis）",
+      "B": "人艾利希體症（human ehrlichiosis）",
+      "C": "人體萊姆病（human Lyme disease）",
+      "D": "人巴東菌症（human bartonellosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

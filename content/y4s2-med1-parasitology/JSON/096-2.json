@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 75 題",
+    "question": "下列何分子不會聚集在T 細胞和抗原呈獻細胞的免疫胞突接合處（immunological synapse）？",
+    "options": {
+      "A": "TCR",
+      "B": "CD4/CD8",
+      "C": "CD28",
+      "D": "CD19"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 76 題",
+    "question": "被下列那一種人體寄生蟲嚴重感染後，患者會出現腸阻塞（bowel obstruction）的臨床症狀？",
+    "options": {
+      "A": "橫川氏吸蟲（Metagonimus yokogawai）",
+      "B": "旋毛蟲（Trichinella spiralis）",
+      "C": "蛔蟲（Ascaris lumbricoides）",
+      "D": "棘顎口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 77 題",
+    "question": "下列何者不是人類幼裂絛蟲症（sparganosis）的感染途徑？",
+    "options": {
+      "A": "喝入的飲水含有已感染寄生蟲之水蚤",
+      "B": "生食已感染寄生蟲之蛙肉或蛇肉",
+      "C": "將已感染寄生蟲之蛙肉或蛇肉敷在傷口",
+      "D": "生食已感染寄生蟲之魚肉"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 78 題",
+    "question": "青蒿素（artemisinin）的殺傷對象是：",
+    "options": {
+      "A": "血液裂殖體（blood schizonts）",
+      "B": "肝臟裂殖體（liver schizonts）",
+      "C": "休眠子（hypnozoites）",
+      "D": "配子母細胞（gametocytes）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 79 題",
+    "question": "下列何者之蟲卵可隨血液循環到腦或脊髓，形成肉芽腫，引起癲癇、神經缺陷？",
+    "options": {
+      "A": "棘口吸蟲（Echinostoma spp.）",
+      "B": "異形吸蟲（Heterophyes heterophyes）",
+      "C": "牛羊肝吸蟲（Fasciola hepatica）",
+      "D": "薑片蟲（Fasciolopsis buski）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 80 題",
+    "question": "下列有關瘧疾的敘述，何者錯誤？",
+    "options": {
+      "A": "寄生蟲病中，導致全球每年患者死亡人數最多的是瘧疾",
+      "B": "惡性瘧原蟲的配子母細胞（gametocytes）呈新月形",
+      "C": "熱帶性巨脾病（tropical splenomegaly syndrome）是瘧疾的併發症之一",
+      "D": "惡性瘧患者因紅血球破壞嚴重，因而常導致腎病症候群"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 81 題",
+    "question": "某君為退休之非洲農耕隊隊員，近日因眼睛有畏光及視力模糊等現象而求醫。經檢查後發現病人之 角膜有死亡之微絲蟲，詢問病史，病人陳述多年前在非洲河邊曾被蚋（Simulium spp.）叮咬，但當時 不以為意，請問某君最可能感染何種寄生蟲？",
+    "options": {
+      "A": "羅阿絲蟲（Loa loa）",
+      "B": "蟠尾絲蟲（Onchocerca volvulus）",
+      "C": "斑氏絲蟲（Wuchereria bancrofti）",
+      "D": "馬來絲蟲（Brugia malayi）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 82 題",
+    "question": "某研究探討含鉛油漆暴露與兒童智能發展遲緩之相關性，此研究所牽涉的變項包括種族（黑人或白 人）、年齡（歲）、以及油漆暴露之程度（按濃度高低分為四級），下列那一個選項的變項依序 為nominal、ordinal、以及ratio 尺度？",
+    "options": {
+      "A": "油漆暴露之程度、種族、年齡",
+      "B": "年齡、種族、油漆暴露之程度",
+      "C": "種族、油漆暴露之程度、年齡",
+      "D": "油漆暴露之程度、年齡、種族"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

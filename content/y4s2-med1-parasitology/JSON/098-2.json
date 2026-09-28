@@ -1,0 +1,106 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 75 題",
+    "question": "下列何種人體寄生蟲會出現孤雌生殖（parthenogenesis）的現象？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "糞小桿線蟲（Strongyloides stercoralis）",
+      "C": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "D": "東方毛線蟲（Trichostrongylus orientalis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 76 題",
+    "question": "豬不是下列何種寄生蟲的貯存宿主（reservoir host）？",
+    "options": {
+      "A": "薑片蟲（Fasciolopsis buski）",
+      "B": "日本血吸蟲（Schistosoma japonicum）",
+      "C": "埃及血吸蟲（Schistosoma haematobium）",
+      "D": "衛氏肺吸蟲（Paragonimus westermani）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 77 題",
+    "question": "下列何者與陰道滴蟲無關？",
+    "options": {
+      "A": "囊體",
+      "B": "攝護腺炎",
+      "C": "新生兒肺部感染",
+      "D": "軸柱（axostyle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 78 題",
+    "question": "瘧疾（malaria）之傳播是經由病媒蚊為之，請問病媒蚊傳播方式是下列何種機制？",
+    "options": {
+      "A": "週期發育型傳播（cyclo-developmental transmission）",
+      "B": "跨蟲期傳播（transstadial transmission）",
+      "C": "週期繁殖型傳播（cyclo-propagative transmission）",
+      "D": "繁殖型傳播（propagative transmission）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 79 題",
+    "question": "有一水電工人在室外修理水管弄得手腳滿是污泥，幾天後手臂發癢並開始出現一端會持續延伸的紅 斑，直到2 個月後情況才改善，下列敘述那一項錯誤？",
+    "options": {
+      "A": "該工人可能罹患爬行疹（creeping eruption）",
+      "B": "十二指腸鉤蟲（Ancylostoma duodenale）感染造成的",
+      "C": "紅斑部位會癢是因為蟲體引起過敏反應",
+      "D": "紅斑周圍病理變化可見到嗜伊紅性白血球浸潤"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 80 題",
+    "question": "確定診斷為弓蟲症（toxoplasmosis）之病人，測得其血清抗弓蟲（Toxoplasma gondii）抗體IgG 為陽 性反應，同時亦測得IgM 具高效價陽性反應，則可推論此病人：",
+    "options": {
+      "A": "在近期3-6 個月內感染弓蟲",
+      "B": "在過去1-2 年間感染弓蟲",
+      "C": "在2 年以前感染弓蟲",
+      "D": "無法判斷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 81 題",
+    "question": "感染岡比亞錐蟲（Trypanosoma gambiense）之晚期，手指壓迫病人之尺神經（ulnar nerve）部位，病 人會有感覺遲鈍的現象，此徵候（sign）稱為：",
+    "options": {
+      "A": "Kernig’s sign",
+      "B": "Romaña’s sign",
+      "C": "Winterbottom’s sign",
+      "D": "Kerandel’s sign"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 82 題",
+    "question": "下列有關熱帶脾臟腫大症候群（tropical splenomegaly syndrome）的敘述，何者錯誤？",
+    "options": {
+      "A": "病人的脾臟異常腫大",
+      "B": "病人血清之IgG 濃度比當地脾臟大小正常的居民高出甚多",
+      "C": "以抗瘧藥物治療會使病人脾臟縮小",
+      "D": "病人之肝血管竇（hepatic sinusoid）可能會有淋巴球增加的現象"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  }
+]

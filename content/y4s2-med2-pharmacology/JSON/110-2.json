@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 51 題",
+    "question": "下列何種藥物在蠶豆症（glucose-6-phosphate dehydrogenase deficiency）患者中使用，可能會導致溶血？",
+    "options": {
+      "A": "simvastatin",
+      "B": "rasburicase",
+      "C": "clopidogrel",
+      "D": "carbamazepine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 52 題",
+    "question": "關於抗疱疹病毒藥acyclovir之敘述，下列何者正確？",
+    "options": {
+      "A": "可有效作用在潛伏期病毒",
+      "B": "此藥物須經由病毒特定胸苷激酶（virus-specified thymidine kinase）將其磷酸化才具活性",
+      "C": "抗藥性的發生可因為病毒中的DNA聚合酶產生變異，與病人免疫功能低下無關",
+      "D": "對acyclovir產生抗藥性時，替代藥物valacyclovir會比trifluridine適合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 53 題",
+    "question": "有關抗巨細胞病毒（cytomegalovirus, CMV）感染使用的藥物，下列敘述何者錯誤？",
+    "options": {
+      "A": "ganciclovir抗CMV的活性遠高於acyclovir",
+      "B": "foscarnet不僅能抑制疱疹病毒中的DNA聚合酶與RNA聚合酶，也能抑制HIV反轉錄酶",
+      "C": "cidofovir、foscarnet、ganciclovir皆需要經由磷酸化才能進一步產生作用",
+      "D": "cidofovir不適合與NSAID藥物併用，主要考量是因為腎毒性的副作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 54 題",
+    "question": "關於抑制細菌蛋白質合成類的抗生素應用，下列敘述何者正確？",
+    "options": {
+      "A": "clindamycin可抑制細菌蛋白質合成，並可治療大部分的革蘭氏陰性好氧菌感染",
+      "B": "clindamycin能與cephalosporin併用治療骨盆膿瘍及敗血性流產",
+      "C": "quinupristin-dalfopristin可用於治療革蘭氏陽性菌與具內源性抗藥性之糞腸球菌（E faecalis）感染",
+      "D": "tedizolid可用於治療革蘭氏陽性菌感染，但對於抗藥性金黃葡萄球菌（methicillin-resistant S aureus）無治療 效益"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 55 題",
+    "question": "有關抗代謝（antimetabolites）抗癌藥物之敘述，下列何者錯誤？",
+    "options": {
+      "A": "methotrexate應避免與非類固醇消炎藥物合用，以免影響methotrexate的吸收",
+      "B": "pemetrexed主要作用是抑制胸苷酸合成酶（thymidylate synthase），並可使用vitamin B12以減輕毒性",
+      "C": "cytarabine（ara-C）主要作用是抑制DNA聚合酶α（DNA polymerase-α）與DNA聚合酶β（DNA polymerase- β），不適用於治療實質固態瘤（solid tumor）",
+      "D": "allopurinol會經由抑制黃嘌呤氧化酶（xanthine oxidase）而導致6-mercaptopurine過多毒性（excessive toxicity）產生，因此選用6-thioguanine可避免上述問題"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 56 題",
+    "question": "2019年底爆發的新型冠狀病毒感染，患者為逃避發燒篩檢隔離而服用ibuprofen。此藥物主要作用於腦部減少 何種自泌素（autacoids）的生成？",
+    "options": {
+      "A": "PGD2",
+      "B": "PGF2",
+      "C": "PGE2",
+      "D": "PGI2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 57 題",
+    "question": "關於多發性硬化症（multiple sclerosis）用藥fingolimod hydrochloride之敘述，下列何者錯誤？",
+    "options": {
+      "A": "主要透過影響S1P受體而發揮作用",
+      "B": "促進淋巴細胞由淋巴結釋放至循環系統",
+      "C": "可減少淋巴細胞在腦部的數量",
+      "D": "可導致嚴重的心臟毒性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 58 題",
+    "question": "臨床上針對血小板缺乏症（thrombocytopenia），目前有血小板生成素（thrombopoietin）相關藥物可加以運 用，下列敘述何者錯誤？",
+    "options": {
+      "A": "romiplostim及eltrombopag均為G-CSF受體致效劑",
+      "B": "口服eltrombopag適用於初期干擾素治療且患有血小板缺乏症的C肝病人",
+      "C": "eltrombopag可能有嚴重肝毒性，須進行病況監控",
+      "D": "thrombopoietin及interleukin-11均為內生性血小板生成之調節成分"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 59 題",
+    "question": "下列何者適用於改善腎衰竭導致的貧血？",
+    "options": {
+      "A": "erythropoietin",
+      "B": "azathioprine",
+      "C": "coumarin",
+      "D": "zidovudine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 60 題",
+    "question": "下列何種狀況比較不適合用生長激素（growth hormone/somatotropin）治療？",
+    "options": {
+      "A": "肢端肥大症（acromegaly）",
+      "B": "小胖威利症候群（Prader-Willi syndrome）",
+      "C": "透納氏症候群（Turner syndrome）",
+      "D": "生長激素缺乏症（growth hormone deficiency）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 61 題",
+    "question": "下列何種藥物主要透過抑制蝕骨細胞（osteoclast） 的活性，達到降血鈣與增加骨密度的效果？",
+    "options": {
+      "A": "sucralfate",
+      "B": "acetaminophen",
+      "C": "warfarin",
+      "D": "alendronate"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 62 題",
+    "question": "55歲婦人經乳房X光攝影發現有腫瘤，醫生進行乳房腫瘤切除手術，病理切片分析顯示此腫瘤有estrogen和 progesterone的受體。下列何者較適合用來治療婦人的乳房腫瘤？",
+    "options": {
+      "A": "flutamide",
+      "B": "mifepristone",
+      "C": "tamoxifen",
+      "D": "danazol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 63 題",
+    "question": "下列何者為neprilysin抑制劑，因而增加atrial natriuretic peptide（ANP）和brain natriuretic peptide（BNP）的作 用，可用於治療心衰竭疾病？",
+    "options": {
+      "A": "flunarizine",
+      "B": "nesiritide",
+      "C": "ranolazine",
+      "D": "sacubitril"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 64 題",
+    "question": "下列那一種藥物，因藥效短而最適用於手術期間（或急性）引起之心律不整？",
+    "options": {
+      "A": "esmolol",
+      "B": "dofetilide",
+      "C": "propafenone",
+      "D": "dronedarone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 65 題",
+    "question": "下列有關mirabegron的敘述，何者正確？",
+    "options": {
+      "A": "是一種選擇性beta-3交感受體拮抗劑（beta-3 adrenoceptor antagonist）",
+      "B": "可使尿道括約肌（urethral sphincter）舒張",
+      "C": "臨床上可用於改善膀胱過動（overactive bladder）症狀",
+      "D": "其主要副作用為低血壓（hypotension）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 66 題",
+    "question": "下列何者活化菸鹼性受體（nicotinic receptor）的作用最弱，且最不易被膽鹼酯酶（cholinesterase）分解？",
+    "options": {
+      "A": "acetylcholine",
+      "B": "methacholine",
+      "C": "carbachol",
+      "D": "bethanechol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 67 題",
+    "question": "下列何者不是ipratropium治療氣喘的主要作用？",
+    "options": {
+      "A": "減少呼吸道黏液分泌",
+      "B": "鬆弛支氣管平滑肌",
+      "C": "抑制細胞激素（cytokines）和趨化素（chemokines）生合成",
+      "D": "拮抗乙醯膽鹼（acetylcholine）作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 68 題",
+    "question": "下列有關misoprostol藥理性質之敘述，何者正確？",
+    "options": {
+      "A": "是prostaglandin I2的結構類似物",
+      "B": "口服可被迅速吸收，其代謝產物具有藥理活性",
+      "C": "血中半衰期（half-life）長達20小時",
+      "D": "只能抑制胃酸分泌，沒有胃黏膜保護作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 69 題",
+    "question": "下列何種藥物是急性嚴重偏頭痛發作時的第一線用藥，但患者如果有冠狀動脈疾病則禁止使用？",
+    "options": {
+      "A": "lorcaserin",
+      "B": "aspirin",
+      "C": "phentermine",
+      "D": "sumatriptan"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物最適合用來治療肺高壓（pulmonary hypertension）？",
+    "options": {
+      "A": "latanoprost",
+      "B": "zileuton",
+      "C": "iloprost",
+      "D": "dinoprostone"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 71 題",
+    "question": "下列何者是新型的降尿酸藥物，用於治療難治性慢性痛風（refractory chronic gout）的病人？",
+    "options": {
+      "A": "pegloticase",
+      "B": "ketorolac",
+      "C": "tramadol",
+      "D": "anakinra"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 72 題",
+    "question": "Morphine在治療劑量下除具止痛效果外還有其他藥理作用，但不包括下列何者？",
+    "options": {
+      "A": "瞳孔擴大",
+      "B": "抑制咳嗽",
+      "C": "減緩腸道蠕動",
+      "D": "鎮靜作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 73 題",
+    "question": "吸入性麻醉劑的血液氣體分配係數（blood：gas partition coefficient）數值越大時，其代表涵義下列何者正 確？",
+    "options": {
+      "A": "藥物起始作用（onset）快、恢復（recovery）快",
+      "B": "藥物起始作用（onset）慢、恢復（recovery）快",
+      "C": "藥物起始作用（onset）快、恢復（recovery）慢",
+      "D": "藥物起始作用（onset）慢、恢復（recovery）慢"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 74 題",
+    "question": "下列那個藥物的化學結構與amphetamine類似，可抑制norepinephrine和dopamine的再回收，除用於憂鬱症的治 療外，亦做為戒菸的輔助治療藥物？",
+    "options": {
+      "A": "bupropion",
+      "B": "imipramine",
+      "C": "trazodone",
+      "D": "fluoxetine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 75 題",
+    "question": "下列何種解毒劑，主要作用是螯合單價重金屬離子，並促進其與重金屬形成之複合物自腸道排出？",
+    "options": {
+      "A": "penicillamine",
+      "B": "prussian blue",
+      "C": "succimer",
+      "D": "deferoxamine"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

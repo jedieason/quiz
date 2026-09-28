@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 1 題",
+    "question": "腦幹內的蓋膜中央徑（central tegmental tract）主要由連結下列那兩者間的神經纖維組成？",
+    "options": {
+      "A": "紅核（red nucleus）與下橄欖核（inferior olivary nucleus）",
+      "B": "紅核（red nucleus）與齒狀核（dentate nucleus）",
+      "C": "前庭神經核（vestibular nucleus）與動眼神經核（oculomotor nucleus）",
+      "D": "前庭神經核（vestibular nucleus）與外旋神經核（abducens nucleus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 2 題",
+    "question": "一位患者右側視野缺損而左側視野正常，最可能是下列那一視覺傳導途徑受損？",
+    "options": {
+      "A": "右視神經（right optic nerve）",
+      "B": "右視徑（right optic tract）",
+      "C": "左視神經（left optic nerve）",
+      "D": "左視徑（left optic tract）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 3 題",
+    "question": "下列何者是源自前庭神經核（vestibular nuclei）的神經纖維構造，能影響眼球運動以及身體的平衡？",
+    "options": {
+      "A": "內側縱束（medial longitudinal fasciculus）",
+      "B": "背側縱束（dorsal longitudinal fasciculus）",
+      "C": "內側前腦束（medial forebrain bundle）",
+      "D": "蓋膜中央徑（central tegmental tract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 4 題",
+    "question": "從海馬迴結構（hippocampal formation）至乳頭體（mamillary body）的穹窿（fornix）分為①體部（body）、②繖 部（fimbria）、③柱部（columns）、④腳部（crura）四個部位，依序為下列何者？",
+    "options": {
+      "A": "②①③④",
+      "B": "④①②③",
+      "C": "②④①③",
+      "D": "④①③②"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 5 題",
+    "question": "病人脊髓受損導致受傷部位以下本體感覺與震動覺喪失，但溫痛覺仍然保留，下列何者最可能為病人損傷的脊 髓部位？",
+    "options": {
+      "A": "後索（posterior funiculus）",
+      "B": "前索（anterior funiculus）",
+      "C": "側索（lateral funiculus）",
+      "D": "前角（anterior horn）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 6 題",
+    "question": "下列何者供應內耳膜迷路（membranous labyrinth）的血液？",
+    "options": {
+      "A": "枕動脈（occipital artery）",
+      "B": "中腦膜動脈（middle meningeal artery）",
+      "C": "後大腦動脈（posterior cerebral artery）",
+      "D": "迷路動脈（labyrinthine artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 7 題",
+    "question": "60 歲以上長者觀看遠物時視覺功能正常，但閱讀書報卻看不清，最可能是下列何者出問題？",
+    "options": {
+      "A": "玻璃體（vitreous body）與虹膜（iris）",
+      "B": "角膜（cornea）與網膜（retina）",
+      "C": "黃斑部（macula lutea）",
+      "D": "水晶體（lens）與睫狀肌（ciliary muscle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 8 題",
+    "question": "下列何者不通過眶上裂（superior orbital fissure）？",
+    "options": {
+      "A": "第二對腦神經（CN II）",
+      "B": "第三對腦神經（CN III）",
+      "C": "第四對腦神經（CN IV）",
+      "D": "第六對腦神經（CN VI）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 9 題",
+    "question": "Omohyoid muscle 的起點位於何處？",
+    "options": {
+      "A": "肩胛骨（scapula）",
+      "B": "第一肋骨（first rib）",
+      "C": "胸骨柄（sternal manubrium）",
+      "D": "鎖骨（clavicle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 10 題",
+    "question": "篩泡（ethmoidal bulla）是下列何者延伸形成？",
+    "options": {
+      "A": "額竇（frontal sinus）",
+      "B": "前篩竇（anterior ethmoidal sinus）",
+      "C": "中篩竇（middle ethmoidal sinus）",
+      "D": "上頷竇（maxillary sinus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 11 題",
+    "question": "下列何者不共同參與「下拉眉毛內角」的動作？",
+    "options": {
+      "A": "眼輪匝肌（orbicularis oculi muscle）",
+      "B": "降眉間肌（procerus muscle）",
+      "C": "提上眼瞼肌（levator palpebrae superioris）",
+      "D": "皺眉肌（corrugator supercilii muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 12 題",
+    "question": "下列何者由第九對腦神經（CN IX）負責？",
+    "options": {
+      "A": "舌頭後1/3 的肌肉運動",
+      "B": "耳廓（auricle）的一般感覺",
+      "C": "腭帆張肌（tensor veli palatini）的收縮",
+      "D": "莖突咽肌（stylopharyngeus）的收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 13 題",
+    "question": "下列何者走在舌骨舌肌（hyoglossus muscle）的外表面，向前進入下頷舌骨肌（mylohyoid muscle）的深層？",
+    "options": {
+      "A": "舌動脈（lingual artery）",
+      "B": "舌咽神經（glossopharyngeal nerve）",
+      "C": "舌下神經（hypoglossal nerve）",
+      "D": "上喉神經（superior laryngeal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 14 題",
+    "question": "隔緣肉柱（septomarginal trabecula）連接心臟心室間隔（interventricular septum）與下列何者？",
+    "options": {
+      "A": "左心室前乳頭肌（anterior papillary muscle of left ventricle）",
+      "B": "左心室後乳頭肌（posterior papillary muscle of left ventricle）",
+      "C": "右心室後乳頭肌（posterior papillary muscle of right ventricle）",
+      "D": "右心室前乳頭肌（anterior papillary muscle of right ventricle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 15 題",
+    "question": "下列何者伴行心臟後室間支動脈（posterior interventricular artery），走在後室間溝（posterior interventricular  sulcus）？",
+    "options": {
+      "A": "心大靜脈（great cardiac vein）",
+      "B": "心中靜脈（middle cardiac vein）",
+      "C": "心小靜脈（small cardiac vein）",
+      "D": "心後靜脈（posterior cardiac vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 16 題",
+    "question": "下列有關支氣管樹（bronchial tree）的敘述何者最恰當？",
+    "options": {
+      "A": "氣管約在第二胸椎高度處分支為左右主支氣管（main bronchus）",
+      "B": "異物容易進入右主支氣管，因為右主支氣管走向比左邊垂直",
+      "C": "左右主支氣管通常在尚未進入肺臟前，先分支成葉支氣管（lobar bronchus）",
+      "D": "細支氣管（bronchiole）管壁一般含有軟骨，用以維持呼吸道結構"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 17 題",
+    "question": "有關假肋骨（false ribs）之敘述，下列何者正確？",
+    "options": {
+      "A": "第7～12 對肋骨為假肋骨",
+      "B": "前端以軟骨直接附著於胸骨",
+      "C": "有肋橫突關節（costotransverse joint）附著點",
+      "D": "沒有肋溝（costal groove）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 18 題",
+    "question": "左腎上腺靜脈（left suprarenal vein）直接匯入下列那一個靜脈？",
+    "options": {
+      "A": "左腎靜脈（left renal vein）",
+      "B": "下腔靜脈（inferior vena cava）",
+      "C": "左性腺靜脈（left gonadal vein）",
+      "D": "腰靜脈（lumbar vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 19 題",
+    "question": "精索內筋膜（internal spermatic fascia）衍生自前腹壁的何種結構？",
+    "options": {
+      "A": "腹外斜肌（external oblique muscle）",
+      "B": "腹內斜肌（internal oblique muscle）",
+      "C": "腹橫筋膜（transversalis fascia）",
+      "D": "腹橫肌腱膜（aponeurosis of transversus abdominis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 20 題",
+    "question": "肝門三體（portal triad）中不包含下列何種結構？",
+    "options": {
+      "A": "膽管（bile duct）",
+      "B": "肝動脈（hepatic artery）",
+      "C": "肝門靜脈（hepatic portal vein）",
+      "D": "膽囊管（cystic duct）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 21 題",
+    "question": "闌尾最不可能在下列何處出現？",
+    "options": {
+      "A": "盲腸前（prececal）",
+      "B": "迴腸後（postileal）",
+      "C": "骨盆緣（pelvic brim）",
+      "D": "盲腸後（retrocecal）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 22 題",
+    "question": "子宮頸外口（external os. of the cervix）位於：",
+    "options": {
+      "A": "子宮頸管（cervical canal）和子宮腔（uterine cavity）之間",
+      "B": "子宮底（fundus）和子宮體（body）之間",
+      "C": "子宮底（fundus）和子宮腔（uterine cavity）之間",
+      "D": "子宮頸管（cervical canal）和陰道腔（vaginal cavity）之間"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 23 題",
+    "question": "關於骨盆腔的自主神經（autonomic nerve），下列敘述何者錯誤？",
+    "options": {
+      "A": "上下腹神經叢（superior hypogastric plexus）往下進入骨盆腔，分成右及左下腹神經（right and left hypogastric nerves）",
+      "B": "下下腹神經叢（inferior hypogastric plexus）包含交感及副交感神經纖維（sympathetic and parasympathetic fibers）",
+      "C": "骨盆內臟神經（pelvic splanchnic nerves）起始於第二至第四薦神經（S2～S4 spinal nerves），含副交感神經纖 維",
+      "D": "支配骨盆腔內臟的交感神經纖維全由薦交感神經幹（sacral sympathetic trunks）發出"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 24 題",
+    "question": "下列何者最不可能是髂內動脈（internal iliac artery）的分支？",
+    "options": {
+      "A": "閉孔動脈（obturator artery）",
+      "B": "薦側動脈（lateral sacral artery）",
+      "C": "薦正中動脈（median sacral artery）",
+      "D": "子宮動脈（uterine artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 25 題",
+    "question": "下列何者不是穿過骨盆壁的構造？",
+    "options": {
+      "A": "閉孔管（obturator canal）",
+      "B": "坐骨大孔（greater sciatic foramen）",
+      "C": "坐骨小孔（lesser sciatic foramen）",
+      "D": "陰部管（pudendal canal）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 26 題",
+    "question": "髕骨（patella）位於何者的肌腱內？",
+    "options": {
+      "A": "內收大肌（adductor magnus）",
+      "B": "股二頭肌（biceps femoris）",
+      "C": "股四頭肌（quadriceps femoris）",
+      "D": "半腱肌（semitendinous）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 27 題",
+    "question": "下列那一條肌肉由橈神經（radial nerve）支配？",
+    "options": {
+      "A": "旋前圓肌（pronator teres）",
+      "B": "掌側骨間肌（palmar interossei）",
+      "C": "第二條蚓狀肌（2 nd lumbrical）",
+      "D": "外展拇長肌（abductor pollicis longus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 28 題",
+    "question": "下列何者的肌腱跨過距骨體（body of talus）的後方進入足底？",
+    "options": {
+      "A": "脛後肌（tibialis posterior）",
+      "B": "屈趾長肌（flexor digitorum longus）",
+      "C": "屈𧿹長肌（flexor hallucis longus）",
+      "D": "腓骨長肌（fibularis longus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 29 題",
+    "question": "下列何者形成脊髓內的齒狀韌帶（denticulate ligament）？",
+    "options": {
+      "A": "脊髓（spinal cord）",
+      "B": "硬膜（dura mater）",
+      "C": "蛛網膜（arachnoid mater）",
+      "D": "軟膜（pia mater）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 30 題",
+    "question": "車禍撞擊傷及薦棘韌帶（sacrospinous ligament），下列何者最可能因此受傷？",
+    "options": {
+      "A": "臀上神經（superior gluteal nerve）",
+      "B": "臀下神經（inferior gluteal nerve）",
+      "C": "陰部神經（pudendal nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 31 題",
+    "question": "膝關節的內側半月板（medial meniscus）受傷時，下列何者最可能同時受損？",
+    "options": {
+      "A": "髂脛束（iliotibial tract）",
+      "B": "膕肌肌腱（tendon of popliteus muscle）",
+      "C": "脛側副韌帶（tibial collateral ligament）",
+      "D": "腓側副韌帶（fibular collateral ligament）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

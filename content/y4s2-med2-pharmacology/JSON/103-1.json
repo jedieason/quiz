@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 51 題",
+    "question": "下列敘述，何者錯誤？",
+    "options": {
+      "A": "分布體積（Vd），為藥物實際分布體積",
+      "B": "肝、腎功能對於藥物清除率（CL）有很重要之影響",
+      "C": "當給藥之後，血漿藥物濃度降至原來一半所需的時間，稱為半衰期（t1/2）",
+      "D": "靜脈（IV）給藥之生體可用率（bioavailability）為100%"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 52 題",
+    "question": "β-lactamase inhibitor 在臨床上常與下列penicillin 類藥物搭配合用，來擴充其抗菌範圍和活性，何項 除外？",
+    "options": {
+      "A": "nafcillin",
+      "B": "ampicillin",
+      "C": "amoxicillin",
+      "D": "ticarcillin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 53 題",
+    "question": "下列關於肺結核治療劑isoniazid 藥理機制及作用之敘述，何者錯誤？",
+    "options": {
+      "A": "可抑制分枝桿菌細胞壁成分mycolic acid 生成",
+      "B": "為殺菌型抗生素",
+      "C": "若病人肝臟N-acetyltransferase 活性過高，會使其藥效降低",
+      "D": "會誘導肝臟cytochrome P450 活性明顯增加"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 54 題",
+    "question": "下列藥物之作用機制為抑制細菌細胞壁之生合成，何者除外？",
+    "options": {
+      "A": "cycloserine",
+      "B": "cephalexin",
+      "C": "clindamycin",
+      "D": "bacitracin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 55 題",
+    "question": "下列有關磺胺劑之敘述，何者錯誤？",
+    "options": {
+      "A": "可抑制細菌folic acid 之生合成",
+      "B": "可與trimethoprim 合用產生加乘（synergistic）抑菌作用",
+      "C": "單獨使用可抑制人體folic acid 之生合成，因此有貧血（anemia）之不良作用",
+      "D": "不良作用有過敏反應，Stevens-Johnson syndrome"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 56 題",
+    "question": "下列藥物之主要作用為降低血漿triglyceride，何者除外？",
+    "options": {
+      "A": "niacin",
+      "B": "fenofibrate",
+      "C": "cholestyramine",
+      "D": "gemfibrozil"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 57 題",
+    "question": "下列有關heparin 之敘述，何者錯誤？",
+    "options": {
+      "A": "其組成為sulfated mucopolysaccharide",
+      "B": "具有高負電荷之分子",
+      "C": "需要antithrombin III 存在下才能發揮最佳活性",
+      "D": "它僅能中和thrombin 之凝血活性，對於Xa, XIIa 拮抗作用小"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 58 題",
+    "question": "下列何項藥物具有免疫調節、抗發炎和抗血管新生作用，它可抑制TNF-α 作用，降低neutrophil 之 吞噬作用？",
+    "options": {
+      "A": "azathioprine",
+      "B": "thalidomide",
+      "C": "mycophenolate mofetil",
+      "D": "cyclosporine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 59 題",
+    "question": "下列有關warfarin 之敘述，何者錯誤？",
+    "options": {
+      "A": "直接抑制vitamin K 有關之凝血因子II, VII, IX, X 進行γ-carboxylation 修飾",
+      "B": "直接抑制epoxide reductase，使還原型vitamin K 不能再生",
+      "C": "protein C 合成不受影響",
+      "D": "其抗凝血作用比heparin 之起始作用時間（onset）慢"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 60 題",
+    "question": "下列何種藥物可以用來治療子宮內膜異位症（endometriosis）的不正常疼痛現象？",
+    "options": {
+      "A": "leuprolide",
+      "B": "ganirelix",
+      "C": "desmopressin",
+      "D": "conivaptan"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者 均給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 61 題",
+    "question": "下列有關催產素（oxytocin）的描述，何者錯誤？",
+    "options": {
+      "A": "催產素主要由腦下垂體後葉（posterior pituitary）所分泌，具有促進乳汁泌出（ejection）的作用",
+      "B": "在藥理學作用濃度下，催產素具有抑制子宮收縮的作用",
+      "C": "注射高劑量的催產素會造成血壓的下降（hypotension）",
+      "D": "催產素於腸胃道中容易被破壞，因此口服無效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 62 題",
+    "question": "下列有關clomiphene 的藥理學作用描述，何者錯誤？",
+    "options": {
+      "A": "為一種雌激素受體部分作用劑（partial estrogen agonist），可以刺激促性腺激素（gonadotropins） 的分泌作用",
+      "B": "對於排卵功能障礙的婦女具有刺激排卵的作用",
+      "C": "使用時會降低血漿中黃體化激素（LH）和濾泡促進素（FSH）的濃度",
+      "D": "容易誘發熱潮紅（hot flushes）的產生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 63 題",
+    "question": "下列關於organic nitrates 之敘述，何者正確？",
+    "options": {
+      "A": "nitroglycerin 口服後之生體可用率（oral bioavailability）高達70%",
+      "B": "nitroglycerin 舌下含服的藥效可長達三小時",
+      "C": "nitroglycerin 由靜脈注射給予持續數小時可能產生耐藥性（tolerance）",
+      "D": "amyl nitrite 吸入方式給藥後之首度效應（hepatic first-pass effect）高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 64 題",
+    "question": "下列何者為中樞神經性降低交感神經活性藥物，主要用於治療懷孕期間之高血壓？",
+    "options": {
+      "A": "carbidopa",
+      "B": "dobutamine",
+      "C": "fenoldopam",
+      "D": "methyldopa"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 65 題",
+    "question": "Captopril 因為抑制converting enzyme使下列何種物質的代謝受阻，而產生咳嗽或血管性水腫（angioedema） 的副作用？",
+    "options": {
+      "A": "angiotensin II",
+      "B": "adenosine",
+      "C": "bradykinin",
+      "D": "prostacyclin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 66 題",
+    "question": "下列何種藥物，最適合用於診斷重症肌無力（myasthenia gravis）？",
+    "options": {
+      "A": "echothiophate",
+      "B": "edrophonium",
+      "C": "entacapone",
+      "D": "estazolam"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 67 題",
+    "question": "下列何種藥物，於戰爭時被用於預防有機磷化學武器藥物不可逆結合至cholinesterase？",
+    "options": {
+      "A": "atropine",
+      "B": "pralidoxime",
+      "C": "pyridostigmine",
+      "D": "trospium"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 68 題",
+    "question": "下列何者是varenicline 的臨床用途？",
+    "options": {
+      "A": "戒菸",
+      "B": "青光眼",
+      "C": "重症肌無力",
+      "D": "老年失智症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 69 題",
+    "question": "下列何種β-adrenoceptor 拮抗劑之排除半衰期（elimination half-life）最短？",
+    "options": {
+      "A": "bisoprolol",
+      "B": "esmolol",
+      "C": "nadolol",
+      "D": "propranolol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 70 題",
+    "question": "下列何種prostaglandins 衍生物，可用於治療廣角性青光眼？",
+    "options": {
+      "A": "misoprostol",
+      "B": "epoprostenol",
+      "C": "alprostadil",
+      "D": "latanoprost"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 71 題",
+    "question": "新生兒若需做心臟手術時，在等待期間可使用下列何種藥物先行維持動脈導管通暢？",
+    "options": {
+      "A": "misoprostol",
+      "B": "epoprostenol",
+      "C": "alprostadil",
+      "D": "latanoprost"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 72 題",
+    "question": "下列抗憂鬱藥中，何種屬於monoamine oxidase inhibitors？",
+    "options": {
+      "A": "selegiline",
+      "B": "paroxetine",
+      "C": "imipramine",
+      "D": "bupropion"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 73 題",
+    "question": "下列那一種全身麻醉劑（general anesthetics）最容易造成心輸出量及血壓下降？",
+    "options": {
+      "A": "ketamine",
+      "B": "halothane",
+      "C": "nitrous oxide",
+      "D": "isoflurane"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 74 題",
+    "question": "關於caffeine 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "會使支氣管平滑肌放鬆",
+      "B": "會抑制胃酸的分泌",
+      "C": "其高劑量會增加心跳速率及增加心輸出量",
+      "D": "具有利尿的作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 75 題",
+    "question": "下列何者不是gene transfer 所使用的vectors？",
+    "options": {
+      "A": "adenovirus",
+      "B": "retrovirus",
+      "C": "liposome-DNA",
+      "D": "naked RNA"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

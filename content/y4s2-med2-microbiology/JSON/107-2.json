@@ -1,0 +1,212 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 1 題",
+    "question": "金黃色葡萄球菌（Staphylococcus aureus）是根據其菌體的那種成分被區分成11種血清型（serotypes）？",
+    "options": {
+      "A": "胜肽聚醣（peptidoglycan）",
+      "B": "蛋白質A（Protein A）",
+      "C": "脫皮毒素（Exfoliative toxins）",
+      "D": "莢膜多醣體（capsular polysaccharide）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 2 題",
+    "question": "下列疾病中，何者與Epstein-Barr 病毒的感染最無關？",
+    "options": {
+      "A": "鼻咽癌（nasopharyngeal carcinoma）",
+      "B": "慢性骨髓性白血病（chronic myelogenous leukemia）",
+      "C": "霍金氏疾病（Hodgkin's disease）",
+      "D": "布奇氏淋巴瘤（Burkitt's lymphoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 3 題",
+    "question": "下列細菌何者與食入受汙染的米飯而引起的食物中毒最為相關？",
+    "options": {
+      "A": "腸炎沙門氏菌（Salmonella enterica）",
+      "B": "創傷弧菌（Vibrio vulnificus）",
+      "C": "臘狀桿菌（Bacillus cereus）",
+      "D": "大腸桿菌（Escherichia coli）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 4 題",
+    "question": "關於產志賀毒素大腸桿菌（Shiga toxin-producing Escherichia coli）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "會導致經由食物傳播（food-borne）的疾病",
+      "B": "常引起人類嚴重感染症的血清型為O157:H7",
+      "C": "疾病嚴重時可能會引起血性腹瀉（bloody diarrhea）",
+      "D": "不產生stx1或stx2毒素"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 5 題",
+    "question": "15歲男生是學校游泳隊的成員，每日至少泳訓2小時，因左耳疼痛難耐而至耳鼻喉科就診，醫師檢查發現外耳 發炎。經微生物培養鑑定為β型溶血，不發酵葡萄糖的細菌。最有可能是被下列何種細菌所感染？",
+    "options": {
+      "A": "草綠群鏈球菌（Viridans streptococci）",
+      "B": "表皮葡萄球菌（Staphylococcus epidermidis）",
+      "C": "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "D": "綠膿桿菌（Pseudomonas aeruginosa）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 6 題",
+    "question": "下列那一種微生物主要在人類細胞內繁殖，且可引起透過性行為傳染的疾病？",
+    "options": {
+      "A": "傷寒桿菌 （Salmonella Typhi）",
+      "B": "杜克氏嗜血桿菌 （Haemophilus ducreyi）",
+      "C": "普氏立克次體（Rickettsia prowazekii）",
+      "D": "砂眼披衣菌（Chlamydia trachomatis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 7 題",
+    "question": "40歲男性有肝硬化病史，至海邊釣魚，因赤腳，右腳皮膚不慎被石頭割破流血，翌日在傷口附近出現紅腫與 水泡（bullae），覺得疼痛難耐，經醫師診斷為傷口感染所引起的組織壞死（tissue necrosis），他最有可能 被下列何種細菌感染？",
+    "options": {
+      "A": "傷寒沙門氏桿菌（Salmonella Typhi）",
+      "B": "鮑曼不動桿菌（Acinetobacter baumannii）",
+      "C": "霍亂弧菌（Vibrio cholerae）",
+      "D": "創傷弧菌（Vibrio vulnificus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 8 題",
+    "question": "有關非密螺旋體（nontreponemal）及密螺旋體（treponemal）梅毒血清學試驗結果的判讀，下列敘述何者錯 誤？",
+    "options": {
+      "A": "有些紅斑性狼瘡（SLE）患者會出現長期非密螺旋體試驗偽陽性反應",
+      "B": "愛滋病（AIDS）患者以密螺旋體試驗為陰性反應時，仍無法排除感染梅毒螺旋體（Treponema pallidum） 的可能性",
+      "C": "患者的生殖器出現潰瘍時，若非密螺旋體試驗結果為陰性，則可排除梅毒螺旋體感染的可能",
+      "D": "監測治療梅毒過程，密螺旋體試驗相對於非密螺旋體試驗較不易受到治療的影響"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 9 題",
+    "question": "關於肺炎黴漿菌（Mycoplasma pneumoniae）所引起的肺炎，下列何者正確？",
+    "options": {
+      "A": "患者可使用青黴素（penicillin）、頭芽孢素（cephalosporin）或萬古黴素（vancomycin）類抗生素治療",
+      "B": "此菌具有P1黏附蛋白（P1 adhesin），能導致呼吸道中具有纖毛的上皮細胞（ciliated epithelial cells）遭致 破壞",
+      "C": "可將患者痰液以革蘭氏染色（Gram stain）後，進行顯微鏡觀察是否有分枝纖細狀桿菌",
+      "D": "可藉由吸入受感染鳥類的乾燥糞便或其呼吸道分泌物而得到感染"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 10 題",
+    "question": "下列何者非葡萄球菌菌種（Staphylococcus species）所造成的主要疾病？",
+    "options": {
+      "A": "食物中毒（food poisoning）",
+      "B": "膿皰瘡（impetigo）",
+      "C": "皮膚燙傷樣綜合徵狀（scalded skin syndrome）",
+      "D": "胃潰瘍（gastric ulcer）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 11 題",
+    "question": "下列那一項臨床檢驗項目，是常規做為評估以高效能雞尾酒治療愛滋病（AIDS）效果的主要指標？",
+    "options": {
+      "A": "p24抗原（antigen）之測定",
+      "B": "CD4:CD8 T-cell比例之測定",
+      "C": "血漿中人類免疫缺陷病毒（HIV）病毒量之測定",
+      "D": "HIV抗原/抗體（antigen/antibody）組合測試（combo test）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 12 題",
+    "question": "在器官移植之後，下列那一種病毒最可能造成器官移植感染，且對於抗病毒藥物很容易產生抗藥性？",
+    "options": {
+      "A": "腺病毒（Adenovirus）",
+      "B": "人類巨細胞病毒 （Cytomegalovirus）",
+      "C": "B型肝炎病毒（Hepatitis B virus）",
+      "D": "冠狀病毒SARS CoV"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 13 題",
+    "question": "下列何種病毒，最不會經由性接觸而傳染？",
+    "options": {
+      "A": "第一型人類嗜Ｔ淋巴球病毒（Human T-cell lymphotropic virus-1, HTLV-1）",
+      "B": "巨細胞病毒（Cytomegalovirus, CMV）",
+      "C": "A型肝炎病毒（Hepatitis A virus, HAV）",
+      "D": "C型肝炎病毒（Hepatitis C virus, HCV）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 14 題",
+    "question": "關於腮腺炎（mumps）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是透過呼吸道上皮細胞傳染的疾病",
+      "B": "感染都只有呼吸道症狀，不會造成全身性的感染",
+      "C": "腮腺炎病毒可以存在尿液中",
+      "D": "腮腺炎病毒減毒疫苗的效果很好，是目前使用的三合一疫苗中的一種成分"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 15 題",
+    "question": "有關病毒（viruses）複製的敘述，下列何者錯誤？",
+    "options": {
+      "A": "具外套膜（envelope）的病毒一般對環境的抗性較低",
+      "B": "RNA病毒之複製大部分是在細胞質中進行",
+      "C": "RNA病毒之複製大部分不需要宿主細胞的酵素",
+      "D": "具有外套膜的病毒主要藉由細胞溶解（lysis）而釋出細胞外"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 16 題",
+    "question": "巴西副球黴菌（Paracoccidioides brasiliensis） 酵母細胞之細胞壁中，下列那一種組成的含量和致病力最有 關？",
+    "options": {
+      "A": "1,3-α-葡聚醣（1,3-α-glucan）",
+      "B": "1,3-β-葡聚醣（1,3-β-glucan）",
+      "C": "半乳甘露聚醣（Galactomannan）",
+      "D": "幾丁質（Chitin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 17 題",
+    "question": "下列那一種感染症最易於組織中見到厚壁、棕色之硬化體（sclerotic bodies）？",
+    "options": {
+      "A": "黑癬（Tinea nigra）",
+      "B": "孢子絲菌病（Sporotrichosis）",
+      "C": "產色芽生黴菌症（Chromoblastomycosis）",
+      "D": "皮下黑化真菌病（Subcutaneous phaeohyphomycosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

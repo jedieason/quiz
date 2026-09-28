@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 51 題",
+    "question": "下列何者可以用來局部注射消除魚尾紋？",
+    "options": {
+      "A": "河豚毒素（tetrodotoxin）",
+      "B": "霍亂毒素（cholera toxin）",
+      "C": "肉毒桿菌毒素（botulinum toxin）",
+      "D": "破傷風毒素（tetanus toxin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 52 題",
+    "question": "一位20 歲少年郎到泌尿科門診，告訴醫生他排尿困難及尿道出現黃膿的症狀，下列何者為治療這位 淋病患者最佳的選擇？",
+    "options": {
+      "A": "肌肉注射單一劑量的ceftriaxone",
+      "B": "口服Amoxicillin",
+      "C": "肌肉注射penicillin G＋probenecid",
+      "D": "肌肉注射Vancomycin"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 53 題",
+    "question": "有關flucytosine，下列敘述何者正確？",
+    "options": {
+      "A": "無法通過腦部血管",
+      "B": "抑制cytochrome P450 活性",
+      "C": "廣效性抗黴菌藥物",
+      "D": "被黴菌之cytosine deaminase 活化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 54 題",
+    "question": "下列何種器官會因長期服用Albendazole 而造成毒性損傷？",
+    "options": {
+      "A": "腎臟",
+      "B": "肝臟",
+      "C": "周邊神經",
+      "D": "視網膜"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 55 題",
+    "question": "下列何者與細胞膜組成成分產生交互作用，其親水性官能基在細胞膜上形成孔洞而破壞細胞膜的構造？",
+    "options": {
+      "A": "Nystatin",
+      "B": "Griseofulvin",
+      "C": "Fluconazole",
+      "D": "Terbinafine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 56 題",
+    "question": "下列有關niacin 降低血脂作用機轉之描述何者錯誤？",
+    "options": {
+      "A": "降低脂肪酸自脂肪組織釋出",
+      "B": "降低肝臟回收血中之脂肪酸",
+      "C": "合成含高量triglyceride 之VLDL",
+      "D": "降低LDL-C"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 57 題",
+    "question": "Infliximab 為第一種FDA 通過使用於Crohn’s disease，並可治療風濕性關節炎（rheumatoid arthritis） 之生物性製劑，試問此成分為何種cytokine 之單株抗體（chimeric Mab）？",
+    "options": {
+      "A": "interleukin-1",
+      "B": "interleukin-2",
+      "C": "transforming growth factor",
+      "D": "tumor necrosis factor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 58 題",
+    "question": "下列何種降血脂藥物較可能引起嚴重性之橫紋肌溶解症（severe rhabdomyolysis）？",
+    "options": {
+      "A": "niacin",
+      "B": "ezetimibe",
+      "C": "statins",
+      "D": "bile acid sequestrants"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 59 題",
+    "question": "Graves 氏疾病（Graves’ disease）分泌之抗體可刺激何種激素之受體？",
+    "options": {
+      "A": "FSH（follicle-stimulating hormone）",
+      "B": "TRH（thyrotropin-releasing hormone）",
+      "C": "TSH（thyroid-stimulating hormone）",
+      "D": "Thyroxine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 60 題",
+    "question": "胰島素受體（Insulin receptor）是屬於下列那一類？",
+    "options": {
+      "A": "Receptor tyrosine kinase 類",
+      "B": "G protein-coupled receptor 類",
+      "C": "Ligand-gated ion channel 類",
+      "D": "Nuclear receptor 類"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 61 題",
+    "question": "在卵巢以外的組織例如乳腺，可以用下列何種酵素抑制劑來抑制estradiol 之合成？",
+    "options": {
+      "A": "Aldosterone synthase",
+      "B": "Aromatase",
+      "C": "Xanthine oxidase",
+      "D": "11-Hydroxy steroid dehydrogenase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 62 題",
+    "question": "下列敘述何者錯誤？",
+    "options": {
+      "A": "Lugol’s solution 為用於甲狀腺切除術前減少微血管增生的製劑",
+      "B": "Methimazole 因會通過胎盤，所以應避免使用於孕婦",
+      "C": "Methimazole 大部分會和血漿蛋白（plasma proteins）結合，所以其體內半衰期較短，約為1-2 小時",
+      "D": "Thyroxine (T4)在體內會被代謝為不具有活性的reverse Triiodothyronine (rT3)"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 63 題",
+    "question": "有關minoxidil 降血壓劑的敘述，下列何者錯誤？",
+    "options": {
+      "A": "活化KATP channels",
+      "B": "治療中度高血壓的首選藥物",
+      "C": "舒張動脈效果大於舒張靜脈",
+      "D": "常與β-blockers 合用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 64 題",
+    "question": "下列何種心衰竭治療藥物可降低afterload？",
+    "options": {
+      "A": "Dobutamine",
+      "B": "Captopril",
+      "C": "Digoxin",
+      "D": "Furosemide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 65 題",
+    "question": "下列抗心律不整藥物中，何者較不會引起低血壓的副作用？",
+    "options": {
+      "A": "Bretylium",
+      "B": "Amiodarone",
+      "C": "Verapamil",
+      "D": "Propafenone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 66 題",
+    "question": "下列何者不是Quinidine 之副作用？",
+    "options": {
+      "A": "使骨骼肌收縮力減低",
+      "B": "使病患產生耳鳴、頭暈",
+      "C": "增加ACh 作用",
+      "D": "會增加毛地黃的毒性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 67 題",
+    "question": "若是因服用過量anticholinesterase 中毒時而未給予治療，則病人最可能之死因為何？",
+    "options": {
+      "A": "高血壓",
+      "B": "低血壓",
+      "C": "呼吸衰竭",
+      "D": "心臟衰竭"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 68 題",
+    "question": "下列何種藥物是屬於選擇性M1 antagonist 且在歐洲廣泛地使用於治療胃潰瘍？",
+    "options": {
+      "A": "Pilocarpine",
+      "B": "Pirenzepine",
+      "C": "Carbachol",
+      "D": "Bethanechol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 69 題",
+    "question": "下列藥物何者有輕瀉作用且有降低體內NH3 量，改善portal-systemic encephalopathy 之作用？",
+    "options": {
+      "A": "Lactulose",
+      "B": "Sucralfate",
+      "C": "Famotidine",
+      "D": "Castor oil"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 70 題",
+    "question": "下列何種降血壓藥物脂溶性高可穿過血腦屏障進入中樞，而活化α2-receptor 降低交感神經活性？",
+    "options": {
+      "A": "Clonidine",
+      "B": "Terazosin",
+      "C": "Captopril",
+      "D": "Propranolol"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 71 題",
+    "question": "下列有關acetaminophen 之敘述，何者正確？",
+    "options": {
+      "A": "是一個很強的抗發炎藥物",
+      "B": "會引起血小板功能不正常",
+      "C": "可以拮抗uricosuric 藥物的藥效",
+      "D": "在中樞神經系統可以抑制prostaglandin 之合成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 72 題",
+    "question": "下列有關aspirin 之敘述，何者錯誤？",
+    "options": {
+      "A": "可以抑制COX-1 及COX-2，但是對COX-2 之抑制作用大於COX-1",
+      "B": "低劑量可以預防中風之產生",
+      "C": "易有胃潰瘍之副作用",
+      "D": "不可逆性抑制COX"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 73 題",
+    "question": "下列藥物臨床用途之配對，何者錯誤？",
+    "options": {
+      "A": "Sumatriptan—migraine",
+      "B": "Ranitidine—peptic ulcer",
+      "C": "Ergonovine—postpartum hemorrhage",
+      "D": "Loratadine—motion sickness"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 74 題",
+    "question": "下列何種藥物與zidovudine 合併治療愛滋病人，將導致貧血及嗜中性白血球減少症惡化？",
+    "options": {
+      "A": "Ganciclovir",
+      "B": "Acyclovir",
+      "C": "Pentamidine",
+      "D": "Stavudine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 75 題",
+    "question": "使用三環類抗憂鬱症藥物時，經常會因為藥物同時具有阻斷組織胺（histamine）H1 受體、毒蕈素型 （muscarinic）乙醯膽鹼受體及甲型-腎上腺素性受體（α-adrenergic receptors）而產生一些副作用，試 問下列那一種副作用不是因為上述之受體被三環類抗憂鬱症藥物阻斷所產生的？",
+    "options": {
+      "A": "姿態性低血壓（orthostatic hypotension）",
+      "B": "尿液滯留（urine retention）",
+      "C": "延長心室傳導所需之時間",
+      "D": "鎮靜作用（sedation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

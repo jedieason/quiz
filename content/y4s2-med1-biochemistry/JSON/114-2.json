@@ -1,0 +1,334 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 74 題",
+    "question": "一條由12 個胺基酸形成的多肽（polypeptide）含有幾個胜肽鍵（peptide bond）？",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 75 題",
+    "question": "下列何者對固有無序蛋白（intrinsically disordered proteins）特性的描述最適當？",
+    "options": {
+      "A": "在生理上大多沒有功能",
+      "B": "缺乏一個確定的三維結構",
+      "C": "主要由芳香族胺基酸組成",
+      "D": "不會與其他蛋白質相互作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 76 題",
+    "question": "當血紅蛋白（hemoglobin）與2,3-bisphosphoglycerate（2,3-BPG）結合時，會更易於形成下列何種四級結 構？",
+    "options": {
+      "A": "R 狀態（R state）",
+      "B": "T 狀態（T state）",
+      "C": "A 形態（A form）",
+      "D": "Z 形態（Z form）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 77 題",
+    "question": "下列那一種維生素需要膽汁幫助吸收？",
+    "options": {
+      "A": "vitamin A",
+      "B": "vitamin B6",
+      "C": "vitamin B12",
+      "D": "vitamin C"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 78 題",
+    "question": "關於人類基因組的描述，下列何者錯誤？",
+    "options": {
+      "A": "人類基因組中，大部分基因被非編碼的內含子（intron）打斷，因而呈現不連續性",
+      "B": "人類基因組中，超過40%的DNA 負責編碼蛋白質",
+      "C": "人類基因組中約有一半由轉座子（transposon）組成",
+      "D": "真核生物染色體中的著絲粒（有絲分裂紡錘體的附著點）和端粒（位於染色體末端）是具有特殊功能的重複 DNA 序列"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 79 題",
+    "question": "化療藥物5-fluorouracil 經酵素作用轉化成5-fluoro-2'-deoxyuridine 5'-monophosphate（FdUMP），會 與下列何種酵素結合抑制DNA 合成？",
+    "options": {
+      "A": "黃嘌呤氧化酶（xanthine oxidase）",
+      "B": "胺基甲醯磷酸合成酶Ⅱ（carbamoyl phosphate synthase Ⅱ）",
+      "C": "腺苷脫胺酶（adenosine deaminase）",
+      "D": "胸苷酸合成酶（thymidylate synthase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 80 題",
+    "question": "在抗體輕鏈（light chain）的生成過程中，V 區與J 區的重組以及J 區與C 區的重組分別是在那個層面上進 行？",
+    "options": {
+      "A": "DNA；DNA",
+      "B": "DNA；RNA",
+      "C": "DNA；蛋白質",
+      "D": "RNA；RNA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 81 題",
+    "question": "愛滋病毒的基因體能夠快速變異，主要是因為病毒的何種特性？",
+    "options": {
+      "A": "隨機插入人類染色體",
+      "B": "帶有特殊的DNA 水解酵素",
+      "C": "反轉錄酶合成DNA 的精準度（fidelity）不佳",
+      "D": "蛋白質水解酶無法精準切割合成的病毒蛋白"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 82 題",
+    "question": "在錯誤配對修復（mismatch repair）過程中，大腸桿菌是利用何種機制來標記模板股DNA，以作為DNA 修復 辨識？",
+    "options": {
+      "A": "將胸腺嘧啶（thymine）上的甲基移除",
+      "B": "在尿嘧啶（uracil）上進行甲基化，轉變成胸腺嘧啶（thymine）",
+      "C": "在腺嘌呤（adenine）上進行甲基化",
+      "D": "在胞嘧啶（cytosine）上進行甲基化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 83 題",
+    "question": "假設在某種胺醯-tRNA 合成酶（aminoacyl-tRNA synthetase）基因發生突變時，雖不影響其催化活性，但對 其識別tRNA 分子的專一性降低。這種突變最可能導致下列何種後果？",
+    "options": {
+      "A": "蛋白質合成效率增加，因為tRNA 分子可以攜帶多種胺基酸",
+      "B": "蛋白質合成解碼過程中錯誤增加，導致功能異常的蛋白質產生",
+      "C": "蛋白質合成停止，因為胺醯-tRNA 合成酶無法連接任何胺基酸到tRNA",
+      "D": "核糖體無法識別突變tRNA，導致tRNA 分子無法進入核糖體的A 位點，阻止轉譯進行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 84 題",
+    "question": "下列何者不是真核細胞RNA 聚合酶Ⅱ之TFⅡH 次單元所具有的生理功能？",
+    "options": {
+      "A": "三磷酸腺苷的水解（ATP hydrolysis）",
+      "B": "轉錄前起始複合體的形成",
+      "C": "具有去氧核糖核酸解旋酶（helicase）與激酶（kinase）的活性",
+      "D": "轉錄作用的終止"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 85 題",
+    "question": "原核生物中，調控基因表現的操縱組（operon）其中操作子（operator）序列主要是由下列何種分子進行結 合？",
+    "options": {
+      "A": "suppressor tRNA",
+      "B": "miRNA",
+      "C": "inducer",
+      "D": "repressor"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 86 題",
+    "question": "關於細菌色胺酸操縱組（trp operon）調控方式的敘述，下列何者最適當？",
+    "options": {
+      "A": "前導胜肽是一種催化轉錄衰減（transcription attenuation）的酵素",
+      "B": "當色胺酸（tryptophan）水平較低時，trp operon 之轉錄作用在其結構基因被轉錄之前便衰減 （attenuation）",
+      "C": "前導胜肽在催化轉錄衰減（transcription attenuation）作用中，會直接和核糖核酸聚合酶結合並限制其 移動",
+      "D": "編碼前導胜肽的序列中包含的色胺酸密碼子會使得trp operon 的轉錄活性受到細胞中色胺酸 （tryptophan）的含量所調控"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 87 題",
+    "question": "下列何種代謝物其磷酸根，只經人體細胞一個代謝反應後，就可直接製造出ATP？",
+    "options": {
+      "A": "甘油磷酸（glycerol-3-phosphate）",
+      "B": "6-磷酸葡萄糖酸內酯（6-phosphogluconolactone）",
+      "C": "果糖1,6-雙磷酸（fructose 1,6-bisphosphate）",
+      "D": "1,3-雙磷酸甘油酸（1,3-bisphosphoglycerate）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 88 題",
+    "question": "下列何者為結構型多醣（structural polysaccharide）而非儲存型多醣（storage polysaccharide）？",
+    "options": {
+      "A": "cellulose",
+      "B": "amylose",
+      "C": "amylopectin",
+      "D": "glycogen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 89 題",
+    "question": "細胞膜上包含甘油（glycerol）架構的複合性脂質為：",
+    "options": {
+      "A": "膽固醇（cholesterol）",
+      "B": "磷脂膽鹼（phosphatidylcholine）",
+      "C": "神經醯胺（ceramide）",
+      "D": "神經鞘磷脂（sphingomyelin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 90 題",
+    "question": "NADPH 為脂質合成中提供還原能的重要來源，合成1 莫耳palmitate 需要幾莫耳的NADPH？",
+    "options": {
+      "A": "7",
+      "B": "14",
+      "C": "16",
+      "D": "21"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 91 題",
+    "question": "關於血糖高低與脂質氧化代謝的調控機制，何者正確？",
+    "options": {
+      "A": "血糖低時，升糖素血中濃度上升，減少脂肪酸進入粒線體進行氧化",
+      "B": "血糖高時，升糖素血中濃度上升，減少脂肪酸進入粒線體進行氧化",
+      "C": "血糖高時，胰島素血中濃度上升，減少脂肪酸進入粒線體進行氧化",
+      "D": "血糖低時，胰島素血中濃度上升，增加脂肪酸進入粒線體進行氧化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 92 題",
+    "question": "在人體尿素代謝循環（urea cycle）過程中，下列何者論述最適切？",
+    "options": {
+      "A": "麩胺酸（glutamate）釋放出氨離子（NH4 +）的代謝作用發生在肝臟粒線體（mitochondria）中，尿素 （urea）的產生是在肝臟細胞質（cytosol）中進行",
+      "B": "麩胺酸（glutamate）釋放出氨離子（NH4 +）的代謝作用發生在肝臟過氧化體（peroxisome）中，尿素 （urea）的產生是在肝臟的粒線體（mitochondria）中進行",
+      "C": "麩胺酸（glutamate）釋放出氨離子（NH4 +）和尿素（urea）產生的一連串代謝作用均在肝臟的粒線體 （mitochondria）中進行。製造出的尿素（urea），主要經由囊泡（vesicle）運送機制至細胞外",
+      "D": "麩胺酸（glutamate）釋放出氨離子（NH4 +）和尿素（urea）產生的分解作用，一連串的代謝作用均在肝臟的 過氧化體（peroxisome）中進行。製造出的尿素（urea），須經由內質網（endoplasmic reticulum）和囊 泡（vesicle）共同運送機制至細胞外"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 93 題",
+    "question": "糖尿病患者或在飢餓狀態時會利用下列何種生酮胺基酸（ketogenic amino acid）代謝產生能量提供使用？",
+    "options": {
+      "A": "白胺酸（leucine）",
+      "B": "精胺酸（arginine）",
+      "C": "脯胺酸（proline）",
+      "D": "麩胺酸（glutamate）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 94 題",
+    "question": "參與粒線體呼吸鏈（或稱電子傳遞鏈）的蛋白質複合體在傳遞電子的同時，也同時扮演氫離子幫浦 （hydrogen pump）的角色。下列敘述何者正確？",
+    "options": {
+      "A": "complex Ⅰ會將4 個氫離子移轉到粒線體基質（matrix）",
+      "B": "complex Ⅲ會將4 個氫離子移轉到粒線體基質（matrix）",
+      "C": "complex Ⅲ會將4 個氫離子移轉到粒線體膜間腔（intermembrane space）",
+      "D": "complex Ⅳ會將4 個氫離子移轉到粒線體膜間腔（intermembrane space）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 95 題",
+    "question": "關於胰島素（insulin）訊息如何活化肝臟細胞的肝醣合成酶（glycogen synthase, GS）的活性，下列描述 何者最合理？",
+    "options": {
+      "A": "造成肝醣合成激酶3（glycogen synthase kinase 3, GSK3）去磷酸化，提高GSK3 激酶活性，活化GS",
+      "B": "造成肝醣合成激酶3（glycogen synthase kinase 3, GSK3）磷酸化，提高GSK3 激酶活性，活化GS",
+      "C": "造成肝醣合成激酶3（glycogen synthase kinase 3, GSK3）去磷酸化，抑制GSK3 激酶活性，活化GS",
+      "D": "造成肝醣合成激酶3（glycogen synthase kinase 3, GSK3）磷酸化，抑制GSK3 激酶活性，活化GS"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 96 題",
+    "question": "下列有關蛋白激酶A（protein kinase A）活化的描述，何者正確？",
+    "options": {
+      "A": "需要cAMP 結合其R 次單元",
+      "B": "需要cAMP 結合其C 次單元",
+      "C": "需要鈣離子結合其R 次單元",
+      "D": "需要鈣離子結合其C 次單元"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 97 題",
+    "question": "Phosphoinositide 3-kinase（PI3K）主要以磷酸化細胞膜上的那一個分子來傳遞訊息？",
+    "options": {
+      "A": "Ras",
+      "B": "PKC",
+      "C": "PIP2",
+      "D": "PKB"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 98 題",
+    "question": "研究人員需要選殖（cloning）大片段的DNA 進行相關研究時，下列載體（cloning vector）何者可以承載最 大的DNA 片段？",
+    "options": {
+      "A": "pBR322 質體（pBR322 plasmid）",
+      "B": "酵母菌人工染色體（yeast artificial chromosome, YAC）",
+      "C": "噬菌體載體（phage vector）",
+      "D": "細菌人工染色體（bacterial artificial chromosome, BAC）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 99 題",
+    "question": "在哺乳動物細胞中，RNA 干擾作用（RNA interference, RNAi）是由小干擾RNA（small interfering RNA,  siRNA）所誘發，siRNA 一般由幾個核苷酸組成？",
+    "options": {
+      "A": "11～13",
+      "B": "21～23",
+      "C": "31～33",
+      "D": "41～43"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 100 題",
+    "question": "下列何種分析方法一般不適用於分析蛋白質與蛋白質之間的交互作用？",
+    "options": {
+      "A": "串接親和共純化（tandem affinity purification）",
+      "B": "免疫共沉澱法（co-immunoprecipitation）",
+      "C": "免疫組織化學染色法（immunohistochemical staining）",
+      "D": "酵母菌雙雜交測定（yeast two-hybrid assay）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]

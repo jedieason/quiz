@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 74 題",
+    "question": "我們可以利用波長280 nm的吸光值來決定蛋白質樣品的濃度，此定量分析法的原理主要基於蛋白質中何種胺 基酸的吸光特性？",
+    "options": {
+      "A": "絲胺酸（serine）",
+      "B": "羥丁胺酸（threonine）",
+      "C": "色胺酸（tryptophan）",
+      "D": "纈胺酸（valine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 75 題",
+    "question": "在一個酵素催化反應中，酵素改變的是原化學反應的：",
+    "options": {
+      "A": "平衡常數（equilibrium constant）",
+      "B": "速率常數（rate constant）",
+      "C": "反應物和產物之間的自由能差（free energy difference）",
+      "D": "產物的化學結構"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 76 題",
+    "question": "一個Michaelis-Menten酵素催化反應加入抑制劑後，反應速率和受質濃度關係以雙倒數法作圖（Lineweaver- Burk plot），若所得直線與未加抑制劑所得之直線相交於y-軸（如附圖），則此種抑制劑的抑制型態為何？",
+    "options": {
+      "A": "競爭性抑制劑（competitive inhibitor）",
+      "B": "非競爭性抑制劑（uncompetitive inhibitor）",
+      "C": "混合性抑制劑（mixed inhibitor）",
+      "D": "不可逆抑制劑（irreversible inhibitor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 77 題",
+    "question": "脂溶性vitamin A具有多種型式及功能，下列敘述何者錯誤？",
+    "options": {
+      "A": "Retinoic acid作為hormone，可與細胞核內receptor proteins結合",
+      "B": "β-carotene具有多個isoprene units，是vitamin A1的前驅物",
+      "C": "all-trans-retinal與rhodopsin結合，經由可見光的激發，形成11-cis-retinal",
+      "D": "11-cis-retinal與opsin上的lysine形成共價鍵結"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 78 題",
+    "question": "葡萄糖代謝產生之丙酮酸（pyruvate）可經由乳酸去氫酶（lactate dehydrogenase）轉換成乳酸，下列何者是此 反應所需的輔酶？",
+    "options": {
+      "A": "FADH2",
+      "B": "tetrahydrofolate",
+      "C": "NADH",
+      "D": "ascorbic acid"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 79 題",
+    "question": "DNA聚合酶催化之合成反應係連接第n+1個與第n個核苷酸二者之五碳糖（pentose）上的何種官能基？",
+    "options": {
+      "A": "n+1：第三號碳的羥基（-OH）；n：第五號碳的磷酸基團",
+      "B": "n+1：第五號碳的羥基（-OH）；n：第三號碳的磷酸基團",
+      "C": "n+1：第三號碳的磷酸基團；n：第五號碳的羥基（-OH）",
+      "D": "n+1：第五號碳的磷酸基團；n：第三號碳的羥基（-OH）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 80 題",
+    "question": "AZT（3'-azido-2',3'-dideoxythymidine）是用來治療人類免疫缺乏病毒（HIV）感染的藥物，此藥物的作用機制 主要經由：",
+    "options": {
+      "A": "抑制反轉錄酶活性",
+      "B": "阻止核苷酸的生合成",
+      "C": "阻擋ATP的生成",
+      "D": "抑制RNA聚合酶活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 81 題",
+    "question": "大腸桿菌進行同源性重組（homologous recombination）時，借助下列何種蛋白質活性來解開雙股螺旋並水解 部分DNA？ [圖片]",
+    "options": {
+      "A": "DNA ligase",
+      "B": "RuvC",
+      "C": "RecA",
+      "D": "RecBCD"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 82 題",
+    "question": "大腸桿菌DNA複製過程中，DnaB解螺旋酶（DnaB helicase）會結合於A上，朝B方向行進，解開雙股DNA。 前述A與B分別代表下列何者？",
+    "options": {
+      "A": "A：前進股（leading strand）；B：5’→ 3’",
+      "B": "A：前進股（leading strand）；B：3’→ 5’",
+      "C": "A：延遲股（lagging strand）；B：5’→ 3’",
+      "D": "A：延遲股（lagging strand）；B：3’→ 5’"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 83 題",
+    "question": "原核細胞中的操縱子（operator）通常會與下列何者結合？",
+    "options": {
+      "A": "衰減子（attenuator）",
+      "B": "誘導子（inducer）",
+      "C": "啟動子（promoter）",
+      "D": "抑制子（repressor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 84 題",
+    "question": "蛋白質轉譯框移（translational framshifting）最可能發生於轉譯過程的那個階段？",
+    "options": {
+      "A": "轉譯起始（translation initiation）",
+      "B": "轉譯延長（translation elongation）",
+      "C": "轉譯中止（translation termination）",
+      "D": "核糖體回收再利用（ribosome recycling）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 85 題",
+    "question": "在原核生物組裝完成的蛋白質轉譯起始複合物（translation initiation complex）中，起始轉運核糖核酸 （initiator tRNA）位於下列那一個位置？",
+    "options": {
+      "A": "site]",
+      "B": "P 位 [peptidyl (P) site]",
+      "C": "E 位 [exit (E) site]",
+      "D": "信使核糖核酸進入通道（mRNA entry tunnel）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 86 題",
+    "question": "下列何者是擺動假說（wobble hypothesis）的特點？（密碼子與反密碼子均由5' 端開始算）",
+    "options": {
+      "A": "tRNA的反密碼子第一個鹼基可與多種密碼子的第一個鹼基形成配對",
+      "B": "tRNA的反密碼子第三個鹼基可與多種密碼子的第一個鹼基形成配對",
+      "C": "tRNA的反密碼子第一個鹼基可與多種密碼子的第三個鹼基形成配對",
+      "D": "密碼子的第三個鹼基一般是以華生－克里克（Watson-Crick）模式配對"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 87 題",
+    "question": "Pyruvate dehydrogenase（PDH）為催化pyruvate轉化為acetyl-CoA進入克氏循環（Krebs cycle或稱TCA cycle） 的重要酵素。下列何者不是PDH會用到的co-factor？",
+    "options": {
+      "A": "flavin adenine dinucleotide（FAD）",
+      "B": "Lipoamide",
+      "C": "thiamine pyrophosphate（TPP）",
+      "D": "pyridoxal phosphate（PLP）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 88 題",
+    "question": "下列有關克氏循環（Krebs cycle或稱TCA cycle）的步驟中，那一個酵素所催化的步驟在正常生理條件下為不 可逆反應？",
+    "options": {
+      "A": "aconitase",
+      "B": "fumarase",
+      "C": "citrate synthase",
+      "D": "succinyl-CoA synthetase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 89 題",
+    "question": "Glycogen phosphorylase（GP）是控制肝醣降解之重要酵素，存在活性較高的R state與活性較低的T state，下 列關於glycogen phosphorylase之敘述，何者錯誤？",
+    "options": {
+      "A": "glycogen phosphorylase會將肝醣降解成glucose-6-phosphate",
+      "B": "glucose-6-phosphate會使平衡趨向於活性低的T state",
+      "C": "AMP會使平衡趨向於活性高的R state",
+      "D": "當glycogen phosphorylase被 phosphorylase b kinase磷酸化時，較容易處於R state"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 90 題",
+    "question": "人體下列何組織較不會以酮體（ketone bodies）作為能量的來源？",
+    "options": {
+      "A": "心臟",
+      "B": "腦",
+      "C": "肌肉組織",
+      "D": "肝臟"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 91 題",
+    "question": "下列何種穿膜運輸作用是利用他種離子梯度當作能量來源？",
+    "options": {
+      "A": "促進性擴散（facilitated diffusion）",
+      "B": "被動運輸（passive transport）",
+      "C": "初級主動運輸（primary active transport）",
+      "D": "次級主動運輸（secondary active transport）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 92 題",
+    "question": "Statins是用來治療家族性高膽固醇血症（familial hypercholesterolemia）的常用藥物，這類藥物主要是藉由抑 制那一種酵素活性，進而降低細胞內膽固醇的合成？",
+    "options": {
+      "A": "β-hydroxy-β-methylglutaryl-CoA（HMG-CoA）synthase",
+      "B": "β-hydroxy-β-methylglutaryl-CoA（HMG-CoA）lyase",
+      "C": "β-hydroxy-β-methylglutaryl-CoA（HMG-CoA）reductase",
+      "D": "β-hydroxy-β-methylglutaryl-CoA（HMG-CoA）isomerase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 93 題",
+    "question": "下列何種胺基酸可作為基質（substrate）參與尿素（urea）、嘌呤（purine）或嘧啶（pyrimidine）的合成？",
+    "options": {
+      "A": "甲硫胺酸（methionine）",
+      "B": "離胺酸（lysine）",
+      "C": "天門冬胺酸（aspartate）",
+      "D": "脯胺酸（proline）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 94 題",
+    "question": "下列何者為三胜肽（tripeptide）？",
+    "options": {
+      "A": "阿斯巴甜（aspartame）",
+      "B": "血清素（serotonin）",
+      "C": "血基質（heme）",
+      "D": "穀胱甘肽（glutathione）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 95 題",
+    "question": "參與電子傳遞鏈（electron transport chain）有四種蛋白質複合體，下列那一組複合體均具有氫離子幫浦 （proton pump）的活性？",
+    "options": {
+      "A": "complexes I, II, III",
+      "B": "complexes I, II, IV",
+      "C": "complexes I, III, IV",
+      "D": "complexes II, III, IV"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 96 題",
+    "question": "下列關於一氧化氮（nitric oxide）的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種自由基（free radical），可自由擴散通過細胞膜",
+      "B": "是一種神經傳導物質（neurotransmitter）",
+      "C": "它的生合成之前驅物是麩胺醯胺（glutamine）",
+      "D": "在細胞質中它能夠與鳥苷酸環化酶（guanylyl cyclase）結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 97 題",
+    "question": "致癌基因ras的突變，若造成Ras蛋白質持續處於下列何種狀態時，將最有可能造成腫瘤產生？",
+    "options": {
+      "A": "GTP-bound的被活化狀態",
+      "B": "GDP-bound的去活化狀態",
+      "C": "ATP-bound的被活化狀態",
+      "D": "ADP-bound的去活化狀態"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 98 題",
+    "question": "乳癌的病患有時會利用tamoxifen（一種激素拮抗劑）來做為輔助治療。下列有關此藥劑之敘述，何者正確？",
+    "options": {
+      "A": "tamoxifen是一種男性激素的專一拮抗劑（antagonist）",
+      "B": "對雌激素受體呈陰性的乳癌患者效果較好",
+      "C": "必須經由癌細胞表面之受器（receptor）進入細胞",
+      "D": "進入細胞後，與雌激素受器結合，影響雌激素調控之基因表達"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 99 題",
+    "question": "下列那一個載體最有可能用於人類疾病之基因治療（gene therapy）？",
+    "options": {
+      "A": "酵母菌（yeast）",
+      "B": "人造細菌染色體（bacterial artificial chromosome）",
+      "C": "腺病毒（adenovirus）",
+      "D": "噬菌體（bacteriophage）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 100 題",
+    "question": "下列那一個反轉錄病毒基因體的元素（element）會重複出現在其染色體嵌入的位點？",
+    "options": {
+      "A": "末端長重複序列（long terminal repeat sequences）",
+      "B": "gag gene",
+      "C": "pol gene",
+      "D": "env gene"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

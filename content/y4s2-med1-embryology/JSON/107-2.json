@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 32 題",
+    "question": "下列何者不是由內細胞團（inner cell mass）衍生而成？",
+    "options": {
+      "A": "滋養層（trophoblast）",
+      "B": "卵黃囊（yolk sac）",
+      "C": "接合莖（connecting stalk）",
+      "D": "羊膜（amnion）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 33 題",
+    "question": "下列何者參與形成初始橫膈（primordial diaphragm），在早期胎兒橫膈（early fetal diaphragm）時占大部 分，而在新生嬰兒之橫膈（neonate's diaphragm）只佔相當小的部分？",
+    "options": {
+      "A": "胸腹膜（pleuroperitoneal membrane）",
+      "B": "橫中隔（septum transversum）",
+      "C": "食道繫膜（mesoesophagus）",
+      "D": "原始縱隔（primitive mediastinum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 34 題",
+    "question": "下列何者是下呼吸道（lower respiratory tract）最常見的先天異常（the most common birth defect）？",
+    "options": {
+      "A": "喉閉鎖（laryngeal atresia）",
+      "B": "氣管食道瘻管（tracheoesophageal fistula）",
+      "C": "喉氣管食道裂（laryngotracheoesophageal cleft）",
+      "D": "氣管狹窄（tracheal stenosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 35 題",
+    "question": "輸尿管（ureter）的胚胎起源為何？",
+    "options": {
+      "A": "後腎中胚層（metanephric mesoderm）",
+      "B": "原腎（pronephros）",
+      "C": "中腎（mesonephros）",
+      "D": "後腎憩室（metanephric diverticulum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 36 題",
+    "question": "腦部發育過程中，下列何者不是衍生自翼板（alar plate）？",
+    "options": {
+      "A": "橄欖核（olivary nucleus）",
+      "B": "楔核（cuneate nucleus）",
+      "C": "紅核（red nucleus）",
+      "D": "下丘（inferior colliculus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 33 題",
+    "question": "在表皮（epidermis）中，含量最多的細胞是：",
+    "options": {
+      "A": "黑色素細胞（melanocytes）",
+      "B": "角質細胞（keratinocytes）",
+      "C": "蘭氏細胞（Langerhans cells）",
+      "D": "默氏細胞（Merkel cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 34 題",
+    "question": "下列那一種組織結構不被外淋巴液（perilymph）所包圍？",
+    "options": {
+      "A": "橢圓囊（utricle）",
+      "B": "耳蝸管（cochlea duct）",
+      "C": "鎚骨（malleus）",
+      "D": "球囊（saccule）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 35 題",
+    "question": "有關腦下垂體細胞（pituicytes），下列敘述何項正確？",
+    "options": {
+      "A": "此細胞位於腦下垂體前葉（pars distalis）",
+      "B": "此細胞分泌催產素（oxytocin）與抗利尿激素（ADH/vasopressin）",
+      "C": "此細胞具有Herring 小體（Herring bodies）",
+      "D": "此細胞屬神經膠細胞（neuroglial cell）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 36 題",
+    "question": "下列何者不與肝血竇（hepatic sinusoids）直接相通？",
+    "options": {
+      "A": "門小靜脈（portal venule）",
+      "B": "中央靜脈（central vein）",
+      "C": "葉下靜脈（sublobular vein）",
+      "D": "肝小動脈（hepatic arteriole）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 37 題",
+    "question": "下 列 何種細胞的分 泌顆粒含溶菌酶（lysozyme）？",
+    "options": {
+      "A": "潘氏細胞（Paneth cells）",
+      "B": "杯狀細胞（goblet cells）",
+      "C": "腸內分泌細胞（enteroendocrine cells）",
+      "D": "黏液分泌細胞（mucus-secreting cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 38 題",
+    "question": "中樞神經系統內，具有吞噬能力的細胞是：",
+    "options": {
+      "A": "原生質性星狀膠細胞（protoplasmic astrocyte）",
+      "B": "纖維性星狀膠細胞（fibrous astrocyte）",
+      "C": "寡突膠細胞（oligodendrocyte）",
+      "D": "微膠細胞（microglia）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 39 題",
+    "question": "對於「胸腺（thymus）」之敘述，下列何者正確？",
+    "options": {
+      "A": "同時具有輸入和輸出淋巴管",
+      "B": "是T-淋巴球（T-lymphocyte）成熟位置",
+      "C": "主要功能為過濾淋巴液",
+      "D": "老年人具發達之胸腺"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 40 題",
+    "question": "鍍銀法（silver impregnation）可將下列何種纖維染成黑色？",
+    "options": {
+      "A": "網狀纖維",
+      "B": "彈性纖維",
+      "C": "骨骼肌纖維",
+      "D": "膠原纖維"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 41 題",
+    "question": "下列何段空氣通道變窄是肺氣腫（emphysema）之特徵？",
+    "options": {
+      "A": "氣管（trachea）",
+      "B": "支氣管（bronchus）",
+      "C": "細支氣管（bronchioles）",
+      "D": "肺泡囊（alveolar sac）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

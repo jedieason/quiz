@@ -1,0 +1,343 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 1 題",
+    "question": "左側中大腦動脈（middle cerebral artery）阻塞，最可能造成下列何種症狀？",
+    "options": {
+      "A": "左視野缺失",
+      "B": "右下肢感覺喪失",
+      "C": "右下肢無力",
+      "D": "失語症"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 2 題",
+    "question": "下列何者不屬於大腦白質的聯合纖維（association fiber）？",
+    "options": {
+      "A": "弓狀束（arcuate fasciculus）",
+      "B": "扣帶（cingulum）",
+      "C": "胼胝體（corpus callosum）",
+      "D": "鈎束（uncinate fasciculus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 3 題",
+    "question": "下列有關下行路徑之敘述，何者錯誤？",
+    "options": {
+      "A": "外側皮質脊髓徑（lateral corticospinal tract）可調控下運動神經元（lower motor neuron）",
+      "B": "raphespinal tract 可調控痛覺",
+      "C": "前庭脊髓徑（vestibulospinal tract）控制手指精細運動",
+      "D": "下視丘脊髓徑（hypothalmospinal tract）調控自主神經系統"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 4 題",
+    "question": "支配耳下腺（parotid gland）的副交感神經節前神經細胞體位於：",
+    "options": {
+      "A": "上唾液核（superior salivatory nucleus）",
+      "B": "下唾液核（inferior salivatory nucleus）",
+      "C": "疑核（nucleus ambiguus）",
+      "D": "三叉神經脊髓徑核（spinal trigeminal nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 5 題",
+    "question": "下列有關角膜上皮（corneal epithelium）的敘述，何者錯誤？",
+    "options": {
+      "A": "具有少許血管",
+      "B": "具有少許神經纖維",
+      "C": "不會角質化（keratinize）",
+      "D": "來自外胚層"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 6 題",
+    "question": "有關在膈神經（phrenic nerve）頸根處相關位置的敘述，何者正確？",
+    "options": {
+      "A": "位於鎖骨下靜脈（subclavian vein）的前方",
+      "B": "走在前斜角肌（anterior scalene muscle）的前面",
+      "C": "位於總頸動脈（common carotid artery）的內側",
+      "D": "走在臂神經叢（brachial plexus）的後面"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 7 題",
+    "question": "甲狀腺術後聲音嘶啞（hoarseness），下列何者最可能受傷？",
+    "options": {
+      "A": "膈神經（phrenic nerve）",
+      "B": "喉返神經（recurrent laryngeal nerve）",
+      "C": "舌神經（lingual nerve）",
+      "D": "舌下神經（hypoglossal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 8 題",
+    "question": "後顱窩大腦鐮（falx cerebri）的感覺神經來自：",
+    "options": {
+      "A": "三叉神經眼支（ophthalmic division of trigeminal nerve）",
+      "B": "三叉神經上頜支（maxillary division of trigeminal nerve）",
+      "C": "三叉神經下頜支（mandibular division of trigeminal nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 9 題",
+    "question": "下列何者不傳遞鼻腔黏膜的感覺訊息？",
+    "options": {
+      "A": "篩前神經（anterior ethmoidal nerve）",
+      "B": "腭小神經（lesser palatine nerve）",
+      "C": "鼻腭神經（nasopalatine nerve）",
+      "D": "腭大神經（greater palatine nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 10 題",
+    "question": "病患的左眼可以看向左方但無法同時上抬，下列何者最可能損傷？",
+    "options": {
+      "A": "左眼之上斜肌",
+      "B": "左眼之上直肌",
+      "C": "左眼之內直肌",
+      "D": "左眼之下斜肌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 11 題",
+    "question": "下列何者是負責張口的主要肌肉？",
+    "options": {
+      "A": "翼外肌（lateral pterygoid）",
+      "B": "顳肌（temporalis）",
+      "C": "嚼肌（masseter）",
+      "D": "顴大肌（zygomaticus major）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 12 題",
+    "question": "一般情況下，下列何者分支出心臟的斜角動脈（diagonal artery）？",
+    "options": {
+      "A": "右邊緣動脈（right marginal artery）",
+      "B": "左邊緣動脈（left marginal artery）",
+      "C": "前室間動脈（anterior interventricular artery）",
+      "D": "後室間動脈（posterior interventricular artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 13 題",
+    "question": "下列何者攜帶支配心包膜（pericardium）的感覺神經纖維？",
+    "options": {
+      "A": "肋間神經（intercostal nerve）",
+      "B": "膈神經（phrenic nerve）",
+      "C": "迷走神經（vagus nerve）",
+      "D": "交感神經幹（sympathetic trunk）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 14 題",
+    "question": "胃的那個部分突出於其食道入口處的上方？",
+    "options": {
+      "A": "胃體（body）",
+      "B": "胃底（fundus）",
+      "C": "賁門（cardia）",
+      "D": "幽門（pyloric antrum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 15 題",
+    "question": "下列有關腎上腺（adrenal gland）的動脈供應，何者正確？",
+    "options": {
+      "A": "完全由腎動脈（renal artery）的分支供應",
+      "B": "完全由腹主動脈（abdominal aorta）的分支供應",
+      "C": "完全由腎動脈（renal artery）與腹主動脈（abdominal aorta）的分支供應",
+      "D": "由腎動脈（renal artery）、腹主動脈（abdominal aorta）及膈下動脈（inferior phrenic artery）三者 的分支供應"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 16 題",
+    "question": "左卵巢靜脈匯入：",
+    "options": {
+      "A": "下腔靜脈（inferior vena cava）",
+      "B": "左腎靜脈（left renal vein）",
+      "C": "左子宮靜脈（left uterine vein）",
+      "D": "左髂內靜脈（left internal iliac vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 17 題",
+    "question": "下列何者不直接與子宮相連？",
+    "options": {
+      "A": "闊韌帶（broad ligament）",
+      "B": "懸韌帶（suspensory ligament of ovary）",
+      "C": "卵巢韌帶（ligament of ovary）",
+      "D": "子宮圓韌帶（round ligament of uterus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 18 題",
+    "question": "前列腺管（prostatic duct）開口於下列何處？",
+    "options": {
+      "A": "前列腺竇（prostatic sinus）",
+      "B": "尿道脊（urethral crest）",
+      "C": "膜性尿道（membranous urethra）",
+      "D": "精阜（seminal colliculus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 19 題",
+    "question": "下列何者不是骨骼肌？",
+    "options": {
+      "A": "肉膜肌（dartos muscle）",
+      "B": "梨狀肌（piriformis）",
+      "C": "提睪肌（cremasteric muscle）",
+      "D": "尿道外括約肌（external urethral sphincter）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 20 題",
+    "question": "下列何者不支配陰囊（scrotum）？",
+    "options": {
+      "A": "閉孔神經（obturator nerve）",
+      "B": "股後側皮神經（posterior femoral cutaneous nerve）",
+      "C": "陰部神經（pudendal nerve）",
+      "D": "髂腹股溝神經（ilioinguinal nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 21 題",
+    "question": "下列何者受傷，最不可能影響肌肉收縮？",
+    "options": {
+      "A": "腓深神經（deep peroneal nerve）",
+      "B": "腓淺神經（superficial peroneal nerve）",
+      "C": "閉孔神經（obturator nerve）",
+      "D": "隱神經（saphenous nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 22 題",
+    "question": "下列何者最不適合作為下肢表面解剖學的標記？",
+    "options": {
+      "A": "脛骨粗隆（tibial tuberosity）",
+      "B": "脛骨內髁（medial malleolus）",
+      "C": "腓骨外髁（lateral malleolus）",
+      "D": "腓骨骨幹外側的中間1/3"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 23 題",
+    "question": "臀部肌肉注射時，外上四分之一象限（upper lateral quadrant）是安全部位，下列何者位於此部位？",
+    "options": {
+      "A": "股四方肌（quadratus femoris）",
+      "B": "臀中肌（gluteus medius）",
+      "C": "闊筋膜張肌（tensor fasciae latae）",
+      "D": "髂腰肌（iliopsoas）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 24 題",
+    "question": "下列何者起自肩胛骨的喙突（coracoid process of scapula）？",
+    "options": {
+      "A": "肱二頭肌長頭（long head of biceps brachii）",
+      "B": "肱二頭肌短頭（short head of biceps brachii）",
+      "C": "肱三頭肌長頭（long head of triceps brachii）",
+      "D": "肱三頭肌內側頭（medial head of triceps brachii）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 25 題",
+    "question": "下列何者受損會導致手部拇指（thumb）無法做對掌（opposition）的動作？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 26 題",
+    "question": "下列有關人體脊柱（vertebral column）的彎曲，何者正確？",
+    "options": {
+      "A": "頸部與胸部向前凸",
+      "B": "頸部與腰部向前凸",
+      "C": "胸部與薦部向前凸",
+      "D": "腰部與薦部向後凸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 27 題",
+    "question": "下列何者走過枕下三角（suboccipital triangle）？",
+    "options": {
+      "A": "枕動脈（occipital artery）",
+      "B": "椎動脈（vertebral artery）",
+      "C": "脊髓後動脈（posterior spinal artery）",
+      "D": "耳後動脈（posterior auricular artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 28 題",
+    "question": "兩眼外側（顳側）視野有缺損（bitemporal hemianopia），最可能的病灶位置是在：",
+    "options": {
+      "A": "視網膜",
+      "B": "視神經",
+      "C": "視交叉",
+      "D": "視覺皮質"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

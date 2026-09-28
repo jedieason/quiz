@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 74 題",
+    "question": "下列那一種胺基酸最有可能在蛋白質結構中參與順式胜肽鍵（cis peptide bond）的形成？",
+    "options": {
+      "A": "組胺酸（histidine）",
+      "B": "丙胺酸（alanine）",
+      "C": "脯胺酸（proline）",
+      "D": "甘胺酸（glycine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 75 題",
+    "question": "下列何者為形成蛋白質二級結構（如α-螺旋）的最主要原因？",
+    "options": {
+      "A": "疏水性（hydrophobic）交互作用",
+      "B": "靜電作用",
+      "C": "分子內氫鍵（hydrogen bond）",
+      "D": "兩條α-螺旋鏈之間的雙硫鍵（disulfide bond）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 76 題",
+    "question": "以凝膠電泳法（gel electrophoresis）分離蛋白質時，加入SDS（sodium dodecyl sulfate）的目的為何？",
+    "options": {
+      "A": "用以決定一個蛋白質的等電點（isoelectric point）",
+      "B": "用以決定一個蛋白質的特異活性（specific activity）",
+      "C": "用以保護蛋白質的生物結構和活性",
+      "D": "用以決定蛋白質分子量"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 77 題",
+    "question": "懷孕前期常需補充葉酸（folic acid），下列有關葉酸的敘述，何者錯誤？",
+    "options": {
+      "A": "葉酸參與核苷酸deoxythymidine 5'-monophosphate（dTMP）的合成",
+      "B": "葉酸為構成輔酶A（coenzyme A）的基本元素之一",
+      "C": "四氫葉酸（H4 folate）為一種具有生物活性的葉酸型式",
+      "D": "四氫葉酸（H4 folate）是由6-methylpterin、p-aminobenzoate與glutamate所組成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 78 題",
+    "question": "下列關於鋅離子（zinc ion）的敘述，何者錯誤？",
+    "options": {
+      "A": "鋅離子可與leucine結合後形成leucine zipper，為RNA聚合酶的主要輔助因子",
+      "B": "味覺素（gustin）為含鋅離子的唾液蛋白質，缺乏時會抑制味蕾發育與味覺敏銳度",
+      "C": "鋅離子參與T細胞與單核球分泌細胞素（cytokines）的過程，缺乏時動物的免疫力會下降",
+      "D": "在鉛中毒中，鉛會取代δ-aminolevulinate dehydratase中的鋅離子，會抑制血基質（heme）的合成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 79 題",
+    "question": "遺傳性的orotic aciduria疾病會造成嚴重的貧血及生長障礙，病患可以攝取下列何種物質加以治療？",
+    "options": {
+      "A": "uridine",
+      "B": "thymine",
+      "C": "adenosine",
+      "D": "allopurinol"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 80 題",
+    "question": "下列關於戊糖磷酸途徑（pentose phosphate pathway）的敘述，何者錯誤？",
+    "options": {
+      "A": "產生NADPH供還原反應使用",
+      "B": "產物可轉換成ribose-5-phosphate供核苷酸合成使用",
+      "C": "反應中glucose-6-phosphate dehydrogenase缺乏會導致蠶豆症的發生",
+      "D": "該反應速率限制酵素（rate limiting enzyme）為6-phospho-gluco-lactonase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 81 題",
+    "question": "AZT（3'-azido-2',3'-dideoxythymidine）可用以治療human immunodeficiency virus（HIV）的感染，其作用 是：",
+    "options": {
+      "A": "病毒蛋白質水解酶（protease）的抑制劑",
+      "B": "DNA polymerase的競爭性抑制劑",
+      "C": "反轉錄酵素（reverse transcriptase）合成DNA鏈的終止者",
+      "D": "RNase H的抑制劑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 82 題",
+    "question": "下列有關V(D)J recombination的敘述，何者錯誤？",
+    "options": {
+      "A": "參與抗體多樣性的生成",
+      "B": "其反應機制與同源重組（homologous recombination）相似",
+      "C": "recombination activating gene 1（RAG1）參與作用",
+      "D": "recombination activating gene 2（RAG2）參與作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 83 題",
+    "question": "當原核生物之DNA受到大量損害進行DNA修補時，須生產修補（repair）相關之蛋白質，此時下列何種蛋白 質會被分解，以啟動修補蛋白質基因之轉錄？",
+    "options": {
+      "A": "RecA",
+      "B": "LexA",
+      "C": "UvrA",
+      "D": "Lac repressor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 84 題",
+    "question": "下列那一種抗生素（antibiotic）不會抑制細菌的蛋白質合成？",
+    "options": {
+      "A": "氨苄青黴素（ampicillin）",
+      "B": "鏈黴素（streptomycin）",
+      "C": "氯黴素（chloramphenicol）",
+      "D": "四環素（tetracycline）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 85 題",
+    "question": "下列那一種真核細胞調控蛋白質（eukaryotic regulatory proteins）會與增強子（enhancer）結合，以促進基 因轉錄？",
+    "options": {
+      "A": "轉錄活化子（transcription activators）",
+      "B": "輔活化子（coactivators）",
+      "C": "TATA-結合蛋白（TATA-binding proteins; TBP）",
+      "D": "基準轉錄因子（basal transcription factors）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 86 題",
+    "question": "遺傳密碼（codon）與反密碼（anticodon）的相互作用是經由那一種化學鍵相結合？",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "離子鍵（ionic bond）",
+      "C": "肽鍵（peptide bond）",
+      "D": "縮醛鍵（acetal bond）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 87 題",
+    "question": "在動物細胞內，下列何者為葡萄糖進行無氧糖解（anaerobic glycolysis）之淨產物？",
+    "options": {
+      "A": "ATP和pyruvate",
+      "B": "ATP和lactate",
+      "C": "NAD+和ethanol",
+      "D": "ATP和acetyl-CoA"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 88 題",
+    "question": "下列關於克式循環（Krebs cycle，亦稱citric acid cycle或TCA cycle）的敘述，何者正確？",
+    "options": {
+      "A": "在克式循環過程中，oxaloacetate淨消耗（net consumption）為零",
+      "B": "在克式循環過程中，不涉及受質階層磷酸化（substrate-level phosphorylation）",
+      "C": "一次的克式循環會產生一個分子的二氧化碳",
+      "D": "一次的克式循環會產生四個分子的FADH2"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 89 題",
+    "question": "D-glucose是還原糖（reducing sugar），其anomeric carbon可被氧化，下列何者為其氧化產物？",
+    "options": {
+      "A": "dextrose",
+      "B": "D-sorbitol",
+      "C": "D-gluconic acid",
+      "D": "D-glucuronic acid"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 90 題",
+    "question": "脂肪酸生合成之速率決定步驟（rate-limiting step）為：",
+    "options": {
+      "A": "從acetate合成acetyl-CoA",
+      "B": "acetyl-CoA與malonyl-CoA的縮合反應（condensation）",
+      "C": "acetyl-CoA carboxylase所催化合成malonyl-CoA的反應步驟",
+      "D": "使malonate轉變為malonyl-CoA的反應步驟"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 91 題",
+    "question": "心血管疾病的病人使用aspirin預防血栓發生，減少中風及心肌梗塞，下列敘述何者錯誤？",
+    "options": {
+      "A": "aspirin抑制cyclooxygenase",
+      "B": "可減少thromboxanes合成",
+      "C": "可減少prostaglandins合成",
+      "D": "可減少膽固醇的生合成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 92 題",
+    "question": "膜蛋白質最常以共價鍵結合下列何種脂質（lipid），而附著在細胞膜外層上？",
+    "options": {
+      "A": "硬脂酸（stearic acid）",
+      "B": "神經鞘氨醇（sphingosine）",
+      "C": "糖基化磷脂醯肌醇（glycosyl phosphatidylinositol; GPI）",
+      "D": "磷脂醯肌醇（phosphatidylinositol）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 93 題",
+    "question": "下列何者是細菌和植物合成芳香族胺基酸（aromatic amino acids）過程中，重要的中間產物？",
+    "options": {
+      "A": "purine",
+      "B": "chorismate",
+      "C": "pyrimidine",
+      "D": "p-aminobenzoic acid"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 94 題",
+    "question": "Glutathione在細胞內參與氧化還原反應，它是由那三種胺基酸所構成之三胜肽（tripeptide）?",
+    "options": {
+      "A": "methionine, glutamate, cysteine",
+      "B": "glutamate, cysteine, glycine",
+      "C": "alanine, methionine, glutamate",
+      "D": "arginine, aspartic acid, methionine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 95 題",
+    "question": "粒線體氧化磷酸化的過程所產生H2O2，可由下列那一種酵素去除？",
+    "options": {
+      "A": "glutathione reductase",
+      "B": "glutathione peroxidase",
+      "C": "superoxide dismutase",
+      "D": "pyruvate dehydrogenase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 96 題",
+    "question": "腫瘤缺氧時，缺氧性誘導轉錄因子（hypoxia inducible transcription factor-1, HIF-1）會被活化，下列相關敘 述何者錯誤？",
+    "options": {
+      "A": "HIF-1的活性可以被延胡索酸（fumarate）誘發",
+      "B": "HIF-1可以刺激糖解反應（glycolysis），讓腫瘤細胞可以在缺氧環境下存活",
+      "C": "HIF-1也會增加血管內皮細胞生長素（vascular endothelial growth factor, VEGF）表達，促進腫瘤血管新生",
+      "D": "HIF-1活化不會減少活性氧化物（reactive oxygen species, ROS）的形成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 97 題",
+    "question": "動物緊張時，血糖可能會升高，此生理反應包含一聯串的訊息傳遞過程，包括protein kinase A磷酸化，以致 於活化glycogenolysis，下列有關此訊息傳遞過程之敘述何者錯誤？",
+    "options": {
+      "A": "norepinephrine及epinephrine作用於細胞膜上受體",
+      "B": "受體直接活化Ras",
+      "C": "活化G protein，進而活化adenylyl cyclase",
+      "D": "增加cAMP，進而活化protein kinase A"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 98 題",
+    "question": "胰島素可經由MAP kinase cascade影響其調控基因的表現，參與的訊息傳遞分子依其作用之先後排序，下列 何者正確？",
+    "options": {
+      "A": "insulin receptor，IRS-1，Grb2-Sos，Ras-Raf-1，MEK，ERK",
+      "B": "insulin receptor，Ras-Raf-1，Grb2-Sos，ERK，IRS-1，MEK",
+      "C": "insulin receptor，Grb2-Sos，Ras-Raf-1，MEK，IRS-1，ERK",
+      "D": "insulin receptor，IRS-1，Grb2-Sos，Ras-Raf-1，ERK，MEK"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 99 題",
+    "question": "血中腎上腺素（epineprine）濃度上升時會抑制肝臟或肌肉的何種代謝作用？",
+    "options": {
+      "A": "肝臟的糖解作用（glycolysis）",
+      "B": "肌肉的糖解作用（glycolysis）",
+      "C": "肝臟的葡萄糖新生作用（gluconeogenesis）",
+      "D": "肌肉的肝糖分解作用（glycogenolysis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 100 題",
+    "question": "下列有關聚合酶鏈鎖反應（polymerase chain reaction; PCR）的敘述，何者錯誤？",
+    "options": {
+      "A": "擴大的DNA片段（amplified DNA fragments）是可以被選殖的",
+      "B": "同一組引子（primers）通常可以同時擴增多個基因體中的位點",
+      "C": "被擴增DNA片段的範圍（DNA boundaries）是取決於一對引子在DNA模板的相對位置",
+      "D": "一根毛髮上的毛囊（hair follicle）所萃取出的DNA就足夠為PCR的模板"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

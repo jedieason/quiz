@@ -1,0 +1,242 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 42 題",
+    "question": "有關肺炎鏈球菌（Streptococcus pneumoniae）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在血液培養盤上菌落周圍，呈現草綠色的溶血環",
+      "B": "具抗吞噬的能力的莢膜（capsule）是此菌重要的致病因子",
+      "C": "具group C多醣類，可與C-反應蛋白質（C-reactive protein, CRP）發生反應",
+      "D": "對奧普托辛（optochin）敏感，且可被膽汁溶解"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 43 題",
+    "question": "關於白喉棒狀桿菌（Corynebacterium diphtheriae）之敘述，下列何者正確？",
+    "options": {
+      "A": "為革蘭氏陰性桿菌",
+      "B": "其主要毒力因子為一種A-B 毒素",
+      "C": "貓、狗等動物為主要傳染源",
+      "D": "主要經由食物傳染"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 44 題",
+    "question": "有關脂多醣（lipopolysaccharides）內毒素（endotoxin）導致病人死亡的敘述，下列何者錯誤？",
+    "options": {
+      "A": "甲氧西林抗藥性金黃色葡萄球菌（Methicillin-Resistant Staphylococcus aureus）產生之內毒素是可能的禍首",
+      "B": "廣泛的血管內凝固（disseminated intravascular coagulation），可能是致死原因之一",
+      "C": "病人可能死於低血壓（hypotension）",
+      "D": "可引起發燒及休克，導致死亡"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 45 題",
+    "question": "有關使用抗生素所引起之偽膜性腸炎（pseudomembranous colitis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "常由艱難梭菌（Clostridium difficile）所引起",
+      "B": "非皆為外源性（exogenous）感染之疾病",
+      "C": "糞便移植（fecal transplantation）通常不具療效",
+      "D": "可以甲硝達唑（Metronidazole）或萬古黴素（Vancomycin）治療"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 46 題",
+    "question": "下列疾病，何者極少由砂眼披衣菌（Chlamydia trachomatis）所引起？",
+    "options": {
+      "A": "嬰兒肺炎（infant pneumonia）",
+      "B": "腦膜炎（meningitis）",
+      "C": "生殖道及尿道感染（urogenital infections）",
+      "D": "淋巴肉芽腫（lymphogranuloma venereum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 47 題",
+    "question": "肺炎退伍軍人桿菌（Legionella pneumophila）初次分離培養（primary culture）時，需要添加下列那種成分？",
+    "options": {
+      "A": "甘油（glycerol）",
+      "B": "橄欖油（olive oil）",
+      "C": "L-半胱胺酸（L-cysteine）",
+      "D": "菸鹼酸（nicotinic acid）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 48 題",
+    "question": "下列那一種致病菌能在上皮細胞（epithelial cells）內複製，並藉由形成肌動蛋白尾（actin tail）移動至緊鄰細胞內？",
+    "options": {
+      "A": "白喉棒狀桿菌（Corynebacterium diphtheriae）",
+      "B": "單核球增生李斯特菌（Listeria monocytogenes）",
+      "C": "綠膿假單胞桿菌（Pseudomonas aeruginosa）",
+      "D": "肺炎克雷白氏菌（Klebsiella pneumoniae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 49 題",
+    "question": "淚水中含有下列那一種成分，可分解胜肽聚醣（peptidoglycan）？",
+    "options": {
+      "A": "乳鐵蛋白質（Lactoferrin）",
+      "B": "溶菌酶（Lysozyme）",
+      "C": "乳過氧化物酶（Lactoperoxidase）",
+      "D": "澱粉酶（Amylase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 50 題",
+    "question": "關於結核桿菌（Mycobacterium tuberculosis）之敘述，下列何者正確？",
+    "options": {
+      "A": "齧齒類動物（rodents）為此菌之傳播者",
+      "B": "此菌不易染色，但一旦染上後，即使用酸性溶液也不易脫色",
+      "C": "此菌具移動性且會形成內孢子（endospores）",
+      "D": "此菌能產生外毒素（exotoxin）以避免吞噬細胞之吞食"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 51 題",
+    "question": "下列何者是最易造成人體內源性感染（endogenous infection）的厭氧菌？",
+    "options": {
+      "A": "產氣莢膜梭菌（Clostridium perfringens）",
+      "B": "鬆脆類桿菌（Bacteroides fragilis）",
+      "C": "短雙歧桿菌（Bifidobacterium breve）",
+      "D": "炭疽桿菌（Bacillus anthracis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 52 題",
+    "question": "關於傳染性蛋白質（prion）所引起之疾病的敘述，下列何者錯誤？",
+    "options": {
+      "A": "潛伏期很長",
+      "B": "會引起激烈的免疫反應",
+      "C": "可經由眼角膜移植傳染",
+      "D": "病人常會有失智（dementia）症狀"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 53 題",
+    "question": "某一老人照護中心發生群聚感染，有25位長者出現水樣下痢、噁心及嘔吐等，症狀持續12至60小時不等。此最可能由下列何 種病毒所引起？",
+    "options": {
+      "A": "巨細胞病毒（Cytomegalovirus）",
+      "B": "漢坦病毒（Hantaan virus）",
+      "C": "諾羅病毒（Norovirus）",
+      "D": "B型肝炎病毒（Hepatitis B virus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 54 題",
+    "question": "有關狂犬病（rabies）之敘述，下列何者正確？",
+    "options": {
+      "A": "是被感染了狂犬病細菌的病狗咬傷所引起的",
+      "B": "最初的入侵部位為肌肉；最終之感染部位為心臟",
+      "C": "最好的預防策略是對動物施打疫苗",
+      "D": "病原細菌入侵僅數天即嚴重發病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 55 題",
+    "question": "欲由登革熱患者身上分離病毒時，取患者下列那種檢體最適合？",
+    "options": {
+      "A": "喉頭拭子（throat swab）",
+      "B": "血液",
+      "C": "皮膚",
+      "D": "肛門拭子（anal swab）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 56 題",
+    "question": "關於人類免疫缺陷病毒（Human immunodeficiency virus, HIV）致病機轉之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可造成巨噬細胞（macrophage）功能變差",
+      "B": "會引起CD4 T淋巴球（lymphocyte）減少",
+      "C": "感染B淋巴球，造成免疫功能下降",
+      "D": "CD8 T淋巴球/CD4 T淋巴球比例上升"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 57 題",
+    "question": "下列何者為最常造成人類病毒性心臟炎（carditis）的病原？",
+    "options": {
+      "A": "流行性感冒病毒（Influenza virus）",
+      "B": "單純疱疹病毒（Herpes simplex virus）",
+      "C": "B型克沙奇病毒（Coxsackie B virus）",
+      "D": "71型腸病毒（Enterovirus 71）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 58 題",
+    "question": "某病人之組織檢體培養在攝氏25度，觀察到具有約3～6 µm大小之桶狀關節孢子（barrel-shaped arthroconidia）。最可能罹患 下列那種疾病？",
+    "options": {
+      "A": "芽生黴菌症（Blastomycosis）",
+      "B": "球黴菌症（Coccidioidomycosis）",
+      "C": "莢膜組織胞漿菌症（Histoplasmosis capsulati）",
+      "D": "副球黴菌症（Paracoccidioidomycosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 59 題",
+    "question": "關於抗黴菌（antifungal）藥物之主要作用機制的敘述，下列何者正確？",
+    "options": {
+      "A": "氟胞嘧啶（Flucytosine）抑制核酸合成",
+      "B": "糞殼菌素（Sordarins）抑制細胞壁合成",
+      "C": "華光黴素（Nikkomycin）抑制細胞膜合成",
+      "D": "聚乙烯（Polyenes）抑制蛋白質合成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 60 題",
+    "question": "所謂透明黴菌（hyaline molds）是指一群在病灶組織中，呈現下列那種共同性質的真菌？",
+    "options": {
+      "A": "產生有分隔之菌絲",
+      "B": "產生無分枝之菌絲",
+      "C": "與青黴菌屬（Penicillium）之形態相似",
+      "D": "產生具色素之菌絲"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 61 題",
+    "question": "下列何者為目前已知皮下真菌病（subcutaneous mycosis）中，具有兩型性（dimorphic）之病原菌？",
+    "options": {
+      "A": "疣狀毛癬菌（Trichopyton verrucosum）",
+      "B": "申克孢子絲菌（Sporothrix schenckii）",
+      "C": "副冠耳黴（Conidiobolus coronatus）",
+      "D": "蛙糞黴（Basidiobolus ranarum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

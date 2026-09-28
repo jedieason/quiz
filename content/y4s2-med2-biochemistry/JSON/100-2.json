@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 26 題",
+    "question": "腦組織中出現β 澱粉樣胜肽（β-amyloid）堆積，為阿滋海默氏病（Alzheimer's disease）的病理特徵 之一。關於β 澱粉樣胜肽的敘述，下列何者錯誤？",
+    "options": {
+      "A": "β 澱粉樣胜肽原先是某細胞膜蛋白的一部分",
+      "B": "核醣核酸編輯（RNA editing）為產生β 澱粉樣胜肽的機制",
+      "C": "β 澱粉樣胜肽的二級結構與正常狀態時並不相同",
+      "D": "β 澱粉樣胜肽會在神經元外相互黏合形成沉澱物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 27 題",
+    "question": "最常見於蛋白質之三級結構內部的共價交互作用為：",
+    "options": {
+      "A": "氫鍵（Hydrogen bond）",
+      "B": "凡德瓦爾力（van der Waals interaction）",
+      "C": "離子交互作用（Ionic interaction）",
+      "D": "雙硫鍵（Disulfide bond）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 28 題",
+    "question": "有些蛋白質係由多條獨立的多肽鏈（或稱蛋白次單元）組合而成，這些次單元在三度空間中的排列 方式稱為蛋白質的：",
+    "options": {
+      "A": "二級結構（Secondary structure）",
+      "B": "超二級結構（Supersecondary structure）",
+      "C": "三級結構（Tertiary structure）",
+      "D": "四級結構（Quaternary structure）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 29 題",
+    "question": "膽固醇是下列何種維生素（Vitamin）合成的前驅物？",
+    "options": {
+      "A": "A",
+      "B": "D",
+      "C": "E",
+      "D": "K"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 30 題",
+    "question": "罕見遺傳疾病Medium-chain acyl-CoA dehydrogenase 基因突變，可能造成脂肪肝、低血糖、Octanoic  acid 在血液中堆積、嗜睡、嘔吐及昏迷。下列有關該酶之功能敘述，何者正確？",
+    "options": {
+      "A": "該酶之作用是將脂肪酸運入粒線體",
+      "B": "該酶作用於ω-oxidation",
+      "C": "該酶之作用是將脂肪酸逐步轉化為Pyruvate",
+      "D": "該酶之作用是將脂肪酸逐步轉化為Acetyl-CoA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 31 題",
+    "question": "下列關於Lesch-Nyhan syndrome 的敘述，何者錯誤？",
+    "options": {
+      "A": "先天缺乏Hypoxanthine-guanine phosphoribosyltransferase 而導致",
+      "B": "無法藉由新合成路徑（De novo pathway）合成鳥糞嘌呤",
+      "C": "患病兒童通常在2 歲前發病，出現肢體不協調與智能障礙",
+      "D": "嚴重者會累積過多的尿酸，造成組織的破壞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 32 題",
+    "question": "下列有關V(D)J Recombination 的敘述，何者錯誤？",
+    "options": {
+      "A": "參與抗體多樣性的生成",
+      "B": "其反應機制與同源重組（Homologous recombination）相似",
+      "C": "RAG1 參與作用",
+      "D": "RAG2 參與作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 33 題",
+    "question": "下列何者是原核生物“核苷酸去除修復（Nucleotide excision repair）＂的主要成分？",
+    "options": {
+      "A": "Ruv A, B, C, D",
+      "B": "Uvr A, B, C, D",
+      "C": "Rec A, Lex A, Rec BCD",
+      "D": "Polymerase α, β, γ, δ"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 34 題",
+    "question": "有關轉譯之敘述，下列何者錯誤？",
+    "options": {
+      "A": "每一種t-RNA 均只能辨認一種codon",
+      "B": "ATG 是一種起始codon",
+      "C": "UAA 是一種終止codon",
+      "D": "不需透過特定之t-RNA 終止轉譯"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 35 題",
+    "question": "有關真核細胞之mRNA 之轉錄後修飾，下列敘述何者錯誤？",
+    "options": {
+      "A": "5’-capping of RNA 可以保護mRNA 避免5’端被分解",
+      "B": "3’ poly A 的修飾可以影響RNA 之穩定度",
+      "C": "Splicing 需要snRNA 之參與",
+      "D": "3’ poly A 之修飾完成後，mRNA 方能進行splicing"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 36 題",
+    "question": "脊椎動物中，由下列那種酶負責合成18S 與28S rRNA？",
+    "options": {
+      "A": "RNA polymerase I",
+      "B": "RNA polymerase II",
+      "C": "RNA polymerase III",
+      "D": "Ribosomal RNase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 37 題",
+    "question": "細胞中，下列那種化合物無法直接參與合成ATP 之反應？",
+    "options": {
+      "A": "1,3-Bisphosphoglycerate",
+      "B": "3-Phosphoglycerate",
+      "C": "Phosphocreatine",
+      "D": "Phosphoenolpyruvate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 38 題",
+    "question": "病人發生缺氧狀態，例如呼吸衰竭或休克時，會改變葡萄糖的代謝，此時病人抽血檢查中，下列何 者濃度會上升？",
+    "options": {
+      "A": "Acetyl-CoA",
+      "B": "Ethanol",
+      "C": "Lactate",
+      "D": "Acetaldehyde"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 39 題",
+    "question": "體重過重的病患，若要每周減重半公斤，每天平均約須減多少熱量？",
+    "options": {
+      "A": "100 大卡",
+      "B": "250 大卡",
+      "C": "500 大卡",
+      "D": "1000 大卡"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 40 題",
+    "question": "肝臟粒線體內HMG-CoA synthase 合成酶的主要功能為下列何者？",
+    "options": {
+      "A": "促進膽固醇合成（Cholesterol biosynthesis）",
+      "B": "抑制脂肪酸合成（Fatty acid biosynthesis）",
+      "C": "促進酮體合成（Ketone body biosynthesis）",
+      "D": "促進糖質新生（Gluconeogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 41 題",
+    "question": "肥胖是脂肪過多的疾病，關於脂肪組織之脂肪代謝，下列敘述何者錯誤？",
+    "options": {
+      "A": "脂肪組織脂肪分解，釋放出來的脂肪酸，可供給其他組織產生能量",
+      "B": "脂肪組織脂肪分解，分解出來的脂肪酸，大部分仍在脂肪組織內合成三酸甘油脂",
+      "C": "脂肪組織脂肪分解，釋放出來的脂肪酸可送到肝臟內再合成三酸甘油脂，所以肥胖病患易合併脂肪肝",
+      "D": "空腹時，釋放出來的脂肪酸送到肝臟內合成三酸甘油脂，包裝成乳糜微粒（Chylomicron）分泌至血液中"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 42 題",
+    "question": "下列營養素何者無法直接提供能量？",
+    "options": {
+      "A": "醣類",
+      "B": "蛋白質",
+      "C": "維生素",
+      "D": "脂肪"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 43 題",
+    "question": "一種體染色體顯性（Autosomal dominant）遺傳疾病稱為Familial hyper-cholesterolemia 乃是因為Low  density lipoprotein（LDL）receptor 突變所致。下列有關LDL 的敘述，何者正確？",
+    "options": {
+      "A": "LDL receptor 只存在肝細胞上",
+      "B": "LDL 中的膽固醇經由LDL receptor 之作用，可提供肝細胞合成Bile salts",
+      "C": "LDL 所含的脂肪以Triglyceride 為主",
+      "D": "LDL 是直接由肝臟製造分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 44 題",
+    "question": "下列那一個胺基酸可以代謝成Succinyl-CoA？",
+    "options": {
+      "A": "Histidine",
+      "B": "Alanine",
+      "C": "Proline",
+      "D": "Valine"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：除未作答者不給分外。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 45 題",
+    "question": "一名3 個月大男嬰的血清中，苯丙胺酸（Phenylalanine）與苯丙酮酸（Phenylpyruvate）的濃度較高。 若是苯酮尿症（Phenylketonuria），最可能會再出現下列那個檢驗數據？",
+    "options": {
+      "A": "苯丙胺酸羥化酶（Phenylalanine hydroxylase）活性降低",
+      "B": "血清中的黑尿酸（Homogentisic acid）濃度偏高",
+      "C": "血清中的維生素B B12濃度偏低",
+      "D": "血清中的維生素B B6濃度偏低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 46 題",
+    "question": "一名4 歲大的小朋友，平時拒絕吃肉，勉強吃肉會嘔吐，在小兒心理門診追踪治療。該小朋友因為 水痘（Varicella）、發燒及神智不清被送至急診，抽血檢查發現血液中氨（Ammonia）濃度偏高，進 一步檢查發現病人的精胺酸酶（Arginase）基因異常。下列相關敘述何者正確？",
+    "options": {
+      "A": "吃肉類食物將會改善他的症狀",
+      "B": "由於人體有腦血管屏障（Blood-brain barrier），所以氨不會進入腦部，因此神智不清應該不是氨所 引起",
+      "C": "精胺酸酶之作用可直接產生尿素",
+      "D": "精胺酸酶是三羧酸循環（Tricarboxylic cycle）中的重要酵素"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 47 題",
+    "question": "當缺氧時，細胞為了避免ROS（Reactive oxygen species）的大量產生，下列那種狀況會發生？",
+    "options": {
+      "A": "Pyruvate dehydrogenase 活性上升",
+      "B": "Pyruvate dehydrogenase kinase 活性上升",
+      "C": "HIF-1（Hypoxia-induced factor-1）表現量下降",
+      "D": "HIF-1 降解量上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 48 題",
+    "question": "下列何者是哺乳動物用來產熱的內生性去偶合劑（Endogenous uncoupling agent）？",
+    "options": {
+      "A": "2,4-Dinitrophenol",
+      "B": "Thermogenin",
+      "C": "Thioredoxin",
+      "D": "Cytochrome c"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 49 題",
+    "question": "粒線體電子傳遞鏈的Complex III 主要是把電子傳遞到：",
+    "options": {
+      "A": "Cytochrome c",
+      "B": "Succinate",
+      "C": "NADH",
+      "D": "Ubiquinone"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 50 題",
+    "question": "常見於癌細胞組織中的腫瘤基因（Oncogene）所轉譯之ErbB 蛋白，是經由下列那一個受體（Receptor） 的訊息傳導路徑而進行作用？",
+    "options": {
+      "A": "Insulin receptor",
+      "B": "PDGF receptor",
+      "C": "EGF receptor",
+      "D": "G-protein coupling receptor"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

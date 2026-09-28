@@ -1,0 +1,103 @@
+[
+  {
+    "origin": "出自 096 年第一次醫師國考第 75 題",
+    "question": "下列何種人體寄生蟲感染需要全家集體投藥治療？",
+    "options": {
+      "A": "蟯蟲（Enterobius vermicularis）",
+      "B": "有鉤絛蟲（Taenia solium）",
+      "C": "旋毛蟲（Trichinella spiralis）",
+      "D": "中華肝吸蟲（Clonorchis sinensis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 76 題",
+    "question": "泳者癢（swimmer’s itch）是由何種寄生蟲導致？",
+    "options": {
+      "A": "鳥類的血吸蟲（avian Schistosoma spp.）",
+      "B": "犬鉤蟲（Ancylostoma caninum）",
+      "C": "曼森裂頭絛蟲（Spirometra mansonoides）",
+      "D": "蟠尾絲蟲（Onchocerca volvulus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 77 題",
+    "question": "顆粒性包生絛蟲（Echinococcus granulosus）在人體感染最常侵犯那個器官？",
+    "options": {
+      "A": "小腸",
+      "B": "肝臟",
+      "C": "心臟",
+      "D": "腦"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 78 題",
+    "question": "在患者的腦脊髓液中看到快速移動的阿米巴，將其滴入蒸餾水中數小時後，則可看到其轉變為具兩 根鞭毛的鞭毛蟲，此人最可能感染的寄生蟲是：",
+    "options": {
+      "A": "福氏內格里阿米巴（Naegleria fowleri）",
+      "B": "痢疾阿米巴（Entamoeba histolytica）",
+      "C": "巴氏阿米巴（Balamuthia mandrillaris）",
+      "D": "棘阿米巴（Acanthamoeba spp.）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 79 題",
+    "question": "下列有關惡性瘧原蟲之敘述，何者錯誤？",
+    "options": {
+      "A": "被感染的紅血球通常不會漲大",
+      "B": "被感染的紅血球常大量黏附於腦部微血管之內皮細胞，造成腦性瘧（cerebral malaria）",
+      "C": "流行地區，半歲以下的嬰兒因為得自母體的抗體，甚少被其感染",
+      "D": "流行地區的患者，肝腫大現象普遍"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 80 題",
+    "question": "下列敘述何者正確？",
+    "options": {
+      "A": "通常利用形態學，即可鑑別寄生於人體的利什曼原蟲之種類",
+      "B": "動物異體接種診斷法（xenodiagnosis）常用以診斷陰道滴蟲症",
+      "C": "利什曼原蟲在宿主的巨噬細胞中以無鞭毛體（amastigotes）分裂增殖",
+      "D": "慢性感染巴西利什曼原蟲症者，常易造成耳部缺損，謂之採膠工瘍（chiclero ulcer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 81 題",
+    "question": "下列有關各種病媒（vector）及其傳播的感染症之關係，何者錯誤？",
+    "options": {
+      "A": "白線斑蚊（Aedes albopictus）傳播日本腦炎（Japanese encephalitis）",
+      "B": "埃及斑蚊（Aedes aegypti）傳播黃熱病（yellow fever）",
+      "C": "熱帶家蚊（Culex quinquefasciatus）傳播血絲蟲症（filariasis）",
+      "D": "蚋（black fly）傳播河川盲（river blindness）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第一次醫師國考第 82 題",
+    "question": "登革熱目前仍是台灣地區盛行的傳染病，有關登革熱病媒蚊之敘述，下列何者正確？",
+    "options": {
+      "A": "雄蚊在白天吸血，雌蚊則在晚上吸血",
+      "B": "雌蚊喜好產卵於混濁不流動之污水中",
+      "C": "在台灣，傳播之病媒蚊種僅限於埃及斑蚊（Aedes aegypti）",
+      "D": "埃及斑蚊喜好在人類居家附近棲息"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

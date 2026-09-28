@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 1 題",
+    "question": "有關⼩腦的敘述，下列何者錯誤？",
+    "options": {
+      "A": "背側脊髓⼩腦徑（dorsal spinocerebellar tract）主要由nucleus thoracicus（⼜稱 Clarke's column或 nucleus dorsalis）發出",
+      "B": "背側脊髓⼩腦徑（dorsal spinocerebellar tract）左右交叉後由下⼩腦腳（inferior cerebellar peduncle）進 入⼩腦",
+      "C": "上⼩腦腳（superior cerebellar peduncle）含有進、出⼩腦的神經纖維",
+      "D": "中⼩腦腳（middle cerebellar peduncle）含橋腦核（pontine nucleus）發出之神經纖維"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 2 題",
+    "question": "甲狀腺切除⼿術不慎傷及喉外神經（external laryngeal nerve），下列何肌的功能最可能受損？",
+    "options": {
+      "A": "環狀甲骨肌（cricothyroid muscle）",
+      "B": "甲狀杓骨肌（thyroarytenoid muscle）",
+      "C": "後環杓肌（posterior cricoarytenoid muscle）",
+      "D": "外側環杓肌（lateral cricoarytenoid muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 3 題",
+    "question": "下列何者的分泌物最不可能流經過半⽉裂孔（hiatus semilunaris）？",
+    "options": {
+      "A": "額竇（frontal sinus）",
+      "B": "前篩竇（anterior ethmoidal sinus）",
+      "C": "上頜竇（maxillary sinus）",
+      "D": "蝶竇（sphenoid sinus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 4 題",
+    "question": "兩眼同時看向正上⽅，為何種神經之作⽤？",
+    "options": {
+      "A": "眼神經（ophthalmic nerve）",
+      "B": "滑⾞神經（trochlear nerve）",
+      "C": "動眼神經（oculomotor nerve）",
+      "D": "外展神經（abducent nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 5 題",
+    "question": "胸骨柄正中間處的穿刺傷，最可能傷及下列何者？",
+    "options": {
+      "A": "主動脈⼸（aortic arch）",
+      "B": "左⼼室（left ventricle）",
+      "C": "肺動脈幹（pulmonary trunk）",
+      "D": "上腔靜脈（superior vena cava）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 6 題",
+    "question": "下列何者是臍靜脈（umbilical vein）的殘跡？",
+    "options": {
+      "A": "肝鐮韌帶（falciform ligament）",
+      "B": "肝圓韌帶（ligamentum teres）",
+      "C": "冠狀韌帶（coronary ligament）",
+      "D": "正中臍韌帶（median umbilical ligament）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 7 題",
+    "question": "下列何者穿過橫膈中央腱（central tendon of diaphragm）？",
+    "options": {
+      "A": "主動脈",
+      "B": "下腔靜脈",
+      "C": "食道",
+      "D": "肝⾨靜脈"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 8 題",
+    "question": "陰部神經（pudendal nerve）位於坐骨肛⾨窩（ischioanal fossa）的何處？",
+    "options": {
+      "A": "內側壁",
+      "B": "外側壁",
+      "C": "上側壁",
+      "D": "後側壁"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 9 題",
+    "question": "下列何者⾛在下肢的內側？",
+    "options": {
+      "A": "⼤隱靜脈（great saphenous vein）",
+      "B": "⼩隱靜脈（small saphenous vein）",
+      "C": "膕靜脈（popliteal vein）",
+      "D": "股靜脈（femoral vein）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 10 題",
+    "question": "肱骨外科頸（surgical neck of humerus）骨折，最可能傷及那⼀條神經？",
+    "options": {
+      "A": "肌⽪神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "腋神經（axillary nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 11 題",
+    "question": "腳踝內側割裂，傷及繞過內踝的跗骨隧道（tarsal tunnel）內的所有肌腱，下列腳趾的何種動作最可能受影 響？",
+    "options": {
+      "A": "屈曲（flexion）",
+      "B": "伸直（extension）",
+      "C": "內收（adduction）",
+      "D": "外展（abduction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 12 題",
+    "question": "下列何者之功能與邊緣系統（limbic system）最不相關？",
+    "options": {
+      "A": "齒狀迴（dentate gyrus）",
+      "B": "穹束（fornix）",
+      "C": "乳頭體（mamillary body）",
+      "D": "杏仁核（amygdala）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 13 題",
+    "question": "關於視覺⽪質（visual cortex）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "視覺聯合⽪質（visual association cortex）位於額葉（frontal lobe）",
+      "B": "初級視覺⽪質（primary visual cortex）位於枕葉（occipital lobe）",
+      "C": "視覺聯合⽪質（visual association cortex）可參與顏⾊判定與辨別",
+      "D": "初級視覺⽪質（primary visual cortex）接受外側膝狀體（lateral geniculate body）傳入之訊息"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 14 題",
+    "question": "正常⼈⼀側眼睛受到強光照射，雙眼瞳孔收縮，有關此反應之敘述，下列何者錯誤？",
+    "options": {
+      "A": "此為瞳孔光反射（pupillary light reflex）",
+      "B": "頂蓋前區（pretectal area）參與其機轉",
+      "C": "後聯合（posterior commissure）參與其機轉",
+      "D": "三叉神經（trigeminal nerve）之眼神經（ophthalmic nerve）參與其機轉"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 15 題",
+    "question": "關於前庭神經核（vestibular nuclei）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可發出前庭脊髓徑（vestibulospinal tract）",
+      "B": "部分神經纖維併入內側縱束（medial longitudinal fasciculus）",
+      "C": "主要與⼩腦齒狀核（dentate nucleus）相連繫",
+      "D": "可參與前庭眼球反射（vestibulo-ocular reflex）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 16 題",
+    "question": "海⾺（hippocampus）最主要之傳入纖維（afferent fiber）來⾃何處？",
+    "options": {
+      "A": "內⿐⽪質（entorhinal cortex）",
+      "B": "扣帶迴（cingulate gyrus）",
+      "C": "杏仁核（amygdala）",
+      "D": "韁核（habenular nucleus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 17 題",
+    "question": "刺激淚腺（lacrimal gland）分泌的副交感節後神經纖維（parasympathetic postganglionic fibers）源⾃於下 列何者？",
+    "options": {
+      "A": "睫狀神經節（ciliary ganglion）",
+      "B": "膝神經節（geniculate ganglion）",
+      "C": "翼腭神經節（pterygopalatine ganglion）",
+      "D": "⽿神經節（otic ganglion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 18 題",
+    "question": "下列那⼀頸部筋膜（fascia）位於舌骨下肌（infrahyoid muscles）後⾯，並覆蓋在甲狀腺（thyroid gland） 表⾯？",
+    "options": {
+      "A": "包圍層（investing layer）",
+      "B": "頸動脈鞘（carotid sheath）",
+      "C": "氣管前層（pretracheal layer）",
+      "D": "椎前層（prevertebral layer）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 19 題",
+    "question": "下列何者⽀配前、中顱窩（anterior and middle cranial fossae）的硬腦膜（dura mater）及⼩腦天幕 （tentorium cerebelli）？",
+    "options": {
+      "A": "舌咽神經（glossopharyngeal nerve）",
+      "B": "三叉神經（trigeminal nerve）",
+      "C": "迷⾛神經（vagus nerve）",
+      "D": "舌下神經（hypoglossal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 20 題",
+    "question": "在胎兒時期，卵圓孔（oval foramen）可溝通下列何者？",
+    "options": {
+      "A": "主動脈與肺動脈",
+      "B": "右⼼房與右⼼室",
+      "C": "右⼼房與左⼼房",
+      "D": "右⼼室與左⼼室"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 21 題",
+    "question": "下肺葉病灶刺激貼著縱隔及橫膈中央的壁層胸膜⽽引起頸部疼痛，最有可能是下列那⼀條神經所引發之痛？",
+    "options": {
+      "A": "肋間神經",
+      "B": "迷⾛神經",
+      "C": "膈神經",
+      "D": "交感神經幹"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 22 題",
+    "question": "下列何者不負責乳腺之⾎液供應？",
+    "options": {
+      "A": "肋間動脈（intercostal artery）",
+      "B": "內胸動脈（internal thoracic artery）",
+      "C": "外胸動脈（lateral thoracic artery）",
+      "D": "肋下動脈（subcostal artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 23 題",
+    "question": "施⾏⼼包膜穿刺術（pericardiocentesis）時，由那⼀個位置下針，可減低刺破肋膜腔（pleural cavity）之機 會？",
+    "options": {
+      "A": "胸骨右側第六肋間",
+      "B": "胸骨左側第三肋間",
+      "C": "胸骨劍突（sternal xiphoid process）與左肋下緣交點",
+      "D": "胸骨右側第四肋間"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 24 題",
+    "question": "正常年輕男性直立姿勢時，⼼尖（apex）之體表投影位置，最有可能在：",
+    "options": {
+      "A": "第四肋間鎖骨中線外側",
+      "B": "左側乳頭處",
+      "C": "第六肋間前腋線外側",
+      "D": "第五肋間鎖骨中線內側"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 25 題",
+    "question": "上腸繫膜淋巴結（superior mesenteric lymph nodes），最不可能引流來⾃下列何處的淋巴？",
+    "options": {
+      "A": "胰脾淋巴結（pancreaticosplenic lymph node）",
+      "B": "腸繫膜淋巴結（mesenteric lymph node）",
+      "C": "中結腸腸淋巴結（middle colic lymph node）",
+      "D": "腸管旁淋巴結（juxta-intestinal lymph node）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 26 題",
+    "question": "下列何者不受腰神經叢（lumbar plexus）受損影響？",
+    "options": {
+      "A": "腹橫肌（transversus abdominis muscle）",
+      "B": "提睪肌（cremaster muscle）",
+      "C": "⾁膜肌（dartos muscle）",
+      "D": "閉孔外肌（obturator externus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 27 題",
+    "question": "下列何者不連接於⼦宮體的兩側？",
+    "options": {
+      "A": "卵巢韌帶（ovary ligament）",
+      "B": "⼦宮圓韌帶（round ligament of the uterus）",
+      "C": "闊韌帶（broad ligament）",
+      "D": "主韌帶（cardinal ligamnet）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 28 題",
+    "question": "下列何者不是陰部神經（pudendal nerve）的分⽀？",
+    "options": {
+      "A": "陰莖背神經（dorsal nerve of penis）",
+      "B": "下直腸神經（inferior rectal nerve）",
+      "C": "前陰囊神經（anterior scrotal nerve）",
+      "D": "後陰囊神經（posterior scrotal nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 29 題",
+    "question": "下肢的內側迴旋股動脈（medial circumflex femoral artery）與外側迴旋股動脈（lateral circumflex femoral  artery）是下列何者的直接分⽀？",
+    "options": {
+      "A": "股動脈（femoral artery）",
+      "B": "深股動脈（deep femoral artery）",
+      "C": "前者是股動脈（femoral artery），後者是深股動脈（deep femoral artery)",
+      "D": "前者是深股動脈（deep femoral artery），後者是股動脈（femoral artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 30 題",
+    "question": "肩胛上切迹（suprascapular notch）處的肩胛上神經（suprascapular nerve)受傷時，那兩塊肌⾁會直接受到 影響？",
+    "options": {
+      "A": "棘下肌（infraspinatus）與⼩圓肌（teres minor）",
+      "B": "三⾓肌（deltoid muscle）與⼩圓肌（teres minor）",
+      "C": "棘上肌（supraspinatus）與棘下肌（infraspinatus）",
+      "D": "棘上肌（supraspinatus）與肩胛下肌（subscapularis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 31 題",
+    "question": "下列何者是單⼀並沒有成對的構造？",
+    "options": {
+      "A": "脊髓前動脈（anterior spinal artery）與⼤腦前交通動脈（anterior communicating artery）",
+      "B": "脊髓後動脈（posterior spinal artery）與⼤腦後交通動脈（posterior communicating artery）",
+      "C": "脊髓前動脈（anterior spinal artery）與⼤腦後交通動脈（posterior communicating artery）",
+      "D": "脊髓後動脈（posterior spinal artery）與⼤腦前交通動脈（anterior communicating artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

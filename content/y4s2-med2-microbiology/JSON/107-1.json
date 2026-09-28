@@ -1,0 +1,210 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 1 題",
+    "question": "下列何者非鬆脆類桿菌（Bacteroides fragilis）之特徵？",
+    "options": {
+      "A": "能水解七葉苷（esculin）",
+      "B": "能生長於含20%膽鹽（bile salt）的培養基",
+      "C": "能產生芽胞（spore）",
+      "D": "屬革蘭氏陰性桿菌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 2 題",
+    "question": "有關達托黴素（Daptomycin）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "作用在細胞膜上",
+      "B": "屬脂胜肽（lipopeptides）藥物",
+      "C": "對多重抗藥性之嗜麥芽窄食單胞菌 (Stenotrophomonas maltophilia）有效",
+      "D": "可以治療抗萬古黴素（Vancomycin）之金黃色葡萄球菌（Staphylococcus aureus）所引起的疾病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 3 題",
+    "question": "有關類結核型痲瘋病（tuberculoid leprosy）及癩瘤型痲瘋病（lepromatous leprosy）的敘述，下列何者正 確？",
+    "options": {
+      "A": "類結核型痲瘋病病灶組織中可以觀察到泡沫巨噬細胞（foamy macrophages），是癩瘤型痲瘋病所沒有的 特徵",
+      "B": "類結核型痲瘋病患的細胞性免疫反應（cellular immune reaction）較癩瘤型痲瘋病患為強",
+      "C": "類結核型痲瘋病的傳染力較癩瘤型痲瘋病為高",
+      "D": "癩瘤型痲瘋病患之皮膚對麻瘋菌素（lepromin）測試呈陽性反應"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 4 題",
+    "question": "因感染結核分枝桿菌（Mycobacterium tuberculosis）而在肺部形成的肉芽腫（granuloma）中，主要可以觀 察到下列那一種細胞？",
+    "options": {
+      "A": "滋養細胞（trophocyte）",
+      "B": "小膠質細胞（microglial cell）",
+      "C": "空泡細胞（koilocyte）",
+      "D": "蘭氏巨細胞（Langhans giant cell）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 5 題",
+    "question": "關於幽門螺旋桿菌（Helicobacter pylori）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "人類為其主要的貯存宿主（reservoir），糞口途徑（fecal-oral route）為可能的傳染方式",
+      "B": "此菌可能會導致胃潰瘍（gastric ulcer）或十二指腸潰瘍（duodenal ulcer）",
+      "C": "cagA（cytotoxin-associated gene A）陽性細菌的感染被認為與導致胃癌的高風險有關",
+      "D": "尿素呼氣試驗（urea breath test）是一種非侵入性的檢驗方法，但其敏感度與專一性都比傳統細菌培養差"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 6 題",
+    "question": "關於蠟狀桿菌（Bacillus cereus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "耐熱的（heat-stable）毒素可造成嘔吐型食物中毒",
+      "B": "大多數環境中可發現此菌",
+      "C": "產生超級抗原（superantigen），可造成嚴重組織壞死（necrosis）",
+      "D": "可造成眼球感染，例如桿菌型全眼球炎（Bacillus panophthalmitis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 7 題",
+    "question": "下列那種細菌在培養基上生長有遊走（swarming）的特徵，且與腎臟結石（renal stones）生成最有關？",
+    "options": {
+      "A": "奇異變形桿菌（Proteus mirabilis）",
+      "B": "黏質沙雷氏菌（Serratia marcescens）",
+      "C": "產氣腸桿菌（Enterobacter aerogenes）",
+      "D": "肺炎克雷伯氏桿菌（Klebsiella pneumoniae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 8 題",
+    "question": "關於放線菌（Actinomyces）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "生長快速，且需要有氧的環境",
+      "B": "會形成含有硫磺狀顆粒（sulfur granules）的肉芽腫病變",
+      "C": "多數的感染始於頸顏部（cervicofacial area）",
+      "D": "可造成胸、腹部、骨盆腔、中樞神經系統的放線菌病（actinomycosis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 9 題",
+    "question": "有關抗生素之敘述，下列何者正確？",
+    "options": {
+      "A": "克拉維酸（Clavulanic acid）通常被單獨使用",
+      "B": "甲氧葉酸嘧啶（Trimethoprim）抑制葉酸生成",
+      "C": "紅黴素（Erythromycin）抑制細胞壁的合成",
+      "D": "磺胺（Sulfonamide）抑制DNA旋轉酶（gyrase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 10 題",
+    "question": "本雅病毒（Bunyaviruses）大多藉由節肢動物傳播，然而下列何者例外？",
+    "options": {
+      "A": "漢坦病毒（Hantaan virus）",
+      "B": "裂谷熱病毒（Rift valley fever virus）",
+      "C": "加利福尼亞腦炎病毒（California encephalitis virus）",
+      "D": "克里米亞-剛果出血熱病毒（Crimean-Congo hemorrhagic fever virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 11 題",
+    "question": "帶有下列那一種基因之同合子（homozygous）缺陷的人，對於人類免疫缺陷病毒（HIV）感染相對地具有抗 性？",
+    "options": {
+      "A": "17p（p53）",
+      "B": "HLA-B 5701",
+      "C": "CCR5-delta 32",
+      "D": "t（11；22）（q24；q12）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 12 題",
+    "question": "關於小兒麻痺病毒（poliovirus）的敘述，下列何者正確？",
+    "options": {
+      "A": "其基因體是由雙股RNA所組成",
+      "B": "病毒套膜（envelope）上的醣蛋白質（glycoprotein）不容易產生突變",
+      "C": "病毒顆粒很穩定，可以透過下水道系統汙染水源造成感染",
+      "D": "沙克（Salk）減毒疫苗和沙賓（Sabin）死毒疫苗，常被用來預防其所引起的疾病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 13 題",
+    "question": "下列何種人類病毒最適合生長於攝氏33-35度，所以通常感染上呼吸道。不過，動物來源的此類病毒卻能生 長在攝氏37度，因此能造成全身性感染？",
+    "options": {
+      "A": "間質肺炎病毒（Metapneumovirus）",
+      "B": "腺病毒（Adenovirus）",
+      "C": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "D": "冠狀病毒（Coronavirus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 14 題",
+    "question": "有關病毒與其細胞受器（cell receptor）的配對，下列何者錯誤？",
+    "options": {
+      "A": "EB病毒（Epstein-Barr virus）- CD21",
+      "B": "流感病毒（Influenza virus）- 水楊酸（sialic acid）",
+      "C": "B19病毒（B19 virus） - 紅血球M抗原（erythrocyte M antigen）",
+      "D": "鼻病毒（Rhinovirus）- ICAM-1"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 15 題",
+    "question": "有關人類多瘤病毒（Human polyomavirus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "包括BK病毒及JC病毒",
+      "B": "不具有外套膜（envelope）",
+      "C": "JC病毒感染免疫不全病人，常造成去髓鞘（demyelination）病變",
+      "D": "T抗原可以活化p53，促進細胞死亡"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 16 題",
+    "question": "下列何者為麴菌（Aspergillus spp.）之型態特徵？",
+    "options": {
+      "A": "具假根（rhizoid）",
+      "B": "具厚壁孢子（chlamydospores）",
+      "C": "菌絲（hyphae）無分隔",
+      "D": "具瓶狀（flask-shaped）孢子梗（phialides）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 17 題",
+    "question": "下列那一種抗真菌（anti-fungal）藥物的抗藥機制，是在合成葡聚醣（glucan）的相關基因上產生突變？",
+    "options": {
+      "A": "氟胞嘧啶（Flucytosine）",
+      "B": "棘白素類（Echinocandins）",
+      "C": "丙烯胺類（Allylamines）",
+      "D": "兩性黴素B（Amphotericin B）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 108 年第一次醫師國考第 51 題",
+    "question": "下列何者不是抗⽣素metronidazole之臨床⽤途？",
+    "options": {
+      "A": "腹腔內厭氧菌感染，例如：C. difficile感染",
+      "B": "陰道滴蟲（T. vaginalis）引起之感染",
+      "C": "淋病球菌（N. gonorrhoeae）引起之感染",
+      "D": "阿米巴原蟲（E. histolytica）引起之結腸發炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 52 題",
+    "question": "王⼩姐45歲，未婚，最近發現左側乳房有⼩塊腫瘤，經醫師診斷為乳癌，進⾏⼿術切除後，並給予 cyclophosphamide, methotrexate及5-fluorouracil癌症化學治療，下列藥物與機轉之配對何者正確？",
+    "options": {
+      "A": "cyclophosphamide & methotrexate：抑制topoisomerase II",
+      "B": "methotrexate & 5-fluorouracil：抑制有絲分裂（mitosis）",
+      "C": "methotrexate & 5-fluorouracil：抗代謝藥物（anti-metabolites）",
+      "D": "cyclophosphamide & 5-fluorouracil：DNA烷基化物（DNA alkylating agents）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 53 題",
+    "question": "下列何種藥物不是⾎⼩板凝集之拮抗劑？",
+    "options": {
+      "A": "dipyridamole",
+      "B": "aspirin",
+      "C": "heparin",
+      "D": "ticlopidine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 54 題",
+    "question": "有關多巴胺受體作⽤劑（dopamine receptor agonist）bromocriptine的作⽤敘述，下列何者錯誤？",
+    "options": {
+      "A": "在臨床上可以⽤來治療⾼泌乳素⾎症（hyperprolactinemia），主要係透過減少泌乳素的分泌作⽤",
+      "B": "在臨床上可以使⽤於巴⾦森⽒症（Parkinson's disease）的病⼈，改善其運動功能的障礙",
+      "C": "可以有效改善肢端肥⼤症（acromegaly）病⼈的臨床症狀，主要係透過增加體制素（somatostatin）的分泌 作⽤",
+      "D": "可以有效改善婦女產後乳房腫脹及泌乳過量的情形"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 55 題",
+    "question": "有關⾎管加壓素（vasopressin）的描述，下列何者錯誤？",
+    "options": {
+      "A": "主要由腦下垂體後葉（posterior pituitary）所分泌，具有促進⾎管收縮的作⽤",
+      "B": "於腸胃道中容易被破壞，因此⼝服無效",
+      "C": "可以⽤來治療垂體性尿崩症（pituitary diabetes insipidus）",
+      "D": "具有利尿的作⽤，因此會造成⽔分與鈉離⼦流失"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 56 題",
+    "question": "下列那⼀種利尿劑合併⽣理食鹽⽔注射投與，⽤於治療⾎鈣過⾼之症狀效果最好？",
+    "options": {
+      "A": "furosemide",
+      "B": "hydrochlorothiazide",
+      "C": "amiloride",
+      "D": "conivaptan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 57 題",
+    "question": "下列藥物中何者之主要臨床副作⽤為類紅斑性狼瘡症狀？",
+    "options": {
+      "A": "sotalol",
+      "B": "disopyramide",
+      "C": "amiodarone",
+      "D": "procainamide"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 58 題",
+    "question": "活化下列何種⾃主神經傳遞物質作⽤的受體，通常會抑制 adenylyl cyclase 的活性？",
+    "options": {
+      "A": "muscarinic M2 cholinoceptor",
+      "B": "muscarinic M3 cholinoceptor",
+      "C": "β1 adrenoceptor",
+      "D": "β3 adrenoceptor"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 59 題",
+    "question": "下列藥物何者為PGI2致效劑，可⽤於治療肺⾼壓（pulmonary hypertension）？",
+    "options": {
+      "A": "treprostinil",
+      "B": "alprostadil",
+      "C": "misoprostol",
+      "D": "latanoprost"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 60 題",
+    "question": "下列何種藥物是作⽤於dopaminergic D2 receptor⽤於治療帕⾦森⽒症（Parkinsonism）？",
+    "options": {
+      "A": "pramipexole",
+      "B": "bromocriptine",
+      "C": "flurazepam",
+      "D": "selegiline"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 61 題",
+    "question": "下列何者屬於antipseudomonal penicilins，可與 aminoglycoside 併⽤以治療綠膿桿菌（P. aeruginosa） 所 引起的感染？",
+    "options": {
+      "A": "amoxicillin",
+      "B": "dicloxacillin",
+      "C": "nafcillin",
+      "D": "ticarcillin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 62 題",
+    "question": "關於抗⽣素ceftriaxone之敘述，下列何者正確？",
+    "options": {
+      "A": "為淋病球菌（N. gonorrhoeae）感染的⾸選⽤藥",
+      "B": "屬於第四代cephalosporins",
+      "C": "常和clavulanate併⽤以增強其抗菌效果",
+      "D": "腎衰竭病⼈使⽤此藥時，應降低劑量⾄原治療劑量之⼀半"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 63 題",
+    "question": "下列何者無助於改善貧⾎？",
+    "options": {
+      "A": "⼝服 ferrous fumarate",
+      "B": "注射 iron dextran",
+      "C": "注射 deferoxamine",
+      "D": "補充維⽣素B12及葉酸（folic acid）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 64 題",
+    "question": "⼀位18歲少女當⽉經來潮時會有腹部疼痛的症狀，醫師詳細檢查發現有骨盆腹膜⼦宮內膜異位的病變。下列 何者較適合被⽤來治療這位病⼈？",
+    "options": {
+      "A": "⼝服flutamide",
+      "B": "肌⾁注射medroxyprogesterone",
+      "C": "靜脈注射oxandrolone",
+      "D": "⼝服raloxifene"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 65 題",
+    "question": "⼀位40歲男性患有肢端肥⼤的症狀，放射學診斷發現有腦下垂體腫瘤，除了外科⼿術切除腫瘤外。下列何者 可以被⽤來治療此種疾病？",
+    "options": {
+      "A": "desmopressin",
+      "B": "octreotide",
+      "C": "leuprolide",
+      "D": "somatropin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 66 題",
+    "question": "下列何種降⾎壓藥物，在⻑期服⽤⾼劑量治療時，若立即停藥會因為強烈增加交感神經活性，可能引發致命 性⾼⾎壓？",
+    "options": {
+      "A": "clonidine",
+      "B": "nifedipine",
+      "C": "hydralazine",
+      "D": "captopril"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 67 題",
+    "question": "下列何者是直接作⽤型蕈毒鹼致效劑（direct-acting muscarinic agonist）， 可⽤於治療薛格連⽒症候群 （Sjögren's syndrome）或放射線治療引起的⼝乾症？",
+    "options": {
+      "A": "atropine",
+      "B": "cevimeline",
+      "C": "neostigmine",
+      "D": "succinylcholine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 68 題",
+    "question": "當偏頭痛患者出現噁⼼、嘔吐等症狀時，下列何者是最佳的治療藥物？",
+    "options": {
+      "A": "acetaminophen",
+      "B": "allopurinol",
+      "C": "sumatriptan",
+      "D": "sulindac"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 69 題",
+    "question": "病⼈做化療（chemotherapy）或⼿術後所引起的噁⼼、嘔吐症狀，可以預先使⽤下列何種藥物來緩解，其作 ⽤機轉是透過拮抗neurokinin（NK1）的受體？",
+    "options": {
+      "A": "riociguat",
+      "B": "fasudil",
+      "C": "bosentan",
+      "D": "aprepitant"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 70 題",
+    "question": "下列何種減肥藥是作⽤在腸胃道，可減少脂肪的吸收？",
+    "options": {
+      "A": "phentermine",
+      "B": "topiramate",
+      "C": "orlistat",
+      "D": "lorcaserin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 71 題",
+    "question": "靜脈注射型⿇醉劑 ketamine 的主要作⽤機轉為何？",
+    "options": {
+      "A": "活化GABAA受體",
+      "B": "抑制GABAA受體",
+      "C": "活化NMDA受體",
+      "D": "抑制NMDA受體"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 72 題",
+    "question": "關於levetiracetam為部分癲癇發作（partial seizure）治療藥物，下列敘述何者錯誤？",
+    "options": {
+      "A": "可經由⼝服給藥",
+      "B": "選擇性的結合突觸⼩泡蛋⽩SV2A",
+      "C": "影響神經傳遞物質如glutamate和GABA的釋放",
+      "D": "主要經由肝臟代謝"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 73 題",
+    "question": "下列藥物之中樞鎮靜作⽤可被flumazenil拮抗，何者為誤？",
+    "options": {
+      "A": "zolpidem",
+      "B": "lorazapam",
+      "C": "alcohol",
+      "D": "aplrazolam"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 74 題",
+    "question": "下列何種思覺失調症（schizophrenia）的治療藥物，與serotonin (5-HT2) receptor有⾼的親和⼒，較不會引 起錐體外症候群（extrapyramidal symptoms），但有QT延⻑（QT prolongation）的風險？",
+    "options": {
+      "A": "ziprasidone",
+      "B": "clozapine",
+      "C": "chlorpromazine",
+      "D": "haloperidol"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 108 年第一次醫師國考第 75 題",
+    "question": "下列何者可⽤於治療放射性銫（radioactive cesium，137Cs）污染或鉈鹽（thallium salts）中毒？",
+    "options": {
+      "A": "EDTA",
+      "B": "unithiol",
+      "C": "deferasirox",
+      "D": "prussian blue"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

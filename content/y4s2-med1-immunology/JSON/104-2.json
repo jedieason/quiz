@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 104 年第二次醫師國考第 62 題",
+    "question": "有關先天性免疫力（innate immunity）之概念，下列何者錯誤？",
+    "options": {
+      "A": "在微生物入侵數分鐘內即可啟動其反應",
+      "B": "對微生物進行吞噬作用",
+      "C": "對微生物不具備辨識能力",
+      "D": "可由細胞外病原（extracellular pathogens）以及細胞內病原（intracellular pathogens）引 發"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 63 題",
+    "question": "下列那一個基因突變破壞時，就不會產生B及T細胞？",
+    "options": {
+      "A": "末端去氧核苷酸轉移酶（terminal deoxynucleotidyl transferase, TdT）",
+      "B": "ZAP-70",
+      "C": "AID（activation-induced cytidine deaminase）",
+      "D": "RAG1/RAG2重組酶（RAG1/RAG2 recombinase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 64 題",
+    "question": "下列何者不是毒殺性T細胞（cytotoxic T lymphocyte，CTL）能專一性毒殺標的細胞的原 因？",
+    "options": {
+      "A": "CTL需利用TCR辨認標的細胞是否有表現專一性抗原胜肽/MHC class I複合物",
+      "B": "CTL利用TCR辨認出標的細胞後，其將要分泌出去的內容物顆粒會移至CTL與標的細胞接 觸的位置",
+      "C": "CTL利用TCR辨認出標的細胞後，可以利用FasL與標的細胞的Fas結合，引發標的細胞的 凋亡",
+      "D": "CTL可以分泌IL-12來幫助細胞抑制病毒的複製"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 65 題",
+    "question": "Celiac disease及Crohn's disease是二種腸道發炎疾病，下列有關二者之比較何者正確？",
+    "options": {
+      "A": "前者是對腸內共生菌有強烈發炎反應，後者是因為對麥類食物過敏所引起",
+      "B": "前者可能與NOD-2分子失去功能有關，後者主要與HLA-DQ2分子的表現有關",
+      "C": "IFN-γ所引起的發炎反應，在這二種疾病都扮演重要角色",
+      "D": "利用廣泛性抗生素去掉大部分共生菌，皆可治療這二種疾病"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 66 題",
+    "question": "下列有關補體的敘述，何者錯誤？",
+    "options": {
+      "A": "補體是一種蛋白質",
+      "B": "補體會參與專一性和非專一性防禦作用",
+      "C": "干擾素也是補體的一種",
+      "D": "補體可以溶解細菌的細胞膜"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 67 題",
+    "question": "嬰幼兒施打破傷風類毒素疫苗後產生免疫保護時，會啟動特異性免疫反應並且有長期的免疫 記憶。這項免疫反應主要是由下列那一種免疫細胞間的互動所引發的？",
+    "options": {
+      "A": "樹突細胞（dendritic cells）藉由MHC class I分子和CD4 T cells進行非抗原特異性結合",
+      "B": "巨噬細胞（macrophages）藉由MHC class I分子和CD8 T cells進行非抗原特異性結合",
+      "C": "樹突細胞藉由MHC class II分子和CD4 T cells進行抗原特異性結合",
+      "D": "巨噬細胞藉由MHC class II分子和CD8 T cells進行抗原特異性結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 68 題",
+    "question": "志明和春嬌結婚後發現他們的祖母是表姊妹。他們生下的女兒小英特別容易得到肺炎鏈球菌 和嗜血桿菌的感染。免疫學檢查發現小英的 IgM 血清濃度正常但缺乏其他 isotype 的抗體， 並且其抗體的抗原結合部位缺乏高頻率突變導入的多樣性。小英最可能有下列何種疾病？",
+    "options": {
+      "A": "Selective IgA deficiency",
+      "B": "Bruton's agammaglobulinemia",
+      "C": "Hyper IgE syndrome",
+      "D": "Autosomal inherited defect in the AID（activation-induced cytidine deaminase） gene"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 69 題",
+    "question": "臨床醫師目前無法使用下列那一項方式來治療過敏性氣喘？",
+    "options": {
+      "A": "抗IgE 抗體（anti-IgE antibodies）",
+      "B": "類固醇（corticosteroid）",
+      "C": "減敏療法（desensitization immunotherapy）",
+      "D": "注射IL-12提升TH1細胞活性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 70 題",
+    "question": "志明（血型B型）和春嬌（血型AB型）結婚後生下女兒小英（血型A型）。他們的下一個小 孩血型為B型的機會正常狀態下為多少百分比？",
+    "options": {
+      "A": "0",
+      "B": "25",
+      "C": "33",
+      "D": "50"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 71 題",
+    "question": "某些微生物感染而引起自體免疫疾病，其致病機轉為何？",
+    "options": {
+      "A": "引起人體特殊HLA抗原的表現，進而導致自體免疫性",
+      "B": "由於感染抗原與組織抗原之分子類似性（molecular mimicry），導致自體免疫性",
+      "C": "高內皮小靜脈細胞（high endothelial venule, HEV）被活化，進而導致自體免疫性",
+      "D": "胸腺之中央移除（central deletion）機轉受影響，進而導致自體免疫性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 72 題",
+    "question": "一位患有重症肌無力（myasthenia gravis）的孕婦，剛剛平安產下3100公克的小女嬰，但是 隨即發現小女嬰呼吸較淺，四肢力量也較差，因此迅速被送入新生兒加護病房治療。小女嬰 的病因為何？",
+    "options": {
+      "A": "母親傳給她的抗乙醯膽鹼受體抗體（anti-acetylcholine receptor antibody）致病",
+      "B": "母親的TR1細胞（TR1 cells）引起之免疫反應",
+      "C": "母親的TH3細胞（TH3 cells）引起之免疫反應",
+      "D": "母親傳給她的抗Ro抗體（anti-Ro antibody）及抗La抗體（anti-La antibody）所致病"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 73 題",
+    "question": "Anti-VEGF（anti-vascular endothelium growth factor）抗體在治療大腸癌之作用機轉是下列 那一項？",
+    "options": {
+      "A": "抑制血管新生",
+      "B": "抑制吞噬細胞作用",
+      "C": "促進T細胞增生",
+      "D": "促進自然殺手NK細胞增生"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第二次醫師國考第 74 題",
+    "question": "組織移植種入身體免疫特區（immunologically privileged sites）時，能夠長期存活，下列那 一項不屬於這種免疫特區？",
+    "options": {
+      "A": "大腦",
+      "B": "小腦",
+      "C": "睪丸",
+      "D": "肌肉"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

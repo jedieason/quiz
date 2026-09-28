@@ -1,0 +1,377 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 1 題",
+    "question": "有關中樞神經系統內下行徑路的敘述，下列何者錯誤？",
+    "options": {
+      "A": "前庭脊髓徑（vestibulospinal tract）主要支配軀幹與肢體之伸肌群（extensor muscle）",
+      "B": "網狀系統接受多方面傳入之訊息且發出網狀脊髓徑（reticulospinal tract）調控運動系統",
+      "C": "在人體，紅核脊髓徑（rubrospinal tract）支配上下肢之屈肌群",
+      "D": "腹側大腦皮質脊髓徑（ventral corticospinal tract）主要支配軀幹之肌群"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 2 題",
+    "question": "有關內耳外淋巴（perilymph）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "存在於連接圓窗（round window）與卵圓窗（oval window）間的管道",
+      "B": "存於耳蝸的前庭階（scala vestibuli）內",
+      "C": "與蛛網膜下腔（subarachnoid space）相交通",
+      "D": "存於膜性迷路（membranous labyrinth）內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 3 題",
+    "question": "有關內頸動脈（internal carotid artery）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "起源於總頸動脈",
+      "B": "在頸部它走於內頸靜脈的內側",
+      "C": "於破裂孔（foramen lacerum）處轉向後方進入顱腔",
+      "D": "與外旋神經（abducent nerve）共同穿過海綿竇（cavernous sinus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 4 題",
+    "question": "在一般情況下，奇靜脈（azygos vein）在下列何處造成壓跡？",
+    "options": {
+      "A": "右肺上葉（right lung, superior lobe）",
+      "B": "左肺上葉（left lung, superior lobe）",
+      "C": "右肺下葉（right lung, inferior lobe）",
+      "D": "左肺下葉（left lung, inferior lobe）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 5 題",
+    "question": "消化道管壁內，有縱走皺摺的是：",
+    "options": {
+      "A": "食道",
+      "B": "胃",
+      "C": "空腸",
+      "D": "橫結腸"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 6 題",
+    "question": "下列何者支配提睪肌（cremasteric muscle）？",
+    "options": {
+      "A": "髂腹下神經（iliohypogastric nerve）",
+      "B": "髂腹股溝神經（ilioinguinal nerve）",
+      "C": "生殖股神經（genitofemoral nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 7 題",
+    "question": "膀胱下動脈（inferior vesical artery）發生阻塞，下列何者最不可能受影響？",
+    "options": {
+      "A": "膀胱",
+      "B": "直腸",
+      "C": "儲精囊",
+      "D": "輸精管"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 8 題",
+    "question": "直腸梳狀線（pectinate line）下方之淋巴，最常直接匯流至下列何處？",
+    "options": {
+      "A": "髂內淋巴結（internal iliac lymph nodes）",
+      "B": "髂外淋巴結（external iliac lymph nodes）",
+      "C": "腹股溝淺淋巴結（superficial inguinal lymph nodes）",
+      "D": "腰淋巴結（lumbar lymph nodes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 9 題",
+    "question": "支配臀中肌（gluteus medius）的神經發炎，下列何者最可能同時受影響？",
+    "options": {
+      "A": "臀大肌（gluteus maximus）",
+      "B": "梨狀肌（piriformis）",
+      "C": "上孖肌（superior gemellus）",
+      "D": "闊筋膜張肌（tensor fasciae latae）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 10 題",
+    "question": "下列何者不是腹膜的衍生物？",
+    "options": {
+      "A": "白膜（tunica albuginea）",
+      "B": "鞘膜（tunica vaginalis）",
+      "C": "闊韌帶（broad ligament）",
+      "D": "懸韌帶（suspensory ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 11 題",
+    "question": "下列何者是直接連接子宮與卵巢的支持構造？",
+    "options": {
+      "A": "卵巢繫膜（ovarian mesovarium）",
+      "B": "卵巢韌帶（ovarian ligament）",
+      "C": "子宮圓韌帶（round ligament of the uterus）",
+      "D": "輸卵管繫膜（mesosalpinx）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 12 題",
+    "question": "下列前臂（forearm）的肌肉中，那一塊附著在手腕的豆狀骨（pisiform bone）上？",
+    "options": {
+      "A": "旋前圓肌（pronator teres）",
+      "B": "橈側屈腕肌（flexor carpi radialis）",
+      "C": "掌長肌（palmaris longus）",
+      "D": "尺側屈腕肌（flexor carpi ulnaris）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 13 題",
+    "question": "有關頸椎關節的敘述，下列何者正確？",
+    "options": {
+      "A": "寰枕關節（atlanto-occipital joint）主要提供頭部左右轉動",
+      "B": "翼韌帶（alar ligament）主要連結樞椎（axis）的齒突（dens）與寰椎（atlas）",
+      "C": "樞椎的齒突主要與寰椎前結節（anterior tubercle）的後表面形成關節",
+      "D": "橫突（transverse process）上有肋關節面（costal facet）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 14 題",
+    "question": "胼胝體（corpus callosum）的主要血流供給來自下列何動脈？",
+    "options": {
+      "A": "大腦前動脈（anterior cerebral artery）",
+      "B": "大腦中動脈（middle cerebral artery）",
+      "C": "前脈絡叢動脈（anterior choroid artery）",
+      "D": "豆紋動脈 (lenticulostriate artery)"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 15 題",
+    "question": "下列何種神經傳導徑路，通過脊髓白質腹側聯合（ventral white commissure）？",
+    "options": {
+      "A": "脊髓丘腦徑（spinothalamic tract）",
+      "B": "背側脊髓小腦徑（dorsal spinocerebellar tract）",
+      "C": "網狀脊髓徑（reticulospinal tract）",
+      "D": "紅核脊髓徑（rubrospinal tract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 16 題",
+    "question": "下列何構造不屬於外側嗅覺區（lateral olfactory area）？",
+    "options": {
+      "A": "前隔區（septal area）",
+      "B": "鉤迴 （uncus）",
+      "C": "內鼻皮質（entorhinal cortex）",
+      "D": "杏仁核（amygdala）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 17 題",
+    "question": "關於孤立束核（solitary nucleus）之敘述 ，下列何者錯誤？",
+    "options": {
+      "A": "可接受味覺的感覺訊息",
+      "B": "可接受一般內臟感覺訊息",
+      "C": "含有副交感神經節前神經元（parasympathic preganglionic neuron）",
+      "D": "位於延髓（medulla oblongata）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 18 題",
+    "question": "大腦初級視覺皮質（primary visual cortex）之主要血流來自何處？",
+    "options": {
+      "A": "大腦後動脈（posterior cerebral artery）",
+      "B": "大腦前動脈（anterior cerebral artery）",
+      "C": "大腦中動脈（middle cerebral artery）",
+      "D": "後交通動脈（posterior communicating artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 19 題",
+    "question": "腭扁桃腺（palatine tonsil）的血液供應，主要來自下列何者的分支？",
+    "options": {
+      "A": "顏面動脈（facial artery）",
+      "B": "下齒槽動脈（inferior alveolar artery）",
+      "C": "舌動脈（lingual artery）",
+      "D": "上頜動脈（maxillary artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 20 題",
+    "question": "關於梨狀窩（piriform fossa）之敘述，下列何者正確？",
+    "options": {
+      "A": "位於口咽（oropharynx）的黏膜凹窩（mucosal recess）",
+      "B": "位於舌基部（base of tongue）與會厭（epiglottis）之間",
+      "C": "其黏膜深層有喉外神經（external laryngeal nerve）走過",
+      "D": "梨狀窩與喉入口（laryngeal inlet）之間隔著杓狀會厭皺襞（aryepiglottic fold）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 21 題",
+    "question": "橫顏面動脈（transverse facial artery）是下列那一動脈的分支？",
+    "options": {
+      "A": "顏面動脈（facial artery）",
+      "B": "上頜動脈（maxillary artery）",
+      "C": "頰動脈（buccal artery）",
+      "D": "淺顳動脈（superficial temporal artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 22 題",
+    "question": "下列何者與心臟纖維骨架（fibrous skeleton）的功能，最不相關？",
+    "options": {
+      "A": "提供瓣膜附著處",
+      "B": "使心房心室不同時收縮",
+      "C": "冠狀動脈供血區域之分界線",
+      "D": "使瓣膜出口不會隨血流量改變而過分擴張"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 23 題",
+    "question": "下列何種情形通常不會導致肺塌陷（atelectasis）？",
+    "options": {
+      "A": "氣胸（pneumothorax）",
+      "B": "肋膜積液（pleural effusion）",
+      "C": "肺栓塞（pulmonary thrombosis）",
+      "D": "支氣管阻塞（bronchial obstruction）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 24 題",
+    "question": "內胸動脈（internal thoracic artery）走在：",
+    "options": {
+      "A": "壁層肋膜（parietal pleura）內側",
+      "B": "壁層肋膜（parietal pleura）與胸橫肌（transversus thoracis）之間",
+      "C": "胸橫肌（transversus thoracis）與肋軟骨之間",
+      "D": "胸骨正下方"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 25 題",
+    "question": "有關關節的敘述，下列何者正確？",
+    "options": {
+      "A": "椎間關節（intervertebral joint）屬滑液關節（synovial joint）",
+      "B": "第一胸肋關節（sternocostal joint）屬滑液關節（synovial joint）",
+      "C": "第二到第七胸肋關節（sternocostal joint）屬軟骨關節（cartilaginous joint）",
+      "D": "胸鎖關節（sternoclavicular joint）屬滑液關節（synovial joint）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 26 題",
+    "question": "有關肋間隙（intercostal space）之敘述，下列何者正確？",
+    "options": {
+      "A": "第五肋間是指介於第四及第五肋骨間的間隙",
+      "B": "共有11個肋間隙",
+      "C": "長胸神經（long thoracic nerve）的分支穿入肋間",
+      "D": "肋間神經（intercostal nerve）走在外肋間肌（external intercostal muscle）與內肋間肌（internal intercostal muscle）之間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 27 題",
+    "question": "下列何者穿過外側弓狀韌帶（lateral arcuate ligament）下方後，支配前外側腹壁的皮膚？",
+    "options": {
+      "A": "肋下神經（subcostal nerve）",
+      "B": "髂腹股溝神經（iliohypogastric nerve）",
+      "C": "閉孔神經（obturator nerve）",
+      "D": "股神經（femoral nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 28 題",
+    "question": "下列何處是女性骨盆腔最低的地方？",
+    "options": {
+      "A": "腹壁膀胱陷凹（abdominovesical pouch）",
+      "B": "直腸膀胱陷凹（rectovesical pouch）",
+      "C": "直腸子宮陷凹（rectouterine pouch）",
+      "D": "子宮膀胱陷凹（uterovesical pouch）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 29 題",
+    "question": "下列何者不附著在坐骨粗隆（ischial tuberosity）？",
+    "options": {
+      "A": "半腱肌（semitendinosus）",
+      "B": "半膜肌（semimembranosus）",
+      "C": "股二頭肌長頭（long head of biceps femoris）",
+      "D": "股二頭肌短頭（short head of biceps femoris）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 30 題",
+    "question": "網球肘（tennis elbow）與高爾夫球肘（golfer's elbow）最常感覺到疼痛的部位，分別是在那一個位置？",
+    "options": {
+      "A": "前者在冠狀窩（coronoid fossa），後者在鷹嘴窩（olecranon fossa）",
+      "B": "前者在鷹嘴窩（olecranon fossa），後者在冠狀窩（coronoid fossa）",
+      "C": "前者在內上髁（medial epicondyle），後者在外上髁（lateral epicondyle）",
+      "D": "前者在外上髁（lateral epicondyle），後者在內上髁（medial epicondyle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 31 題",
+    "question": "下列何者不附著於第二頸椎的棘突？",
+    "options": {
+      "A": "頸半棘肌（semispinalis cervicis）",
+      "B": "下頭斜肌（obliquus capitis inferior）",
+      "C": "大後頭直肌（rectus capitis posterior major）",
+      "D": "小後頭直肌（rectus capitis posterior minor）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

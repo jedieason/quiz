@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 113 年第二次醫師國考第 37 題",
+    "question": "下列關於胞器（organelle）的敘述，何者正確？",
+    "options": {
+      "A": "粒線體（mitochondria）是單層膜胞器，是以無氧呼吸產生能量的主要場所",
+      "B": "核糖體RNA（ribosomal RNA）存在細胞質內，是由核糖體（ribosome）所製造",
+      "C": "平滑內質網（smooth ER）含有許多核糖體，負責蛋白質的醣化（glycosylation）",
+      "D": "高基氏體（Golgi apparatus）負責蛋白質修飾（modification）和分類（sorting）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 38 題",
+    "question": "一般用來觀察組織切片的明視野顯微鏡（bright-field microscope），其最佳解析度（resolution）大約 是：",
+    "options": {
+      "A": "0.2 mm",
+      "B": "0.2 μm",
+      "C": "0.2 nm",
+      "D": "0.2 pm"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 39 題",
+    "question": "骨生成（bone formation）時，骨基質（bone matrix）主要由下列何者分泌？",
+    "options": {
+      "A": "骨生成細胞（osteoprogenitor cells）",
+      "B": "成骨細胞（osteoblasts）",
+      "C": "蝕骨細胞（osteoclasts）",
+      "D": "骨細胞（osteocytes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 40 題",
+    "question": "下列何者是主要負責神經元的軸突運輸（axonal transport）之構造？",
+    "options": {
+      "A": "髓鞘（myelin sheath）",
+      "B": "平滑內質網（smooth endoplasmic reticulum）",
+      "C": "微小管（microtubule）",
+      "D": "粗糙內質網（rough endoplasmic reticulum）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 41 題",
+    "question": "下列何種細胞具有類似未分化間質幹細胞（undifferentiated mesenchymal stem cell）的特性，受刺激能 分化形成內皮細胞或平滑肌細胞？",
+    "options": {
+      "A": "周細胞（pericytes）",
+      "B": "軟骨細胞（chondrocytes）",
+      "C": "足細胞（podocytes）",
+      "D": "肥大細胞（mast cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 42 題",
+    "question": "下列有關牙本質（dentin）和琺瑯質（enamel）的比較，何者正確？",
+    "options": {
+      "A": "兩者均存在齒冠（crown）和齒根（root）",
+      "B": "兩者均是由成牙質細胞（odontoblasts）分泌形成",
+      "C": "牙本質小管（dentinal tubule）內具有成牙質細胞突（odontoblastic process）",
+      "D": "牙本質直接與牙周韌帶（periodontal ligament）相接"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 43 題",
+    "question": "下列何者細胞主要分布在胃底腺（fundic glands），而沒有分布在胃幽門腺（pyloric glands）？",
+    "options": {
+      "A": "主細胞（chief cells）",
+      "B": "未分化細胞（undifferentiated cells）",
+      "C": "黏液分泌細胞（mucous-secreting cells）",
+      "D": "腸內分泌細胞（enteroendocrine cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 44 題",
+    "question": "下列有關腎小管（renal tubule）結構之敘述，何者錯誤？",
+    "options": {
+      "A": "近曲小管（proximal convoluted tubule）和遠曲小管（distal convoluted tubule）的管壁細胞均有基 部橫紋（basal striation）",
+      "B": "近曲小管（proximal convoluted tubule）的管壁細胞頂端之微絨毛數量比遠曲小管（distal convoluted tubule）的管壁細胞頂端之微絨毛數量多",
+      "C": "腎髓射線（medullary ray）包括腎元（nephron）的近曲小管（proximal convoluted tubule）與遠曲小 管（distal convoluted tubule）",
+      "D": "緻密斑（macula densa）是由遠曲小管（distal convoluted tubule）的管壁細胞特化而成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 45 題",
+    "question": "卵巢濾泡（ovarian follicle）成長時，顆粒細胞（granulosa cell）之間的接合構造（junction），何者 會廣泛的出現？",
+    "options": {
+      "A": "緊密接合（tight junction）",
+      "B": "黏連接合（adherens junction）",
+      "C": "間隙接合（gap junction）",
+      "D": "橋粒（desmosome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 113 年第二次醫師國考第 46 題",
+    "question": "下列何種腺體內的細胞不會合成激素（hormone）？",
+    "options": {
+      "A": "腦下垂體前葉（anterior lobe of pituitary gland）",
+      "B": "腦下垂體後葉（posterior lobe of pituitary gland）",
+      "C": "腎上腺皮質（adrenal cortex）",
+      "D": "腎上腺髓質（adrenal medulla）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

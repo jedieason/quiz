@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 29 題",
+    "question": "下列那些寄生蟲具有口部、咽管、食道、腸道與肛門之完整消化系統？①縮小包膜絛蟲（Hymenolepis  diminuta） ②蛔蟲（Ascaris lumbricoides） ③美洲鉤蟲（Necator americanus） ④糞小桿線蟲 （Strongyloides stercoralis） ⑤亞洲絛蟲（Taenia asiatica）",
+    "options": {
+      "A": "①②③",
+      "B": "②③④",
+      "C": "③④⑤",
+      "D": "①③⑤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 30 題",
+    "question": "一位五歲的小朋友血液中嗜伊紅性白血球（eosinophil）異常增加，同時檢查出肝臟腫大，他最有可能感染 下列何種寄生蟲？",
+    "options": {
+      "A": "旋毛蟲（Trichinella spiralis）",
+      "B": "蟯蟲（Enterobius vermicularis）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "犬蛔蟲（Toxocara canis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 31 題",
+    "question": "下列有關人類包生囊蟲病（hydatid disease）之敘述，何者正確？①人類因食入受污染肉類而感染 ②肺泡 包生囊症（alveolar echinococcosis）最具致病危險性 ③歐洲地區以豬為人類主要感染源 ④囊體破裂將 在人體導致過敏性休克（anaphylactic shock）",
+    "options": {
+      "A": "①②",
+      "B": "③④",
+      "C": "①③",
+      "D": "②④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 32 題",
+    "question": "李同學於暑假期間赴香港旅遊，期間遍嚐各種魚類美食，返國後因腹部嚴重不適就醫，經醫師診斷疑似膽囊 炎住院，隨後經糞便鏡檢而確認診斷，據此病史最可能感染下列何種寄生蟲？",
+    "options": {
+      "A": "日本血吸蟲（Schistosoma japonicum）",
+      "B": "衛氏肺吸蟲（Paragonimus westermani）",
+      "C": "薑片蟲（Fasciolopsis buski）",
+      "D": "中華肝吸蟲（Clonorchis sinensis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 33 題",
+    "question": "臨床上，免疫妥協（immunocompromised）患者嚴重腹瀉的症狀，主要不是由下列何種寄生蟲引起？①微孢子 蟲（Enterocytozoon bieneusi） ②肺孢子蟲（Pneumosystis carinii 或Pneumosystis jirovecii ） ③ 貝氏等孢子蟲（Isospora belli） ④弓蟲（Toxoplasma gondii）",
+    "options": {
+      "A": "①②",
+      "B": "③④",
+      "C": "①③",
+      "D": "②④"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 34 題",
+    "question": "下列何種單細胞原蟲不是感染人類的血鞭毛蟲（hemoflagellate）？",
+    "options": {
+      "A": "布氏羅德西亞錐蟲（Trypanosoma brucei rhodesiense）",
+      "B": "枯西氏錐蟲（Trypanosoma cruzi）",
+      "C": "唇形鞭毛蟲（Chilomastix mesnili）",
+      "D": "熱帶利什曼原蟲（Leishmania tropica）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 35 題",
+    "question": "下列有關病媒（vector）及其媒介疾病之關係，何者錯誤？",
+    "options": {
+      "A": "體蝨（body louse）；戰壕熱（trench fever）",
+      "B": "軟蜱（soft tick）；日本斑疹熱（Japanese spotted fever）",
+      "C": "采采蠅（tsetse fly）；非洲睡眠病（African sleeping sickness）",
+      "D": "虻（Chrysops spp.）；羅阿絲蟲病（loaiasis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

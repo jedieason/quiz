@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 101 年第二次醫師國考第 26 題",
+    "question": "某酵素對受質A的動力學參數為：Km＝0.01 mM；Kcat＝5 S-1，而對受質B的動力學參數為：Km ＝0.1 mM；Kcat＝5 S-1，由以上數據可知：",
+    "options": {
+      "A": "此酵素對受質B 的反應速率較易飽和",
+      "B": "當催化速率處於飽和時，此酵素對受質A 的反應較快",
+      "C": "此酵素對受質A 的專一性較高",
+      "D": "當受質濃度極低時，此酵素對受質B 的反應較快"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 27 題",
+    "question": "下列何者不是同源重組（homologous recombination）的生物功能？",
+    "options": {
+      "A": "幫助染色體在減數分裂（meiosis）時的分離",
+      "B": "增加基因多樣性（genetic diversity）",
+      "C": "促進轉錄作用（transcription）",
+      "D": "DNA 修復（DNA repair）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 28 題",
+    "question": "下列關於非競爭型抑制劑（uncompetitive inhibitor）的敘述，何者正確？",
+    "options": {
+      "A": "非競爭型抑制劑係結合於酵素的活性中心，使受質無法結合",
+      "B": "非競爭型抑制劑與酵素結合後會改變酵素活性中心的結構，阻斷反應的進行",
+      "C": "非競爭型抑制劑的存在會使酵素的Km 上升",
+      "D": "酵素反應之Vmax 不受非競爭型抑制劑的影響"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 29 題",
+    "question": "下列維生素何者為輔酶A（coenzyme A）的結構成分？",
+    "options": {
+      "A": "Pantothenic acid",
+      "B": "Ascorbic acid",
+      "C": "Nicotinic acid",
+      "D": "Folic acid"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 30 題",
+    "question": "下列何者主要是負責細胞還原生合成（reductive biosynthesis）反應之輔酶？",
+    "options": {
+      "A": "NADH",
+      "B": "NADPH",
+      "C": "FADH2",
+      "D": "FMNH2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 31 題",
+    "question": "有關DNA 與RNA 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "DNA 由去氧核糖核酸組成，RNA 由核糖核酸組成",
+      "B": "在弱鹼溶液中，RNA 較DNA 穩定",
+      "C": "雙股DNA 大多以B form 二級結構存在",
+      "D": "DNA 與RNA 皆用磷酸二酯鍵（phosphodiester bond）形成聚合體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 32 題",
+    "question": "有關細菌的基因表現之敘述，下列何者錯誤？",
+    "options": {
+      "A": "細菌的protein coding gene 不含intron",
+      "B": "細菌僅有一種RNA polymerase 進行轉錄作用",
+      "C": "細菌的mRNA 的轉錄可和轉譯同步發生",
+      "D": "細菌所有的RNA，均不須進行轉錄後processing"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 33 題",
+    "question": "三餐正常的人在午餐未進食前，下列那一項是血糖的主要來源？",
+    "options": {
+      "A": "蛋白質",
+      "B": "肝臟中的肝醣（glycogen）",
+      "C": "肌肉中的肝醣",
+      "D": "脂肪組織的葡萄糖（glucose）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 34 題",
+    "question": "遺傳密碼子（genetic codon）的degeneracy 是指：",
+    "options": {
+      "A": "遺傳密碼子是由二個核膕酸（nucleotides）所構成",
+      "B": "遺傳密碼子是由核膕酸重複使用所構成",
+      "C": "多個遺傳密碼子可代表同一種胺基酸（amino acid）",
+      "D": "同一遺傳密碼子在不同的生物體中代表不同種的胺基酸"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 35 題",
+    "question": "嘌呤的代謝異常會導致人類疾病，下列關於adenosine deaminase（ADA）deficiency 的敘述何者錯誤？",
+    "options": {
+      "A": "ADA 缺乏時會導致嚴重的免疫缺乏，讓T 淋巴球無法發揮正常防禦功能",
+      "B": "ADA 缺乏時會促進dATP 的合成",
+      "C": "ADA 缺乏時會導致細胞中累積100 倍以上的dATP",
+      "D": "細胞中過多的dATP 會抑制核膕酸還原酶的作用，而無法產生其他的dNTP"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 36 題",
+    "question": "胰島素（insulin）調節下列何種分子的合成，進而活化phosphofructokinase-1 以促進糖解作用 （glycolysis）？",
+    "options": {
+      "A": "citrate",
+      "B": "NADH",
+      "C": "fructose 2,6-bisphosphate",
+      "D": "ATP"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 37 題",
+    "question": "下列何種內分泌荷爾蒙其receptor 不是nuclear hormone receptor？",
+    "options": {
+      "A": "glucocorticoid",
+      "B": "glucagon",
+      "C": "thyroid hormone",
+      "D": "progesterone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 38 題",
+    "question": "劇烈運動中的肌細胞與靜止時之肌細胞相比，前者會產生下列何種現象？",
+    "options": {
+      "A": "lactate 形成之速率較高",
+      "B": "gluconeogenesis 增加",
+      "C": "glucose 之消耗較低",
+      "D": "glycogenolysis 較低"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 39 題",
+    "question": "Tay-Sachs 是一種人類遺傳性疾病，下列相關敘述何者錯誤？",
+    "options": {
+      "A": "會導致ganglioside GM2 在腦及脾中的堆積",
+      "B": "它是β-galactosidase 的缺乏",
+      "C": "它是一種發育過程漸進式的肢體麻痺及失明",
+      "D": "脂質類代謝的異常所引起"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 40 題",
+    "question": "下列何種分子是屬於glycerophospholipid 並參與細胞內訊息傳遞？",
+    "options": {
+      "A": "arachidonic acid",
+      "B": "vitamin C",
+      "C": "phosphatidylinositol",
+      "D": "phosphatidylethanolamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 41 題",
+    "question": "free ammonia 在細胞內可藉由那一個酵素作用，將其轉化為無毒性的L-glutamine？",
+    "options": {
+      "A": "glutaminase",
+      "B": "glutamine synthetase",
+      "C": "glutamate dehydrogenase",
+      "D": "aspartate aminotransferase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 42 題",
+    "question": "有關家族性高膽固醇症（familial hypercholesterolemia）最主要的致病原因為何？",
+    "options": {
+      "A": "飲食中過度高油脂食物的攝取",
+      "B": "HMG-CoA reductase 基因變異",
+      "C": "正常LDL receptor 蛋白表現量過高",
+      "D": "LDL receptor 基因變異"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 43 題",
+    "question": "澱粉樣變性病（amyloidosis）是一類由蛋白質摺疊錯誤所引發的疾病，何種蛋白質二級結構（secondary  structure）與導致此類疾病的關係最為密切？",
+    "options": {
+      "A": "α-螺旋（α-helix）",
+      "B": "β-摺板（β-sheet）",
+      "C": "β-回轉（β-turn）",
+      "D": "隨機線圈（random coil）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 44 題",
+    "question": "一位60 歲病患因腹部劇痛、輕度癱瘓被送來急診，尿液檢查呈酒紅色，基因分析發現：參與血紅素 （heme）合成的酵素發生錯義突變（missense mutation）。下列何者是最可能的診斷？",
+    "options": {
+      "A": "苯酮尿症（phenylketonuria）",
+      "B": "楓糖漿尿症（maple syrup urine disease）",
+      "C": "黑尿症（alkaptonuria）",
+      "D": "紫質症（porphyria）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 45 題",
+    "question": "一位新生兒的血液篩檢發現有白胺酸（leucine）、異白胺酸（isoleucine）及纈胺酸（valine）的堆積， 懷疑是楓糖漿尿症（maple syrup urine disease）的患者，必須終身作嚴格的飲食控制。下列那個酵素 的功能障礙，最可能是這個疾病的原因？",
+    "options": {
+      "A": "胺甲醯磷酸鹽合成酶（carbamoyl phosphate synthetase）",
+      "B": "黑尿酸氧化酶（homogentisic acid oxidase）",
+      "C": "支鏈酮酸去氫酵素（branched-chain α–keto acid dehydrogenase）",
+      "D": "苯丙胺酸羥化酶（phenylalanine hydroxylase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 46 題",
+    "question": "puromycin 是一種抗生素（antibiotics），可以抑制細菌之蛋白質合成，是由於它可以：",
+    "options": {
+      "A": "抑制細菌之核糖體結合於mRNA 上",
+      "B": "佔據mRNA 之起始密碼位置",
+      "C": "促進核糖體之分解",
+      "D": "結合在核糖體之A site，破壞胜肽鍵之生合成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 47 題",
+    "question": "不孕症之治療可以注射gonadotropin-releasing hormone（GnRH），以促進排卵。下列有關GnRH  receptor 的敘述何者錯誤？",
+    "options": {
+      "A": "GnRH receptor 是membrane receptor",
+      "B": "GnRH receptor 是經G protein 傳遞訊息",
+      "C": "GnRH receptor 接受ligand 後，會活化protein kinase A",
+      "D": "GnRH receptor受ligand刺激後，細胞質內的$Ca^{2+}$濃度會上升"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 48 題",
+    "question": "粒線體進行電子傳遞過程中容易產生下列何種對細胞有害的物質？",
+    "options": {
+      "A": "reactive oxygen species（ROS）",
+      "B": "CO",
+      "C": "NH3",
+      "D": "$O_2$"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 49 題",
+    "question": "下列關於訊息傳遞的敘述，何者錯誤？",
+    "options": {
+      "A": "β-adrenergic receptor 是經由cyclic AMP 進行細胞訊息傳遞",
+      "B": "一氧化氮（nitric oxide）是經由膜型guanylyl cyclase 受體（membrane form guanylyl cyclase）進行 細胞訊息傳遞",
+      "C": "細胞內鈣離子濃度受inositol-3-phosphate（IP3）調控",
+      "D": "cyclic AMP（cAMP）是藉由allosteric regulation 的方式調控蛋白激酶A（protein kinase A）活性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第二次醫師國考第 50 題",
+    "question": "neuropathy，簡稱LHON，後來證實這是一種粒線體疾病。下列有關粒線體之敘述何者正確？",
+    "options": {
+      "A": "粒線體的DNA 與細胞核DNA 一樣，為環狀雙股結構",
+      "B": "粒線體相關的遺傳病大多是自體隱性染色體遺傳（autosomal recessive）",
+      "C": "粒線體相關的遺傳病大多是X-性聯染色體遺傳（X-linked recessive），所以大多發生在男性",
+      "D": "粒線體DNA 突變情況較輕的病人，有時候只有眼睛神經病變，在接近成年的年齡時突然發生失明"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

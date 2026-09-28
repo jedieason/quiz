@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 1 題",
+    "question": "Babinski sign 出現於成人之可能原因為何？",
+    "options": {
+      "A": "lateral corticospinal tract 損傷",
+      "B": "basal ganglion 損傷",
+      "C": "lower motor neuron 損傷",
+      "D": "vestibulospinal tract 損傷"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 2 題",
+    "question": "在下列何種情況時，水晶體的形狀會變得較為扁平？",
+    "options": {
+      "A": "contraction of ciliary muscle",
+      "B": "accommodation for near vision",
+      "C": "focusing on distant objects",
+      "D": "firing of parasympathetic nerves"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 3 題",
+    "question": "當一細胞之膜電位等於鉀離子之平衡電位時，代表的意義為何？",
+    "options": {
+      "A": "細胞膜鉀離子通道關閉，鉀離子無法經離子通道流通",
+      "B": "鈉鉀幫浦停止運作",
+      "C": "鉀離子經離子通道流出與流入細胞的量相等",
+      "D": "此時為動作電位之絕對不反應期"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 4 題",
+    "question": "下列何者並不支配味蕾細胞？",
+    "options": {
+      "A": "trigeminal nerve",
+      "B": "facial nerve",
+      "C": "glossopharyngeal nerve",
+      "D": "vagus nerve"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 5 題",
+    "question": "下列何者不是胸部脊髓損傷（thoracic spinal cord injury）病患之臨床特徵？",
+    "options": {
+      "A": "impaired pinprick sensation below T6",
+      "B": "reduced abdominal reflex",
+      "C": "presence of Babinski sign",
+      "D": "hyperactive biceps reflex"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 6 題",
+    "question": "下列那一型肌肉受刺激之後，由刺激至達到最大收縮力所需之時間（即contraction time）最長？",
+    "options": {
+      "A": "心室肌（cardiac ventricular muscle）",
+      "B": "小腸平滑肌（small intestinal smooth muscle）",
+      "C": "腓腸肌（gastrocnemius）",
+      "D": "控制眼球運動之肌肉"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 7 題",
+    "question": "人體血管循環系統中相對阻力（relative resistance）最高的地方為何？",
+    "options": {
+      "A": "aorta",
+      "B": "coronary arteries",
+      "C": "arterioles",
+      "D": "capillaries"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 8 題",
+    "question": "下列關於左心室舒張的敘述，何者正確？",
+    "options": {
+      "A": "左心室舒張前期（protodiastole）約持續0.4 秒",
+      "B": "左心室開始舒張前，心室內壓力已下降",
+      "C": "二尖瓣打開後，左心室即開始等容積舒張（iso-volumetric relaxation）",
+      "D": "左心室在等容積舒張時，心室內壓力逐漸上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 9 題",
+    "question": "下列何者和調控凝血無關？",
+    "options": {
+      "A": "fibrinogen",
+      "B": "protein C",
+      "C": "C-reactive protein",
+      "D": "kallikrein"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 10 題",
+    "question": "正常人呼吸時，下列何者測得的壓力於吸氣期和呼氣期最可能都是負壓（negative pressure）？",
+    "options": {
+      "A": "肋膜壓（pleural pressure）",
+      "B": "肺泡壓（alveolar pressure）",
+      "C": "肺泡壓－肋膜壓（transpulmonary pressure）",
+      "D": "氣道壓（airway pressure）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 11 題",
+    "question": "有關二羥基吡啶受器（dihydropyridine receptor, DHPR）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "該受器屬於骨骼肌肉纖維的細胞膜蛋白",
+      "B": "鈣離子由肌漿網流入細胞質內必須通過該受器",
+      "C": "DHPR 可調控電壓門控性鈣離子通道（voltage-gated calcium ion channel）",
+      "D": "開啟阿諾鹼受體（ryanodine receptor）主要是藉由DHPR 在結構上的構象改變（conformational change）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 12 題",
+    "question": "一位54 歲高血壓病患，於聽診時發現其心尖位置之第一心音（first heart sound）前有一低頻短音， 此時病人常會伴隨有下列何種現象？",
+    "options": {
+      "A": "心電圖出現心房顫動（atrial fibrillation）",
+      "B": "胸部X 光出現右心室擴大",
+      "C": "心臟超音波發現左心室肥厚",
+      "D": "左側胸骨下緣出現收縮期心雜音"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 13 題",
+    "question": "於平靜呼吸狀況下，有關肋膜內壓（intrapleural pressure）之敘述，何者錯誤？",
+    "options": {
+      "A": "吸氣與呼氣時皆為負壓",
+      "B": "低於肺泡壓（alveolar pressure）",
+      "C": "吸氣較呼氣時為低",
+      "D": "呼氣結束時之壓力為零"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 14 題",
+    "question": "關於膽色素（bile pigment）之敘述，下列何者正確？",
+    "options": {
+      "A": "為血紅素分解之產物",
+      "B": "參與脂肪的消化作用",
+      "C": "全部由糞便排出",
+      "D": "在肝細胞中與白蛋白（albumin）結合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 15 題",
+    "question": "急性胰臟炎發作時，最先被活化的酵素為何？",
+    "options": {
+      "A": "胰澱粉酶（pancreatic amylase）",
+      "B": "胰蛋白酶（trypsin）",
+      "C": "胰糜蛋白酶（chymotrypsin）",
+      "D": "胰脂肪酶（pancreatic lipase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 16 題",
+    "question": "胃幽門完全阻塞會引起嚴重嘔吐，若未妥善治療，容易導致下列何種結果？",
+    "options": {
+      "A": "腹水快速增加",
+      "B": "酸中毒",
+      "C": "鹼中毒",
+      "D": "脫水，但無明顯酸鹼失衡"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 17 題",
+    "question": "下列何種狀況會發生發紺（cyanosis）？",
+    "options": {
+      "A": "動脈血缺氧血紅素含量大於5 g/dL",
+      "B": "一氧化碳中毒",
+      "C": "組織毒性缺氧",
+      "D": "嚴重貧血缺氧"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 18 題",
+    "question": "當血中之鉀離子濃度上升時，體內那一個激素分泌增加？",
+    "options": {
+      "A": "抗利尿激素（anti-diuretic hormone; ADH）",
+      "B": "angiotensinogen",
+      "C": "aldosterone",
+      "D": "atrial natriuretic peptide（ANP）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 19 題",
+    "question": "下列那一項為計算純水清除率（free-water clearance, CH2O）的公式（V = urine flow rate; Cosm = osmolar  clearance）？",
+    "options": {
+      "A": "CH2O = V + Cosm",
+      "B": "CH2O = V－Cosm",
+      "C": "CH2O = V．Cosm",
+      "D": "CH2O = V / Cosm"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 20 題",
+    "question": "抗利尿激素（ADH）分泌不足，會導致尿崩症（diabetes insipidus）。下列有關病人身體內變化的敘 述，何者錯誤？",
+    "options": {
+      "A": "血漿中的滲透壓（plasma osmolarity）會上升",
+      "B": "血漿中的鈉離子（plasma sodium）濃度會上升",
+      "C": "血漿中的腎素（renin）濃度會下降",
+      "D": "細胞外組織間質液（interstitial fluid）的淨水壓（hydrostatic pressure）會下降"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 21 題",
+    "question": "因應血中葡萄糖濃度上升於第二階段（phase II）中緩慢釋出胰島素之細胞內關鍵分子為下列何者？",
+    "options": {
+      "A": "鈣離子（calcium ion）",
+      "B": "麩胺酸鹽（glutamate）",
+      "C": "丙酮酸鹽（pyruvate）",
+      "D": "鎂離子（magnesium ion）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 22 題",
+    "question": "就精原母細胞（spermatogonium）到精子（sperm）的過程，下列那一項之順序最佳？",
+    "options": {
+      "A": "Spermatogonium→primary spermatocyte→first meiosis→secondary spermatocyte→second meiosis→ spermatid→sperm Sperm",
+      "B": "atogonium→first meiosis→primary spermatocyte→second meiosis→secondary spermatocyte→ spermatid→sperm Spermatogonium→primary spermatocyte→first meiosis→secondary spermatocyte→spermatid→second",
+      "C": "meiosis→sperm Spermatogonium→primary spermatocyte→secondary sper",
+      "D": "matocyte→first meiosis→spermatid→second meiosis→sperm"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 23 題",
+    "question": "一位36 歲女性，因近來常覺頭痛。其血壓測起來是180/110 mmHg。但身體其他部位並未發現明顯 異常。腹部電腦斷層掃描發現她右側腎上腺有一個2 cm的腫瘤。而血液中，發現$K^+$異常的低。下列 何者可能偏高？",
+    "options": {
+      "A": "ACTH",
+      "B": "aldosterone",
+      "C": "renin",
+      "D": "catecholamine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 24 題",
+    "question": "一般而言，哺乳可抑制排卵主要是因何種激素的影響？",
+    "options": {
+      "A": "雌激素（estrogen）",
+      "B": "助孕素（progesterone）",
+      "C": "泌乳素（prolactin）",
+      "D": "性釋素（GnRH）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 25 題",
+    "question": "下列關於成年女性體內存在微量雄性素（androgen）及其前驅物質（precursor）之敘述，何者錯誤？",
+    "options": {
+      "A": "50 到60%由腎上腺分泌，其餘由卵巢分泌",
+      "B": "可維持正常體毛之分布",
+      "C": "與女性之性慾有關",
+      "D": "可在周邊組織轉換成雌激素（estrogen）提供妊娠時額外之需"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ或AD者均給分。"
+  }
+]

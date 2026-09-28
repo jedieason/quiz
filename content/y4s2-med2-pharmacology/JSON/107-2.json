@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 51 題",
+    "question": "下列何種藥物作用於dihydroorotate dehydrogenase而抑制pyrimidine合成，用於類風濕性關節炎 （rheumatoid arthritis）治療？",
+    "options": {
+      "A": "leflunomide",
+      "B": "mycophenolic acid",
+      "C": "azathioprine",
+      "D": "methotrexate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 52 題",
+    "question": "有關糖皮質激素（glucocorticoids）所產生的副作用描述，下列何者錯誤？",
+    "options": {
+      "A": "會透過干擾鈣離子的代謝作用，進而引起骨質疏鬆（osteoporosis）的現象",
+      "B": "具有促進成骨細胞（osteoblast）的形成及活性",
+      "C": "具有增加消化性潰瘍（peptic ulcer）發生的作用",
+      "D": "長期使用會抑制生長激素的分泌作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 53 題",
+    "question": "有關雌激素（estrogen）用於停經婦女的補充治療之敘述，下列何者正確？",
+    "options": {
+      "A": "會使骨質疏鬆症（osteoporosis）惡化",
+      "B": "會增加子宮內膜癌（endometrial carcinoma）發生的機率",
+      "C": "會誘發熱潮紅（hot flushes）的產生",
+      "D": "會增加血漿中低密度脂蛋白膽固醇（low-density lipoprotein cholesterol; LDL）和減少高密度脂蛋白膽固醇 （high-density lipoprotein cholesterol; HDL）濃度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 54 題",
+    "question": "降血糖藥物acarbose的主要作用機轉為何？",
+    "options": {
+      "A": "減少胰島素被肝臟代謝分解作用",
+      "B": "抑制腸道中α-葡萄糖苷酶（α-glucosidases）的活性，干擾碳水化合物的消化及減慢醣類吸收速率",
+      "C": "促進胰臟胰島素的分泌作用",
+      "D": "增加肝醣的生合成（glycogen synthesis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 55 題",
+    "question": "有關nesiritide用於治療急性代償性功能失常之心衰竭病人之藥理作用敘述，下列何者錯誤？",
+    "options": {
+      "A": "使cyclic AMP增加",
+      "B": "活化brain natriuretic peptide（BNP）receptor",
+      "C": "使血管放鬆",
+      "D": "產生利尿作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 56 題",
+    "question": "下列何種藥物可作為早期墮胎藥（early abortion）？",
+    "options": {
+      "A": "alprostadil",
+      "B": "treprostinil",
+      "C": "mifepristone",
+      "D": "iloprost"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 57 題",
+    "question": "下列何種藥物作用於GABAB receptor？",
+    "options": {
+      "A": "baclofen",
+      "B": "diazepam",
+      "C": "tizanidine",
+      "D": "dantrolene"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 58 題",
+    "question": "有關naloxone藥理作用之敘述，下列何者正確？",
+    "options": {
+      "A": "口服有效",
+      "B": "具有提高疼痛閾值（threshold）的作用",
+      "C": "可以拮抗morphine所引起的呼吸抑制作用",
+      "D": "可以拮抗barbiturates藥物所引起的呼吸抑制作用"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 59 題",
+    "question": "單一靜脈注射thiopental在人體內的作用時間非常短暫，其主要原因是具有下列何項性質？",
+    "options": {
+      "A": "在腸胃道之吸收緩慢",
+      "B": "不經由肝臟代謝而直接由腎臟排出",
+      "C": "易由大腦再到脂肪組織重新分布",
+      "D": "在肝臟很快被代謝成不活性物質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 60 題",
+    "question": "下列何種藥物需要併用pyridoxine來預防神經發炎的副作用？",
+    "options": {
+      "A": "daptomycin",
+      "B": "meropenem",
+      "C": "isoniazid",
+      "D": "teicoplanin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 61 題",
+    "question": "下列何種抗生素不經由肝臟代謝或膽汁排出，因此不會干擾其他藥物的代謝作用？",
+    "options": {
+      "A": "chloramphenicol",
+      "B": "erythromycin",
+      "C": "gentamicin",
+      "D": "rifampin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 62 題",
+    "question": "關於penicillins之藥物動力學的敘述，下列何者正確？",
+    "options": {
+      "A": "ticarcillin可以經腸胃道吸收，因此可以口服方式治療感染",
+      "B": "probenecid可以抑制 penicillins由腎小管過濾方式排至尿中",
+      "C": "benzathine penicillin相對其他penicillin藥物有較長的半衰期，約可長達 14 天",
+      "D": "amoxicillin口服吸收效果易受食物干擾而降低藥效"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 63 題",
+    "question": "下列抗癌藥物中何者號稱為紡錘體的毒藥（mitotic spindle poison），讓紡錘絲之tubulin穩定聚合不易散 去，進而破壞有絲分裂（mitosis）過程？",
+    "options": {
+      "A": "busulfan",
+      "B": "cisplatin",
+      "C": "6-mercaptopurine",
+      "D": "paclitaxel"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 64 題",
+    "question": "下列何者可拮抗plasminogen活化成plasmin？",
+    "options": {
+      "A": "urokiase",
+      "B": "vasopressin",
+      "C": "tPA（tissue plasminogen activator）",
+      "D": "tranexamic acid"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 65 題",
+    "question": "下列治療血脂異常（dyslipidemia）的藥物，何者是透過抑制腸道NPC1L1 sterol transporter，而減少膽固醇 （cholesterol）的吸收？",
+    "options": {
+      "A": "cholestyramine",
+      "B": "gemfibrozil",
+      "C": "ezetimibe",
+      "D": "simvastatin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 66 題",
+    "question": "Ivabradine用以治療心搏過速，且不影響心肌收縮力、心室再極化和心內傳導，其作用機制為何？",
+    "options": {
+      "A": "funny current（If）blocker",
+      "B": "L-Type calcium channel blocker",
+      "C": "T-Type calcium channel blocker",
+      "D": "beta blocker"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 67 題",
+    "question": "Galantamine屬於膽鹼酯酶抑制劑（cholinesterase inhibitors），最適合用於治療下列何種疾病？",
+    "options": {
+      "A": "重症肌無力（myasthenia gravis）",
+      "B": "帕金森氏症（Parkinson's disease）",
+      "C": "青光眼（glaucoma）",
+      "D": "阿茲海默症（Alzheimer's disease）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 68 題",
+    "question": "下列何者不是蕈毒鹼受體阻斷劑（muscarinic receptor-blocking drugs）之臨床用途？",
+    "options": {
+      "A": "青光眼（glaucoma）",
+      "B": "動暈症（motion sickness）",
+      "C": "支氣管擴張（bronchodilation）",
+      "D": "帕金森氏症（Parkinson's disease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 69 題",
+    "question": "一位 60歲的婦人患有第一型糖尿病已逾40年，餐後常有嚴重的胃部脹氣，經診斷後確認為糖尿病併發的胃 癱軟無力 （gastroparesis）。下列何者為可用來治療此症狀的prokinetic藥物？",
+    "options": {
+      "A": "alosetron",
+      "B": "metoclopramide",
+      "C": "loperamide",
+      "D": "sucralfate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 70 題",
+    "question": "有位20歲的大學生因服用過量的藥品，引發癲癇而被送到急診部，她的室友描述該生曾經口服某種藥物會造 成失眠。下列何者被用來治療氣喘病人的氣管痙孿，且易引發失眠及癲癇？",
+    "options": {
+      "A": "ipratropium",
+      "B": "theophylline",
+      "C": "cromolyn",
+      "D": "metaproterenol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 71 題",
+    "question": "有位病人因下肢趾頭關節處腫脹疼痛無法行走，被送至醫院急診室，經抽血檢查發現是xanthine oxidase活 性極高所引起的痛風，醫師做了緊急處理緩解後，建議病人服用下列何種藥物控制尿酸濃度最為合適？",
+    "options": {
+      "A": "ibuprofen",
+      "B": "indomethacin",
+      "C": "allopurinol",
+      "D": "aspirin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 72 題",
+    "question": "下列何者為治療succinylcholine引起的惡性高溫（malignant hyperthermia）最適當的藥物？",
+    "options": {
+      "A": "dantrolene",
+      "B": "baclofen",
+      "C": "rocuronium",
+      "D": "diazepam"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 73 題",
+    "question": "Memantine可用於治療阿兹海默症（Alzheimer's disease），下列何者為該藥可能的藥理作用機轉？",
+    "options": {
+      "A": "抑制muscarine受體",
+      "B": "抑制dopamine受體",
+      "C": "抑制NMDA受體",
+      "D": "抑制GABAA受體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 74 題",
+    "question": "抗癲癇的藥物中，下列何者的作用機轉與阻斷鈉離子管道最不具關連性？",
+    "options": {
+      "A": "phenytoin",
+      "B": "carbamazepine",
+      "C": "lamotrigine",
+      "D": "levetiracetam"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 75 題",
+    "question": "下列何種藥物口服可治療鐵中毒？",
+    "options": {
+      "A": "deferoxamine",
+      "B": "deferasirox",
+      "C": "D-dimethylcysteine",
+      "D": "Prussian blue"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

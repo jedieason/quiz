@@ -1,0 +1,58 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 29 題",
+    "question": "下列何染色體具有人類睪丸決定因子（testis-determining factor）？",
+    "options": {
+      "A": "第5對",
+      "B": "第21對",
+      "C": "X",
+      "D": "Y"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 30 題",
+    "question": "口咽膜（oropharyngeal membrane）約於胚胎發育至第幾週時會破裂？",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 31 題",
+    "question": "下列那一項喉軟骨的發育與第四及第六對咽弓（pharyngeal arch）的軟骨無關？",
+    "options": {
+      "A": "甲狀軟骨（thyroid cartilage）",
+      "B": "會厭軟骨（epiglottis）",
+      "C": "杓狀軟骨（arytenoid cartilage）",
+      "D": "環狀軟骨（cricoid cartilage）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 32 題",
+    "question": "有關男性假陰陽人（male pseudohermaphroditism）之特徵，下列何者錯誤？",
+    "options": {
+      "A": "testosterone分泌不足",
+      "B": "染色體是46, XX",
+      "C": "不含性染色質（sex chromatin）",
+      "D": "睪丸發育可能正常或退化"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

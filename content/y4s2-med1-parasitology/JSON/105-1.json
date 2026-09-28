@@ -1,0 +1,98 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 75 題",
+    "question": "下列有關蟯蟲（Enterobius vermicularis）感染的敘述，何者錯誤？",
+    "options": {
+      "A": "蟲卵可藉空氣傳播感染人體",
+      "B": "感染後易干擾夜間睡眠",
+      "C": "婦女感染後有可能引起骨盆腔腹膜炎（chronic pelvic peritonitis）",
+      "D": "最正確的診斷方式為檢查患者糞便中的蟲卵"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 76 題",
+    "question": "熱帶肺部嗜酸性白血球增多症（tropical pulmonary eosinophilia）的病患常呈現下列特徵， 何者除外？",
+    "options": {
+      "A": "血清中呈現高效價抗絲蟲抗體",
+      "B": "除肺部外，末梢血液中之嗜酸性白血球也增多",
+      "C": "大量微絲蟲（microfilaria）會出現在末梢血液中",
+      "D": "用diethylcarbamazine治療有效"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 77 題",
+    "question": "朱先生近年來因業務關係而經常前往中國大陸、泰國及越南等地區，其本人嗜食生魚片及魚 生粥，日前因腹部不適及出現黃疸病症（jaundice）而就醫，經醫院檢查發現有膽管阻塞， 並經手術取出數條蟲體。依據上述結果，朱先生最不可能感染何種寄生蟲？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "貓肝吸蟲（Opisthorchis felineus）",
+      "C": "泰國肝吸蟲（Opisthorchis viverrini）",
+      "D": "槍狀肝吸蟲（Dicrocoelium dendriticum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 78 題",
+    "question": "下列有關廣節裂頭絛蟲（Diphyllobothrium latum）的敘述，何者錯誤？",
+    "options": {
+      "A": "蟲卵具有卵蓋（operculum）",
+      "B": "長尾幼蟲（plerocercoid）具感染人體之能力",
+      "C": "感染人體會引起缺鐵性貧血",
+      "D": "生活史須經過兩個中間宿主的發育過程"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 79 題",
+    "question": "下列寄生蟲之配對，其生活史中皆無囊體期（cyst stage）者為何？",
+    "options": {
+      "A": "麥氏唇鞭毛蟲（Chilomastix mesnili）及陰道滴蟲（Trichomonas vaginalis）",
+      "B": "雙核阿米巴（Dientamoeba fragilis）及腸道滴蟲［Trichomonas（Pentatrichomonas） hominis］",
+      "C": "大腸纖毛蟲（Balantidium coli）及齒齦阿米巴（Entamoeba gingivalis）",
+      "D": "嗜碘阿米巴（Iodamoeba bütschlii）及口腔滴蟲（Trichomonas tenax）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 80 題",
+    "question": "下列敘述何者錯誤？",
+    "options": {
+      "A": "福氏內格里阿米巴（Naegleria fowleri）的患者通常為身體虛弱的老人，發病前一週曾經游 泳",
+      "B": "原發性阿米巴腦膜腦炎（primary amebic meningoencephalitis）患者，如未及時診治，通 常在症狀出現後3～6天內死亡",
+      "C": "如在患者組織切片中同時發現滋養體（trophozoites）及囊體（cysts），患者最可能是感 染了棘阿米巴（Acanthamoeba spp.）",
+      "D": "棘阿米巴（Acanthamoeba spp.）也可能造成角膜炎及皮膚潰瘍"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 81 題",
+    "question": "下列何者為臨床上常見造成小兒氣喘之致敏原（allergen）？",
+    "options": {
+      "A": "頭蝨（head louse）",
+      "B": "跳蚤（flea）",
+      "C": "塵蟎（dust mite）",
+      "D": "狗蜱（dog tick）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 82 題",
+    "question": "病媒蜱（tick）目前仍是許多感染症之病媒，下列何種感染症不是經由病媒蜱所傳播？",
+    "options": {
+      "A": "巴貝氏原蟲症（babesiosis）",
+      "B": "艾利克次體症（ehrlichiosis）",
+      "C": "萊姆病（Lyme disease）",
+      "D": "戰壕熱（trench fever）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

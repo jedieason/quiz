@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 099 年第二次醫師國考第 33 題",
+    "question": "下列何者是內涵體（inclusion）而非胞器（organelle）？",
+    "options": {
+      "A": "吞噬小體（endosomes）",
+      "B": "肝醣（glycogen）",
+      "C": "多核糖體（polyribosomes）",
+      "D": "微小管（microtubule）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 34 題",
+    "question": "一般情況下，下列白血球中何者在單位體積血液內數量最多？",
+    "options": {
+      "A": "嗜酸性球",
+      "B": "嗜鹼性球",
+      "C": "淋巴球",
+      "D": "單核球"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 35 題",
+    "question": "橫紋肌裡的T 小管是下列何者形成的？",
+    "options": {
+      "A": "細胞膜內陷形成",
+      "B": "平滑內質網特化形成",
+      "C": "微小管特化形成",
+      "D": "神經末梢特化形成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 36 題",
+    "question": "有關腦室和中央管內襯細胞之敘述，下列何者錯誤？",
+    "options": {
+      "A": "它是室管膜細胞",
+      "B": "其游離面有纖毛和微絨毛",
+      "C": "其底部位於基底膜上",
+      "D": "是一種神經膠細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 37 題",
+    "question": "下列敘述何者錯誤？",
+    "options": {
+      "A": "大靜脈中膜（tunica media of large veins）是其管壁層中最薄的，並具環形圍繞的平滑肌",
+      "B": "大靜脈外膜（tunica adventitia of large veins）是其管壁層中最厚的",
+      "C": "下腔靜脈外膜具有縱走的平滑肌",
+      "D": "中型靜脈外膜具有縱走的平滑肌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 38 題",
+    "question": "下列何構造不與齒質（dentin）直接接觸？",
+    "options": {
+      "A": "牙周膜（periodontal membrane）",
+      "B": "琺瑯質（enamel）",
+      "C": "白堊質（cementum）",
+      "D": "牙髓腔（pulp cavity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 39 題",
+    "question": "有關女性生殖系統，下列何者含有勃起組織（erectile tissue）？",
+    "options": {
+      "A": "大陰唇（labia majora）",
+      "B": "小陰唇（labia minora）",
+      "C": "處女膜（hymen）",
+      "D": "陰蒂（clitoris）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 40 題",
+    "question": "Organ of Cortis 位在下列那一種結構上？",
+    "options": {
+      "A": "蝸孔（helicotrema）",
+      "B": "基底膜（basilar membrane）",
+      "C": "前庭膜（Reissner’s membrane）",
+      "D": "覆膜（tectorial membrane）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第二次醫師國考第 41 題",
+    "question": "氣喘（asthma）病人之呼吸道管壁主要有下列何者之改變？",
+    "options": {
+      "A": "管壁厚度變薄（thickness decrease）",
+      "B": "淋巴球浸潤（lymphocytes infiltration）",
+      "C": "嗜酸性白血球浸潤（eosinophil infiltration）",
+      "D": "肺泡壁纖維化（alveolar wall fibrosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

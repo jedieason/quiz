@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 76 題",
+    "question": "一位30 歲女性，胰臟尾部有一個7 公分大的囊狀腫瘤而接受腫瘤切除手術。手術時發現腫瘤並未與 胰管相通。切除標本切面外觀可見其為一個多囊狀腫瘤，內含黏稠液體。顯微鏡下可見腫瘤囊壁由 一單層柱狀上皮覆蓋，在上皮下有一層緻密的間質細胞存在。上皮細胞的細胞核位於細胞底部並不 濃染，且無明顯多形性存在。下列何者是最可能的診斷？",
+    "options": {
+      "A": "Pseudocyst",
+      "B": "Serous cystadenoma",
+      "C": "Mucinous cystadenoma",
+      "D": "Intraductal papillary mucinous neoplasm"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 77 題",
+    "question": "一位60 歲男性於喝酒1 小時後昏迷，血液驗出甲醇（methanol），該物質喜好傷害何處的神經細胞？",
+    "options": {
+      "A": "黑質（substantia nigra）",
+      "B": "橄欖核（olivary nucleus）",
+      "C": "視網膜（retina）",
+      "D": "視神經（optic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 78 題",
+    "question": "一位15 歲女生輕度發燒及頭痛，電腦斷層掃描發現左額葉有個腦膿瘍，無外傷，住院後2 個星期死 亡。下列有關該病變的敘述，何者正確？",
+    "options": {
+      "A": "來源最可能是額竇炎",
+      "B": "來源最可能是中耳炎",
+      "C": "周邊部位莢膜以反應性星狀細胞為主",
+      "D": "中央區域是凝固壞死"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 79 題",
+    "question": "一位74 歲男性，10 年前開始覺得排尿愈來愈困難，特別是在開始排尿及結束時。最近甚至一個晚上 需起身數次排尿，但尿量並不多。身體檢查發現他的攝護腺為正常的兩倍大，但並不會有壓痛情形。 他去年與今年皆曾接受prostatic specific antigen 檢測，結果均稍高。他的攝護腺最可能出現何種變化？",
+    "options": {
+      "A": "明顯的嗜中性白血球浸潤",
+      "B": "分化不佳的腺體不規則排列在纖維組織中",
+      "C": "由腺體與間質細胞構成的增生性結節",
+      "D": "具乾酪性壞死肉芽腫發炎反應"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 80 題",
+    "question": "一位25 歲男性於陰莖表面發現一豆狀突起，求診泌尿科做手術切除，病理顯示主要為乳突狀突起結 構覆蓋鱗狀上皮呈現過度角化、上皮增厚與細胞空洞樣化（koilocytosis）情形（如附圖），下列何者 正確？ [圖片]",
+    "options": {
+      "A": "該病變診斷為波文氏疾病（Bowen disease）",
+      "B": "該病變易發生於外生殖器，特別是於包皮的冠狀溝與內面",
+      "C": "與人類乳突狀病毒感染相關，特別是第18 與30 型",
+      "D": "該病變容易復發，且會導致侵犯性癌症發生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 81 題",
+    "question": "一位80 歲男性腎組織在顯微鏡下出現廣泛的小血管增厚並發生玻璃樣變性（hyaline change），下列 疾病中，何者最常造成這種病理變化？",
+    "options": {
+      "A": "Prolonged systemic hypertension",
+      "B": "Membranous glomerulonephritis",
+      "C": "Renal cell carcinoma",
+      "D": "Acute pyelonephritis"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 82 題",
+    "question": "有關攝護腺癌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "High-grade prostatic intraepithelial neoplasia 可能是攝護腺癌的前驅病變",
+      "B": "好發的位置在transitional zone",
+      "C": "PSA 異常升高，可用於攝護腺癌的篩檢",
+      "D": "轉移出去的腫瘤比原發的腫瘤更常發生p53 的突變"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 83 題",
+    "question": "下列生殖系統之腫瘤與其病理特徵的組合，何者正確？",
+    "options": {
+      "A": "granulosa cell tumor 與Schiller-Duval bodies",
+      "B": "sarcoma botryoides 與cambium layer",
+      "C": "yolk sac tumor 與Call-Exner bodies",
+      "D": "clear cell adenocarcinoma 與Reinke crystal"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 84 題",
+    "question": "關於惡性高血壓（malignant hypertension）的腎臟病理變化，下列何者最不適當？",
+    "options": {
+      "A": "細動脈類纖維蛋白壞死（fibrinoid necrosis of arterioles）",
+      "B": "增生性細動脈炎（hyperplastic arteriolitis）",
+      "C": "腎小球壞死或血栓變化（necrotic or thrombotic changes in glomeruli）",
+      "D": "玻璃質細動脈硬化（hyaline arteriolosclerosis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 85 題",
+    "question": "一位42 歲男性因嘔吐來急診，醫師檢查嘔吐物時發現內含膽汁，則最可能是下列那種疾病？",
+    "options": {
+      "A": "十二指腸末端腫瘤阻塞",
+      "B": "胃幽門阻塞",
+      "C": "食道腫瘤阻塞",
+      "D": "食道弛緩不能症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 86 題",
+    "question": "一位75 歲男性在不同的靜脈位置交替發生血栓。此種移走性血栓靜脈炎（migratory thrombophlebitis） 的現象（亦稱Trousseau sign），最常併發於下列何種疾病？",
+    "options": {
+      "A": "胰臟、大腸或肺癌",
+      "B": "慢性骨髓炎",
+      "C": "鬱血性心臟衰竭",
+      "D": "末期腎疾病"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 87 題",
+    "question": "缺少表面張力素（surfactant）與下列那一項肺病最相關？",
+    "options": {
+      "A": "肺炎（pneumonia）",
+      "B": "肺氣腫（emphysema）",
+      "C": "肺膨脹不全（atelectasis）",
+      "D": "支氣管擴張症（bronchiectasis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 88 題",
+    "question": "下列有關淋巴瘤（lymphoma）的敘述，何者錯誤？",
+    "options": {
+      "A": "鼻NK / T 細胞淋巴瘤與EB 病毒有相當強的關聯",
+      "B": "大致而言，T 細胞淋巴瘤較B 細胞淋巴瘤病程較嚴重，預後較差",
+      "C": "B 細胞為CD20 陽性，而T 細胞為CD3 陽性",
+      "D": "大多小孩的淋巴瘤為淋巴母細胞淋巴瘤（lymphoblastic lymphoma）及濾泡淋巴瘤（follicular lymphoma）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 89 題",
+    "question": "一位69 歲女性病人主訴近1 個月逐漸加劇之背痛病史。影像檢查顯示T11 脊椎體塌陷，胸椎體及腰 椎體並有多個骨溶解變化。骨髓抹片如附圖。下列併發變化中，何者較少見？ [圖片]",
+    "options": {
+      "A": "高鈣血症（hypercalcemia）",
+      "B": "紅血球沈降率（erythrocyte sedimentation rate）增加",
+      "C": "漿細胞白血病（plasma cell leukemia）",
+      "D": "類澱粉沈積（amyloidosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 90 題",
+    "question": "一位58 歲女性病人之血清中鐵（iron）及全鐵質結合能力（total iron-binding capacity, TIBC）兩者之 值均較低，但含鐵蛋白（ferritin）較高。下列何者為可能的原因？",
+    "options": {
+      "A": "慢性病引起之貧血",
+      "B": "自體免疫溶血性貧血",
+      "C": "維生素B12缺乏",
+      "D": "缺鐵性貧血"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 91 題",
+    "question": "一位69 歲男性病患呈現嚴重的高血壓。影像學檢查發現他右腎臟的動脈進口處發生狹窄。下列疾病 中那一個是造成這類腎臟動脈狹窄最常見的原因？",
+    "options": {
+      "A": "Fibromuscular dysplasia",
+      "B": "Takayasu arteritis",
+      "C": "Polyarteritis nodosa",
+      "D": "Atherosclerosis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 92 題",
+    "question": "下列何者所併發的栓塞（embolic complications）可在肺部微血管循環中發現鱗狀細胞（squamous  cell）？",
+    "options": {
+      "A": "分娩",
+      "B": "嚴重骨折",
+      "C": "胸壁傷害",
+      "D": "血管導管檢查"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 93 題",
+    "question": "關於腸道血管結構不良（angiodysplasia）的敘述，何者錯誤？",
+    "options": {
+      "A": "好發年紀為60 幾歲",
+      "B": "常見部位為盲腸（cecum）及右結腸",
+      "C": "在腸黏膜下層可見許多擴張的小血管",
+      "D": "有血管內皮細胞異生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 94 題",
+    "question": "一位4 歲小男孩洗澡時，媽媽發現其右腹部有凸出的腫塊，經超音波檢查確定是約8 公分大的腫瘤， 手術後病理診斷為腎上腺惡性腫瘤，下列何種基因變異最可能？",
+    "options": {
+      "A": "N-myc 基因增幅變異",
+      "B": "p53 基因點狀突變",
+      "C": "c-myc 基因轉位",
+      "D": "RB 基因刪除"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 95 題",
+    "question": "一位68 歲農夫2 年前就發現鼻樑上有個結實的小腫瘤，他注意到該小腫瘤慢慢長大，目前約1 公分 且中央有個小潰瘍，就醫後接受腫瘤全切除，並做了鼻樑修補手術。下列各種輻射線何者與該腫瘤 關係最密切？",
+    "options": {
+      "A": "X 射線",
+      "B": "γ 射線",
+      "C": "紫外線",
+      "D": "紅外線"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 96 題",
+    "question": "一位37 歲男性HIV 抗體陽性病人，具臉部、軀體及四肢多處紅紫色斑疹，數個斑疹亦呈結節性變化。 斑疹在6 個月之前開始出現，並逐漸增大。這些病變中最可能偵測到何種病毒？",
+    "options": {
+      "A": "巨細胞病毒（cytomegalovirus）",
+      "B": "EB 病毒（Epstein-Barr virus）",
+      "C": "人類疱疹病毒第八型（human herpesvirus 8）",
+      "D": "人類免疫缺損病毒第一型（HIV-1）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 97 題",
+    "question": "下列有關細菌內毒素之敘述，何者錯誤？",
+    "options": {
+      "A": "其製造是經由染色體基因、溶源性噬菌體（lysogenic bacteriophage）或質粒（plasmid）之密碼傳譯",
+      "B": "中毒性休克症候群絕大多數是由金黃色葡萄球菌感染之內毒素所造成",
+      "C": "可引起發燒、播散性血管內凝血或休克",
+      "D": "具熱穩定性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 98 題",
+    "question": "一位50 歲男性，覺得明顯胸痛。心電圖檢查顯示急性心肌梗塞的變化。血液檢查發現血清creatine  kinase（CK）值有上升的現象。下列何種情況最能解釋血液的變化？",
+    "options": {
+      "A": "CK 合成增加",
+      "B": "CK 分解速率減緩",
+      "C": "心肌細胞膜缺損",
+      "D": "心肌細胞核染色質凝集"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 99 題",
+    "question": "有關氣喘之病理特徵敘述，何者錯誤？",
+    "options": {
+      "A": "支氣管痙攣",
+      "B": "黏液阻塞",
+      "C": "α1抗胰蛋白酵素（α1-antitrypsin）缺乏",
+      "D": "痰中出現夏萊二氏晶體（Charcot-Leyden crystal）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 100 題",
+    "question": "一位40 歲男性，診斷為急性闌尾炎而接受闌尾切除手術。病理檢查時，在闌尾尾端可見一個1 公分 大、界限明顯的淡黃色實體腫瘤。鏡下，腫瘤細胞有粉紅色顆粒樣細胞質，且細胞彼此間形態一致。 下列何者是最可能的診斷？",
+    "options": {
+      "A": "類癌瘤（carcinoid tumor）",
+      "B": "惡性淋巴瘤（malignant lymphoma）",
+      "C": "轉移性腺癌（metastatic adenocarcinoma）",
+      "D": "黃色瘤（xanthoma）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

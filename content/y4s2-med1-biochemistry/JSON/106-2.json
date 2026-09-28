@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 74 題",
+    "question": "酵素反應在受質濃度極低時，所測得的初始反應速率會與受質濃度成正比，此反應速率常數應為下列何者？",
+    "options": {
+      "A": "k cat",
+      "B": "k cat×Km",
+      "C": "V max/Km",
+      "D": "1/Km"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 75 題",
+    "question": "下列那一個胺基酸不會吸收波長為280 nm的紫外光？",
+    "options": {
+      "A": "苯丙胺酸（phenylalanine）",
+      "B": "天冬醯胺（asparagine）",
+      "C": "酪胺酸（tyrosine）",
+      "D": "色胺酸（tryptophan）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 76 題",
+    "question": "最常見於蛋白質之三級結構內部的共價交互作用為：",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "凡德瓦爾力（van der Waals interaction）",
+      "C": "離子交互作用（ionic interaction）",
+      "D": "雙硫鍵（disulfide bond）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 77 題",
+    "question": "丙酮酸脫氫酶複合物（pyruvate dehydrogenase complex）含有下列那些輔酶參與其催化反應？",
+    "options": {
+      "A": "thiamine pyrophosphate（TPP）、NAD+及硫辛酸（lipoic acid）",
+      "B": "FAD、NAD+及生物素（biotin）",
+      "C": "thiamine pyrophosphate（TPP）、FAD及輔酶Q（coenzyme Q）",
+      "D": "thiamine pyrophosphate（TPP）、NAD+及生物素（biotin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 78 題",
+    "question": "膽固醇是下列何種維生素（vitamin）合成的前驅物？",
+    "options": {
+      "A": "A",
+      "B": "D",
+      "C": "E",
+      "D": "K"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 79 題",
+    "question": "在A、B兩種未知的細菌雙股DNA中，我們測得其胸腺嘧啶（thymidine）的成分分別占了16%與31%，下列敘 述何者錯誤？",
+    "options": {
+      "A": "A細菌的腺嘌呤（adenosine）約占其DNA組成的16%",
+      "B": "A細菌的胞嘧啶（cytosine）約占其DNA組成的34%",
+      "C": "B細菌的胞嘧啶（cytosine）約占其DNA組成的31%",
+      "D": "推測A細菌比B細菌更有可能是在高溫溫泉地生存"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 80 題",
+    "question": "下列那一個分子最不可能經由嘌呤回收（purine salvage）途徑再利用？",
+    "options": {
+      "A": "adenine",
+      "B": "guanine",
+      "C": "xanthine",
+      "D": "hypoxanthine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 81 題",
+    "question": "AZT（3'-azido-2',3'-dideoxythymidine）臨床上被用為治療感染HIV-1病毒之病患。主要作用為下列何者？",
+    "options": {
+      "A": "反轉錄酶（reverse transcriptase）的不可逆抑制劑",
+      "B": "DNA聚合酶甲型（DNA polymerase α）的競爭性抑制劑",
+      "C": "做為反轉錄酶（reverse transcriptase）催化DNA合成反應中的鏈終結者（chain terminator）",
+      "D": "RNase A活性的抑制劑"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 82 題",
+    "question": "在人類細胞中，DNA複製（DNA replication）時是以何種物質為初始引子（primer）？",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "蛋白質",
+      "D": "不需引子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 83 題",
+    "question": "大腸桿菌的乳糖操縱子（lac operon）上含有β-半乳糖苷酶（β-galactosidase），透性酶（permease），乙 醯基轉移酶（transacetylase）基因。此外在該操縱子的上游有一調控基因I（I gene）。請配對下列各基因 （a～c）之功能？ [圖片]",
+    "options": {
+      "A": "a-I, b-III, c-II",
+      "B": "a-II, b-III, c-I",
+      "C": "a-II, b-I, c-III",
+      "D": "a-III, b-I, c-II"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 84 題",
+    "question": "RecA蛋白質是SOS反應（SOS response) 的主要調控因子，其作用機制為何？",
+    "options": {
+      "A": "與聚合全酶（polymerase holoenzyme）結合，可使LexA抑制子（repressor）脫離操縱基因（operator）",
+      "B": "使操縱基因（operator）彎曲，致使LexA抑制子（repressor）與操縱子（operon）分離",
+      "C": "使LexA抑制子（repressor）自我裂解（self-cleavage），並解除其對操縱子（operon）的抑制作用",
+      "D": "與LexA抑制子（repressor）競爭結合到操縱基因（operator）上，同時扮演活化子（activator）的功能"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 85 題",
+    "question": "關於原核細胞蛋白質合成的啟始階段（initiation stage），下列敘述何者正確？",
+    "options": {
+      "A": "fMet-tRNAi fMet可同時使用在蛋白質合成的啟始（initiation）與延伸（elongation）階段",
+      "B": "fMet-tRNAi fMet結合在80S起始複合體的P位置（P site）",
+      "C": "mRNA 5'端的Shine-Dalgarno sequence會與30S核糖體（30S ribosome）中的16S rRNA 3'端配對",
+      "D": "起始因子（initiation factor）IF1會促進fMet-tRNAi fMet結合在A位置"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 86 題",
+    "question": "在細胞中，管家基因 （housekeeping genes）的種類繁多，但個別基因的表現量不同。下列何者是調控管家 基因表現的最主要機制？",
+    "options": {
+      "A": "各基因產物合成率一致，但其降解速率各異",
+      "B": "各基因所轉錄的mRNA量一致，但其轉譯的速率各異",
+      "C": "各基因的啟動子對RNA聚合酶的親和力各異",
+      "D": "各基因表現的程度受到不同的誘導或抑止因子所調節"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 87 題",
+    "question": "下列那種酶在肌細胞中含量較低，無法有效進行糖合成作用（gluconeogenesis）？",
+    "options": {
+      "A": "丙酮酸脫氫酶（pyruvate dehydrogenase）",
+      "B": "磷酸果糖磷激酶-1（phosphofructokinase-1）",
+      "C": "肝醣合成酶（glycogen synthase）",
+      "D": "葡萄糖6-磷酸酶（glucose 6-phosphatase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 88 題",
+    "question": "病人無法進食時，因為肝臟可以進行gluconeogenesis，一般仍不至於發生低血糖，下列何種物質無法被轉化 為glucose？",
+    "options": {
+      "A": "lactate",
+      "B": "alanine",
+      "C": "glycerol",
+      "D": "ethanol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 89 題",
+    "question": "玻尿酸（hyaluronic acid）是關節滑液的組成之一，是下列何種雙醣分子（disaccharide unit）的聚合物？",
+    "options": {
+      "A": "galactose及glucose",
+      "B": "glucose及N-acetylglucosamine",
+      "C": "D-glucuronic acid及fructose",
+      "D": "D-glucuronic acid及N-acetylglucosamine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 90 題",
+    "question": "下列關於類固醇激素受體（steroid hormone receptor）作用的敘述，何者錯誤？",
+    "options": {
+      "A": "熱休克蛋白（heat shock protein）會與受體之類固醇結合區結合，抑制受體活性",
+      "B": "類固醇激素受體不屬於細胞膜上的受體",
+      "C": "與類固醇配體（steroidal ligand）結合後構型改變，與熱休克蛋白解離後活化",
+      "D": "受體活化後會與DNA上hormone response elements（HREs）結合，幫助基因表現"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 91 題",
+    "question": "在肝臟細胞膜（plasma membrane）中，下列何種脂質含量最低？",
+    "options": {
+      "A": "膽鹼磷脂（phosphatidylcholine）",
+      "B": "鞘磷脂（sphingolipids）",
+      "C": "心磷脂（cardiolipin）",
+      "D": "膽固醇（cholesterol）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 92 題",
+    "question": "下列何種ATPase負責維持哺乳類動物體中最大的離子濃度梯度（gradient）？",
+    "options": {
+      "A": "鈉離子-鉀離子三磷酸腺苷酶（$Na^+$-$K^+$ ATPase）",
+      "B": "紅血球陰離子運輸器（anion transporter）",
+      "C": "氫離子-鉀離子三磷酸腺苷酶（$H^+$-$K^+$ ATPase）",
+      "D": "鈣離子三磷酸腺苷酶（$Ca^{2+}$ATPase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 93 題",
+    "question": "下列有關尿素循環（urea cycle）的敘述，何者錯誤？",
+    "options": {
+      "A": "尿素循環主要於肝臟中進行",
+      "B": "尿素循環的產物之一為草醯乙酸（oxaloacetate）",
+      "C": "尿素循環的一部分反應於粒線體內進行，另一部分反應則在細胞質中進行",
+      "D": "在人體中，尿素循環可將含氮的代謝物轉變為尿素"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 94 題",
+    "question": "胺基酸最主要是經由下列何種代謝路徑間接產生葡萄糖（glucose）?",
+    "options": {
+      "A": "pentose phosphate pathway",
+      "B": "urea cycle",
+      "C": "oxidative phosphorylation",
+      "D": "citric acid cycle"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 95 題",
+    "question": "一新生兒發生非常嚴重乳酸中毒（lactic acidosis），進一步檢查發現有丙酮酸脫氫酵素（pyruvate  dehydrogenase）缺乏，下列敘述何者正確？",
+    "options": {
+      "A": "在有氧狀況下，丙酮酸轉化為乳酸（lactic acid）及乙醇（ethanol）",
+      "B": "在無氧狀況下，丙酮酸在粒線體轉化為乙醯輔酶A（acetyl-CoA）",
+      "C": "丙酮酸脫氫酵素是由三種酵素複合體結合而成",
+      "D": "神經系統不會受到影響"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 96 題",
+    "question": "下列關於人類細胞內受質階層磷酸化（substrate-level phosphorylation）與氧化磷酸化（oxidative  phosphorylation）生化反應進行之位點（compartments）分布，何者正確？",
+    "options": {
+      "A": "受質階層磷酸化只在粒線體中進行，氧化磷酸化在細胞質中進行",
+      "B": "受質階層磷酸化只在細胞質中進行，氧化磷酸化在粒線體中進行",
+      "C": "受質階層磷酸化可分別在細胞質及粒線體中進行，氧化磷酸化在粒線體中進行",
+      "D": "受質階層磷酸化與氧化磷酸化皆只在粒線體中進行"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 97 題",
+    "question": "下列關於細胞週期蛋白質（cyclin）之敘述何者錯誤？",
+    "options": {
+      "A": "在細胞週期中能被活化和分解",
+      "B": "是催化蛋白質磷酸化酵素的調控因子",
+      "C": "能與泛肽素（ubiquitin）連結",
+      "D": "能直接催化蛋白質的磷酸化的一種激酶（kinase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 98 題",
+    "question": "有關ADP-核糖基化（ADP-ribosylation）的修飾以調節其訊息傳遞的敘述，下列何者正確？",
+    "options": {
+      "A": "Gs的甲型次單元（α subunit），受霍亂毒素（cholera toxin）的修飾",
+      "B": "Gs上甲型次單元（α subunit），受pertussin toxin的修飾",
+      "C": "細胞膜受體，受pertussin toxin的修飾",
+      "D": "磷脂酶（phospholipase）受霍亂毒素（cholera toxin）的修飾"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 99 題",
+    "question": "心房利鈉肽（Atrial natriuretic factor: ANF）是調節體液平衡的配體（ligand），其受體為下列何種類型？",
+    "options": {
+      "A": "第一型受體酪胺酸磷酸酶（receptor tyrosine kinase classⅠ）",
+      "B": "第二型受體酪胺酸磷酸酶（receptor tyrosine kinase classⅡ）",
+      "C": "膜鑲嵌型鳥苷酸環化酶（guanylyl cyclase）受體",
+      "D": "乙型腎上腺素受體（β-adrenergic receptor）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 100 題",
+    "question": "大腸桿菌DNA複製（DNA replication）的DNA聚合酶無法用於聚合酶鏈鎖反應（polymerase chain reaction;  PCR）的主要原因為何？",
+    "options": {
+      "A": "熱穩定性（thermal stability）差",
+      "B": "DNA模板（template）的選擇性差",
+      "C": "不具有3'核酸外切酶（3' exonuclease）活性",
+      "D": "DNA合成的準確性不足"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

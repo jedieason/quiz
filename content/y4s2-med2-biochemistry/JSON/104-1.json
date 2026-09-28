@@ -1,0 +1,315 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 26 題",
+    "question": "Protein phosphatase 可拮抗下列那類酵素的反應結果？",
+    "options": {
+      "A": "acetyltransferases",
+      "B": "methyltransferases",
+      "C": "ubiquitin E3 ligases",
+      "D": "kinases"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 27 題",
+    "question": "某抑制劑會使酵素反應的Km 上升，但是不影響最高反應速率（即Vmax 不變），此抑制劑應屬於下列 何者？",
+    "options": {
+      "A": "競爭型抑制劑（competitive inhibitor）",
+      "B": "不競爭型抑制劑（uncompetitive inhibitor）",
+      "C": "非競爭型抑制劑（noncompetitive inhibitor）",
+      "D": "混合型抑制劑（mixed inhibitor）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 28 題",
+    "question": "下列關於酵素反應的敘述，何者錯誤？",
+    "options": {
+      "A": "酵素可以改變化學反應的平衡常數，使正反應的速率上升",
+      "B": "大多數的酵素為蛋白質，但少數核糖核酸分子（RNA）亦具有催化能力",
+      "C": "一般化學反應的速率會隨著溫度升高而上升，但大多數酵素反應的速率在溫度過高時會顯著降低",
+      "D": "酵素可區分光學性質不同的受質，因此反應的立體專一性（stereospecificity）極高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 29 題",
+    "question": "一位3 個月大的男嬰自出生後便有成長遲緩現象，理學檢查發現有肌無力徵候。血液檢查發現乳酸 （lactate）、丙酮酸（pyruvate）、丙胺酸（alanine）上升，並有代謝性酸中毒（metabolic acidosis） 現象。根據這些病徵，可優先考慮以何種維生素作為治療？",
+    "options": {
+      "A": "維生素B6（pyridoxine）",
+      "B": "菸鹼酸（niacin）",
+      "C": "核黃素（riboflavin）",
+      "D": "硫胺（thiamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 30 題",
+    "question": "下列何種鹼基不存於一般RNA 分子？",
+    "options": {
+      "A": "腺嘌呤（adenine）",
+      "B": "尿嘧啶（uracil）",
+      "C": "胸腺嘧啶（thymine）",
+      "D": "胞嘧啶（cytosine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 31 題",
+    "question": "下列何種酵素反應不參與DNA 聚合酶（polymerase）的校對（proofreading）功能？",
+    "options": {
+      "A": "3'→5'外切酶（exonuclease）的活性",
+      "B": "磷酸二酯鍵（phosphodiester bond）的水解",
+      "C": "鹼基配對錯誤（mismatched base pairs）",
+      "D": "5'→3'外切酶（exonuclease）的活性"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或 CD者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 32 題",
+    "question": "許多藥物的合成乃是結合分子生物學與合成化學而得，抗愛滋病的藥物3'-azido-2',3'-dideoxythymidine （AZT）即為其中一項，下列關於AZT 的敘述，何者錯誤？  AZT",
+    "options": {
+      "A": "由易被HIV 病毒感染的T 淋巴球所吸收而轉變為三磷酸根AZT（AZT triphosphate）",
+      "B": "HIV 病毒的反轉錄酶對於AZT triphosphate 有極高的親和力",
+      "C": "HIV 病毒的DNA 進行複製時若3'端加入AZT triphosphate 則會終止複製反應",
+      "D": "人類T 淋巴球的DNA 複製酶對AZT triphosphate 有高親和力，所以會帶來許多副作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 33 題",
+    "question": "下列那一種RNA 之5'端及3'端之核糖（ribose），最可能同時具有free 3'-OH？",
+    "options": {
+      "A": "真核細胞mRNA",
+      "B": "原核細胞mRNA",
+      "C": "真核細胞rRNA",
+      "D": "原核細胞rRNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 34 題",
+    "question": "下列那一項不是RNA 聚合酶（RNA polymerase）轉錄的特性？",
+    "options": {
+      "A": "結合DNA 的大小涵蓋約35 bp",
+      "B": "需要鎂離子（Mg2+）",
+      "C": "於5'-OH 末端接上核苷酸",
+      "D": "從5'往3'方向延長RNA 序列"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 35 題",
+    "question": "CRP（cAMP receptor protein）是lac operon 基因表現的一個主要調控因子，下列何者是CRP 最適的 描述？  CRP",
+    "options": {
+      "A": "協助RNA 聚合酶（RNA polymerase）與lac-啟動子（lac-promoter）的結合",
+      "B": "CRP 與lac operon 的結合只能在葡萄糖存在下進行",
+      "C": "CRP 與lac operon 的結合可防止lac-抑制子（lac-repressor）與operator 的結合",
+      "D": "CRP 與lac-抑制子（lac-repressor）競爭operator"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 36 題",
+    "question": "在血基質（heme）的生合成反應過程中，下列何者為速率決定步驟（rate-limiting step）之酵素？  Ferrochelatase",
+    "options": {
+      "A": "Ferrochelatase",
+      "B": "Heme oxygenase",
+      "C": "delta-aminolevulinic acid（δ-ALA）synthase",
+      "D": "UDP-glucose dehydrogenase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 37 題",
+    "question": "利用氟-18 去氧葡萄糖（18F-2-deoxyglucose）所做的正子造影能有效找出體內癌細胞的正確位置，此 方法的原理係基於癌細胞的何種特性？  DNA",
+    "options": {
+      "A": "複製速率比正常細胞快",
+      "B": "克氏循環（TCA cycle）速率比正常細胞高",
+      "C": "糖解作用（glycolysis）速率比正常細胞高",
+      "D": "肝醣合成（glycogen biosynthesis）速率比正常細胞高"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 38 題",
+    "question": "Fructose 2,6-bisphosphate 是糖解作用（glycolysis）與糖質新生作用（gluconeogenesis）的重要共同異 位調解因子（allosteric regulator），下列有關fructose 2,6-bisphosphate 的敘述何者正確？",
+    "options": {
+      "A": "昇糖激素（glucagon）促進其合成",
+      "B": "fructose 2,6-bisphosphatase 催化其由fructose 6-phosphate 合成",
+      "C": "fructose 2,6-bisphosphate 活化phosphofructokinase-1",
+      "D": "fructose 2,6-bisphosphate 增加糖質新生作用（gluconeogenesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 39 題",
+    "question": "Neuraminidase 是某些流感病毒的重要酵素之一，此酵素可以切除宿主細胞膜上醣複合物上的那一種 糖基？  N",
+    "options": {
+      "A": "-acetylglucosamine",
+      "B": "gluconic acid",
+      "C": "galactose",
+      "D": "sialic acid"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 40 題",
+    "question": "下列關於固醇調節區域結合蛋白質（sterol regulatory element-binding protein；SREBP）之敘述，何者 錯誤？",
+    "options": {
+      "A": "位於內質網",
+      "B": "經由切斷連結的脂肪酸而活化",
+      "C": "活化後進入細胞核",
+      "D": "做為轉錄因子增加合成膽固醇（cholesterol）的基因表現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 41 題",
+    "question": "將離子載體（ionophore），如纈氨黴素（Valinomycin），加至原核細胞懸浮液，該細胞之膜離子梯 度（transmembrane ion gradients）會有下列何種變化？",
+    "options": {
+      "A": "離子梯度增加",
+      "B": "離子梯度減少",
+      "C": "離子梯度沒有任何改變",
+      "D": "離子梯度無法預期是否會改變"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 42 題",
+    "question": "罕見遺傳疾病medium-chain acyl-CoA dehydrogenase 基因突變，可能造成脂肪肝、低血糖、octanoic acid 在血液中堆積、嗜睡、嘔吐及昏迷。下列有關該酶之功能敘述，何者正確？",
+    "options": {
+      "A": "該酶之作用是將脂肪酸運入粒線體",
+      "B": "該酶作用於ω-oxidation",
+      "C": "該酶之作用是將脂肪酸逐步轉化為pyruvate",
+      "D": "該酶之作用是將脂肪酸逐步轉化為acetyl-CoA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 43 題",
+    "question": "下列那一種胺基酸無法代謝時會導致甲基丙二酸血症（methylmalonic acidemia）？  alanine",
+    "options": {
+      "A": "alanine",
+      "B": "glycine",
+      "C": "isoleucine",
+      "D": "histidine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 44 題",
+    "question": "威而剛（Viagra）可透過加強一氧化氮（NO）下游cGMP 的訊息傳遞作用，而達到其藥理效果。NO 是那一種胺基酸的代謝產物？  arginine",
+    "options": {
+      "A": "arginine",
+      "B": "aspartate",
+      "C": "lysine",
+      "D": "tryptophan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 45 題",
+    "question": "參與電子傳遞鏈的蛋白質複合體使用那一種胺基酸形成iron-sulfur center，輔助電子傳遞？",
+    "options": {
+      "A": "丙胺酸（alanine）",
+      "B": "甲硫胺酸（methionine）",
+      "C": "色胺酸（tryptophan）",
+      "D": "半胱胺酸（cysteine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 46 題",
+    "question": "革蘭氏陰性菌分泌的內毒素（endotoxin）會調控小腸$Cl^-$的分泌，其作用是因為活化小腸上皮細胞具 有那種酵素活性的受器（receptor）所致？  Tyrosine kinase",
+    "options": {
+      "A": "Tyrosine kinase",
+      "B": "Guanylyl cyclase",
+      "C": "Tyrosine phosphatase",
+      "D": "Serine kinase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 47 題",
+    "question": "G 蛋白耦合受體（G-protein-coupled receptor）是屬於下列那一類型的受體？",
+    "options": {
+      "A": "寡聚配體門控之離子通道（oligomeric ligand-gated ion channel）",
+      "B": "7-穿膜片段受體（7-transmembrane segment receptor）",
+      "C": "細胞黏附蛋白受體（cell adhesion protein receptor）",
+      "D": "單穿膜片段催化受體（single transmembrane segment catalytic receptor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 48 題",
+    "question": "有關腎上腺素（epinephrine）與乙型腎上腺素受體（β-adrenergic receptor）結合所產生的結果，下列 敘述何者錯誤？",
+    "options": {
+      "A": "刺激Gs 蛋白次單元與GTP 結合",
+      "B": "增加腺苷酸環化酶（adenylyl cyclase）活性",
+      "C": "增加蛋白激酶A（protein kinase A）的酵素活性",
+      "D": "促進激素-受體複合物（hormone-receptor complex）的內噬（endocytosis）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 49 題",
+    "question": "利用Sanger method 定序DNA，使用之試劑dideoxy analog 具有下列那一種功能？",
+    "options": {
+      "A": "可中止DNA 合成",
+      "B": "水解斷裂DNA 之磷酯鍵",
+      "C": "是合成引子（primer）的成分",
+      "D": "合成沒有5'端磷酸根之DNA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 50 題",
+    "question": "下列何者是選殖質體（cloning plasmids）的正確描述？",
+    "options": {
+      "A": "在大腸桿菌DNA 複製（replication）時，環狀質體（circular plasmids）不需要複製起點（origin of replication）",
+      "B": "可用以選殖約50 Kb 鹼基對（kilo-base pairs）的外來DNA",
+      "C": "通常不需抗生素抗藥性基因（antibiotic resistant gene）",
+      "D": "需要特定限制酶切點（unique restriction enzyme site）以供選殖外來DNA 之用"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

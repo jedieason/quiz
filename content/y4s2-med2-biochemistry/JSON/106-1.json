@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 26 題",
+    "question": "若蛋白質A的正確摺疊（folding）需要另一蛋白質B的幫助，然而蛋白質B的正確摺疊不需要蛋白質A的幫忙。蛋白質B是屬於 下列何種物質？",
+    "options": {
+      "A": "配體（ligand）",
+      "B": "分子伴護子（molecular chaperone）",
+      "C": "蛋白質A的同功酶（isoenzyme）",
+      "D": "結構基序（structural motif）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 27 題",
+    "question": "下列那一類細胞的訊息受器（receptor）及其結合蛋白不具有酵素催化活性？",
+    "options": {
+      "A": "nuclear receptors",
+      "B": "receptor protein kinases",
+      "C": "G protein-coupled receptors",
+      "D": "chemokine/cytokine receptors"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 28 題",
+    "question": "有些蛋白質係由多條獨立的多肽鏈（或稱蛋白質次單元）組合而成，這些次單元間在三度空間中的排列方式稱為蛋白質的：",
+    "options": {
+      "A": "二級結構（secondary structure）",
+      "B": "超二級結構（supersecondary structure）",
+      "C": "三級結構（tertiary structure）",
+      "D": "四級結構（quaternary structure）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 29 題",
+    "question": "罕見的單基因（monogenic）糖尿病，其致病基因已有6種以上，其中一種是葡萄糖代謝相關的酶hexokinase IV （glucokinase）發生突變，關於該酶之敘述，下列何者錯誤？",
+    "options": {
+      "A": "該酶作用參與糖解反應（glycolysis）",
+      "B": "該酶基因突變會直接增加TCA cycle之反應速率",
+      "C": "該酶基因突變會導致胰島細胞ATP生成減少",
+      "D": "該酶會磷酸化葡萄糖"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 30 題",
+    "question": "催化轉胺反應（transamination）的酵素，需要利用下列何種維生素做為胺基暫時的攜帶者？",
+    "options": {
+      "A": "flavin adenine dinucleotide（vitamin B2）",
+      "B": "pyridoxal phosphate（vitamin B6）",
+      "C": "tetrahydrofolate（H4 folate）",
+      "D": "thiamin pyrophosphate（vitamin B1）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 31 題",
+    "question": "下列何者能與單股DNA序列（5'）AGACTGGTC（3'）最穩定的雜交（hybridization）？",
+    "options": {
+      "A": "（5'）CTGGTCAGA（3'）",
+      "B": "（5'）GACCAGTCT（3'）",
+      "C": "（5'）AGACTGGTC（3'）",
+      "D": "（5'）TCTGACCAG（3'）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 32 題",
+    "question": "5-phosphoribosyl-1-pyrophosphate（PRPP）合成inosine 5'-monophosphate（IMP）的核苷酸生合成途徑中，PRPP  amidotransferase反應速率可受到下列那一個產物的直接負調控？",
+    "options": {
+      "A": "AMP",
+      "B": "CMP",
+      "C": "FAD",
+      "D": "malonyl-CoA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 33 題",
+    "question": "大腸桿菌DNA聚合酶I型（DNA polymerase I）的何種酵素活性會參與執行nick translation？",
+    "options": {
+      "A": "聚合酶與5'核酸外切酶（polymerase and 5'→3'exonuclease）",
+      "B": "聚合酶與3'核酸外切酶（polymerase and 3'→5'exonuclease）",
+      "C": "5'與3'核酸外切酶（5'→3' and 3'→5'exonuclease）",
+      "D": "聚合酶，5'與3'核酸外切酶（polymerase, 5'→3' and 3'→5'exonuclease）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 34 題",
+    "question": "聚合酶鏈鎖反應（Polymerase chain reaction, PCR）可以讓微量DNA在短時間內大量擴增，需要何種二價金屬離子以促進反 應進行？",
+    "options": {
+      "A": "$Ca^{2+}$",
+      "B": "Zn2+",
+      "C": "Mg2+",
+      "D": "Fe2+"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 35 題",
+    "question": "下列何者是編碼子（codon）與反編碼子（anticodon）配對時，擺動假說（wobble hypothesis）的最佳詮釋？",
+    "options": {
+      "A": "指每一tRNA都只能辨認一個特定的編碼子",
+      "B": "指某些tRNA能辨認不同胺基酸的各種編碼子",
+      "C": "指反編碼子上的第一個鹼基具有較彈性的配對能力",
+      "D": "指反編碼子上的第三個鹼基只能作Watson-Crick式的配對"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 36 題",
+    "question": "AMP-activated protein kinase（AMPK）在活化後，主要會促進下列那一種反應途徑？",
+    "options": {
+      "A": "gluconeogenesis",
+      "B": "lipid biosynthesis",
+      "C": "glycolysis",
+      "D": "cholesterol synthesis"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 37 題",
+    "question": "下列關於抗體的敘述，何者錯誤？",
+    "options": {
+      "A": "抗體IgG由兩個light chain（L）與兩個heavy chain（H）組成",
+      "B": "抗體IgG有兩個抗原結合位",
+      "C": "抗體N端的hypervariable loop region可與抗原專一性結合",
+      "D": "light chain與heavy chain結構以α-helix為主"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 38 題",
+    "question": "下列何種物質無法作為葡萄糖生合成（gluconeogenesis）之前驅物？",
+    "options": {
+      "A": "脂肪酸",
+      "B": "胺基酸",
+      "C": "甘油（glycerol）",
+      "D": "草醯乙酸（oxaloacetate）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 39 題",
+    "question": "下列何者會增加肝臟肝醣分解（glycogenolysis）？",
+    "options": {
+      "A": "抑制glycogen phosphorylase",
+      "B": "活化phosphorylase b kinase",
+      "C": "活化phosphorylase a phosphatase",
+      "D": "抑制glycogen synthase kinase 3（GSK3）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 40 題",
+    "question": "在下列何種情況下，acetyl-CoA進入citric acid cycle會減少？",
+    "options": {
+      "A": "[AMP]/[ATP]高",
+      "B": "[ATP]/[ADP]高",
+      "C": "[NAD+]/[NADH]高",
+      "D": "[oxaloacetate]高"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 41 題",
+    "question": "有關細胞膜上之脂膜筏（lipid raft），下列敘述何者正確？",
+    "options": {
+      "A": "有較低量膽固醇（cholesterol）",
+      "B": "有較低量鞘脂（sphingolipid）",
+      "C": "不含有燒杯狀膜小囊蛋白（caveolin）",
+      "D": "有較高量的糖基化磷脂醯肌醇（glycosylated derivative of phosphatidylinositol; GPI）結合蛋白質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 42 題",
+    "question": "下列那一個運輸系統屬於P-type ATPase 的作用機制？",
+    "options": {
+      "A": "肌肉細胞內質網的鈣離子幫浦（$Ca^{2+}$ pump）",
+      "B": "紅血球上的葡萄糖運輸器（glucose transporter）",
+      "C": "小腸黏膜細胞內的鈉離子-葡萄糖運輸器（$Na^+$-glucose transporter）",
+      "D": "紅血球上的氯離子-碳酸氫鹽交換器（chloride-bicarbonate exchanger）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 43 題",
+    "question": "關於脂肪組織之脂肪代謝，下列敘述何者錯誤？",
+    "options": {
+      "A": "脂肪組織脂肪分解，釋放出來的脂肪酸，可供給其他組織產生能量",
+      "B": "脂肪組織脂肪分解，分解出來的脂肪酸，釋放至血液與血清白蛋白（serum albumin）結合",
+      "C": "脂肪組織脂肪分解，釋放出來的脂肪酸可送到肝臟內再合成三酸甘油酯，所以肥胖病患易合併脂肪肝",
+      "D": "空腹時，釋放出來的脂肪酸送到肝臟內合成三酸甘油酯，包裝成乳糜微粒（chylomicron）分泌至血液中"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 44 題",
+    "question": "腦中核酸分解所形成之氨（ammonia），主要轉化為下列何種物質，再經由血液運送至肝臟或腎臟？",
+    "options": {
+      "A": "尿酸（uric acid）",
+      "B": "尿素（urea）",
+      "C": "天冬醯胺（asparagine）",
+      "D": "麩胺醯胺（glutamine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 45 題",
+    "question": "胺甲醯麩胺酸（carbamoyl glutamate）常用於治療醋醯麩胺酸合成酶（N-acetylglutamate synthetase）缺乏所造成的尿素循 環（urea cycle）障礙疾病，其藥理作用主要為何？",
+    "options": {
+      "A": "提供尿素循環所需的中間產物，增進整個尿素循環的效率",
+      "B": "做為胺甲醯磷酸合成酶（carbamoyl phosphate synthetase I）的異位活化劑（allosteric activator），增進尿素循環的效率",
+      "C": "與甘胺酸（glycine）和麩胺醯胺（glutamine）結合成衍生物排出體外，減少尿素循環的負擔",
+      "D": "促進精胺酸（arginine）的合成，防止精胺酸缺乏"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 46 題",
+    "question": "Cytochromes含有那種金屬離子？",
+    "options": {
+      "A": "Fe2+",
+      "B": "Mg2+",
+      "C": "Co2+",
+      "D": "Ni2+"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 47 題",
+    "question": "下列那一種酵素參與克式循環（Krebs cycle，亦稱citric acid cycle或TCA cycle）的反應，是位於粒線體內膜上且直接參與電 子傳遞鏈？",
+    "options": {
+      "A": "succinate dehydrogenase",
+      "B": "isocitrate dehydrogenase",
+      "C": "alpha-ketoglutarate dehydrogenase complex",
+      "D": "malate dehydrogenase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 48 題",
+    "question": "蛋白激酶A（Protein kinase A）具有下列何種特性？",
+    "options": {
+      "A": "與cyclic AMP共價鍵結合而活化",
+      "B": "與cyclic AMP共價鍵結合而抑制",
+      "C": "cyclic AMP與酵素的異位性結合位（allosteric site）結合而使酵素活化",
+      "D": "受到cyclic AMP的競爭性抑制"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 49 題",
+    "question": "有關胰島素受體（insulin receptor）訊息傳遞的敘述，下列何者正確？",
+    "options": {
+      "A": "胰島素受體是nuclear hormone receptor",
+      "B": "胰島素受體利用cAMP進行訊息傳遞",
+      "C": "胰島素受體會磷酸化自己及其受質（substrate）",
+      "D": "胰島素受體在胰島素刺激前，是一種活化的磷酸激酶"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 50 題",
+    "question": "利用polymerase chain reaction（PCR）技術放大DNA，在溫度循環過程中反應溫度高達95℃之目的為何？",
+    "options": {
+      "A": "形成單股模板（template）DNA",
+      "B": "使primer與模板（template）結合",
+      "C": "增加DNA polymerase活性",
+      "D": "便於產物之純化"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

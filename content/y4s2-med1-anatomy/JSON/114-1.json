@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 1 題",
+    "question": "下列何者含有耳蝸神經核（cochlear nucleus）傳遞到下丘（inferior colliculus）的神經纖維？",
+    "options": {
+      "A": "內側蹄系（medial lemniscus）",
+      "B": "脊髓蹄系（spinal lemniscus）",
+      "C": "外側蹄系（lateral lemniscus）",
+      "D": "三叉蹄系（trigeminal lemniscus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 2 題",
+    "question": "病人脊髓受損導致受傷部位以下肢體無力，溫痛覺喪失，但本體感覺與震動覺保留，下列何處最不可能受損？",
+    "options": {
+      "A": "後索（posterior funiculus）",
+      "B": "前索（anterior funiculus）",
+      "C": "側索（lateral funiculus）",
+      "D": "前角（anterior horn）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 3 題",
+    "question": "關於前脈絡叢動脈（anterior choroidal artery）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可供給側腦室（lateral ventricle）之脈絡叢（choroid plexus）",
+      "B": "可供給內囊後支（posterior limb of internal capsule）",
+      "C": "多數人的前脈絡叢動脈，由內頸動脈（internal carotid artery）分支出",
+      "D": "基底核（basal ganglion）的殼核（putamen），主要由前脈絡叢動脈供給"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 4 題",
+    "question": "下列有關巴金森氏病（Parkinson's disease）之敘述，何者錯誤？",
+    "options": {
+      "A": "病變部位主要在黑質網狀區（substantia nigra pars reticulata）",
+      "B": "與dopamine 分泌不足有關",
+      "C": "為一種神經退化性疾病",
+      "D": "可同時影響基底核迴路中的direct loop 與indirect loop"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 5 題",
+    "question": "下列何者最不可能直接參與眼睛看近物時的調適反應（accommodation-convergence reaction）？",
+    "options": {
+      "A": "雙眼內直肌（medial rectus）",
+      "B": "動眼神經（oculomotor nerve）",
+      "C": "額葉眼區（frontal eye field）",
+      "D": "睫狀肌（ciliary muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 6 題",
+    "question": "下列何者負責供應內耳血液？",
+    "options": {
+      "A": "副腦膜動脈（accessory meningeal artery）",
+      "B": "後腦膜動脈（posterior meningeal artery）",
+      "C": "迷路動脈（labyrinthine artery）",
+      "D": "咽升動脈（ascending pharyngeal artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 7 題",
+    "question": "下列何者並不同時參與外聽道（external acoustic meatus）與鼓膜（tympanic membrane）之一般感覺？",
+    "options": {
+      "A": "三叉神經（trigeminal nerve）",
+      "B": "顏面神經（facial nerve）",
+      "C": "舌咽神經（glossopharyngeal nerve）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 8 題",
+    "question": "下列何者隔開耳蝸管（cochlear duct/scala media）與鼓室階（scala tympani）？",
+    "options": {
+      "A": "前庭膜（vestibular membrane）",
+      "B": "基底膜（basilar membrane）",
+      "C": "鼓膜（tympanic membrane）",
+      "D": "螺旋韌帶（spiral ligament）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 9 題",
+    "question": "下列何者並不以共同腱環（common tendinous ring）為起點？",
+    "options": {
+      "A": "上直肌（superior rectus）",
+      "B": "下直肌（inferior rectus）",
+      "C": "外直肌（lateral rectus）",
+      "D": "下斜肌（inferior oblique）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 10 題",
+    "question": "下列何者與鐙骨肌（stapedius muscle）有相同的神經支配？",
+    "options": {
+      "A": "鼓膜張肌（tensor tympani muscle）",
+      "B": "眼輪匝肌（orbicularis oculi muscle）",
+      "C": "腭帆提肌（levator veli palatini muscle）",
+      "D": "腭帆張肌（tensor veli palatini muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 11 題",
+    "question": "前囟門（anterior fontanelle）處的頭皮（scalp）主要血液供應來自：",
+    "options": {
+      "A": "眶上動脈（supraorbital artery）",
+      "B": "升咽動脈（ascending pharyngeal artery）",
+      "C": "耳後動脈（posterior auricular artery）",
+      "D": "枕動脈（occipital artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 12 題",
+    "question": "擠壓鼻尖產生的痛覺，其感覺訊息透過下列何者傳遞？",
+    "options": {
+      "A": "眼神經分支（branches of ophthalmic nerve）",
+      "B": "上頷神經分支（branches of maxillary nerve）",
+      "C": "下頷神經分支（branches of mandibular nerve）",
+      "D": "顏面神經分支（branches of facial nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 13 題",
+    "question": "下列腦神經與其所關聯的副交感神經節的配對，何者正確？",
+    "options": {
+      "A": "第三對腦神經（CN III）；耳神經節（otic ganglion）",
+      "B": "第七對腦神經（CN VII）；翼腭神經節（pterygopalatine ganglion）",
+      "C": "第九對腦神經（CN IX）；睫狀神經節（ciliary ganglion）",
+      "D": "第十對腦神經（CN X）；下頷下神經節（submandibular ganglion）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 14 題",
+    "question": "下列何處，有最發達的心臟梳狀肌（pectinate muscle）？",
+    "options": {
+      "A": "左心房後半部",
+      "B": "右心房前半部",
+      "C": "左心室前半部",
+      "D": "右心室後半部"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 15 題",
+    "question": "若病人的主動脈弓（aortic arch）發生動脈瘤（aneurysm），造成聲音沙啞，最可能是因為下列那一條神經 功能間接受損？",
+    "options": {
+      "A": "右側迷走神經（right vagus nerve）",
+      "B": "右側交感神經幹（right sympathetic trunk）",
+      "C": "左側交感神經幹（left sympathetic trunk）",
+      "D": "左側喉返神經（left recurrent laryngeal nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 16 題",
+    "question": "若病人在縱隔部分（mediastinal part）的胸膜（pleura）發炎，其轉位痛最容易出現在下列何處？",
+    "options": {
+      "A": "頸部外側與鎖骨上方處",
+      "B": "前胸第四肋間附近",
+      "C": "手臂內側靠近腋下處",
+      "D": "背部肩胛骨下方"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 17 題",
+    "question": "有關氣管之敘述，下列何者錯誤？",
+    "options": {
+      "A": "氣管通常在胸骨角（sternal angle）水平面，分支為左、右主支氣管",
+      "B": "右支氣管通常比左支氣管寬且較為垂直（vertical）",
+      "C": "正常之左、右支氣管夾角約在150 度",
+      "D": "除氣管隆突（carina）之外，氣管的軟骨全為C 型軟骨"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 18 題",
+    "question": "下列何者是腹膜內器官（intraperitoneal organ）？",
+    "options": {
+      "A": "胰臟（pancreas）",
+      "B": "腎臟（kidney）",
+      "C": "十二指腸（duodenum）",
+      "D": "迴腸（ileum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 19 題",
+    "question": "進行闌尾（appendix）去除手術前，可藉由下列何種結構快速找到闌尾？",
+    "options": {
+      "A": "腸脂垂（omental appendices）",
+      "B": "右結腸動脈（right colic artery）",
+      "C": "盲腸上的結腸帶（taenia coli of cecum）",
+      "D": "迴結腸動脈（ileocolic artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 20 題",
+    "question": "下列何結構上有腹股溝淺環（superifical inguinal ring）的開口？",
+    "options": {
+      "A": "腹外斜肌腱膜（aponeurosis of external oblique muscle）",
+      "B": "腹直肌腱膜（aponeurosis of rectus abdominis）",
+      "C": "腹內斜肌腱膜（aponeurosis of internal oblique muscle）",
+      "D": "腹橫肌腱膜（aponeurosis of transversus abdominis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 21 題",
+    "question": "下列何者不是腹腔幹（celiac trunk）的一級分支？",
+    "options": {
+      "A": "總肝動脈（common hepatic artery）",
+      "B": "左胃動脈（left gastric artery）",
+      "C": "胃十二指腸動脈（gastroduodenal artery）",
+      "D": "脾動脈（splenic artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 22 題",
+    "question": "關於子宮動脈（uterine artery），下列敘述何者錯誤？",
+    "options": {
+      "A": "子宮動脈是髂內動脈（internal iliac artery）的分支",
+      "B": "子宮動脈有一段會直接跨在輸尿管（ureter）的上方",
+      "C": "子宮動脈的主幹會先進入子宮底（fundus），之後再發出分支供應子宮頸（cervix）",
+      "D": "子宮動脈會與卵巢動脈吻合（anastomosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 23 題",
+    "question": "下列何者附著於恥骨聯合（pubic symphysis）？",
+    "options": {
+      "A": "陰莖懸韌帶（suspensory ligament of penis）",
+      "B": "陰莖襻狀韌帶（fundiform ligament of penis）",
+      "C": "會陰體（perineal body）",
+      "D": "會陰淺橫肌（superficial transverse perineal muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 24 題",
+    "question": "下列何者不是薦神經叢（sacral plexus）的分支？",
+    "options": {
+      "A": "臀上神經（superior gluteal nerve）",
+      "B": "閉孔內肌神經（nerve to obturator internus）",
+      "C": "陰部神經（pudendal nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 25 題",
+    "question": "下列何構造開口於海綿體尿道（spongy urethra）？",
+    "options": {
+      "A": "前列腺（prostate gland）",
+      "B": "精囊（seminal vesicle）",
+      "C": "射精管（ejaculatory duct）",
+      "D": "尿道球腺（bulbourethral gland）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 26 題",
+    "question": "下列那一條肌肉的支配神經與其他選項完全不同？",
+    "options": {
+      "A": "背闊肌（latissimus dorsi）",
+      "B": "大菱形肌（rhomboid major）",
+      "C": "小菱形肌（rhomboid minor）",
+      "D": "提肩胛肌（levator scapulae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 27 題",
+    "question": "下列那一神經受損，食指的外展、內收作用（abduct and adduct index）都會出現障礙？",
+    "options": {
+      "A": "腋神經（axillary nerve）",
+      "B": "橈神經（radial nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "正中神經（median nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 28 題",
+    "question": "下列何者夾在內踝（medial malleolus）與外踝（lateral malleolus）之間？",
+    "options": {
+      "A": "跟骨（calcaneus）",
+      "B": "距骨（talus）",
+      "C": "舟狀骨（navicular）",
+      "D": "骰骨（cuboid）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 29 題",
+    "question": "下列何肌肉肌腱不構成鵝足（pes anserinus）？",
+    "options": {
+      "A": "股薄肌（gracilis）",
+      "B": "縫匠肌（sartorius）",
+      "C": "半腱肌（semitendinosus）",
+      "D": "內收長肌（adductor longus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 30 題",
+    "question": "正常情形下，臂神經叢（brachial plexus）的那一部分會包圍住腋動脈的第二段（second part of  axillary artery）？",
+    "options": {
+      "A": "神經根（roots）",
+      "B": "神經幹（trunks）",
+      "C": "神經分部（divisions）",
+      "D": "神經索（cords）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 31 題",
+    "question": "下列何者位於枕下三角（suboccipital triangle）內，並且支配枕下三角的肌肉群？",
+    "options": {
+      "A": "第一頸神經的前支（anterior ramus of C1）",
+      "B": "第一頸神經的後支（posterior ramus of C1）",
+      "C": "枕大神經（greater occipital nerve）",
+      "D": "枕小神經（lesser occipital nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

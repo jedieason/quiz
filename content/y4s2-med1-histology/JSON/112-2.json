@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 37 題",
+    "question": "泌尿上皮（urothelium）在組織學的上皮分類主要是屬於：",
+    "options": {
+      "A": "單層上皮（simple epithelium）",
+      "B": "偽複層上皮（pseudostratified epithelium）",
+      "C": "移形上皮（transitional epithelium）",
+      "D": "類上皮組織（epithelioid tissue）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 38 題",
+    "question": "微小管（microtubules）的平均直徑（diameter）大約為：",
+    "options": {
+      "A": "2～2.5 nm",
+      "B": "20～25 nm",
+      "C": "200～250 nm",
+      "D": "2000～2500 nm"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 39 題",
+    "question": "下列關於軟骨（cartilage）的敘述，何者正確？",
+    "options": {
+      "A": "胎兒的骨骼組織一開始是由纖維軟骨（fibrocartilage）構成，再轉變為硬骨（bone）",
+      "B": "滑液關節（synovial joint）的軟骨面是由彈性軟骨（elastic cartilage）構成",
+      "C": "椎間盤（intervertebral disc）是由透明軟骨（hyaline cartilage）構成",
+      "D": "會厭軟骨（epiglottis）是由彈性軟骨（elastic cartilage）構成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 40 題",
+    "question": "下列有關中樞神經膠細胞（neuroglial cell）的敘述，何者錯誤？",
+    "options": {
+      "A": "寡突膠細胞（oligodendrocyte）主要與中樞神經系統之髓鞘（myelin sheath）的形成與維持有關",
+      "B": "原漿性星狀膠細胞（protoplasmic astrocyte）主要位於中樞神經系統的白質（white matter）",
+      "C": "微小膠細胞（microglia）是小型的細胞，主要是中樞神經系統的吞噬細胞",
+      "D": "纖維性星狀膠細胞（fibrous astrocyte）與原漿性星狀膠細胞（protoplasmic astrocyte）比較，前者具有較少且較 直的胞質突起（processes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 41 題",
+    "question": "下列有關細支氣管（bronchiole）構造的敘述，何者正確？",
+    "options": {
+      "A": "整個細支氣管的管壁上皮均為具纖毛的偽複層柱狀上皮（ciliated, pseudostratified columnar epithelium）",
+      "B": "其管壁具有平滑肌（smooth muscle）",
+      "C": "其上皮下方具有腺體和軟骨板（cartilage plate）",
+      "D": "其管壁不具有彈性纖維（elastic fibers）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 42 題",
+    "question": "下列何者存在於胰臟（pancreas），而不存在於耳下腺（parotid gland）？",
+    "options": {
+      "A": "酵素原細胞（zymogenic cells）",
+      "B": "泡心細胞（centroacinar cells）",
+      "C": "小葉間管（interlobular duct）",
+      "D": "閏管（intercalated duct）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 43 題",
+    "question": "下列有關唾液腺（salivary gland）的敘述，何者錯誤？",
+    "options": {
+      "A": "耳下腺（parotid gland）主要由漿液腺（serous gland）所組成",
+      "B": "閏管（intercalated duct）構造在舌下腺（sublingual gland）中最為發達",
+      "C": "下頜下腺（submandibular gland）由漿液腺（serous gland）與黏液腺（mucous gland）混合組成",
+      "D": "線紋管（striated duct）細胞的底部具有長條形的粒線體和底部胞膜皺褶（infoldings of the basal plasma membrane）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 44 題",
+    "question": "在腎臟中，下列何者的上皮主要不是由單層立方上皮（simple cuboidal epithelium）所組成？",
+    "options": {
+      "A": "乳頭管（papillary duct）",
+      "B": "近曲小管（proximal convoluted tubule）",
+      "C": "集尿小管（collecting tubule）",
+      "D": "遠曲小管（distal convoluted tubule）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 45 題",
+    "question": "關於蔓狀叢（pampiniform plexus）的敘述，下列何者正確？",
+    "options": {
+      "A": "僅具有環走的平滑肌層",
+      "B": "肌肉層僅出現於中膜層（tunica media）",
+      "C": "位於睪丸（testis）中",
+      "D": "有較厚的肌肉壁，屬於非典型的靜脈（atypical vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 46 題",
+    "question": "下列關於胎盤（placenta）的三級絨毛（tertiary chorionic villi）之敘述，何者正確？",
+    "options": {
+      "A": "可藉由合胞體結（syncytial knots）的數目，來評估絨毛（chorionic villi）的成熟度",
+      "B": "懷孕晚期，絨毛最外層為完整且顯著的細胞滋養層（cytotrophoblast）",
+      "C": "不具有血管及合胞滋養層（syncytiotrophoblast）",
+      "D": "其結締組織中只含有間葉細胞（mesenchymal cells）與纖維母細胞（fibroblasts）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

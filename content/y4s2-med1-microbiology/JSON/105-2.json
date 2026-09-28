@@ -1,0 +1,253 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 42 題",
+    "question": "有關馬爾他布魯氏菌（Brucella melitensis）的特徵，下列何者錯誤？",
+    "options": {
+      "A": "為兼性厭氧菌（facultative anaerobic）",
+      "B": "是波浪熱（undulant fever）的致病菌",
+      "C": "為革蘭氏陰性桿菌",
+      "D": "可在巨噬細胞（macrophages）內生長"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 43 題",
+    "question": "有關腦膜炎奈瑟氏菌（Neisseria meningitidis）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "製作疫苗的成分是莢膜多醣體（capsular polysaccharides）",
+      "B": "常由帶菌的動物得到感染",
+      "C": "主要經由呼吸道感染",
+      "D": "可能引起嚴重敗血症，造成腎上腺（adrenal gland）的損壞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 44 題",
+    "question": "下列何者最常棲居（colonize）於人類之前鼻咽部（anterior nasopharynx）？",
+    "options": {
+      "A": "破傷風桿菌（Clostridium tetani）",
+      "B": "鬆脆類桿菌（Bacteroides fragilis）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "幽門螺旋桿菌（Helicobacter pylori）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 45 題",
+    "question": "一男子從東南亞返國一天後開始出現嘔吐、腹瀉症狀，因持續兩天嚴重水瀉而住院。病人隨後出現脫水、酸中毒和低血鉀等症 候，糞便檢體培養出逗點狀彎曲、氧化酶（oxidase）陽性之細菌。此病患最有可能是感染了下列何種細菌？",
+    "options": {
+      "A": "霍亂弧菌（Vibrio cholerae）",
+      "B": "痢疾志賀氏桿菌（Shigella dysenteriae）",
+      "C": "幽門桿菌（Helicobacter pylori）",
+      "D": "大腸桿菌（Escherichia coli）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 46 題",
+    "question": "有關破傷風梭菌（Clostridium tetani ）之敘述，下列何者正確？",
+    "options": {
+      "A": "致病是因產生破傷風痙攣毒素（tetanospasmin）抑制神經傳導物質乙醯膽鹼（acetylcholine）的釋放",
+      "B": "病菌會藉血流散佈全身，引發全身性破傷風",
+      "C": "施打破傷風抗毒素球蛋白（antitoxin globulin）有助於治療破傷風",
+      "D": "施打破傷風疫苗預防破傷風，是屬於被動免疫"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 47 題",
+    "question": "有關胃幽門桿菌（Helicobacter pylori）之特性，下列何者錯誤？",
+    "options": {
+      "A": "為革蘭氏陰性菌",
+      "B": "為微需氧（microaerophilic）菌",
+      "C": "能產生氧化酶（oxidase）以避免菌體被胃酸破壞",
+      "D": "可用同位素尿素標識呼吸法（urea breath test）作鑑別診斷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 48 題",
+    "question": "下列何者最常引起人工瓣膜之心內膜炎（endocarditis of artificial valve）？",
+    "options": {
+      "A": "鏈球菌（Streptococci）",
+      "B": "葡萄球菌（Staphylococci）",
+      "C": "腸內桿菌科細菌（Enterobacteriaceae）",
+      "D": "布魯氏桿菌屬（Brucella spp.）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 49 題",
+    "question": "下列何者屬B群鏈球菌（Group B Streptococci）？",
+    "options": {
+      "A": "化膿性鏈球菌（Streptococcus pyogenes）",
+      "B": "草綠色鏈球菌（viridans streptococci）",
+      "C": "無乳鏈球菌（Streptococcus agalactiae）",
+      "D": "轉糖鏈球菌（Streptococcus mutans）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 50 題",
+    "question": "有關嗜肺性退伍軍人桿菌（Legionella pneumophila）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "培養時需在培養基中添加L-胱胺酸（L-cysteine）",
+      "B": "可在巨噬細胞（macrophages）內繁殖",
+      "C": "會引起龐地克熱（Pontiac fever）和肺炎兩型，而以龐地克熱死亡率較高",
+      "D": "經常由中央空調散佈"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 51 題",
+    "question": "有一位婦人因發燒，伴隨有嚴重的頭痛、肌肉疼痛、腹瀉和眼睛變紅等症狀而就診，經抽血檢驗確定為鉤端螺旋體病 （leptospirosis）。關於此疾病，下列敘述何者錯誤？",
+    "options": {
+      "A": "其致病菌之宿主有老鼠、狗、豬、牛、馬、羊等動物",
+      "B": "此病菌不容易用革蘭氏染色法觀察到",
+      "C": "該病菌可長期寄生於動物的腎小管（renal tubules）中",
+      "D": "此疾病以壁虱（ticks）為傳播媒介"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 52 題",
+    "question": "下列那一種DNA病毒具有不同的血清型，會造成上呼吸道、結膜以及腸胃道的感染？",
+    "options": {
+      "A": "乳突瘤病毒（Papillomavirus）",
+      "B": "腺病毒（Adenovirus）",
+      "C": "痘病毒（Poxvirus）",
+      "D": "B19細小病毒（Parvovirus B19）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 53 題",
+    "question": "常用來治療疱疹病毒的阿昔洛韋（Acyclovir）會被病毒的何種酵素磷酸化，進而抑制病毒的複製？",
+    "options": {
+      "A": "胞苷激酶（cytidine kinase）",
+      "B": "胸苷激酶（thymidine kinase）",
+      "C": "酪氨酸激酶（tyrosine kinase）",
+      "D": "周期蛋白依賴性激酶（cyclin dependent kinase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 54 題",
+    "question": "有關痘病毒（Poxvirus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是最大的人類DNA病毒",
+      "B": "完全在細胞質中複製",
+      "C": "自己攜帶核醣核酸聚合酶（RNA polymerase），供基因轉錄",
+      "D": "動物的痘病毒不會傳給人"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 55 題",
+    "question": "下列何種病毒不屬於腸病毒屬（Genus enterovirus）？",
+    "options": {
+      "A": "脊髓灰白質炎病毒（Poliovirus）",
+      "B": "輪狀病毒（Rotavirus）",
+      "C": "克沙奇病毒（Coxsackie virus）",
+      "D": "埃可病毒（Echovirus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 56 題",
+    "question": "血球凝集（hemagglutination）試驗，不適用於下列何種病毒的檢測？",
+    "options": {
+      "A": "呼吸道細胞融合病毒（Respiratory syncytial virus）",
+      "B": "腮腺炎病毒（Mumps virus）",
+      "C": "副流感病毒（Parainfluenza virus）",
+      "D": "麻疹病毒（Measles virus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 57 題",
+    "question": "關於羊搔癢症傳染性蛋白質（scrapie-like prion protein, PrPSC）的特性，下列何者錯誤？",
+    "options": {
+      "A": "是由基因突變所產生",
+      "B": "對福馬林有抗性",
+      "C": "能抵抗80oC高溫",
+      "D": "能抵抗紫外線"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 58 題",
+    "question": "EB病毒（Epstein-Barr virus）主要感染B淋巴球；它是以該細胞表面的何種分子為受體（receptor）？",
+    "options": {
+      "A": "CR2",
+      "B": "CD4",
+      "C": "CD8",
+      "D": "醣蛋白（glycoprotein）"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 59 題",
+    "question": "棘白菌素（Echinocandins）是一類較新的抗真菌（antifungal）藥物，其中一種卡泊芬淨（Caspofungin）已通過人體試驗供 臨床使用。其抑制真菌之機轉為何？",
+    "options": {
+      "A": "抑制真菌DNA之合成",
+      "B": "抑制真菌麥角固醇（ergosterol）之合成",
+      "C": "抑制真菌1,3-β-葡聚醣（1,3-β-glucans）之合成",
+      "D": "抑制真菌幾丁質（chitin）之合成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 60 題",
+    "question": "下列何者是目前最常用來治療甲癬（onychomycosis; tinea unguium）之口服藥物？",
+    "options": {
+      "A": "特比萘芬（Terbinafine）",
+      "B": "制黴菌素（Nystatin）",
+      "C": "兩性黴素B (Amphotericin B）",
+      "D": "氟胞嘧啶（Flucytosine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 61 題",
+    "question": "一名男性AIDS患者自廣東鄉下返台後，呈現發燒、咳嗽、肺部有浸潤、淋巴腫脹、輕微貧血等症狀。血液檢體於25℃培養出 類似常見的黴菌，菌絲有分隔（septate hyphae）、分生孢子柄頂端有掃把狀排列之瓶孢子柄（phialides），菌落周邊有紅色 色素擴散，在37℃培養則呈現中裂型酵母菌（fission yeast）。最可能罹患下列那種病症？",
+    "options": {
+      "A": "念珠菌菌血症（candidemia）",
+      "B": "隱球菌症（cryptococcosis）",
+      "C": "馬爾尼菲青黴菌症（talaromycosis或penicilliosis marneffei）",
+      "D": "肺孢子蟲症（pneumocystosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

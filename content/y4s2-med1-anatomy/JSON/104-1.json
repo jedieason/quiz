@@ -1,0 +1,351 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 1 題",
+    "question": "下列有關大腦皮質運動區的敘述，何者錯誤？",
+    "options": {
+      "A": "初級運動皮質可發出皮質脊髓徑支配下運動神經元（lower motor neuron）",
+      "B": "premotor area 與supplementary motor area 參與複雜動作之計畫與順序性",
+      "C": "下運動神經元（lower motor neuron）皆由對側大腦皮質所發出之corticospinal tract 或corticobulbar tract 支配",
+      "D": "大腦皮質運動區接受丘腦之訊息"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 2 題",
+    "question": "下列有關杏仁體（amygdaloid body）的敘述，何者錯誤？",
+    "options": {
+      "A": "接受嗅覺訊息",
+      "B": "與邊緣系統有關",
+      "C": "與大腦前額葉區（prefrontal area）有密切聯繫",
+      "D": "在臨床或生理功能上，杏仁體是基底核的一部分"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 3 題",
+    "question": "下列有關丘腦下核（subthalamic nucleus）之敘述，何者錯誤？",
+    "options": {
+      "A": "參與基底核迴路中的indirect loop",
+      "B": "丘腦下核損傷可能導致不自主運動（involuntary movement）",
+      "C": "丘腦下核位於中腦",
+      "D": "丘腦下核的神經元使用興奮性神經傳遞物質"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 4 題",
+    "question": "下列何者由腦幹神經核發出後會交叉到對側？",
+    "options": {
+      "A": "動眼神經",
+      "B": "滑車神經",
+      "C": "舌下神經",
+      "D": "顏面神經"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 5 題",
+    "question": "下列何者與聽覺無關？",
+    "options": {
+      "A": "外側蹄系（lateral lemniscus）",
+      "B": "下橄欖核（inferior olivary nucleus）",
+      "C": "螺旋神經節（spiral ganglion）",
+      "D": "內側膝狀體（medial geniculate body）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 6 題",
+    "question": "右側眼睛照光造成左側眼睛瞳孔縮小，下列何者不參與其傳導？",
+    "options": {
+      "A": "視徑（optic tract）",
+      "B": "睫狀神經節（ciliary ganglion）",
+      "C": "內縱束（medial longitudinal fasciculus）",
+      "D": "動眼神經（oculomotor nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 7 題",
+    "question": "下列何處是嬰兒最常進行腦池穿刺（cisternal puncture）以獲取腦脊髓液（CSF）的地方？",
+    "options": {
+      "A": "大腦腳間池（interpeduncular cistern）",
+      "B": "小腦延髓後池（posterior cerebellomedullary cistern）",
+      "C": "四疊體池（quadrigeminal cistern）",
+      "D": "橋腦池（pontine cistern）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 8 題",
+    "question": "位於大腦鎌（falx cerebri）與小腦天幕（tentorium cerebelli）交接處的構造是：",
+    "options": {
+      "A": "下矢狀竇（inferior sagittal sinus）",
+      "B": "直竇（straight sinus）",
+      "C": "匯竇（confluence of sinuses）",
+      "D": "枕竇（occipital sinus）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 9 題",
+    "question": "下列何者不走在翼腭窩（pterygopalatine fossa）內？",
+    "options": {
+      "A": "顴神經（zygomatic n.）",
+      "B": "蝶腭動脈（sphenopalatine a.）",
+      "C": "後上齒槽動脈（posterior superior alveolar a.）",
+      "D": "前上齒槽神經（anterior superior alveolar n.）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 10 題",
+    "question": "角膜的痛覺由下列何者傳導？",
+    "options": {
+      "A": "滑車上神經（supratrochlear nerve）",
+      "B": "眶下神經（infraorbital nerve）",
+      "C": "鼻睫神經（nasociliary nerve）",
+      "D": "視神經（optic nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 11 題",
+    "question": "血塊造成右肺動脈（right pulmonary artery）栓塞（embolism），此血塊最可能來自下列何處？",
+    "options": {
+      "A": "右肺靜脈（right pulmonary vein）",
+      "B": "左肺靜脈（left pulmonary vein）",
+      "C": "左股靜脈（left femoral vein）",
+      "D": "左心室（left ventricle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 12 題",
+    "question": "乳房外側的淋巴液回流至下列何者？",
+    "options": {
+      "A": "腋淋巴結",
+      "B": "胸骨旁淋巴結",
+      "C": "橫膈下淋巴結",
+      "D": "對側乳房的淋巴結"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 13 題",
+    "question": "肝臟的裸區（bare area）位於其：",
+    "options": {
+      "A": "橫膈面（diaphragmatic surface）",
+      "B": "脾壓跡（splenic impression）",
+      "C": "肋骨壓跡（costal impression）",
+      "D": "腎壓跡（renal impression）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 14 題",
+    "question": "下列何者不走在小網膜（lesser omentum）內或構成其一部分？",
+    "options": {
+      "A": "肝胃韌帶（hepatogastric ligament）",
+      "B": "肝十二指腸韌帶（hepatoduodenal ligament）",
+      "C": "肝門靜脈（hepatic portal vein）",
+      "D": "脾動脈（splenic artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 15 題",
+    "question": "因神經受損而使得闊筋膜張肌（tensor fasciae latae）退化萎縮，下列何者可能也會受影響？",
+    "options": {
+      "A": "臀大肌",
+      "B": "臀中肌",
+      "C": "梨狀肌",
+      "D": "上孖肌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 16 題",
+    "question": "下列何者直接位於子宮的後方？",
+    "options": {
+      "A": "卵巢",
+      "B": "膀胱",
+      "C": "直腸",
+      "D": "輸卵管"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 17 題",
+    "question": "前列腺動脈（prostatic artery）主要源自下列何處？",
+    "options": {
+      "A": "膀胱下動脈（inferior vesical artery）",
+      "B": "膀胱上動脈（superior vesical artery）",
+      "C": "睪丸動脈（testicular artery）",
+      "D": "直腸下動脈（inferior rectal artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 18 題",
+    "question": "副交感神經興奮時，最可能造成下列何者收縮？",
+    "options": {
+      "A": "前列腺（prostate）",
+      "B": "迫尿肌（detrusor muscle）",
+      "C": "輸精管（vas deferens）",
+      "D": "儲精囊（seminal vesicle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 19 題",
+    "question": "在骨盆腔內下列何者跨過輸尿管？",
+    "options": {
+      "A": "輸卵管（ovarian tube）",
+      "B": "輸精管（vas deferens）",
+      "C": "陰道動脈（vaginal artery）",
+      "D": "陰部內動脈（internal pudendal artery）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 20 題",
+    "question": "下列那一構造不參與精漿（seminal plasma）的製成？",
+    "options": {
+      "A": "睪丸（testis）",
+      "B": "儲精囊（seminal vesicle）",
+      "C": "尿道球腺（bulbourethral gland）",
+      "D": "前列腺（prostate）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 21 題",
+    "question": "陰部神經（pudendal nerve）受損對下列何者的影響最小？",
+    "options": {
+      "A": "尿道",
+      "B": "子宮",
+      "C": "陰道",
+      "D": "肛管"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 22 題",
+    "question": "閉孔神經（obturator nerve）前支損傷最可能造成下列何者無力？",
+    "options": {
+      "A": "閉孔內肌（obturator internus）",
+      "B": "閉孔外肌（obturator externus）",
+      "C": "內收長肌（adductor longus）",
+      "D": "內收大肌（adductor magnus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 23 題",
+    "question": "下列何者通過鼠蹊韌帶（inguinal ligament）與恥骨之間？",
+    "options": {
+      "A": "髂腹下神經（iliohypogastric nerve）",
+      "B": "髂腹股溝神經（ilioinguinal nerve）",
+      "C": "股神經（femoral nerve）",
+      "D": "閉孔神經（obturator nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 24 題",
+    "question": "橈神經（radial nerve）受損時，手指無法進行下列何種動作？",
+    "options": {
+      "A": "屈曲（flexion）",
+      "B": "伸直（extension）",
+      "C": "內收（adduction）",
+      "D": "外展（abduction）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 25 題",
+    "question": "下列何者受損最可能導致斜方肌（trapezius）無力，肩膀下垂，手臂無法高舉過頭？",
+    "options": {
+      "A": "長胸神經（long thoracic nerve）",
+      "B": "胸背神經（thoracodorsal nerve）",
+      "C": "肩胛背神經（dorsal scapular nerve）",
+      "D": "副神經（accessory nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 26 題",
+    "question": "膝關節韌帶受傷造成整隻小腿可以往前拖出（anterior draw），下列何者最可能斷裂？",
+    "options": {
+      "A": "前十字韌帶（anterior cruciate ligament）",
+      "B": "後十字韌帶（posterior cruciate ligament）",
+      "C": "脛側副韌帶（tibial collateral ligament）",
+      "D": "腓側副韌帶（fibular collateral ligament）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 27 題",
+    "question": "脛神經（tibial nerve）走在下列那兩塊肌肉之間？",
+    "options": {
+      "A": "腓腸肌（gastrocnemius）與比目魚肌（soleus）",
+      "B": "比目魚肌（soleus）與脛後肌（tibialis posterior）",
+      "C": "脛後肌（tibialis posterior）與脛前肌（tibialis anterior）",
+      "D": "腓長肌（fibularis longus）與腓短肌（fibularis brevis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 28 題",
+    "question": "下列何者伴行脛後動脈（posterior tibial artery）且支配脛後肌（tibialis posterior）？",
+    "options": {
+      "A": "脛神經（tibial nerve）",
+      "B": "隱神經（saphenous nerve）",
+      "C": "腓深神經（deep fibular nerve）",
+      "D": "腓淺神經（superficial fibular nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

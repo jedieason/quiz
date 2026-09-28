@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 37 題",
+    "question": "下列那些屬於無膜胞器（nonmembranous organelle）？① 胞內體（endosome） ② 粗糙內質網（rough  endoplasmic reticulum） ③ 核糖體（ribosome） ④ 蛋白酶體（proteasome）",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 38 題",
+    "question": "關於黏液細胞（mucous cell）的敘述，下列何者正確？",
+    "options": {
+      "A": "黏液細胞的細胞核常位於細胞的中央",
+      "B": "在H&E 染色下，黏液細胞的核周邊細胞質常有大量粗糙內質網（rough endoplasmic reticulum），呈現嗜 鹼（basophilic）性",
+      "C": "在H&E 染色下，黏液細胞的頂部細胞質常呈現嗜伊紅（eosinophilic）性",
+      "D": "在PAS 染色下，黏液細胞之黏原顆粒（mucinogen granule）常呈現PAS 陽性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 39 題",
+    "question": "下列何者有軟骨（cartilage）參與作用？",
+    "options": {
+      "A": "膜內骨化（intramembranous ossification）",
+      "B": "骨元形成（development of osteons）",
+      "C": "直接骨癒合（direct bone healing）",
+      "D": "間接骨癒合（indirect bone healing）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 40 題",
+    "question": "下列有關彈性纖維（elastic fibers）的敘述，何者正確？",
+    "options": {
+      "A": "由3 條彈力素原纖維（elastin fibrils）形成",
+      "B": "皮膚切片用H&E 染色，即可分辨膠原纖維與彈性纖維",
+      "C": "含有小纖維蛋白微纖維（fibrillin microfibrils）",
+      "D": "淋巴組織中有大量的彈性纖維"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 41 題",
+    "question": "成年後何區域的神經元（neuron）受損後，仍可由幹細胞再生？",
+    "options": {
+      "A": "腦幹（brainstem）",
+      "B": "脊髓灰質（gray matter）",
+      "C": "嗅球（olfactory bulb）",
+      "D": "背根神經節（dorsal root ganglion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 42 題",
+    "question": "下列對於連續型微血管（continuous capillary）的敘述，何者正確？",
+    "options": {
+      "A": "其血管壁由內膜（tunica intima）、中膜（tunica media）和外膜（tunica adventitia）組成",
+      "B": "內皮細胞（endothelial cell）外圍不具有基底板（basal lamina）",
+      "C": "內皮細胞（endothelial cell）有孔（fenestration）",
+      "D": "在肌肉和中樞神經組織中常可觀察到此種微血管"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 43 題",
+    "question": "胃腺（gastric gland）的細胞中，何者主要分泌胃蛋白酶原（pepsinogen），且在H&E 染色下呈現嗜鹼性 （basophilic）？",
+    "options": {
+      "A": "主細胞（chief cell）",
+      "B": "黏液頸細胞（mucous neck cell）",
+      "C": "胃壁細胞（parietal cell）",
+      "D": "腸內分泌細胞（enteroendocrine cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 44 題",
+    "question": "消化道中，下列何者的黏膜層（mucosa）及黏膜下層（submucosa）皆具有分泌黏液（mucus）的腺體？",
+    "options": {
+      "A": "食道（esophagus）",
+      "B": "胃（stomach）",
+      "C": "結腸（colon）",
+      "D": "闌尾（appendix）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 45 題",
+    "question": "下列何種現象可在老化皮膚中觀察到？",
+    "options": {
+      "A": "角質細胞（keratinocyte）出現萎縮現象",
+      "B": "蘭氏細胞（Langerhans cell）數量增加",
+      "C": "真皮的纖維母細胞（dermal fibroblast）活性增加",
+      "D": "皮脂腺（sebaceous gland）分泌量增加"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 46 題",
+    "question": "下列何者的上皮細胞表面有特化的靜纖毛（stereocilia）？",
+    "options": {
+      "A": "直小管（straight tubule）",
+      "B": "輸出小管（efferent ductule）",
+      "C": "副睪（epididymis）",
+      "D": "曲細精管（seminiferous tubule）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

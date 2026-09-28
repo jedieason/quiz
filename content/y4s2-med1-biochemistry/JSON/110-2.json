@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 110 年第二次醫師國考第 74 題",
+    "question": "氧氣和肌紅蛋白（myoglobin）結合時，蛋白質上的何種胺基酸會和此氧分子形成氫鍵，使氧分子結合更為穩 定？",
+    "options": {
+      "A": "serine",
+      "B": "histidine",
+      "C": "proline",
+      "D": "tyrosine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 75 題",
+    "question": "下列何者數值越大，表示酵素之催化效率越佳？",
+    "options": {
+      "A": "1 /kcat",
+      "B": "KM",
+      "C": "kcat / KM",
+      "D": "KM / kcat"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 76 題",
+    "question": "下列關於酵素的敘述，何者錯誤？",
+    "options": {
+      "A": "酵素可降低化學反應物及產物之間的自由能差異",
+      "B": "大多數酵素會與反應過渡態（transition state）緊密結合",
+      "C": "大多數酵素催化反應有立體化學專一性（stereospecificity）",
+      "D": "酵素可縮短反應達到化學平衡所需的時間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 77 題",
+    "question": "缺乏phenylalanine hydroxylase會造成苯丙酮尿症。phenylalanine hydroxylase催化由phenylalanine生成tyrosine， 下列何種輔酶為反應所必需？",
+    "options": {
+      "A": "tetrahydrobiopterin",
+      "B": "biotin",
+      "C": "thiamine pyrophosphate",
+      "D": "pyridoxal phosphate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 78 題",
+    "question": "下列何種輔酶（coenzyme）於羧化反應（carboxylation）中用以攜帶$CO_2$？",
+    "options": {
+      "A": "biotin",
+      "B": "NAD+",
+      "C": "FAD",
+      "D": "thiamine pyrophosphate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 79 題",
+    "question": "下列何者屬於迴文序列（palindromic sequence）？",
+    "options": {
+      "A": "AGGTCCTCCAGG",
+      "B": "CCTTCCGGAAGG",
+      "C": "GAATCCCTTAGG",
+      "D": "GGATCCCCTAGG"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 80 題",
+    "question": "下列關於Lesch-Nyhan syndrome的敘述，何者錯誤？",
+    "options": {
+      "A": "先天缺乏hypoxanthine-guanine phosphoribosyltransferase而導致",
+      "B": "無法藉由新合成路徑（de novo pathway）合成鳥糞嘌呤（guanine）",
+      "C": "X染色體相關之遺傳性疾病",
+      "D": "嚴重者會累積過多的尿酸，造成組織的破壞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 81 題",
+    "question": "大腸桿菌裡染色體DNA複製最主要的聚合酶為：",
+    "options": {
+      "A": "DNA聚合酶 I",
+      "B": "DNA聚合酶 II",
+      "C": "DNA聚合酶 III",
+      "D": "DNA聚合酶 IV"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 82 題",
+    "question": "大腸桿菌進行同源性重組（homologous recombination）時，下列何種蛋白質會包覆於此過程中產生之單股 DNA上，形成螺旋的細絲（helical filaments）結構？",
+    "options": {
+      "A": "DNA polymerase",
+      "B": "RuvC",
+      "C": "RecA",
+      "D": "RecBCD"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 83 題",
+    "question": "UvrABC核酸內切酶（UvrABC excinuclease）參與下列何種DNA修復機制？",
+    "options": {
+      "A": "直接修復機制（direct repair）",
+      "B": "重組修復（recombination repair）",
+      "C": "鹼基錯誤配對修復（mismatch repair）",
+      "D": "核苷酸切除修復（nucleotide excision repair）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 84 題",
+    "question": "下列何者對真核細胞中的蛋白質轉譯起始（translation initiation）最不重要？",
+    "options": {
+      "A": "5' 端帽結構（5' cap structure）",
+      "B": "內部核糖體進入位點（internal ribosome entry site）",
+      "C": "轉譯起始因子eIF2的參與",
+      "D": "夏因–達爾加諾序列（Shine-Dalgarno sequence）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 85 題",
+    "question": "下列何種物質不會抑制蛋白質的生合成？",
+    "options": {
+      "A": "氯黴素（chloramphenicol）",
+      "B": "戊二醯亞胺環己酮（cycloheximide）",
+      "C": "青黴素（penicillin）",
+      "D": "嘌呤黴素（puromycin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 86 題",
+    "question": "有關拓樸異構酶（topoisomerase）功能的敘述，下列何者正確？",
+    "options": {
+      "A": "打開DNA，並催化磷酸雙酯鍵的斷裂與接合，以紓緩DNA纏繞的壓力",
+      "B": "結合並保護染色體尾端DNA，使其不易被水解",
+      "C": "修飾組蛋白（histone），以穩定染色體之結構",
+      "D": "幫助致癌基因之轉譯後修飾"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 87 題",
+    "question": "有關核糖體（ribosomes）的描述，下列何者最適當？",
+    "options": {
+      "A": "只有大次單元（large subunit）含有rRNA分子",
+      "B": "rRNA只扮演核糖體結構的角色",
+      "C": "大次單元是由多個大小不一的rRNAs和蛋白質所構成",
+      "D": "核糖體中胜肽轉移酶（peptidyl transferase）的催化作用由蛋白質執行"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 88 題",
+    "question": "Pyruvate dehydrogenase（PDH）催化pyruvate轉化為acetyl-CoA的過程中會依序釋放出：",
+    "options": {
+      "A": "acetyl-CoA, $CO_2$, NADH",
+      "B": "acetyl-CoA, $CO_2$, FADH2",
+      "C": "$CO_2$, FADH2, acetyl-CoA",
+      "D": "$CO_2$, acetyl-CoA, NADH"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 89 題",
+    "question": "Amylopectin是葡萄糖單體以何種方式聚合而成的多醣？",
+    "options": {
+      "A": "α-D-glucose通過1→4鍵結所形成之長直鏈",
+      "B": "β-D-glucose通過1→4鍵結所形成之長直鏈",
+      "C": "α-D-glucose通過1→4鍵結所形成之長直鏈，並以1→6鍵結方式形成支鏈",
+      "D": "β-D-glucose通過1→4鍵結所形成之長直鏈，並以1→6鍵結方式形成支鏈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 90 題",
+    "question": "在細胞中，下列那種化合物無法直接用以合成ATP？",
+    "options": {
+      "A": "1,3-bisphosphoglycerate",
+      "B": "3-phosphoglycerate",
+      "C": "phosphocreatine",
+      "D": "phosphoenolpyruvate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 91 題",
+    "question": "以抑制肺部小氣道收縮為治療氣喘的策略時，下列何者最適合作為發展抑制氣喘藥物的標的？",
+    "options": {
+      "A": "COX-1/COX-2",
+      "B": "leukotriene receptor",
+      "C": "PGH2",
+      "D": "phospholipase A2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 92 題",
+    "question": "細胞膜上脂膜筏（lipid rafts）的主要組成，不包含下列何者？",
+    "options": {
+      "A": "cholesterol",
+      "B": "sphingolipids",
+      "C": "GPI-anchored proteins",
+      "D": "methylated proteins"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 93 題",
+    "question": "下列何者與細胞調節飽和脂肪酸氧化反應（β-oxidation）的關聯性最低？",
+    "options": {
+      "A": "acetyl-CoA濃度",
+      "B": "cyclic AMP濃度",
+      "C": "malonyl-CoA濃度",
+      "D": "NADPH濃度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 94 題",
+    "question": "有關蛋白質迴轉（protein turnover）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "泛素（ubiquitin）結合至待分解蛋白質的精胺酸（arginine）殘基上",
+      "B": "自噬作用（autophagy）可經由溶小體（lysosome）內的蛋白分解酶作用使蛋白質重新利用",
+      "C": "細菌為了適應環境生存而進行孢子形成（sporulation）作用，此過程涉及蛋白質迴轉",
+      "D": "泛素化（ubiquitination）需要ATP的參與"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 95 題",
+    "question": "酪胺酸（tyrosine）與苯丙胺酸（phenylalanine）在體內皆可經由酵素催化形成反丁烯二酸（fumarate）或乙醯 乙酸（acetoacetate），這兩種胺基酸具有下列何種特性？",
+    "options": {
+      "A": "絕對葡萄糖生成性（glucogenic）",
+      "B": "絕對生酮性（ketogenic）",
+      "C": "兼具葡萄糖生成性（glucogenic）與生酮性（ketogenic）",
+      "D": "不具生酮性（ketogenic）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 96 題",
+    "question": "在棕色脂肪細胞（brown adipose tissue）中，uncoupling protein 1（UCP1）大量表現會造成電子傳遞鏈與ATP 合成的耦合（coupling）被破壞，並藉此產生熱。UCP1的主要作用是：",
+    "options": {
+      "A": "使氫離子回到粒線體基質（matrix）",
+      "B": "阻擋氫離子轉移到粒線體內外膜間隙（intermembrane space）",
+      "C": "藉由異位連結（allosteric binding）直接抑制NADH dehydrogenase的活性",
+      "D": "藉由異位連結（allosteric binding）直接抑制ATP synthase的活性"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 97 題",
+    "question": "在粒線體參與的細胞凋亡中，下列那一個蛋白質由粒線體釋放至細胞質並參與凋亡複合體（apoptosome）的 形成？",
+    "options": {
+      "A": "cytochrome a",
+      "B": "cytochrome c",
+      "C": "Apaf-1",
+      "D": "caspase-8"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 98 題",
+    "question": "1977年諾貝爾獎得主Rosalyn Yalow的獲獎貢獻是開發radioimmunoassay（RIA）方法來偵測下列何類賀爾蒙？",
+    "options": {
+      "A": "steroid hormones",
+      "B": "peptide hormones",
+      "C": "eicosanoid hormones",
+      "D": "retinoid hormones"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 99 題",
+    "question": "下列何者不是細胞內主要之二級訊息傳遞者（second messenger）？",
+    "options": {
+      "A": "cAMP",
+      "B": "$Ca^{2+}$",
+      "C": "inositol 1,4,5-triphosphate",
+      "D": "17 β-estradiol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第二次醫師國考第 100 題",
+    "question": "第二型限制酶（type II restriction enzymes）通常能辨認DNA序列的大小為何？",
+    "options": {
+      "A": "4～6個鹼基對（base pairs）",
+      "B": "10～12個鹼基對（base pairs）",
+      "C": "15～20個鹼基對（base pairs）",
+      "D": "20～30個鹼基對（base pairs）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

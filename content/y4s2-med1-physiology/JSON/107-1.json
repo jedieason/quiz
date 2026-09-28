@@ -1,0 +1,332 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 47 題",
+    "question": "與位在視網膜顳側（temporal portion of the retina）光感受細胞相聯繫的神經節細胞（ganglion cells），通 常投射至視丘那一核區？",
+    "options": {
+      "A": "contralateral lateral geniculate nucleus",
+      "B": "ipsilateral lateral geniculate nucleus",
+      "C": "contralateral medial geniculate nucleus",
+      "D": "ipsilateral medial geniculate nucleus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 48 題",
+    "question": "當最大的光線強度刺激時，會使視網膜上的光感受細胞（photoreceptor cells）膜電位趨近於下列何者？",
+    "options": {
+      "A": "鈉離子的平衡電位",
+      "B": "鉀離子的平衡電位",
+      "C": "鈣離子的平衡電位",
+      "D": "0 mV"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 49 題",
+    "question": "因腦瘤壓迫造成無法看到左眼內側視野及右眼外側視野的影像。此患者被腦瘤所壓迫的位置最可能為下列何 者？",
+    "options": {
+      "A": "右眼的視神經（optic nerve）",
+      "B": "視交叉（optic chiasm）",
+      "C": "左側的視神經路徑（optic tract）",
+      "D": "右側的視神經路徑（optic tract）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 50 題",
+    "question": "下視丘（hypothalamus）的那一個核區為人體生物時鐘（biological clock）之主要節律點（pacemaker）？",
+    "options": {
+      "A": "paraventricular nucleus",
+      "B": "preoptic nucleus",
+      "C": "ventromedial nucleus",
+      "D": "suprachiasmatic nucleus"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 51 題",
+    "question": "下列那一個大腦運動區位於體感覺區的後方，並且負責眼手的協調？",
+    "options": {
+      "A": "primary motor cortex",
+      "B": "premotor cortex",
+      "C": "supplementary motor cortex",
+      "D": "parietal-lobe association cortex"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 52 題",
+    "question": "下列何者是負責掌控手指肌肉執行精細動作的最主要運動路徑？",
+    "options": {
+      "A": "側皮質脊髓路徑（lateral corticospinal tract）",
+      "B": "腹皮質脊髓路徑（ventral corticospinal tract）",
+      "C": "網狀脊髓路徑（reticulospinal tract）",
+      "D": "紅核脊髓路徑（rubrospinal tract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 53 題",
+    "question": "下列那一個路徑是以glutamate為傳遞物質的興奮性路徑？",
+    "options": {
+      "A": "subthalamic nucleus → globus pallidus internal segment",
+      "B": "globus pallidus internal segment → thalamus",
+      "C": "globus pallidus external segment → globus pallidus internal segment",
+      "D": "putamen → globus pallidus external segment"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 54 題",
+    "question": "下列何種鈣離子通道（calcium channel）是所有肌細胞皆具有的，並負責釋出鈣離子啟動收縮？",
+    "options": {
+      "A": "肌漿網膜上ryanodine receptor",
+      "B": "肌細胞膜上ligand-gated $Ca^{2+}$ channel",
+      "C": "肌漿網膜上dihydropyridine receptor",
+      "D": "肌細胞膜上L-type $Ca^{2+}$ channel"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 55 題",
+    "question": "相較於紅肌，有關白肌之敘述，下列何者正確？",
+    "options": {
+      "A": "收縮速率較慢",
+      "B": "較慢產生疲勞",
+      "C": "肌纖維直徑較小",
+      "D": "粒線體含量較少"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 56 題",
+    "question": "長跑馬拉松選手在訓練後血液帶氧量增高的主要原因為何？",
+    "options": {
+      "A": "氧氣溶解在血清中的量上升",
+      "B": "紅血球內含之血紅素（hemoglobin）帶三價鐵比例增加",
+      "C": "紅血球內2-BPG (biphosphate glycerate) 量增加",
+      "D": "紅血球數目增加"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 57 題",
+    "question": "林小姐因出現頭昏、噁心、嘔吐被送至急診室，當時呼吸頻率為13次／分，體循環動脈血液分析數值分別 為：PaO2＝98 mmHg，PaCO2＝38 mmHg，SaO2＝70%，Hb＝14 g/100 mL。根據上述的結果，推測可 能為下列何種病患之特徵？",
+    "options": {
+      "A": "一氧化碳中毒",
+      "B": "大量失血",
+      "C": "呼吸衰竭",
+      "D": "高山症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 58 題",
+    "question": "若頸動脈竇（carotid sinus）及主動脈弓（aortic arch）上的感壓受器（baroreceptor）放電頻率（firing  rate）增加，則下列何者正確？",
+    "options": {
+      "A": "其訊號經由迷走（vagus）神經傳遞，中止於視丘（thalamus）",
+      "B": "其作用會興奮交感神經，使血管收縮（vasoconstriction）",
+      "C": "其作用會抑制副交感神經，降低心輸出量",
+      "D": "其作用會造成血管擴張（vasodilation）、心跳降低"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 59 題",
+    "question": "從事慢跑等耐力運動時，心輸出量（cardiac output）可能增加 4～7 倍。此時身體可利用下列那些作用來增 加心輸出量？①興奮動脈感壓受器（arterial baroreceptors），使其放電頻率增加 ②增加吸氣的深度及頻 率 ③興奮交感神經 ④興奮副交感神經 ⑤促進骨骼肌小動脈擴張",
+    "options": {
+      "A": "①②③",
+      "B": "①③⑤",
+      "C": "②③⑤",
+      "D": "②④⑤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 60 題",
+    "question": "有關血液中二氧化碳之運輸，下列敘述何者正確？",
+    "options": {
+      "A": "在肺泡微血管（alveolar capillary）中，碳酸氫根離子（HCO3 -）自紅血球流出（efflux）",
+      "B": "在周邊微血管（peripheral capillary）中，碳酸氫根離子（HCO3 -）自紅血球流出（efflux）",
+      "C": "主要依賴氯-碳酸氫根共同轉運蛋白（$Cl^-$- HCO3 - cotransporter）之協助",
+      "D": "血液中二氧化碳主要以碳酸根離子（CO3 2-）之形式存在"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 61 題",
+    "question": "用力呼氣（forced expiration）時，最不易發生下列何種現象？",
+    "options": {
+      "A": "肋膜內壓（intrapleural pressure, Pip）不會高於大氣壓力（atmospheric pressure, Patm）",
+      "B": "內肋間神經（internal intercostal nerve）興奮",
+      "C": "延髓（medulla oblongata）內有些腹側呼吸群神經元（ventral respiratory group neuron）興奮",
+      "D": "無論如何用力，部分細支氣管（bronchiole）內的氣體無法被呼出"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 62 題",
+    "question": "有關肺臟的表面活性劑（surfactant）的敘述，下列何者正確？",
+    "options": {
+      "A": "由呼吸性細支氣管（respiratory bronchiole）所分泌",
+      "B": "糖皮質素（glucocorticoid）會促進胎兒在出生前肺內表面活性劑的產生",
+      "C": "其在小肺泡（alveolus）內的密度遠比大肺泡內低",
+      "D": "能增加肺泡（alveolus）的彈性回復力（elastic recoil）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 63 題",
+    "question": "人類的嘔吐中樞（vomiting center）位於何處？",
+    "options": {
+      "A": "大腦（cerebrum）",
+      "B": "小腦（cerebellum）",
+      "C": "腦幹（brainstem）",
+      "D": "脊髓（spinal cord）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 64 題",
+    "question": "有關脂肪的消化和吸收過程的敘述，下列何者錯誤？",
+    "options": {
+      "A": "小於10個碳分子的脂肪酸主要由淋巴管匯集進入肝臟",
+      "B": "單酸甘油酯經擴散作用進入上皮細胞",
+      "C": "脂肪酸和單酸甘油酯在平滑內質網中變成三酸甘油酯",
+      "D": "腸上皮細胞內的三酸甘油酯可被蛋白質包覆"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 65 題",
+    "question": "若泌尿道阻塞而導致鮑氏囊淨水壓（hydrostatic pressure of the Bowman's capsule）增高時，腎絲球過濾率 （glomerular filtration rate）最可能因此而產生下列何種改變？",
+    "options": {
+      "A": "反射性增加",
+      "B": "快速增加並逐漸趨於穩定",
+      "C": "減少",
+      "D": "不受影響"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 66 題",
+    "question": "關於腎小管功能的描述，下列何者錯誤？",
+    "options": {
+      "A": "經由分泌（secretion）作用，腎小管可以將某物質加到腎絲球過濾液中",
+      "B": "經由超過濾（ultrafiltration）作用，腎小管可以將某物質自腎絲球過濾液中回收",
+      "C": "因為腎小管不會對菊糖（inulin）進行分泌或回收，所以菊糖的廓清率（clearance）會等於腎絲球過濾率",
+      "D": "腎小管對於物質的主動運輸有其上限，即為運輸最大量（transport maximum）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 67 題",
+    "question": "合成腎上腺皮質素（cortisol）所需要的21-β hydroxylase 缺乏，不會產生下列何種變化？",
+    "options": {
+      "A": "促腎上腺皮質激素（ACTH）分泌會代償性的增加",
+      "B": "如為女性患者可能會造成腎上腺性徵異常綜合症（adrenogenital syndrome）",
+      "C": "腎上腺皮質分泌的雄性素（androgen）會隨之增加",
+      "D": "皮質酮（corticosterone）的分泌會代償性的增加"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 68 題",
+    "question": "若一病人在進行甲狀腺切除手術時，不慎將其副甲狀腺一併切除，下列何現象最不可能發生？",
+    "options": {
+      "A": "短時間內會造成血鈣和磷濃度降低",
+      "B": "會造成神經肌肉系統過度興奮（hyperexcitability）",
+      "C": "造成手足抽搐（tetany）",
+      "D": "造成腎臟排泄血中磷含量之功能下降"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 69 題",
+    "question": "有關壓力（stress）造成身體主要反應之敘述，下列何者正確？",
+    "options": {
+      "A": "會刺激交感神經系統分泌正腎上腺素，但不影響腎上腺分泌腎上腺素",
+      "B": "糖皮質素（glucocorticoid hormone）的分泌增加較正腎上腺素為快",
+      "C": "會刺激糖皮質素（glucocorticoid hormone）的分泌",
+      "D": "會刺激胰島素大量分泌"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 70 題",
+    "question": "在一實驗犬的研究中，由靜脈灌流含過量醛固酮（aldosterone）的溶液，將其血中醛固酮濃度提升20倍，下 列現象何者最不可能發生？",
+    "options": {
+      "A": "短期而言（五天以內），會造成平均動脈壓升高",
+      "B": "造成尿中鈉排泄速率增加的作用，可持續兩週以上",
+      "C": "短期而言（五天以內），會造成細胞外液體積增加",
+      "D": "長期而言（兩週以上），平均動脈壓會回復到灌流前的數值"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 71 題",
+    "question": "一位36歲女性，因近來常覺頭痛，測其血壓為180/110 mmHg，但身體其他部位並未發現明顯異常現象，腹 部電腦斷層掃描發現她右側腎上腺有一個2 cm的腫瘤，而血液中發現$K^+$異常的低。下列何者在其血液中的濃 度最可能偏高？",
+    "options": {
+      "A": "ACTH",
+      "B": "aldosterone",
+      "C": "renin",
+      "D": "catecholamine"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 72 題",
+    "question": "有關人類正常月經週期（menstrual cycle）中黃體期之敘述，下列何者最不恰當？",
+    "options": {
+      "A": "progesterone抑制myometrial contraction",
+      "B": "estrogen抑制anterior pituitary中FSH和LH的分泌",
+      "C": "progesterone抑制anterior pituitary中FSH和LH的分泌",
+      "D": "progesterone促進許多濾泡的生成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 73 題",
+    "question": "下列那一組織的產物對於精液（semen）組成的成分貢獻最小？",
+    "options": {
+      "A": "seminal vesicle",
+      "B": "prostate gland",
+      "C": "bulbourethral gland",
+      "D": "urethra"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

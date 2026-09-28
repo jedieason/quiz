@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 105 年第二次醫師國考第 33 題",
+    "question": "粒線體（mitochondria）之主要功能為：",
+    "options": {
+      "A": "製造蛋白質",
+      "B": "對新合成蛋白質做修補與包裝",
+      "C": "分解外來物質",
+      "D": "產生能量"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 34 題",
+    "question": "下列何者具有過碘酸－雪夫氏（periodic acid-Schiff，PAS）正反應的特性？",
+    "options": {
+      "A": "神經纖維（nerve fiber）",
+      "B": "膠原纖維（collagen fiber）",
+      "C": "彈性纖維（elastic fiber）",
+      "D": "網狀纖維（reticular fiber）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 35 題",
+    "question": "有關神經組織的組成細胞，下列敘述何項正確？",
+    "options": {
+      "A": "蒲金氏細胞（Purkinje cell）位於大腦皮質區，負責協調肌肉活動",
+      "B": "脈絡叢細胞（cells of choroid plexus）具有纖毛（ciliated）",
+      "C": "中樞神經系統內，具有吞噬功能的是微小膠細胞（microglia）",
+      "D": "一個許旺氏細胞（Schwann cell）會包覆多條髓鞘軸突（myelinated axons）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 36 題",
+    "question": "下列何種細胞分布在表皮的基底層（stratum basale），會與神經末梢連結，且為機械性受器（mechanoreceptor）？",
+    "options": {
+      "A": "棘細胞（prickle cells）",
+      "B": "黑色素細胞（melanocyte）",
+      "C": "蘭氏細胞（Langerhans' cells）",
+      "D": "默氏細胞（Merkel's cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 37 題",
+    "question": "下列細胞中，何者的主要功能是產生抗體？",
+    "options": {
+      "A": "巨噬細胞（macrophages）",
+      "B": "肥大細胞（mast cells）",
+      "C": "漿細胞（plasma cells）",
+      "D": "T淋巴細胞（T lymphocytes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 38 題",
+    "question": "下列有關人類唾液腺結構之敘述，何者錯誤？",
+    "options": {
+      "A": "耳下腺（parotid gland）為純漿液腺，而頜下腺（submandibular gland）與舌下腺（sublingual gland）則是混合腺體",
+      "B": "耳下腺（parotid gland）內的閏管（interealated duct）長度，在三大唾液腺中最長",
+      "C": "頜下腺（submandibular gland）的分泌腺泡主要為黏液性，舌下腺（sublingual gland）則主要為漿液性",
+      "D": "唾液腺之葉間泌管（interlobar duct）上皮主要為偽複層柱狀上皮（pseudostratified columnar epithelium）或複層立方上皮 （stratified cuboidal epithelium）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 39 題",
+    "question": "有關唾液腺腫瘤（tumors of salivary gland），下列敘述何者錯誤？",
+    "options": {
+      "A": "唾液腺腫瘤通常發生於三大唾液腺（major salivary glands）",
+      "B": "僅小部分的唾液腺腫瘤發生於口腔黏膜的小唾液腺（minor salivary glands）",
+      "C": "約有80%的唾液腺腫瘤是惡性的",
+      "D": "小唾液腺腫瘤（minor salivary gland tumors）最易發生於腭部（palate）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 40 題",
+    "question": "下列有關呼吸道結構之敘述，何者錯誤？",
+    "options": {
+      "A": "支氣管（bronchus）管壁具有軟骨片和環走平滑肌層",
+      "B": "細支氣管（bronchiole）內不具有軟骨片，主要由環走平滑肌層所構成",
+      "C": "終末細支氣管（terminal bronchiole）上皮具有多量杯狀細胞（goblet cells）",
+      "D": "終末細支氣管（terminal bronchiole）上皮的Clara cells 具有分泌蛋白質的功能，細胞表面不具纖毛"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第二次醫師國考第 41 題",
+    "question": "精子的去獲能作用（decapacitation）在何處進行？",
+    "options": {
+      "A": "細精管（seminiferous tubule）",
+      "B": "副睪管（epididymis）",
+      "C": "輸卵管（oviduct）",
+      "D": "輸精管（ductus deferens）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

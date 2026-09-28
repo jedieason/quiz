@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 26 題",
+    "question": "下列那一種胺基酸由於其結構的剛性（rigidity）很大，因此在蛋白質的β－摺板（β-sheet）結構中很 少出現？",
+    "options": {
+      "A": "甘胺酸（glycine）",
+      "B": "絲胺酸（serine）",
+      "C": "半胱胺酸（cysteine）",
+      "D": "脯胺酸（proline）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 27 題",
+    "question": "膠原蛋白（collagen）之羥基化（hydroxylation）修飾反應所需的維生素為：",
+    "options": {
+      "A": "thiamine",
+      "B": "ascorbate",
+      "C": "pyridoxal",
+      "D": "cobalamin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 28 題",
+    "question": "真核細胞核內的一種纖維狀物質，其由一整套基因體DNA 與蛋白質所構成，具調控基因表現的功能。 該構造的名稱為何？",
+    "options": {
+      "A": "染色質（chromatin）",
+      "B": "中心粒（centrosome）",
+      "C": "基因（gene）",
+      "D": "核小體（nucleosome）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 29 題",
+    "question": "Holliday intermediate 的結構會在下列何種反應中出現？",
+    "options": {
+      "A": "轉錄作用（transcription）",
+      "B": "轉譯作用（translation）",
+      "C": "轉位作用（transposition）",
+      "D": "同源重組（homologous genetic recombination）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 30 題",
+    "question": "人類細胞mRNA 轉譯成蛋白質，下列何種為正確之調節機制？",
+    "options": {
+      "A": "兩條mRNA 進行重組（recombination）產生新的蛋白質",
+      "B": "將mRNA 送入核內進行轉譯",
+      "C": "和大約300～500 核苷酸（nucleotides）大小的DNA 結合而增加製造蛋白質效率",
+      "D": "和小於50 核苷酸（nucleotides）大小的RNA 結合而減少製造蛋白質效率"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 31 題",
+    "question": "大腸桿菌cAMP receptor protein 與lac 操縱子（operon）DNA 結合後，可產生下列何種效應？",
+    "options": {
+      "A": "幫助RNA 聚合酶與lac 啟動子（promoter）結合的效應",
+      "B": "可抑制lac 操縱子的活性",
+      "C": "可避免抑制子（repressor）與lac 的操縱基因（operator）結合",
+      "D": "在葡萄糖的存在下始能與lac 操縱子結合"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 32 題",
+    "question": "下列關於真核細胞蛋白質合成之敘述，何者正確？",
+    "options": {
+      "A": "所有蛋白質的N 端起始胺基酸必為甲硫胺酸（methionine）",
+      "B": "所有蛋白質的N 端起始胺基酸必為色胺酸（tryptophan）",
+      "C": "所有蛋白質的N 端起始胺基酸必為半胱胺酸（cysteine）",
+      "D": "所有蛋白質的N 端起始胺基酸必為組胺酸（histidine）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 33 題",
+    "question": "有關真核生物基因啟動子（promoter）之特性，下列敘述何者錯誤？",
+    "options": {
+      "A": "有些啟動子在開始轉錄位置附近含有initiator element",
+      "B": "有些啟動子含GC box",
+      "C": "有些啟動子含Pribnow box",
+      "D": "有些啟動子含TATA box"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 34 題",
+    "question": "由細胞核之基因所表現之蛋白質，下列何者不須targeting 序列（signal）？",
+    "options": {
+      "A": "分泌性蛋白質",
+      "B": "粒線體蛋白質",
+      "C": "膜蛋白質",
+      "D": "細胞質蛋白質"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 35 題",
+    "question": "請在下列各原核細胞RNA 聚合酶（RNA polymerase）次單元（subunit）中配對出其專一的功能？  次單元  功能    a. α    I 具啟動子序列的專一辨識能力 b. β    II 生合成的延伸（elongation）作用，並能與調控蛋白互動（interaction）  c. σ    III 負責生合成的起始（initiation）與延伸（elongation）作用",
+    "options": {
+      "A": "a-I, b-II, c-III",
+      "B": "a-III, b-II, c-I",
+      "C": "a-III, b-I, c-II",
+      "D": "a-II, b-III, c-I"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 36 題",
+    "question": "下列那一個分子不是糖解作用（glycolysis）與糖質新生（gluconeogenesis）共同的中間產物？",
+    "options": {
+      "A": "磷酸烯醇式丙酮酸（phosphoenolpyruvate）",
+      "B": "草醯乙酸（oxaloacetate）",
+      "C": "1,3-二磷酸甘油酸（1,3-bisphosphoglycerate）",
+      "D": "6-磷酸葡萄糖（glucose 6-phosphate）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 37 題",
+    "question": "下列何種情況，導致遺傳疾病半乳糖血症（galactosemia）的發生？",
+    "options": {
+      "A": "缺少fructokinase",
+      "B": "缺少UDP-glucose:galactose 1-phosphate uridylyltransferase",
+      "C": "無法分解lactose",
+      "D": "過度攝取galactose"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 38 題",
+    "question": "有關哺乳類動物細胞之N-linked 醣蛋白（glycoproteins）之敘述，下列何者正確？",
+    "options": {
+      "A": "N-linked glycoproteins 最主要之oligosaccharides 是由glucose 組成",
+      "B": "利用dolichol phosphate 結合oligosaccharides 協助醣蛋白之合成",
+      "C": "N-linked glycoproteins 用以結合oligosaccharides 之胺基酸是lysine",
+      "D": "N-glycosylation 主要在高基氏體進行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 39 題",
+    "question": "UDP-glucose 參與下列那個代謝路徑？",
+    "options": {
+      "A": "五碳糖磷酸途徑（pentose phosphate pathway）",
+      "B": "肝醣分解（glycogen degradation）",
+      "C": "糖解作用（glycolysis）",
+      "D": "半乳糖轉變為葡萄糖（epimerization of galactose to glucose）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 40 題",
+    "question": "所有生物細胞膜內的脂雙層具有下列何種共同特色？",
+    "options": {
+      "A": "個別的油脂分子能在脂雙層的表面自由地側向擴散（lateral diffusion）",
+      "B": "個別的油脂分子能夠快速在脂雙層中的其中一層自由翻轉擴散（flip-flop diffusion）至另外一層",
+      "C": "具有極性但不帶電荷之化合物容易經由擴散穿過脂雙層",
+      "D": "脂雙層利用鄰近磷脂分子之間的共價鍵而形成穩定結構"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 41 題",
+    "question": "下列何者不涉及膜融合（membrane fusion）？",
+    "options": {
+      "A": "細胞內吞作用（endocytosis）",
+      "B": "包膜病毒（enveloped virus）進入細胞",
+      "C": "葡萄糖進入細胞",
+      "D": "細胞外釋作用（exocytosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 42 題",
+    "question": "下列何者是細胞運送物質通過細胞膜之促進性擴散作用（facilitated diffusion）的特性？",
+    "options": {
+      "A": "受到溶質濃度梯度的驅動",
+      "B": "需要ATP 的驅動",
+      "C": "通常是一種吸能的（endergonic）反應",
+      "D": "通常是一種不可逆的反應"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 43 題",
+    "question": "下列何者是配體管制型離子通道（ligand-gated ion channel）如菸鹼性乙醯膽鹼受體（nicotinic acetylcholine  receptor）的特性？",
+    "options": {
+      "A": "在脂雙層中允許離子通透的帶電脂質",
+      "B": "碰到特定的離子時才允許配體通過細胞膜",
+      "C": "碰到特定的配體時才允許離子通過細胞膜",
+      "D": "配體與細胞膜上相對應受體結合需依賴特定離子存在"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 44 題",
+    "question": "那一種胺基酸生合成過程中，tetrahydrofolate 會轉變成N5, N10-methylenetetrahydrofolate？",
+    "options": {
+      "A": "serine+homocysteine→cysteine+alpha-ketobutyrate",
+      "B": "serine→glycine",
+      "C": "glutamate→glutamine",
+      "D": "glutamate→proline"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 45 題",
+    "question": "maple syrup urine disease 是因為下列那個胺基酸無法代謝，造成α-keto acids 在血液裡累積？",
+    "options": {
+      "A": "leucine",
+      "B": "alanine",
+      "C": "glycine",
+      "D": "histidine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 46 題",
+    "question": "有關人類粒線體的敘述，下列何者正確？",
+    "options": {
+      "A": "有些粒線體蛋白質由細胞核內基因所合成",
+      "B": "粒線體內genome 是直線型雙股DNA",
+      "C": "粒線體內tRNA 及rRNA 分子全部來自細胞質",
+      "D": "粒線體內genome 不會產生突變"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 47 題",
+    "question": "血中腎上腺素（epinephrine）濃度增加時，主要會引起下列何種現象？",
+    "options": {
+      "A": "減少cAMP 產生",
+      "B": "活化蛋白質激酶A（protein kinase A）",
+      "C": "降低肝細胞肝醣之分解",
+      "D": "抑制糖質新生（gluconeogenesis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 48 題",
+    "question": "一位媽媽來求診，述說她的小孩從小能看到東西卻不會分辨顏色，其最可能的原因是：",
+    "options": {
+      "A": "桿狀細胞（rod cells）受損",
+      "B": "錐狀細胞（cone cells）上cGMP 控制型離子通道（cGMP-gated channel）的α 次單元發生失去功能 （loss-of-function）之基因突變",
+      "C": "此病是因為細胞對光刺激時，Mg2+無法進入細胞所造成",
+      "D": "補充維生素A（vitamin A）便會痊癒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 49 題",
+    "question": "鈣離子（calcium ion）是細胞內重要之二級訊息傳遞者，下列何種物質可影響細胞內鈣離子的濃度？",
+    "options": {
+      "A": "phosphatidylcholine+phospholipase A",
+      "B": "phosphatidylcholine+phospholipase C",
+      "C": "phosphatidylinositol+phospholipase A",
+      "D": "phosphatidylinositol+phospholipase C"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 50 題",
+    "question": "下列何種DNA 的缺口可藉由DNA 連接酶（ligase）所接合？",
+    "options": {
+      "A": "5’-O-P+3’-OH",
+      "B": "5’-OH+3’-O-P",
+      "C": "5’-OH+3’-OH",
+      "D": "5’-O-P+3’-O-P"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 51 題",
+    "question": "下列何者為細菌對aminoglycosides 產生抗藥性的主要機轉？",
+    "options": {
+      "A": "改變folic acid 合成的過程",
+      "B": "抑制乙醯轉移酵素的活性",
+      "C": "誘發代謝藥物酵素的合成",
+      "D": "增加細胞的通透性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 52 題",
+    "question": "下列何種藥物可以有效地抑制tumor necrosis factor-α引起的自體免疫與發炎疾病？",
+    "options": {
+      "A": "muromonab-CD3",
+      "B": "sirolimus",
+      "C": "infliximab",
+      "D": "thalidomide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 53 題",
+    "question": "下列藥物何者可以抑制B 與T 淋巴細胞中purine 的合成，而達到抑制免疫反應的作用？",
+    "options": {
+      "A": "cyclophosphamide",
+      "B": "prednisone",
+      "C": "tacrolimus",
+      "D": "mycophenolate mofetil"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 54 題",
+    "question": "切除神經後，其所支配的器官對於外加之藥物的敏感性增強的現象，稱為：",
+    "options": {
+      "A": "addiction",
+      "B": "supersensitivity",
+      "C": "hypersensitivity",
+      "D": "idiosyncrasy"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 55 題",
+    "question": "下列何種藥品，臨床上可當做墮胎藥來使用？",
+    "options": {
+      "A": "progesterone",
+      "B": "mifepristone",
+      "C": "celecoxib",
+      "D": "ritodrine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 56 題",
+    "question": "臨床上常用nitroglycerin 治療心絞痛，但最困擾醫師和病患的是服用此藥物易產生下列何種問題？",
+    "options": {
+      "A": "bradycardia",
+      "B": "sodium retention",
+      "C": "tolerance",
+      "D": "impotence"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 57 題",
+    "question": "服用下列何種藥物後會增加慢性肺阻塞病人的氣管阻力？",
+    "options": {
+      "A": "bitolterol",
+      "B": "terbutaline",
+      "C": "atenolol",
+      "D": "nadolol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 58 題",
+    "question": "臨床上對於患有GERD（gastroesophageal reflux disease）之治療，下列何者之efficacy 最佳？",
+    "options": {
+      "A": "proton pump inhibitor",
+      "B": "H2-blocker",
+      "C": "muscarinic receptor antagonist",
+      "D": "sucralfate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 59 題",
+    "question": "若是mineralocorticoids 分泌不足，須要做replacement therapy，則下列何者為首選之藥物？",
+    "options": {
+      "A": "aldosterone",
+      "B": "fludrocortisone",
+      "C": "metyrapone",
+      "D": "spironolactone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 60 題",
+    "question": "長期使用phenytoin 時會產生軟骨症（osteomalacia），係由於下列那一種維生素代謝異常所造成的？",
+    "options": {
+      "A": "vitamin B6",
+      "B": "vitamin D",
+      "C": "vitamin B12",
+      "D": "vitamin E"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 61 題",
+    "question": "下列那一種治療帕金森氏症的藥物，不適合使用於同時具有前列腺肥大或開放性青光眼症的帕金森 氏症患者？",
+    "options": {
+      "A": "benztropine",
+      "B": "bromocriptine",
+      "C": "selegiline",
+      "D": "levodopa"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 62 題",
+    "question": "下列有關抗癲癇藥物的敘述，何者錯誤？",
+    "options": {
+      "A": "ethosuximide 具有抑制視丘神經元T-type 鈣離子通道的活性，因此可以用來治療失神性癲癇",
+      "B": "vigabatrin 具有抑制GABA transaminase 及GABA 再回收（uptake）的作用",
+      "C": "vigabatrin 具有活化GABA amino-transferase 的作用",
+      "D": "primidone 可以代謝成phenobarbital 及phenylethymalonamide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 63 題",
+    "question": "下列有關全身麻醉劑halothane 的藥理作用描述，何者錯誤？",
+    "options": {
+      "A": "halothane 具有很好的止痛效果",
+      "B": "halothane 具肝毒性，但小兒病人較不易產生肝毒性",
+      "C": "halothane 的麻醉誘導速率較isoflurane 慢",
+      "D": "halothane 的肺泡最低濃度（minimal alveolar concentration）較ether 小"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 64 題",
+    "question": "Omeprazole 可用於十二指腸潰瘍，且可減輕胃食道逆流之食道炎，其作用機制為何？",
+    "options": {
+      "A": "拮抗histamine-H1受體",
+      "B": "拮抗muscarinic-M1受體",
+      "C": "拮抗dopamine-D2受體",
+      "D": "抑制$H^+$/$K^+$ ATPase（proton pump）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 65 題",
+    "question": "下列何種藥物易產生姿態性低血壓？",
+    "options": {
+      "A": "propranolol",
+      "B": "dobutamine",
+      "C": "labetalol",
+      "D": "methoxamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 66 題",
+    "question": "下列何種神經肌肉阻斷劑的作用是透過中樞和脊椎反射而來的？",
+    "options": {
+      "A": "baclofen",
+      "B": "dantrolene",
+      "C": "pancuronium",
+      "D": "atracurium"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 67 題",
+    "question": "毛地黃的藥理和毒性作用是透過抑制下列何者而來的？",
+    "options": {
+      "A": "$Ca^{2+}$ pump",
+      "B": "cAMP-dependent protein kinase",
+      "C": "protein kinase C",
+      "D": "$Na^+$/$K^+$ ATPase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 68 題",
+    "question": "下列何種自主神經接受器受刺激時會導致adenylyl cyclase 的活化？",
+    "options": {
+      "A": "nicotinic",
+      "B": "muscarinic",
+      "C": "α1-adrenergic",
+      "D": "β1-adrenergic"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 69 題",
+    "question": "Furosemide 產生利尿的作用部位是在腎小管的那一部位？",
+    "options": {
+      "A": "近曲小管",
+      "B": "亨利氏環上行支",
+      "C": "遠曲小管",
+      "D": "集尿管"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 70 題",
+    "question": "若要診斷Cushing’s syndrome，需要抑制ACTH 釋放時，則下列何者為首選之藥物？",
+    "options": {
+      "A": "prednisolone",
+      "B": "dexamethasone",
+      "C": "mitotane",
+      "D": "ketoconazole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 71 題",
+    "question": "下列何種藥物不具有抑制甲狀腺素去碘反應（deiodination）的作用？",
+    "options": {
+      "A": "perchlorate",
+      "B": "propylthiouracil（PTU）",
+      "C": "glucocorticoids",
+      "D": "β-adrenergic receptor blockers"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 72 題",
+    "question": "下列何者藥品可經由抑制α-glucosidase 的作用，用來當作口服降血糖的用藥？",
+    "options": {
+      "A": "acarbose",
+      "B": "acetohexamide",
+      "C": "glyburide",
+      "D": "repaglinide"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 73 題",
+    "question": "抗血小板活化用藥abciximab 為由單株抗體之Fab 端構成，試問此抗體主要結合在血小板上之何種結 構？",
+    "options": {
+      "A": "glycoprotein Ia /IIb",
+      "B": "glycoprotein IIb /IIIa",
+      "C": "selectin",
+      "D": "CD11a /CD18"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 74 題",
+    "question": "下列降血脂藥物何者作用機轉為與膽酸（bile acid）結合，以避免膽固醇再吸收，而加強膽固醇由腸 道排除？",
+    "options": {
+      "A": "probucol",
+      "B": "fenofibrate",
+      "C": "cholestyramine",
+      "D": "niacin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 75 題",
+    "question": "下列何者之重組性接受體拮抗劑稱為anakinra，可使用於治療rheumatoid arthritis？",
+    "options": {
+      "A": "interleukin 1",
+      "B": "interleukin 2",
+      "C": "interleukin 4",
+      "D": "interleukin 5"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

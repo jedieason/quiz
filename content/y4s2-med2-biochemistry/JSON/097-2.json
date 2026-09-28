@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 097 年第二次醫師國考第 26 題",
+    "question": "下列何種酵素活性增加可造成癌細胞無法進行正常細胞的老化現象？",
+    "options": {
+      "A": "去氧 核糖核酸聚合 酶－甲型（DNA polymerase alpha）",
+      "B": "去氧 核糖核酸聚合 酶－丁型（DNA polymerase delta）",
+      "C": "去氧 核糖核酸接合 酶（DNA ligase）",
+      "D": "端粒酶（telomerase）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 27 題",
+    "question": "根據Watson-Crick 的DNA 模式，有 關兩股核苷酸鏈結合 的力量，下列何者為非？",
+    "options": {
+      "A": "各鹼基間所形成的氫鍵（hydrogen bonds between bases）",
+      "B": "鹼基間的堆積力量（Stacking of the bases）",
+      "C": "鹼基間所產生的凡得瓦爾交互作用（Van der Waals interaction）",
+      "D": "磷酸根與鹼基間之離子交互作用（ionic interaction）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 28 題",
+    "question": "酵素催化反應的雙倒數圖（double-reciprocal plot）若有一競爭性抑制劑（competitive inhibitor）存在 時，則下列何項會改變？",
+    "options": {
+      "A": "1/V 軸的截距",
+      "B": "1/[S]軸的截距",
+      "C": "V max",
+      "D": "平衡常數K（pK）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 29 題",
+    "question": "在葡萄糖運載蛋白（glucose transporter）的家族（family）中，高Km的GLUT2 主要在下列何種組織 表現？",
+    "options": {
+      "A": "小腸",
+      "B": "肝",
+      "C": "肌肉",
+      "D": "腦"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 30 題",
+    "question": "Li-Fraumeni 徵候是一種罕見遺傳的疾病，病患家族的成員很容易在30 歲前得到各種癌症，這個家族 的問題是他們遺傳了一個突變的p53 基因。另外，人類癌症中一半以上可發現有p53 基因的somatic mutations。下列關於p53 之敘述何者錯誤？",
+    "options": {
+      "A": "正常p53 為抑癌基因（tumor suppressor gene）",
+      "B": "正常p53 參與細胞週期（cell cycle）的調控",
+      "C": "正常p53 為transcription factor，可與特定DNA 序列結合",
+      "D": "正常p53 主要分布於細胞膜上，可接受外來訊號"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 31 題",
+    "question": "Urea cycle enzyme deficiency 是罕見的遺傳代謝疾病，下列何種amino acid 未參與urea cycle？",
+    "options": {
+      "A": "phenylalanine",
+      "B": "arginine",
+      "C": "citrulline",
+      "D": "ornithine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 32 題",
+    "question": "病患數天無法經口進食，通常靜脈點滴中會提供每日約100 公克葡萄糖，以避免下列何種現象，而 造成肌肉流失（muscle wasting）？",
+    "options": {
+      "A": "因為缺少能源，肌肉細胞壞死",
+      "B": "因為發生肌肉內肝糖分解（glycogenolysis）以提供葡萄糖來供給能源",
+      "C": "因為肌肉內發生脂肪分解（lipolysis），以提供脂肪酸來供給能源",
+      "D": "因為肌肉內發生蛋白質分解，以合成葡萄糖來提供能源"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 33 題",
+    "question": "人類癌症中約有三分之一可發現有ras 基因的突變，這些突變造成Ras 持續性活化（constitutive activation），不受傳訊路徑上游的生長因子受體調控，而一直促進細胞分裂。下列關於Ras 訊息傳 導之敘述，何者錯誤？",
+    "options": {
+      "A": "與GDP 結合的Ras 會活化MAP kinase kinase kinase（MAPKKK）",
+      "B": "活化的MAPKKK 啟動一個kinase cascade，依序磷酸化MAP kinase kinase（MAPKK）與MAP kinase （MAPK）",
+      "C": "磷酸化的MAPK 是活化態，可磷酸化一些transcription factors",
+      "D": "磷酸化的transcription factors（例如Jun 和Fos），可活化一些調控細胞分裂的基因之表現"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 34 題",
+    "question": "細胞中各種基因的表達常因不同組織而有差異。在一些基因的啟動子（promoter）上常有一些CpG 島（CpG island）。同一基因的表達，常因CpG 島受到下列何種修飾（modification）而有不同？",
+    "options": {
+      "A": "乙烯化（acetylation）",
+      "B": "甲基化（methylation）",
+      "C": "磷酸化（phosphorylation）",
+      "D": "羧化（carboxylation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 35 題",
+    "question": "一胺基酸的側鍵為一環狀結構，但其生化性質與脂族側鍵（aliphatic side chain）相類似，由於此環狀 結構的剛性，故難以摺疊進蛋白質的結構中，請問這個胺基酸的名稱為何？",
+    "options": {
+      "A": "組織胺酸（Histidine）",
+      "B": "脯胺酸（Proline）",
+      "C": "酪胺酸（Tyrosine）",
+      "D": "色胺酸（Tryptophan）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 36 題",
+    "question": "Tamoxifen 最常應用於治療癌症（如乳癌及其他癌症），其主要機轉為抑制下列何種荷爾蒙感受體 （hormone receptor）之轉錄（transcription）能力？",
+    "options": {
+      "A": "雄激素感受體（androgen receptor）",
+      "B": "雌激素感受體（estrogen receptor）",
+      "C": "甲狀腺激素感受體（thyroid hormone receptor）",
+      "D": "維生素D 感受體（vitamin D receptor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 37 題",
+    "question": "何者為此DNA 序列的互補股：5’-CGCGAATTCGCG-3’？",
+    "options": {
+      "A": "5’-GCGCTTAAGCGC-3’",
+      "B": "5’-CGCGAATTCGCG-3’",
+      "C": "5’-GCGCUUAAGCGC-3’",
+      "D": "5’-CGCGAAUUCGCG-3’"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 38 題",
+    "question": "Polymerase chain reaction（PCR）在臨床診斷上是一個很重要的工具，在一般反應過程不需要下 列何項？",
+    "options": {
+      "A": "大量純化的DNA",
+      "B": "溫控循環儀",
+      "C": "四種去氧核糖核酸",
+      "D": "對熱穩定的DNA polymerase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 39 題",
+    "question": "神經傳遞之所以具有方向性是因為：",
+    "options": {
+      "A": "離子通道（ion channel）蛋白發生去敏作用（desensitization）",
+      "B": "離子通道蛋白具有專一性（specificity）",
+      "C": "鈣離子在神經細胞中具方向性之傳遞",
+      "D": "鈣調素（calmodulin）在神經細胞中具方向性之傳遞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 40 題",
+    "question": "下列何種胺基酸，經由代謝程序，可成為甲基供給者（methyl donor）？",
+    "options": {
+      "A": "valine",
+      "B": "threonine",
+      "C": "methionine",
+      "D": "glutamine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 41 題",
+    "question": "下列何種胺基酸為合成一氧化氮（NO）的前驅物？",
+    "options": {
+      "A": "Arginine",
+      "B": "Tryptophan",
+      "C": "Lysine",
+      "D": "Methionine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 42 題",
+    "question": "下列那些為脂溶性維生素？①維生素A ②維生素B ③維生素C ④維生素D ⑤維生素E",
+    "options": {
+      "A": "①②③",
+      "B": "②③④",
+      "C": "③④⑤",
+      "D": "①④⑤"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 43 題",
+    "question": "G protein α-subunit 本身具下列何種酵素活性？",
+    "options": {
+      "A": "guanylate cyclase，催化轉換GTP 成cGMP",
+      "B": "GTPase，水解GTP 成GDP",
+      "C": "Kinase，催化轉移GTP 磷酸根至蛋白質",
+      "D": "cGMP-dependent protein kinase"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 44 題",
+    "question": "下列那一個胺基酸在pH 等於11 時帶一個淨負電荷？",
+    "options": {
+      "A": "精胺基酸（arginine）",
+      "B": "天冬胺基酸（aspartic acid）",
+      "C": "麩胺基酸（glutamic acid）",
+      "D": "絲胺基酸（serine）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 45 題",
+    "question": "下列氧化劑（oxidant）中，何者的標準還原電位（standard reduction potential）值最小？",
+    "options": {
+      "A": "cytochrome b (+3)",
+      "B": "ubiquinone (oxidized)",
+      "C": "FAD",
+      "D": "Fe (+3)"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 46 題",
+    "question": "遺傳性非息肉症大腸癌（hereditary nonpolyposis colon cancer-HNPCC）可由hMSH2 或hMLH1 基 因變異，而影響下列何種DNA 修復途徑所造成？",
+    "options": {
+      "A": "錯誤配對修復（mismatch repair）",
+      "B": "鹼基切除修復（base excision repair）",
+      "C": "核酸切除修復（nucleotide excision repair）",
+      "D": "雙股斷裂修復（double strand break repair）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 47 題",
+    "question": "心臟病患血中膽固醇（cholesterol）過高，因此服用降膽固醇藥物statin，下列何者為statin 在此一狀 況中最主要之作用機制？",
+    "options": {
+      "A": "statin 抑制膽固醇經腸道吸收",
+      "B": "statin 抑制膽固醇的腸肝再循環（enterohepatic recirculation）",
+      "C": "statin 抑制膽固醇合成反應的HMG-CoA reductase",
+      "D": "statin 抑制low-density lipoprotein receptor 基因表現"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 48 題",
+    "question": "葡萄糖經由糖解反應（glycolysis）代謝時，其中間產物甘油醛-3-磷酸（glyceraldehyde-3-phosphate） 的第3 個碳是由葡萄糖的第幾個碳所轉變的？",
+    "options": {
+      "A": "碳3 及碳4",
+      "B": "碳2 及碳5",
+      "C": "碳1 及碳6",
+      "D": "碳1 及碳2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 49 題",
+    "question": "Jacob 和Monod 在研究大腸桿菌中乳糖代謝時發現：一些突變株不管有沒有誘導物（乳糖等）的存 在下，皆可表現大 量半乳糖苷酶（β-galactosidase），是因為：",
+    "options": {
+      "A": "此突變株影響到半乳糖苷酶mRNA 的轉譯表現",
+      "B": "此突變株影響到半乳糖苷酶mRNA 的轉錄後修飾表現",
+      "C": "此突變株的半乳糖苷酶操縱子（operon）無法受其抑止子（Lac repressor）所調控",
+      "D": "此突變造成Lac repressor 的DNA 結合能力變強"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第二次醫師國考第 50 題",
+    "question": "硬脂酸（stearic acid）完全氧化，須經過beta-oxidation 途徑幾次？",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

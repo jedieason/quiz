@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 33 題",
+    "question": "上皮細胞的終端棒（terminal bar）是何種構造所形成？",
+    "options": {
+      "A": "高爾基氏體（Golgi apparatus）",
+      "B": "接合複體（junctional complex）",
+      "C": "基底膜（basement membrane）",
+      "D": "基體（basal body）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 34 題",
+    "question": "肌腱（tendon）主要是由下列何者構成？",
+    "options": {
+      "A": "神經纖維（nerve fiber）",
+      "B": "膠原纖維（collagen fiber）",
+      "C": "網狀纖維（reticular fiber）",
+      "D": "彈性纖維（elastic fiber）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 35 題",
+    "question": "鬆弛的（relaxed）骨骼肌肌節內，那個區域不含粗肌絲（thick filaments）？",
+    "options": {
+      "A": "I 帶",
+      "B": "A 帶",
+      "C": "H 帶",
+      "D": "M 線"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 36 題",
+    "question": "下列有關表皮（epidermis）的敘述，何者正確？",
+    "options": {
+      "A": "幹細胞（stem cell）主要分布在棘層（stratum spinosum）",
+      "B": "皮脂腺（sebaceous gland）的腺體部主要位於表皮之基底層（stratum basale）",
+      "C": "默氏細胞（Merkel’s cell）主要位於顆粒層（stratum granulosum）",
+      "D": "在手掌或腳掌之厚皮膚會出現明顯的透明層（stratum lucidum）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 37 題",
+    "question": "下列那一種舌乳突（lingual papillae）不含味蕾？",
+    "options": {
+      "A": "輪廓（circumvallate）乳突",
+      "B": "蕈狀（fungiform）乳突",
+      "C": "葉狀（foliate）乳突",
+      "D": "絲狀（filiform）乳突"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 38 題",
+    "question": "腸道黏膜層（mucosa layer）分泌黏液的最主要細胞是下列何種細胞？",
+    "options": {
+      "A": "腸內分泌細胞（enteroendocrine cells）",
+      "B": "杯狀細胞（goblet cells）",
+      "C": "潘氏細胞（Paneth cells）",
+      "D": "微皺細胞（microfold cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 39 題",
+    "question": "有關肺泡組織，下列敘述何者錯誤？",
+    "options": {
+      "A": "氣體或細胞產物必需藉由擴散作用（diffusion）於肺泡與微血管之間交換",
+      "B": "氣體－血液障壁由第二型肺泡細胞（type II pneumocytes）與微血管內皮細胞及它們的基底層 （basement membrane）組成",
+      "C": "有些肺泡細胞與微血管內皮細胞的基底層（basement membrane）間有結締組織細胞與纖維",
+      "D": "灰塵細胞（dust cell）具有吞噬功能"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 40 題",
+    "question": "下列何者在受精卵中完全源自精子提供？",
+    "options": {
+      "A": "中心體（centrosomes）",
+      "B": "粒線體（mitochondria）",
+      "C": "高爾基氏體（Golgi apparatus）",
+      "D": "核膜（nuclear envelope）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 41 題",
+    "question": "下列何種細胞之細胞核位於視網膜（retina）之外核層（outer nuclear layer）？",
+    "options": {
+      "A": "無軸索細胞（amacrine cells）",
+      "B": "雙極細胞（bipolar cells）",
+      "C": "光源接受體細胞（photoreceptor cells）",
+      "D": "神經節細胞（ganglion cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

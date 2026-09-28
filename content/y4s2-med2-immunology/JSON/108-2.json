@@ -1,0 +1,134 @@
+[
+  {
+    "origin": "出自 108 年第二次醫師國考第 18 題",
+    "question": "下列何種細胞一般不被歸類為先天免疫細胞？",
+    "options": {
+      "A": "macrophage",
+      "B": "B cell",
+      "C": "neutrophil",
+      "D": "dendritic cell"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 19 題",
+    "question": "進入組織之單核球（monocytes），經下列何種細胞素[cytokine(s)]刺激，可以分化成樹突細胞（dendritic  cells）？",
+    "options": {
+      "A": "M-CSF",
+      "B": "M-CSF＋TNF-α",
+      "C": "IL-1β",
+      "D": "GM-CSF＋IL-4"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 20 題",
+    "question": "下列何種細胞的抗原接受器（antigen receptor）會進行體細胞高度突變（somatic hypermutation）？",
+    "options": {
+      "A": "T細胞",
+      "B": "B細胞",
+      "C": "巨噬細胞",
+      "D": "自然殺手細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 21 題",
+    "question": "下列有關pre-T細胞抗原接受器（pre-T cell receptor）的敘述，何者最正確？",
+    "options": {
+      "A": "具有TCR α鏈（TCR α chain）",
+      "B": "具有TCR β鏈（TCR β chain）",
+      "C": "可以辨識外來抗原",
+      "D": "此階段的細胞大部分都可以辨識自己的主要組織相容性抗原（MHC）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 22 題",
+    "question": "下列有關調節型T細胞（regulatory T cells, Treg）的敘述何者正確？",
+    "options": {
+      "A": "腫瘤可以調控microenvironment 的T細胞分化成Treg細胞，以逃脫免疫系統的追殺",
+      "B": "Treg細胞的功能的過度活化，是許多自體免疫疾病發病的重要因素",
+      "C": "Treg細胞都是在周邊淋巴組織分化而成",
+      "D": "Treg細胞表面帶有CD8的標記，可以幫助清除胞內病原感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 23 題",
+    "question": "T follicular helper（TFH）細胞對於體液免疫反應（humoral immune response）非常重要，關於TFH的描述何者 錯誤？",
+    "options": {
+      "A": "TFH細胞位在germinal center的淺色區（light zone）",
+      "B": "TFH細胞的分化需要Bcl-6轉錄因子",
+      "C": "TFH細胞可以分泌IL-21和其他的細胞激素，IL-21促進漿細胞分化",
+      "D": "小鼠B細胞在體外培養時利用加入LPS、IL-2、及IL-21，可以替代TFH細胞功能來刺激IgG1抗體產生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 24 題",
+    "question": "有關腸道細菌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "廣效型抗生素可殺死腸道細菌，長期使用可保持腸道健康",
+      "B": "腸道的共生細菌（commensal bacteria）對腸道有益",
+      "C": "腸道共生細菌（commensal bacteria）的不同組成與代謝疾病有相關性",
+      "D": "使用免疫抑制劑可能造成腸道嚴重感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 25 題",
+    "question": "如果吞噬性白血球將微生物吞食後無法及時有效地將其殺死並且分解，免疫細胞將會聚集起來形成肉芽腫 （granuloma）。肉芽腫的中心經常被有一層排列整齊的單核白血球包圍。這層細胞是下列何者？",
+    "options": {
+      "A": "上皮細胞（epithelial cells）",
+      "B": "類上皮細胞（epithelioid cells）",
+      "C": "漿細胞（plasma cells）",
+      "D": "壞死嗜中性白血球細胞及微生物"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 26 題",
+    "question": "下列何者不是身體達成免疫系統自體耐受性（self-tolerance）的機轉？",
+    "options": {
+      "A": "周邊不反應（peripheral anergy）",
+      "B": "株落刪除（clonal deletion）",
+      "C": "株落增殖（clonal proliferation）",
+      "D": "中樞耐受性（central tolerance）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 27 題",
+    "question": "用於免疫抑制作用的類固醇（corticosteroid）有下列各項作用，何者除外？",
+    "options": {
+      "A": "降低IL-1, TNF α, IL-4, IL-5等之生成",
+      "B": "降低prostaglandins, leukotrienes等之生成",
+      "C": "降低黏著分子（adhesion molecules）等之生成",
+      "D": "降低內核酸酵素（endonucleases）等之生成"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 108 年第二次醫師國考第 28 題",
+    "question": "Natalizumab [anti-α4 integrin (anti-VLA-4) monoclonal antibody]目前已證實可以用來治療何種疾病？",
+    "options": {
+      "A": "multiple sclerosis",
+      "B": "metastatic melanoma",
+      "C": "chronic myeloid leukemia",
+      "D": "chronic asthma"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

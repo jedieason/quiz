@@ -1,0 +1,139 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 18 題",
+    "question": "有關先天性免疫（innate immunity）反應，下列敘述何者最不適當？",
+    "options": {
+      "A": "先天性免疫反應可利用吞噬細胞及補體來攻擊病原菌",
+      "B": "辨識病原菌的先天性免疫受體分子的基因不會重組",
+      "C": "先天性免疫反應在感染處常可因產生細胞激素引起發炎反應",
+      "D": "先天性免疫反應具有抗原特異性的免疫記憶"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 19 題",
+    "question": "關於major histocompatibility complex（MHC，包括class I 與class II），下列敘述何者最適當？",
+    "options": {
+      "A": "它們都是由單一基因（monogeny）構成",
+      "B": "具有三種主要的MHC class I 基因",
+      "C": "具有allelic exclusion 的特點",
+      "D": "IL-5 可以促進MHC class II 表現在抗原呈獻細胞表面上"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 20 題",
+    "question": "過量表現細胞激素BAFF 的個體，發生自體免疫疾病Sjögren's syndrome（又名乾燥症）的機率會上升，乾 燥症以破壞人體外分泌腺體，如淚腺及唾液腺的症狀最顯著。檢查BAFF 過量之乾燥症患者的免疫系統及血 液，預期最可能發現下列何種異狀？",
+    "options": {
+      "A": "骨髓內發育中的pre-B 細胞增加",
+      "B": "從骨髓製造出來的immature B 細胞增加",
+      "C": "血液中自體反應性（autoreactive）的成熟B 細胞增加",
+      "D": "血液中自體反應性（autoreactive）的成熟T 細胞增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 21 題",
+    "question": "有關T 細胞次群生成及其轉錄因子的配對，下列何者最適當？",
+    "options": {
+      "A": "TH1：Tbet",
+      "B": "TH2：RORγt",
+      "C": "TFH：GATA3",
+      "D": "Treg：Bcl-6"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 22 題",
+    "question": "A 型肝炎病毒藉由糞口傳染途徑，造成病人急性肝炎症狀。檢測病人血液中專一性對抗A 型肝炎病毒的抗 體，當發現下列何種類型的抗體濃度最高，最可能顯示該病人剛遭受該病毒感染？",
+    "options": {
+      "A": "IgA",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgM"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 23 題",
+    "question": "生物製劑（Biologics）已成為治療類風濕性關節炎的主要藥物，下列何種治療類風濕性關節炎的生物製劑是 屬於融合蛋白型式？",
+    "options": {
+      "A": "Infliximab",
+      "B": "Abatacept",
+      "C": "Tocilizumab",
+      "D": "Omalizumab"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 24 題",
+    "question": "不同類型的抗體具有不同的功能，而這些抗體是經由抗體類型轉換（isotype switch）的機制產生，下列敘 述何者最不適當？",
+    "options": {
+      "A": "活化的B 細胞在生發中心（germinal center）進行抗體類型轉換，而且這個過程需要AID（activation- induced cytidine deaminase）酵素的參與進行DNA 重組",
+      "B": "施打疫苗的目的除了增加抗體的質和量外，也促進抗體從IgM 轉換到IgG 及其他的抗體類型，提升免疫力",
+      "C": "活化的B 細胞在進行抗體類型轉換的過程會受到細胞激素的影響，比如IFN-γ會促進IgG3 及IgG2a 的轉 換，而IL-4 則是促進IgG1 及IgA 的轉換",
+      "D": "B 細胞和輔助型T 細胞的交互作用對於抗體類型轉換的發生十分重要，如果CD40L 或是CD40 的缺失會造成B 細胞和T 細胞無法交互作用而引起IgM 過多症候群（hyper IgM syndrome）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 25 題",
+    "question": "下列何者不屬於mucosa-associated lymphoid tissue（MALT）？",
+    "options": {
+      "A": "gut-associated lymphoid tissue（GALT）",
+      "B": "nasal-associated lymphoid tissue（NALT）",
+      "C": "bronchus-associated lymphoid tissue（BALT）",
+      "D": "oral-associated lymphoid tissue（OALT）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 26 題",
+    "question": "大明去爬山，一時興起用手去觸摸路旁植物的葉子，第2 天之後，發現手背很癢，並開始出現一些水泡與紅 腫現象，醫師診斷出是過敏反應，下列何者是最適當的敘述？",
+    "options": {
+      "A": "屬於第三型過敏反應",
+      "B": "過度活化之TH1 與CD8 T 細胞所致",
+      "C": "IL-4 與IL-5 這兩種細胞激素被大量分泌",
+      "D": "葉片上油脂物質即為抗原，直接活化體內免疫反應所致"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 27 題",
+    "question": "自主性免疫調節因子（AIRE）是一種轉錄調節因子，它能夠促進胸腺基質細胞表達某些「組織特異性」蛋白 質。在T 細胞的發育過程中，這個機制提供了T 細胞對這些組織特異自體抗原建立中樞免疫耐受性。在AIRE 中發生缺失突變的病患（一種稱為APECED 的疾病）會出現一系列症狀，其中一些涉及到自體免疫攻擊分泌腺 體。從這樣的分析觀察中，下列敘述何者最適當？",
+    "options": {
+      "A": "AIRE 所調控的基因表現，對於中樞免疫耐受性移除對某些組織產生反應的自體免疫T 細胞上至關重要",
+      "B": "受到自體免疫攻擊的分泌腺體肇因於由AIRE 所調控的高量自體抗原表現",
+      "C": "AIRE 的表現抑制T 細胞的發育",
+      "D": "AIRE 過度表現時直接造成T 細胞的活化，因此引發自體免疫的症狀"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 28 題",
+    "question": "有關毒殺T 細胞抗原4（CTLA-4）之作用，下列敘述何者最不適當？",
+    "options": {
+      "A": "與CD28 競爭相同的配體（ligand）",
+      "B": "可以傳遞共同刺激訊息（co-stimulatory signals）到細胞內",
+      "C": "可與CD80 結合",
+      "D": "可與CD86 結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

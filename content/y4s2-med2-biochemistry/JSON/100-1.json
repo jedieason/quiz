@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 100 年第一次醫師國考第 26 題",
+    "question": "一位男童特別高大，主訴關節鬆動、視網膜剝離病變。檢查發現他的第二型膠原蛋白（type II collagen） 於三胜肽重複單位（tripeptide repeat）產生突變，以致影響它的四級結構。這個突變最可能發生在那 個胺基酸？",
+    "options": {
+      "A": "羥離胺酸（hydroxylysine）",
+      "B": "羥脯胺酸（hydroxyproline）",
+      "C": "甘胺酸（glycine）",
+      "D": "色胺酸（tryptophan）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 27 題",
+    "question": "下列關於酵素反應的敘述，何者錯誤？",
+    "options": {
+      "A": "酵素可以改變化學反應的平衡常數，使正反應的速率上升",
+      "B": "大多數的酵素為蛋白質，但少數核醣核酸分子（RNA）亦具有催化能力",
+      "C": "一般化學反應的速率會隨著溫度升高而上升，但大多數酵素反應的速率在溫度過高時會顯著降低",
+      "D": "酵素可區分光學性質不同的受質，因此反應的立體專一性（stereo-specificity）極高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 28 題",
+    "question": "缺少維生素B B1時會導致下列何種酶的活性降低？",
+    "options": {
+      "A": "Succinate dehydrogenase",
+      "B": "Glucose 6-phosphate dehydrogenase",
+      "C": "α-Ketoglutarate dehydrogenase",
+      "D": "Transaldolase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 29 題",
+    "question": "下列何者不是穩定蛋白質三級結構的非共價交互作用力？",
+    "options": {
+      "A": "氫鍵（hydrogen bond）",
+      "B": "凡德瓦爾力（van der Waals interaction）",
+      "C": "離子交互作用（ionic interaction）",
+      "D": "雙硫鍵（disulfide bond）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 30 題",
+    "question": "全世界約有10%人口具有葉酸缺乏症，下列相關敘述何者錯誤？",
+    "options": {
+      "A": "葉酸缺乏可能和癌症、心臟病或腦部功能異常有關",
+      "B": "葉酸缺乏時，會導致胸苷酸（Thymidylate）累積過量",
+      "C": "葉酸缺乏時，DNA 中易累積過量的尿素嘌呤（Uracil）",
+      "D": "葉酸缺乏時，尿素嘌呤會被DNA 修補系統辨認，導致DNA 損壞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 31 題",
+    "question": "下列關於glucose 在人類的紅血球中代謝的敘述，何者錯誤？",
+    "options": {
+      "A": "glucose 代謝最終產物之一為lactic acid",
+      "B": "pyruvate 可轉化為acetyl-CoA 進一步代謝",
+      "C": "ATP 產量較少",
+      "D": "glucose 也可以利用pentose phosphate 途徑代謝"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 32 題",
+    "question": "控制血管栓塞藥物warfarin 的作用，最主要是透過改變下列何種蛋白修飾（protein modification）的 活性？",
+    "options": {
+      "A": "甲基化（N-methylation）",
+      "B": "磷酸化（O-phosphorylation）",
+      "C": "乙醯化（N-acetylation）",
+      "D": "羧基化（γ-carboxylation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 33 題",
+    "question": "下列那一個胺基酸可以代謝成α-ketoglutarate，然後進入citric acid cycle？",
+    "options": {
+      "A": "Glycine",
+      "B": "Proline",
+      "C": "Alanine",
+      "D": "Tyrosine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 34 題",
+    "question": "聚合酶鏈鎖反應（PCR）所使用之Taq polymerase 與大腸桿菌DNA 複製（DNA replication）兩者所 使用的DNA 聚合酶主要差異性為何？",
+    "options": {
+      "A": "熱穩定性（thermal stability）",
+      "B": "聚合酶活性",
+      "C": "3’核酸外切酶（3’exonuclease）活性",
+      "D": "反應時，對二價金屬離子的需求"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 35 題",
+    "question": "一位新生兒有餵食欠佳、昏睡、呼吸急促症狀，血液檢查發現有輕微的呼吸性鹼中毒（respiratory  alkalosis）與高血氨（hyperammonemia）。家族病史分析發現屬於性聯遺傳疾病。下列尿素循環（urea  cycle）中何種酵素最可能出現功能異常？",
+    "options": {
+      "A": "尿黑酸氧化酶（homogentisate oxygenase）",
+      "B": "鳥胺酸轉胺基甲醯基酶（ornithine transcarbamoylase）",
+      "C": "胱硫醚合成酶（cystathionine β-synthase）",
+      "D": "精胺基琥珀酸酶（argininosuccinase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 36 題",
+    "question": "常見的glycogen storage disease 是因為病人缺乏glucose-6-phosphatase 所造成，下列敘述何者正確？",
+    "options": {
+      "A": "glycogen synthesis 增加",
+      "B": "glucose-6-phosphate 無法轉化成glucose-1-phosphate",
+      "C": "病人血中glucose 濃度可能偏低",
+      "D": "glycolysis 異常"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 37 題",
+    "question": "一位3 個月大男嬰的血清中，有兩個化合物的濃度較高，包括苯丙胺酸（phenylalanine）與苯丙酮酸 （phenylpyruvate），懷疑是苯酮尿症（phenylketonuria），但檢驗測得的苯丙胺酸羥化酶（Phenylalanine  hydroxylase）活性卻正常。若下列那個酵素檢驗項目異常，仍可以支持你的苯酮尿症診斷？",
+    "options": {
+      "A": "酪胺酸酶（tyrosinase）",
+      "B": "雙氫喋啶還原酵素（dihydrobiopterin reductase）",
+      "C": "黑尿酸氧化酶（homogentisic acid oxidase）",
+      "D": "多巴胺羥化酶（dopamine hydroxylase）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 38 題",
+    "question": "下列那種酶同時參與糖解（glycolysis）及葡萄糖新生（gluconeogenesis）之代謝途徑？",
+    "options": {
+      "A": "3-磷酸甘油酸激酶（3-phosphoglycerate kinase）",
+      "B": "六碳糖激酶（hexokinase）",
+      "C": "磷酸果糖激酶-1（phosphofructokinase-1）",
+      "D": "丙酮酸激酶（pyruvate kinase）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 39 題",
+    "question": "一位年輕女性臉上有嚴重的痤瘡（青春痘，acne），若你將要處方維生素A 酸（retinoic acid），下 列相關敘述，何者正確？",
+    "options": {
+      "A": "維生素A 酸是維生素K（vitamin K）之衍生物",
+      "B": "懷孕時服用有導致胎兒畸形之危險性",
+      "C": "只要停止服用維生素A 酸一至兩星期後懷孕，便不會有胎兒畸形之危險性",
+      "D": "人類細胞核中並無維生素A 之受體（receptor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 40 題",
+    "question": "下列何種修補作用不能修復紫外光所造成的嘧啶二聚體（pyrimidine dimers）傷害？",
+    "options": {
+      "A": "核苷酸切除修復（nucleotide excision repair）",
+      "B": "DNA 光解酶（DNA photolyases）",
+      "C": "核酸錯誤配對修復（mismatch repair）",
+      "D": "鹼基切除修復（base excision repair）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 41 題",
+    "question": "有關真核細胞之蛋白質分解，下列敘述何者錯誤？",
+    "options": {
+      "A": "均不須ATP 之參與 Trypsin",
+      "B": "可水解lysine 後之胜肽鍵",
+      "C": "泛素化（Ubiquitination）參與蛋白質分解機制 Lysosome",
+      "D": "具proteases 可以分解胞內蛋白質"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 42 題",
+    "question": "下列何者是蛋白質轉譯之起始胺基酸？  Leucine",
+    "options": {
+      "A": "Leucine",
+      "B": "Cysteine",
+      "C": "Methionine",
+      "D": "Tyrosine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 43 題",
+    "question": "下列何者是RNA 聚合酶Ⅱ（RNA polymerase Ⅱ）的產物？  hnRNA",
+    "options": {
+      "A": "hnRNA",
+      "B": "tRNA",
+      "C": "5S RNA",
+      "D": "28S rRNA"
+    },
+    "answer": "A",
+    "explanation": "考選部更正備註：答Ａ給分。"
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 44 題",
+    "question": "下列何者可有效地抑制老鼠體內mRNA 的合成？",
+    "options": {
+      "A": "Erythromycin",
+      "B": "Alpha-amanitin",
+      "C": "Tetracycline",
+      "D": "Rifampicin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 45 題",
+    "question": "Lovastatin 與compactin 是用來治療家族性高膽固醇症（familial hypercholesterolemia）的常用藥物， 這兩種藥物主要是藉由抑制那一種酵素活性，進而降低細胞內膽固醇的合成？  HMG",
+    "options": {
+      "A": "-CoA synthase HMG",
+      "B": "-CoA lyase HMG",
+      "C": "-CoA reductase HMG",
+      "D": "-CoA isomerase"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 46 題",
+    "question": "下列關於脂肪酸的敘述，何者正確？",
+    "options": {
+      "A": "血液中荷爾蒙glucagon 可以促進細胞中脂肪酸的生合成",
+      "B": "細胞中脂肪酸的生合成過程中需要NADPH 做為電子攜帶者（electron carrier）",
+      "C": "細胞中脂肪酸的生合成中間產物malonyl-CoA 會活化粒線體外膜上酵素（carnitine acyltransferase Ⅰ）",
+      "D": "胰島素（insulin）可以增加血液中脂肪酸的濃度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 47 題",
+    "question": "一名中年流浪漢因腹瀉、神智不清被送至急診室，檢查發現他的臉、前胸、手背都有皮膚粗糙的皮膚 炎、舌頭也有發炎，醫師的診斷為：疑似癩皮病（pellagra）。下列有關此病之敘述，何者正確？",
+    "options": {
+      "A": "此病是缺乏菸鹼酸（niacin）所造成",
+      "B": "菸鹼酸是由菸鹼醯胺腺嘌呤二核甘酸鹽（nicotinamide adenine dinucleotide，即NAD+）所合成",
+      "C": "以玉米為主食的人不易得此病",
+      "D": "神經系統不會受到影響"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 48 題",
+    "question": "glycerol-3-phosphate shuttle 之作用為何？",
+    "options": {
+      "A": "是肝、腎和心臟細胞運送細胞質中NADH 進入電子傳遞鏈之途徑",
+      "B": "將細胞質中NADH 的還原當量（reducing equivalents）傳送至ubiquinone glycerol",
+      "C": "-3-phosphate shuttle 比malate aspartate shuttle 所產生之ATP 量多",
+      "D": "主要目的是將ATP 送出粒線體外利用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 49 題",
+    "question": "Rotenone 會抑制粒線體電子傳遞鏈的那一個步驟？  NADH→coenzyme Q",
+    "options": {
+      "A": "Cyt",
+      "B": "b→Cyt c1 Cyt",
+      "C": "c1→Cyt c Cyt",
+      "D": "c→Cyt (a+a3)"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第一次醫師國考第 50 題",
+    "question": "下列關於protein kinase A 的敘述，何者正確？",
+    "options": {
+      "A": "受cyclic GMP 的調控進行活化",
+      "B": "受AMP 的調控進行活化",
+      "C": "受cyclic AMP 的調控進行活化 Protein kinase A",
+      "D": "的活化可促進細胞內脂肪酸的生合成（fatty acid biosynthesis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

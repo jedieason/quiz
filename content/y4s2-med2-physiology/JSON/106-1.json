@@ -1,0 +1,305 @@
+[
+  {
+    "origin": "出自 106 年第一次醫師國考第 1 題",
+    "question": "關於細胞膜上的膽固醇（cholesterol）其結構及功能的敘述，下列何者正確？",
+    "options": {
+      "A": "與細胞膜相較，胞器膜（membrane of the organelle）上的膽固醇含量較多",
+      "B": "膽固醇帶極性的羥基（polar hydroxyl group）鑲嵌於細胞膜的雙脂層（lipid bilayers）夾層內部（interior）",
+      "C": "膽固醇可幫助調節細胞膜的膜流動性（membrane fluidity）",
+      "D": "膽固醇在細胞膜內外側的分布是對稱的（symmetric）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 2 題",
+    "question": "一位因中風（stroke）而導致左側腦視神經束（optic tract）受損的患者，下列何者為該患者最可能的視覺障礙？",
+    "options": {
+      "A": "無法感知來自右眼的內外側視網膜（retina）上的影像",
+      "B": "無法感知來自左眼的內外側視網膜（retina）上的影像",
+      "C": "右眼的外側及左眼的內側視野(visual field)偏盲",
+      "D": "兩眼的外側視野(visual field)偏盲"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 3 題",
+    "question": "下列那一種神經元的軸突末端，不是以acetylcholine為其釋出的主要神經傳導物質？",
+    "options": {
+      "A": "alpha-motor neurons",
+      "B": "gamma-motor neurons",
+      "C": "preganglionic parasympathetic neurons",
+      "D": "postganglionic sympathetic neurons"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 4 題",
+    "question": "聲波震動在人類耳部的傳導順序，下列何者正確？①tympanic membrane ②middle-ear bones ③round window membrane ④basilar membrane ⑤oval window membrane",
+    "options": {
+      "A": "①②③④⑤",
+      "B": "②①④③⑤",
+      "C": "①②③⑤④",
+      "D": "①②⑤④③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 5 題",
+    "question": "下列各種感覺及其受器，何者最不容易因持續刺激而發生傳導適應現象（adaptation）？",
+    "options": {
+      "A": "壓覺；pacinian corpuscles",
+      "B": "本體感覺；muscle spindles",
+      "C": "嗅覺；olfactory receptor cells",
+      "D": "聽覺；hair cell receptors"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 6 題",
+    "question": "下列小腦皮質部細胞中，何者屬於分泌glutamate的興奮性神經元？",
+    "options": {
+      "A": "Purkinje cells",
+      "B": "Golgi cells",
+      "C": "granule cells",
+      "D": "basket cells"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 7 題",
+    "question": "相較於維持姿勢的背部肌，下列有關操作精細動作的手指肌肉之敘述，何者正確？",
+    "options": {
+      "A": "氧化能力（oxidative capacity）較高",
+      "B": "肌凝蛋白ATP酶（myosin ATPase）的活性較高",
+      "C": "I型肌纖維（type I fibers）較多",
+      "D": "紅肌（red muscles）較多"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 8 題",
+    "question": "下列有關骨骼肌與平滑肌的異同之敘述，何者正確？",
+    "options": {
+      "A": "骨骼肌細胞actin固定在Z lines，而平滑肌細胞則固定在dense bodies",
+      "B": "骨骼肌細胞具有較多的actin，而平滑肌細胞具有較多的myosin",
+      "C": "骨骼肌細胞和平滑肌細胞皆具有troponin C",
+      "D": "骨骼肌細胞具有 tropomyosin 而平滑肌細胞則無"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 9 題",
+    "question": "對吞噬細胞（phagocytes）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "巨噬細胞（macrophage）可被T淋巴球（lymphocytes）分泌的細胞激素（cytokines）所活化",
+      "B": "肝臟的 Kupffer cells 是一種特化的巨噬細胞，可吞噬細菌亦可分泌細胞激素（cytokines）",
+      "C": "嗜中性球（neutrophil）細胞內 NADPH oxidase complex活化後會合成超氧化物（superoxidant）",
+      "D": "巨噬細胞（macrophage）是由單核球（monocyte）受細菌刺激後分裂而成的"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 10 題",
+    "question": "比較血管系統中，動脈、微血管與靜脈等組織的結構與功能，下列敘述何者正確？",
+    "options": {
+      "A": "動脈富彈性，所以其順應性（compliance）比靜脈好",
+      "B": "平時約有60%血液停留在靜脈。所以靜脈是血管系統的「壓力儲存器」（pressure reservoir）",
+      "C": "微血管有最大的總橫切面積與最低平均流速",
+      "D": "血液在不同血管中的流速取決於距離心臟的遠近"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 11 題",
+    "question": "關於脈搏壓（pulse pressure）的敘述，下列何者正確？",
+    "options": {
+      "A": "收縮壓（systolic pressure）增加時，脈搏壓一定會增加",
+      "B": "脈搏壓的大小與動脈的順應性（compliance）無關",
+      "C": "脈搏壓可能因心搏量（stroke volume）增加而上升",
+      "D": "脈搏壓可能因舒張壓（diastolic pressure）的上升而上升"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 12 題",
+    "question": "若一受測者從臥姿突然站立時，因血壓降低而感到暈眩。此時身體會利用下列那一反應來幫助穩定動脈血壓？",
+    "options": {
+      "A": "降低動脈感壓受器反射（arterial baroreceptors reflex）放電頻率",
+      "B": "降低心跳速率",
+      "C": "降低靜脈回流（venous return）",
+      "D": "促使小動脈（arterioles）舒張"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 13 題",
+    "question": "解剖無效腔（anatomic dead space）內氧氣（$O_2$）與二氧化碳（$CO_2$）之組成比例與下列何者最相近？",
+    "options": {
+      "A": "肺泡（alveolus）內氣體",
+      "B": "大氣（atmospheric gas）",
+      "C": "肺泡微血管（alveolar capillary）內血液",
+      "D": "周邊微血管（peripheral capillary）內血液"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 14 題",
+    "question": "正常人站立時，其肺內何處的氧分壓 顯著高於體動脈血（systemic arterial blood）的氧分壓，而且該處的二氧化碳分 壓 顯著低於體動脈血的二氧化碳分壓？",
+    "options": {
+      "A": "肺底（lung base）",
+      "B": "肺中段（middle lung）",
+      "C": "肺尖（lung apex）",
+      "D": "肺內到處都如此"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 15 題",
+    "question": "正常人呼吸時，下列何者測得的壓力於吸氣期和呼氣期最可能都是負壓（negative pressure）？",
+    "options": {
+      "A": "肋膜內壓（intrapleural pressure）",
+      "B": "肺泡壓（alveolar pressure）",
+      "C": "肺泡壓－肋膜壓（transpulmonary pressure）",
+      "D": "氣道壓（airway pressure）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 16 題",
+    "question": "新生兒缺乏下列何種細胞膜蛋白最容易引起嚴重下痢？",
+    "options": {
+      "A": "sodium-dependent glucose transporter 1（SGLT1）",
+      "B": "cystic fibrosis transmembrane conductance regulator（CFTR）",
+      "C": "aquaporin",
+      "D": "sodium-dependent glucose transporter 2（SGLT 2）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 17 題",
+    "question": "下列何者之分泌在進食後短時間內會受到抑制？",
+    "options": {
+      "A": "膽囊收縮素（cholecystokinin）",
+      "B": "胃泌素（gastrin）",
+      "C": "運動素（motilin）",
+      "D": "胰泌素（secretin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 18 題",
+    "question": "在抗利尿激素發揮作用的狀況之下，下列那一段的腎小管腔內液體會達到最低的osmolarity？",
+    "options": {
+      "A": "鮑氏囊（Bowman's capsule）",
+      "B": "近端腎小管的末端（end of the proximal tubule）",
+      "C": "亨利氏環上升段粗枝的末端（distal end of the thick ascending limb of the loop of Henle）",
+      "D": "皮質集尿管的末端（end of the cortical collecting duct）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 19 題",
+    "question": "在實驗中給予實驗鼠氯化鈣溶液灌注以提高其血鈣濃度，下列何者為最可能之預期變化？",
+    "options": {
+      "A": "抑鈣素（calcitonin）分泌減少",
+      "B": "骨質流失（bone demineralization）",
+      "C": "減少噬骨細胞（osteoclast）的活性",
+      "D": "減少凝血作用（blood coagulation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 20 題",
+    "question": "Prohormone轉化為hormone的過程，主要在何處進行？",
+    "options": {
+      "A": "Golgi apparatus",
+      "B": "mitochondrion",
+      "C": "peroxisome",
+      "D": "centriole"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 21 題",
+    "question": "下列何者屬於最典型的神經激素（neurohormone）？",
+    "options": {
+      "A": "vasopressin",
+      "B": "FSH（follicle stimulating hormone）",
+      "C": "thyroid hormone",
+      "D": "estrogen"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 22 題",
+    "question": "下列何種疾病與胰島素抗性（insulin resistance）的產生最無關？",
+    "options": {
+      "A": "肥胖（obesity）",
+      "B": "庫欣氏症候群（Cushing's syndrome）",
+      "C": "腎上腺機能不全（adrenal insufficiency）",
+      "D": "肢端肥大症（acromegaly）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 23 題",
+    "question": "關於醛固酮（aldosterone）分泌不足的生理變化，下列敘述何者錯誤？",
+    "options": {
+      "A": "細胞外液之鉀離子濃度會顯著上升",
+      "B": "細胞外液體積會顯著減少",
+      "C": "心輸出量會顯著上升",
+      "D": "總血量會顯著降低"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 24 題",
+    "question": "有關婦女停經（menopause）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "停經後會伴隨有血漿中濾泡促素（follicular stimulating hormone）和黃體促素（luteinizing hormone）的升高",
+      "B": "停經後易造成骨質疏鬆（osteoporosis），與雌激素（estrogen）分泌減少有關",
+      "C": "停經後，助孕酮（progesterone）的分泌不受影響",
+      "D": "停經前經常會伴隨有月經週期不規則的產生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第一次醫師國考第 25 題",
+    "question": "有關睪丸的組織顯微結構與功能的配對，下列何者最為恰當？",
+    "options": {
+      "A": "Leydig cell位於曲細精管（seminiferous tubule）之內；分泌睪固酮（testosterone）",
+      "B": "Sertoli cell位於曲細精管（seminiferous tubule）之外； 曲細精管收縮",
+      "C": "Sertoli cell位於曲細精管（seminiferous tubule）之內；精子（sperm）的分化和成熟",
+      "D": "Leydig cell位於曲細精管（seminiferous tubule）之內；精子（sperm）的營養供應"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

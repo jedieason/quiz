@@ -1,0 +1,54 @@
+[
+  {
+    "origin": "出自 100 年第二次醫師國考第 29 題",
+    "question": "下列肺發育期間，呼吸細支氣管（respiratory bronchiole）何時出現？",
+    "options": {
+      "A": "偽腺期（Pseudoglandular stage）",
+      "B": "小管期（Canalicular stage）",
+      "C": "末囊期（Terminal sac stage）",
+      "D": "肺泡期（Alveolar stage）"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者 均給分。"
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 30 題",
+    "question": "下列由遺傳因素造成的畸形中，何者是因染色體數目的異常所致？",
+    "options": {
+      "A": "亨丁頓氏舞蹈症（Huntington chorea）",
+      "B": "軟骨發育不全（achondroplasia）",
+      "C": "克萊恩費爾特氏徵候群（Klinefelter syndrome）",
+      "D": "血友病（hemophilia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 31 題",
+    "question": "誘發胚胎先天畸形的敏感時期是在受精後：",
+    "options": {
+      "A": "第1-2 週",
+      "B": "第3-8 週",
+      "C": "第9-12 週",
+      "D": "第13-16 週"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 100 年第二次醫師國考第 32 題",
+    "question": "在脊柱形成時，胚胎初期出現的脊索（notochord）最後的發育結果是：",
+    "options": {
+      "A": "骨化並成為椎骨的一部分",
+      "B": "轉變為滑液關節（synovial joint）",
+      "C": "構成軟骨關節",
+      "D": "退化並侷限在椎間盤內"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 51 題",
+    "question": "下列何者是全身麻醉劑thiopental的特性？",
+    "options": {
+      "A": "因在體內有再分布的情形，具有長效的作用",
+      "B": "屬於速效型（rapid onset）麻醉藥",
+      "C": "因脂溶性低不易口服吸收",
+      "D": "會在肝臟快速代謝成有效代謝物，而延長作用時間"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 52 題",
+    "question": "慢性長期巴拉刈（paraquat）暴露與下列那種神經退化症最相關？",
+    "options": {
+      "A": "帕金森氏症",
+      "B": "阿茲海默症",
+      "C": "肌萎縮性脊髓側索硬化症（amyotrophic lateral sclerosis）",
+      "D": "亨丁頓舞蹈症"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 53 題",
+    "question": "下列用於免疫調節及抗發炎藥物，何者的作用機轉非經由阻斷介白素（interleukin）功能？",
+    "options": {
+      "A": "canakinumab",
+      "B": "etanercept",
+      "C": "tocilizumab",
+      "D": "ustekinumab"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 54 題",
+    "question": "關於抗生素抗藥性的成因及對抗策略，下列敘述何者錯誤？",
+    "options": {
+      "A": "對vancomycin產生抗藥性的主要因素，是失去與細菌細胞壁肽聚醣（peptidoglycan）結合的能力",
+      "B": "vancomycin合併cefotaxime可治療對penicillin產生抗藥性的肺炎鏈球菌（pneumococcus）感染",
+      "C": "telavancin可治療對vancomycin產生耐受性的革蘭氏陽性菌感染",
+      "D": "dalbavancin可治療對vancomycin產生抗藥性的腸球菌（enterococci）感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 55 題",
+    "question": "關於化療藥busulfan之敘述，下列何者錯誤？",
+    "options": {
+      "A": "作用於DNA而抑制癌細胞增生與複製",
+      "B": "與cyclophosphamide同屬於烷化劑（alkylating agent），常用於治療乳癌",
+      "C": "glutathione S-transferase活性增加時易引起抗藥性",
+      "D": "常見副作用為噁心、嘔吐"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 56 題",
+    "question": "下列何種藥物對於細菌之dihydrofolic acid reductase具有專一性的高親和力？",
+    "options": {
+      "A": "sulfamethoxazole",
+      "B": "trimethoprim",
+      "C": "pyrimethamine",
+      "D": "methotrexate"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 57 題",
+    "question": "下列藥物何者為H1拮抗劑，也適合用於緩解藥物引起的錐體外症狀（extrapyramidal symptoms）？",
+    "options": {
+      "A": "famotidine",
+      "B": "haloperidol",
+      "C": "diphenhydramine",
+      "D": "cetirizine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 58 題",
+    "question": "有關血栓溶解藥物之敘述，下列何者錯誤？",
+    "options": {
+      "A": "streptokinase比tissue plasminogen activator（t-PA）易產生過敏反應",
+      "B": "streptokinase與 plasminogen形成複合物才將plasminogen轉換成 plasmin",
+      "C": "plasmin可經由全身性靜脈注射有效應用於血栓溶解",
+      "D": "t-PA對結合fibrin的plasminogen有較高親和力"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 59 題",
+    "question": "下列降血脂藥物何者藉由活化PPAR-α而促進細胞lipoprotein lipase（LPL）及apoA表現，以提高脂肪酸在骨骼 肌及肝臟的氧化反應，進而降低血中VLDL含量？",
+    "options": {
+      "A": "gemfibrozil",
+      "B": "simvastatin",
+      "C": "colestipol",
+      "D": "ezetimibe"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 60 題",
+    "question": "王先生因甲狀腺癌接受手術切除後，出現倦怠、嗜睡、水腫等現象。在醫院抽血檢查發現有甲狀腺機能低下 （hypothyroidism）的情況，並有上呼吸道感染造成的輕微發燒與咳嗽。依據上述情形，他比較不適合使用下 列那一種藥物？",
+    "options": {
+      "A": "levothyroxine",
+      "B": "dextromethorphan",
+      "C": "methimazole",
+      "D": "acetaminophen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 61 題",
+    "question": "下列何種藥物的主要作用受體不位在細胞膜上，而是在細胞內部？",
+    "options": {
+      "A": "erlotinib",
+      "B": "metoclopramide",
+      "C": "prednisolone",
+      "D": "diphenhydramine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 62 題",
+    "question": "RU-486 亦即 mifepristone，被用於墮胎主要是因為下列何種作用機轉？",
+    "options": {
+      "A": "拮抗糖皮質激素受體的作用，進而使得受孕無法維持",
+      "B": "抑制雌激素的分泌作用，進而使懷孕中止",
+      "C": "是PGI2的拮抗劑，造成子宮早期收縮",
+      "D": "拮抗黃體素（progesterone）的作用，進而使得受孕無法維持"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 63 題",
+    "question": "下列有關chlorothiazide利尿劑的敘述，何者錯誤？",
+    "options": {
+      "A": "可抑制鈉和氯離子再吸收",
+      "B": "可用於原發性高鈣尿（idiopathic hypercalciuria）",
+      "C": "會引起高血糖",
+      "D": "會引起高血鉀"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 64 題",
+    "question": "下列抗心律不整藥物，何者不抑制$Na^+$ channel作用？",
+    "options": {
+      "A": "adenosine",
+      "B": "amiodarone",
+      "C": "flecainide",
+      "D": "mexiletine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 65 題",
+    "question": "下列關於nicorandil的敘述，何者錯誤？",
+    "options": {
+      "A": "可使nitric oxide釋放",
+      "B": "可使sodium channel打開",
+      "C": "可降低細胞內鈣離子濃度",
+      "D": "可用於治療心絞痛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 66 題",
+    "question": "下列交感受體拮抗劑（adrenoceptor antagonist）中，何者具有最明顯的alpha受體（alpha-receptor）阻斷作用？",
+    "options": {
+      "A": "atenolol",
+      "B": "labetalol",
+      "C": "propranolol",
+      "D": "pindolol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 67 題",
+    "question": "下列膽鹼酯酶抑制劑（cholinesterase inhibitors）， 何者不適合用於治療重症肌無力（myasthenia gravis）？",
+    "options": {
+      "A": "pyridostigmine",
+      "B": "physostigmine",
+      "C": "neostigmine",
+      "D": "ambenonium"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 68 題",
+    "question": "下列何種治療氣喘藥物可與病人血中IgE形成複合體，由肝臟吞噬細胞清除？",
+    "options": {
+      "A": "mepolizumab",
+      "B": "tocilizumab",
+      "C": "omalizumab",
+      "D": "efalizumab"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 69 題",
+    "question": "下列用於治療慢性阻塞性肺病（COPD）病人的藥物中，何者是屬於muscarinic receptor antagonists，而且是長 效型？",
+    "options": {
+      "A": "atropine",
+      "B": "ipratropium",
+      "C": "tiotropium",
+      "D": "formoterol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 70 題",
+    "question": "下列何種抗噁心嘔吐藥物最適合用於懷孕的婦女，其作用機轉是透過拮抗H1 receptor？",
+    "options": {
+      "A": "ondansetron",
+      "B": "ranitidine",
+      "C": "tiprolisant",
+      "D": "Diclegis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 71 題",
+    "question": "患者罹患低血鈉症（hyponatremia），可以使用下列何種藥物來治療，該藥物是一選擇性V2 antagonist？",
+    "options": {
+      "A": "selepressin",
+      "B": "terlipressin",
+      "C": "conivaptan",
+      "D": "tolvaptan"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 72 題",
+    "question": "下列何種藥物可以有效治療cryopyrin-associated periodic syndrome（CAPS），特別是CAPS subtype的familial cold autoinflammatory syndrome？",
+    "options": {
+      "A": "ketorolac",
+      "B": "rilonacept",
+      "C": "secukinumab",
+      "D": "tramadol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 73 題",
+    "question": "下列那一個抗帕金森氏症藥物，不適合用於排尿不順的老年患者？",
+    "options": {
+      "A": "benztropine",
+      "B": "ropinirole",
+      "C": "selegiline",
+      "D": "levodopa"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 74 題",
+    "question": "Methadone可用於鴉片類藥物成癮的治療，關於該藥物的藥理特性，下列敘述何者正確？",
+    "options": {
+      "A": "可以經由口服投與",
+      "B": "沒有成癮性",
+      "C": "為鴉片類受體的拮抗劑",
+      "D": "不會產生戒斷症狀"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 75 題",
+    "question": "下列安眠藥物，何者作用迅速且半衰期最短，用於改善入睡困難？",
+    "options": {
+      "A": "zaleplon",
+      "B": "flurazepam",
+      "C": "diazepam",
+      "D": "chlordiazepoxide"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

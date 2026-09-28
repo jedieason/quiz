@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 29 題",
+    "question": "人類之精原細胞（spermatogonium）發育成為成熟的精子約需幾天？",
+    "options": {
+      "A": "2 天",
+      "B": "16 天",
+      "C": "32 天",
+      "D": "74 天"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 30 題",
+    "question": "下列有關甲狀腺（thyroid gland）及副甲狀腺（parathyroid gland）之發育，何項敘述正確？",
+    "options": {
+      "A": "甲狀腺主要源於第三咽弓（pharyngeal arch）",
+      "B": "上與下副甲狀腺均來自第三咽囊（pharyngeal pouch）",
+      "C": "上與下副甲狀腺分別來自第二及第三咽囊（pharyngeal pouch）",
+      "D": "甲狀腺亦有源自第四咽囊（pharyngeal pouch）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 31 題",
+    "question": "腎上腺（adrenal gland）的那一部位，在出生三年後方可辨識？",
+    "options": {
+      "A": "髓部（medulla）",
+      "B": "網狀帶（zona reticularis）",
+      "C": "球狀帶（zona glomerulosa）",
+      "D": "束狀帶（zona fasciculata）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 32 題",
+    "question": "下列何者不是衍生自耳板（otic placode）？",
+    "options": {
+      "A": "耳蝸管（cochlear duct）",
+      "B": "螺旋神經節（spiral ganglion）",
+      "C": "半規管（semicircular duct）",
+      "D": "耳囊（otic capsule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

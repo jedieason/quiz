@@ -1,0 +1,55 @@
+[
+  {
+    "origin": "出自 105 年第一次醫師國考第 29 題",
+    "question": "下列有關骶尾畸胎瘤（sacrococcygeal teratoma）之敘述，何者正確？",
+    "options": {
+      "A": "由外胚層和中胚層的細胞組成",
+      "B": "原條（primitive streak）閉鎖不全所造成",
+      "C": "產前的超音波檢查不易發現",
+      "D": "常發生於男性新生兒"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 30 題",
+    "question": "下列何者作為前腭唇裂（cleft lip and palate）和後腭唇裂分界的指標？",
+    "options": {
+      "A": "盲孔（foramen cecum）",
+      "B": "門齒窩（incisive fossa）",
+      "C": "大腭管（greater palatine canal）",
+      "D": "卵圓孔（foramen ovale）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 31 題",
+    "question": "下列何者由輸尿管芽（ureteric bud）形成？",
+    "options": {
+      "A": "鮑氏囊（Bowman's capsule）",
+      "B": "近曲小管（proximal convoluted tubule）",
+      "C": "絲球體（glomerulus）",
+      "D": "集尿小管（collecting tubule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 105 年第一次醫師國考第 32 題",
+    "question": "下列何者不是衍生自軸下區肌節（hypaxial division of myotomes）？",
+    "options": {
+      "A": "頭夾肌（splenius capitis muscle）",
+      "B": "中斜角肌（middle scalene muscle）",
+      "C": "肋間肌（intercostal muscle）",
+      "D": "腰方肌（quadratus lumborum muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

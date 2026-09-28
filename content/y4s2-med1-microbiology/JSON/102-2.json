@@ -1,0 +1,253 @@
+[
+  {
+    "origin": "出自 102 年第二次醫師國考第 42 題",
+    "question": "以下有關β-lactam 抗生素之敘述，何者正確？",
+    "options": {
+      "A": "結合penicillin binding proteins（PBPs），改變細胞膜功能",
+      "B": "穿透性（permeability）差是細菌產生抗藥性最常見的原因",
+      "C": "vancomycin 屬於β-lactam 抗生素",
+      "D": "黴漿菌（Mycoplasma）對β-lactam 抗生素具抗藥性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 43 題",
+    "question": "以下有關內毒素（endotoxin）之敘述，何者錯誤？",
+    "options": {
+      "A": "主要來源為革蘭氏陽性細菌",
+      "B": "由細胞壁脂多醣體（LPS）組成",
+      "C": "與誘發發炎反應有關",
+      "D": "與引發敗血症有關"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 44 題",
+    "question": "披衣菌（Chlamydia )以下列何種形態在宿主細胞間傳染？",
+    "options": {
+      "A": "微孢子（microspore）",
+      "B": "基體（elementary body）",
+      "C": "網狀體（reticulate body）",
+      "D": "包涵體（inclusion body）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 45 題",
+    "question": "某產婦分娩時發生早期破水，且產程長達30 小時，胎兒出生1 週發現罹患腦膜炎，腦脊髓液檢體培 養出觸酶（catalase）陰性之革蘭氏陽性球菌，在血液瓊脂平板上菌落呈現β 溶血，且CAMP 試驗為 陽性。此新生兒最可能感染那一種病原菌？",
+    "options": {
+      "A": "化膿性鏈球菌（Streptococcus pyogenes）",
+      "B": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "C": "無乳鏈球菌（Streptococcus agalactiae）",
+      "D": "糞腸球菌（Enterococcus faecalis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 46 題",
+    "question": "以下何種症狀，不是由幽門桿菌（Helicobacter pylori ）引起？",
+    "options": {
+      "A": "胃炎（gastritis）",
+      "B": "胃淋巴瘤（MALT lymphoma）",
+      "C": "食道逆流（gastroesophageal reflux）",
+      "D": "胃癌（gastric cancer）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 47 題",
+    "question": "Aminoglycosides 是殺菌類藥物，是目前臨床上治療革蘭氏陰性菌感染的有效藥物，但是該類藥物卻 無法用於治療Bacteroides fragilis 引起之菌血症，主要原因為何？",
+    "options": {
+      "A": "Bacteroides fragilis 並非革蘭氏陰性菌",
+      "B": "aminoglycosides 無法與Bacteroides fragilis 的核糖體結合",
+      "C": "Bacteroides fragilis 是厭氧菌",
+      "D": "Bacteroides fragilis 沒有細胞壁結構"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 48 題",
+    "question": "下列那一個菌種的viridans streptococci 對penicillin 具有較高的抵抗力？",
+    "options": {
+      "A": "Streptococcus mutans",
+      "B": "Streptococcus mitis",
+      "C": "Streptococcus salivarius",
+      "D": "Streptococcus anginosus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 49 題",
+    "question": "下列有關萊姆病（Lyme disease）之敘述，何者錯誤？",
+    "options": {
+      "A": "為人畜共通之疾病",
+      "B": "致病原為Treponema pallidum",
+      "C": "可用PCR 方法檢測檢體中致病原之DNA",
+      "D": "可用血清學之方式檢測病人體內之抗體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 50 題",
+    "question": "關於Bacillus anthracis 毒素的敘述，那一項錯誤？",
+    "options": {
+      "A": "是由一種質體所攜帶的基因導致",
+      "B": "protective antigen 加上edema factor 形成edema toxin",
+      "C": "protective antigen 加上lethal factor 形成lethal toxin",
+      "D": "protective antigen 單獨作用的毒性最強，對細胞破壞力最大"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 51 題",
+    "question": "親子旅行團回國後，有3 名參加的學齡前孩童先後因出血性腹瀉至醫院就醫。醫院在3 名孩童的糞 便中均分離出O157:H7 血清型大腸桿菌（Escherichia coli）。下列何者是最常見的嚴重併發症？",
+    "options": {
+      "A": "腦膜炎（meningitis）",
+      "B": "敗血症（septicemia）",
+      "C": "溶血性尿毒症（hemolytic uremic syndrome）",
+      "D": "橫紋肌溶解症（rhabdomyolysis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 52 題",
+    "question": "下列何者易感染紅血球的前期細胞而造成貧血，或感染孕婦而造成死胎？",
+    "options": {
+      "A": "parvovirus B19",
+      "B": "JC virus",
+      "C": "BK virus",
+      "D": "cytomegalovirus"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ或AD者均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 53 題",
+    "question": "下列何者不適合作為實驗室檢測流感病毒（influenza viruses）的方法？",
+    "options": {
+      "A": "以Madin-Darby 犬腎細胞株培養以檢測其細胞病變（cytopathologic effects）",
+      "B": "以血球凝集試驗（hemagglutination test）檢測細胞培養中之病毒",
+      "C": "以免疫螢光試驗（immunofluorescence test）檢測細胞培養中之病毒抗原",
+      "D": "以聚合酶鏈鎖反應（polymerase chain reaction）檢測病毒DNA"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 54 題",
+    "question": "陳先生，19 歲，最近到南美洲遊學兩星期，回國後出現類流感症狀，癒後仍出現關節痛達數十天之 久。請問最可能感染下列何種病毒？",
+    "options": {
+      "A": "登革熱病毒（dengue virus）",
+      "B": "塞姆利基森林病毒（Semliki Forest virus）",
+      "C": "黃熱病毒（yellow fever virus）",
+      "D": "基孔肯雅病毒（Chikungunya virus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 55 題",
+    "question": "某3 歲男童由育嬰中心回家後突然開始發高燒、喉嚨痛、咳嗽、肌肉酸痛及腹部疼痛、嘔吐等症 狀，其母親即給予服用阿斯匹靈退燒，此男童服藥後不但病情未減輕反而引發肝功能異常與腦部 病變（encephalopathy），最後此男童不幸死亡，此男童可能為何病原所感染？",
+    "options": {
+      "A": "流行性感冒噬血桿菌（Haemophilus influenzae）",
+      "B": "肺炎雙球菌（Streptococcus pneumoniae）",
+      "C": "流行性感冒病毒（influenza virus）",
+      "D": "麻疹病毒（measles virus）"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ或AC者 均給分。"
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 56 題",
+    "question": "一位25 歲男子休假赴東南亞旅行，為了節省費用，吃住均找價錢最低廉者，回國後2 星期出現發燒、 噁心、腹部疼痛、沒有食慾及感到疲勞等症狀，雖然去看了醫生並服了藥，4 天後仍發生黃疸的現象， 此男子可能得了什麼疾病？",
+    "options": {
+      "A": "黃熱病",
+      "B": "肝炎",
+      "C": "登革熱",
+      "D": "腸胃炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 57 題",
+    "question": "下列何種病毒經乙醚（ether）處理後會喪失感染活性？",
+    "options": {
+      "A": "hepatitis A virus",
+      "B": "influenza virus",
+      "C": "rotavirus",
+      "D": "poliovirus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 58 題",
+    "question": "接合黴菌綱（zygomycetes）通常不具下列那一種構造？",
+    "options": {
+      "A": "columella",
+      "B": "sporangium",
+      "C": "phialides",
+      "D": "coenocytic hyphae"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 59 題",
+    "question": "下列有關新型隱球菌（Cryptococcus neoformans）黑色素（melanin）之敘述何者錯誤？",
+    "options": {
+      "A": "由L-tryptophanase 產生",
+      "B": "會增加細胞的負電荷",
+      "C": "能抵抗巨噬細胞之吞噬",
+      "D": "沉積在細胞壁中"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 60 題",
+    "question": "關於黴菌感染之血清學診斷之敘述，下列何者正確？",
+    "options": {
+      "A": "chitin 常用於Blastomyces dermatitidis 之診斷",
+      "B": "莢膜多醣類常用於Cryptococcus neoformans 之診斷",
+      "C": "2,4-β-glucans 常用於Candida 之診斷",
+      "D": "cord factor 常用於Aspergillus 之診斷"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 102 年第二次醫師國考第 61 題",
+    "question": "根據統計，全球僅次於Candida albicans 造成念珠菌菌血症（candidemia）之病原菌為何？",
+    "options": {
+      "A": "Candida krusei",
+      "B": "Candida glabrata",
+      "C": "Candida parapsilosis",
+      "D": "Candida tropicalis"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

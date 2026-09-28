@@ -1,0 +1,377 @@
+[
+  {
+    "origin": "出自 106 年第二次醫師國考第 1 題",
+    "question": "下列何者不屬於功能性的邊緣系統（limbic system）？",
+    "options": {
+      "A": "杏仁體（amygdala）",
+      "B": "小腦齒狀核（dentate nucleus of cerebellum）",
+      "C": "海馬回（hippocampus）",
+      "D": "下視丘（hypothalamus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 2 題",
+    "question": "藍斑核（locus coeruleus）神經元釋放下列何種神經傳導物質？",
+    "options": {
+      "A": "血清張力素（serotonin）",
+      "B": "乙醯膽鹼（acetylcholine）",
+      "C": "正腎上腺素（norepinephrine）",
+      "D": "腎上腺素（epinephrine）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 3 題",
+    "question": "咽部壁上的縱走肌肉收縮會對咽產生何種作用？",
+    "options": {
+      "A": "鬆弛",
+      "B": "上提",
+      "C": "下壓",
+      "D": "內收"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 4 題",
+    "question": "下列何者收縮，可使舌頭變窄？",
+    "options": {
+      "A": "舌內在橫肌（intrinsic transverse muscle）",
+      "B": "舌內在垂直肌（intrinsic vertical muscle）",
+      "C": "頦舌肌（genioglossus muscle）",
+      "D": "舌骨舌肌（hyoglossus muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 5 題",
+    "question": "翼管神經（nerve of pterygoid canal）不包含：",
+    "options": {
+      "A": "交感神經之節後纖維",
+      "B": "副交感神經之節前纖維",
+      "C": "來自於岩小神經（lesser petrosal nerve）之神經纖維",
+      "D": "來自於岩深神經（deep petrosal nerve）之神經纖維"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 6 題",
+    "question": "正常成年人之肋骨緣（costal margin）是由下列第幾肋骨（rib）所構成？",
+    "options": {
+      "A": "3～4",
+      "B": "5～6",
+      "C": "7～10",
+      "D": "11～12"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 7 題",
+    "question": "有關消化道靜脈回流的敘述，下列何者錯誤？",
+    "options": {
+      "A": "胃小彎處的靜脈直接回流入肝門靜脈（hepatic portal vein）中",
+      "B": "腸繫膜上靜脈（superior mesenteric vein）與脾靜脈（splenic vein）會合形成肝門靜脈（hepatic portal vein）",
+      "C": "腸繫膜下靜脈（inferior mesenteric vein）的血匯入脾靜脈（splenic vein）",
+      "D": "胰頭（head of pancreas）的靜脈血先進入脾靜脈（splenic vein）後再匯入肝門靜脈（hepatic portal vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 8 題",
+    "question": "有關鼠蹊韌帶（inguinal ligament）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "外端附著於髂前下棘（anterior inferior iliac spine）",
+      "B": "內端附著於恥骨結節（pubic tubercle）",
+      "C": "由腹外斜肌（external abdominal oblique muscle）的腱膜形成",
+      "D": "淺鼠蹊環（superficial inguinal ring）位於其上方"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 9 題",
+    "question": "骨盆入口（pelvic inlet）骨折最容易傷及下列何者？",
+    "options": {
+      "A": "髂骨嵴（iliac crest）",
+      "B": "恥骨梳（pecten pubis）",
+      "C": "髂骨前下棘（anterior inferior iliac spine）",
+      "D": "坐骨棘（ischial spine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 10 題",
+    "question": "下列那兩塊肌肉之遠端，附著於髂脛徑（iliotibial tract）？",
+    "options": {
+      "A": "髂肌（iliacus）與腰大肌（psoas major）",
+      "B": "闊筋膜張肌（tensor fasciae latae）與臀大肌（gluteus maximus）",
+      "C": "半膜肌（semimembranosus）與半腱肌（semitendinosus）",
+      "D": "股二頭肌（biceps femoris）與股四頭肌（quadriceps femoris）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 11 題",
+    "question": "下列何者是臂神經叢後索（posterior cord）支配闊背肌（latissimus dorsi）的分支？",
+    "options": {
+      "A": "肩胛背神經（dorsal scapular nerve）",
+      "B": "下肩胛下神經（lower subscapular nerve）",
+      "C": "長胸神經（long thoracic nerve）",
+      "D": "胸背神經（thoracodorsal nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 12 題",
+    "question": "膝關節受傷扯斷脛側副韌帶（tibial collateral ligament），下列何者最可能同時受損？",
+    "options": {
+      "A": "髕骨（patella）",
+      "B": "腓骨（fibula）",
+      "C": "內側關節盤（medial meniscus）",
+      "D": "外側關節盤（lateral meniscus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 13 題",
+    "question": "下列何者不屬於紋狀體（corpus striatum）？",
+    "options": {
+      "A": "尾狀核（caudate nucleus）",
+      "B": "殼部（putamen）",
+      "C": "黑質（substantia nigra）",
+      "D": "蒼白球（globus pallidus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 14 題",
+    "question": "大腦初級聽覺皮質（primary auditory cortex）之傳入訊息，主要來自何處？",
+    "options": {
+      "A": "內側膝狀體（medial geniculate body）",
+      "B": "上丘（superior colliculus）",
+      "C": "斜方體（trapezoid body）",
+      "D": "丘腦枕部（pulvinar of thalamus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 15 題",
+    "question": "下列何構造不位於中腦（midbrain）？",
+    "options": {
+      "A": "上小腦腳交叉（superior cerebellar peduncle decussation）",
+      "B": "黑質（substantia nigra）",
+      "C": "內側膝狀體（medial geniculate body）",
+      "D": "下丘（inferior colliculus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 16 題",
+    "question": "下列何者由腦幹（brainstem）背側發出？",
+    "options": {
+      "A": "動眼神經（oculomotor nerve）",
+      "B": "外旋神經（abducens nerve）",
+      "C": "滑車神經（trochlear nerve）",
+      "D": "副神經（accessory nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 17 題",
+    "question": "下列何者不是由頸襻（ansa cervicalis）上、下根（superior and inferior roots）的分支支配？",
+    "options": {
+      "A": "胸骨舌骨肌（sternohyoid muscle）",
+      "B": "肩胛舌骨肌（omohyoid muscle）",
+      "C": "胸骨甲狀肌（sternothyroid muscle）",
+      "D": "甲狀舌骨肌（thyrohyoid muscle）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 18 題",
+    "question": "下列何者起自第五頸神經根（C5 root），且在頸部經常穿過中斜角肌（middle scalene muscle）後支配肩胛 提肌（levator scapulae muscle）？",
+    "options": {
+      "A": "肩胛上神經（suprascapular nerve）",
+      "B": "胸長神經（long thoracic nerve）",
+      "C": "背肩胛神經（dorsal scapular nerve）",
+      "D": "鎖骨下肌神經（nerve to subclavius）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 19 題",
+    "question": "有關頭部神經或血管路徑的敘述，下列何者正確？",
+    "options": {
+      "A": "眼動脈（ophthalmic artery）穿過眶上裂（superior orbital fissure）",
+      "B": "顏面神經（facial nerve）穿過莖乳孔（stylomastoid foramen）",
+      "C": "三叉神經上頜支（maxillary division of trigeminal nerve）穿過卵圓孔（foramen ovale）",
+      "D": "前庭耳蝸神經（vestibulocochlear nerve）穿過頸靜脈孔（jugular foramen）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 20 題",
+    "question": "當以食指穿入心包橫竇（transverse pericardial sinus），那些血管會位於食指之前？",
+    "options": {
+      "A": "肺動脈與下腔靜脈",
+      "B": "主動脈與上腔靜脈",
+      "C": "主動脈與肺動脈",
+      "D": "肺靜脈與上腔靜脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 21 題",
+    "question": "左肺門附近的構造中，下列何者的位置最高？",
+    "options": {
+      "A": "肺動脈",
+      "B": "肺靜脈",
+      "C": "左支氣管",
+      "D": "肺韌帶（pulmonary ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 22 題",
+    "question": "下列何者不發出肋間動脈？",
+    "options": {
+      "A": "頭臂動脈幹（brachiocephalic trunk）",
+      "B": "內胸動脈（internal thoracic artery）",
+      "C": "肌膈動脈（musculophrenic artery）",
+      "D": "胸主動脈（thoracic aorta）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 23 題",
+    "question": "有關上縱隔（superior mediastinum）內，神經走向之敘述，下列何者正確？",
+    "options": {
+      "A": "右喉返神經（right reccurent laryngeal nerve）繞經右頭臂靜脈（right brachiocephalic vein）向上",
+      "B": "左喉返神經（left reccurent laryngeal nerve）繞經左鎖骨下動脈（left subclavian artery）向上",
+      "C": "右膈神經位於上腔靜脈（superior vena cava）和縱膈肋膜（mediastinal part of parietal pleura）間",
+      "D": "左膈神經沿降主動脈（descendig aorta）下行"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 24 題",
+    "question": "正常年輕男性呈上身直立姿勢時，肺動脈瓣之前體表投影位最接近下列何處？",
+    "options": {
+      "A": "左側第三肋間",
+      "B": "左側第五肋間",
+      "C": "右側第四肋間",
+      "D": "右側第六肋間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 25 題",
+    "question": "胰臟體部腫瘤壓迫下腸繫膜靜脈（inferior mesentery vein）接近脾靜脈（splenic vein）處，下列何者最有可 能因阻塞而膨大？",
+    "options": {
+      "A": "左胃靜脈（left gastric vein）",
+      "B": "左結腸靜脈（left colic vein）",
+      "C": "左胃網膜靜脈（left gastroepiploic vein）",
+      "D": "左腎靜脈（left renal vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 26 題",
+    "question": "下列何者的形成與腹內斜肌（internal oblique muscle）最有關？",
+    "options": {
+      "A": "腹股溝深環（deep inguinal ring）",
+      "B": "精索內筋膜（internal spermastic fascia）",
+      "C": "腔隙韌帶（lacunar ligament）",
+      "D": "聯合腱（conjoint tendon）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 27 題",
+    "question": "有關骨盆橫膈（pelvic diaphragm）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "外形呈現漏斗狀",
+      "B": "位於會陰（perineum）的頂部",
+      "C": "由提肛肌（levator ani muscle）和尾骨肌（coccygeus）及其筋膜組成",
+      "D": "排便時其肌肉收縮，幫助排出糞便"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 28 題",
+    "question": "下列何構造是會陰淺凹（superficial perineal pouch）的上界？",
+    "options": {
+      "A": "提肛肌筋膜（fascia of the levator ani muscle）",
+      "B": "會陰膜（perineal membrane）",
+      "C": "淺會陰筋膜（superficial perineal fascia）",
+      "D": "球海綿體肌筋膜（fascia of the ischiocavernosus muscle）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 29 題",
+    "question": "足底深弓動脈（deep plantar artery）主要由下列何者分支？",
+    "options": {
+      "A": "弓狀動脈（arcuate artery）",
+      "B": "足背動脈（dorsalis pedis artery）",
+      "C": "足底內側動脈（medial plantar artery）",
+      "D": "足底外側動脈（lateral plantar artery）"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ、Ｄ給分。"
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 30 題",
+    "question": "有關上肢的橈骨粗隆（radial tuberosity）與尺骨粗隆（ulnar tuberosity），分別是那兩塊肌肉的止端 （insertion site）？",
+    "options": {
+      "A": "前者是肱二頭肌（biceps brachii），後者是肱肌（brachialis）",
+      "B": "前者是肱二頭肌（biceps brachii），後者是肱三頭肌（triceps brachii）",
+      "C": "前者是肱肌（brachialis），後者是肱三頭肌（triceps brachii）",
+      "D": "前者是橈側屈腕肌（flexor carpi radialis），後者是尺側屈腕肌（flexor carpi ulnaris）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 106 年第二次醫師國考第 31 題",
+    "question": "背部，右肩胛骨內側緣與脊椎的棘突（spinous process of vertebra）間外傷出血，最可能直接傷及下列何者 的分支？",
+    "options": {
+      "A": "肩胛上動脈（suprascapular artery）",
+      "B": "肩胛下動脈（subscapular artery）",
+      "C": "頸深動脈（deep cervical artery）",
+      "D": "頸橫動脈（transverse cervical artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

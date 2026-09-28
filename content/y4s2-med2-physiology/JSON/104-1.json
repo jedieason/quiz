@@ -1,0 +1,315 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 1 題",
+    "question": "當某種離子在細胞膜兩側達成電化學平衡（electrochemical equilibrium）時，下列敘述何者正確？",
+    "options": {
+      "A": "細胞膜電位（membrane potential）等於0",
+      "B": "該種離子在細胞膜兩側之濃度相等",
+      "C": "細胞膜內側之正電荷總數等於細胞膜外側之負電荷總數",
+      "D": "此時之膜電位即為該種離子之平衡電位（equilibrium potential）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 2 題",
+    "question": "下列關於階梯電位（graded potentials）的敘述，何者正確？",
+    "options": {
+      "A": "其強度會隨著傳遞距離越遠而變小",
+      "B": "需要一定的刺激強度-閾刺激（threshold stimuli）才能引發",
+      "C": "具有絕對不反映期（refractory period）",
+      "D": "在中樞神經突觸後神經元記錄到的漸進電位，一定是去極化"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 3 題",
+    "question": "下列有關muscarinic cholinergic receptors 的敘述，何者正確？",
+    "options": {
+      "A": "是一種G-protein-coupled receptors",
+      "B": "高密度分布於骨骼肌終板（end plate）",
+      "C": "與acetylcholine 結合後能容許鈉與鉀離子通過",
+      "D": "高密度分布於交感與副交感節後神經胞體（soma）與樹突（dendrites）上"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 4 題",
+    "question": "聽覺毛細胞（auditory hair cells）去極化時，最初始的離子流動現象為何？  influx of K",
+    "options": {
+      "A": "+",
+      "B": "outflux of $K^+$",
+      "C": "influx of $Na^+$",
+      "D": "outflux of $Ca^{2+}$"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 5 題",
+    "question": "有關肌肉的長度或張力偵測系統（length- or tension-monitoring system），下列敘述何者正確？  muscle spindle",
+    "options": {
+      "A": "透過Ib fiber 負責偵測張力",
+      "B": "muscle spindle 透過Ia fiber 負責偵測長度",
+      "C": "Golgi tendon organ 透過Ib fiber 負責偵測長度",
+      "D": "Golgi tendon organ 透過Ia fiber 負責偵測張力"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 6 題",
+    "question": "在黑暗中，有關視網膜錐形細胞的敘述，下列何者錯誤？  Guanosine monophosphate",
+    "options": {
+      "A": "（GMP）濃度上升",
+      "B": "Influx of calcium",
+      "C": "細胞處於去極化狀態（depolarized state）",
+      "D": "Outer segment 膜上的鈣離子通道處於開啟狀態"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 7 題",
+    "question": "骨骼肌收縮過程中，Myosin head 藉由下列何種作用轉化為高能狀態（High-energy state）？  ATP",
+    "options": {
+      "A": "水解",
+      "B": "與Actin 結合",
+      "C": "與Titin 結合",
+      "D": "the condensation of ATP"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 8 題",
+    "question": "下列何種物質，對血液中酸鹼值調控的重要性最低？",
+    "options": {
+      "A": "蛋白質",
+      "B": "硫酸氫根",
+      "C": "碳酸氫根",
+      "D": "血紅素"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 9 題",
+    "question": "心臟移植後的病人，在短時間劇烈運動後，下列那一項參數的變化較不明顯？",
+    "options": {
+      "A": "心跳速率（heart rate）",
+      "B": "心輸出量（cardiac output）",
+      "C": "心搏出量（stroke volume）",
+      "D": "耗氧量（$O_2$ consumption）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 10 題",
+    "question": "心室肌肉之細胞膜動作電位出現一段高原期（plateau），主要是細胞膜上的離子流動產生何種變 化？",
+    "options": {
+      "A": "鈉離子流入與鉀離子流出",
+      "B": "鈣離子流入與鉀離子流出",
+      "C": "鉀離子流入與鈉離子流出",
+      "D": "鉀離子流入與鈣離子流出"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 11 題",
+    "question": "一位50 歲男性，其心輸出量（cardiac output）為每分鐘5 L，心跳速率每分鐘80 次。若測得其全身 周邊血管總阻力為22 mmHg/L/min，假設其收縮壓為150 毫米汞柱（mmHg），其舒張壓的值最接近 多少mmHg？  70",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "90",
+      "D": "110"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 12 題",
+    "question": "一位55 歲男性病患十天前因急性呼吸道感染導致肺炎，胸部X 光片顯示擴散性、雙側和快速進展的 間質性與肺泡性浸潤變化，經診斷已出現肺水腫（lung edema）和高二氧化碳血症（hypercapnia）， 下列何者不會出現在此病患？",
+    "options": {
+      "A": "擴散（diffusion）障礙",
+      "B": "換氣／灌流異常（ventilation/perfusion mismatch）",
+      "C": "增加周邊組織中氧氣與血紅素的結合度",
+      "D": "體循環動脈氧分壓（PaO2）下降"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 13 題",
+    "question": "下列何者是環境缺氧（hypoxia）時，頸動脈體（carotid body）會興奮產生動作電位（action potential） 的原因？",
+    "options": {
+      "A": "頸動脈體第二型細胞代謝率下降",
+      "B": "頸動脈體第二型細胞之鈣離子通道（$Ca^{2+}$ channel）被活化",
+      "C": "頸動脈體第一型細胞之對ATP 敏感性鉀離子通道（ATP-sensitive $K^+$ channel）被活化",
+      "D": "頸動脈體第一型細胞之對氧氣敏感性鉀離子通道（$O_2$-sensitive $K^+$ channel）被抑制"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 14 題",
+    "question": "當肺內某處的細支氣管（bronchiole）被異物阻塞時，會發生下列何種反應？",
+    "options": {
+      "A": "進入此區肺泡（alveolus）之通氣量（ventilation）增加",
+      "B": "進入此區肺泡（alveolus）之血液灌流量（perfusion）增加",
+      "C": "此區通氣量（ventilation）與血液灌流量（perfusion）之比值會改變，隨後恢復到與其它正常區域 相近",
+      "D": "鄰近的血管舒張（vasodilation）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 15 題",
+    "question": "下列何者是人體肝臟產生的膽汁中，膽紅素（bilirubin）的來源？",
+    "options": {
+      "A": "膽鹽（bile salts）",
+      "B": "血紅素（hemoglobin）",
+      "C": "血清素（serotonin）",
+      "D": "膽固醇（cholesterol）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 16 題",
+    "question": "下列何者不會促進胃相期（gastric phase）之胃酸分泌？",
+    "options": {
+      "A": "胃壁受到食物擴張",
+      "B": "蛋白質消化後之產物",
+      "C": "胰泌素（secretin）分泌增加",
+      "D": "刺激迷走神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 17 題",
+    "question": "在代謝性酸中毒（metabolic acidosis）時，呼吸系統最可能發生下列何種變化？",
+    "options": {
+      "A": "呼吸頻率增加（enhanced respiratory frequency）",
+      "B": "呼吸終止症候群（apnea syndrome）",
+      "C": "陳施氏呼吸（Cheyne-Stokes respiration）",
+      "D": "逆向式呼吸（paradoxical respiration）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 18 題",
+    "question": "當經過亨氏管上行粗枝與遠端小管的流速增加時，同一腎元的腎小球過濾率會降低。反之，流速降 低引起腎小球過濾率上升。上述的腎臟生理現象稱為：",
+    "options": {
+      "A": "腎小管-腎小球回饋（tubuloglomerular feedback）",
+      "B": "腎小球-腎小管平衡（glomerulotubular balance）",
+      "C": "逆流交換（countercurrent exchange）",
+      "D": "逆流倍增（countercurrent multiplier）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 19 題",
+    "question": "關於腎小管對於腎小球過濾液中鈉離子再吸收的描述，下列何者錯誤？  60%",
+    "options": {
+      "A": "腎小球過濾液中的鈉離子在近曲小管被再吸收",
+      "B": "亨氏管上行段粗枝的基底外側細胞膜會利用鈉-鉀-氯協同轉運蛋白（Na-K-2Cl cotransporter）再吸 收30%腎小球過濾液中的鈉離子",
+      "C": "遠曲小管（distal convoluted tubule）會利用頂膜（apical membrane）的鈉-氯協同轉運蛋白（Na-Cl cotransporter）再吸收7%腎小球過濾液中的鈉離子",
+      "D": "集尿管（collecting duct）會利用頂膜的上皮鈉離子通道（epithelial sodium channel）再吸收3%腎小 球過濾液中的鈉離子"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 20 題",
+    "question": "下列何種激素會增加鈉離子的排泄？  aldostero",
+    "options": {
+      "A": "ne",
+      "B": "renin",
+      "C": "atrial natriuretic peptide",
+      "D": "angiotensin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 21 題",
+    "question": "下列何者由下視丘所分泌？  LH",
+    "options": {
+      "A": "（luteinizing hormone）",
+      "B": "TSH（thyroid stimulating hormone）",
+      "C": "Dopamine",
+      "D": "Vasopressin"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ或CD者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 22 題",
+    "question": "體液滲透壓增加時，較易促進下列何者的分泌？",
+    "options": {
+      "A": "黃體素（progesterone）",
+      "B": "醛固酮（aldosterone）",
+      "C": "皮質素（cortisol）",
+      "D": "升壓素（vasopressin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 23 題",
+    "question": "有關胰島素的作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "胰島素與生長激素對促進生長有加成作用",
+      "B": "胰島素可促進腦神經細胞的葡萄糖吸收與利用",
+      "C": "在胰島素缺乏時，會促進酮體（ketone bodies）的產生",
+      "D": "胰島素升高會抑制肝臟糖質新生作用（gluconeogenesis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 24 題",
+    "question": "蝕骨細胞（osteoclast）最主要是由下列何種細胞分化而來？  Monocyte",
+    "options": {
+      "A": "Monocyte",
+      "B": "Neutrophil",
+      "C": "Basophil",
+      "D": "T lymphocyte"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 25 題",
+    "question": "下列何者非Sertoli cell 的主要功能？",
+    "options": {
+      "A": "吞噬有缺陷（defective）的精子",
+      "B": "分泌paracrine 分子來影響Leydig cell 的功能",
+      "C": "接受LH 的刺激來分泌testosterone",
+      "D": "分泌Müllerian-inhibiting substance 來調控性別分化"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

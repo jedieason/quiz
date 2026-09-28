@@ -11,4 +11,25 @@ export const SUBJECT_DATA = [
     { year: "三年級", title: "神經解剖學", subtitle: "三下小考", icon: "brain-circuit", url: "/content/y3s2-neuroanatomy-quiz" },
     { year: "三年級", title: "神經解剖學", subtitle: "三下期末Lab", icon: "brain-circuit", url: "/content/y3s2-neuroanatomy-lab" },
     { year: "三年級", title: "生理學", subtitle: "三下實驗", icon: "activity", url: "/content/y3s2-physiology-lab" },
+
+    // 四年級 - 國考醫學《一》
+    { year: "四年級", title: "國考醫學《一》", subtitle: "解剖學", icon: "skull", url: "/content/y4s2-med1-anatomy" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "組織學", icon: "microscope", url: "/content/y4s2-med1-histology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "胚胎學", icon: "baby", url: "/content/y4s2-med1-embryology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "生理學", icon: "activity", url: "/content/y4s2-med1-physiology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "生物化學", icon: "dna", url: "/content/y4s2-med1-biochemistry" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "免疫學", icon: "shield", url: "/content/y4s2-med1-immunology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "微生物學", icon: "biohazard", url: "/content/y4s2-med1-microbiology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "寄生蟲學", icon: "bug", url: "/content/y4s2-med1-parasitology" },
+    { year: "四年級", title: "國考醫學《一》", subtitle: "公共衛生學", icon: "users", url: "/content/y4s2-med1-public-health" },
+
+    // 四年級 - 國考醫學《二》
+    { year: "四年級", title: "國考醫學《二》", subtitle: "病理學", icon: "stethoscope", url: "/content/y4s2-med2-pathology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "藥理學", icon: "pill", url: "/content/y4s2-med2-pharmacology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "生理學", icon: "activity", url: "/content/y4s2-med2-physiology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "生物化學", icon: "dna", url: "/content/y4s2-med2-biochemistry" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "微生物學", icon: "biohazard", url: "/content/y4s2-med2-microbiology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "免疫學", icon: "shield", url: "/content/y4s2-med2-immunology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "寄生蟲學", icon: "bug", url: "/content/y4s2-med2-parasitology" },
+    { year: "四年級", title: "國考醫學《二》", subtitle: "公共衛生學", icon: "users", url: "/content/y4s2-med2-public-health" },
 ];

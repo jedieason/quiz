@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "出自 112 年第一次醫師國考第 32 題",
+    "question": "下列關於頭側神經孔（rostral neuropore）與尾側神經孔（caudal neuropore）關閉時間的比較，何者正確？",
+    "options": {
+      "A": "頭側神經孔提早2到3 天關閉",
+      "B": "尾側神經孔提早2到3 天關閉",
+      "C": "頭側神經孔提早7到9 天關閉",
+      "D": "尾側神經孔提早7到9 天關閉"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 33 題",
+    "question": "下列何者為舌頭咽喉部（pharyngeal part of tongue）的胚胎起源？",
+    "options": {
+      "A": "遠端舌芽（distal tongue bud）",
+      "B": "中央舌芽（median tongue bud）",
+      "C": "盲孔（foramen cecum）",
+      "D": "咽下隆起（hypopharyngeal eminence）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 34 題",
+    "question": "發育正常的胚胎至第幾週時，會發生生理性臍疝（physiological umbilical herniation）？",
+    "options": {
+      "A": "第六週",
+      "B": "第八週",
+      "C": "第十週",
+      "D": "第十二週"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 35 題",
+    "question": "骨骼系統的發育主要來自那兩種構造？①中胚層（mesoderm） ②內胚層（endoderm） ③神經外胚層 （neuroectoderm） ④神經嵴（neural crest）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "①④",
+      "D": "②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第一次醫師國考第 36 題",
+    "question": "下列有關角膜（cornea）發育來源的敘述，何者錯誤？",
+    "options": {
+      "A": "角膜形成主要來自視網膜（retina）的誘導",
+      "B": "角膜間葉（mesenchyme）衍生自中胚層（mesoderm）",
+      "C": "角膜內皮細胞（endothelium）衍生自神經嵴細胞（neural crest cells）",
+      "D": "角膜外層上皮（external corneal epithelium）衍生自體表外胚層（surface ectoderm）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

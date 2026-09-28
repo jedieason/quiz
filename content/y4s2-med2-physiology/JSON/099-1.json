@@ -1,0 +1,319 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 1 題",
+    "question": "一位50 歲女性，近兩日感到頭暈目眩且運動時也有呼吸急促現象，在心臟科門診發現心跳每分鐘只 有36 次，以下關於心臟傳導之敘述何者錯誤？",
+    "options": {
+      "A": "心肌之去極化始於SA（sinoatrial）node，並造成之後心房之收縮",
+      "B": "AV（atrioventricular）node 作用電位（action potential）之傳導速率相對較快，以使心室可以緊接 著心房而收縮",
+      "C": "傳導系統中各組成部分之自主性（automaticity）速率快慢為：SA node > AV node > Bundle of His",
+      "D": "心電圖上徒有P 波卻無緊接之QRS 波組，可能代表心房心室間之傳導阻滯"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 2 題",
+    "question": "一般人處在光亮環境一段時間後，眼睛對光線的敏感度會減低，這種現象稱為光適應（light adaptation）， 其主要的形成機制與光感細胞（photoreceptor cells）之何種變化有關？",
+    "options": {
+      "A": "胞內之cGMP 含量降低",
+      "B": "胞內之rhodopsin 含量降低",
+      "C": "細胞之數量減少",
+      "D": "細胞膜上之鈉離子通道（sodium channels）不活化"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 3 題",
+    "question": "大量失血時，身體透過許多機轉引起口渴而增加飲水量，以下何者是合理機轉？",
+    "options": {
+      "A": "體液之osmolarity 改變，活化下視丘之osmoreceptor 而引發口渴",
+      "B": "血壓下降，活化位於心臟及血管壁之baroreceptor，最後訊號透過下視丘引發口渴",
+      "C": "增加renin 之釋放，renin 作用於下視丘引發口渴",
+      "D": "血液中angiotensin II 的濃度增加，並作用於subfornical organ（位於diencephalon），最後訊號透 過下視丘引發口渴"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 4 題",
+    "question": "下列關於單元性（single-unit）平滑肌的敘述，何者錯誤？",
+    "options": {
+      "A": "每個細胞必須接受神經調控，產生收縮作用",
+      "B": "細胞間有許多的裂隙接合（gap junction）",
+      "C": "也許會有節律器的活動",
+      "D": "受到牽拉時會產生收縮"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 5 題",
+    "question": "下列有關一氧化氮（nitric oxide）之敘述，何者正確？",
+    "options": {
+      "A": "是化學性（chemical）傳遞物質（messenger）可活化adenylate cyclase",
+      "B": "由L-arginine 與氧分子作用形成",
+      "C": "可導致血管壁收縮（constriction of blood vessels）",
+      "D": "是極安定之氣體分子"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 6 題",
+    "question": "下列何者不會促進胃相期（gastric phase）之胃酸分泌？",
+    "options": {
+      "A": "胃壁受到食物擴張",
+      "B": "消化蛋白質之產物",
+      "C": "胰泌素（secretin）分泌增加",
+      "D": "刺激迷走神經"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 7 題",
+    "question": "下列關於膽囊收縮素（cholecystokinin）之敘述，何者正確？",
+    "options": {
+      "A": "促進胃排空（gastric emptying）作用",
+      "B": "刺激胰臟分泌富含酵素的胰液",
+      "C": "受迷走神經（vagus nerve）刺激而分泌",
+      "D": "受十二指腸壁擴張而分泌"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 8 題",
+    "question": "下列有關視神經盤（optic disc）的敘述，何者錯誤？",
+    "options": {
+      "A": "視神經盤和黃斑（macula densa）是視網膜（retina）上兩個不同的構造",
+      "B": "視神經盤富含光感受器（photoreceptor）",
+      "C": "視神經盤為視網膜與視神經（optic nerve）交界處",
+      "D": "視野（visual field）檢查的盲點（blind spot）位於視神經盤"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 9 題",
+    "question": "有關右眼之右視野（即外側視野）訊息之敘述，何者正確？",
+    "options": {
+      "A": "經由right optic nerve 傳遞，在optic chiasm 交叉，然後經由left optic tract 傳至左側thalamus",
+      "B": "經由right optic nerve 傳遞，在optic chiasm 不交叉，然後經由right optic tract 傳至右側thalamus",
+      "C": "經由right optic tract 傳遞，在optic chiasm 交叉，然後經由left optic radiation 傳至左側thalamus",
+      "D": "經由right optic tract 傳遞，在optic chiasm 不交叉，然後經由right optic radiation 傳至右側thalamus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 10 題",
+    "question": "肝臟所生產之白蛋白（albumin）在循環系統中扮演下列何種角色？",
+    "options": {
+      "A": "形成抗體",
+      "B": "產生滲透壓",
+      "C": "參與凝血機制",
+      "D": "參與抗凝血機制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 11 題",
+    "question": "氧飽和度（oxygen saturation）主要是在觀察那一項生理指標？",
+    "options": {
+      "A": "氧氣直接溶解",
+      "B": "氧氣與血紅素（hemoglobin）結合量",
+      "C": "氧氣直接溶解與血紅素結合的總量",
+      "D": "氣體交換程度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 12 題",
+    "question": "下列關於鐵（iron）的吸收之敘述，何者正確？",
+    "options": {
+      "A": "食物中的鐵離子可百分之百的被吸收",
+      "B": "以載體（transporter）運輸的方式被吸收",
+      "C": "主要以Fe3+的形式吸收",
+      "D": "酸性環境抑制鐵的吸收"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 13 題",
+    "question": "下列何種物質，對血液中酸鹼值調控的重要性最低？",
+    "options": {
+      "A": "蛋白質",
+      "B": "硫酸氫根",
+      "C": "碳酸氫根",
+      "D": "血紅素"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 14 題",
+    "question": "關於胃壁細胞（parietal cells）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "$H^+$/$K^+$ ATPase幫浦位於壁細胞頂端細胞膜（apical membrane）",
+      "B": "壁細胞內之$H^+$經由初級主動運輸（primary active transport）分泌至胃腔中",
+      "C": "$Cl^-$經由位於壁細胞頂端細胞膜之通道分泌至胃腔中，此通道受到細胞內cAMP的調控",
+      "D": "HCO3 -與$Cl^-$於壁細胞底側細胞膜（basolateral membrane）以共同運輸進入壁細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 15 題",
+    "question": "鬱血性心臟衰竭（congestive heart failure）病患合併有肺水腫（pulmonary edema），下列敘述何者錯 誤？",
+    "options": {
+      "A": "肺微血管壓力增加",
+      "B": "頸靜脈壓力增加",
+      "C": "平躺後可使症狀減輕",
+      "D": "嚴重時會影響肺泡之氣體交換"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 16 題",
+    "question": "醛固酮（aldosterone）主要是從腎上腺的何處分泌？",
+    "options": {
+      "A": "絲球帶（zona glomerulosa）",
+      "B": "囊狀帶（zona fasciculata）",
+      "C": "網狀帶（zona reticularis）",
+      "D": "髓質（medulla）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 17 題",
+    "question": "降鈣素（calcitonin）主要是與何種荷爾蒙有生理拮抗（antagonist）作用？",
+    "options": {
+      "A": "甲狀腺素（thyroxine）",
+      "B": "促濾泡素（FSH）",
+      "C": "雄性素（androgen）",
+      "D": "副甲狀腺素（PTH）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 18 題",
+    "question": "有關肺通氣量與血液灌流量比值不吻合（  mismatch）之敘述，下列何者錯誤？  Q / VA & &",
+    "options": {
+      "A": "不存在於正常的肺中",
+      "B": "肺泡無效腔（alveolar dead space）的形成，可增加 mismatch Q / VA & &",
+      "C": "相較於肺通氣量，太多或太少的血液灌流量，皆可導致 mismatch Q / VA & &",
+      "D": "慢性支氣管炎（chronic bronchitis）患者發生 mismatch 之機率較大 Q / VA & &"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 19 題",
+    "question": "母乳中含有免疫球蛋白A（IgA）及何種成分有助於嬰兒抗拒感染（infection）？",
+    "options": {
+      "A": "乳糖（lactose）",
+      "B": "脂肪",
+      "C": "酪蛋白（casein）",
+      "D": "乳鐵蛋白（lactoferrin）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 20 題",
+    "question": "一位腦中風（stroke）患者，其身體檢查發現有一側肢體的軀體感覺（somatosensory）功能缺損，而 肌力（muscle power）正常。腦中風病灶最有可能位於：",
+    "options": {
+      "A": "大腦額葉（frontal lobe）",
+      "B": "大腦顳葉（temporal lobe）",
+      "C": "視丘（thalamus）",
+      "D": "大腦枕葉（occipital lobe）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 21 題",
+    "question": "慢性骨髓性白血病患者週邊血液及骨髓內紅血球系列、白血球系列及血小板系列，各成熟階段之血 球均具有費城染色體（Philadelphia chromosome），由此可以推斷，此病最早發生染色體異常之起始 細胞層級為何？",
+    "options": {
+      "A": "淋巴球幹細胞（lymphoid stem cell）",
+      "B": "骨髓性幹細胞（myeloid stem cell）",
+      "C": "多源性造血幹細胞（pluripotent hematopoietic stem cell）",
+      "D": "胚胎幹細胞（embryonic stem cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 22 題",
+    "question": "吳先生因身體不適至醫院就診，體循環血液數值顯示：動脈血氧分壓（PaO2）為55 mmHg，動脈血 二氧化碳分壓（PaCO2）為61 mmHg，酸鹼值為7.16，碳酸氫根（HCO3 -）為24.5 mEq/L。這名患者 最可能的診斷為何？",
+    "options": {
+      "A": "急性呼吸道阻塞",
+      "B": "慢性呼吸道阻塞",
+      "C": "腎衰竭",
+      "D": "腎衰竭合併呼吸代償"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 23 題",
+    "question": "有關細胞外液（extracellular fluid, ECF）的敘述，何者錯誤？",
+    "options": {
+      "A": "氯離子為細胞外液之主要陰離子",
+      "B": "鉀離子為細胞外液之主要陽離子",
+      "C": "造成細胞內外液之主要陽離子不同之主要原因為位於細胞膜上之$Na^+$/$K^+$ ATPase",
+      "D": "一位體重70 公斤的成年男性其細胞外液量約為14 公升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 24 題",
+    "question": "當膜內外氯離子濃度呈1：10 之比例分布時，倘若容許氯離子通透，則下列何者正確？",
+    "options": {
+      "A": "膜電位將逼近氯離子平衡電位",
+      "B": "當膜電位未達氯離子平衡電位之前，氯離子流動方向為自胞內向胞外",
+      "C": "當膜電位未達氯離子平衡電位之前，氯離子電流流動方向為自胞外向胞內",
+      "D": "當膜電位達氯離子平衡電位時，氯離子電流流動方向為自胞內向胞外"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｃ或 Ｄ者給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 25 題",
+    "question": "當ligand-gated ion channel 被打開時，可容許鈉離子與鉀離子以1：1 比例流通。若此神經細胞之靜 止膜電位為-60mV，則這種ion channel 被打開時膜電位如何變化？",
+    "options": {
+      "A": "去極化",
+      "B": "過極化",
+      "C": "不變",
+      "D": "不一定"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]

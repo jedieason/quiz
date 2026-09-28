@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 112 年第二次醫師國考第 1 題",
+    "question": "光線照射右眼會使得雙側瞳孔同時縮小，這主要是因為右側的頂蓋前區（pretectal area）接收光線刺激後，其神 經纖維經由下列何者傳遞到左側的E-W 神經核（Edinger-Westphal nucleus）？",
+    "options": {
+      "A": "前聯合神經束（anterior commissure）",
+      "B": "後聯合神經束（posterior commissure）",
+      "C": "視神經交叉（optic chiasma）",
+      "D": "上小腦腳交叉（superior cerebellar decussation）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 2 題",
+    "question": "下列何者由脊髓背核（nucleus dorsalis of Clarke）發出，主要傳遞下肢的本體感覺（proprioception of lower  limbs）？",
+    "options": {
+      "A": "背側脊髓小腦徑（dorsal spinocerebellar tract）",
+      "B": "腹側脊髓小腦徑（ventral spinocerebellar tract）",
+      "C": "楔狀核小腦徑（cuneocerebellar tract）",
+      "D": "吻端脊髓小腦徑（rostral spinocerebellar tract）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 3 題",
+    "question": "下列何者不是基底核直接迴路（direct basal ganglia pathway）傳遞路徑的主要構造？",
+    "options": {
+      "A": "殼核（putamen）",
+      "B": "內蒼白球（internal segment of globus pallidus）",
+      "C": "丘腦下核（subthalamus）",
+      "D": "丘腦（thalamus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 4 題",
+    "question": "下列何者由海馬回（hippocampus）發出，傳遞至乳頭體（mamillary body）？",
+    "options": {
+      "A": "終紋（stria terminalis）",
+      "B": "穹窿（fornix）",
+      "C": "內側前腦束（medial forebrain bundle）",
+      "D": "內側縱束（medial longitudinal fasciculus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 5 題",
+    "question": "關於交感節前神經元（sympathetic preganglionic neuron）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "細胞體主要位於脊髓灰質（gray matter of spinal cord）之lamina VII",
+      "B": "可接受下視丘脊髓徑（hypothalamospinal fiber）之訊息",
+      "C": "神經元位於脊髓背核（nucleus dorsalis of Clarke）中",
+      "D": "脊髓胸段（thoracic spinal cord）含有交感節前神經元"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 6 題",
+    "question": "下列有關眼球血管之敘述，何者正確？",
+    "options": {
+      "A": "眼動脈（ophthalmic artery）經由視神經管（optic canal）進入眼眶",
+      "B": "眼動脈（ophthalmic artery）為中腦膜動脈（middle meningeal artery）之分支",
+      "C": "眼下靜脈（inferior ophthalmic vein）通過共同腱環（common tendinous ring）進入眼眶",
+      "D": "淚動脈（lacrimal artery）位於視神經內側"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 7 題",
+    "question": "下列有關頸外靜脈（external jugular vein）的描述，何者正確？",
+    "options": {
+      "A": "屬於頸部深層靜脈",
+      "B": "位於胸鎖乳突肌（sternocleidomastoid muscle）之下",
+      "C": "與迷走神經（vagus nerve）伴行",
+      "D": "收集部分顏面的血液後注入鎖骨下靜脈（subclavian vein）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 8 題",
+    "question": "病人主訴聲音嘶啞且口咽部和舌後三分之一的感覺喪失，經檢查發現顱底有一腫瘤。此腫瘤最可能存在下列何 處？",
+    "options": {
+      "A": "盲孔（foramen cecum）處",
+      "B": "圓孔（foramen rotundum）處",
+      "C": "頸靜脈孔（jugular foramen）處",
+      "D": "枕骨大孔（foramen magnum）處"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 9 題",
+    "question": "下列那一條神經，會穿過甲狀舌骨膜（thyrohyoid membrane）進入喉部？",
+    "options": {
+      "A": "舌咽神經（glossopharyngeal nerve）",
+      "B": "內喉神經（internal laryngeal nerve）",
+      "C": "外喉神經（external laryngeal nerve）",
+      "D": "喉返神經（recurrent laryngeal nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 10 題",
+    "question": "下列何者不會出現在眼窩的共同腱環（common tendinous ring）內？",
+    "options": {
+      "A": "第三對腦神經（CN III）",
+      "B": "第四對腦神經（CN IV）",
+      "C": "第五對腦神經（CN V）",
+      "D": "第六對腦神經（CN VI）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 11 題",
+    "question": "耳咽管（auditory tube）開口於鼓室腔（tympanic cavity）的何處？",
+    "options": {
+      "A": "前壁",
+      "B": "後壁",
+      "C": "內壁",
+      "D": "外壁"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 12 題",
+    "question": "下列何者收縮可造成聲門裂（rima glottidis）打開？",
+    "options": {
+      "A": "後環杓肌（posterior cricoarytenoid muscle）",
+      "B": "外側環杓肌（lateral cricoarytenoid muscle）",
+      "C": "橫杓肌（transverse arytenoid muscle）",
+      "D": "斜杓肌（oblique arytenoid muscle）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 13 題",
+    "question": "下列何者部分起自翼下頷縫（pterygomandibular raphe）？",
+    "options": {
+      "A": "口輪匝肌（orbicularis oris）",
+      "B": "笑肌（risorius）",
+      "C": "顴大肌（zygomaticus major）",
+      "D": "頰肌（buccinator）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 14 題",
+    "question": "竇房結（sinoatrial node）最常出現在何處？",
+    "options": {
+      "A": "位於冠狀竇（coronary sinus）開口處附近",
+      "B": "位於界嵴（crista terminalis）靠近上腔靜脈與右心房的交界處",
+      "C": "位於房室間隔（atrioventricular septum）內",
+      "D": "位於上腔靜脈與心房間隔（interatrial septum）的交界處"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 15 題",
+    "question": "意外造成第四肋間、胸骨左緣穿刺傷，下列心臟的那個部位可能最先受損？",
+    "options": {
+      "A": "左心房",
+      "B": "左心室",
+      "C": "右心房",
+      "D": "右心室"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 16 題",
+    "question": "肺葉小舌（lingula of lung）位在肺部的那一個位置？",
+    "options": {
+      "A": "右肺上葉（superior lobe of right lung）",
+      "B": "左肺上葉（superior lobe of left lung）",
+      "C": "左肺下葉（inferior lobe of left lung）",
+      "D": "右肺下葉（inferior lobe of right lung）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 17 題",
+    "question": "肋溝（costal groove）內的肋間血管、神經，由上到下之順序為：",
+    "options": {
+      "A": "肋間動脈、肋間靜脈、肋間神經",
+      "B": "肋間神經、肋間靜脈、肋間動脈",
+      "C": "肋間靜脈、肋間動脈、肋間神經",
+      "D": "肋間神經、肋間動脈、肋間靜脈"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 18 題",
+    "question": "下列何者穿過橫膈（diaphragm）的中央肌腱（central tendon）？",
+    "options": {
+      "A": "主動脈（aorta）",
+      "B": "食道（esophagus）",
+      "C": "迷走神經幹（vagal trunk）",
+      "D": "下腔靜脈（inferior vena cava）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 19 題",
+    "question": "下列何者不是大腸（large intestine）的特徵？",
+    "options": {
+      "A": "腸脂垂（omental appendices）",
+      "B": "結腸帶（teniae coli）",
+      "C": "結腸袋（haustra）",
+      "D": "大彎（greater curvature）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 20 題",
+    "question": "直接型腹股溝疝氣（direct inguinal hernia）好發於下列何處？",
+    "options": {
+      "A": "腹股溝外側窩（lateral inguinal fossa）",
+      "B": "腹股溝內側窩（medial inguinal fossa）",
+      "C": "膀胱上窩（supravesical fossa）",
+      "D": "鼠蹊韌帶（inguinal ligament）的下側"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 21 題",
+    "question": "闌尾炎初期出現肚臍附近（periumbilical）疼痛感，此痛覺與下列何脊髓節段有關？",
+    "options": {
+      "A": "T6",
+      "B": "T10",
+      "C": "L1",
+      "D": "L5"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 22 題",
+    "question": "下列何構造延伸通過腹股溝管（inguinal canal）？",
+    "options": {
+      "A": "子宮圓韌帶（round ligament of uterus）",
+      "B": "卵巢韌帶（ligament of ovary）",
+      "C": "子宮薦骨韌帶（uterosacral ligament）",
+      "D": "主韌帶（cardinal ligament）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 23 題",
+    "question": "關於陰莖（penis），下列敘述何者正確？",
+    "options": {
+      "A": "陰莖背動脈（dorsal artery of penis）走在陰莖背面，位於巴克氏筋膜（Buck's fascia）的淺層",
+      "B": "陰莖海綿體（corpus cavernosum）血液的供應，主要來自陰莖背動脈（dorsal artery of penis）",
+      "C": "陰莖深背靜脈（deep dorsal vein of penis）走在陰莖背面，位於巴克氏筋膜（Buck's fascia）的深層",
+      "D": "陰莖沒有淋巴管的分布"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 24 題",
+    "question": "下列何者不供應輸尿管（ureter）的血液？",
+    "options": {
+      "A": "下膀胱動脈（inferior vesical artery）",
+      "B": "閉孔動脈（obturator artery）",
+      "C": "子宮動脈（uterine artery）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 25 題",
+    "question": "直腸一般內臟感覺（visceral afferent）的初級神經元（primary sensory neuron）位於何處？",
+    "options": {
+      "A": "L4～5 之背根神經節（dorsal root ganglia）",
+      "B": "L1～3 之背根神經節（dorsal root ganglia）",
+      "C": "S2～4 之背根神經節（dorsal root ganglia）",
+      "D": "T10～12 之背根神經節（dorsal root ganglia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 26 題",
+    "question": "三角肌粗隆（deltoid tuberosity）出現在下列何骨頭上？",
+    "options": {
+      "A": "胸骨（sternum）",
+      "B": "鎖骨（clavicle）",
+      "C": "肱骨（humerus）",
+      "D": "肩胛骨（scapula）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 27 題",
+    "question": "下列何者在屈肌支持帶（flexor retinaculum）的淺層？",
+    "options": {
+      "A": "尺動脈（ulnar artery）",
+      "B": "正中神經（median nerve）",
+      "C": "屈拇長肌（flexor pollicis longus）",
+      "D": "屈指淺肌（flexor digitorum superficialis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 28 題",
+    "question": "下列有關膝關節前十字韌帶（anterior cruciate ligament）位置的敘述，何者正確？",
+    "options": {
+      "A": "位於關節囊（articular capsule）及滑液囊（synovial sac）內",
+      "B": "位於關節囊（articular capsule）內，但是在滑液囊（synovial sac）外",
+      "C": "位於關節囊（articular capsule）外，但包在滑液囊（synovial sac）內",
+      "D": "位於關節囊（articular capsule）及滑液囊（synovial sac）外"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 29 題",
+    "question": "膝跳反射（knee jerk reflex）主要檢測下列那個脊髓節段的功能？",
+    "options": {
+      "A": "T9～T12",
+      "B": "T11～L1",
+      "C": "L2～L4",
+      "D": "L5～S2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 30 題",
+    "question": "下列何者的肌腱會從外側橫跨足底，附著於足底內側的第一蹠骨（first metatarsal）與楔狀骨（cuneiform）？",
+    "options": {
+      "A": "腓骨短肌（fibularis brevis）",
+      "B": "腓骨長肌（fibularis longus）",
+      "C": "屈𧿹長肌（flexor hallucis longus）",
+      "D": "屈趾長肌（flexor digitorum longus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 112 年第二次醫師國考第 31 題",
+    "question": "撞擊導致手肘部位的旋前圓肌（pronator teres）中央撕裂傷，下列何者最可能直接受到傷害？",
+    "options": {
+      "A": "橈神經（radial nerve）",
+      "B": "尺神經（ulnar nerve）",
+      "C": "正中神經（median nerve）",
+      "D": "正中神經（median nerve）與尺神經（ulnar nerve）均受影響"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

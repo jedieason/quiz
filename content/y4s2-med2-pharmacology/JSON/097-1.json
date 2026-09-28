@@ -1,0 +1,310 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 51 題",
+    "question": "干擾素（interferons, Type I and II）具有對抗病毒與誘發免疫反應之作用，其中那一型干擾素對於提 升人類免疫功能最強？",
+    "options": {
+      "A": "δ",
+      "B": "γ",
+      "C": "β",
+      "D": "α"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 52 題",
+    "question": "下列那種corticosteroid 的抗發炎作用最強？",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Dexamethasone",
+      "C": "Fludrocortisone",
+      "D": "Desoxycorticosterone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 53 題",
+    "question": "下列抗心律不整藥物中，何者較不會引起Torsade de pointes 的副作用？",
+    "options": {
+      "A": "Amiodarone",
+      "B": "Sotalol",
+      "C": "Dofetilide",
+      "D": "Quinidine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 54 題",
+    "question": "下列何種藥物最常用於預防早產？",
+    "options": {
+      "A": "Isoproterenol",
+      "B": "Albuterol",
+      "C": "Salmeterol",
+      "D": "Ritodrine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 55 題",
+    "question": "化學療法引起之嚴重嘔吐，下列何種藥物最有效？",
+    "options": {
+      "A": "Bethanechol",
+      "B": "Ondansetron",
+      "C": "Scopolamine",
+      "D": "Diphenhydramine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 56 題",
+    "question": "下列何者可抑制TNF-α 作用而用來治療風濕性關節炎？",
+    "options": {
+      "A": "Etanercept",
+      "B": "Allopurinol",
+      "C": "Sulfinpyrazone",
+      "D": "Methotrexate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 57 題",
+    "question": "下列那一種抗癲癇藥物使用在2 歲以下的嬰幼兒容易發生肝臟毒性，一般常在使用後的4 個月內會 發生？",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Vigabatrin",
+      "C": "Ethosuximide",
+      "D": "Diazepam"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 58 題",
+    "question": "常見工業用甲醇中毒（methanol intoxication）時，可以靜脈注射下列何者來延緩甲醇的毒性代謝產物 產生？",
+    "options": {
+      "A": "甲酸（formic acid）",
+      "B": "乙烯乙二醇（ethylene glycol）",
+      "C": "乙醇（ethanol）",
+      "D": "異丙醇（isopropanol）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 59 題",
+    "question": "下列有關鎮靜-催眠（sedative-hypnotic）藥物作用之描述，何者正確？",
+    "options": {
+      "A": "benzodiazepines 類藥物較barbiturates 類藥物容易引起呼吸抑制的副作用",
+      "B": "barbiturates 類藥物會直接打開GABAA 受體氯離子管道，但benzodiazepines 類藥物則否",
+      "C": "鎮靜-催眠藥物與酒精不會彼此間產生交互依賴性（cross-dependence）的現象",
+      "D": "長效型藥物在停藥後所產生的戒斷現象（withdrawal symptoms）通常較短效型藥物嚴重"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 60 題",
+    "question": "下列那一種藥物具有減緩動暈症（motion sickness）所引起的嘔吐作用？",
+    "options": {
+      "A": "Desipramine",
+      "B": "Chlorpromazine",
+      "C": "Imipramine",
+      "D": "Fluoxetine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 61 題",
+    "question": "RU-486（mifepristone）可以用在人工流產，是因為其主要拮抗下列何種受體？",
+    "options": {
+      "A": "glucocorticoid",
+      "B": "androgen",
+      "C": "estrogen",
+      "D": "progesterone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 62 題",
+    "question": "下述何種制酸劑有便秘（constipation）之不良作用？",
+    "options": {
+      "A": "氫氧化鎂",
+      "B": "氫氧化鋁",
+      "C": "碳酸鈣",
+      "D": "小蘇打"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 63 題",
+    "question": "下列何種神經肌肉阻斷劑雖不會引起histamine 釋放，但卻會因阻斷norepinephrine 再回收而產生心 跳過快和血壓上升的副作用？",
+    "options": {
+      "A": "Pancuronium",
+      "B": "Atracurium",
+      "C": "Doxacurium",
+      "D": "Alcuronium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 64 題",
+    "question": "下列何種降血壓藥物的作用機轉是透過阻斷AT1 receptor 而達成的？",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Diltiazem",
+      "C": "Valsartan",
+      "D": "Amiloride"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 65 題",
+    "question": "下列何者是屬於第三類（class Ⅲ）抗心律不整的藥物，其作用機轉是阻斷$K^+$ channels？",
+    "options": {
+      "A": "Amiodarone",
+      "B": "Atenolol",
+      "C": "Propafenone",
+      "D": "Diltiazem"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 66 題",
+    "question": "臨床上用於治療Raynaud’s disease 之血管舒張劑，何者之作用機轉是抑制α1-adrenergic receptor？",
+    "options": {
+      "A": "Hydralazine",
+      "B": "Prazosin",
+      "C": "Minoxidil",
+      "D": "Sildenafil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 67 題",
+    "question": "下列關於calcitonin 的敘述，何者錯誤？",
+    "options": {
+      "A": "由32 個胺基酸組成",
+      "B": "主要由甲狀腺（thyroid）分泌",
+      "C": "和血漿蛋白（plasma protein）結合能力強，所以在肝臟以及腎臟代謝緩慢",
+      "D": "可用來治療Paget 氏疾病（Paget’s disease of bone）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 68 題",
+    "question": "下列何種藥物會抑制甲狀腺素的釋放（release）？",
+    "options": {
+      "A": "Iopanoate",
+      "B": "Methimazole",
+      "C": "Glucocorticoids",
+      "D": "Lithium"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 69 題",
+    "question": "下列何種藥品不會導致子宮鬆弛，故不能當做安胎藥？",
+    "options": {
+      "A": "Ritodrine",
+      "B": "Indomethacin",
+      "C": "Terbutaline",
+      "D": "Misoprostol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 70 題",
+    "question": "下列那一種免疫抑制劑之作用機轉在於抑制inosine monophosphate dehydrogenase 而進一步減低T 及 B 淋巴細胞增生？",
+    "options": {
+      "A": "Azathioprine",
+      "B": "Cyclosporine",
+      "C": "Mycophenolate mofetil",
+      "D": "Tacrolimus"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 71 題",
+    "question": "下列免疫抑制劑與其主要毒性作用之配對，何者錯誤？",
+    "options": {
+      "A": "Corticosteroids：庫欣氏症候群（Cushing’s syndrome）",
+      "B": "Tacrolimus：神經毒性（neurotoxicity）",
+      "C": "Cyclosporine：腎毒性（nephrotoxicity）",
+      "D": "Cyclophosphamide：感冒性症狀（flu-like symptoms）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 72 題",
+    "question": "與牛奶共服，不但影響吸收，而且會使藥物失去抗菌活性的抗生素為：",
+    "options": {
+      "A": "Ampicillin",
+      "B": "Tetracycline",
+      "C": "Erythromycin",
+      "D": "Cephalexin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 73 題",
+    "question": "下列何者是合併藥物使用治療肺結核的最主要原因？",
+    "options": {
+      "A": "預防產生抗藥性",
+      "B": "減少誘發副作用",
+      "C": "增加抑制Mycobacteria 的作用",
+      "D": "增加對抗其他細菌感染的作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 74 題",
+    "question": "Methenamine 被用於預防尿道細菌感染之藥劑，但其缺乏全身性抗菌作用，原因為何？",
+    "options": {
+      "A": "口服無法吸收進入血液循環",
+      "B": "迅速被肝臟酵素代謝",
+      "C": "在低pH 值尿液中才能轉化成formaldehyde",
+      "D": "大量與血漿蛋白結合"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 75 題",
+    "question": "下列何者作用在membrane-bound 的guanylate cyclase？",
+    "options": {
+      "A": "atrial natriuretic peptide（ANP）",
+      "B": "nitric oxide",
+      "C": "insulin",
+      "D": "norepinephrine"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

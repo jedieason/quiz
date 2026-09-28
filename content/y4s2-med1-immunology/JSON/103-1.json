@@ -1,0 +1,158 @@
+[
+  {
+    "origin": "出自 103 年第一次醫師國考第 62 題",
+    "question": "下列何者不是人類次級（secondary）淋巴器官？",
+    "options": {
+      "A": "胸腺（thymus）",
+      "B": "脾臟（spleen）",
+      "C": "淋巴結（lymph nodes）",
+      "D": "腸道淋巴組織（gut-associated lymphoid tissue；GALT）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 63 題",
+    "question": "敗血症（sepsis）發生時，下列那一種細胞激素（cytokine）是造成敗血性休克（septic shock）之主要 原因？",
+    "options": {
+      "A": "interferon-α",
+      "B": "G-CSF",
+      "C": "IL-2",
+      "D": "TNF-α"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 64 題",
+    "question": "下列何分子不會造成巨噬細胞活化？",
+    "options": {
+      "A": "IFN-γ（interferon-γ）",
+      "B": "TNF-α（tumor necrosis factor-α）",
+      "C": "IL-10（interleukin-10）",
+      "D": "LPS（lipopolysaccharide）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 65 題",
+    "question": "在骨髓（bone marrow）中，B 細胞之分化與下列那一項無關？",
+    "options": {
+      "A": "RAG1/RAG2 酵素",
+      "B": "基質細胞（stromal cell）",
+      "C": "類型轉換重組（class switch recombination）",
+      "D": "IL-7"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 66 題",
+    "question": "CD28 與CTLA-4 為調控$CD4^+$ T 細胞活化的重要分子，下列有關CD28 與CTLA-4 之敘述，何者正確？",
+    "options": {
+      "A": "CD28 與CTLA-4 皆會表現在純真（naïve）$CD4^+$ T 細胞上",
+      "B": "CD28 與CTLA-4 分子皆會與B7 分子結合，但是CD28 與B7 的親和力高於CTLA-4 與B7 的親和力",
+      "C": "CD28 傳遞活化的訊息給$CD4^+$ T 細胞，但是CTLA-4 傳遞抑制活化的訊息給$CD4^+$ T 細胞",
+      "D": "CTLA-4 對於維持中央耐受性（central tolerance）扮演重要角色"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 67 題",
+    "question": "下列那一項不是免疫球蛋白G（immunoglobulin G，IgG）的主要功能？",
+    "options": {
+      "A": "中和（neutralize）病原菌或其毒素",
+      "B": "清除細胞內的病原菌",
+      "C": "增進吞噬作用",
+      "D": "活化補體功能"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 68 題",
+    "question": "白血球黏著分子缺損所導致的免疫功能障礙中，下列那一項敘述最為正確？",
+    "options": {
+      "A": "血液中的白血球數目下降",
+      "B": "發炎組織中的白血球浸潤減少",
+      "C": "白血球對補體的反應增強",
+      "D": "白血球的游走（migration）不受影響"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 69 題",
+    "question": "下列何種細胞直接參與抗體依存性細胞毒殺反應（antibody-dependent cell-mediated cytotoxicity， ADCC）？",
+    "options": {
+      "A": "自然殺手細胞",
+      "B": "B 淋巴細胞",
+      "C": "$CD8^+$ T 淋巴細胞",
+      "D": "$CD4^+$ T 淋巴細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 70 題",
+    "question": "關於T 細胞和巨噬細胞互動所需要的分子產生突變而引起的免疫缺損，下列敘述何者錯誤？",
+    "options": {
+      "A": "IL-12 缺損會導致對分枝桿菌防護能力下降",
+      "B": "CD40 或CD40L 的突變不會影響T 細胞功能",
+      "C": "IFN-γ 接受體的完全缺乏會使個體組織產生肉芽腫的能力降低",
+      "D": "TNF-α 在產生肉芽腫的過程中扮演重要的角色"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 71 題",
+    "question": "A 血型的小華因動手術需要輸血，但不慎被輸入B 型紅血球，後來引起發燒、血栓、血紅素尿等症 狀，這屬於第幾型過敏反應？",
+    "options": {
+      "A": "第一型",
+      "B": "第二型",
+      "C": "第三型",
+      "D": "第四型"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 72 題",
+    "question": "有些淋巴球雖然能夠以較低的親和性認識自體抗原或與自體抗原極為類似的分子，卻也能夠逃過免 疫系統自體耐受性（self-tolerance）的機轉而得以存在。這些淋巴球有何特性？",
+    "options": {
+      "A": "一般不會產生自體免疫反應，只有在特殊狀況，如嚴重感染時會被活化",
+      "B": "一般會再循環至胸腺而被移除，因此並不引起自體免疫病變",
+      "C": "將接受細胞激素偏移作用（cytokine deviation）而由體內消失",
+      "D": "將由AIRE（autoimmune regulator）基因的調控而引起胰臟胰島細胞（islet cells）的破壞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 73 題",
+    "question": "有關裸鼠（nude mice）在腫瘤免疫的研究，下列敘述何者錯誤？",
+    "options": {
+      "A": "裸鼠常用於人類腫瘤實驗室；因為其排斥腫瘤細胞生長能力差",
+      "B": "裸鼠中T 細胞及B 細胞正常；但是活化機轉不正常，所以免疫力差",
+      "C": "裸鼠中自然殺手細胞仍然是具有腫瘤排斥作用",
+      "D": "裸鼠中的腫瘤生長較快且免疫監測較弱"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第一次醫師國考第 74 題",
+    "question": "下列何者不是環孢靈（cyclosporine）的藥效？",
+    "options": {
+      "A": "抑制介白素-2（interleukin-2）",
+      "B": "抑制間質纖維化（interstitial fibrosis）",
+      "C": "抑制T 細胞增生（proliferation）",
+      "D": "結合免疫細胞內之immunophilins"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

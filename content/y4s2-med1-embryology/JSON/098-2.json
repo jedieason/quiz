@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 29 題",
+    "question": "胚胎期所謂的初始橫隔膜（primordium diaphragm）不包含下列何者？",
+    "options": {
+      "A": "橫隔（septum transversum）",
+      "B": "胸腹膜（pleuroperitoneal membrane）",
+      "C": "食道繫膜（mesoesophagus）",
+      "D": "體壁（body wall）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 30 題",
+    "question": "口咽膜（oropharyngeal membrane）是由下列何者組成？",
+    "options": {
+      "A": "內胚層和外胚層",
+      "B": "內胚層和中胚層",
+      "C": "中胚層和外胚層",
+      "D": "僅由外胚層組成"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 31 題",
+    "question": "下列關於胰臟發育之敘述，何者正確？",
+    "options": {
+      "A": "由前腸（foregut）及中腸（midgut）共同衍生而來",
+      "B": "大部分由背胰芽（dorsal pancreatic bud）衍生而來",
+      "C": "腹胰芽（ventral pancreatic bud）發育較背胰芽早",
+      "D": "背胰芽轉至腹面與腹胰芽癒合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 32 題",
+    "question": "下列何者不是發源於神經嵴（neural crest）？",
+    "options": {
+      "A": "黑色素細胞（melanocyte）",
+      "B": "許旺氏細胞（Schwann cell）",
+      "C": "寡突膠質細胞（oligodendrocyte）",
+      "D": "嗜鉻細胞（chromaffin cell）"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

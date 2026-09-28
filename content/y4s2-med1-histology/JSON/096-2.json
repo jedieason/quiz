@@ -1,0 +1,110 @@
+[
+  {
+    "origin": "出自 096 年第二次醫師國考第 33 題",
+    "question": "有關萊氏細胞（Leydig cell），下列敘述何項錯誤？",
+    "options": {
+      "A": "位於細精管（seminiferous tubule）間的間質（interstitial tissue）",
+      "B": "具有大量的粗糙性內質網（RER）",
+      "C": "細胞質含有Reinke 氏結晶體",
+      "D": "細胞質含有管狀腱的粒線體（tubular cristae mitochondria）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 34 題",
+    "question": "消化道中，下列何者可用銀染色法染上？",
+    "options": {
+      "A": "腸內分泌細胞（enteroendocrine cells）",
+      "B": "頸黏液細胞（mucous neck cells）",
+      "C": "主細胞（chief cells）",
+      "D": "壁細胞（parietal cells）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 35 題",
+    "question": "有關呼吸系統，下列敘述何者錯誤？",
+    "options": {
+      "A": "鼻腔內之黏膜（mucosa）可以溫暖，濕潤及過濾吸入之空氣",
+      "B": "Bowman’s 腺可分泌漿液（serous），以去除已被偵測過之殘餘氣味物質",
+      "C": "鼻腔內之上皮組織屬於過渡性上皮（transitional epithelium）",
+      "D": "嗅上皮（olfactory epithelium）是偽複層柱狀上皮"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 36 題",
+    "question": "在中樞神經系統，髓鞘是由那種細胞所構成？",
+    "options": {
+      "A": "微小膠細胞",
+      "B": "寡樹突膠細胞",
+      "C": "星狀膠細胞",
+      "D": "室管膜細胞"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 37 題",
+    "question": "下列何者不屬於單核吞噬細胞系統（mononuclear phagocytotic system）？",
+    "options": {
+      "A": "組織細胞（histiocytes）",
+      "B": "破骨細胞（osteoclasts）",
+      "C": "肥大細胞（mast cells）",
+      "D": "庫弗氏細胞（Kupffer cells）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 38 題",
+    "question": "在白血球生成過程中，特異性顆粒（specific granule）最早出現於下列何者？",
+    "options": {
+      "A": "髓細胞（myelocytes）",
+      "B": "成髓細胞（myeloblasts）",
+      "C": "前髓細胞（promyelocytes）",
+      "D": "後髓細胞（metamyelocytes）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 39 題",
+    "question": "下列何者不是中間絲蛋白（intermediate filament protein）？",
+    "options": {
+      "A": "膠細胞纖維酸性蛋白（glial fibrillary acidic protein）",
+      "B": "纖維蛋白原（fibrinogen）",
+      "C": "結蛋白（desmin）",
+      "D": "神經絲蛋白（neurofilament protein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 40 題",
+    "question": "腸內桿菌科（Enterobacteriaceae）細菌對下列何種糖類的發酵能力，常被用來作為初步鑑定之用？",
+    "options": {
+      "A": "葡萄糖（glucose）",
+      "B": "蔗糖（sucrose）",
+      "C": "乳糖（lactose）",
+      "D": "阿拉伯糖（arabinose）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 096 年第二次醫師國考第 41 題",
+    "question": "下列有關披衣菌（Chlamydiaceae）的實驗診斷之敘述，何者錯誤？",
+    "options": {
+      "A": "由感染部位採集到的膿，是最適當的檢體",
+      "B": "只有細胞培養（cell culture）法能用以分離此類細菌",
+      "C": "血清學試驗不易區分現在或過去的感染",
+      "D": "偵測其脂多醣體（lipopolysaccharide）的免疫螢光染色法，專一性較差"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 76 題",
+    "question": "小葉中心性肺氣腫主要病變發生於何處？",
+    "options": {
+      "A": "支氣管",
+      "B": "呼吸性細支氣管",
+      "C": "遠端肺泡",
+      "D": "所有肺泡"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 77 題",
+    "question": "下列何種染色體變化較常見於濾泡型淋巴瘤（follicular lymphoma）？",
+    "options": {
+      "A": "t (1;14)，包含BCL10 基因之變化",
+      "B": "t (11;14)，包含BCL1（cyclin D1）基因之變化",
+      "C": "t (14;18)，包含BCL2 基因之變化",
+      "D": "t (11;18)，包含BCL1（cyclin D1）或BCL2 基因之變化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 78 題",
+    "question": "4 歲男孩因雙眼視力慢慢變差，經檢查發現兩側眼底均有腫瘤，手術切除後，病理診斷為惡性腫瘤， 請問該病人發生第二種相關癌症的機率，以下列何者最高？",
+    "options": {
+      "A": "hepatoblastoma",
+      "B": "neuroblastoma",
+      "C": "Wilms’ tumor",
+      "D": "osteogenic sarcoma"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 79 題",
+    "question": "結核病及類肉瘤病（sarcoidosis）的共同特徵是：",
+    "options": {
+      "A": "都是傳染性疾病",
+      "B": "都有乾酪狀壞死",
+      "C": "都有肉芽腫",
+      "D": "常引起肺臟的瀰漫性間質纖維化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 80 題",
+    "question": "下列那一類壞死最常見於心臟的缺血性傷害？",
+    "options": {
+      "A": "液化性壞死",
+      "B": "凝固性壞死",
+      "C": "乾酪狀壞死",
+      "D": "脂肪壞死"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 81 題",
+    "question": "下列那一項病變是腦脫疝的後果，且常致命？",
+    "options": {
+      "A": "腦室旁白質軟化（periventricular encephalomalacia）",
+      "B": "Kernohan 氏凹痕（Kernohan’s notch）",
+      "C": "繼發性（Duret）腦幹出血",
+      "D": "瀰漫性軸突損傷（diffuse axonal injury）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 82 題",
+    "question": "一位32 歲男性，檢查發現左側睪丸有一個約4 公分大小的實心腫瘤。進一步檢查發現在腹部主動脈 旁有數個腫大的淋巴結，且兩側肺部也有許多小結節存在。血液檢查發現人類絨毛膜促性腺激素 （human chorionic gonadotropin; HCG）與甲型胎兒蛋白（alpha-fetoprotein）濃度明顯上升。下列何 者是最可能的診斷？",
+    "options": {
+      "A": "精細胞瘤（seminoma）",
+      "B": "混合生殖細胞瘤（mixed germ cell tumor）",
+      "C": "雷迪氏細胞瘤（Leydig cell tumor）",
+      "D": "瀰漫性大細胞淋巴瘤（diffuse large B cell lymphoma）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 83 題",
+    "question": "一位30 歲男性右上臂有 7 3× 公分表面潰爛之腫塊約8 個月。病人有腋下及鼠蹊部無痛感淋巴結節。放 射線圖顯示左側胸腔有一個4 公分腫瘤；腹部CT 顯示後腹腔一個5 公分腫瘤。病理切片如圖，腫瘤 具大型異化程度高的細胞，細胞質多，有的為多核或馬蹄鐵狀核，浸潤在靜脈周圍或靜脈竇中。病 人經化學治療後得以緩解。腫瘤細胞會具有下列那一標記？ [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "ALK",
+      "B": "CD4",
+      "C": "c-KIT",
+      "D": "HTLV-1"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 84 題",
+    "question": "一位55 歲女性雖呈現甲狀腺不規則腫大，但甲狀腺功能正常。手術後，被切除的甲狀腺經病理檢查 發現許多不規則結節含有褐色凝膠狀物質。結節內或其間夾雜出血、纖維化及鈣化或囊狀病灶。下 列何者最符合此病人的臨床及病理特徵？",
+    "options": {
+      "A": "follicular adenoma",
+      "B": "Hashimoto thyroiditis",
+      "C": "multinodular goiter",
+      "D": "follicular carcinoma"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 85 題",
+    "question": "一位71 歲男性呈現進展性呼吸困難，影像學檢查顯示有一左心房疑似血栓或腫瘤狀病變。病理切片 顯示此病變內含豐富酸性黏多醣類基質，其中參雜許多星狀細胞。下列何者是此病變最可能的診斷？",
+    "options": {
+      "A": "cardiac myxoma",
+      "B": "metastatic carcinoma",
+      "C": "cardiac angiosarcoma",
+      "D": "mural thrombus"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 86 題",
+    "question": "一位38 歲女性，最近一週來發燒、畏寒及右上腹絞痛。檢查發現她有黃疸現象且血中結合型膽紅素 濃度過高。腹部超音波檢查發現有膽囊結石與總膽管擴張的現象。此外在肝臟也可以看到三個約1 至2 公分的囊狀病變。下列何者最可能造成上述變化？",
+    "options": {
+      "A": "Clonorchis sinensis",
+      "B": "Entamoeba histolytica",
+      "C": "Escherichia coli",
+      "D": "Salmonella typhi"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 87 題",
+    "question": "一位60 歲礦工，主訴乾咳及胸痛，組織切片顯示有黑色的色素沈積在肺、肋膜及淋巴結，其最可能 的病理診斷為：",
+    "options": {
+      "A": "碳沈積症",
+      "B": "矽沈積症",
+      "C": "肺癌",
+      "D": "黑色素癌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 88 題",
+    "question": "一位65 歲男性有長期抽菸及喝酒習慣，近半年他經常感覺飯後消化緩慢，肚子脹脹的，就醫經胃鏡 檢查，胃黏膜變的較平坦，偶爾看到小小的紅色斑點，切片檢查呈現如圖示。請問下列診斷何者 最適當？ [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "糜爛性胃炎",
+      "B": "慢性萎縮性胃炎",
+      "C": "早期胃癌",
+      "D": "表淺性胃炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 89 題",
+    "question": "一位45 歲女性病人主訴吞嚥困難，一年來症狀逐漸加深。病人同時有吸收不良的情形，六個月內體 重減輕5 公斤，並漸有呼吸不順。體溫36.9℃、脈搏66/min、呼吸18/min、血壓145/90 mmHg。超 音波檢查顯示心包腔大量積水，ANA 測試為1:512x 陽性、為核仁型。病人此種自體免疫反應疾病可 能會發生下列何種嚴重併發症？",
+    "options": {
+      "A": "腎盂腎炎",
+      "B": "十二指腸潰瘍穿孔",
+      "C": "腎上腺功能失能",
+      "D": "惡性高血壓"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 90 題",
+    "question": "一位28 歲女性，最近兩週持續發燒及頭痛。她有先天性心室中隔缺損的病史。腦部電腦斷層顯示右 腦頂葉有一個約3 公分大環狀的（ring-like）顯影病變。下列何種發炎細胞最可能是上述腦病變最主 要的組成細胞？",
+    "options": {
+      "A": "淋巴球（lymphocyte）",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "類上皮細胞（epithelioid cell）",
+      "D": "漿細胞（plasma cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 91 題",
+    "question": "下圖所見有異狀的大腦，最符合那一種病況？",
+    "options": {
+      "A": "48 歲女性，表現多種會緩解又再發之不相關的神經學缺陷已經六年",
+      "B": "78 歲病人，出現肌肉僵硬、動作遲緩及震顫",
+      "C": "76 歲病人，有七年記憶力喪失、方向感喪失及失智的病史",
+      "D": "53 歲男性，很快發作記憶力喪失、尿失禁及步態異常"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 92 題",
+    "question": "一位64 歲男性，胃鏡檢查發現胃竇部有一個5 公分大的黏膜下腫瘤，腫瘤上方黏膜中央處有潰瘍的 現象。切除腫瘤，在顯微鏡下可見腫瘤由梭狀細胞所構成，免疫組織化學染色可見幾乎所有腫瘤細 胞有明顯c-KIT 的表現。下列何者是最可能的診斷？",
+    "options": {
+      "A": "胃腸間質瘤（gastrointestinal stromal tumor）",
+      "B": "平滑肌瘤（leiomyoma） iomyoma）",
+      "C": "黏膜相關淋巴組織淋巴瘤（mucosa-associated lymphoid tissue lymphoma; MALToma）",
+      "D": "戒環細胞癌（Signet-ring cell carcinoma）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 93 題",
+    "question": "一位75 歲男性病人因反胃及急性中毒現象被送到急診室。病人並出現急速腎臟功能惡化及神智改變。 住院二天後死亡。死後的解剖顯示在腎臟和腦裡發現草酸鹽結晶體（oxalate crystal）的沉積。下列何 者最可能是造成此人中毒的物質？",
+    "options": {
+      "A": "carbon tetrachloride",
+      "B": "mercuric chloride",
+      "C": "ethylene glycol",
+      "D": "paraquat"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 94 題",
+    "question": "一位40 歲建築屋瓦工人，主訴乾咳及呼吸困難，胸部X 光顯示，有蜂巢狀及鈣化現象，其診斷最有 可能為何種沈積症？",
+    "options": {
+      "A": "berylliosis",
+      "B": "anthracosis",
+      "C": "silicosis",
+      "D": "asbestosis"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 95 題",
+    "question": "一位女性病人突然發燒、腹痛、心跳加速、噁心及黃疸。病人脾臟可觸診到脾尖。周邊血液白血球數正 常；但病人稍貧血，紅血球也較小且無中心蒼白區，並有顯著網狀紅血球增生（reticulocytosis）。可能 誘發此一病情危機之原因為：",
+    "options": {
+      "A": "服用Quinacrine 類藥物",
+      "B": "Parvovirus 感染",
+      "C": "血氧分壓降低",
+      "D": "暴露冷環境"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 96 題",
+    "question": "一位40 歲男性常有復發性鼻竇感染，檢驗數據顯示紅血球沉降速率（erythrocyte sedimentation rate）上 升。抗中性球細胞質抗體（antineutrophil cytoplasmic antibodies; ANCA）呈現陽性細胞質型（positive  cytoplasmic ANCA），但核周型（perinuclear）ANCA 呈陰性。病人同時發生快速腎功能變壞及少尿 （oliguria）。下列病理變化中何者最能代表其腎臟血管病變？",
+    "options": {
+      "A": "壞死性或肉芽腫性血管炎（necrotizing or granulomatous vasculitis）",
+      "B": "白血球破裂性血管炎（leukocytoclastic vasculitis）",
+      "C": "巨細胞血管炎（giant cell vasculitis）",
+      "D": "嗜伊紅性血管炎（eosinophilic angiitis）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 97 題",
+    "question": "一位30 歲女性因陰道出血就醫。她上次月經是三個月前，但因工作忙碌並未接受任何檢查。此次身 體檢查發現她的子宮較大，且子宮腔有如雪花般的內容物存在，但並未發現有胎兒存在。她接受子 宮內膜刮除術。圖示是刮除標本的顯微鏡下變化。她最可能的診斷為何？ [圖片] [圖片] [圖片] [圖片] [圖片]",
+    "options": {
+      "A": "絨毛膜癌（choriocarcinoma）",
+      "B": "子宮內膜癌（endometrial cancer）",
+      "C": "水泡狀胎塊（hydatidiform mole）",
+      "D": "不完全流產（incomplete abortion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 98 題",
+    "question": "BRCA1 與BRCA2 基因的突變與下列那些癌症遺傳症候群（inherited cancer syndrome）最有關？",
+    "options": {
+      "A": "腎細胞癌",
+      "B": "肺癌",
+      "C": "大腸癌",
+      "D": "卵巢癌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 99 題",
+    "question": "一位25 歲罹患AIDS 的男性呼吸衰竭致死。解剖時在肺臟見到的變化如圖所示。則其病理診斷應是：",
+    "options": {
+      "A": "類澱粉病（amyloidosis）",
+      "B": "病毒包涵體（viral inclusion body）",
+      "C": "瀰漫性肺泡傷害（diffuse alveolar damage）",
+      "D": "黴菌感染（fungal infection）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 100 題",
+    "question": "下列何者不是急性發炎之併發症及後遺症變化？",
+    "options": {
+      "A": "組織疤痕化",
+      "B": "膿瘍形成",
+      "C": "惡性變化",
+      "D": "慢性發炎"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

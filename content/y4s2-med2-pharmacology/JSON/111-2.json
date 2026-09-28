@@ -1,0 +1,307 @@
+[
+  {
+    "origin": "出自 111 年第二次醫師國考第 51 題",
+    "question": "Warfarin 在人體內的代謝主要受到下列那兩種基因的多型性變異（polymorphism）影響？",
+    "options": {
+      "A": "CYP2C19 和VKORC1（vitamin K epoxide reductase complex subunit 1）",
+      "B": "CYP2C9 和VKORC1",
+      "C": "CYP2D6 和VKORC1",
+      "D": "CYP2B6 和CYP2C19"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 52 題",
+    "question": "因肺炎鏈球菌感染導致的腦膜炎，下列藥物何者不適用？",
+    "options": {
+      "A": "cefuroxime",
+      "B": "cefotaxime",
+      "C": "ceftriaxone",
+      "D": "vancomycin"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 53 題",
+    "question": "下列何者為抗微小管藥物（anti-microtubule drug），可抑制癌細胞分裂而產生抗癌作用？",
+    "options": {
+      "A": "capecitabine",
+      "B": "cabazitaxel",
+      "C": "cladribine",
+      "D": "chlorambucil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 54 題",
+    "question": "下列治療乳癌的藥物中，何者可與乳癌細胞膜上之human epidermal growth factor 2（HER-2）受體結合而抑制癌 細胞生長？",
+    "options": {
+      "A": "anastrozole",
+      "B": "doxorubicin",
+      "C": "pertuzumab",
+      "D": "tamoxifen"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 55 題",
+    "question": "抗癌藥合併療法CHOP 治療non-Hodgkin's lymphoma，其中對細胞週期M 期有專一性的抗癌藥物是：",
+    "options": {
+      "A": "cyclophosphamide",
+      "B": "doxorubicin",
+      "C": "prednisone",
+      "D": "vincristine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 56 題",
+    "question": "抗血小板凝集的藥物中，下列何者可阻斷血小板上的ADP 受體？",
+    "options": {
+      "A": "aspirin",
+      "B": "ticlopidine",
+      "C": "tirofiban",
+      "D": "dipyridamole"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 57 題",
+    "question": "有關免疫抑制劑之敘述，下列何者錯誤？",
+    "options": {
+      "A": "mycophenolate mofetil 因抑制inosine monophosphate dehydrogenase，進而抑制T 淋巴球增生",
+      "B": "sirolimus 與細胞內FKBP-12 結合成的複合體會活化mTOR，進而抑制T 淋巴球增生",
+      "C": "daclizumab 因抑制IL-2 受體，可減緩器官移植後的排斥反應",
+      "D": "azathioprine 能干擾核酸的合成，抑制淋巴細胞的生長"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 58 題",
+    "question": "有關治療血脂異常（dyslipidemia）藥物之作用及機制敘述，下列何者錯誤？",
+    "options": {
+      "A": "atrovastatin：抑制HMG-CoA reductase",
+      "B": "fenofibrate：增加lipoprotein lipase 活性",
+      "C": "colestipol：減少膽酸的吸收",
+      "D": "niacin：活化peroxisome proliferator-activated receptor alpha"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 59 題",
+    "question": "下列何種狀況比較不適合用octreotide 治療？",
+    "options": {
+      "A": "胃泌素瘤",
+      "B": "食道靜脈瘤出血",
+      "C": "急性便秘",
+      "D": "胰島素瘤"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 60 題",
+    "question": "蔡小姐因為下肢無力被送到醫院急診，發現有高血壓與低血鉀的情況；進一步檢查後診斷為腎上腺腫瘤造成 的原發性高醛固酮症 （primary aldosteronism）。在接受手術之前，下列何種藥物較能改善她的症狀？",
+    "options": {
+      "A": "prednisolone",
+      "B": "spironolactone",
+      "C": "furosemide",
+      "D": "dexamethasone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 61 題",
+    "question": "酗酒且患有第二型糖尿病的病人應避免使用metformin 治療，因為metformin 和酒精一起使用很容易造成：",
+    "options": {
+      "A": "肥胖",
+      "B": "乳酸中毒",
+      "C": "低血糖",
+      "D": "高血壓"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 62 題",
+    "question": "下列抗心律不整藥物中，何者不具有抑制交感神經的作用？",
+    "options": {
+      "A": "amiodarone",
+      "B": "esmolol",
+      "C": "lidocaine",
+      "D": "sotalol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 63 題",
+    "question": "下列有關ranolazine 的藥理作用機轉，何者錯誤？",
+    "options": {
+      "A": "可抑制late sodium current",
+      "B": "可直接抑制鈉鈣交換 sodium-calcium exchanger",
+      "C": "可降低細胞內鈣離子濃度",
+      "D": "對無long QT syndrome，但有冠狀動脈疾病患者會延長QT interval"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 64 題",
+    "question": "治療慢性心衰竭時，若病人沒有水腫或嚴重腎衰竭，下列何種藥物能有效減緩心室擴大（ventricular  dilation）？",
+    "options": {
+      "A": "angiotensin-converting enzyme inhibitors",
+      "B": "natriuretic peptide",
+      "C": "calcium channel blockers",
+      "D": "digitalis"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 65 題",
+    "question": "下列何者是一種前驅藥（prodrug），經酵素水解後的產物成為選擇性alpha-1 交感受體致效劑（selective α1- receptor agonist）？",
+    "options": {
+      "A": "oxymetazoline",
+      "B": "ephedrine",
+      "C": "midodrine",
+      "D": "ritodrine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 66 題",
+    "question": "下列藥物中，何者對M3蕈毒性受體（M3 muscarinic receptor）的選擇性最高，因有較長半衰期，故一天只需服 藥一次即可用於治療成人尿失禁（urinary incontinence）？",
+    "options": {
+      "A": "darifenacin",
+      "B": "tolterodine",
+      "C": "oxybutynin",
+      "D": "trospium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 67 題",
+    "question": "急性腦損傷的病人常會發生壓力性潰瘍（stress ulcer），以致出現胃出血或胃痛等症狀，此時應優先考慮給與 下列何種藥物，以快速改善病人胃痛或出血症狀？",
+    "options": {
+      "A": "pantoprazole",
+      "B": "ketoprofen",
+      "C": "pilocarpine",
+      "D": "meclizine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 68 題",
+    "question": "兒童急性氣喘發作呼吸困難至急診，使用下列何種藥物療效最佳也最快？",
+    "options": {
+      "A": "salmeterol",
+      "B": "zafirlukast",
+      "C": "albuterol",
+      "D": "ipratropium"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 69 題",
+    "question": "下列何種藥物對冷所引起的蕁麻疹（cold-induced urticaria）及類癌瘤（carcinoid tumor）的平滑肌症狀，具有改 善的作用？",
+    "options": {
+      "A": "ketanserin",
+      "B": "ritanserin",
+      "C": "cyproheptadine",
+      "D": "ondansetron"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物與mifepristone（RU-486）合併使用，可以做為懷孕初期的墮胎藥（terminate early pregnancy）？",
+    "options": {
+      "A": "treprostinil",
+      "B": "misoprostol",
+      "C": "epoprostenol",
+      "D": "latanoprost"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 71 題",
+    "question": "第一代與第二代antihistamines 的區分，主要是根據下列何者而來？",
+    "options": {
+      "A": "與H1-receptor 的親和力",
+      "B": "通過血腦屏障（blood brain barrier）的能力",
+      "C": "產生antiadrenergic activity 的強弱",
+      "D": "與H3-receptor 的親和力"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 72 題",
+    "question": "Haloperidol 和clozapine 皆為治療思覺失調症的藥物，但clozapine 較不會引起錐體外症候群（extrapyramidal  syndrome），因為clozapine 具有下列那一個特性？",
+    "options": {
+      "A": "對多巴胺受體（D2）具有較低的阻斷作用",
+      "B": "對蕈毒鹼（muscarine）受體具有較強的阻斷作用",
+      "C": "對α-腎上腺素受體具有較強的阻斷作用",
+      "D": "對蕈毒鹼（muscarine）受體具有較低的阻斷作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 73 題",
+    "question": "有關抗憂鬱藥物作用的敘述，下列何者正確？",
+    "options": {
+      "A": "amitriptyline 較不會造成口乾、便秘等副作用，適合用於老年人",
+      "B": "trazodone 為5-HT2受體的拮抗劑，除抗憂鬱的作用外亦具有安眠的作用",
+      "C": "mirtazapine 為突觸前α2腎上腺素受體的作用劑，增加norepinephrine 和5-HT 的釋放",
+      "D": "venlafaxine 為單胺氧化酶B 的選擇性抑制劑，增加突觸norepinephrine 的含量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 74 題",
+    "question": "服用下列那一個藥物後，飲酒時會導致皮膚潮紅、噁心、嘔吐及劇烈頭痛等身體不適的反應？",
+    "options": {
+      "A": "disulfiram",
+      "B": "acamprosate",
+      "C": "naltrexone",
+      "D": "lorazepam"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第二次醫師國考第 75 題",
+    "question": "下列何者是甲醇（methanol）中毒之最佳解毒劑？",
+    "options": {
+      "A": "esmolol",
+      "B": "fomepizole",
+      "C": "flumazenil",
+      "D": "acetylserine"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

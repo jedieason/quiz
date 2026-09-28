@@ -1,0 +1,138 @@
+[
+  {
+    "origin": "出自 107 年第二次醫師國考第 18 題",
+    "question": "下列那一種黏著分子（adhesion molecules）能存在於白血球上，使得白血球可以黏附於血管內皮（blood  vessel endothelium）上？",
+    "options": {
+      "A": "E-selectins",
+      "B": "ICAMs",
+      "C": "Integrins",
+      "D": "Fibronectin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 19 題",
+    "question": "T細胞受器（T cell receptor, TCR）向細胞內傳遞訊息主要依賴下列那一種分子？",
+    "options": {
+      "A": "TCR",
+      "B": "MHC",
+      "C": "CD2",
+      "D": "CD3"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 20 題",
+    "question": "有位感染Mycobacterium leprae（M. leprae）的病人前來就診，經過檢驗發現血液中對抗M. leprae的抗體效 價很高，而寄生在巨噬細胞內的M. leprae很多，臨床症狀顯示有嚴重的組織破壞，下列那種細胞的活化最有 可能與病人臨床症狀有關？",
+    "options": {
+      "A": "第一型輔助性T細胞（TH1）",
+      "B": "第二型輔助性T細胞（TH2）",
+      "C": "第三型輔助性T細胞（TH3）",
+      "D": "調節性T細胞（regulatory T cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 21 題",
+    "question": "臨床上對預防肺結核病仍沒有令人滿意的疫苗。關於卡介苗的敘述下列何者錯誤？",
+    "options": {
+      "A": "是活的分枝桿菌",
+      "B": "無法引發細胞免疫反應",
+      "C": "是我國的免費例行疫苗之一",
+      "D": "施打後會增加結核菌素測驗的偽陽性率"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 22 題",
+    "question": "有一位免疫缺損的病患，他的吞噬細胞的細胞游走正常，吞噬細菌的能力也優良，但吞噬後無法將細菌殺死 而經常引起明顯的組織發炎反應。下列疾病何者合乎這個敘述？",
+    "options": {
+      "A": "白血球黏著缺損（leukocyte adhesion deficiency）",
+      "B": "慢性肉芽腫病（chronic granulomatous disease）",
+      "C": "Wiskott-Aldrich syndrome",
+      "D": "DiGeorge syndrome"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 23 題",
+    "question": "傳統補體路徑（classical complement pathways）早期之補體如C1，C2，C4缺乏時，會產生下列何種現 象？",
+    "options": {
+      "A": "影響到mannose-binding lectin之缺乏，易有兒童時期之感染",
+      "B": "無法清除immune complex，而有immune complex disease",
+      "C": "易有pyogenic bacteria之感染",
+      "D": "易有Pneumocystis jirovecii（先前稱Pneumocystis carinii）感染"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ、Ｂ、Ｃ給分。"
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 24 題",
+    "question": "關於嗜伊紅性白血球和嗜中性白血球的異同，下列敘述何者正確？",
+    "options": {
+      "A": "嗜中性白血球含有過氧化酶，但嗜伊紅性白血球不含此酶",
+      "B": "IL-5主要促進嗜伊紅性白血球的生成",
+      "C": "真核寄生蟲感染時嗜中性白血球反應較強",
+      "D": "CCR3在嗜中性白血球表現較多"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 25 題",
+    "question": "目前分析人類基因（variant alleles）與自體免疫疾病致病性之相關，是查出此基因在某自體免疫疾病病患者 中的存在比例，再與根據於一般族群之期望值做比較，而得到本基因（variant alleles）在自體免疫致病性之 「相對危險值」（relative risk）。目前查出有較高的「相對危險值」的基因類別為下列那一項？",
+    "options": {
+      "A": "人類白血球抗原（human leukocyte antigens）基因",
+      "B": "GM-CSF基因",
+      "C": "CD4基因",
+      "D": "Small GTP-binding protein cdc42基因"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 26 題",
+    "question": "50餘歲女性出現多個關節腫脹、疼痛，主要在雙手近端指間關節（PIPs）、腕關節、膝關節等，檢查結果為 類風濕性關節炎（rheumatoid arthritis），其特性為何？",
+    "options": {
+      "A": "為關節組織受侵犯，因自體免疫性淋巴細胞反應及自體免疫抗體所致",
+      "B": "因巨噬細胞功能低下所致之關節病變",
+      "C": "為風濕熱（rheumatic fever）表現之一部分",
+      "D": "為感染症之直接後遺症，引起全身關節受犯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 27 題",
+    "question": "下列有關「腫瘤細胞逃避宿主CD8淋巴細胞攻擊」的敘述，那一項錯誤？",
+    "options": {
+      "A": "腫瘤細胞抑制本身MHC（major histocompatibility complex）class II分子的表現",
+      "B": "腫瘤細胞不表現可引發免疫反應的抗原",
+      "C": "腫瘤細胞可分泌抑制T細胞活化的細胞激素",
+      "D": "腫瘤細胞群能形成特殊環境不讓CD8淋巴細胞浸潤"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第二次醫師國考第 28 題",
+    "question": "目前使用單株抗體的生物製劑治療多種自體免疫病及其他多種疾病，都有長足的進步。不過這些單株抗體製 劑都要有擬人化（humanized）的步驟，才能用於人體。這個步驟為何？",
+    "options": {
+      "A": "先與人類補體結合，是為擬人化步驟",
+      "B": "先通過存有移除型抗體（depleting antibodies）的介面做為純化步驟，才得到擬人化的單株抗體",
+      "C": "通過存有抗淋巴球球蛋白（anti-lymphocyte globulin）的介面做為純化步驟",
+      "D": "將其他物種單株抗體基因的互補決定區域（complementary-determining regions, CDRs）部分，轉殖到人 類單株抗體基因的互補決定區域（CDRs）部分"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

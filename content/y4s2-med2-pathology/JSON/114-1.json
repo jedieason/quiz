@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 114 年第一次醫師國考第 76 題",
+    "question": "下列何者是由脂質和磷脂的聚合物與蛋白質複合而成，標誌著細胞所經歷之自由基損傷和脂質過氧化？",
+    "options": {
+      "A": "chloasma",
+      "B": "lipofuscin",
+      "C": "hemosiderin",
+      "D": "ochronosis"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 77 題",
+    "question": "下列何者最可能為可逆性細胞核的變化？",
+    "options": {
+      "A": "核溶解（karyolysis）",
+      "B": "細胞核碎裂（karyorrhexis）",
+      "C": "核濃縮（pyknosis）",
+      "D": "核質凝聚（chromatin clumping）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 78 題",
+    "question": "下列何者不是蚊子作為媒介的傳染病？",
+    "options": {
+      "A": "茲卡病毒（Zika virus）感染",
+      "B": "瘧疾（malaria）",
+      "C": "淋巴絲蟲病（lymphatic filariasis）",
+      "D": "卡格氏症（Chagas disease）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 79 題",
+    "question": "有關漢生病（Hansen disease, leprosy）的特徵描述，下列何者錯誤？",
+    "options": {
+      "A": "顯微鏡下，病灶常沿著神經分布",
+      "B": "tuberculoid leprosy 比起lepromatous leprosy 有較強的Th1 反應（Th1 response）",
+      "C": "tuberculoid leprosy 的病理特色是含有脂肪的巨噬細胞吞噬許多細菌",
+      "D": "溫度較低的皮膚適合Mycobacterium leprae 增生"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 80 題",
+    "question": "下列何者不是p53 的主要功能之一？",
+    "options": {
+      "A": "促進細胞衰老（senescence）",
+      "B": "結合並抑制MDM2",
+      "C": "使細胞週期（cell cycle）停滯於G1 phase（G1 arrest）",
+      "D": "引發細胞凋亡（apoptosis）的內在路徑（intrinsic pathway）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 81 題",
+    "question": "下列何種分子的過度表現最不可能使腫瘤細胞逃避免疫攻擊（immune evasion）？",
+    "options": {
+      "A": "TGF-β",
+      "B": "CTLA-4",
+      "C": "PD-L1",
+      "D": "MHC molecules"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 82 題",
+    "question": "40 歲男性，發燒就診，影像檢查發現雙側肺部開洞性結節，鼻竇黏膜發炎潰瘍，合併腎功能異常。各種病原 菌檢驗結果都為陰性，腎臟切片發現新月型腎絲球腎炎（crescentic glomerulonephritis），有關最有可能 的診斷，下列何者錯誤？",
+    "options": {
+      "A": "通常抽血可發現抗嗜中性球細胞質抗體（PR3-ANCA）上升",
+      "B": "呼吸道切片典型可見肉芽腫性發炎（granulomatous inflammation）及組織壞死",
+      "C": "通常會對免疫抑制的治療有良好反應",
+      "D": "若不治療，大多數病人也會自行康復"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 83 題",
+    "question": "有關動脈粥狀硬化的病灶特性，下列何者錯誤？",
+    "options": {
+      "A": "病灶通常是以同心圓方式造成整圈血管壁增厚",
+      "B": "血液亂流處較易形成動脈粥狀硬化的斑塊",
+      "C": "動脈粥狀硬化產生的斑塊可能會破裂，導致血栓形成並阻塞血管腔",
+      "D": "動脈粥狀硬化的風險因子包括低密度脂蛋白受器（LDL receptor）基因突變"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 84 題",
+    "question": "下列何種腫瘤最容易進展成急性骨髓性白血病（acute myeloid leukemia）？",
+    "options": {
+      "A": "真性紅血球增多症（polycythemia vera）",
+      "B": "原發性血小板增多症（essential thrombocythemia）",
+      "C": "骨髓化生不良症候群（myelodysplastic syndrome）",
+      "D": "慢性淋巴球性白血病（chronic lymphocytic leukemia）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 85 題",
+    "question": "有關急性淋巴母細胞性白血病（acute lymphoblastic leukemia）的敘述，下列何者最適當？",
+    "options": {
+      "A": "臨床表現與急性骨髓性白血病（acute myeloid leukemia）相似",
+      "B": "病人多數為40 歲以上的成年人",
+      "C": "大多數腫瘤會有MYC 基因的轉位，造成MYC 的過度表現",
+      "D": "腫瘤細胞不會有BCR-ABL 融合基因"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 86 題",
+    "question": "下列有關肺炎的敘述，何者錯誤？",
+    "options": {
+      "A": "結核菌及黴菌為慢性肺炎（chronic pneumonia）常見的致病原",
+      "B": "肺膿瘍（lung abscess）是慢性肺炎的一種，病理上可見到壞死性肉芽腫性發炎（necrotizing granulomatous inflammation）",
+      "C": "病毒性肺炎病理變化為間質淋巴球浸潤（interstitial lymphocytic infiltration）",
+      "D": "病毒性肺炎嚴重可造成急性呼吸窘迫症候群（acute respiratory distress syndrome）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 87 題",
+    "question": "下列有關特發性肺纖維化（idiopathic pulmonary fibrosis, IPF）的敘述，何者錯誤？",
+    "options": {
+      "A": "臨床表現為慢性漸進性纖維化的間質性肺炎，疾病常進展至呼吸衰竭",
+      "B": "好發族群為中老年人，年輕人較罕見",
+      "C": "肺纖維化常以下肺葉較為嚴重",
+      "D": "胸部電腦斷層呈現中央小葉型結節（centrilobular nodules）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 88 題",
+    "question": "下列何者為社區型細菌性肺炎最常見之病原？",
+    "options": {
+      "A": "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "B": "嗜血流感桿菌（Haemophilus influenzae）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "肺炎克雷伯氏菌（Klebsiella pneumoniae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 89 題",
+    "question": "關於B 型肝炎病毒（Hepatitis B virus），下列敘述何者最不適當？",
+    "options": {
+      "A": "HBeAg 是病毒包膜醣蛋白（envelope glycoproteins）",
+      "B": "HBcAg 是病毒核衣殼蛋白（nucleocapsid protein）",
+      "C": "HBx 有轉錄反式活化因子（transcriptional transactivator）功能",
+      "D": "HBV polymerase（Pol）具有反轉錄酶活性（reverse transcriptase activity）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 90 題",
+    "question": "對於自體免疫性萎縮性胃炎（autoimmune atrophic gastritis）的相關敘述，下列敘述何者最不適當？",
+    "options": {
+      "A": "與其他自體免疫疾病相關，例如：甲狀腺炎、糖尿病、Graves 氏病（Graves disease）",
+      "B": "與惡性貧血（pernicious anemia）有關",
+      "C": "迴腸（ileum）維生素B12吸收缺陷",
+      "D": "常見到內分泌細胞萎縮減少（atrophy and decrease of endocrine cells）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 91 題",
+    "question": "關於慢性胰臟炎（chronic pancreatitis），下列敘述何者最不適當？",
+    "options": {
+      "A": "慢性胰臟炎最常見的原因是長期飲酒",
+      "B": "纖維化細胞激素（fibrogenic cytokines）在慢性胰臟炎中扮演重要角色",
+      "C": "轉化生長因子-β（TGF-β）和血小板衍生生長因子（PDGF）誘導胰臟星狀細胞（pancreatic stellate cells）的活化",
+      "D": "病理下典型特徵為蘭氏小島（islets of Langerhans）因發炎破壞消失，而胰腺泡（pancreatic acini）相 對保存良好"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 92 題",
+    "question": "最常造成息肉性膀胱炎（polypoid cystitis）的原因為下列何者？",
+    "options": {
+      "A": "長期放置尿管",
+      "B": "長期吸食K 他命（ketamine）",
+      "C": "細菌感染，以大腸桿菌最為常見",
+      "D": "人類乳突病毒（human papillomavirus）感染"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 93 題",
+    "question": "腎透明細胞癌（renal clear cell carcinoma）最常轉移至下列何處？",
+    "options": {
+      "A": "周邊淋巴結",
+      "B": "腎上腺",
+      "C": "肝臟",
+      "D": "肺臟"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 94 題",
+    "question": "經由電子顯微鏡檢查，下列腎絲球疾病所產生免疫沉澱物主要沉著的位置，下列何者錯誤？",
+    "options": {
+      "A": "IgA nephropathy 沉著於膈細胞（mesangial cell）周圍",
+      "B": "membranous nephropathy 沉著在上皮細胞下方（subepithelial deposits）",
+      "C": "dense deposit disease 沉著在基底膜之內（intramembranous deposits）",
+      "D": "acute postinfectious glomerulonephritis 沉著在內皮細胞下方（subendothelial deposits），形成駝 峰狀隆起（humps）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 95 題",
+    "question": "區分子宮平滑肌瘤（leiomyoma）與平滑肌肉瘤（leiomyosarcoma），下列何者最不具有鑑別能力？",
+    "options": {
+      "A": "MED12 突變",
+      "B": "有絲分裂數量",
+      "C": "腫瘤壞死",
+      "D": "非典型細胞核（nuclear atypia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 96 題",
+    "question": "Gleason grade 是用來評估下列何種癌症的治療選擇與評估預後（prognosis）？",
+    "options": {
+      "A": "腎細胞癌（renal cell carcinoma）",
+      "B": "膀胱腺癌（adenocarcinoma of urinary bladder）",
+      "C": "前列腺癌（prostatic adenocarcinoma）",
+      "D": "陰莖鱗狀上皮癌（penile squamous cell carcinoma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 97 題",
+    "question": "完全性葡萄胎（complete hydatidiform mole）最常見的染色體核型為：",
+    "options": {
+      "A": "46,XX",
+      "B": "69,XXY",
+      "C": "69,XXX",
+      "D": "92,XXXY"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 98 題",
+    "question": "下列關於眼睛疾病的敘述，何者最不適當？",
+    "options": {
+      "A": "Fuchs dystrophy 主要是因為角膜endothelium 缺損所致",
+      "B": "pinguecula 和pterygium 都與日光造成的結膜受損有關",
+      "C": "herpes stromal keratitis 主要是因免疫作用造成角膜受損",
+      "D": "keratoconus 主要的病理特徵是Descemet membrane 斷裂"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 99 題",
+    "question": "下列何種病理變化，較少見於類風濕性關節炎（rheumatoid arthritis）？",
+    "options": {
+      "A": "骨贅（osteophyte）",
+      "B": "血管翳（pannus）",
+      "C": "骨性關節強直（bony ankylosis）",
+      "D": "關節滑液膜細胞絨毛狀增生（synovial villous hyperplasia）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第一次醫師國考第 100 題",
+    "question": "以直接免疫螢光法（direct immunofluorescence）檢查天皰瘡（pemphigus vulgaris）所引起的水泡，可 以發現IgG 免疫球蛋白主要沉積於什麼位置？",
+    "options": {
+      "A": "表皮層鱗狀上皮細胞之間（intercellular regions of epidermal cells）",
+      "B": "表皮層下之基底膜（basement membrane）",
+      "C": "血管壁（vascular walls）",
+      "D": "汗腺管（eccrine ducts）之基底膜"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

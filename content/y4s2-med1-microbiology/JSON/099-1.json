@@ -1,0 +1,258 @@
+[
+  {
+    "origin": "出自 099 年第一次醫師國考第 42 題",
+    "question": "下列何者不是弧菌屬（Vibrio）致病菌的特徵？",
+    "options": {
+      "A": "具運動性（motility）",
+      "B": "具耐酸性（acid-tolerance）",
+      "C": "具氧化酶（oxidase）",
+      "D": "具耐鹽性（halotolerance）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一 律給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 43 題",
+    "question": "腸道出血型大腸桿菌（Enterohemorrhagic Escherichia coli）所引起的嚴重併發症，最常見者為：",
+    "options": {
+      "A": "腸穿孔（intestinal perforation）",
+      "B": "腦膜炎（meningitis）",
+      "C": "急性腎絲球腎炎（acute glomerulonephritis）",
+      "D": "溶血性尿毒症候群（hemolytic uremic syndrome）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 44 題",
+    "question": "退伍軍人病（Legionnaire’s disease）最常見的感染原是：",
+    "options": {
+      "A": "健康帶菌者",
+      "B": "發病中的病人",
+      "C": "帶菌的氣霧",
+      "D": "受感染的家禽"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 45 題",
+    "question": "下列抗生素中，何者不會抑制細菌細胞壁的合成？",
+    "options": {
+      "A": "四環黴素（tetracycline）",
+      "B": "萬古黴素（vancomycin）",
+      "C": "枯草桿菌素（bacitracin）",
+      "D": "頭孢菌素（cephalosporin）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 46 題",
+    "question": "肺炎鏈球菌（Streptococcus pneumoniae）為一營養挑剔型細菌，在血液培養基中生長良好，卻不適合 在巧克力瓊脂平板培養，其主要原因是：",
+    "options": {
+      "A": "缺乏觸酶（catalase）",
+      "B": "不會發酵乳酸（lactic acid）",
+      "C": "具有莢膜（capsule）",
+      "D": "缺乏溶血素（hemolysin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 47 題",
+    "question": "下列關於丙酸桿菌（Propionibacterium）之敘述，何者錯誤？",
+    "options": {
+      "A": "為厭氧或耐氧性桿菌",
+      "B": "可在皮膚、結膜、外耳、口咽和女性生殖道等處發現",
+      "C": "無運動性且為觸酶陰性",
+      "D": "因會發酵碳水化合物產生丙酸而得名"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 48 題",
+    "question": "在細胞質內進行複製之DNA 病毒是：",
+    "options": {
+      "A": "EB 病毒（Epstein-Barr virus）",
+      "B": "腺病毒（Adenovirus）",
+      "C": "鼻病毒（Rhinovirus）",
+      "D": "痘病毒（Poxvirus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 49 題",
+    "question": "疱疹病毒科（Herpesviridae）成員共通之特性為：",
+    "options": {
+      "A": "基因體為雙股環形DNA",
+      "B": "建立潛伏性感染",
+      "C": "只在B 細胞進行複製",
+      "D": "病毒顆粒不具套膜（envelope）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 50 題",
+    "question": "下列何種病毒之基因體為雙股RNA？",
+    "options": {
+      "A": "冠狀病毒（Coronavirus）",
+      "B": "乳頭瘤病毒（Papillomavirus）",
+      "C": "呼吸道腸道病毒（Reovirus）",
+      "D": "反轉錄病毒（Retrovirus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 51 題",
+    "question": "下列何種病毒具有血球凝集性（hemagglutination）？",
+    "options": {
+      "A": "EB 病毒（Epstein-Barr virus）",
+      "B": "小兒麻痺病毒（Poliovirus）",
+      "C": "小DNA 病毒（Parvovirus）B19",
+      "D": "流行性感冒病毒（Influenza virus）"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｃ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 52 題",
+    "question": "下列有關腺聯合病毒（Adeno-associated virus）之敘述，何者錯誤？",
+    "options": {
+      "A": "是小病毒科（Parvoviridae）的一員",
+      "B": "在腺病毒的存在下，可以進行複製",
+      "C": "在B 型肝炎病毒的存在下，複製能力更強",
+      "D": "已被用為基因治療之載體"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 53 題",
+    "question": "下列有關沙狀病毒（Arenavirus）之敘述，何者正確？",
+    "options": {
+      "A": "以節肢動物為媒介而傳播之",
+      "B": "感染腸胃道",
+      "C": "以齧齒動物為媒介的RNA 病毒",
+      "D": "以狗為媒介而傳播之"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 54 題",
+    "question": "細菌Helicobacter pylori 感染常造成胃的發炎，主要是因為黏膜細胞分泌何物質可以吸引白血球？",
+    "options": {
+      "A": "趨化激素（chemokines）",
+      "B": "介白素（interleukins）",
+      "C": "生長因子（growth factors）",
+      "D": "整合素（integrins）"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ者均給分。"
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 55 題",
+    "question": "下列病原菌逃脫免疫系統作用的機制，不包括：",
+    "options": {
+      "A": "增加表面抗原的突變率",
+      "B": "直接攻擊CD4 T 細胞",
+      "C": "引發腫瘤壞死因子的合成",
+      "D": "分泌酵素來分解補體分子"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 56 題",
+    "question": "立即性過敏反應（immediate hypersensitivity），是屬於第幾型的過敏免疫反應？",
+    "options": {
+      "A": "第一型",
+      "B": "第二型",
+      "C": "第三型",
+      "D": "第四型"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 57 題",
+    "question": "在沒有T 細胞幫助下刺激產生的抗體，主要是下列那種類型？",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgA",
+      "D": "IgE"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 58 題",
+    "question": "下列那一種細胞激素會抑制Th1？",
+    "options": {
+      "A": "IFN-γ",
+      "B": "TNF-α",
+      "C": "IL-10",
+      "D": "IL-12"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 59 題",
+    "question": "下列有關第一次免疫反應和第二次免疫反應的差異性敘述，何者正確？",
+    "options": {
+      "A": "第二次免疫反應抗體力價（titer）較高",
+      "B": "第二次免疫反應的反應等待時間較長",
+      "C": "第二次免疫反應所需的抗原刺激較強",
+      "D": "第二次免疫反應不需要T 細胞的參與"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 60 題",
+    "question": "下列何者不是人類初級（primary）淋巴器官？",
+    "options": {
+      "A": "胸腺（thymus）",
+      "B": "骨髓（bone marrow）",
+      "C": "胎兒肝臟（fetal liver）",
+      "D": "淋巴結（lymph nodes）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 099 年第一次醫師國考第 61 題",
+    "question": "下列有關T 細胞受器之多樣化（T cell receptor diversity）之描述，何者錯誤？",
+    "options": {
+      "A": "其基因片段（gene segments）之組合與抗體基因者相類似",
+      "B": "其基因重組（gene rearrangement）所使用之重組酵素（recombinase）與抗體基因重組時所使用者 相同",
+      "C": "體細胞高度突變（somatic hypermutation）為造成多樣化（diversity）之重要原因",
+      "D": "連接多樣化（junctional diversity）為造成多樣化（diversity）之重要原因"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

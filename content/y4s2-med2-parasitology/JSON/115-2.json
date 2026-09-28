@@ -1,0 +1,86 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 29 題",
+    "question": "赤腳踏在泥土田埂上享受稻香的芬芳，最容易被下列何種寄生蟲的絲狀（filarial form）幼蟲經皮膚鑽入造 成感染？",
+    "options": {
+      "A": "十二指腸鉤蟲（Ancylostoma duodenale）",
+      "B": "犬蛔蟲（Toxocara canis）",
+      "C": "肝毛線蟲（Capillaria hepatica）",
+      "D": "有棘頜口線蟲（Gnathostoma spinigerum）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 30 題",
+    "question": "下列何種寄生蟲曾在臺灣東部、南部造成地方性流行，可能侵犯患者眼睛導致病變？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "旋毛蟲（Trichinella spiralis）",
+      "C": "犬鉤蟲（Ancylostoma caninum）",
+      "D": "蟠尾絲蟲（Onchocerca volvulus）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 31 題",
+    "question": "陳先生接受民俗療法以搗碎蛙肉塗敷眼睛周圍，藉以消腫，經數週後眼睛周圍呈現水腫及局部發炎症狀，據 此病史最可能為下列何種寄生蟲感染？",
+    "options": {
+      "A": "短小包膜絛蟲（Hymenolepis nana）",
+      "B": "縮小包膜絛蟲（Hymenolepis diminuta）",
+      "C": "曼森裂頭絛蟲（Spirometra mansonoides）",
+      "D": "顆粒性包生絛蟲（Echinococcus granulosus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 32 題",
+    "question": "李小姐於赴日本旅遊期間曾多次生食鮭魚，返國後因腹瀉及腹部疼痛而就醫，臨床檢驗呈現嗜伊紅性白血球 增多症（eosinophilia），但無貧血病徵，經寄生蟲學專家進行糞便鏡檢而確診，據此病史最可能感染下列 何種寄生蟲？",
+    "options": {
+      "A": "中華肝吸蟲（Clonorchis sinensis）",
+      "B": "衛氏肺吸蟲（Paragonimus westermani）",
+      "C": "橫川氏吸蟲（Metagonimus yokogawai）",
+      "D": "異形異形吸蟲（Heterophyes heterophyes）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 33 題",
+    "question": "有關痢疾阿米巴（Entamoeba histolytica）的診斷，下列何者錯誤？",
+    "options": {
+      "A": "針對肝膿瘍患者可選擇使用已商品化之ELISA 抗體診斷試劑組合",
+      "B": "於急性下痢患者的糞便中主要發現具有感染性的囊體（cysts）",
+      "C": "利用PCR 技術可鑑別該寄生蟲及迪斯帕阿米巴（E. dispar）",
+      "D": "可於患者肛門潰瘍周圍組織切片發現活動體（trophozoites）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 34 題",
+    "question": "有關非洲錐蟲（African trypanosomes）的敘述，下列何者最為適當？",
+    "options": {
+      "A": "有關布氏羅德西亞錐蟲（Trypanosoma brucei rhodesiense）的毒力（virulence）決定於寄生蟲與受感染 人類的基因型（genotype）之交互作用",
+      "B": "受感染者會在頸部與鼠蹊部位出現淋巴結的水腫，臨床稱為Jericho boil",
+      "C": "當錐蟲被病媒（vector）攝入後，蟲體細胞膜上的前環素蛋白（procyclin）會被變異表面醣蛋白（variant surface glycoprotein）所取代，以逃避宿主的免疫攻擊",
+      "D": "在許多人類罹患非洲錐蟲症的案例中，蟲體入侵神經系統大多發生在感染初期，因此導致昏睡症（sleeping sickness）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 35 題",
+    "question": "上週隔壁老王去蘭嶼旅遊回來後，生了一場大病，醫師懷疑是蟎（mite）叮咬而致病，他最可能罹患下列何 種疾病？",
+    "options": {
+      "A": "犬心絲蟲症（dirofilariasis）",
+      "B": "瘧疾（malaria）",
+      "C": "黃熱病（yellow fever）",
+      "D": "恙蟲病（scrub typhus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

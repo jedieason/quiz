@@ -1,0 +1,338 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 1 題",
+    "question": "下列有關初級視覺皮質之敘述，何者錯誤？",
+    "options": {
+      "A": "位於Brodmann area 17",
+      "B": "其傳入神經主要來自外膝狀體（lateral geniculate body）",
+      "C": "右側初級視覺皮質之傳入訊息主要來自左側眼球",
+      "D": "具有line of Gennari"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 2 題",
+    "question": "小腦受損時，①dysarthria ②ataxia ③dysmetria ④intentional tremor 等四個症狀中，那些可能發生？",
+    "options": {
+      "A": "僅②③",
+      "B": "僅①②③",
+      "C": "①②③④",
+      "D": "僅②④"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 3 題",
+    "question": "頂蓋脊髓徑（tectospinal tract）主要由何構造發出？",
+    "options": {
+      "A": "外膝狀體（lateral geniculate body）",
+      "B": "紅核（red nucleus）",
+      "C": "上丘（superior colliculus）",
+      "D": "前庭神經核（vestibular nucleus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 4 題",
+    "question": "下列有關Horner's syndrome 之敘述何者錯誤？",
+    "options": {
+      "A": "瞳孔縮小",
+      "B": "為交感神經損傷所引起",
+      "C": "眼瞼下垂（ptosis）",
+      "D": "動眼神經受壓迫常會引起此症狀"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 5 題",
+    "question": "下列有關網狀系統（reticular formation）之敘述，何者錯誤？",
+    "options": {
+      "A": "網狀系統與睡眠有關",
+      "B": "periaqueductal gray 與痛覺調控有關",
+      "C": "藍斑核（locus coeruleus）神經元以dopamine 為傳遞物質",
+      "D": "縫核（raphe nucleus）位於腦幹之中央區域"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 6 題",
+    "question": "下面何者源自脊神經的背支（dorsal ramus of spinal nerve）？",
+    "options": {
+      "A": "頸橫神經（transverse cervical nerve）",
+      "B": "耳大神經（great auricular nerve）",
+      "C": "鎖骨上神經（supraclavicular nerve）",
+      "D": "枕大神經（greater occipital nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 7 題",
+    "question": "下嘴唇（lower lip）中央部的鱗狀細胞瘤（squamous cell carcinoma）最可能經由下列何者進行轉移？",
+    "options": {
+      "A": "頦下淋巴結（submental lymph node）",
+      "B": "下頜下淋巴結（submandibular lymph node）",
+      "C": "耳下腺淋巴結（parotid lymph node）",
+      "D": "頰淋巴結（buccal lymph node）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 8 題",
+    "question": "下列何者的收縮與舌頭向前突出最為有關？",
+    "options": {
+      "A": "舌骨舌肌（hyoglossus）",
+      "B": "莖突舌肌（styloglossus）",
+      "C": "頦舌肌（genioglossus）",
+      "D": "腭舌肌（palatoglossus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 9 題",
+    "question": "下列何者不是感覺神經節？",
+    "options": {
+      "A": "前庭神經節（vestibular ganglion）",
+      "B": "膝狀神經節（geniculate ganglion）",
+      "C": "耳神經節（otic ganglion）",
+      "D": "螺旋神經節（spiral ganglion）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 10 題",
+    "question": "下列何者的神經元直接支配瞳孔括約肌？",
+    "options": {
+      "A": "翼腭神經節（pterygopalatine ganglion）",
+      "B": "睫狀神經節（ciliary ganglion）",
+      "C": "頸上神經節（superior cervical ganglion）",
+      "D": "Edinger-Westphal 神經核（Edinger-Westphal nucleus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 11 題",
+    "question": "耳下腺導管（parotid duct）穿過下列何者開口於口腔？",
+    "options": {
+      "A": "嚼肌（masseter muscle）",
+      "B": "內翼肌（medial pterygoid muscle）",
+      "C": "頰肌（buccinator muscle）",
+      "D": "外翼肌（lateral pterygoid muscle）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 12 題",
+    "question": "一般情況下，左支氣管動脈（left bronchial artery）由下列何者發出？",
+    "options": {
+      "A": "前肋間動脈（anterior intercostal artery）",
+      "B": "後肋間動脈（posterior intercostal artery）",
+      "C": "右支氣管動脈（right bronchial artery）",
+      "D": "胸主動脈（thoracic aorta）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 13 題",
+    "question": "正常成年人站立時，劍胸關節（xiphisternal joint）相當於下列那個椎骨之高度？",
+    "options": {
+      "A": "T4～5",
+      "B": "T6～7",
+      "C": "T8～9",
+      "D": "T10～11"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 14 題",
+    "question": "闌尾的動脈血流來自下列何者？",
+    "options": {
+      "A": "腹腔動脈幹（celiac trunk）",
+      "B": "腸繫膜上動脈（superior mesenteric artery）",
+      "C": "腸繫膜下動脈（inferior mesenteric artery）",
+      "D": "髂內動脈（internal iliac artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 15 題",
+    "question": "內臟大神經（greater splanchnic nerve）主要連接至：",
+    "options": {
+      "A": "腹腔神經節（celiac ganglion）",
+      "B": "腸繫膜上神經節（superior mesenteric ganglion）",
+      "C": "腸繫膜下神經節（inferior mesenteric ganglion）",
+      "D": "主動脈腎神經節（aorticorenal ganglion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 16 題",
+    "question": "下列何者不是腹膜小囊（lesser sac）開口處，小網膜（lesser omentum）內的構造？",
+    "options": {
+      "A": "總膽管（common bile duct）",
+      "B": "肝門靜脈（hepatic portal vein）",
+      "C": "肝主動脈（proper hepatic artery）",
+      "D": "下腔靜脈（inferior vena cava）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 17 題",
+    "question": "有關睪丸的血流，下列何者正確？",
+    "options": {
+      "A": "睪丸動脈（testicular artery）來自腹主動脈（abdominal aorta）",
+      "B": "左睪丸動脈（left testicular artery）起自腹主動脈（abdominal aorta），右睪丸動脈來自右腎動 脈（right renal artery）",
+      "C": "左右睪丸動脈（left and right testicular arteries）各源自同側的腎動脈（renal artery）",
+      "D": "來自同側的髂內動脈（internal iliac artery）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 18 題",
+    "question": "閉孔內肌（obturator internus）的肌腱通過下列何處？",
+    "options": {
+      "A": "坐骨大孔（greater sciatic foramen）",
+      "B": "坐骨小孔（lesser sciatic foramen）",
+      "C": "閉孔管（obturator canal）",
+      "D": "薦管（sacral canal）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 19 題",
+    "question": "阻斷髂內動脈（internal iliac artery）之血流時，最不會直接影響下列何者之血液供給？",
+    "options": {
+      "A": "直腸上部（superior rectum）",
+      "B": "提肛肌（levator ani）",
+      "C": "臀大肌（gluteus maximus）",
+      "D": "前列腺（prostate）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 20 題",
+    "question": "會陰深隙（deep perineal space）內的腫瘤最可能傷及下列何者？",
+    "options": {
+      "A": "陰莖腳（crus of penis）",
+      "B": "尿道球腺（bulbourethral gland）",
+      "C": "海綿體尿道（spongy urethra）",
+      "D": "前庭球（bulbs of the vestibule）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 21 題",
+    "question": "下列何者的一般體觸覺透過陰部神經（pudendal nerve）傳遞？",
+    "options": {
+      "A": "卵巢",
+      "B": "子宮",
+      "C": "陰道",
+      "D": "輸卵管"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 22 題",
+    "question": "下肢淺層經常被用做血管移植（vascular transplantation）的是：",
+    "options": {
+      "A": "股動脈（femoral artery）",
+      "B": "股靜脈（femoral vein）",
+      "C": "膕靜脈（popliteal vein）",
+      "D": "大隱靜脈（great saphenous vein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 23 題",
+    "question": "下列何者通過坐骨大孔（greater sciatic foramen）且供應臀大肌（gluteus maximus）的血液？",
+    "options": {
+      "A": "股動脈（femoral artery）",
+      "B": "閉孔動脈（obturator artery）",
+      "C": "臀下動脈（inferior gluteal artery）",
+      "D": "陰部內動脈（internal pudendal artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 24 題",
+    "question": "腓骨（fibula）頸部骨折最可能傷及下列那一條神經？",
+    "options": {
+      "A": "脛神經（tibial nerve）",
+      "B": "隱神經（saphenous nerve）",
+      "C": "腓腸神經（sural nerve）",
+      "D": "腓總神經（common fibular nerve）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 25 題",
+    "question": "下列何者受傷會導致手腕（wrist）無法伸直的垂腕症（drop hand）？",
+    "options": {
+      "A": "肌皮神經（musculocutaneous nerve）",
+      "B": "正中神經（median nerve）",
+      "C": "尺神經（ulnar nerve）",
+      "D": "橈神經（radial nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 26 題",
+    "question": "背部聽診三角（triangle of auscultation）的三個邊由下列那些構造形成？",
+    "options": {
+      "A": "斜方肌（trapezius）、闊背肌（latissimus dorsi）、肩胛骨（scapula）內側緣",
+      "B": "闊背肌（latissimus dorsi）、腹外斜肌（external abdominal oblique muscle）、髂骨嵴（iliac crest）",
+      "C": "小菱形肌（rhomboid minor）、提肩胛肌（levator scapulae）、肩胛骨（scapula）內側緣",
+      "D": "腹外斜肌（external abdominal oblique muscle）、腹內斜肌（internal abdominal oblique muscle）、 髂骨嵴（iliac crest）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 27 題",
+    "question": "屈指淺肌（flexor digitorum superficialis）的遠端附著於下列何者？",
+    "options": {
+      "A": "遠端指骨（distal phalange）",
+      "B": "中端指骨（middle phalange）",
+      "C": "近端指骨（proximal phalange）",
+      "D": "腕骨（metacarpal bone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 28 題",
+    "question": "無痛分娩時麻醉藥打入脊椎管（vertebral canal）內一個富含脂肪組織與靜脈叢（venous plexus）的空 間是：",
+    "options": {
+      "A": "硬脊膜外腔（epidural space）",
+      "B": "硬脊膜下腔（subdural space）",
+      "C": "蜘蛛膜下腔（subarachnoid space）",
+      "D": "脊髓中央管（central canal of spinal cord）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

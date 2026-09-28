@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 115 年第二次醫師國考第 37 題",
+    "question": "製備生物組織切片，最常見之先後順序為何？",
+    "options": {
+      "A": "福馬林固定→染色→切片→包埋",
+      "B": "福馬林固定→包埋→切片→染色",
+      "C": "包埋→切片→染色→福馬林固定",
+      "D": "切片→染色→福馬林固定→包埋"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 38 題",
+    "question": "下列何者為骨骼肌與心肌的肌膜（sarcolemma）所形成的構造，負責傳遞神經衝動？",
+    "options": {
+      "A": "肌漿網（sarcoplasmic reticulum）",
+      "B": "T 小管（T-tubule）",
+      "C": "肌束膜（perimysium）",
+      "D": "終池（terminal cisternae）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 39 題",
+    "question": "有關骨細胞（osteocytes），下列敘述何者正確？",
+    "options": {
+      "A": "常以同源細胞群（isogenous groups）聚集在腔隙（lacunae）內",
+      "B": "骨細胞間透過間隙接合（gap junctions）傳遞訊息",
+      "C": "可以轉化成蝕骨細胞（osteoclasts）",
+      "D": "骨細胞是由顆粒球前驅細胞（granulocyte progenitor cell）轉化而來"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 40 題",
+    "question": "關於室管膜細胞（ependymal cell）的特徵，下列何者正確？",
+    "options": {
+      "A": "主要為不具有外板（external lamina）的單層上皮",
+      "B": "由星狀細胞（astrocyte）分化而來",
+      "C": "蛛網膜（arachnoid）中的主要細胞群",
+      "D": "構成血腦障壁（blood-brain barrier）的一部分"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 41 題",
+    "question": "下列關於淋巴結（lymph node）的敘述，何者正確？",
+    "options": {
+      "A": "由樹狀細胞（dendritic cell）製造網狀纖維（reticular fiber），維持淋巴結的組織結構",
+      "B": "此處的巨噬細胞（macrophage）較一般抗原呈現細胞（antigen-presenting cell）功能佳",
+      "C": "大部分淋巴球（lymphocyte）經由高內皮小靜脈（high endothelial venule）進入淋巴結",
+      "D": "具有靜脈竇（venous sinus）回收淋巴至血液循環，其內襯有連續型的內皮細胞"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 42 題",
+    "question": "下列何種器官內襯有內皮（endothelium），而外覆蓋有間皮（mesothelium）？",
+    "options": {
+      "A": "胃（stomach）",
+      "B": "子宮（uterus）",
+      "C": "膀胱（urinary bladder）",
+      "D": "心臟（heart）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 43 題",
+    "question": "食道（esophagus）中那一段外肌層（muscularis externa）僅有平滑肌（smooth muscle）？",
+    "options": {
+      "A": "中三分之一段",
+      "B": "上三分之一段",
+      "C": "下三分之一段",
+      "D": "上三分之二段"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 44 題",
+    "question": "下列關於毛囊（hair follicle）結構的敘述，何者正確？",
+    "options": {
+      "A": "外根鞘（external root sheath）會由皮膚表皮向下延伸至毛球（hair bulb），其細胞層數皆不會發生改 變",
+      "B": "毛基質（hair matrix）圍繞毛囊真皮乳頭（dermal papilla），其細胞皆由黑色素細胞（melanocytes）構 成",
+      "C": "玻璃樣膜（glassy membrane）屬於過碘酸雪夫氏染色（periodic acid-Schiff, PAS）陰性的基底膜構造",
+      "D": "毛囊隆突（follicular bulge）為毛囊與皮脂腺的主要幹細胞來源，可分化為毛囊生長所需的細胞"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 45 題",
+    "question": "下列那一種細胞會製造和分泌睪固酮（testosterone）？",
+    "options": {
+      "A": "史托利細胞（Sertoli cell）",
+      "B": "萊氏细胞（Leydig cell）",
+      "C": "精細胞（spermatid）",
+      "D": "基底細胞（basal cell）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 115 年第二次醫師國考第 46 題",
+    "question": "下列關於乳腺（mammary gland）組織結構的敘述，何者正確？",
+    "options": {
+      "A": "輸乳管（lactiferous duct）靠近末端有一膨大的部分，稱為輸乳竇（lactiferous sinus）",
+      "B": "輸乳竇（lactiferous sinus）的上皮結構是複層柱狀上皮（stratified columnar epithelium）",
+      "C": "乳腺是特化的皮脂腺（modified sebaceous gland）",
+      "D": "乳腺不具有肌上皮細胞（myoepithelial cell）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

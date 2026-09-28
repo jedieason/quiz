@@ -1,0 +1,374 @@
+[
+  {
+    "origin": "出自 114 年第二次醫師國考第 1 題",
+    "question": "下列位於腦幹的神經核中，那一神經核與小腦（cerebellum）有直接且大量的神經纖維連結？",
+    "options": {
+      "A": "動眼神經核（oculomotor nucleus）",
+      "B": "三叉神經脊髓核（spinal trigeminal nucleus）",
+      "C": "三叉神經橋腦核（pontine trigeminal nucleus）",
+      "D": "前庭神經核（vestibular nucleus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 2 題",
+    "question": "視覺皮質（primary visual cortex）主要由下列何者供應血液？",
+    "options": {
+      "A": "上小腦動脈（superior cerebellar artery）",
+      "B": "前大腦動脈（anterior cerebral artery）",
+      "C": "中大腦動脈（middle cerebral artery）",
+      "D": "後大腦動脈（posterior cerebral artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 3 題",
+    "question": "基底核（basal ganglia）傳出的神經纖維進入下列丘腦（thalamus）的那一個核區？",
+    "options": {
+      "A": "腹前側核（ventral anterior nuclei）",
+      "B": "前側核（anterior nuclei）",
+      "C": "腹後外側核（ventral posterior lateral nuclei）",
+      "D": "腹後內側核（ventral posterior medial nuclei）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 4 題",
+    "question": "從大腦皮質發出至脊髓的大腦皮質脊髓徑（corticospinal tract），一般不通過下列何處？",
+    "options": {
+      "A": "延腦的錐體（pyramid of medulla oblongata）",
+      "B": "中腦的基底腳（basis pedunculi of midbrain）",
+      "C": "橋腦的基部（basilar pons）",
+      "D": "內囊的前肢（anterior limb of internal capsule）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 5 題",
+    "question": "在牽張反射（muscle stretch reflex）中，負責將高基氏肌腱受器（Golgi tendon organ）的訊號往脊髓傳 送的神經纖維屬於下列何種類型？",
+    "options": {
+      "A": "group Ia",
+      "B": "group Ib",
+      "C": "Aδ",
+      "D": "C"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 6 題",
+    "question": "下列何者位於大腦額葉？",
+    "options": {
+      "A": "angular gyrus",
+      "B": "Broca's area",
+      "C": "transverse gyri of Heschl",
+      "D": "cuneus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 7 題",
+    "question": "下列何者不含內淋巴液？",
+    "options": {
+      "A": "球囊（saccule）",
+      "B": "橢圓囊（utricle）",
+      "C": "耳蝸管（cochlear duct）",
+      "D": "鼓室階（scala tympani）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 8 題",
+    "question": "下列神經與其支配肌肉之說明，何者錯誤？",
+    "options": {
+      "A": "滑車神經（trochlear nerve）支配上斜肌（superior oblique）",
+      "B": "動眼神經（oculomotor nerve）支配下斜肌（inferior oblique）",
+      "C": "動眼神經（oculomotor nerve）支配外直肌（lateral rectus）",
+      "D": "動眼神經（oculomotor nerve）支配提上眼瞼肌（levator palpebrae superioris）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 9 題",
+    "question": "下列何者與頰肌（buccinator）由相同的神經支配？",
+    "options": {
+      "A": "上直肌（superior rectus）",
+      "B": "上斜肌（superior oblique）",
+      "C": "外直肌（lateral rectus）",
+      "D": "口輪匝肌（orbicularis oris）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 10 題",
+    "question": "「新式骨傳導耳機」在傳遞聲波時，省去下列那一傳遞結構？",
+    "options": {
+      "A": "前庭耳蝸神經（vestibulocochlear nerve）",
+      "B": "柯蒂氏器（organ of Corti）",
+      "C": "耳蝸（cochlea）",
+      "D": "外聽道（external acoustic meatus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 11 題",
+    "question": "當舌神經（lingual nerve）於顳下窩（infratemporal fossa）內受損時，下列那種舌乳突（papillae）的 一般感覺訊息傳遞最不可能受影響？",
+    "options": {
+      "A": "輪廓狀乳突（vallate papillae）",
+      "B": "葉狀乳突（foliate papillae）",
+      "C": "絲狀乳突（filiform papillae）",
+      "D": "蕈狀乳突（fungiform papillae）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 12 題",
+    "question": "下頷骨角（angle of mandible）處的皮膚喪失痛覺，最可能是下列那條神經受損？",
+    "options": {
+      "A": "頰神經（buccal nerve）",
+      "B": "耳大神經（great auricular nerve）",
+      "C": "枕小神經（lesser occipital nerve）",
+      "D": "頦神經（mental nerve）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 13 題",
+    "question": "下列何者不參與形成翼腭窩（pterygopalatine fossa）？",
+    "options": {
+      "A": "蝶骨（sphenoid bone）",
+      "B": "顳骨（temporal bone）",
+      "C": "腭骨（palatine bone）",
+      "D": "上頷骨（maxilla bone）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 14 題",
+    "question": "下列何者不在頸部的肌三角（muscular triangle）內？",
+    "options": {
+      "A": "胸骨甲狀肌（sternothyroid muscle）",
+      "B": "甲狀腺（thyroid gland）",
+      "C": "氣管（trachea）",
+      "D": "外頸動脈（external carotid artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 15 題",
+    "question": "關於肋骨與胸廓（thoracic cage）的連接方式，下列敘述何者最恰當？",
+    "options": {
+      "A": "第一肋骨一般與第一胸椎（thoracic vertebra）以及第七頸椎（cervical vertebra）相接",
+      "B": "第九肋骨和胸骨（sternum），通常直接相連接",
+      "C": "第六肋骨與第六胸椎的下肋關節面（inferior costal facet）相連接",
+      "D": "第十一胸椎通常不含橫肋關節面（transverse costal facet），因此第十一肋骨只有其頭端（head of rib）和第十一胸椎相接"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 16 題",
+    "question": "一般情況下，下列何者負責將血壓與血液化學變化訊息傳入中樞神經系統以參與心臟反射（cardiac  reflex）？",
+    "options": {
+      "A": "迷走神經（vagus nerve）",
+      "B": "頸部交感神經（cervical sympathetic nerve）",
+      "C": "胸部交感神經（thoracic sympathetic nerve）",
+      "D": "胸部內臟神經（thoracic splanchnic nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 17 題",
+    "question": "有關心包膜橫竇（transverse pericardial sinus）的解剖位置描述，下列何者最恰當？",
+    "options": {
+      "A": "位在上腔靜脈（superior vena cava）的前方",
+      "B": "位在肺靜脈（pulmonary vein）的後方",
+      "C": "位在左心房下方",
+      "D": "位在肺動脈幹（pulmonary trunk）與主動脈（aorta）之間"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 18 題",
+    "question": "下列那部分的冠狀動脈栓塞最不可能造成左心房、左心室前壁與側壁、心尖以及心室中隔缺氧？",
+    "options": {
+      "A": "前室間支（anterior interventricular branch）",
+      "B": "後室間支（posterior interventricular branch）",
+      "C": "右邊緣支（right marginal branch）",
+      "D": "左迴旋支（left circumflex branch）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 19 題",
+    "question": "下列何者不具備腸繫膜（mesentery）的構造？",
+    "options": {
+      "A": "十二指腸下降段（descending part of duodenum）",
+      "B": "闌尾（appendix）",
+      "C": "乙狀結腸（sigmoid colon）",
+      "D": "橫結腸（transverse colon）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 20 題",
+    "question": "支配胃大彎處（greater curvature of the stomach）的左胃網膜動脈（left gastroepiploic artery）， 源自下列那條動脈？",
+    "options": {
+      "A": "總肝動脈（common hepatic artery）",
+      "B": "左胃動脈（left gastric artery）",
+      "C": "後胃動脈（posterior gastric artery）",
+      "D": "脾動脈（splenic artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 21 題",
+    "question": "前腹壁內面的臍內側韌帶（medial umbilical fold），是因腹膜（peritoneum）包覆下列何種結構所形成？",
+    "options": {
+      "A": "輸精管（vas deferens）",
+      "B": "臍動脈（umbilical artery）",
+      "C": "上腹壁動脈（superior epigastric artery）",
+      "D": "肝靜脈（hepatic vein）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 22 題",
+    "question": "前下腹壁的皮下脂肪主要存在於下列那一層？",
+    "options": {
+      "A": "Camper's fascia",
+      "B": "Scarpa's fascia",
+      "C": "腹橫筋膜（transversalis fascia）",
+      "D": "闊筋膜（fascia lata）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 23 題",
+    "question": "關於前列腺（prostate），下列敘述何者錯誤？",
+    "options": {
+      "A": "除了腺體組織（glandular tissue），也含纖維肌肉組織（fibromuscular tissue）",
+      "B": "後表面靠近直腸（rectum）",
+      "C": "其血液供應最主要來自上膀胱動脈（superior vesical artery）",
+      "D": "前列腺靜脈叢（prostatic venous plexus）和膀胱靜脈叢（vesical venous plexus）相連通"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 24 題",
+    "question": "關於陰莖深背靜脈（deep dorsal vein of penis），下列敘述何者正確？",
+    "options": {
+      "A": "主要收集陰莖皮膚的血液",
+      "B": "走在陰莖背面，位於巴克氏筋膜（Buck's fascia）的淺層",
+      "C": "穿過陰莖襻狀韌帶（fundiform ligament of penis）進入骨盆腔",
+      "D": "進入骨盆腔後會將血液注入前列腺靜脈叢（prostatic venous plexus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 25 題",
+    "question": "關於男性會陰部肌肉，下列敘述何者正確？",
+    "options": {
+      "A": "坐骨海綿體肌（ischiocavernosus）收縮可壓迫陰莖球（bulb of penis），有助於維持陰莖勃起",
+      "B": "於排尿後期，球海綿體肌（bulbospongiosus）收縮有助於將尿道內殘留尿液排出",
+      "C": "坐骨海綿體肌（ischiocavernosus）附著於會陰體（perineal body）",
+      "D": "會陰淺橫肌（superficial transverse perineal muscle）附著於坐骨棘（ischial spine）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 26 題",
+    "question": "關於膀胱（urinary bladder）的神經支配，下列敘述何者錯誤？",
+    "options": {
+      "A": "下腹神經（hypogastric nerves）包含支配膀胱的交感神經纖維（sympathetic fibers）",
+      "B": "薦內臟神經（sacral splanchnic nerves）包含支配膀胱的副交感神經纖維（parasympathetic fibers）",
+      "C": "交感神經纖維（sympathetic fibers）可刺激尿道內括約肌（internal urethral sphincter）收縮",
+      "D": "副交感神經纖維（parasympathetic fibers）可刺激逼尿肌（detrusor muscle）收縮"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 27 題",
+    "question": "下列何者是鎖骨下動脈（subclavian artery）的直接分支？",
+    "options": {
+      "A": "上胸動脈（superior thoracic artery）",
+      "B": "外胸動脈（lateral thoracic artery）",
+      "C": "內胸動脈（internal thoracic artery）",
+      "D": "胸肩峰動脈（thoraco-acromial artery）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 28 題",
+    "question": "下列何動作不是大腿前肌群的作用？",
+    "options": {
+      "A": "彎曲髖關節（flex hip joint）",
+      "B": "外旋大腿（laterally rotate thigh）",
+      "C": "伸直膝關節（extend knee joint）",
+      "D": "伸直髖關節（extend hip joint）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 29 題",
+    "question": "下圖黑色陰影區域的表皮感覺神經來自： [圖片]",
+    "options": {
+      "A": "正中神經（median nerve）",
+      "B": "肌皮神經（musculocutaneous nerve）",
+      "C": "橈神經（radial nerve）",
+      "D": "尺神經（ulnar nerve）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 30 題",
+    "question": "股骨（femur）的內收結節（adductor tubercle）位於何處？",
+    "options": {
+      "A": "大轉子（greater trochanter）內側",
+      "B": "內上髁（medial epicondyle）上方",
+      "C": "外上髁（lateral epicondyle）下方",
+      "D": "小轉子（lesser trochanter）外方"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 114 年第二次醫師國考第 31 題",
+    "question": "下列何者不是膕動脈（popliteal artery）的分支？",
+    "options": {
+      "A": "降膝動脈（descending genicular artery）",
+      "B": "上膝動脈（superior genicular artery）",
+      "C": "中膝動脈（middle genicular artery）",
+      "D": "下膝動脈（inferior genicular artery）"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

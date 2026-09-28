@@ -1,0 +1,259 @@
+[
+  {
+    "origin": "出自 104 年第一次醫師國考第 42 題",
+    "question": "下列有關Kanagawa hemolysin 之敘述，何者錯誤？",
+    "options": {
+      "A": "由Vibrio parahaemolyticus 所分泌",
+      "B": "是一種對熱穩定的毒素",
+      "C": "在羊血培養基呈β 溶血現象",
+      "D": "會導致水瀉（watery diarrhea）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 43 題",
+    "question": "為何鼠疫桿菌（Yersinia pestis）被認為是較有潛能的生物戰劑？",
+    "options": {
+      "A": "這細菌廣泛存在於歐亞大陸，易於分離",
+      "B": "現無有效的抗生素可以抑制它",
+      "C": "很容易經由蚊子叮咬，而傳播到許多人",
+      "D": "肺鼠疫易於傳染，且死亡率高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 44 題",
+    "question": "產生腸毒素的大腸桿菌，其對熱穩定的毒素，有下列何種作用機制？",
+    "options": {
+      "A": "溶解脂肪，打破細胞膜",
+      "B": "抑制蛋白質的合成",
+      "C": "活化發炎反應（inflammation）",
+      "D": "活化次級信號分子"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 45 題",
+    "question": "關於Actinomyces 之敘述，下列何者正確？",
+    "options": {
+      "A": "為兼性或絕對厭氧菌",
+      "B": "具有細胞核膜及粒線體",
+      "C": "主要以抗黴菌藥物治療",
+      "D": "常引起人與人之間傳染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 46 題",
+    "question": "下列那種細菌毒素的作用機制是抑制蛋白質的合成？",
+    "options": {
+      "A": "志賀毒素（shiga toxin）",
+      "B": "霍亂毒素（cholera toxin）",
+      "C": "破傷風毒素（tetanospasmin）",
+      "D": "肉毒桿菌毒素（botulinum toxin）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 47 題",
+    "question": "關於Staphylococcus aureus 的特徵，下列何者錯誤？",
+    "options": {
+      "A": "Gram-positive cocci",
+      "B": "β-hemolysis",
+      "C": "Catalase-positive",
+      "D": "Coagulase-negative"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 48 題",
+    "question": "下列有關Streptococcus pyogenes 的敘述，那一項錯誤？",
+    "options": {
+      "A": "Group-specific carbohydrate 又稱Lancefield group 抗原是用來區分毒性及非毒性Group A Streptococcus 的分類標準",
+      "B": "M protein 是用來區分不同種類Group A Streptococcus 的抗原之一",
+      "C": "M-like surface proteins 因菌種不同而表現也不一致",
+      "D": "並非每一支不同亞型的Group A Streptococcus 都會產生莢膜（capsule）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 49 題",
+    "question": "一名69 歲住院接受血癌（leukemia）治療的病人，住院後第三天發生尿道感染，醫師即刻施以廣效 型抗生素治療一週，並於治療前所取得的尿液檢體中檢出大腸桿菌（Escherichia coli）。住院兩週後，病 人突發高燒並寒顫，24 小時內血壓即下降，並出現壞死性膿瘡性皮膚病變。此時，由病人血液中檢出 一株革蘭氏陰性，不發酵醣類，且產生螢光色素的細菌。下列何者最有可能是此致病菌？",
+    "options": {
+      "A": "綠膿桿菌（Pseudomonas aeruginosa）",
+      "B": "傷寒桿菌（Salmonella Typhi）",
+      "C": "創傷弧菌（Vibrio vulnificus）",
+      "D": "炭疽桿菌（Bacillus anthracis）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 50 題",
+    "question": "【背景題幹：一名69 歲住院接受血癌（leukemia）治療的病人，住院後第三天發生尿道感染，醫師即刻施以廣效 型抗生素治療一週，並於治療前所取得的尿液檢體中檢出大腸桿菌（Escherichia coli）。住院兩週後，病 人突發高燒並寒顫，24 小時內血壓即下降，並出現壞死性膿瘡性皮膚病變。此時，由病人血液中檢出 一株革蘭氏陰性，不發酵醣類，且產生螢光色素的細菌。下列何者最有可能是此致病菌？】\n承上題，下列有關此菌的敘述，何者正確？",
+    "options": {
+      "A": "此菌為一種厭氧菌（anaerobe）",
+      "B": "此菌廣泛存在於環境中",
+      "C": "此菌罕由傷口感染人體",
+      "D": "可施打疫苗以預防此菌之感染"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 51 題",
+    "question": "下列那一種感染原是屬於“obligate intracellular bacteria”？",
+    "options": {
+      "A": "Chlamydia trachomatis",
+      "B": "Treponema pallidum",
+      "C": "Clostridium botulinum",
+      "D": "Pseudomonas aeruginosa"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 52 題",
+    "question": "下列關於傳染性紅斑症（erythema infectiosum）的敘述，何者錯誤？",
+    "options": {
+      "A": "臉部紅疹出現在類感冒症狀之後",
+      "B": "由Parvovirus B19 引起",
+      "C": "此病毒在成人可能會引發關節炎",
+      "D": "病毒偏好感染白血球前期細胞"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 53 題",
+    "question": "嬰兒玫瑰疹（roseola infantum）或稱exanthem subitum 在發疹前會突然出現幾天的高燒，請問下列何 種病毒會造成此疾病？",
+    "options": {
+      "A": "Parvovirus B19",
+      "B": "Human herpesvirus-6",
+      "C": "Rubella virus",
+      "D": "Varicella-zoster virus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 54 題",
+    "question": "下列病毒與其自然宿主之配對，何者錯誤？",
+    "options": {
+      "A": "黃熱病病毒（Yellow fever virus）與鳥類",
+      "B": "登革熱病毒（Dengue virus）與人類、猴子",
+      "C": "日本腦炎病毒（Japanese encephalitis virus）與鳥類、豬",
+      "D": "聖路易斯腦炎病毒（St. Louis encephalitis virus）與鳥類"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 55 題",
+    "question": "下列何者為德國麻疹病毒（Rubella virus）的致病機制？",
+    "options": {
+      "A": "經消化道感染柱狀上皮細胞",
+      "B": "先在呼吸道增殖，再感染網狀內皮系統",
+      "C": "經蚊子叮咬直接產生病毒血症",
+      "D": "先在肌肉增殖，並擴散到中樞神經"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 56 題",
+    "question": "下列關於progressive multifocal leukoencephalopathy（PML）的敘述，何者錯誤？",
+    "options": {
+      "A": "常發生於免疫不全的病人",
+      "B": "由BK 病毒所引起",
+      "C": "是一種脫髓鞘（demyelination）的疾病",
+      "D": "病人大部分2 年內會死亡"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 57 題",
+    "question": "下列何者會造成多個細胞的膜融合（syncytia），形成多核細胞？",
+    "options": {
+      "A": "Herpesvirus",
+      "B": "Bunyavirus",
+      "C": "Flavivirus",
+      "D": "Rotavirus"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 58 題",
+    "question": "從事醫院臨床工作者為避免遭受B 型肝炎病毒的感染，常用的預防方法為何？",
+    "options": {
+      "A": "施打B 型肝炎疫苗",
+      "B": "注射干擾素",
+      "C": "注射B 型肝炎免疫球蛋白",
+      "D": "主動感染B 型肝炎病毒"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 59 題",
+    "question": "下列何種黴菌主要感染途徑不是吸入感染？",
+    "options": {
+      "A": "Coccidioides immitis",
+      "B": "Candida glabrata",
+      "C": "Histoplasma capsulatum",
+      "D": "Blastomyces dermatitidis"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 60 題",
+    "question": "關於Pneumocystis jirovecii（carinii）之敘述，下列何者正確？",
+    "options": {
+      "A": "目前分類為原蟲",
+      "B": "屬於Archiascomycetes",
+      "C": "於人工培養基生長緩慢",
+      "D": "經常感染肺結核病病人"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者均給分。"
+  },
+  {
+    "origin": "出自 104 年第一次醫師國考第 61 題",
+    "question": "關節孢子（arthroconidia）是下列何種黴菌之鑑定特徵？",
+    "options": {
+      "A": "Coccidioides immitis",
+      "B": "Fusarium solani",
+      "C": "Histoplasma capsulatum",
+      "D": "Malassezia furfur"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

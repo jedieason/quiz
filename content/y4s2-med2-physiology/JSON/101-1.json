@@ -1,0 +1,321 @@
+[
+  {
+    "origin": "出自 101 年第一次醫師國考第 1 題",
+    "question": "正常情況下，腦神經細胞所消耗的能量主要由下列何者提供？",
+    "options": {
+      "A": "glucose",
+      "B": "fatty acids",
+      "C": "sucrose",
+      "D": "amino acids"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 2 題",
+    "question": "黃體（corpus luteum）的生成主要是受何種激素的影響？",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "TSH",
+      "D": "PRL"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 3 題",
+    "question": "某甲在921 大地震時，受極度驚嚇，此後數年中，輕微震動即能引發他驚慌地立即逃出戶外，這種 經驗記憶助其快速逃離類似之危險。下列那一個結構可強化此類記憶？",
+    "options": {
+      "A": "striatum",
+      "B": "hypothalamus",
+      "C": "red nucleus",
+      "D": "amygdala"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 4 題",
+    "question": "膽固醇（cholesterol）進入目標細胞粒線體內層膜（inner membrane），係經由何種酵素轉變成為妊 烯醇酮（pregnenolone）？",
+    "options": {
+      "A": "3β-類固醇去氫酶（3β-hydroxysteroid dehydrogenase, 3β-HSD）",
+      "B": "17α-羥化酶（17α-hydroxylase）",
+      "C": "膽固醇碳鏈酶（cholesterol desmolase）",
+      "D": "21β-羥化酶（21β-hydroxylase）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 5 題",
+    "question": "Organ of Corti 內outer hair cells 大量損壞死亡，而inner hair cells 仍然健全，則該耳聽力會如何？",
+    "options": {
+      "A": "完全喪失聽力",
+      "B": "喪失高頻率聲音聽覺",
+      "C": "無法聽清楚音量小的聲音",
+      "D": "喪失判斷聲音方向之能力（指其所能聽得之聲音）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 6 題",
+    "question": "關於單糖在小腸上皮細胞吸收之敘述，下列何者正確？",
+    "options": {
+      "A": "果糖（fructose）主要以被動擴散（passive diffusion）方式吸收",
+      "B": "半乳糖（galactose）主要以次級主動運輸方式吸收",
+      "C": "葡萄糖（glucose）主要以促進性擴散（facilitated diffusion）方式吸收",
+      "D": "五碳糖（pentose）主要以初級主動運輸方式吸收"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或AB者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 7 題",
+    "question": "下列何者與骨骼肌活動之控制最無直接關係？",
+    "options": {
+      "A": "premotor cortex",
+      "B": "cerebellum",
+      "C": "limbic system",
+      "D": "posterior parietal cortex"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 8 題",
+    "question": "以力學的觀點而言，下列那一條件在循環系統中一定不會造成水腫？（Pc＝微血管靜水壓；Pif＝組織 間隙靜水壓；πc＝微血管滲透壓；πif＝組織間隙滲透壓）",
+    "options": {
+      "A": "Pc＞Pif 並且πc＞πif",
+      "B": "Pc＞Pif 並且πc＜πif",
+      "C": "Pc＜Pif 並且πc＞πif",
+      "D": "Pc＜Pif 並且πc＜πif"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 9 題",
+    "question": "下列關於左心室收縮的敘述，何者正確？",
+    "options": {
+      "A": "正常之心室舒張末期，左心室仍約留有180 mL 的血液",
+      "B": "正常之心室收縮末期，左心室仍約留有50 mL 的血液",
+      "C": "正常之左心室射出分率為70-80%",
+      "D": "休息時每一次左心室約打出90-120 mL 之血液"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或BC者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 10 題",
+    "question": "下列何種狀況，心雜音會在舒張期（diastolic phase）出現？",
+    "options": {
+      "A": "貧血病人",
+      "B": "健康小孩",
+      "C": "二尖瓣狹窄",
+      "D": "肺動脈瓣狹窄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 11 題",
+    "question": "下列何者是心臟電位傳導最後到達之處？",
+    "options": {
+      "A": "左心房後壁",
+      "B": "左心室前壁",
+      "C": "右心室後壁",
+      "D": "左心室後壁"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答 Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 12 題",
+    "question": "下列有關肺微循環和體微循環的比較，何者錯誤？",
+    "options": {
+      "A": "肺微血管壓較周邊組織微血管壓小",
+      "B": "肺間質液壓（interstitial fluid pressure）較周邊組織間質液壓為低",
+      "C": "肺間質液的膠體滲透壓（colloidal osmotic pressure）較周邊組織間質液的膠體滲透壓小",
+      "D": "正常肺的平均通透壓（mean filtration pressure）約為1 mmHg"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 13 題",
+    "question": "當肺臟的順應性（lung compliance）減少時，呼吸的型態常呈現何種方式，藉以吸入足量的空氣？",
+    "options": {
+      "A": "呼吸頻率變快；潮氣容積變大",
+      "B": "呼吸頻率變快；潮氣容積變小",
+      "C": "呼吸頻率變慢；潮氣容積變大",
+      "D": "呼吸頻率變慢；潮氣容積變小"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 14 題",
+    "question": "當體循環中的動脈血液氧分壓：100 mmHg；二氧化碳分壓：50 mmHg；pH 值：7.4。此時，導致肺 通氣量增加是由於下列何者之作用？①中樞化學接受器（central chemoreceptors） ②周邊化學接 受器（peripheral chemoreceptors）",
+    "options": {
+      "A": "僅②",
+      "B": "①＋②；且①＝②",
+      "C": "①＋②；且①＞②",
+      "D": "①＋②；且①＜②"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 15 題",
+    "question": "控制吸氣時間長短的pneumotaxic center 位於何處？",
+    "options": {
+      "A": "延腦背側（dorsal portion of medulla）",
+      "B": "延腦腹側（ventral portion of medulla）",
+      "C": "中腦（midbrain）",
+      "D": "橋腦（pons）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 16 題",
+    "question": "刺激副交感神經會發生下列那一種現象？",
+    "options": {
+      "A": "膀胱逼尿肌放鬆",
+      "B": "腸胃括約肌放鬆",
+      "C": "瞳孔放大",
+      "D": "皮膚和黏膜血管放鬆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 17 題",
+    "question": "下列何者和一氧化氮（NO）的生理及病理作用最無關？",
+    "options": {
+      "A": "心室重塑（ventricular remodeling）",
+      "B": "血管新生（angiogenesis）",
+      "C": "動脈硬化（atherosclerosis）",
+      "D": "陰莖勃起（penile erection）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 18 題",
+    "question": "某人經緊急輸血1,000 c.c.後，仍然出血不止。此時其血中血紅素（hemoglobin）為9.9 g/dL，白血 球（white blood cells）為10,400/μL，血小板（platelets）為220,000/μL。其出血較可能之原因為何？",
+    "options": {
+      "A": "血小板被破壞",
+      "B": "血中fibrinogen 缺乏",
+      "C": "血中protein C 缺乏",
+      "D": "急性血管發炎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 19 題",
+    "question": "抗利尿激素（ADH）可增加下列何者對水的通透性？",
+    "options": {
+      "A": "近端腎小管（proximal tubule）",
+      "B": "亨利氏彎管下行支（descending limb of the loop of Henle）",
+      "C": "亨利氏彎管上行支（ascending limb of the loop of Henle）",
+      "D": "集尿管（collecting duct）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 20 題",
+    "question": "下列何者和膽結石的形成沒有直接關係？",
+    "options": {
+      "A": "脂肪酶（Lipase）",
+      "B": "膽汁鹽（Bile salt）",
+      "C": "卵磷脂（Lecithin）",
+      "D": "膽固醇（Cholesterol）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 21 題",
+    "question": "下列那一種消化道激素會刺激胃酸和胃蛋白酶的分泌，並且與胃和腸道黏膜的增生有關？",
+    "options": {
+      "A": "cholecystokinin",
+      "B": "gastrin",
+      "C": "ghrelin",
+      "D": "somatostatin"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 22 題",
+    "question": "關於維持血中鈣質恆定之機制，下列何者非副甲狀腺激素（parathyroid hormone）之直接作用？",
+    "options": {
+      "A": "增加小腸鈣質吸收（absorption）",
+      "B": "增加骨骼鈣質吸收（resorption）",
+      "C": "增加腎小管鈣質再吸收（reabsorption）",
+      "D": "減少腎小球磷質再吸收"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或 Ｂ或Ｄ或AB或AD或BD或ABD者均給分。"
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 23 題",
+    "question": "一位28 歲男性，婚前健康檢查時發現精液中沒有精子。醫師做外陰部檢查時，發現陰部毛髮及外生 殖器發育大致為正常，但兩側的輸精管發育不全。關於本病患輸精管的發育，下列敘述何者最佳？",
+    "options": {
+      "A": "因胚胎時期副中腎管（paramesonephric duct）發育不全之故",
+      "B": "因胚胎時期有AMH（anti-Müllerian hormone）的分泌之故",
+      "C": "有可能是因胚胎時期沒有足夠的睪固酮（testosterone）供應",
+      "D": "有可能是因胚胎時期過量的estrogen 暴露所致"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 24 題",
+    "question": "有關懷孕末期高濃度的雌激素（estrogen）及助孕酮（progesterone）調節催產素（oxytocin）促進子 宮肌肉收縮的能力之敘述，下列何者正確？",
+    "options": {
+      "A": "雌激素可抑制催產素對子宮肌肉收縮之作用",
+      "B": "助孕酮可抑制催產素對子宮肌肉收縮之作用",
+      "C": "雌激素及助孕酮均可抑制催產素對子宮肌肉收縮之作用",
+      "D": "雌激素及助孕酮均可增加催產素對子宮肌肉收縮之作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 101 年第一次醫師國考第 25 題",
+    "question": "醫師在四肢易抽搐病患的左耳前臉頰輕敲即可見左側臉部肌肉抽搐，護士為其量血壓時，也發現他 量血壓側的前臂肌肉出現收縮的抽搐現象。此時應要懷疑該病患有下列何種症狀？",
+    "options": {
+      "A": "高血鉀",
+      "B": "高血鈣",
+      "C": "低血鉀",
+      "D": "低血鈣"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

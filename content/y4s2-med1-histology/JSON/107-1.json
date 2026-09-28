@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "出自 107 年第一次醫師國考第 37 題",
+    "question": "血小板不具有下列何者？",
+    "options": {
+      "A": "細胞核（nucleus）",
+      "B": "微絲（microfilament）",
+      "C": "高爾基氏體（Golgi apparatus）",
+      "D": "粒線體（mitochondria）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 38 題",
+    "question": "有關肌肉組織的敘述，下列何者正確？",
+    "options": {
+      "A": "心肌內的細絲（thin filaments）和中間絲（intermediate filaments）會附著至緻密體（dense body）",
+      "B": "平滑肌缺乏T-tubule，而是藉由小凹（caveolae）和小泡（vesicle）運輸鈣離子",
+      "C": "骨骼肌內的T-tubule是位在肌節（sarcomere）的M-line",
+      "D": "骨骼肌的細胞間接合處會形成閏盤（intercalated discs）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 39 題",
+    "question": "下列何者不屬於彈性動脈（elastic artery）？",
+    "options": {
+      "A": "主動脈（aorta）",
+      "B": "頭臂動脈（brachiocephalic artery）",
+      "C": "肺動脈幹（pulmonary trunk）",
+      "D": "肱動脈（brachial artery）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 40 題",
+    "question": "下列何種構造之主成分不是由膠原組織（collagenous tissues）組成？",
+    "options": {
+      "A": "動脈瓣（aortic valves）",
+      "B": "中型靜脈瓣膜（valves of medium-sized vein）",
+      "C": "腱索（chordae tendineae）",
+      "D": "蒲金氏纖維（Purkinje fibers）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 41 題",
+    "question": "製造血液中白蛋白（albumin）的主要場所為？",
+    "options": {
+      "A": "小腸",
+      "B": "脾臟",
+      "C": "胰臟",
+      "D": "肝臟"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 42 題",
+    "question": "下列關於闌尾（appendix）之敘述，何項錯誤？",
+    "options": {
+      "A": "起自盲腸的小型盲端管狀憩室（diverticulum）",
+      "B": "黏膜層（mucosa layer）之內襯上皮為複層扁平上皮（stratified squamous epithelium）",
+      "C": "有相當多的淋巴組織在黏膜下層（submucosa layer）",
+      "D": "外肌層（muscularis externa）有環走及縱走兩層"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 43 題",
+    "question": "下列何者會因神經刺激而釋放出腎上腺素：",
+    "options": {
+      "A": "腎上腺皮質絲球帶（zona glomerulosa）",
+      "B": "腎上腺皮質束狀帶（zona fasciculata）",
+      "C": "腎上腺髓質（adrenal medulla）",
+      "D": "腎上腺皮質網狀帶（zona reticularis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 44 題",
+    "question": "下列何者不出現在陰莖（penis）主幹的皮膚？",
+    "options": {
+      "A": "汗腺（sweat gland）",
+      "B": "皮脂腺（sebaceous gland）",
+      "C": "平滑肌（smooth muscle）",
+      "D": "脂肪細胞（adipocyte）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 45 題",
+    "question": "子宮頸口（uterine external os）的上皮組織屬於下列何者？",
+    "options": {
+      "A": "單層柱狀上皮組織（simple columnar epithelium）",
+      "B": "未角質化複層扁平上皮組織（nonkeratinized stratified squamous epithelium）",
+      "C": "移形上皮細胞（transitional epithelium）",
+      "D": "單層立方上皮組織（simple cuboidal epithelium）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 107 年第一次醫師國考第 46 題",
+    "question": "有關眼球睫狀體（ciliary body），下列敘述何項錯誤？",
+    "options": {
+      "A": "睫狀體位於虹膜（iris）與脈絡膜（choroids）之間",
+      "B": "睫狀肌（ciliary muscle）由骨骼肌所構成",
+      "C": "睫狀體上皮（ciliary epithelium）可以分泌水樣液（aqueous humor）",
+      "D": "水狀液由史萊姆氏管（canal of Schlemm）回收"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

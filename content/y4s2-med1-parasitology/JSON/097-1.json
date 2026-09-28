@@ -1,0 +1,106 @@
+[
+  {
+    "origin": "出自 097 年第一次醫師國考第 75 題",
+    "question": "食用未熟之螺肉，會感染下列何種人體寄生蟲？",
+    "options": {
+      "A": "海獸胃線蟲（Anisakis simplex）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "D": "中華肝吸蟲（Clonorchis sinensis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 76 題",
+    "question": "高蛋白飲食（high-protein diet）可以用來作為治療下列何種人類寄生蟲感染？",
+    "options": {
+      "A": "廣東住血線蟲（Angiostrongylus cantonensis）",
+      "B": "菲律賓毛線蟲（Capillaria philippinensis）",
+      "C": "蛔蟲（Ascaris lumbricoides）",
+      "D": "美洲鉤蟲（Necator americanus）"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 77 題",
+    "question": "下列關於薑片蟲（Fasciolopsis buski）的敘述，何者正確？",
+    "options": {
+      "A": "為寄生在人體肝臟的巨大吸蟲",
+      "B": "因食入淡水魚中的囊狀幼蟲（metacercaria）感染",
+      "C": "嚴重感染時可能發生水腫和腹水現象",
+      "D": "可以用「免疫診斷」來確認診斷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 78 題",
+    "question": "下列有關瘧疾的敘述，何者正確？",
+    "options": {
+      "A": "腦性瘧疾（cerebral malaria）是惡性瘧的併發症之一",
+      "B": "間日瘧患者最常見的併發症為腎病症候群（nephrotic syndrome）",
+      "C": "四種人類之瘧疾中，以惡性瘧的地理分布最廣",
+      "D": "台灣於瘧疾根除後之四十年間，所發現之瘧疾病例均係境外移入"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 79 題",
+    "question": "在游泳池或淡水湖中從事水上育樂活動，通常較不易因此得到的感染是下列何症？",
+    "options": {
+      "A": "梨形鞭毛蟲症（giardiasis）",
+      "B": "隱孢子蟲症（cryptosporidiosis）",
+      "C": "原發性阿米巴腦膜腦炎（primary amebic meningoencephalitis）",
+      "D": "腸道肉孢子蟲症（intestinal sarcosporidiasis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 80 題",
+    "question": "Eflornithine 通常用以治療何種疾病？",
+    "options": {
+      "A": "弓蟲症（toxoplasmosis）",
+      "B": "甘比亞睡眠病（Gambian sleeping sickness）",
+      "C": "片山熱（Katayama fever）",
+      "D": "旋毛蟲症（trichinosis）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 81 題",
+    "question": "下列何種感染症是經由病媒蜱（tick）所傳播？",
+    "options": {
+      "A": "戰壕熱（trench fever）",
+      "B": "艾利希體症（ehrlichiosis）",
+      "C": "回歸熱（relapsing fever）",
+      "D": "登革熱（dengue fever）"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均 給分。"
+  },
+  {
+    "origin": "出自 097 年第一次醫師國考第 82 題",
+    "question": "目前台灣地區仍是日本腦炎的流行區，請問台灣地區傳播日本腦炎之病媒為何？",
+    "options": {
+      "A": "矮小瘧蚊（Anopheles minimus）",
+      "B": "白線斑蚊（Aedes albopictus）",
+      "C": "埃及斑蚊（Aedes aegypti）",
+      "D": "三斑家蚊（Culex tritaeniorhynchus）"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

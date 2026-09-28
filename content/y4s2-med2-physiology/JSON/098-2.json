@@ -1,0 +1,309 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 1 題",
+    "question": "阻塞性睡眠呼吸中止症候群患者最常發生呼吸中止是在睡眠的那一個時期？",
+    "options": {
+      "A": "非快速動眼期（non-REM）stage 1",
+      "B": "非快速動眼期stage 2",
+      "C": "非快速動眼期stage 3",
+      "D": "快速動眼期（REM）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 2 題",
+    "question": "精子的生成過程（spermatogenesis）需經過減數分裂（meiosis）。有關減數分裂的敘述，下列何者最 正確？",
+    "options": {
+      "A": "同源染色體（homologous chromosome）聯會（synapsis）可發生於減數分裂及有絲分裂（mitosis）時",
+      "B": "同源染色體聯會之後會發生同源片段的遺傳物質互換（crossing over）",
+      "C": "性染色體（sex chromosome）X 和Y 由於大小相差太大，無法發生如體染色體（autosome）一樣的 同源染色體聯會",
+      "D": "第一次減數分裂（meiosis I）是著絲粒（centromere）分離，同源染色體並不分離"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 3 題",
+    "question": "胎盤對於胎兒之生長發育極為重要，此乃由於其能提供猶如成人除了下列何者以外重要器官之功能？",
+    "options": {
+      "A": "腎臟",
+      "B": "腸胃道",
+      "C": "肺臟",
+      "D": "外分泌腺體"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 4 題",
+    "question": "缺乏那一種激素是引起尿崩症（diabetes insipidus）的主要原因？此激素在何處生成（synthesis）？",
+    "options": {
+      "A": "血管加壓素（vasopressin）；腦下腺後葉",
+      "B": "催產素（oxytocin）；腦下腺後葉",
+      "C": "催產素；下視丘",
+      "D": "血管加壓素；下視丘"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 5 題",
+    "question": "一位60 歲的男性急性心肌梗塞發作，經急救人員施救後送來急診室。抽血檢驗發現：血中的pH 7.12， PCO2 58 mmHg，血中的HCO3 -為18 mEq/L，下列有關他體內酸鹼平衡的敘述，何者正確？",
+    "options": {
+      "A": "呼吸性酸中毒（respiratory acidosis）合併部分性腎代償",
+      "B": "代謝性酸中毒（metabolic acidosis）合併部分性呼吸代償",
+      "C": "呼吸性酸中毒合併代謝性酸中毒",
+      "D": "呼吸性鹼中毒（respiratory alkalosis）合併代謝性鹼中毒（metabolic alkalosis）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 6 題",
+    "question": "在正常情況下，決定腎絲球濾過率（GFR）的史氏力量（Starling forces）中，絕對值最大的為何？",
+    "options": {
+      "A": "腎絲球微血管內血漿的膠性滲透壓（ΠGC）",
+      "B": "腎絲球微血管內的壓力（PGC）",
+      "C": "鮑氏囊中的壓力（PBS）",
+      "D": "鮑氏囊中腎絲球濾過液的膠性滲透壓（ΠBS）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 7 題",
+    "question": "有關於體內鈉離子（$Na^+$）之生理調控及通透，下列敘述何者正確？",
+    "options": {
+      "A": "鈉離子濃度在細胞內液最高",
+      "B": "鈉離子的再吸收主要是靠在近端腎小管之主動運輸（active transport）",
+      "C": "鈉離子的離子濃度梯度（concentration gradient）提供氫離子（$H^+$）共同通透（co-transport）所需 的能量",
+      "D": "鈉離子通過腎元（nephron）之頂管腔膜（apical membrane）主要是靠主動運輸"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 8 題",
+    "question": "全胃切除的病人，可能產生下列何種疾病？",
+    "options": {
+      "A": "夜盲症",
+      "B": "貧血",
+      "C": "軟骨症",
+      "D": "骨質疏鬆症"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 9 題",
+    "question": "下列何種離子大量進入消化道平滑肌細胞，會引發spike potential 後引起平滑肌收縮？",
+    "options": {
+      "A": "鈉離子",
+      "B": "鉀離子",
+      "C": "鈣離子",
+      "D": "鎂離子"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 10 題",
+    "question": "下列何者會因小腸中出現酸性食糜而分泌？",
+    "options": {
+      "A": "胃抑素（gastric inhibitory polypeptide）",
+      "B": "胃泌素（gastrin）",
+      "C": "飢餓素（ghrelin）",
+      "D": "胰泌素（secretin）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 11 題",
+    "question": "下列何種疾病少有肺塌陷（atelectasis）情形？",
+    "options": {
+      "A": "氣胸（pneumothorax）",
+      "B": "乳糜胸（chylothorax）",
+      "C": "新生兒呼吸窘迫症候群（neonatal respiratory distress syndrome）",
+      "D": "周邊性肺癌"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 12 題",
+    "question": "李先生到醫院進行各項肺容積之測量，測量結果顯示總肺活量（total lung capacity）為5800 毫升，餘 容積（residual volume）為1000 毫升，功能性肺餘容量（functional residual capacity）為1800 毫升，潮 氣容積（tidal volume）為500 毫升。李先生的呼氣儲備容積（expiratory reserve volume）為多少毫升？",
+    "options": {
+      "A": "800",
+      "B": "1300",
+      "C": "1500",
+      "D": "2300"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 13 題",
+    "question": "一位健康者於平靜呼氣過程中，不會發生下列何種情況？",
+    "options": {
+      "A": "肺泡壓（alveolar pressure）為正壓",
+      "B": "肋膜內壓（intrapleural pressure）為負壓",
+      "C": "外肋間肌（external intercostal muscles）收縮",
+      "D": "約與吸氣的氣體總量相同"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 14 題",
+    "question": "下列何者不是休克治療失敗（refractory shock 或irreversible shock）的可能原因？",
+    "options": {
+      "A": "大腦嚴重缺血（severe cerebral ischemia）",
+      "B": "血液容積持續不足（persistent reduction of blood volume）",
+      "C": "心肌受到抑制而衰竭（myocardial depression / failure）",
+      "D": "急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 15 題",
+    "question": "正常時，下列何種immunoglobulin（Ig）在血中濃度最高？何種最低？",
+    "options": {
+      "A": "IgM 最高，IgA 最低",
+      "B": "IgA 最高，IgG 最低",
+      "C": "IgE 最高，IgM 最低",
+      "D": "IgG 最高，IgE 最低"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 16 題",
+    "question": "關於不同部位之動脈壓力的敘述，下列何者正確？",
+    "options": {
+      "A": "心室開始收縮時，主動脈內壓力高於左心室內壓力",
+      "B": "心室開始舒張時，左心室內壓力高於左心房內壓力",
+      "C": "頸動脈內壓力通常高於上臂及橈動脈內壓力",
+      "D": "下肢動脈壓力通常高於頸動脈內壓力"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｂ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 17 題",
+    "question": "下列有關nitric oxide synthase（NOS）的敘述，何者正確？",
+    "options": {
+      "A": "NOS 1（nNOS）存在於神經系統，可被交感神經刺激而活化",
+      "B": "NOS 2（iNOS）存在於免疫細胞及巨噬細胞（macrophage），可被bradykinin 活化",
+      "C": "NOS 3（eNOS）存在於血管內皮細胞（endothelial cell），可被cytokine 活化",
+      "D": "NOS 1、NOS 2 及NOS 3 所產生之NO 會被血紅素（hemoglobin）去活化"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 18 題",
+    "question": "Gap junction 常見於下列那些肌肉細胞？",
+    "options": {
+      "A": "single-unit smooth muscle 與skeletal muscle",
+      "B": "multi-unit smooth muscle 與cardiac muscle",
+      "C": "single-unit smooth muscle 與cardiac muscle",
+      "D": "skeletal muscle 與cardiac muscle"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 19 題",
+    "question": "下列有關惡性高溫（malignant hyperthermia）的敘述，何者錯誤？",
+    "options": {
+      "A": "與鈣離子的homeostasis 失調有關",
+      "B": "可能與ryanodine receptor 蛋白的基因缺損有關",
+      "C": "可能與肌漿網（sarcoplasmic reticulum）受器蛋白的基因缺損有關",
+      "D": "主要因為肌肉無法進行收縮作用"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 20 題",
+    "question": "下列何者為糖尿病多發性神經病變（diabetic polyneuropathy）病患的特徵之一？",
+    "options": {
+      "A": "Babinski sign",
+      "B": "Areflexia",
+      "C": "Grasp reflex",
+      "D": "Exaggerated stretch reflex"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 21 題",
+    "question": "造成耳蝸（cochlea）內hair cell 去極化的機轉為何？",
+    "options": {
+      "A": "鉀與鈣離子由endolymph 流入hair cell",
+      "B": "鉀與鈣離子由perilymph 流入hair cell",
+      "C": "鈉與鈣離子由endolymph 流入hair cell",
+      "D": "鈉與鈣離子由perilymph 流入hair cell"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 22 題",
+    "question": "在視覺神經傳導路徑中，最早產生動作電位（action potential）的細胞為何？",
+    "options": {
+      "A": "Bipolar cell",
+      "B": "Ganglion cell",
+      "C": "Horizontal cell",
+      "D": "Photoreceptor cell"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 23 題",
+    "question": "在自主神經系統中，清除神經末梢所釋放之acetylcholine 之最主要機制為何？",
+    "options": {
+      "A": "神經末梢之再回收（re-uptake）機制",
+      "B": "被acetylcholinesterase 水解",
+      "C": "擴散至鄰近微血管內之血流",
+      "D": "不會被清除"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 24 題",
+    "question": "一位30 歲健康男性因車禍嚴重陰囊外傷，而切除兩側睪丸。切除兩側睪丸後，並未予以補充睪酮 （testosterone）。該患者所發生之生理變化，下列何者正確？",
+    "options": {
+      "A": "身高會變得更高一些",
+      "B": "聲音會變得像青春期之前般的童音",
+      "C": "陰部毛髮會逐漸變得稀疏",
+      "D": "陰莖勃起功能會消失"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 25 題",
+    "question": "下列那一種腦下腺激素負責引起排卵？",
+    "options": {
+      "A": "泌乳素（prolactin）",
+      "B": "黃體促素（luteinizing hormone）",
+      "C": "催產素（oxytocin）",
+      "D": "甲促素（thyrotropin）"
+    },
+    "answer": "B",
+    "explanation": ""
+  }
+]

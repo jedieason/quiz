@@ -1,0 +1,302 @@
+[
+  {
+    "origin": "出自 110 年第一次醫師國考第 51 題",
+    "question": "下列何者在用藥前須檢測HLA（human leukocyte antigen）-B*5701基因型，避免藥物造成廣泛性皮膚紅疹與水 疱？",
+    "options": {
+      "A": "amoxicillin",
+      "B": "carbamazepine",
+      "C": "abacavir",
+      "D": "allopurinol"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 52 題",
+    "question": "關於抗生素之敘述，下列何者正確？",
+    "options": {
+      "A": "ampicillin和amoxicillin的吸收不會受到飲食的影響",
+      "B": "dicloxacillin吸收效果差是因為在酸性環境中不穩定",
+      "C": "amoxicillin的抗藥性產生主要是因為β-內醯胺酶（β-lactamase）的產生",
+      "D": "nafcillin主要由腎臟排泄"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 53 題",
+    "question": "關於單株抗體（monoclonal antibody）用於腫瘤治療之敘述，下列何者正確？",
+    "options": {
+      "A": "使用alemtuzumab治療慢性淋巴細胞性白血病較無引發淋巴細胞減少（lymphopenia）的疑慮",
+      "B": "bevacizumab可抑制VEGF對內皮細胞的功能，適用於手術後即時投藥治療",
+      "C": "catumaxomab可同時作用在腫瘤及T細胞上而發揮療效",
+      "D": "cetuximab與ramucirumab的作用機轉同樣都是阻斷腫瘤細胞的EGFR活性"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 54 題",
+    "question": "下列抗癌藥物中，何者可抑制topoisomerase II，導致癌細胞之 DNA 斷裂而產生抗癌作用？",
+    "options": {
+      "A": "busulfan",
+      "B": "cyclophosphamide",
+      "C": "idarubicin",
+      "D": "methotrexate"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 55 題",
+    "question": "下列何者為抗癌合併療法CMF治療乳癌藥物，且屬於pyrimidine類似物，其活性代謝產物可抑制thymidylate synthase？",
+    "options": {
+      "A": "5-fluorouracil",
+      "B": "cytarabine",
+      "C": "methotrexate",
+      "D": "vincristine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 56 題",
+    "question": "關於治療偏頭痛藥物sumatriptan 之敘述，下列何者錯誤？",
+    "options": {
+      "A": "其作用機制在於拮抗5-HT1B/1D",
+      "B": "與抗憂鬱藥SSRI併用可能導致serotonin syndrome",
+      "C": "冠狀動脈疾病（coronary artery disease）病人為使用禁忌",
+      "D": "可引起腦部血管收縮"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 57 題",
+    "question": "關於fenofibrate之敘述，下列何者錯誤？",
+    "options": {
+      "A": "可活化肝臟脂肪酸氧化反應",
+      "B": "可活化PPAR-α受體",
+      "C": "主要副作用為肌肉病變及肝功能異常",
+      "D": "具抑制lipoprotein lipase活性"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 58 題",
+    "question": "東京奧林匹克運動會針對運動員之禁藥檢驗，其中erythropoietin（EPO）被列為重要篩檢項目，下列有關EPO 之敘述何者錯誤？",
+    "options": {
+      "A": "darbepoetin alfa為EPO類似物",
+      "B": "常見副作用為高血壓及血栓症",
+      "C": "受體活化ERK訊息",
+      "D": "刺激紅血球幹細胞增殖及分化"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 59 題",
+    "question": "有關desmopressin促進凝血作用的機轉，下列何者正確？",
+    "options": {
+      "A": "促進plasminogen活化",
+      "B": "調節凝血因子factor VIII的釋放",
+      "C": "增加cyclic AMP的分解",
+      "D": "活化ADP receptor"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 60 題",
+    "question": "李太太最近半年出現心悸、手抖、凸眼等症狀，到醫院就診後發現有甲狀腺機能亢進（hyperthyroidism）的情 況。下列藥物那一種比較不適合她？",
+    "options": {
+      "A": "propylthiouracil",
+      "B": "levothyroxine",
+      "C": "Lugol's solution",
+      "D": "propranolol"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 61 題",
+    "question": "下列何種降血糖藥，較適合用於第一型糖尿病？",
+    "options": {
+      "A": "dapagliflozin",
+      "B": "sitagliptin",
+      "C": "insulin",
+      "D": "glipizide"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 62 題",
+    "question": "下列何種疾病比較不適合使用類固醇／糖皮質激素治療？",
+    "options": {
+      "A": "愛迪生氏病（Addison's disease）",
+      "B": "發炎性腸道疾病（inflammatory bowel disease）",
+      "C": "消化性潰瘍（peptic ulcer）",
+      "D": "氣喘（asthma）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 63 題",
+    "question": "下列何者為D1-dopamine receptor agonist，可以做為降血壓藥物？",
+    "options": {
+      "A": "clonidine",
+      "B": "diazoxide",
+      "C": "fenoldopam",
+      "D": "ketanserin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 64 題",
+    "question": "下列有關acetazolamide利尿劑的敘述，何者正確？",
+    "options": {
+      "A": "作用於遠曲小管位置",
+      "B": "可用於治療青光眼",
+      "C": "易造成耳毒性",
+      "D": "會引起高血鉀"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 65 題",
+    "question": "活化alpha-1交感受體（alpha-1 adrenoceptor）可能引起人體產生的反應中，下列何者錯誤？",
+    "options": {
+      "A": "膀胱逼尿肌（detrusor muscle）收縮",
+      "B": "豎毛肌（pilomotor muscle）收縮",
+      "C": "骨骼肌中血管收縮",
+      "D": "心肌收縮力增強"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 66 題",
+    "question": "下列抗蕈毒性藥物（antimuscarinic drug）中，何者不易通過血腦屏障（blood-brain barrier），因此其吸入性 （inhalational）劑型適合用於舒張慢性阻塞性肺病（chronic obstructive pulmonary disease）患者之氣管，且半 衰期可長達25小時？",
+    "options": {
+      "A": "tropicamide",
+      "B": "ipratropium",
+      "C": "tiotropium",
+      "D": "benztropine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 67 題",
+    "question": "下列何種吸入型氣喘藥物，透過計量吸入器（metered-dose inhaler）使用時，主要只作用在肺臟，短效且幾乎 無生體可用率（bioavailability）？",
+    "options": {
+      "A": "albuterol",
+      "B": "montelukast",
+      "C": "flunisolide",
+      "D": "tiotropium"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 68 題",
+    "question": "下列H2受體拮抗劑（H2-receptor antagonist）間的作用強度（potency）差異可達50倍，其中何者抑制胃酸分泌 的作用強度最強？",
+    "options": {
+      "A": "cimetidine",
+      "B": "ranitidine",
+      "C": "nizatidine",
+      "D": "famotidine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 69 題",
+    "question": "睡眠失調的病人，可以使用下列何種藥物來治療，該藥物是MT1和MT2的致效劑（agonist）？",
+    "options": {
+      "A": "tasimelteon",
+      "B": "sumatriptan",
+      "C": "repinotan",
+      "D": "orlistat"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 70 題",
+    "question": "下列何種藥物最適合用來治療隅角開放性青光眼（open-angle glaucoma）？",
+    "options": {
+      "A": "alprostadil",
+      "B": "latanoprost",
+      "C": "misoprostol",
+      "D": "dinoprostone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 71 題",
+    "question": "下列何種藥物可以有效治療痛風病人的慢性高尿酸血症（chronic hyperuricemia）？",
+    "options": {
+      "A": "tramadol",
+      "B": "rilonacept",
+      "C": "ketorolac",
+      "D": "febuxostat"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 72 題",
+    "question": "治療思覺失調症（schizophrenia）的藥物，下列何者有最顯著的錐體外症候群（extrapyramidal syndrome）的 副作用？",
+    "options": {
+      "A": "haloperidol",
+      "B": "clozapine",
+      "C": "olanzapine",
+      "D": "aripiprazole"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 73 題",
+    "question": "下列藥物何者不易造成精神依賴性（psychological dependence）？",
+    "options": {
+      "A": "cocaine",
+      "B": "psilocybin",
+      "C": "ketamine",
+      "D": "naloxone"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 74 題",
+    "question": "關於抗焦慮藥物buspirone的作用，下列敘述何者錯誤？",
+    "options": {
+      "A": "沒有抗抽搐或肌肉鬆弛的作用",
+      "B": "主要作用在腦部的GABAA受體",
+      "C": "不會增強酒精的作用",
+      "D": "服用數週後抗焦慮作用才會顯現"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 110 年第一次醫師國考第 75 題",
+    "question": "對於過量propranolol導致低血壓和心跳過慢，下列何種解毒劑（antidote）效果最佳？",
+    "options": {
+      "A": "glucagon",
+      "B": "atropine",
+      "C": "digoxin",
+      "D": "pralidoxime"
+    },
+    "answer": "A",
+    "explanation": ""
+  }
+]

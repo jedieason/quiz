@@ -1,0 +1,312 @@
+[
+  {
+    "origin": "出自 103 年第二次醫師國考第 26 題",
+    "question": "維繫蛋白質三級結構穩定性作用力之中，何者最易受到所處環境之氧化還原狀態的影響？",
+    "options": {
+      "A": "雙硫鍵（disulfide bond）",
+      "B": "氫鍵（hydrogen bond）",
+      "C": "凡德瓦爾力（van der Waals interaction）",
+      "D": "離子交互作用（ionic interaction）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 27 題",
+    "question": "酵素能夠有效降低反應活化能，以提升反應速率的關鍵在於：",
+    "options": {
+      "A": "酵素能與受質（substrate）緊密的結合",
+      "B": "酵素能與反應過渡態（transition state）緊密的結合",
+      "C": "酵素能與反應中間物（intermediate）緊密的結合",
+      "D": "酵素能與產物（product）緊密的結合"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 28 題",
+    "question": "關於競爭型抑制劑（competitive inhibitor）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "競爭型抑制劑能與酵素的活性中心結合",
+      "B": "競爭型抑制劑的存在會使酵素Km 上升",
+      "C": "競爭型抑制劑的存在會使酵素Kcat 下降",
+      "D": "競爭型抑制劑與酵素的結合是可逆的"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 29 題",
+    "question": "Coenzyme A，NAD+，和FAD 都利用下列何種物質作為它們的共同成分？",
+    "options": {
+      "A": "Adenine",
+      "B": "Guanine",
+      "C": "Cytosine",
+      "D": "Thymidine"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 30 題",
+    "question": "抗癌藥5-Fluorouracil 可減少細胞中之dTMP 的供應，因而抑制DNA 合成，其作用機轉是因為此藥 物之衍生物可直接抑制下列何種酵素之活性？",
+    "options": {
+      "A": "Dihydrofolate reductase",
+      "B": "Ribonucleotide reductase",
+      "C": "Thymidine kinase",
+      "D": "Thymidylate synthase"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 31 題",
+    "question": "在真核細胞內DNA 複製的過程中，其lagging strand 的合成，下列何者和DNA polymerase α 直接參 與Okazaki fragment 的生合成？",
+    "options": {
+      "A": "Primase",
+      "B": "Clamp-loading factor",
+      "C": "RNaseH",
+      "D": "DNA gyrase"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 32 題",
+    "question": "下列何者是原核生物（prokaryotes）最常用來調節基因表現的方式？",
+    "options": {
+      "A": "使用轉錄因子結合到enhancer 區域以增加轉錄速度",
+      "B": "更換RNA polymerase 中sigma factor",
+      "C": "使用過多的酪胺酸（tyrosine）來調節RNA 轉錄速度",
+      "D": "在RNA 5’端經7－甲基鳥糞嘌呤核苷（7-methylguanosine）修飾，以增加RNA 穩定度"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 33 題",
+    "question": "下列那一組的胺基酸的成員最有可能扮演DNA－蛋白質辨認（DNA-protein recognition）的角色？  Arg,",
+    "options": {
+      "A": "Arg, Gln, Leu",
+      "B": "Asn, Gln, Trp",
+      "C": "Asn, Glu, Lys",
+      "D": "Glu, Lys, Pro"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 34 題",
+    "question": "以RNA 干擾（RNA interference）的方法抑制基因表現的可能機制之一為：",
+    "options": {
+      "A": "抑制基因的轉錄作用（transcription）",
+      "B": "抑制基因的轉譯後修飾作用（posttranslational modification）",
+      "C": "抑制mRNA 的剪接作用（splicing）",
+      "D": "促進mRNA 的降解（degradation）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 35 題",
+    "question": "下列何者不屬於轉錄因子和DNA 結合區之DNA binding domain？  Helix",
+    "options": {
+      "A": "-turn-helix",
+      "B": "Nuclear localization signal Zinc",
+      "C": "finger",
+      "D": "Homeodomain"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 36 題",
+    "question": "抑制細胞內乳酸去氫酶（lactate dehydrogenase）的活性會影響下列那些反應的進行？",
+    "options": {
+      "A": "克氏循環（TCA cycle）無法進行",
+      "B": "無氧狀態的糖解作用（anaerobic glycolysis）無法進行，克氏循環（TCA cycle）不受影響",
+      "C": "無氧狀態的糖解作用（anaerobic glycolysis）與克氏循環（TCA cycle）皆無法進行",
+      "D": "氧化磷酸化作用（oxidative phosphorylation）與克氏循環（TCA cycle）皆無法進行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 37 題",
+    "question": "有關調控肝臟之肝醣（glycogen）代謝的敍述，下列何者正確？  Cyclic AMP",
+    "options": {
+      "A": "促進glycogen phosphorylase 之磷酸化並活化其活性 Glucagon",
+      "B": "促進glycogen synthase 之活性 Insulin",
+      "C": "活化glycogen phosphorylase 之活性",
+      "D": "高血糖同時活化glycogen phosphorylase 和glycogen synthase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 38 題",
+    "question": "紅血球內之葡萄糖利用糖解作用（glycolysis）產生丙酮酸（pyruvate），它進一步會氧化成下列何種 分子？  CO",
+    "options": {
+      "A": "$CO_2$",
+      "B": "Ethanol",
+      "C": "Lactate",
+      "D": "Citrate"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 39 題",
+    "question": "砷酸鹽（arsenate）的結構性質類似磷酸鹽（phosphate），對糖解作用（glycolysis）之影響為：",
+    "options": {
+      "A": "抑制六碳糖激酶（hexokinase）活性",
+      "B": "抑制磷酸果糖激酶（phosphofructokinase）活性",
+      "C": "抑制糖解過程之ATP 生成",
+      "D": "抑制整個糖解過程"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 40 題",
+    "question": "在饑餓或糖尿病時，下列何者最不可能發生？",
+    "options": {
+      "A": "丙二醯輔酶A（Malonyl-CoA）濃度升高",
+      "B": "乙醯乙醯輔酶A（Acetoacetyl-CoA）濃度升高",
+      "C": "酮體（Ketone body）濃度升高",
+      "D": "脂肪酸（Fatty acid）濃度升高"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 41 題",
+    "question": "葡萄糖經由下列何種運輸方式，進入到紅血球內？",
+    "options": {
+      "A": "主動運輸（active transport）",
+      "B": "反向運輸（antiport）",
+      "C": "電能單向運輸（electrogenic uniport）",
+      "D": "促進性擴散（facilitated diffusion）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 42 題",
+    "question": "下列關於脂質代謝的敘述，何者錯誤？",
+    "options": {
+      "A": "細胞中合成膽固醇的前驅物為乙醯輔酶（acetyl-CoA）",
+      "B": "運送由食物攝取之三酸甘油酯（triacylglycerol）的主要脂蛋白（lipoprotein），為超低密度脂蛋白 （VLDL , very low density lipoprotein）",
+      "C": "低密度脂蛋白（LDL, low density lipoprotein）主要功能是將膽固醇送到周邊組織，易增加膽固醇在 血管內壁堆積的風險，因此被稱為壞膽固醇（bad cholesterol）",
+      "D": "胰島素可藉由活化HMG-CoA reductase 而促進細胞中膽固醇的生合成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 43 題",
+    "question": "下列關於Cystic fibrosis 遺傳疾病的敘述，何者錯誤？",
+    "options": {
+      "A": "造成cystic fibrosis 的原因是CFTR（Cystic fibrosis transmembrane conductance regulator）基因發生 突變 Cystic",
+      "B": "fibrosis 導致嚴重的上呼吸道感染 Cystic fibrosis",
+      "C": "導致上皮細胞纖毛（cilia）擺動困難造成細菌容易感染 Cystic fibrosis",
+      "D": "的CFTR 缺陷，造成$Cl^-$離子由細胞外大量運到細胞內"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 44 題",
+    "question": "胺基酸代謝須進行轉氨反應，此反應最常需要那一種維生素參與？  Vitamin B",
+    "options": {
+      "A": "1（Thiamine） Vitamin B",
+      "B": "2（Riboflavine） Vitamin B",
+      "C": "6（Pyridoxine） Vitamin B",
+      "D": "12（Cobalamin）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 45 題",
+    "question": "心肌細胞受損後，最先在血液裡可以偵測到下列何種酵素？  Creatine kinase",
+    "options": {
+      "A": "Creatine kinase",
+      "B": "Alkaline phosphatase",
+      "C": "Glutaminase",
+      "D": "Aspartate aminotransferase"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 46 題",
+    "question": "下列何者為粒線體電子傳遞鏈Complex I 的electron donor？  NADH",
+    "options": {
+      "A": "NADH",
+      "B": "Cytochrome c",
+      "C": "Coenzyme Q",
+      "D": "Succinate"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 47 題",
+    "question": "在細胞週期中，下列何種蛋白質可受細胞週期蛋白質依賴蛋白質激酶（cyclin-dependent protein kinase） 的磷酸化？",
+    "options": {
+      "A": "胰島素（insulin）",
+      "B": "肌紅蛋白（myoglobin）",
+      "C": "肌凝蛋白（myosin）",
+      "D": "視網膜錐體蛋白質（retinal cone protein）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 48 題",
+    "question": "Multiple Endocrine Neoplasia 2（MEN-2）是因為RET gene 發生突變所致。RET 是一種tyrosine kinase  receptor，當它與其Ligand 結合後，不會產生下列何種反應？",
+    "options": {
+      "A": "Receptor 會dimerization Receptor kinase",
+      "B": "會磷酸化自己 Receptor kinase",
+      "C": "會磷酸化其它蛋白質",
+      "D": "會造成細胞內cAMP 上升"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 49 題",
+    "question": "小朋友患有多發性視網膜細胞瘤（retinoblastoma）可發生於單眼或雙眼的視網膜，造成這些疾病最 可能的原因是：",
+    "options": {
+      "A": "多發性腫瘤的病患出生時，每一個視網膜細胞（retinal cell）的Rb gene 的兩個copies 皆已有缺陷",
+      "B": "單一腫瘤的病患於出生時，單一眼睛上之Rb gene 的兩個copies 皆已有缺陷",
+      "C": "無論是單一或多發性腫瘤，都需要在小孩成長過程中，再發生第二個copy 的Rb gene 突變才會發 生腫瘤",
+      "D": "Rb gene 本身就是致癌基因（oncogene）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 103 年第二次醫師國考第 50 題",
+    "question": "下列何者是第二型限制酶（type II restriction enzymes）的錯誤敘述？",
+    "options": {
+      "A": "可以在特定的辨認序列（recognition sequences）內作交錯式（staggered end）切割",
+      "B": "可以在特定的辨認序列（recognition sequences）內產生平端（blunt end）切割",
+      "C": "在細菌中用以切割外來DNA 的防禦系統",
+      "D": "同一種限制酶可對不同的辨認序列進行切割"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

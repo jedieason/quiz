@@ -1,0 +1,215 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 1 題",
+    "question": "下列何者不是分枝桿菌屬（Mycobacterium）細菌的特點？",
+    "options": {
+      "A": "細胞壁具有分枝桿菌酸（mycolic acid）",
+      "B": "生長速度較大腸桿菌緩慢",
+      "C": "可以使用抗酸性染色法（acid fast stain）染色觀察",
+      "D": "染色體G+C的比例（GC ratio）較低"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 2 題",
+    "question": "培養下列何種微生物只能在含氮氣的操作箱中操作，或以厭氧系統培養才可生長？",
+    "options": {
+      "A": "仙人掌桿菌（Bacillus cereus）",
+      "B": "破傷風桿菌（Clostridium tetani）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "李斯特菌（Listeria monocytogenes）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 3 題",
+    "question": "白喉桿菌（Corynebacterium diphtheriae）的白喉毒素的B次單元與宿主細胞接受器結合，接著A次單元進入細 胞，與細胞的那一個蛋白質結合，進而抑制蛋白質合成？",
+    "options": {
+      "A": "核糖體（Ribosome）40S次單元（subunit）",
+      "B": "核糖體（Ribosome）60S次單元（subunit）",
+      "C": "延長因子（Elongation factor）-2（EF-2）",
+      "D": "延長因子（Elongation factor）-3（EF-3）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 4 題",
+    "question": "下列何種抗生素不是經由抑制細菌蛋白質生合成，達到抑制細菌生長或殺菌之作用？",
+    "options": {
+      "A": "卡納黴素（kanamycin）",
+      "B": "克林黴素（clindamycin）",
+      "C": "硝基甲嘧唑乙醇（metronidazole）",
+      "D": "四環素（tetracycline）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 5 題",
+    "question": "下列何種生物細胞之細胞膜不含固醇（sterols）？",
+    "options": {
+      "A": "哺乳類動物",
+      "B": "結核分枝桿菌（Mycobacterium tuberculosis）",
+      "C": "肺炎黴漿菌（Mycoplasma pneumoniae）",
+      "D": "黴菌（Fungus）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 6 題",
+    "question": "遊走性紅斑（erythema migrans）是何種微生物感染的特殊皮膚表現？",
+    "options": {
+      "A": "Coxiella burnetii",
+      "B": "Leptospira interrogans",
+      "C": "Rickettsia rickettsii",
+      "D": "Borrelia burgdorferi"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 7 題",
+    "question": "下列何菌較常感染免疫缺陷的病人，會在組織上形成生物膜，具有高度抗藥性，可存活在膽鹽及高鹽環境？",
+    "options": {
+      "A": "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "B": "化膿鏈球菌（Streptococcus pyogenes）",
+      "C": "轉糖鏈球菌（Streptococcus mutans）",
+      "D": "糞腸球菌（Enterococcus faecalis）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 8 題",
+    "question": "關於無乳鏈球菌（Streptococus agalactiae）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "屬於A群的鏈球菌",
+      "B": "具有Christie, Atkins, Much-Petersen（CAMP）測試陽性的特性",
+      "C": "通常會無症狀的聚落生長在腸胃道或者生殖泌尿道",
+      "D": "會引起新生兒腦膜炎及肺炎"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 9 題",
+    "question": "有關嗜肺退伍軍人桿菌（Legionella pneumophila）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "此菌於自然界可生存於阿米巴原蟲（amebae）體內",
+      "B": "此菌培養時需添加L-cysteine與iron",
+      "C": "宿主對此菌之免疫力主要藉由抗莢膜之抗體",
+      "D": "使用抗生素macrolides或fluoroquinolones治療其感染症"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 10 題",
+    "question": "病毒感染寄主會引發免疫致病性（immunopathogenesis），下列何項因子最有可能造成第四型過敏及發炎反應 （type IV hypersensitivity and inflammation）？",
+    "options": {
+      "A": "病毒抗體",
+      "B": "干擾素",
+      "C": "多形核白血球（polymorphonuclear leukocyte）",
+      "D": "細胞激素（cytokine）"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ｂ或Ｃ或Ｄ或BC或BD或CD或BCD者均給分。"
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 11 題",
+    "question": "下列何種細胞不是愛滋病毒（HIV）主要感染的對象？",
+    "options": {
+      "A": "CD4 T細胞",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "巨噬細胞（macrophage）",
+      "D": "樹突細胞（dendritic cells）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 12 題",
+    "question": "新型抗流感病毒藥物紓伏效（baloxavir marboxil）抑制對象為何？",
+    "options": {
+      "A": "PB2",
+      "B": "M2",
+      "C": "HA",
+      "D": "NA"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 13 題",
+    "question": "有關疱疹病毒（Herpesvirus）與其相關疾病之配對，下列何者錯誤？",
+    "options": {
+      "A": "單純疱疹病毒一型（HSV-1）：疱疹性腦炎（herpes encephalitis）",
+      "B": "EB病毒（Epstein-Barr virus）：單核球增多症（mononucleosis）",
+      "C": "水痘病毒（VZV）：帶狀疱疹",
+      "D": "人類疱疹病毒六型（HHV-6）：疱疹性咽峽炎（herpangina）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 14 題",
+    "question": "有關伊波拉病毒（Ebola virus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "病毒穩定，主要透過腸胃道傳染",
+      "B": "病毒可以感染內皮細胞、單核球（monocyte）和其它細胞，並快速複製，造成多種細胞壞死",
+      "C": "病毒感染細胞之後，會引起細胞激素風暴（cytokine storm）",
+      "D": "病毒感染內皮細胞之後，使細胞失去附著性，導致血管通透性增加，造成內出血"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 15 題",
+    "question": "有關登革病毒（dengue virus）的敘述，下列何者正確？",
+    "options": {
+      "A": "無法以乙醚或氯仿去其活性（inactivate）",
+      "B": "與C型肝炎病毒同屬於黃病毒科（Flaviviridae）",
+      "C": "可以血球凝集抑制實驗，區分四種登革病毒型別",
+      "D": "臨床上已有抗登革熱藥物可供使用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 16 題",
+    "question": "下列何種藥物的作用機轉為阻斷真菌微小管（microtubule）？",
+    "options": {
+      "A": "itraconazole",
+      "B": "griseofulvin",
+      "C": "nystatin",
+      "D": "terbinafine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 17 題",
+    "question": "新型隱球菌（Cryptococcus neoformans）在何種培養基生長時菌落呈咖啡色，可藉以和其它不產色的酵母菌區 分？",
+    "options": {
+      "A": "buffered charcoal yeast extract agar",
+      "B": "CHROMagar",
+      "C": "cornmeal agar",
+      "D": "niger seed agar"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

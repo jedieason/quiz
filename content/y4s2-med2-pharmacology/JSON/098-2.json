@@ -1,0 +1,313 @@
+[
+  {
+    "origin": "出自 098 年第二次醫師國考第 51 題",
+    "question": "有位孕婦受到淋病感染，但她對amoxicillin 會產生過敏反應。下列何者為治療這孕婦之首選藥物？",
+    "options": {
+      "A": "Cefixime",
+      "B": "Spectinomycin",
+      "C": "Ciprofloxacin",
+      "D": "Ceftriaxone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 52 題",
+    "question": "在器官移植時，腎上腺皮質素也是經常使用的抗排斥藥物之一，下列何者是最常使用的腎上腺皮質素？",
+    "options": {
+      "A": "Beclomethasone",
+      "B": "Prednisolone",
+      "C": "Dexamethasone",
+      "D": "Triamcinolone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 53 題",
+    "question": "懷孕或長期服用避孕藥的婦女作手術時，使用下列何種神經肌肉阻斷劑時需特別謹慎小心？",
+    "options": {
+      "A": "Alcuronium",
+      "B": "Doxacurium",
+      "C": "Pancuronium",
+      "D": "Succinylcholine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 54 題",
+    "question": "下列有關治療癲癇（epilepsy）藥物phenytoin 之藥理作用之敘述，何者錯誤？",
+    "options": {
+      "A": "Phenytoin 會抑制神經元連續性動作電位（repetitive firing）的發生",
+      "B": "Phenytoin為一種鈉離子管道阻斷劑（Na ＋ channel blocker）",
+      "C": "Phenytoin 會縮短鈉離子管道不活化期（inactivation state）的時間",
+      "D": "Phenytoin 會減少興奮性麩胺酸鹽（glutamate）的神經傳遞作用"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 55 題",
+    "question": "下列何者為治療無機砷中毒之首選藥物？",
+    "options": {
+      "A": "EDTA",
+      "B": "Penicillamine",
+      "C": "Deferoxamine",
+      "D": "Dimercaprol"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 56 題",
+    "question": "下列藥物作用機轉的敘述，何者正確？",
+    "options": {
+      "A": "Fluoride 會抑制骨母細胞（osteoblast）的活性，抑制骨頭的形成",
+      "B": "Bisphosphonates 會抑制噬骨細胞（osteoclast）的活性，可用來治療骨質疏鬆症（osteoporosis）",
+      "C": "Calcitonin 治療骨質疏鬆症的效果較bisphosphonates 為佳",
+      "D": "副甲狀腺素會抑制骨母細胞釋放RANKL，促進骨頭的蝕骨作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 57 題",
+    "question": "腎衰竭（kidney failure）病患其腎髓質細胞所生成之何種成分會減少，因而降低循環中紅血球之數量？",
+    "options": {
+      "A": "Renin",
+      "B": "GM-CSF",
+      "C": "G-CSF",
+      "D": "Erythropoietin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 58 題",
+    "question": "下列何者為治療Coccidioides immitis 感染造成持續性肺部損傷之首選藥物？",
+    "options": {
+      "A": "Ketoconazole",
+      "B": "Voriconazole",
+      "C": "Fluconazole",
+      "D": "Terbinafine"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｃ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 59 題",
+    "question": "下列何者可以有效治療土壤絲菌病（nocardiosis），且與pyrimethamine 合併可用來治療愛滋病人對 抗Pneumocystis jirovecii（舊名：Pneumocystis carinii）的感染？",
+    "options": {
+      "A": "Clindamycin",
+      "B": "Norfloxacin",
+      "C": "Trimethoprim",
+      "D": "Sulfadiazine"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 60 題",
+    "question": "下列何者與含有酒精的飲料一起服用會造成嘔吐、噁心、腹部絞痛和頭痛等症狀？",
+    "options": {
+      "A": "Daptomycin",
+      "B": "Methenamine",
+      "C": "Nitrofurantoin",
+      "D": "Metronidazole"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 61 題",
+    "question": "下列有關血清素再吸收阻斷劑fluoxetine 與三環類抗憂鬱藥物amitriptyline 作用之比較，何者錯誤？",
+    "options": {
+      "A": "前者較不適用於前列腺肥大的病人",
+      "B": "前者較不會產生鎮靜作用（sedative action）",
+      "C": "前者較不會產生直立性低血壓（orthostatic hypotension）的副作用",
+      "D": "前者較不會產生視覺模糊及口乾等的副作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 62 題",
+    "question": "下列有關局部性麻醉劑（local anesthetics）藥理作用之敘述，何者錯誤？",
+    "options": {
+      "A": "局部麻醉劑一般為弱酸性物質",
+      "B": "局部麻醉劑通常作用在鈉離子管道產生其藥理作用",
+      "C": "局部麻醉劑在正常生理的pH 值（7.4）為陽離子形式",
+      "D": "全身性投與局部麻醉劑時容易發生中樞神經抑制作用"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 63 題",
+    "question": "用於化療法引發之嘔吐拮抗藥物ondansetron 主要作用於中樞神經之何種受體？",
+    "options": {
+      "A": "5-HT2受體",
+      "B": "5-HT3受體",
+      "C": "Histamine H2受體",
+      "D": "Muscarinic M3受體"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 64 題",
+    "question": "下列何種藥物可以有效地預防病人感染Onchocerca volvulus 引發蟠尾絲蟲病（onchocerciasis）而造 成“river blindness＂？",
+    "options": {
+      "A": "Diethylcarbamazine",
+      "B": "Bithionol",
+      "C": "Oxamniquine",
+      "D": "Ivermectin"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 65 題",
+    "question": "下列何種藥物給予腎臟功能不全與缺乏G-6-P dehydrogenase 的病人會造成神經病變及溶血症？",
+    "options": {
+      "A": "Salicylic acid",
+      "B": "Nitrofurantoin",
+      "C": "Metronidazole",
+      "D": "Methenamine"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 66 題",
+    "question": "下列藥理作用何者與misoprostol 之療效無關？",
+    "options": {
+      "A": "減少胃酸分泌",
+      "B": "促進胃黏液分泌",
+      "C": "促進子宮收縮",
+      "D": "血管收縮"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 67 題",
+    "question": "下列何者不是腎上腺皮質素的副作用？",
+    "options": {
+      "A": "骨質疏鬆",
+      "B": "免疫抑制",
+      "C": "肌病變（myopathy）",
+      "D": "黑色素沈積"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 68 題",
+    "question": "下列制酸劑（antacid）何者具有輕瀉作用？",
+    "options": {
+      "A": "Mg(OH)2",
+      "B": "Al(OH)3",
+      "C": "CaCO3",
+      "D": "NaHCO3"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 69 題",
+    "question": "Epinephrine 作用在腎臟juxtaglomerular apparatus 的何種receptor 而導致renin 的釋放增加？",
+    "options": {
+      "A": "α1",
+      "B": "β1",
+      "C": "α2",
+      "D": "β2"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 70 題",
+    "question": "下列何種藥物會惡化維他命D（vitamin D）過量所引起的高血鈣（hypercalcemia）副作用？",
+    "options": {
+      "A": "Phenytoin",
+      "B": "Glucocorticoids",
+      "C": "Benzothiadiazine",
+      "D": "Phenobarbital"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給 分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 71 題",
+    "question": "下列何者不會抑制男性荷爾蒙（testosterone）之合成（biosynthesis）？",
+    "options": {
+      "A": "Ketoconazole",
+      "B": "Flutamide",
+      "C": "Estradiol",
+      "D": "Leuprolide"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 72 題",
+    "question": "副交感神經釋放出ACh 作用在muscarinic receptor，會引起平滑肌收縮，主要是下列何種second  messenger 增加？",
+    "options": {
+      "A": "cAMP",
+      "B": "cGMP",
+      "C": "IP3",
+      "D": "PIP2"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 73 題",
+    "question": "可以取代dapsone，治療癩病且血漿中半衰期長達2 個月之藥物為：",
+    "options": {
+      "A": "rifampin",
+      "B": "ethambutol",
+      "C": "clofazimine",
+      "D": "cycloserine"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 74 題",
+    "question": "下列何種藥物必須口服給予，治療感染急性Plasmodium vivax 瘧疾患者？",
+    "options": {
+      "A": "Mefloquine",
+      "B": "Pyrimethamine",
+      "C": "Quinine",
+      "D": "Chloroquine"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "explanation": "考選部更正備註：答Ａ或Ｄ者均給分。"
+  },
+  {
+    "origin": "出自 098 年第二次醫師國考第 75 題",
+    "question": "以statin 併服niacin 治療高血脂症，不會降低下列何種血脂成分？",
+    "options": {
+      "A": "LDL-C",
+      "B": "Triglyceride",
+      "C": "Apo B",
+      "D": "HDL-C"
+    },
+    "answer": "D",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "origin": "出自 111 年第一次醫師國考第 47 題",
+    "question": "一個原本沒有任何通透性的膜分隔左右兩邊等體積的水溶液，左邊水溶液為1M 氯化鉀，右邊水溶液為1M 氯 化鈉。現在如果讓這個膜變成水與鈉離子可以自由通過的半透膜，直到擴散平衡為止。下列敘述何者正確？",
+    "options": {
+      "A": "左邊溶液之水分子總量減少，半透膜右側帶負電荷",
+      "B": "左邊溶液之水分子總量減少，半透膜右側帶正電荷",
+      "C": "左邊溶液之水分子總量增加，半透膜右側帶負電荷",
+      "D": "左邊溶液之水分子總量增加，半透膜右側帶正電荷"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 48 題",
+    "question": "排卵後會發生的生理現象，下列何者正確？",
+    "options": {
+      "A": "濾泡刺激素（follicle-stimulating hormone, FSH）促進黃體（corpus luteum）分泌黃體素（progesterone）",
+      "B": "雌性素（estrogen）抑制黃體生成素（luteinizing hormone, LH）分泌",
+      "C": "濾泡刺激素（follicle-stimulating hormone, FSH）刺激子宮內膜增生（endometrium proliferation）",
+      "D": "雌性素（estrogen）促進基礎體溫上升"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 49 題",
+    "question": "下列何者是參與引發睪丸下降至陰囊（testis descent）的重要因子，而此與精子生成能力密切相關？",
+    "options": {
+      "A": "激活素（activin）",
+      "B": "雄性素（androgen）",
+      "C": "沃氏管退化因子（Wolffian duct regression factor）",
+      "D": "血管內皮生長因子（vascular endothelial growth factor）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 50 題",
+    "question": "下列對於負責傳遞視覺刺激的細胞，其接受域（receptive field）的敘述，何者最不適當？",
+    "options": {
+      "A": "細胞接受域的形狀是由光點在完全黑暗的視野中游移測試得知，當光點刺激出現的位置可改變該細胞在黑暗 （或光點游移至該位置前）時所呈現的電位活動，即定義為該細胞的接受域",
+      "B": "相鄰的兩細胞，其接受域的形狀及大小，通常較空間分布位置相隔遙遠的兩細胞更為相似；相鄰兩細胞其接 受域發生重疊的程度，通常也較空間分布位置相隔遙遠的兩細胞為高",
+      "C": "感光細胞（包括桿細胞及椎細胞）及節細胞的接受域都是圓形，後者甚至會出現光刺激之效果相反或互相拮 抗之細胞電位活動反應的同心圓分布型態 。節細胞接受域圓的直徑通常都較感光細胞圓形接受域之直徑為小",
+      "D": "不論細胞具有on-center/off-surround或off-center/on-surround的接受域，對於解析光刺激究竟出現在甚麼位置 （或稱空間解像力）都有貢獻。off-surround可能是由鄰近細胞的側抑制（lateral inhibition）所造成"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 51 題",
+    "question": "下列神經元，何項最不可能是主司意識喚起（arousal）功能的ascending reticular formation system之一部分？",
+    "options": {
+      "A": "位於pontine reticular formation的cholinergic neuron",
+      "B": "位於locus coeruleus的noradrenergic neuron",
+      "C": "位於medial septal area的dopaminergic neuron",
+      "D": "位於dorsal raphé nucleus的serotoninergic neuron"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 52 題",
+    "question": "個案因長期酗酒而出現有突然想不起來本來計畫好要做的事情、想不起來一個名字熟識的人其臉孔的特徵、 想用過去學過的詞彙來進行溝通，卻怎麼也想不起來那些詞彙要怎麼說等症狀的Korsakoff syndrome，但該個 案長久以來所建立的聽覺相關記憶卻無明顯缺損。下列何項腦區和該個案之功能缺損症狀最不相關？",
+    "options": {
+      "A": "prefrontal cortex",
+      "B": "parahippocampal cortex",
+      "C": "mammillary body",
+      "D": "planum temporale"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 53 題",
+    "question": "下列有關鈉鉀幫浦的敘述，何者錯誤？",
+    "options": {
+      "A": "每運轉一次，會消耗一個ATP",
+      "B": "每次打進三個鈉離子，打出兩個鉀離子",
+      "C": "毛地黃抑制鈉鉀幫浦時，細胞體積可能會變大",
+      "D": "毛地黃抑制鈉鉀幫浦時，細胞可能會去極化"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 54 題",
+    "question": "肉毒桿菌毒素（botulinum toxin）可以用來舒緩局部肌肉痙攣症，因為肉毒桿菌毒素會：",
+    "options": {
+      "A": "阻斷鈣離子通道",
+      "B": "破壞SNARE蛋白",
+      "C": "抑制乙醯膽鹼受體",
+      "D": "抑制乙醯膽鹼酶"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 55 題",
+    "question": "下列有關甘胺酸（glycine）的敘述，何者正確？",
+    "options": {
+      "A": "是脊髓與腦幹最主要的抑制性神經傳遞物質",
+      "B": "受體開啟時會讓鉀離子流出細胞而產生抑制作用",
+      "C": "生物鹼番木鼈鹼（strychnine）是甘胺酸受體的拮抗劑，服用過量會抑制肌肉收縮",
+      "D": "可以結合到尼古丁型乙醯膽鹼通道的甘胺酸結合位置，並促進乙醯膽鹼通道的開啟"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 56 題",
+    "question": "下列何者為身體在直線加速（linear acceleration）時協助維持平衡的最主要構造？",
+    "options": {
+      "A": "Ruffini corpuscle",
+      "B": "organ of Corti",
+      "C": "semicircular canals",
+      "D": "utricle and saccule"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 57 題",
+    "question": "下列何者是造成屍僵（rigor mortis）的主要因素？",
+    "options": {
+      "A": "鈣離子無法結合到旋轉素（troponin）",
+      "B": "旋轉肌凝素（tropomyosin）持續覆蓋住橫橋結合位置",
+      "C": "肌凝蛋白的橫橋無法自肌動蛋白脫離開來",
+      "D": "ATP結合上肌凝蛋白後無法水解"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 58 題",
+    "question": "某病人患有B細胞無法形成漿細胞（plasma cells）之罕見免疫疾病，則其最有可能缺乏下列那一個細胞激素 （cytokine）？",
+    "options": {
+      "A": "type 1 interferons",
+      "B": "type 2 interferons",
+      "C": "interleukin 2",
+      "D": "colony-stimulating factors"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 59 題",
+    "question": "有關自主神經對心跳的調節，下列敘述何者是最合理的說明？",
+    "options": {
+      "A": "交感神經末梢釋出norepinephrine，作用於心臟的alpha 1受體，可加快心搏速度",
+      "B": "交感神經末梢釋出norepinephrine，作用於心臟的alpha 2受體，可減緩心搏速度",
+      "C": "副交感神經末梢釋出acetylcholine，作用於心臟的nicotinic受體，可加快心搏速度",
+      "D": "副交感神經末梢釋出acetylcholine，作用於心臟的muscarinic受體，可減緩心搏速度"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 60 題",
+    "question": "在正常心臟週期的等容收縮（isovolumic contraction）期中，下列各腔室的壓力排列順序何者正確？",
+    "options": {
+      "A": "主動脈的壓力（aortic pressure）＞左心室的壓力（left ventricular pressure）＞左心房的壓力（left atrial pressure）",
+      "B": "主動脈的壓力（aortic pressure）＞左心房的壓力（left atrial pressure）＞左心室的壓力（left ventricular pressure）",
+      "C": "左心室的壓力（left ventricular pressure）＞ 主動脈的壓力（aortic pressure）＞ 左心房的壓力（left atrial pressure）",
+      "D": "左心室的壓力（left ventricular pressure）＞左心房的壓力（left atrial pressure）＞ 主動脈的壓力（aortic pressure）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 61 題",
+    "question": "一位在跳跳繩的同學每分鐘的耗氧量為1.9 L，若其動脈血中的氧含量約為188 mL/L，而其靜脈血中的氧含量 約為134 mL/L，則其cardiac output約為多少L/min？",
+    "options": {
+      "A": "17.5",
+      "B": "35",
+      "C": "70",
+      "D": "14"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 62 題",
+    "question": "王大明車禍失血導致平均動脈壓（mean arterial pressure）下降，下列何者與此一現象之發生最不相關？",
+    "options": {
+      "A": "血液總體積大幅下降",
+      "B": "分布到心臟的副交感神經活性減少",
+      "C": "周邊靜脈壓減少及靜脈回流減少",
+      "D": "心室舒張末期容積明顯減少"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 63 題",
+    "question": "有關肺臟的氧氣擴散能力（diffusing capacity for oxygen），下列敘述何者正確？",
+    "options": {
+      "A": "在肺水腫（lung edema）時增加，運動時則減少",
+      "B": "在肺水腫（lung edema）時增加，運動時也增加",
+      "C": "在肺水腫（lung edema）時減少，運動時則增加",
+      "D": "在肺水腫（lung edema）時減少，運動時也減少"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 64 題",
+    "question": "相較於正常換氣（normal ventilation），過度換氣（hyperventilation）時可見：①肺泡內氧分壓（ ）顯著 上升 ②肺泡內二氧化碳分壓（ ）顯著下降 ③體動脈血中二氧化碳總含量（total content of $CO_2$）顯著 下降",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②③",
+      "C": "僅①③",
+      "D": "①②③"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 65 題",
+    "question": "刺激下列何者，對於促進胃酸生成的效果最低？",
+    "options": {
+      "A": "D細胞（D cell）",
+      "B": "類腸嗜鉻細胞（enterochromaffin-like cell, ECL cell）",
+      "C": "G細胞（G cell）",
+      "D": "迷走神經（vagus nerve）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 66 題",
+    "question": "關於分節運動（segmentation）的生理功能敘述，下列何者最適當？",
+    "options": {
+      "A": "混合腸腔內容物",
+      "B": "誘發胃結腸反射（gastrocolic reflex）的前趨活動",
+      "C": "快速推進食物",
+      "D": "抑制胃排空（gastric emptying）與降低胃酸分泌"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 67 題",
+    "question": "下列何種情況，最可能會造成遠端腎小管的鉀離子分泌減少？",
+    "options": {
+      "A": "血漿總量減少",
+      "B": "腎小管管腔液的鈉離子增加",
+      "C": "醛固酮（aldosterone）降低",
+      "D": "飲食中的鉀離子增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 68 題",
+    "question": "成年男性之血漿中菊糖（inulin）濃度為0.25 mg/mL、尿液流量為0.6 mL/min、尿液中菊糖濃度為35 mg/mL， 則此人之菊糖清除率為多少mL/min？",
+    "options": {
+      "A": "84",
+      "B": "106",
+      "C": "116",
+      "D": "126"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 69 題",
+    "question": "腦下垂體腫瘤（pituitary adenoma）經手術切除後，下列那一個荷爾蒙的分泌量最不會受到影響？",
+    "options": {
+      "A": "皮質醇（cortisol）",
+      "B": "醛固酮（aldosterone）",
+      "C": "黃體素（progesterone）",
+      "D": "甲狀腺素（thyroid hormone）"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 70 題",
+    "question": "下列那一個荷爾蒙不會促進生長，且有明顯抑制生長的效應？",
+    "options": {
+      "A": "皮質醇（cortisol）",
+      "B": "胰島素（insulin）",
+      "C": "甲狀腺荷爾蒙（thyroid hormone）",
+      "D": "睪固酮（testosterone）"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 71 題",
+    "question": "身體發炎時，會引發何種反應，以對抗或減緩發炎情況？",
+    "options": {
+      "A": "腎臟（kidney）分泌腎素（renin）",
+      "B": "皮膚（skin）分泌維生素B（vitamin B）",
+      "C": "胰臟（pancreas）分泌體抑素（somatostatin）",
+      "D": "腎上腺（adrenal gland）分泌皮質醇（cortisol）"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 72 題",
+    "question": "有關口渴（thirst）的相關機制，下列敘述何者最不適當？",
+    "options": {
+      "A": "口渴與否，主要與血液滲透壓和細胞外液容積的變化有關",
+      "B": "健康人從靜脈注射高張食鹽水，會使抗利尿荷爾蒙（ADH）分泌減少，並造成口渴",
+      "C": "細胞外液容積下降，會影響腎素（renin）分泌，造成血中血管張力素II（angiotensin II）濃度升高，刺激口 渴反應",
+      "D": "改變細胞外液容積，不一定會改變血液滲透壓，兩者沒有絕對依存關係"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 111 年第一次醫師國考第 73 題",
+    "question": "下列何者最可能是胰島素分泌或作用不足（insulin deficiency）造成的變化？",
+    "options": {
+      "A": "肝臟肝醣合成增加",
+      "B": "肌肉葡萄糖吸收增加",
+      "C": "肝臟合成之酮體增加",
+      "D": "脂肪合成增加"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

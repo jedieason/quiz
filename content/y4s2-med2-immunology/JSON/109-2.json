@@ -1,0 +1,139 @@
+[
+  {
+    "origin": "出自 109 年第二次醫師國考第 18 題",
+    "question": "下列有關干擾素-alpha（interferon-α）之特性，何者正確？",
+    "options": {
+      "A": "屬於趨化激素（chemokine）",
+      "B": "使正常細胞不易被病毒感染",
+      "C": "屬於適應性免疫力（adaptive immunity）",
+      "D": "主要由活化T細胞產生"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 19 題",
+    "question": "先天免疫細胞主要利用下列何者之刺激活化以遷移至感染區，進行免疫功能？",
+    "options": {
+      "A": "T cell receptors",
+      "B": "B cell receptors",
+      "C": "chemokine receptors",
+      "D": "Toll-like receptors"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 20 題",
+    "question": "下列關於MHC class II的敘述何者錯誤？",
+    "options": {
+      "A": "CD4 T細胞主要辨識由MHC class II所呈獻之抗原",
+      "B": "MHC class II可呈獻較長的胜肽，約含有13-17胺基酸",
+      "C": "MHC class II 分子主要表現於嗜中性白血球（neutrophil）",
+      "D": "MHC class II 分子可表現於胸腺上皮細胞（epithelial cells of thymus）"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 21 題",
+    "question": "抗體多變區（variable domain）基因V(D)J片段重組（recombination）是產生多樣性抗體的主要機制，下列那 一種酵素沒有參與這一部分抗體基因重組的過程？",
+    "options": {
+      "A": "activation-induced cytidine deaminase（AID）",
+      "B": "DNA-dependent protein kinase（DNA-PK）",
+      "C": "recombination-activating gene（RAG）",
+      "D": "DNA ligase IV"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 22 題",
+    "question": "下列分子何者與毒殺性T細胞（cytotoxic T lymphocyte, CTL）的毒殺作用沒有直接關聯？",
+    "options": {
+      "A": "FasL",
+      "B": "Perforin",
+      "C": "Granzyme",
+      "D": "IFN-γ"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 23 題",
+    "question": "親合力成熟作用（affinity maturation）是抗體對抗原的親合力增強的主要原因，有關親合力成熟作用的敘述， 何者錯誤？",
+    "options": {
+      "A": "活化的B細胞在生發中心（germinal center）進行體細胞超突變（somatic hypermutation），在Ig基因的變異區 （variable region）和固定區（constant region）造成胺基酸序列的改變",
+      "B": "體細胞超突變（somatic hypermutation）需要AID（activation-induced cytidine deaminase）一種脫胺酵素的參 與，主要是作用在胞嘧啶（cytosine, C）上使之轉變為尿嘧啶（uridine, U），再經過DNA修復作用引起突變",
+      "C": "活化的B細胞的抗原接受器（BCR）會因為超突變的結果造成對抗原親合力的改變，可能會減弱BCR對抗原 的結合力，但也可能會增加親合力",
+      "D": "經過濾泡樹突細胞（follicular dendritic cell）上抗原的篩選後，只有親合力高的B細胞存活並大量增生，其餘 親合力弱的B細胞則由於缺乏抗原刺激而凋亡"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 24 題",
+    "question": "下列對於小兒麻痺疫苗（polio vaccines）的描述何者錯誤？",
+    "options": {
+      "A": "小兒麻痺疫苗（polio vaccines）可分為去活性 （inactivated）與減毒疫苗（live-attenuated）二種型式",
+      "B": "小兒麻痺病毒可感染人類與牛隻",
+      "C": "在臺灣小兒麻痺所推薦的疫苗以去活性（inactivated）疫苗為主",
+      "D": "口服小兒麻痺疫苗是由三種減毒（live-attenuated）的病毒株所組成"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 25 題",
+    "question": "下列關於衛生假說（hygiene hypothesis）與過敏疾病之關係的敘述何者錯誤？",
+    "options": {
+      "A": "先進國家衛生環境好，過敏疾病患者比率較高",
+      "B": "長期使用驅蟲藥治療寄生蟲感染較易得到過敏反應",
+      "C": "小孩早期有較多感染可預防過敏之產生",
+      "D": "小孩長期使用抗生素可減少氣喘發生"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 26 題",
+    "question": "身體達成免疫反應的自體耐受性（self-tolerance）的機轉之一是中樞耐受性（central tolerance），它的特性為 何？",
+    "options": {
+      "A": "在淋巴結消除自體反應性淋巴細胞",
+      "B": "由中樞淋巴系統如胸腺，呈獻許多種周邊組織抗原，由此消除自體反應性淋巴細胞",
+      "C": "由中樞淋巴系統控制細胞激素生成（cytokine deviation），使淋巴細胞趨向於生成TH2細胞激素，而避免了 破壞器官的自體免疫疾病",
+      "D": "因組織的隔絕性使淋巴細胞不能碰到某些器官的抗原，如胰臟抗原，因此達到自體耐受性"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 27 題",
+    "question": "T淋巴球能夠辨識腫瘤細胞並殺死腫瘤細胞，下列何者與腫瘤中T淋巴球辨識腫瘤抗原的情況最有關？",
+    "options": {
+      "A": "腫瘤細胞常有許多基因變異，因而表現出其他組織器官的分子，例如睪丸的蛋白質，此時便無法產生辨識這 些蛋白質抗原的T淋巴球",
+      "B": "黑色素瘤常見的腫瘤抗原之一是由酪氨酸酶（tyrosinase）衍生的胜肽，因為非常高量的胜肽：MHC表現而 產生出了辨識腫瘤的T淋巴球",
+      "C": "腫瘤內部的T淋巴球偶有表現PD-L1或PD-L2分子，因而能夠辨識含有突變序列的腫瘤抗原",
+      "D": "多種腺癌表現出高量的HER-2/neu，是一種受體酪氨酸激酶（receptor tyrosine kinase），可直接抑制T淋巴球 對腫瘤抗原的辨識因而無法引發腫瘤毒殺作用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "origin": "出自 109 年第二次醫師國考第 28 題",
+    "question": "下列何者與器官移植後的排斥作用不相關？",
+    "options": {
+      "A": "MHC class I分子",
+      "B": "MHC class II分子",
+      "C": "次要組織吻合抗原（minor histocompatibility antigen）",
+      "D": "一種多型變異（polymorphic）較少的MHC class I分子：HLA-G"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "考選部更正備註：一律給分。"
+  }
+]
