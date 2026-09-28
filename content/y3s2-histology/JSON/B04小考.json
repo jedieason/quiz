@@ -1,0 +1,317 @@
+[
+    {
+        "num": "b04quiz-01",
+        "path": "B04小考/b04quiz-01.webp",
+        "answer": [
+            "Acidophil"
+        ],
+        "explanation": "細胞較basophils小，細胞核偏中間，細胞質呈紅色 （eosinophilic）。 ",
+        "description": " 指標所指為何種細胞？"
+    },
+    {
+        "num": "b04quiz-02",
+        "path": "B04小考/b04quiz-02.webp",
+        "answer": [
+            "Spiral ganglion"
+        ],
+        "explanation": "由左圖的螺旋切面能發現此為cochlea周圍的組織切片圖。 在modiolus部分切到的ganglion是spiral ganglion，為 bipolar neuron，可以在其旁邊看到afferent fibers（A）和 efferent fibers（E）。 ",
+        "description": " 圖中G為何種結構？"
+    },
+    {
+        "num": "b04quiz-03",
+        "path": "B04小考/b04quiz-03.webp",
+        "answer": [
+            "Antrum"
+        ],
+        "explanation": "Secondary follicle 裡面的空泡狀結構，內含許多granulosa cell 分泌的液體。",
+        "description": "寫出箭號所指圈狀結構之名稱。"
+    },
+    {
+        "num": "b04quiz-04",
+        "path": "B04小考/b04quiz-04.webp",
+        "answer": [
+            "Herring body"
+        ],
+        "explanation": "染成粉紅色的實心構造，為neurosecretory vesicles堆積於 axon terminal（或接近 terminals的部分）所形成的膨大構 造。Herring body外圍有一層membrane包覆，調整光圈可 隱約看見，紅血球則無，而且紅血球通常只會出現在微血 管裡。",
+        "description": " 寫出箭頭所指之構造名稱。"
+    },
+    {
+        "num": "b04quiz-05",
+        "path": "B04小考/b04quiz-05.webp",
+        "answer": [
+            "Stria vascularis"
+        ],
+        "explanation": "在spiral ligament（為 cochlea epi. 的增生）表面，製造 endolymph、運送鉀離子。 是人體少數epithelium內的血 管。富含粒線體，在H&E下呈紅色。",
+        "description": " 寫出箭頭所指之構造名稱。"
+    },
+    {
+        "num": "b04quiz-06",
+        "path": "B04小考/b04quiz-06.webp",
+        "answer": [
+            "Parafollicular cell"
+        ],
+        "explanation": "較大、較淡染（分泌calcitonin，有許多分泌顆粒），成群 位於follicle之間的隙縫中。",
+        "description": " 寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b04quiz-07",
+        "path": "B04小考/b04quiz-07.webp",
+        "answer": [
+            "Cochlea"
+        ],
+        "explanation": "一個玻片上可以看到cochlea duct的好幾個橫斷面。",
+        "description": " 寫出藍色圈圈範圍內的構造名稱。"
+    },
+    {
+        "num": "b04quiz-08",
+        "path": "B04小考/b04quiz-08.webp",
+        "answer": [
+            "Cytotrophoblast"
+        ],
+        "explanation": "Syncytiotrophoblast 內的一層或多層細胞。單核、細胞質較 清澈淡染。 ",
+        "description": " 黃色箭號所指是什麼細胞（Be specific）？"
+    },
+    {
+        "num": "b04quiz-09",
+        "path": "B04小考/b04quiz-09.webp",
+        "answer": [
+            "Adrenal medulla"
+        ],
+        "explanation": "Adrenal medulla 中的 chromaffin cells 含有 catecholamine， 會與Zenker-formalin固定液中的重鉻酸鉀（potassium  dichromate）（K2Cr2O7）反應，產生棕色沈澱。且居有許 多vein的切面，所以判斷為adrenal medulla。",
+        "description": "圖片下半之構造名稱？"
+    },
+    {
+        "num": "b04quiz-10",
+        "path": "B04小考/b04quiz-10.webp",
+        "answer": [
+            "Macula"
+        ],
+        "explanation": "Utricle 和 saccule 內，側邊增厚形成深染的macula，macula 上有淡染的otolithic membrane。而 macula較平整，crista  ampullaris 則是隆起的排列。 ",
+        "description": "圈起處的構造名稱？"
+    },
+    {
+        "num": "b04quiz-11",
+        "path": "B04小考/b04quiz-11.webp",
+        "answer": [
+            "Zona glomerulosa"
+        ],
+        "explanation": "淡紅色capsule下層，細胞為simple columnar epithelium， 會聚集成球狀。",
+        "description": "紅色框框的區域名稱？"
+    },
+    {
+        "num": "b04quiz-12",
+        "path": "B04小考/b04quiz-12.webp",
+        "answer": [
+            "Zona pellucida"
+        ],
+        "explanation": "Late primary follicle，外圈有多層 cuboid形狀的 follicular cells，並且有粉紅色的zona pellucida圍繞在oocyte外。",
+        "description": "寫出箭號所指之構造名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-13",
+        "path": "B04小考/b04quiz-13.webp",
+        "answer": [
+            "Retinal pigment epithelium"
+        ],
+        "explanation": "最靠近choroid，和Bruch’s membrane相連，是retina十層 中的第一層。",
+        "description": "寫出箭號所指之細胞名稱？ "
+    },
+    {
+        "num": "b04quiz-14",
+        "path": "B04小考/b04quiz-14.webp",
+        "answer": [
+            "Peg cell"
+        ],
+        "explanation": "細胞呈圓拱狀突向lumen，沒有一絲一絲紅色線條的basal  body，為具分泌功能的peg cell。 ",
+        "description": "寫出箭號所指是什麼細胞（Be specific）。 "
+    },
+    {
+        "num": "b04quiz-15",
+        "path": "B04小考/b04quiz-15.webp",
+        "answer": [
+            "Brain sand"
+        ],
+        "explanation": "Brain sand 之染色呈藍紫色，有時可見其具同心圓排列的構 造，亦可能受擠壓而破裂散開。見brain sand，需知該切片 為pineal body（由 septa的出現以及brain sand即能判斷 出）。 ",
+        "description": "寫出紅色箭號所指的構造名稱。"
+    },
+    {
+        "num": "b04quiz-16",
+        "path": "B04小考/b04quiz-16.webp",
+        "answer": [
+            "Tarsal gland"
+        ],
+        "explanation": "Tarsal glands（為皮脂腺）有管道連通到tarsal plate，分泌 淚液的部分成分。 ",
+        "description": "寫出箭號所指之gland名稱（Be specific）。 "
+    },
+    {
+        "num": "b04quiz-17",
+        "path": "B04小考/b04quiz-17.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "一個個內面平整的空腔看出是ductus epididymis，為pseudostratified columnar epithelium with stereocilia。 ",
+        "description": "寫出此構造中上皮的種類名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-18",
+        "path": "B04小考/b04quiz-18.webp",
+        "answer": [
+            "Atretic follicle"
+        ],
+        "explanation": "Atretic follicle 的特徵有： (1) oocyte 變小萎縮甚至消失、(2) granulosa cells開始凋亡，像往空腔裡掉落，且染色體會濃縮、(3) zona pellucida 會往內褶皺，不圓、(4) basal lamina增厚成透明均質的 glassy membrane、(5) antrum 周圍細胞 lining不平整。",
+        "description": "寫出黑色線狀所圈範圍內結構名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-19",
+        "path": "B04小考/b04quiz-19.webp",
+        "answer": [
+            "Ciliary process"
+        ],
+        "explanation": "可見兩排cuboid epithelium，包含較外側的ciliary epithelium 和較為內側一點的pigment epithelium（有色素），由retina 的cecal part 延伸過來。",
+        "description": "寫出整個藍色範圍的構造名稱。"
+    },
+    {
+        "num": "b04quiz-20",
+        "path": "B04小考/b04quiz-20.webp",
+        "answer": [
+            "Active mammary gland"
+        ],
+        "explanation": "Early active 的 gland 相較於 inactive時稍微有發展，但是 CNT和adipose tissue 仍多。Lobule還沒完全發展、膨脹， 可明顯分出duct和 alveoli，通常管道旁邊會有CNT包覆。 ",
+        "description": "寫出視野下組織名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-21",
+        "path": "B04小考/b04quiz-21.webp",
+        "answer": [
+            "Straight tubule"
+        ],
+        "explanation": "Straight tubule 非常短，以 simple cuboid epithelium 為主，細 胞高度較rete testis高。由特化的Sertoli cell組成，可看到 明顯核仁，已無法觀察到spermatogenic cells。",
+        "description": "寫出箭號所指之部位名稱？ "
+    },
+    {
+        "num": "b04quiz-22",
+        "path": "B04小考/b04quiz-22.webp",
+        "answer": [
+            "Primary spermatocyte"
+        ],
+        "explanation": "細胞本身和核都很大，是tubule裡最大的細胞，核有一叢 一叢的深染色質絲，沒有附著在basement membrane上。 ",
+        "description": "寫出箭號所指細胞名稱？"
+    },
+    {
+        "num": "b04quiz-23",
+        "path": "B04小考/b04quiz-23.webp",
+        "answer": [
+            "Ora serrata"
+        ],
+        "explanation": "Ora serrata 往前為 cecal part，無法感光且層數不明顯，約只 有兩層cuboidal，往後為optic part，可感光，細胞較多層。",
+        "description": "寫出整個藍色範圍的junction名稱。"
+    },
+    {
+        "num": "b04quiz-24",
+        "path": "B04小考/b04quiz-24.webp",
+        "answer": [
+            "Nabothian cyst"
+        ],
+        "explanation": "藍色帶子兩邊上皮型態不同，知道是在transformation  zone，又有因出口塞住無法排出而形成囊泡狀構造，故為 cervix。",
+        "description": "寫出箭號所指之組織構造名稱（Be specific）。 "
+    },
+    {
+        "num": "b04quiz-25",
+        "path": "B04小考/b04quiz-25.webp",
+        "answer": [
+            "Epididymis"
+        ],
+        "explanation": "Ductus epididymis 管腔為 pseudostratified columnar epi. with  stereocilia，上皮高度較高表面平整圓滑，ductus efferentes 管腔表面細胞以simple cuboid epi. 為主，有高有低凹凸不 平、不規則，高度較矮。 ",
+        "description": "寫出虛線以上之器官部位名稱。"
+    },
+    {
+        "num": "b04quiz-26",
+        "path": "B04小考/b04quiz-26.webp",
+        "answer": [
+            "Uterus; secretory phase"
+        ],
+        "explanation": "內面呈鋸齒狀，和proliferative phase平滑狀有很大的區別。",
+        "description": "寫出視野下組織構造名稱。並寫出其位於何種時期？"
+    },
+    {
+        "num": "b04quiz-27",
+        "path": "B04小考/b04quiz-27.webp",
+        "answer": [
+            "Seminal vesicle"
+        ],
+        "explanation": "特徵為交錯複雜的長條形蜂窩狀結構，而prostate gland的 smooth muscle 比較多。",
+        "description": "寫出器官名稱？"
+    },
+    {
+        "num": "b04quiz-28",
+        "path": "B04小考/b04quiz-28.webp",
+        "answer": [
+            "Prostate gland"
+        ],
+        "explanation": "年老的prostate gland在每個 prostatic alveoli 外都可以看到 厚厚的smooth muscle包圍，可觀察到prostatic  concretion。 ",
+        "description": "寫出器官名稱？"
+    },
+    {
+        "num": "b04quiz-29",
+        "path": "B04小考/b04quiz-29.webp",
+        "answer": [
+            "Primordial follicle"
+        ],
+        "explanation": "分佈在cortex淺層處，每個follicle內含有一個oocyte，核 比例大，核仁明顯（但不一定每個follicle都會切到核）。 Oocyte 外圍由simple squamous的 follicular cells 包圍， follicular cells 外邊或周圍有 stroma cells。",
+        "description": "寫出白色線狀所圈範圍內結構名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-30",
+        "path": "B04小考/b04quiz-30.webp",
+        "answer": [
+            "Granulosa lutein cell"
+        ],
+        "explanation": "靠黃體中心、細胞大、淡染且鬆散為granulosa lutein cells。",
+        "description": "寫出畫面左下角構造之細胞名稱（Be specific）。"
+    },
+    {
+        "num": "b04quiz-31",
+        "path": "B04小考/b04quiz-31.webp",
+        "answer": [
+            "Ductus deferens"
+        ],
+        "explanation": "Ductus deferens 管腔外有三層很厚的smooth muscle（內縱 中環外縱），內壁不規則狀或星狀（artifact），上皮 pseudostratified columnar epithelium with stereocilia。",
+        "description": "寫出器官名稱。"
+    },
+    {
+        "num": "b04quiz-32",
+        "path": "B04小考/b04quiz-32.webp",
+        "answer": [
+            "Outer plexiform layer"
+        ],
+        "explanation": "夾在兩層顏色較深較厚、明顯有顆粒的outer和inner  nuclear layer 之間就是 outer plexiform layer。",
+        "description": "寫出紅色箭號所指的白色layer名稱。"
+    },
+    {
+        "num": "b04quiz-33",
+        "path": "B04小考/b04quiz-33.webp",
+        "answer": [
+            "Organ of Corti"
+        ],
+        "explanation": "面向scala media的 organ of Corti 上有 tectorial membrane和inner hair cell 等構造。",
+        "description": "寫出整個紅色範圍的構造名稱。"
+    },
+    {
+        "num": "b04quiz-34",
+        "path": "B04小考/b04quiz-34.webp",
+        "answer": [
+            "Penile urethra"
+        ],
+        "explanation": "Penile urethra 周圍為 loose CNT所組成，有 trabeculae和 venous sinus，Orcein-Picroindigocarmine-Carmine 染色下 penile urethra 的管腔上皮周圍可觀察深棕色的elastic fiber。",
+        "description": "寫出圈圈內構造名稱？"
+    },
+    {
+        "num": "b04quiz-35",
+        "path": "B04小考/b04quiz-35.webp",
+        "answer": [
+            "Stratified columnar epithelium"
+        ],
+        "explanation": "尿道內為stratified columnar epithelium，在人體裡非常少見，全身只有此處和眼睛結膜（conjunctiva）有這種特殊上皮。 ",
+        "description": "承上題，寫出此構造中上皮的種類（Be specific）。"
+    }
+]

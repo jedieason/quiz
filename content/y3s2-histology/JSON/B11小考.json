@@ -1,0 +1,327 @@
+[
+  {
+    "num": "b11quiz-01",
+    "path": "B11小考/b11quiz-01.webp",
+    "answer": [
+      "Oxyphil cell"
+    ],
+    "explanation": "視野下為副甲狀腺，可以看到密集的 principal cell 和偏紅色的 oxyphil cell。而 oxyphil cell 較大，胞核間距寬。",
+    "description": "請寫出下列細胞名稱。"
+  },
+  {
+    "num": "b11quiz-02",
+    "path": "B11小考/b11quiz-02.webp",
+    "answer": [
+      "Acidophils",
+      "Acidophil"
+    ],
+    "explanation": "pituitary gland 的 pars distalis(深染部分)，可看到 3 種細胞：Acidophil：細胞較 basophils 小，細胞質呈紅色。Basophil：細胞較 acidophils 大，細胞質呈藍紫色。Chromophobes：細胞質極淡染，僅可見其細胞核。此圖所為紅色的 Acidophil。",
+    "description": "寫出箭頭所指的細胞名稱。Be specific!"
+  },
+  {
+    "num": "b11quiz-03",
+    "path": "B11小考/b11quiz-03.webp",
+    "answer": [
+      "Leydig cells"
+    ],
+    "explanation": "HE stain 下會染成偏紅色，卻因含有 lipid droplet 使細胞部分區域淡染。細胞較大，常聚集在一起，位於 interstitial space。",
+    "description": "下圖中央為何者構造？"
+  },
+  {
+    "num": "b11quiz-04",
+    "path": "B11小考/b11quiz-04.webp",
+    "answer": [
+      "Parafollicular cells",
+      "C cells"
+    ],
+    "explanation": "先辨識出 Thyroid follicle，在 follicle 之間的縫隙中有 parafollicular cell，為較大、較淡染、成群的細胞。",
+    "description": "指針所指的細胞為何? Be specific!"
+  },
+  {
+    "num": "b11quiz-05",
+    "path": "B11小考/b11quiz-05.webp",
+    "answer": [
+      "cytotrophoblast"
+    ],
+    "explanation": "此切片為 placenta 中 villi 的切片，最外層扁平狀深染細胞為 syncytiotrophoblast，在其內側細胞淡染且呈現圓形為 cytotrophoblast。",
+    "description": "下面箭頭指的細胞為何？"
+  },
+  {
+    "num": "b11quiz-06",
+    "path": "B11小考/b11quiz-06.webp",
+    "answer": [
+      "Pinealocytes"
+    ],
+    "explanation": "septum 所圍出的 lobule 之中大部分細胞具有圓形淡染細胞核，為 pinealocytes；此外亦可見 brain sand，故在 pineal gland 內。",
+    "description": "紅色箭頭是什麼細胞？"
+  },
+  {
+    "num": "b11quiz-07",
+    "path": "B11小考/b11quiz-07.webp",
+    "answer": [
+      "Chromaffin cells"
+    ],
+    "explanation": "腎上腺髓質的細胞因為有嗜鉻的特性，在 Zenker-formalin 的染色下呈現深棕色。",
+    "description": "寫出黃色箭頭所指細胞名稱（be specific）"
+  },
+  {
+    "num": "b11quiz-08",
+    "path": "B11小考/b11quiz-08.webp",
+    "answer": [
+      "A"
+    ],
+    "explanation": "根據構造圖，A 為 Cone cell（視錐細胞），具備錐形外節（outer segment）及花托狀突觸（pedicle）。",
+    "description": "請問 A 和 B 何者為 cone cell？"
+  },
+  {
+    "num": "b11quiz-09",
+    "path": "B11小考/b11quiz-09.webp",
+    "answer": [
+      "Spermatids"
+    ],
+    "explanation": "Spermatid 靠近 lumen，特徵為小細胞、深染，已經看不見染色質絲。",
+    "description": "寫出以下箭頭所指的細胞？"
+  },
+  {
+    "num": "b11quiz-10",
+    "path": "B11小考/b11quiz-10.webp",
+    "answer": [
+      "Sertoli cells"
+    ],
+    "explanation": "位在 seminiferous tubule，具清楚核仁且和 basement membrane 相連者為 Sertoli cell。",
+    "description": "紅色箭頭所指為何種細胞？"
+  },
+  {
+    "num": "b11quiz-11",
+    "path": "B11小考/b11quiz-11.webp",
+    "answer": [
+      "Tectorial membrane"
+    ],
+    "explanation": "從 hair cell 可以判斷出這是 organ of Corti，由左側 spiral limbus 延伸到 outer hair cell 的膜狀構造為 tectorial membrane。",
+    "description": "請問箭頭所指構造為何？"
+  },
+  {
+    "num": "b11quiz-12",
+    "path": "B11小考/b11quiz-12.webp",
+    "answer": [
+      "Retinal pigment epithelium",
+      "Pigmented cell layer of retina"
+    ],
+    "explanation": "箭頭所指構造為 Pigment epithelium（PE），有明顯黑色素沈澱，為 simple cuboidal epithelium（low cuboid）。",
+    "description": "箭頭所指處為何種細胞？"
+  },
+  {
+    "num": "b11quiz-13",
+    "path": "B11小考/b11quiz-13.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "圖片為 seminal vesicle 低倍視野，呈現蜂窩狀，低倍即可見 smooth muscle 與 connective tissue 延伸進來形成 septum。",
+    "description": "視野中是什麼器官？"
+  },
+  {
+    "num": "b11quiz-14",
+    "path": "B11小考/b11quiz-14.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "有大量的 smooth muscle，為與 seminal vesicle 分別的重要特徵。Lamina propria 以及 epithelium 會產生許多褶皺，褶皺中又會分出更小的褶皺，在切片中呈現許多大小不一的空腔，稱為 prostatic alveoli，低倍下可觀察到每個 alveoli 外都有大量 smooth muscle。",
+    "description": "請寫出器官名稱。"
+  },
+  {
+    "num": "b11quiz-15",
+    "path": "B11小考/b11quiz-15.webp",
+    "answer": [
+      "Tunica albuginea"
+    ],
+    "explanation": "中央淡染區域可以看到有許多 lacuna，故判斷應為 penis 的勃起組織，而外側緻密結締組織即為 tunica albuginea。",
+    "description": "下列灰色箭頭所指的是什麼構造？"
+  },
+  {
+    "num": "b11quiz-16",
+    "path": "B11小考/b11quiz-16.webp",
+    "answer": [
+      "Corpus luteum"
+    ],
+    "explanation": "靠黃體中心、細胞排列較鬆散為 granulosa lutein cells，靠黃體的外側、細胞排列較緊密為 theca lutein cells。",
+    "description": "圓圈內是什麼構造？"
+  },
+  {
+    "num": "b11quiz-17",
+    "path": "B11小考/b11quiz-17.webp",
+    "answer": [
+      "Corpus albicans"
+    ],
+    "explanation": "Corpus albicans 視野下如同一片白雲，只看得到淡淡的基質呈淡粉紅色（HE 染色結果），內部有 fibroblast，且周邊看不到發育中的 follicle。",
+    "description": "圓圈內是什麼構造？"
+  },
+  {
+    "num": "b11quiz-18",
+    "path": "B11小考/b11quiz-18.webp",
+    "answer": [
+      "Primordial follicle Early primary follicle"
+    ],
+    "explanation": "A為Primordial follicle：分布在 cortex 淺層處，每個 follicle 內含有一個 oocyte，外圍由 simple squamous 的 follicular cells 包圍。B為Early primary follicle：中央 oocyte 較 primordial follicle 時期大，有 zona pellucida 圍繞，follicular cells 呈單層 cuboid 形狀。",
+    "description": "寫出黃色部分（A）與白色部分（B）的構造名稱。"
+  },
+  {
+    "num": "b11quiz-19",
+    "path": "B11小考/b11quiz-19.webp",
+    "answer": [
+      "Intervillous space"
+    ],
+    "explanation": "塊狀構造為 villi，可見最外層有核扁平、深染的 Syncytiotrophoblast，較內層為 Cytotrophoblast，villi 間的空間稱為 Intervillous space。",
+    "description": "下圖星號為何種構造？"
+  },
+  {
+    "num": "b11quiz-20",
+    "path": "B11小考/b11quiz-20.webp",
+    "answer": [
+      "Stratified columnar epithelium"
+    ],
+    "explanation": "此圖應為 Urethra（海綿體部），其上皮組織為 stratified columnar epithelium。",
+    "description": "以下上皮組織是何種構造？"
+  },
+  {
+    "num": "b11quiz-21",
+    "path": "B11小考/b11quiz-21.webp",
+    "answer": [
+      "Vestibular membrane",
+      "Reissner's membrane"
+    ],
+    "explanation": "此圖為 Cochlea duct 放大，Vestibular membrane 由上下兩層 simple squamous epithelium 夾著一層很薄 connective tissue，以 tight junction 分隔 scala vestibuli 的 perilymph 與 scala media 的 endolymph。",
+    "description": "請寫出下圖？構造。"
+  },
+  {
+    "num": "b11quiz-22",
+    "path": "B11小考/b11quiz-22.webp",
+    "answer": [
+      "Uterus B"
+    ],
+    "explanation": "位於 Uterus。右圖（B）可見 Uterine gland 明顯拉長呈長條平滑狀，為 proliferative phase。左圖（A）的 secretory phase 其 endometrium 明顯增厚，腺體扭曲且染色深。",
+    "description": "請問這兩張圖位於哪個器官？請問哪個是 proliferative phase？"
+  },
+  {
+    "num": "b11quiz-23",
+    "path": "B11小考/b11quiz-23.webp",
+    "answer": [
+      "outer plexiform layer of the retina",
+      "OPL"
+    ],
+    "explanation": "箭頭所指構造為 outer plexiform layer (OPL)，主要由神經的 process 構成，呈現較透明、淡染的樣子，位於 ONL 和 INL 之間。",
+    "description": "黃色箭頭的範圍是什麼？"
+  },
+  {
+    "num": "b11quiz-24",
+    "path": "B11小考/b11quiz-24.webp",
+    "answer": [
+      "Interstitial gland"
+    ],
+    "explanation": "此圖可同時看到左上退化的 follicle、下方 mature follicle 和右上 theca interna 退化的 interstitial gland，其特色為聚集成團、細胞核較圓、細胞核間距較大。",
+    "description": "圓圈內構造為何？be specific！"
+  },
+  {
+    "num": "b11quiz-25",
+    "path": "B11小考/b11quiz-25.webp",
+    "answer": [
+      "Pituicytes",
+      "Pituicyte"
+    ],
+    "explanation": "此圖有粉紅色實心的 Herring body，位於 par nervosa，故細胞核為圓形或橢圓形且淡染的 pituicyte。",
+    "description": "請問箭頭指的是什麼細胞？"
+  },
+  {
+    "num": "b11quiz-26",
+    "path": "B11小考/b11quiz-26.webp",
+    "answer": [
+      "basement membrane",
+      "glassy membrane"
+    ],
+    "explanation": "此為一個 atretic follicle，箭頭部分為基底層（basal lamina）增厚形成的透明層 glassy membrane。",
+    "description": "請寫出下圖構造名稱？"
+  },
+  {
+    "num": "b11quiz-27",
+    "path": "B11小考/b11quiz-27.webp",
+    "answer": [
+      "Zona glomerulosa"
+    ],
+    "explanation": "淡紅色的 capsule 下方即為 zona glomerulosa，柱狀細胞聚集成團狀，為 adrenal cortex 中最薄的一層。",
+    "description": "請問藍框內構造為何？"
+  },
+  {
+    "num": "b11quiz-28",
+    "path": "B11小考/b11quiz-28.webp",
+    "answer": [
+      "Tunica albuginea of ovary"
+    ],
+    "explanation": "此圖下方有許多 follicle，可判斷為 ovary。紅色箭頭區域中沒有濾泡，為 cortex 之上的緻密結締組織，即 tunica albuginea。",
+    "description": "下圖構造是什麼？"
+  },
+  {
+    "num": "b11quiz-29",
+    "path": "B11小考/b11quiz-29.webp",
+    "answer": [
+      "Ora serrata"
+    ],
+    "explanation": "Retina 以 ora serrata 為界，往後為 pars optica（厚，可感光），往前為 pars cecae（薄，不可感光），此交界處即為 ora serrata。",
+    "description": "藍色圈圈所指的 Junction 名稱為何？"
+  },
+  {
+    "num": "b11quiz-30",
+    "path": "B11小考/b11quiz-30.webp",
+    "answer": [
+      "Peg cells",
+      "non-ciliated cells"
+    ],
+    "explanation": "Non-ciliated cell（Peg cell）：數量較少，沒有纖毛，下方無 basal body，通常高度較 Ciliated cell 高並凸向管腔，具有分泌功能。",
+    "description": "箭頭指的是何種細胞？"
+  },
+  {
+    "num": "b11quiz-31",
+    "path": "B11小考/b11quiz-31.webp",
+    "answer": [
+      "Cupula"
+    ],
+    "explanation": "此為 crista ampullaris，由 hair cell 和下方的 supporting cell 所組成，包覆在最上方的是淡染的 cupula。",
+    "description": "黃色箭頭所指構造為何？"
+  },
+  {
+    "num": "b11quiz-32",
+    "path": "B11小考/b11quiz-32.webp",
+    "answer": [
+      "tarsal gland",
+      "Meibomian gland"
+    ],
+    "explanation": "位於眼瞼 tarsal plate 中的腺體為 tarsal gland，屬於特化的皮脂腺，分泌淚液的部分成分。",
+    "description": "寫出黃色箭頭所指之腺體名稱？"
+  },
+  {
+    "num": "b11quiz-33",
+    "path": "B11小考/b11quiz-33.webp",
+    "answer": [
+      "stria vascularis"
+    ],
+    "explanation": "位於 scala media 側壁，由 epithelium 特化形成的 stria vascularis，其上皮內含有微血管，負責製造 endolymph 並運送鉀離子。",
+    "description": "箭頭所指為何？"
+  },
+  {
+    "num": "b11quiz-34",
+    "path": "B11小考/b11quiz-34.webp",
+    "answer": [
+      "Ductus deferens",
+      "Vas deferens"
+    ],
+    "explanation": "Ductus deferens 的特徵為有很厚的 smooth muscle layers，走向呈內縱、中環、外縱，表皮為 pseudostratified columnar epi. with stereocilia。",
+    "description": "下列圈起的構造為何？"
+  },
+  {
+    "num": "b11quiz-35",
+    "path": "B11小考/b11quiz-35.webp",
+    "answer": [
+      "K+"
+    ],
+    "explanation": "細胞外 endolymph 的鉀離子濃度較高。當淋巴液帶動 hair cell 往 kinocilium 擺動，tip link 會把鉀離子 channel 拉開，使鉀離子流入細胞內造成去極化。",
+    "description": "下圖中是何種離子流入細胞？"
+  }
+]

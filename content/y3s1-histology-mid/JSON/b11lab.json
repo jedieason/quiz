@@ -1,0 +1,328 @@
+[
+    {
+        "num": "b11lab_01",
+        "path": "b11lab/b11lab_01.webp",
+        "answer": [
+            "Aorta",
+            "Elastic artery"
+        ],
+        "explanation": "有非常多層的elastic lamella，且tunica media明顯比另外兩層厚很多，故是elastic artery。",
+        "description": "這是什麼器官？"
+    },
+    {
+        "num": "b11lab_02",
+        "path": "b11lab/b11lab_02.webp",
+        "answer": [
+            "Purkinje cell",
+            "Purkinje neuron",
+            "Purkinje neuron cell"
+        ],
+        "explanation": "這是小腦皮質，分三層，分別為molecular layer、purkinje cell layer、granular layer，指針所指為較大、flask-shape、紅色的purkinje cell。",
+        "description": "藍箭頭所指是什麼細胞？"
+    },
+    {
+        "num": "b11lab_03",
+        "path": "b11lab/b11lab_03.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "特徵是細胞核幾乎塞滿整個細胞、大小只比紅血球大一點點，且細胞核接近圓形，故是lymphocyte。",
+        "description": "指針所指細胞為何？"
+    },
+    {
+        "num": "b11lab_04",
+        "path": "b11lab/b11lab_04.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "看起來像多層但每個細胞都有跟basement membrane連接，最上面有一層毛毛的纖毛。",
+        "description": "這是什麼組織？"
+    },
+    {
+        "num": "b11lab_05",
+        "path": "b11lab/b11lab_05.webp",
+        "answer": [
+            "Desmosome"
+        ],
+        "explanation": "此為穿透式電顯圖，長得像毛刷，為desmosome。",
+        "description": "圈起來的構造為何？"
+    },
+    {
+        "num": "b11lab_06",
+        "path": "b11lab/b11lab_06.webp",
+        "answer": [
+            "Simple columnar epithelium with goblet cells and microvilli"
+        ],
+        "explanation": "細胞為長條形，為柱狀細胞，上面有空泡狀的goblet cell及一層microvilli (在LM下不能看出一絲一絲，只會看到一層地毯狀、毛毛的東西在最上面)。",
+        "description": "這是什麼組織？(忽略黃色箭頭)"
+    },
+    {
+        "num": "b11lab_07",
+        "path": "b11lab/b11lab_07.webp",
+        "answer": [
+            "Cardiac muscle"
+        ],
+        "explanation": "此為穿透式電顯圖，可以看見明顯的intercalated disk，為細胞間階梯狀的特化結構，可知是心肌細胞。",
+        "description": "寫出視野下的組織名稱"
+    },
+    {
+        "num": "b11lab_08",
+        "path": "b11lab/b11lab_08.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "觀察肌肉與神經的交界處，可見到明顯黑色的樹枝狀構造為神經纖維，其末端為圓盤狀motor end plate。",
+        "description": "紅圈所指為何種構造?"
+    },
+    {
+        "num": "b11lab_09",
+        "path": "b11lab/b11lab_09.webp",
+        "answer": [
+            "Continuous capillary"
+        ],
+        "explanation": "只有單層endothelial cell，且細胞質連續完整。",
+        "description": "圖中箭頭所指的構造為何？"
+    },
+    {
+        "num": "b11lab_10",
+        "path": "b11lab/b11lab_10.webp",
+        "answer": [
+            "Mast cell",
+            "Metachromasia"
+        ],
+        "explanation": "Mast cell 有 metachromasia（異染性）的特質， toluidine blue 本來為藍色，但 mast cell 會被其染為紅色（實際觀察為紫色），顆粒感明顯。",
+        "description": "畫面中的細胞與染色特性(toluidine blue)"
+    },
+    {
+        "num": "b11lab_11",
+        "path": "b11lab/b11lab_11.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "典型的核為馬蹄形或腎形，胞質為淡灰青色，有些紫色顆粒。相對 lymphocyte，其核質比小、直徑大。",
+        "description": "視野中細胞為何？"
+    },
+    {
+        "num": "b11lab_12",
+        "path": "b11lab/b11lab_12.webp",
+        "answer": [
+            "Succinate dehydrogenase",
+            "Skeletal muscle"
+        ],
+        "explanation": "Histochemical staining: succinate dehydrogenase是skeletal muscle的特殊染色。Mitochondria 的多寡所造成 succinate dehydrogenase 含量的不同而進行 histochemical staining，染成不同程度的紫色。",
+        "description": "圖中為何種染色方式？為何種組織？"
+    },
+    {
+        "num": "b11lab_13",
+        "path": "b11lab/b11lab_13.webp",
+        "answer": [
+            "Brown adipose tissue"
+        ],
+        "explanation": "核在細胞中間，一個細胞內含有多個小的脂肪油滴，充斥整個細胞。",
+        "description": "圖中為何種組織？"
+    },
+    {
+        "num": "b11lab_14",
+        "path": "b11lab/b11lab_14.webp",
+        "answer": [
+            "Perichondrium"
+        ],
+        "explanation": "外側紅色的結締組織為軟骨膜（perichondrium），為 dense CNT，長得有點像骨骼肌，但骨骼肌會有橫紋而它沒有所以不是，再靠近內層的inner cellular layer 中一顆顆扁扁的為 fibroblast。",
+        "description": "指針指著哪個組織?"
+    },
+    {
+        "num": "b11lab_15",
+        "path": "b11lab/b11lab_15.webp",
+        "answer": [
+            "Muscle Spindle"
+        ],
+        "explanation": "可見紡錘狀spindle，被肌纖維夾住，在 muscle fiber 間有紡錘形膨大的構造。",
+        "description": "照片中的構造是什麼"
+    },
+    {
+        "num": "b11lab_16",
+        "path": "b11lab/b11lab_16.webp",
+        "answer": [
+            "Elastic ligament",
+            "ligamentum nuchae"
+        ],
+        "explanation": "Elastic fiber 呈紫紅色，此處較一般常見的 elastic fiber 更粗，是特化的結果，為 nuchal ligament 的主要結構，不要誤認爲為 collagen fiber。在這寫些纖維之間可以看到扁圓形，呈現黑紫色之 fibroblast 細胞核",
+        "description": "以下是哪個組織 （Be specific, 為 special stain）"
+    },
+    {
+        "num": "b11lab_17",
+        "path": "b11lab/b11lab_17.webp",
+        "answer": [
+            "Endochondral ossification"
+        ],
+        "explanation": "此為典型 endochondral ossification，從右到左分別為 Zone of reserved cartilage, Zone of proliferation, Zone of hypertrophy, Zone of calcified cartilage, Zone of resorption and ossification",
+        "description": "以下是何種骨頭生長方式"
+    },
+    {
+        "num": "b11lab_18",
+        "path": "b11lab/b11lab_18.webp",
+        "answer": [
+            "Medium-size vein"
+        ],
+        "explanation": "Tunica media 有環狀的 smooth muscle， Tunica adventitia 比 media 厚。與 Medium artery 比較，沒有明顯的 internal elastic membrane。",
+        "description": "這是何種器官"
+    },
+    {
+        "num": "b11lab_19",
+        "path": "b11lab/b11lab_19.webp",
+        "answer": [
+            "Outer circumferential lamellae",
+            "Decalcified Bone"
+        ],
+        "explanation": "Compact bone 的邊緣外側 （離骨髓較遠）有數層平行板裝狀，稱為 outer circumferential lamellae。此外，由於此切片被染色為紅紫色，代表含有有機質，而非含鈣的無機質，故爲為 decalcified bone。",
+        "description": "左下箭頭指什麽組織，和那種製備方式"
+    },
+    {
+        "num": "b11lab_20",
+        "path": "b11lab/b11lab_20.webp",
+        "answer": [
+            "Ependymal Cell"
+        ],
+        "explanation": "在腦室系統中可見，為Simple cuboidal epithelium 或 Simple columnar epithelium。會有 microvilli 或 cilia。",
+        "description": "下列是那種細胞"
+    },
+    {
+        "num": "b11lab_21",
+        "path": "b11lab/b11lab_21.webp",
+        "answer": [
+            "Reticular Fiber",
+            "silver Stain"
+        ],
+        "explanation": "銀染色下黑色的網狀細z銀染色下黑色的網狀細缐，主要分佈在淋巴結内部的 trabeculae。",
+        "description": "請寫出構造和染色法"
+    },
+    {
+        "num": "b11lab_22",
+        "path": "b11lab/b11lab_22.webp",
+        "answer": [
+            "Smooth muscle cell"
+        ],
+        "explanation": "題目中細胞呈現一條一條的，可以明顯看到contraction band，所以可以判斷是平滑肌。",
+        "description": "箭頭所指的是什麼構造"
+    },
+    {
+        "num": "b11lab_23",
+        "path": "b11lab/b11lab_23.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "細胞呈現多核、淡紅色，加上附近有許多osteoblast ，所以可以判斷是osteoclast。",
+        "description": "以下細胞名稱"
+    },
+    {
+        "num": "b11lab_24",
+        "path": "b11lab/b11lab_24.webp",
+        "answer": [
+            "Neutrophil"
+        ],
+        "explanation": "細胞呈現3葉，很明顯是嗜中性球",
+        "description": "指針下細胞名稱"
+    },
+    {
+        "num": "b11lab_25",
+        "path": "b11lab/b11lab_25.webp",
+        "answer": [
+            "Schwann cell",
+            "Satellite cell"
+        ],
+        "explanation": "從細胞的形狀以及旁邊的神經可以判斷是dorsal root ganglion ，-而PNS中的神經膠細胞是satellite cell 以及 Schwann cell。",
+        "description": "視野中有哪兩種神經膠細胞"
+    },
+    {
+        "num": "b11lab_26",
+        "path": "b11lab/b11lab_26.webp",
+        "answer": [
+            "Heterochromatin"
+        ],
+        "explanation": "細胞核中靠近核膜的electron dense 的構造可以明顯判斷出是heterochromatin ",
+        "description": "箭頭所指構造是什麼?"
+    },
+    {
+        "num": "b11lab_27",
+        "path": "b11lab/b11lab_27.webp",
+        "answer": [
+            "Collagen fiber"
+        ],
+        "explanation": "從明暗明暗的纖維可以判斷是collagen fiber ",
+        "description": "請問圖中的構造是什麼?"
+    },
+    {
+        "num": "b11lab_28",
+        "path": "b11lab/b11lab_28.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "從顆粒佈滿整個細胞的顆粒以及看不到細胞核、周圍看不到細胞質可以判斷是basophil 。",
+        "description": "指針所指是什麼細胞"
+    },
+    {
+        "num": "b11lab_29",
+        "path": "b11lab/b11lab_29.webp",
+        "answer": [
+            "Nuclear pore"
+        ],
+        "explanation": "電顯圖，裡面明白告訴你是chromatin染色質，外面當然是cytosol細胞質，聯通內外的當然是核孔，重點在雙層膜構造有些地方合在一起了。",
+        "description": "請問下列構造為何？（給一黑白電顯圖，非玻片）"
+    },
+    {
+        "num": "b11lab_30",
+        "path": "b11lab/b11lab_30.webp",
+        "answer": [
+            "Muscular artery",
+            "Medium-size artery"
+        ],
+        "explanation": "那個明顯的internal elastic membrane（特殊染色染上，深深紫紫），看到就可以選了",
+        "description": "視野下為何種器官？"
+    },
+    {
+        "num": "b11lab_31",
+        "path": "b11lab/b11lab_31.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "電顯圖，膜狀扁囊，看到就選。補充：cis凸凸inner，trans凹凹outer；然後如果是HE的話，因為脂質多，會被洗掉（空染）",
+        "description": "請問下列構造為何？（給一黑白電顯圖，非玻片）"
+    },
+    {
+        "num": "b11lab_32",
+        "path": "b11lab/b11lab_32.webp",
+        "answer": [
+            "Dense irregular connective tissue"
+        ],
+        "explanation": "粉紅粉紅看不太到核（偶爾才有），粗短線條方向不規則是collagen fiber，裡面有些地方空空的，歪歪扭扭，紅色細胞核是fibroblast，所以是dense irregular CNT（在dermis區域中、看看位置決定是誰？）",
+        "description": "請問視野下組織名稱？"
+    },
+    {
+        "num": "b11lab_33",
+        "path": "b11lab/b11lab_33.webp",
+        "answer": [
+            "Motor neuron",
+            "Multipolar neuron"
+        ],
+        "explanation": "細胞體積大、呈多角形，而且特殊銀染（染成畫面下金金的，本範圍少見的特染，看到這個顏色幾乎能選），可見塊狀的Nissl bodies，且cell body周圍無satellite cells圍繞，為motor neuron的特徵。",
+        "description": "請寫出指針下細胞？"
+    },
+    {
+        "num": "b11lab_34",
+        "path": "b11lab/b11lab_34.webp",
+        "answer": [
+            "Peroxisome"
+        ],
+        "explanation": "中間有明顯的結晶狀nucleoid，Urate oxidase在老鼠和許多非人類物種的peroxisome會形成crystalloid inclusion結晶沈澱，產生類核nucleoid，不過在人類沒有。（考試易考，這個考出來最沒爭議，也就是說看不懂膜狀胞器的可以無聊盲猜這個答案，lysosome很容易吵起來）",
+        "description": "請問下列構造為何？（給一黑白電顯圖，非玻片）"
+    },
+    {
+        "num": "b11lab_35",
+        "path": "b11lab/b11lab_35.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "細胞核大，內有深色核仁，是eccentric nuclei，核會偏一邊，不會在中央。Neuron外有些許顆粒狀的satellite cell，核圓形，深染。因為sympathetic ganglion是multipolar neuron，其細胞會伸出很多process，所以satellite cell排列不會像spinal ganglion那樣緊密。和Motor neuron cell一樣有Nissl body，但較為細緻平均也不會形成塊狀。圖片下細胞核在偏偏（又暗暗紫紫），可知為sympathetic ganglion。",
+        "description": "請問視野下構造名稱？"
+    }
+]

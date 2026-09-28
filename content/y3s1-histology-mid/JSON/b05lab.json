@@ -1,0 +1,226 @@
+[
+    {
+        "num": "b05lab_01",
+        "path": "b05lab/b05lab_01.webp",
+        "answer": [
+            "vena cava"
+        ],
+        "explanation": "可以分出最薄的tunica intima（epithelium）、層數少有環走smooth muscle的tunica media和最厚的tunica adventitia（縱走橫切）。tunica adventitia比tunica media厚非常多。",
+        "description": "視野中為何構造？"
+    },
+    {
+        "num": "b05lab_02",
+        "path": "b05lab/b05lab_02.webp",
+        "answer": [
+            "pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "看起來像多層，但最下層的basal cells是間隔出現，有的地方有、有的地方沒有，上方細胞皆有連接到basement membrane，所以是pseudostratified columnar epithelium。表面的毛比cilia長，呈長短不一不規則狀，下方有一層紅色的terminal bar，為stereocilia。",
+        "description": "組織名稱？"
+    },
+    {
+        "num": "b05lab_03",
+        "path": "b05lab/b05lab_03.webp",
+        "answer": [
+            "stratum granulosum"
+        ],
+        "explanation": "stratum granulosum細胞質內含很多keratohyalin granules（basophilic）故呈深染紫黑色，此層以外為死細胞。",
+        "description": "白色箭號指的這層叫什麼？"
+    },
+    {
+        "num": "b05lab_04",
+        "path": "b05lab/b05lab_04.webp",
+        "answer": [
+            "Stratified cuboidal epithelium"
+        ],
+        "explanation": "多層（通常兩層），可以看到部分細胞沒有貼在basement membrane上。最表層近似正方形。",
+        "description": "組織名稱？"
+    },
+    {
+        "num": "b05lab_05",
+        "path": "b05lab/b05lab_05.webp",
+        "answer": [
+            "Secondary lysosome",
+            "lysosome"
+        ],
+        "explanation": "箭頭所指應為secondary lysosome，不均質，中有較淡色包覆物。電子顯微鏡下lysosome是electron-dense黑黑的。紅圈中亦為secondary lysosome。\n不確定老師對答案要求的精確程度，寫secondary lysosome或為最保險做法。",
+        "description": "中間紅色箭號所指為何？"
+    },
+    {
+        "num": "b05lab_06",
+        "path": "b05lab/b05lab_06.webp",
+        "answer": [
+            "smooth muscle"
+        ],
+        "explanation": "在細胞中間的細胞核可看到顆粒狀chromatin granule，細胞間沒有intercalated disc、沒有橫紋。",
+        "description": "圖中為何種組織？（Be specific）"
+    },
+    {
+        "num": "b05lab_07",
+        "path": "b05lab/b05lab_07.webp",
+        "answer": [
+            "collagen fibril",
+            "TEM"
+        ],
+        "explanation": "Type I的collagen fibril，電子顯微鏡下可見帶有條紋，深色是重金屬染色卡在collagen molecule間的空隙（gap zone）產生。圖中X為collagen fiber的c.s.",
+        "description": "箭號是什麼構造？"
+    },
+    {
+        "num": "b05lab_08",
+        "path": "b05lab/b05lab_08.webp",
+        "answer": [
+            "Meissner's corpuscle",
+            "dermal papilla"
+        ],
+        "explanation": "在epidermis和dermis交界處的突起就是dermal papilla，裡面像龍捲風的橫走fiber就是Meissner’s corpuscle。",
+        "description": "箭號所指是什麼結構？位於什麼突起？"
+    },
+    {
+        "num": "b05lab_09",
+        "path": "b05lab/b05lab_09.webp",
+        "answer": [
+            "myelin sheath",
+            "TEM"
+        ],
+        "explanation": "電子顯微鏡下可看到深淺相間的條紋，major dense line和intraperiod line。",
+        "description": "右下放大部分是什麼？"
+    },
+    {
+        "num": "b05lab_10",
+        "path": "b05lab/b05lab_10.webp",
+        "answer": [
+            "reticular fiber",
+            "silver stain"
+        ],
+        "explanation": "銀染色下黑色的網狀細線，主要分布在淋巴結內部的trabeculae。",
+        "description": "黑色線條是什麼結構？"
+    },
+    {
+        "num": "b05lab_11",
+        "path": "b05lab/b05lab_11.webp",
+        "answer": [
+            "sebaceous gland",
+            "c.s."
+        ],
+        "explanation": "在髮幹旁邊，核小淡染，染色過程細胞內的lipid被洗掉剩許多空泡。",
+        "description": "箭號指的結構？"
+    },
+    {
+        "num": "b05lab_12",
+        "path": "b05lab/b05lab_12.webp",
+        "answer": [
+            "lymphocyte"
+        ],
+        "explanation": "和RBC差不多大小，深藍色細胞核很大，天藍色的細胞質很少，沒有什麼顆粒（和basophil區分）。",
+        "description": "中間是什麼細胞？"
+    },
+    {
+        "num": "b05lab_13",
+        "path": "b05lab/b05lab_13.webp",
+        "answer": [
+            "peripheral nerve"
+        ],
+        "explanation": "可以看到被橘紅色perineurium包圍的神經束fascicle，H&E stain在製備過程中以lipid為主的myelin sheath會被溶解去除而呈現白色，內部的axon脫水萎縮變扁平狀。",
+        "description": "箭號是什麼組織？"
+    },
+    {
+        "num": "b05lab_14",
+        "path": "b05lab/b05lab_14.webp",
+        "answer": [
+            "sympathetic ganglion"
+        ],
+        "explanation": "細胞process和fiber混在一起（DRG則分開），細胞核大有深色核仁且偏離細胞中心，細胞外型較不圓，satellite cell數量較少（DRG則多）且被process隔開排列較不緊密。",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b05lab_15",
+        "path": "b05lab/b05lab_15.webp",
+        "answer": [
+            "elastic artery"
+        ],
+        "explanation": "tunica media較 tunica adventitia厚，與vena cava相反，充滿elastin fiber（紫色波浪線）。Tunica adventitia裡黑黑一圈圈的是管壁的小血管vasa vasorum。",
+        "description": "何種血管？"
+    },
+    {
+        "num": "b05lab_16",
+        "path": "b05lab/b05lab_16.webp",
+        "answer": [
+            "A: tight junction B: desmosome",
+            "tight junction desmosome"
+        ],
+        "explanation": "(A) 靠近細胞上表面的junction是緊緊連接的tight junction。\n(B) desmosome是electron-dense的plaque和旁邊很多條狀的intermediate filament（雙邊毛刷）。",
+        "description": "A是什麼junction？B是什麼？"
+    },
+    {
+        "num": "b05lab_17",
+        "path": "b05lab/b05lab_17.webp",
+        "answer": [
+            "merocrine sweat gland"
+        ],
+        "explanation": "較大且淡染的部分為secretory component，排列較不規則，外側有一圈染成粉紅色的myoepithelial cells。較小且深染的細胞為excretory duct，排列較整齊。",
+        "description": "這是哪種類型的腺體？"
+    },
+    {
+        "num": "b05lab_18",
+        "path": "b05lab/b05lab_18.webp",
+        "answer": [
+            "peroxisome",
+            "TEM"
+        ],
+        "explanation": "很像lysosome的單層膜狀胞器，電子顯微鏡下看得見結晶狀的nucleoid是辨識重點（人體沒有）。",
+        "description": "黑線所指的胞器？"
+    },
+    {
+        "num": "b05lab_19",
+        "path": "b05lab/b05lab_19.webp",
+        "answer": [
+            "heterochromatin"
+        ],
+        "explanation": "細胞核中纏繞緊密的染色質，電子密度高而呈現深色車輪狀或鼓棒狀。",
+        "description": "箭號所指的部分？"
+    },
+    {
+        "num": "b05lab_20",
+        "path": "b05lab/b05lab_20.webp",
+        "answer": [
+            "muscular artery"
+        ],
+        "explanation": "和vein的差別是tunica media很厚，和elastic artery的差別在intima的subendothelial CNT很薄，media的elastin比較少，smooth muscle多，其實看管徑大小差很多就知道了。",
+        "description": "哪種血管？"
+    },
+    {
+        "num": "b05lab_21",
+        "path": "b05lab/b05lab_21.webp",
+        "answer": [
+            "decalcified bone"
+        ],
+        "explanation": "看到許多同心圓中的小空洞，還有小黑點osteocytes，沒有黑色骨屑花紋就是decalcified bone。",
+        "description": "什麼組織（製備方式）？"
+    },
+    {
+        "num": "b05lab_22",
+        "path": "b05lab/b05lab_22.webp",
+        "answer": [
+            "hyaline cartilage"
+        ],
+        "explanation": "H&E染色下外層有紅色perichondrium，淡紫色的透明軟骨內有許多小空洞Lacunae，空洞內有chondrocytes，三四個聚集為田字型isogenic group。",
+        "description": "什麼組織？"
+    },
+    {
+        "num": "b05lab_23",
+        "path": "b05lab/b05lab_23.webp",
+        "answer": [
+            "brown adipose tissue"
+        ],
+        "explanation": "細胞核旁有許多小油滴，沒有融合成大的油滴，重點是有很多的mitochondria。",
+        "description": "什麼組織？"
+    },
+    {
+        "num": "b05lab_24",
+        "path": "b05lab/b05lab_24.webp",
+        "answer": [
+            "muscle spindle"
+        ],
+        "explanation": "呈紡錘狀的構造，兩端有橫紋，中間膨大處有多核。在endplate附近。",
+        "description": "箭號所指是什麼結構"
+    }
+]

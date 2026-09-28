@@ -1,0 +1,465 @@
+[
+    {
+        "num": "2",
+        "path": "線蟲/IMG_5720.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "為雌性廣東血線蟲成蟲，具有理髮廳標誌 (barber's pole pattern)，此為一條黑色的腸子與一對白色的子宮纏繞形成。雌蟲長度約 2~3 公分。此蟲在人體內不會發育成成蟲。",
+        "description": ""
+    },
+    {
+        "num": "13",
+        "path": "線蟲/IMG_5731.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲雄蟲。具有交尾囊 (copulatory bursa)，內有兩根分開的交尾刺 (spicules)。",
+        "description": ""
+    },
+    {
+        "num": "22",
+        "path": "線蟲/IMG_5740.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊 (buccal capsule) 腹側具有三對腹齒 (ventral teeth)。",
+        "description": ""
+    },
+    {
+        "num": "23",
+        "path": "線蟲/IMG_5741.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲成蟲。長度約1公分。具有頭翼 (cephalic alae) 與食道球 (esophagus bulb)。雄蟲尾部彎曲，只有一根交尾刺。雌蟲尾部平直，身體前1/3處為生殖道開口。",
+        "description": ""
+    },
+    {
+        "num": "26",
+        "path": "線蟲/IMG_5744.webp",
+        "answer": [
+            "Trichinella spiralis"
+        ],
+        "explanation": "旋毛蟲幼蟲 (encysted larva) 包裹在肌肉組織中。幼蟲在囊內呈螺旋狀盤捲。",
+        "description": ""
+    },
+    {
+        "num": "33",
+        "path": "線蟲/IMG_5751.webp",
+        "answer": [
+            "Dirofilaria immitis"
+        ],
+        "explanation": "犬心絲蟲 (Dirofilaria immitis) 的中間宿主為蚊子，且人不是其最終宿主(FH)，人感染屬於偶然感染，幼蟲可能在人體內移行但通常無法發育為成蟲。",
+        "description": "寫出人不是FH的線蟲"
+    },
+    {
+        "num": "38",
+        "path": "線蟲/IMG_5756.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊 (buccal capsule) 腹側具有兩對腹齒 (ventral teeth)，其中一對較大，一對較小。",
+        "description": ""
+    },
+    {
+        "num": "42",
+        "path": "線蟲/IMG_5760.webp",
+        "answer": [
+            "Brugia malayi",
+            "Brugia malayi microfilaria"
+        ],
+        "explanation": "馬來絲蟲微絲蚴 (microfilaria)。蟲體外有鞘 (sheath)。重要特徵是身體末端有兩個明顯的尾核 (terminal nuclei)，與蟲體主核柱不連續。身體內的核染色較深，排列較緊密。常見於夜間周邊血。",
+        "description": ""
+    },
+    {
+        "num": "43",
+        "path": "線蟲/IMG_5761.webp",
+        "answer": [
+            "Dracunculus medinensis"
+        ],
+        "explanation": "麥地那線蟲。人是其唯一最終宿主 (F.H.)。其中間宿主為劍水蚤。成蟲寄生於皮下組織。",
+        "description": "請寫出人是FH的線蟲"
+    },
+    {
+        "num": "50",
+        "path": "線蟲/IMG_5768.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊 (buccal capsule) 腹背側各有一對半月形的切板 (cutting plates)。雄蟲有交尾囊，其兩根交尾刺末端癒合形成小倒鉤。",
+        "description": ""
+    },
+    {
+        "num": "59",
+        "path": "線蟲/IMG_5777.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲成蟲。蟲體前3/5細長如鞭狀 (頭部)，後2/5粗大 (尾部)。雄蟲尾部捲曲，具一根交尾刺。雌蟲尾部鈍圓平直。",
+        "description": ""
+    },
+    {
+        "num": "61",
+        "path": "線蟲/IMG_5779.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲成蟲。口囊 (buccal capsule) 腹側具有兩對大小差不多的腹齒 (ventral teeth) 及一對副齒。",
+        "description": ""
+    },
+    {
+        "num": "63",
+        "path": "線蟲/IMG_5781.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis R-form larva"
+        ],
+        "explanation": "糞線蟲桿狀幼蟲 (Rhabditiform larva, R-form larva)。食道為桿狀，具有食道球。口腔短。具有明顯的生殖原基 (genital primordium)。口腔深度：體寬=1:3。",
+        "description": ""
+    },
+    {
+        "num": "64",
+        "path": "線蟲/IMG_5782.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主之一。",
+        "description": "這是哪隻寄生蟲的IH？"
+    },
+    {
+        "num": "77",
+        "path": "線蟲/IMG_5795.webp",
+        "answer": [
+            "Gnathostoma spinigerum"
+        ],
+        "explanation": "棘顎口線蟲成蟲。長度約 1~5 公分，♂♀尾部均彎曲。具有頭球 (headbulb)，頭球上有4排以上的鉤。身體體表有棘 (spines)。人非其最終宿主 (F.H.)。",
+        "description": ""
+    },
+    {
+        "num": "87",
+        "path": "線蟲/trichruis_adult.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura adult"
+        ],
+        "explanation": "鞭蟲成蟲。蟲體前3/5細長如鞭，後2/5粗大。雄蟲尾部捲曲，雌蟲尾部平直。",
+        "description": ""
+    },
+    {
+        "num": "91",
+        "path": "線蟲/ancylostoma_caninum.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊腹側具有三對腹齒。",
+        "description": ""
+    },
+    {
+        "num": "92",
+        "path": "線蟲/ss_f-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis F-form larva"
+        ],
+        "explanation": "糞線蟲絲狀幼蟲 (Filariform larva, F-form larva)。蟲體細長。無鞘 (與鉤蟲F-form larva有鞘區分)。食道長約為體長的1/2。尾部末端呈倒V字型 (notched tail)。",
+        "description": ""
+    },
+    {
+        "num": "93",
+        "path": "線蟲/brugia-malayi.webp",
+        "answer": [
+            "Brugia malayi"
+        ],
+        "explanation": "馬來絲蟲微絲蚴。蟲體外有鞘。身體末端有兩個明顯分離的尾核。身體內的核染色較深，排列較緊密，不像班氏絲蟲核較鬆散且末端無核。",
+        "description": ""
+    },
+    {
+        "num": "94",
+        "path": "./線蟲/IM-0000.webp",
+        "answer": [
+            "Gnathostoma spinigerum"
+        ],
+        "explanation": "棘顎口線蟲成蟲。具有頭球 (headbulb)，頭球上有4排以上的鉤 (幼蟲少於4排)。身體體表有棘。長約1-5公分，雌雄尾部均彎曲。",
+        "description": ""
+    },
+    {
+        "num": "96",
+        "path": "./線蟲/IM-0002.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "蛔蟲成蟲。大型線蟲，雌蟲可長達20-35cm，雄蟲15-30cm。蟲體乳白色或淡粉紅色，似蚯蚓。前端有三片唇瓣。雄蟲尾部向腹面彎曲。",
+        "description": ""
+    },
+    {
+        "num": "102",
+        "path": "./線蟲/IM-0008.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊腹背側各有一對半月形的切板 (cutting plates)。",
+        "description": ""
+    },
+    {
+        "num": "106",
+        "path": "./線蟲/IM-0012.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊腹側具有兩對腹齒，一對較大，一對較小。",
+        "description": ""
+    },
+    {
+        "num": "107",
+        "path": "./線蟲/IM-0013.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲成蟲。口囊腹側具有兩對大小差不多的腹齒及一對副齒。",
+        "description": ""
+    },
+    {
+        "num": "110",
+        "path": "./線蟲/IM-0016.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主之一。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "116",
+        "path": "./線蟲/IM-0022.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為非洲大蝸牛或扁蝸牛，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "119",
+        "path": "",
+        "answer": [
+            "Wuchereria bancrofti",
+            "Brugia malayi",
+            "Brugia timori",
+            "Dirofilaria immitis"
+        ],
+        "explanation": "蚊子是多種絲蟲的中間宿主，包括班氏絲蟲 (Wuchereria bancrofti)、馬來絲蟲 (Brugia malayi)、帝汶絲蟲 (Brugia timori) 以及犬心絲蟲 (Dirofilaria immitis)。",
+        "description": "寫出一種以蚊子為中間宿主的蟲？"
+    },
+    {
+        "num": "154",
+        "path": "線蟲/hookworm-f-form.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale",
+            "Necator americanus  F-form larva",
+            "Ancylostoma duodenale F-form larva"
+        ],
+        "explanation": "鉤蟲絲狀幼蟲 (F-form larva)。有鞘。口部有明顯的槍狀構造 (矛狀食道)。食道長約體長1/3-1/4。尾端尖細。",
+        "description": ""
+    },
+    {
+        "num": "155",
+        "path": "線蟲/trichuris-female.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura female adult"
+        ],
+        "explanation": "鞭蟲雌成蟲。蟲體前3/5細長如鞭，後2/5粗大。雌蟲尾部平直。",
+        "description": ""
+    },
+    {
+        "num": "156",
+        "path": "線蟲/trichuris-male.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura male adult"
+        ],
+        "explanation": "鞭蟲雄成蟲。蟲體前3/5細長如鞭，後2/5粗大。雄蟲尾部向腹面彎曲，有一根交尾刺，交尾刺外面包一層鞘膜。",
+        "description": ""
+    },
+    {
+        "num": "159",
+        "path": "線蟲/hookworm-r-form.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale",
+            "Necator americanus  R-form larva",
+            "Ancylostoma duodenale R-form larva"
+        ],
+        "explanation": "鉤蟲桿狀幼蟲 (R-form larva)。食道為桿狀，具食道球。口腔較長且壁厚。口腔深度：體寬約等於1:1。生殖原基不明顯。",
+        "description": ""
+    },
+    {
+        "num": "160",
+        "path": "線蟲/ss-f-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis F-form larva"
+        ],
+        "explanation": "糞線蟲絲狀幼蟲 (F-form larva)。無鞘。尾部末端呈倒V字型 (notched tail)。",
+        "description": ""
+    },
+    {
+        "num": "162",
+        "path": "線蟲/ac-snail.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為非洲大蝸牛，是廣東血線蟲的中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "163",
+        "path": "線蟲/ac-snail2.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為扁蝸牛，是廣東血線蟲的中間宿主。與雙臍螺(曼氏血吸蟲IH)及扁蜷(薑片蟲IH)區分：扁蝸牛螺塔較為凸起，不像後兩者螺塔扁平，兩面中央凹陷。",
+        "description": ""
+    },
+    {
+        "num": "166",
+        "path": "線蟲/ancly-can.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊腹側有三對腹齒。",
+        "description": ""
+    },
+    {
+        "num": "167",
+        "path": "線蟲/ss-r-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis R-form larva"
+        ],
+        "explanation": "糞線蟲桿狀幼蟲 (R-form larva)。具有明顯的生殖原基。口腔短。口腔深度：體寬=1:3。",
+        "description": ""
+    },
+    {
+        "num": "168",
+        "path": "線蟲/wb.webp",
+        "answer": [
+            "Wuchereria bancrofti"
+        ],
+        "explanation": "班氏絲蟲微絲蚴 (microfilaria)。有鞘 (sheath)。身體末端有一段空白區域，沒有細胞核。身體內的核染色較淺，排列較鬆散。",
+        "description": ""
+    },
+    {
+        "num": "171",
+        "path": "線蟲/ac-snail3.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為圓田螺 (Cipangopaludina chinensis)，是廣東血線蟲的中間宿主之一。",
+        "description": ""
+    },
+    {
+        "num": "173",
+        "path": "線蟲/al-adult.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "蛔蟲成蟲。大型線蟲，乳白色或淡粉紅色，似蚯蚓。",
+        "description": ""
+    },
+    {
+        "num": "174",
+        "path": "./線蟲/IM-0056.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為福壽螺 (Ampullarium canaliculatus)，是廣東血線蟲的中間宿主之一。",
+        "description": ""
+    },
+    {
+        "num": "175",
+        "path": "線蟲/cp-female.webp",
+        "answer": [
+            "Capillaria philippinensis",
+            "Capillaria philippinensis female adult"
+        ],
+        "explanation": "菲律賓毛線蟲雌成蟲。蟲體細長，由stichocyte組成之stichosome包圍食道。子宮內可見特有的蟲卵 (花生形，兩端有卵塞)。長度約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "187",
+        "path": "form/trichinella-cyst.webp",
+        "answer": [
+            "Trichinella spiralis",
+            "Trichinella spiralis encysted larva"
+        ],
+        "explanation": "旋毛蟲幼蟲包囊 (encysted larva) 在肌肉組織中。囊內幼蟲呈螺旋狀。",
+        "description": ""
+    },
+    {
+        "num": "189",
+        "path": "線蟲/anal-swab.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "此為玻璃膠紙肛圍擦拭法採集蟯蟲卵的用具。",
+        "description": ""
+    },
+    {
+        "num": "195",
+        "path": "線蟲/na.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊 (buccal capsule) 有一對腹齒板 (cutting plates)。雄蟲有交尾囊，兩根交尾刺末端癒合有小倒鉤。長度約1公分。",
+        "description": ""
+    },
+    {
+        "num": "196",
+        "path": "線蟲/ac-ih.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲的中間宿主。",
+        "description": "這是哪一隻寄生蟲的IH？"
+    },
+    {
+        "num": "200",
+        "path": "線蟲/cp-male.webp",
+        "answer": [
+            "Capillaria philippinensis",
+            "Capillaria philippinensis male adult"
+        ],
+        "explanation": "菲律賓毛線蟲雄成蟲。蟲體細長，由stichocyte組成之stichosome包圍食道。雄蟲有一根很長的交尾刺。長度約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "206",
+        "path": "線蟲/t-spiral-female.webp",
+        "answer": [
+            "Trichinella spiralis",
+            "Trichinella spiralis female adult"
+        ],
+        "explanation": "旋毛蟲雌成蟲。蟲體前端由stichocyte組成stichosome包圍食道。雌蟲為胎生，子宮內可見許多幼蟲。長約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "208",
+        "path": "線蟲/a-duo-male.webp",
+        "answer": [
+            "Ancylostoma duodenale",
+            "Ancylostoma duodenale male adult"
+        ],
+        "explanation": "十二指腸鉤蟲雄蟲。尾部有交尾囊，內有兩根分開的交尾刺。",
+        "description": ""
+    },
+    {
+        "num": "209",
+        "path": "線蟲/a-cey.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊腹側有兩對腹齒，一對大一對小，形態似鳥嘴。",
+        "description": ""
+    }
+]

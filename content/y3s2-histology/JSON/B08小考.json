@@ -1,0 +1,256 @@
+[
+  {
+    "num": "b08quiz-01",
+    "path": "B08小考/b08quiz-01.webp",
+    "answer": [
+      "Interstitial gland Ovary"
+    ],
+    "explanation": "Ovary 組織切片可以觀察到細胞核較圓、細胞核間距較大的群聚細胞，周圍被核扁平、細胞核間距較小的結締組織包圍，可判定為 interstitial gland。Interstitial gland 是一團散佈在 stroma 間的類上皮細胞，由濾泡退化後未被分解而留在卵巢皮質的 theca interna 組成。",
+    "description": "1.視野下所圍區域為何構造？器官為何？"
+  },
+  {
+    "num": "b08quiz-02",
+    "path": "B08小考/b08quiz-02.webp",
+    "answer": [
+      "Chromaffin cell"
+    ],
+    "explanation": "腎上腺髓質的細胞因為有嗜鉻的特性，在 Zenker-formalin 的染色下呈現深棕色。（且在視野下能看到所圍區域中有血管的分佈，應為 adrenal gland 中 medulla 的 central vein）",
+    "description": "2.箭頭所指細胞名稱為何?"
+  },
+  {
+    "num": "b08quiz-03",
+    "path": "B08小考/b08quiz-03.webp",
+    "answer": [
+      "Primary spermatocyte"
+    ],
+    "explanation": "大顆且可見細絲狀染色質即為 primary spermatocyte。",
+    "description": "3.箭號所指細胞名稱為何?"
+  },
+  {
+    "num": "b08quiz-04",
+    "path": "B08小考/b08quiz-04.webp",
+    "answer": [
+      "Corpus luteum"
+    ],
+    "explanation": "充滿 CNT、adipose tissue。",
+    "description": "4.下圖為何構造?"
+  },
+  {
+    "num": "b08quiz-05",
+    "path": "B08小考/b08quiz-05.webp",
+    "answer": [
+      "Granulosa cell 固縮"
+    ],
+    "explanation": "出現 pyknotic nuclei，且細胞看起來脫落至 antrum 中。",
+    "description": "5.下圖中卵細胞發生什麼變化?"
+  },
+  {
+    "num": "b08quiz-06",
+    "path": "B08小考/b08quiz-06.webp",
+    "answer": [
+      "Macula"
+    ],
+    "explanation": "此處為 vestibule，側邊增厚處為 macula，上有 otolithic membrane，可與 endolymph 產生相對位移而引發感覺。",
+    "description": "6.寫出虛線範圍內構造名稱?"
+  },
+  {
+    "num": "b08quiz-07",
+    "path": "B08小考/b08quiz-07.webp",
+    "answer": [
+      "Peg cell",
+      "non-ciliated epithelium cell"
+    ],
+    "explanation": "細胞呈圓拱狀突向 lumen，沒有一絲一絲紅色線條的 basal body，為具分泌功能的 peg cell。",
+    "description": "7.橘色框線內之細胞名稱?"
+  },
+  {
+    "num": "b08quiz-09",
+    "path": "B08小考/b08quiz-09.webp",
+    "answer": [
+      "Cytotrophoblast"
+    ],
+    "explanation": "在 villi 的邊緣可見 cytotrophoblast 位於 syncytiotrophoblast 的內側，細胞圓、淡染、單核、體積較大。",
+    "description": "9.寫出箭頭所指細胞?"
+  },
+  {
+    "num": "b08quiz-10",
+    "path": "B08小考/b08quiz-10.webp",
+    "answer": [
+      "Acidophils"
+    ],
+    "explanation": "在 pituitary gland 的 pars distalis（深染部分），可以看到 3 種細胞：Acidophil：細胞較 basophils 小，細胞質呈紅色；Basophil：細胞較 acidophils 大，細胞質呈藍紫色；Chromophobes：細胞質極淡染，僅可見其細胞核。",
+    "description": "10. 寫出虛線範圍內細胞名稱?"
+  },
+  {
+    "num": "b08quiz-11",
+    "path": "B08小考/b08quiz-11.webp",
+    "answer": [
+      "Ora serrata"
+    ],
+    "explanation": "Ora serrata 往前為 cecal part，無法感光且層數不明顯，約只有兩層 cuboidal，往後為 optic part，可感光，細胞較多層。",
+    "description": "11. 寫出整個藍色範圍的 junction 名稱?"
+  },
+  {
+    "num": "b08quiz-12",
+    "path": "B08小考/b08quiz-12.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "特徵為交錯複雜的長條形蜂窩狀結構，而 prostate gland 的 smooth muscle 比較多。",
+    "description": "12. 寫出視野下的器官名稱?"
+  },
+  {
+    "num": "b08quiz-13",
+    "path": "B08小考/b08quiz-13.webp",
+    "answer": [
+      "Herring body"
+    ],
+    "explanation": "由此處佈滿 axon 且出現 Herring body 所以能看出這是 pars nervosa。Pituitary gland 的 pars nervosa（淡染部分），可以看到粉紅色的實心構造 Herring body，是 neurosecretory vesicles 堆積於 axon terminal 所形成的膨大構造。",
+    "description": "13. 寫出箭頭所指構造名稱?"
+  },
+  {
+    "num": "b08quiz-14",
+    "path": "B08小考/b08quiz-14.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "在 spiral ligament（為 cochlea epi.的增生）表面，製造 endolymph、運送鉀離子。是人體少數 epithelium 內的血管。富含粒線體，在 H&E 下呈紅色。",
+    "description": "14. 寫出箭號所指之構造名稱?"
+  },
+  {
+    "num": "b08quiz-16",
+    "path": "B08小考/b08quiz-16.webp",
+    "answer": [
+      "Zona glomerulosa Adrenal gland"
+    ],
+    "explanation": "淡紅色 capsule 下層，細胞為 simple columnar epithelium，會聚集成球狀。",
+    "description": "16. 指針所指區域為何? 在何種器官?"
+  },
+  {
+    "num": "b08quiz-17",
+    "path": "B08小考/b08quiz-17.webp",
+    "answer": [
+      "Organ of Corti"
+    ],
+    "explanation": "面向 scala media 的 organ of Corti 上有 tectorial membrane 和 inner hair cell 等構造。",
+    "description": "17. 請問視野下為何種構造?"
+  },
+  {
+    "num": "b08quiz-18",
+    "path": "B08小考/b08quiz-18.webp",
+    "answer": [
+      "Follicular cell of thyroid gland"
+    ],
+    "explanation": "在 follicle 旁較小、核較深染的細胞。",
+    "description": "18. 藍色箭頭所指細胞為何?"
+  },
+  {
+    "num": "b08quiz-19",
+    "path": "B08小考/b08quiz-19.webp",
+    "answer": [
+      "Ciliary body",
+      "Ciliary process"
+    ],
+    "explanation": "此為 ciliary body（睫狀體）的 ciliary process，其特徵為 double layered cuboidal epithelium，淺層（outer）有色素，深層（inner）則沒有；在 stroma 中可以看到血管。",
+    "description": "19. 寫出指針所指構造名稱?"
+  },
+  {
+    "num": "b08quiz-20",
+    "path": "B08小考/b08quiz-20.webp",
+    "answer": [
+      "Oxyphil cell Parathyroid gland"
+    ],
+    "explanation": "視野下為副甲狀腺，可以看到密集的 principal cell 和偏紅色的 oxyphil cell。而 oxyphil cell 較大，胞核間距寬。",
+    "description": "20. 寫出指針所指構造名稱? 位於哪個構造裡?"
+  },
+  {
+    "num": "b08quiz-22",
+    "path": "B08小考/b08quiz-22.webp",
+    "answer": [
+      "Spiral artery"
+    ],
+    "explanation": "在 stratum functionale 所以是 spiral a.，若在 stratum basale 則是 straight a.。",
+    "description": "22. 右圖是左圖紅框放大，請問右圖圓圈所指是何種構造?"
+  },
+  {
+    "num": "b08quiz-23",
+    "path": "B08小考/b08quiz-23.webp",
+    "answer": [
+      "Sertoli cells"
+    ],
+    "explanation": "核呈橢圓狀，細胞會和 basement membrane 接觸長度較周圍細胞長。",
+    "description": "23. 寫出箭頭所指的細胞名稱? (Be specific)"
+  },
+  {
+    "num": "b08quiz-27",
+    "path": "B08小考/b08quiz-27.webp",
+    "answer": [
+      "Ovary"
+    ],
+    "explanation": "可以看到裡面有許多 follicle 故應為 ovary。",
+    "description": "27. 寫出視野下器官名稱?"
+  },
+  {
+    "num": "b08quiz-28",
+    "path": "B08小考/b08quiz-28.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "有很厚平滑肌層且其厚度可達 lumen 3~5 倍以上。",
+    "description": "28. 指針所指的器官為何?"
+  },
+  {
+    "num": "b08quiz-29",
+    "path": "B08小考/b08quiz-29.webp",
+    "answer": [
+      "Outer plexiform layer"
+    ],
+    "explanation": "夾在兩層顏色較深較厚、明顯有顆粒的 outer 和 inner nuclear layer 之間就是 outer plexiform layer。",
+    "description": "29. 寫出箭頭範圍內的層次名稱?"
+  },
+  {
+    "num": "b08quiz-31",
+    "path": "B08小考/b08quiz-31.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見 palpebral conjunctiva，故為 tarsal gland。Tarsal glands（為皮脂腺）有管道連通到 tarsal plate，分泌淚液的部分成分。",
+    "description": "31. 寫出箭頭所指的腺體名稱?"
+  },
+  {
+    "num": "b08quiz-32",
+    "path": "B08小考/b08quiz-32.webp",
+    "answer": [
+      "Zona pellucida"
+    ],
+    "explanation": "位在 oocyte 以及 follicular cell 之間呈亮粉色帶狀者為 zona pellucida。",
+    "description": "32. 寫出箭頭所指的構造名稱? (Be specific)"
+  },
+  {
+    "num": "b08quiz-33",
+    "path": "B08小考/b08quiz-33.webp",
+    "answer": [
+      "Retinal pigment epithelium"
+    ],
+    "explanation": "最靠近 choroid，和 Bruch’s membrane 相連，是 retina 十層中的第一層。",
+    "description": "33. 寫出黃色箭頭所指之細胞名稱?"
+  },
+  {
+    "num": "b08quiz-34",
+    "path": "B08小考/b08quiz-34.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "年老的 prostate gland 在每個 prostatic alveoli 外都可以看到厚厚的 smooth muscle 包圍，可觀察到 prostatic concretion。",
+    "description": "34. 寫出此器官名稱?"
+  },
+  {
+    "num": "b08quiz-35",
+    "path": "B08小考/b08quiz-35.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "耳蝸骨質部分的神經細胞，位於 scala tympani 和 scala vestibuli 的內側。",
+    "description": "35. 寫出箭頭所指的組織名稱? (Be specific)"
+  }
+]

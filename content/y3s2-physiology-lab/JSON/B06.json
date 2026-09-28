@@ -1,0 +1,155 @@
+[
+    {
+        "origin": "出自 B06 考古第 1 題",
+        "question": "灌洗抹片檢查中所使用的 LiuA，主要是含有何種成份對細胞中的細胞質較有親和力使之呈現何種色澤？",
+        "options": {
+            "A": "Eosin Y，呈紫藍色",
+            "B": "Eosin Y，呈紅色",
+            "C": "Methylene blue & Azur I，呈紫藍色",
+            "D": "Methylene blue & Azur I，呈紅色"
+        },
+        "answer": "B",
+        "explanation": "LiuA 主要含有酸性染料 Eosin Y，與細胞質結合呈紅色；LiuB 含有鹼性染料，使細胞核呈藍紫色。【出處】B06.考古 Q1."
+    },
+    {
+        "origin": "出自 B06 考古第 2 題",
+        "question": "陰道抹片觀察到三種細胞（白血球、有核上皮細胞及已角質化上皮細胞）都存在，推測此雌鼠最有可能處於哪一個過渡期？",
+        "options": {
+            "A": "間情期進入動情前期",
+            "B": "動情前期進入動情期",
+            "C": "動情期進入動情後期",
+            "D": "動情後期進入間情期"
+        },
+        "answer": "B",
+        "explanation": "動情期上皮細胞角質化且無核。若同時觀察到有核上皮、無核角質上皮與白血球，說明處於動情前期邁向動情期的過渡階段。【出處】B06.考古 Q2."
+    },
+    {
+        "origin": "出自 B06 考古第 3 題",
+        "question": "當性成熟之雌鼠密集飼育於小飼育籠，而飼育室中無性成熟雄鼠，則雌鼠之動情週期將自 4到5 天延長至 10到14 天現象稱為：",
+        "options": {
+            "A": "Whitten effect",
+            "B": "Lee-Boot effect",
+            "C": "Vandenbergh effect"
+        },
+        "answer": "B",
+        "explanation": "密集飼養雌鼠且無公鼠時，發情週期延長之現象為 Lee-Boot effect。Whitten effect 是引入公鼠氣味使發情同步化；Vandenbergh effect 是公鼠尿液加速幼鼠性成熟。【出處】B06.考古 Q3."
+    },
+    {
+        "origin": "出自 B06 考古第 4 題",
+        "question": "欲觀察到複合動作電位 group II 圖形，我們應該更改何種實驗條件？",
+        "options": {
+            "A": "增加電刺激強度",
+            "B": "增加電刺激頻率",
+            "C": "增加電刺激時間",
+            "D": "縮短電刺激時間"
+        },
+        "answer": "A",
+        "explanation": "Group II 纖維的興奮閾值比 Group I 高，需要增加電刺激強度（電壓）才能活化並觀察到波形。【出處】B06.考古 Q4."
+    },
+    {
+        "origin": "出自 B06 考古第 5 題",
+        "question": "進行不反應期實驗，當兩個刺激間隔時間 10 ms 卻發現 P2 複合動作電位訊號較 P1 小，如欲看到同樣大小的 P1、P2，下列哪一步驟最恰當？",
+        "options": {
+            "A": "拉長刺激間隔",
+            "B": "增加刺激頻率",
+            "C": "增加刺激強度",
+            "D": "放大器上的 1/2 Amp. Low Freq. 調大為 10 Hz"
+        },
+        "answer": "A",
+        "explanation": "P2 較小是因為其落入了 P1 的相對不反應期。拉長兩刺激之間隔時間，可使神經完全恢復，從而得到與 P1 等大的 P2。【出處】B06.考古 Q5."
+    },
+    {
+        "origin": "出自 B06 考古第 6 題",
+        "question": "如下圖之一條 axon（傳導速度為 70 m/s，不反應期為 1 ms），其上有 S1 與 S2 兩對刺激電極以及一對紀錄電極 R。試問 S2 在 S1 之前多少 ms 內刺激，可使 R 記錄不到 S1 的反應？",
+        "options": {
+            "A": "S2 在 S1 刺激之前 2 ms 內刺激，R 不會記錄到 S1 的動作電位",
+            "B": "S2 在 S1 刺激之前 3 ms 內刺激，R 不會記錄到 S1 的動作電位",
+            "C": "S2 在 S1 刺激之前 4 ms 內刺激，R 不會記錄到 S1 的動作電位",
+            "D": "S2 在 S1 刺激之前 5 ms 內刺激，R 不會記錄到 S1 的動作電位"
+        },
+        "answer": "B",
+        "explanation": "S2 到 S1 距離傳導耗時 $140\\text{ mm}/70\\text{ m/s} = 2\\text{ ms}$，加上其產生的不反應期 1 ms。故 S2 必須在 S1 之前 3 ms 內刺激，方可使 S1 處於不反應期而被阻擋。【出處】B06.考古 Q6."
+    },
+    {
+        "origin": "出自 B06 考古第 7 題",
+        "question": "設定 S9 以產生較大 group I 的刺激強度，而 SD9 以產生 group I + group II 的刺激強度，進行碰撞實驗，引起之 action potential 圖形最可能變成下列圖片中那一條？",
+        "options": {
+            "A": "圖(A)",
+            "B": "圖(B)",
+            "C": "圖(C)"
+        },
+        "answer": "C",
+        "explanation": "兩端發出的訊號方向相反，波形反相。先抵達的 S1 為正相 Group I，隨後的 S2 則兼有反相的 Group I & II。【出處】B06.考古 Q7."
+    },
+    {
+        "origin": "出自 B06 考古第 8 題",
+        "question": "承上題，在相同刺激條件下，隨著兩刺激間隔時間縮短，最不可能看到的波形變化是：",
+        "options": {
+            "A": "S1 group I 波形不變",
+            "B": "S2 group I 完全消失",
+            "C": "S2 group II 完全消失"
+        },
+        "answer": "C",
+        "explanation": "Group I 與 Group II 分別走在不同的神經纖維上，必須雙方均有對應纖維才能發生碰撞。因此 Group II 不會因為間隔縮短而完全消失。【出處】B06.考古 Q8."
+    },
+    {
+        "origin": "出自 B06 考古第 9 題",
+        "question": "碰撞實驗前，於神經兩端測試單一刺激的目的，下列何者錯誤？",
+        "options": {
+            "A": "神經兩端組成不同，因此發出的複合動作電位有所差異",
+            "B": "隨著實驗進行，坐股神經近心端神經活性下降，需重找刺激強度",
+            "C": "碰撞實驗器材的刺激、記錄端距離縮短，造成 S1 的 Group II 不明顯，須確認刺激強度是否適當",
+            "D": "神經兩端使用不同的電刺激器，要確定兩端刺激所產生的波形上下相"
+        },
+        "answer": "D",
+        "explanation": "波形上下相反（反相）是因為兩端刺激電極相對於記錄電極的方向相反，與是否使用不同刺激器無關。【出處】B06.考古 Q9."
+    },
+    {
+        "origin": "出自 B06 考古第 10 題",
+        "question": "Lordosis Quotient (LQ) = ?",
+        "options": {
+            "A": "Lordosis 之次數 / Mount 之次數 * 100",
+            "B": "Mount 之次數 / Lordosis 之次數 * 100",
+            "C": "Lordosis 之次數 / (Mount 之次數 + Lordosis 之次數) * 100",
+            "D": "Mount 之次數 / (Mount 之次數 + Lordosis 之次數) * 100"
+        },
+        "answer": "A",
+        "explanation": "LQ 代表雌性面對雄性交配意圖時的接受率。計算公式為：(Lordosis次數 / Mount次數) * 100。【出處】B06.考古 Q10."
+    },
+    {
+        "origin": "出自 B06 考古第 11 題",
+        "question": "下列何種 neurotransmitter 的增加與雄鼠在射精後會有很長一段休息時間有關？",
+        "options": {
+            "A": "Norepinephrine",
+            "B": "Acetylcholine",
+            "C": "Serotonin",
+            "D": "Dopamine"
+        },
+        "answer": "C",
+        "explanation": "Dopamine 增加會促成 refractory period 的開始，而 serotonin 濃度的上升則負責維持較長時間的安定狀態與抑制交配動機。【出處】B06.考古 Q11."
+    },
+    {
+        "origin": "出自 B06 考古第 12 題",
+        "question": "有關雌鼠之性 motivation 下列何者錯誤？",
+        "options": {
+            "A": "Darting",
+            "B": "Hopping",
+            "C": "Solicitation",
+            "D": "以上皆是雌鼠的 motivation 的表現"
+        },
+        "answer": "D",
+        "explanation": "Darting、Hopping 和 Solicitation 皆為雌鼠發情時表現的主動求偶行為，用以展現並反映其 sexual motivation（性動機）。【出處】B06.考古 Q12."
+    },
+    {
+        "origin": "出自 B06 考古第 13 題",
+        "question": "下列何者不可用來判斷雄鼠性慾程度之高低？",
+        "options": {
+            "A": "Latency to mount; number of mounts",
+            "B": "Latency to intromission; number of intromissions",
+            "C": "Postejaculatory period",
+            "D": "以上皆可用來判斷雄鼠性慾之程度"
+        },
+        "answer": "D",
+        "explanation": "騎乘/插入的潛伏期、次數以及射精後的間歇期(postejaculatory period)皆可作為判斷雄鼠性動機與性慾程度的有效指標。【出處】B06.考古 Q13."
+    }
+]

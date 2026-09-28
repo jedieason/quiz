@@ -1,0 +1,402 @@
+[
+  {
+    "num": "B10_1",
+    "path": "B10/B10_1.webp",
+    "answer": [
+      "(1) Olive (2) inferior olivary nucleus",
+      "Olive inferior olivary nucleus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_2",
+    "path": "B10/B10_2.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) 聽覺傳導通路",
+      "Inferior colliculus 聽覺傳導通路"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_3",
+    "path": "B10/B10_3.webp",
+    "answer": [
+      "(1) Pineal gland (2) Trochlear nerve",
+      "Pineal gland Trochlear nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_4",
+    "path": "B10/B10_4.webp",
+    "answer": [
+      "(1) Cuneate fasciculus (2)Pyramid",
+      "Cuneate fasciculus Pyramid"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_5",
+    "path": "B10/B10_5.webp",
+    "answer": [
+      "(1) gracile nucleus (2)pyramid",
+      "gracile nucleus pyramid"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_6",
+    "path": "B10/B10_6.webp",
+    "answer": [
+      "(1)Solitary tract (2)CN12",
+      "Solitary tract CN12"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_7",
+    "path": "B10/B10_7.webp",
+    "answer": [
+      "(1)Brachium of the Inferior colliculus (2)trochlear nerve",
+      "Brachium of the Inferior colliculus trochlear nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_8",
+    "path": "B10/B10_8.webp",
+    "answer": [
+      "(1)Abducens nerve (2)Facial nerve",
+      "Abducens nerve Facial nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_9",
+    "path": "B10/B10_9.webp",
+    "answer": [
+      "(1) Periaqueductal gray (2)痛覺",
+      "Periaqueductal gray 痛覺"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_10",
+    "path": "B10/B10_10.webp",
+    "answer": [
+      "(1) lateral lemniscus (2)decussation of superior cerebellar peduncle",
+      "lateral lemniscus decussation of superior cerebellar peduncle"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_11",
+    "path": "B10/B10_11.webp",
+    "answer": [
+      "(1) Substantia nigra (2)crus cerebri",
+      "Substantia nigra crus cerebri"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_13",
+    "path": "B10/B10_13.webp",
+    "answer": [
+      "(1)Lateral ventricle (2)thalamus",
+      "Lateral ventricle thalamus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_17",
+    "path": "B10/B10_17.webp",
+    "answer": [
+      "(1) fastigial nucleus (2) Inferior cerebellar peduncle",
+      "fastigial nucleus Inferior cerebellar peduncle"
+    ],
+    "explanation": "補充：若只看小腦核區和小腦腳的關係：\nSuperior 為從 dentate 和 interposed nucleus 傳出的訊息\nMiddle 傳入到 dentate nucleus\nInferior 傳入到 fastigial nucleus",
+    "description": ""
+  },
+  {
+    "num": "B10_18",
+    "path": "B10/B10_18.webp",
+    "answer": [
+      "(1) primary fissure (2) anterior lobe, posterior lobe",
+      "primary fissure anterior lobe, posterior lobe"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_20",
+    "path": "B10/B10_20.webp",
+    "answer": [
+      "(1) anterior commissure (2) posterior limb of internal capsule",
+      "anterior commissure posterior limb of internal capsule"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_21",
+    "path": "B10/B10_21.webp",
+    "answer": [
+      "Motor of speech",
+      "Motor of speech"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_22",
+    "path": "B10/B10_22.webp",
+    "answer": [
+      "A. 視覺（與瞳孔對光的反射有關） B. fornix",
+      "視覺（與瞳孔對光的反射有關） fornix"
+    ],
+    "explanation": "A 構造為 posterior commissure, 其功能為傳達兩側之視覺訊息至 LGB",
+    "description": ""
+  },
+  {
+    "num": "B10_23",
+    "path": "B10/B10_23.webp",
+    "answer": [
+      "(1)Anterior spinocerebellar tract (2)向上傳遞 unconscious proprioception below L3",
+      "Anterior spinocerebellar tract 向上傳遞 unconscious proprioception below L3"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_24",
+    "path": "B10/B10_24.webp",
+    "answer": [
+      "T6 以上有意識本體感覺；溫痛覺",
+      "T6 以上有意識本體感覺；溫痛覺"
+    ],
+    "explanation": "A 為 Cuneate nucleus, B 為 anterolateral system",
+    "description": ""
+  },
+  {
+    "num": "B10_25",
+    "path": "B10/B10_25.webp",
+    "answer": [
+      "A. Habenulopeduncular tract B. Mammillothalamic tract",
+      "Habenulopeduncular tract Mammillothalamic tract"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_26",
+    "path": "B10/B10_26.webp",
+    "answer": [
+      "(1)Lenticular fasciculus (2)Ansa lenticularis",
+      "Lenticular fasciculus Ansa lenticularis"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_28",
+    "path": "B10/B10_28.webp",
+    "answer": [
+      "A. posterior limb of internal capsule B. GABA",
+      "posterior limb of internal capsule GABA"
+    ],
+    "explanation": "B 結構為 Putamen",
+    "description": ""
+  },
+  {
+    "num": "B10_30",
+    "path": "B10/B10_30.webp",
+    "answer": [
+      "Striae Medullaris",
+      "Striae Medullaris"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_31",
+    "path": "B10/B10_31.webp",
+    "answer": [
+      "A. Main sensory nucleus of trigeminal nerve B. trigeminal nerve",
+      "Main sensory nucleus of trigeminal nerve trigeminal nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_32",
+    "path": "B10/B10_32.webp",
+    "answer": [
+      "A.視覺 B.聽覺",
+      "視覺 聽覺"
+    ],
+    "explanation": "A: Superior colliculus; B: Inferior colliculus",
+    "description": ""
+  },
+  {
+    "num": "B10_33",
+    "path": "B10/B10_33.webp",
+    "answer": [
+      "A. superior olivary nucleus B. inferior vestibule nucleus",
+      "superior olivary nucleus inferior vestibule nucleus"
+    ],
+    "explanation": "A 構造為 Ventral cochlear nucleus",
+    "description": ""
+  },
+  {
+    "num": "B10_34",
+    "path": "B10/B10_34.webp",
+    "answer": [
+      "A. Cuneate nucleus B. Proprioception and discriminative touch of above T6",
+      "Cuneate nucleus Proprioception and discriminative touch of above T6"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_35",
+    "path": "B10/B10_35.webp",
+    "answer": [
+      "A. Lateral sulcus B. Auditory",
+      "Lateral sulcus Auditory"
+    ],
+    "explanation": "B. 為 Superior temporal gyrus",
+    "description": ""
+  },
+  {
+    "num": "B10_36",
+    "path": "B10/B10_36.webp",
+    "answer": [
+      "A. 視覺 B. Transverse fissure",
+      "視覺 Transverse fissure"
+    ],
+    "explanation": "A 為 Lingual gyrus，與視覺相關",
+    "description": ""
+  },
+  {
+    "num": "B10_37",
+    "path": "B10/B10_37.webp",
+    "answer": [
+      "A. GVA, SVA B. hypoglossal nerve",
+      "GVA, SVA hypoglossal nerve"
+    ],
+    "explanation": "A. 為 solitary tract and nucleus",
+    "description": ""
+  },
+  {
+    "num": "B10_40",
+    "path": "B10/B10_40.webp",
+    "answer": [
+      "A. 視覺訊息 B. Anterior limb of Internal capsule",
+      "視覺訊息 Anterior limb of Internal capsule"
+    ],
+    "explanation": "A. 為 lateral geniculate nucleus",
+    "description": ""
+  },
+  {
+    "num": "B10_42",
+    "path": "B10/B10_42.webp",
+    "answer": [
+      "(1)cerebral peduncle (2)lateral geniculate body",
+      "cerebral peduncle lateral geniculate body"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_44",
+    "path": "B10/B10_44.webp",
+    "answer": [
+      "(1) Internal carotid artery (2) Anterior cerebral artery",
+      "Internal carotid artery Anterior cerebral artery"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_45",
+    "path": "B10/B10_45.webp",
+    "answer": [
+      "(1) Optic radiation (2) splenium of corpus callosum",
+      "Optic radiation splenium of corpus callosum"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_46",
+    "path": "B10/B10_46.webp",
+    "answer": [
+      "(1)Lateral sulcus (2)Cortical branch of middle cerebral artery",
+      "Lateral sulcus Cortical branch of middle cerebral artery"
+    ],
+    "explanation": "此圖為大腦 Lateral view。\n側面這條隔開 Temporal lobe 和上方腦葉的溝是 Lateral sulcus。\nMCA 的 Cortical branch 會從其中走出供應 External cerebrum 的血液。",
+    "description": ""
+  },
+  {
+    "num": "B10_47",
+    "path": "B10/B10_47.webp",
+    "answer": [
+      "(1) Cingulate gyrus (2) Globus pallidus, internal segment",
+      "Cingulate gyrus Globus pallidus, internal segment"
+    ],
+    "explanation": "此圖為大腦 coronal section。\nA 為位於連接左右半球的 Corpus callosum 上方的 gyrus，故為 Cingulate gyrus\nB 位於 Internal capsule 下外側，為 Lentiform nucleus 的一部分，其由內至外依序為 GPi、GPe、Putamen，B 位於最內側，故為 GPi。\n(因只背出 Cingulate gyrus，第二小題由寫手從考古中抓取)",
+    "description": ""
+  },
+  {
+    "num": "B10_48",
+    "path": "B10/B10_48.webp",
+    "answer": [
+      "(1)fornix (2)hippocampus",
+      "fornix hippocampus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_49",
+    "path": "B10/B10_49.webp",
+    "answer": [
+      "(1) inferior colliculus (2) Middle cerebellar peduncle",
+      "inferior colliculus Middle cerebellar peduncle"
+    ],
+    "explanation": "此圖為腦幹 Lateral view，並移除了部分小腦。\nA 為位於 Midbrain 背側的突起，而且可以發現其上方還有一顆，因此應為四疊體中位居下方的 Inferior colliculus。\nB 位於 Pons 處，且可以從切面看出其向後連接。故可判斷其為 Middle cerebellar peduncle。",
+    "description": ""
+  },
+  {
+    "num": "B10_50",
+    "path": "B10/B10_50.webp",
+    "answer": [
+      "(1)optic tract (2)periaqueductal gray",
+      "optic tract periaqueductal gray"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B10_51",
+    "path": "B10/B10_51.webp",
+    "answer": [
+      "(1)centromedian nucleus (2) GABA",
+      "centromedian nucleus GABA"
+    ],
+    "explanation": "這是 diencephalon 的 coronal section，B 是位在 globus pallidum 外側的 putamen，主要使用 GABA 作為 neurotransmitter",
+    "description": ""
+  }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "num": "b03lab_01",
+        "path": "b03lab/b03lab_01.webp",
+        "answer": [
+            "Hair Follicle"
+        ],
+        "explanation": "Hair follicle 的 bulb在水平向可看見六個分層。 【出處】07共筆vol.9 P.21",
+        "description": "下圖是何種構造?"
+    },
+    {
+        "num": "b03lab_02",
+        "path": "b03lab/b03lab_02.webp",
+        "answer": [
+            "Myelin Sheath Osmium"
+        ],
+        "explanation": "此圖為myelin sheath的cross section。Osmium 可將 sheath 染成黑色，而 sheath 為 tube-like 的形狀。\n【出處】07共筆Vol.7 P.18",
+        "description": "箭號所指是何種構造?"
+    },
+    {
+        "num": "b03lab_03",
+        "path": "b03lab/b03lab_03.webp",
+        "answer": [
+            "Neutrophil"
+        ],
+        "explanation": "特徵為3~5葉的細胞核，大小約為紅血球之1.5倍。\n【出處】共筆Vol.3 P.28",
+        "description": "視野下是何種白血球?"
+    },
+    {
+        "num": "b03lab_04",
+        "path": "b03lab/b03lab_04.webp",
+        "answer": [
+            "Simple columnar epithelium with goblet cells and microvilli"
+        ],
+        "explanation": "細胞核位於細胞底部1/3且細胞都接在 basement membrane 上是simple columnar epithelium 的特徵, 圖中白色空泡狀細胞為goblet cells ，而 microvilli 則是最外層的一層構造（無法見到一絲一絲，只見地毯狀構造）。【出處】共筆Vol.3 P.17, 18",
+        "description": "下列是何種組織?"
+    },
+    {
+        "num": "b03lab_05",
+        "path": "b03lab/b03lab_05.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "由粉紅色 granules，大小約為紅血球的兩倍，且有兩葉可知。\n【出處】共筆Vol.3 P.28",
+        "description": "視野下是何種白血球?"
+    },
+    {
+        "num": "b03lab_06",
+        "path": "b03lab/b03lab_06.webp",
+        "answer": [
+            "Arteriole"
+        ],
+        "explanation": "Arteriole 管壁圓厚、平滑肌環狀排列、內皮細胞核被擠向管腔，且在相同切片下管徑較其他血管小。\n【出處】07共筆Vol.10 P.50",
+        "description": "視野下藍色箭頭所指構造?"
+    },
+    {
+        "num": "b03lab_07",
+        "path": "b03lab/b03lab_07.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "體型大，多核，顏色偏紅，在骨小針(bone spicules)周圍。\n【出處】07共筆Vol.6 P.26",
+        "description": "箭頭所指是何種細胞?"
+    },
+    {
+        "num": "b03lab_08",
+        "path": "b03lab/b03lab_08.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "看起來為多層（核不在細胞的同一個深度）但實際上細胞都接在 basement membrane 上，看起來一束又一束且長短不一的是stereocilia。\n【出處】共筆Vol.3 P.22共筆Vol.2 P.12",
+        "description": "箭頭所指處為何種組織?"
+    },
+    {
+        "num": "b03lab_09",
+        "path": "b03lab/b03lab_09.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "細胞為多角形，核大且偏離細胞中心，有細緻的Nissl body，有些細胞質含lipofuscin granule，故呈棕褐色。\n【出處】07共筆Vol.7 P.38",
+        "description": "下列為何處的組織?"
+    },
+    {
+        "num": "b03lab_10",
+        "path": "b03lab/b03lab_10.webp",
+        "answer": [
+            "White adipose tissue"
+        ],
+        "explanation": "細胞大部分是空泡, cytoplasm 和 nucleus 被擠到邊邊。\n【出處】07共筆Vol.5 P.27",
+        "description": "請問下列是何種組織?"
+    },
+    {
+        "num": "b03lab_11",
+        "path": "b03lab/b03lab_11.webp",
+        "answer": [
+            "Volkmann's Canal"
+        ],
+        "explanation": "Compact bone中的橫向管狀，會連接兩個或以上的Haversian canal。且由圖中褐色特徵加上無機質豐富，能確定此為Ground bone section。\n【出處】07共筆Vol.6 P.45, 46",
+        "description": "左邊藍色箭頭所指是什麼構造?"
+    },
+    {
+        "num": "b03lab_12",
+        "path": "b03lab/b03lab_12.webp",
+        "answer": [
+            "Skeletal muscle"
+        ],
+        "explanation": "有橫紋、多核、且核都在旁邊。\n【出處】共筆Vol.2 P.77",
+        "description": "寫出視野下組織名稱"
+    },
+    {
+        "num": "b03lab_13",
+        "path": "b03lab/b03lab_13.webp",
+        "answer": [
+            "Cardiac muscle"
+        ],
+        "explanation": "有Diad 在 Z line 上。\n【出處】共筆Vol.2 P.63",
+        "description": "下列是何種組織?"
+    },
+    {
+        "num": "b03lab_14",
+        "path": "b03lab/b03lab_14.webp",
+        "answer": [
+            "Tendon",
+            "dense regular connective tissue"
+        ],
+        "explanation": "fibers 和 fibroblasts 排列很規律且無橫紋構造。其中 collagen fiber 被染成深粉紅色排列，而fibroblast細胞核被染成深紫色，夾雜在 collagen fibers 之間。\n【出處】07共筆Vol.5 P.38",
+        "description": "請問下列是何種構造(左上)?"
+    },
+    {
+        "num": "b03lab_15",
+        "path": "b03lab/b03lab_15.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "電子顯微鏡下，高基氏體形成像一堆平板的扁囊。\n【出處】共筆Vol.1 P.20, 21",
+        "description": "請問這是何種構造?"
+    },
+    {
+        "num": "b03lab_16",
+        "path": "b03lab/b03lab_16.webp",
+        "answer": [
+            "Endochondral ossification"
+        ],
+        "explanation": "由左側軟骨到右側硬骨依序為: Zone of reserve cartilage, proliferation, hypertrophy, cartilage calcification, resorption\n【出處】07共筆Vol.6 P.51",
+        "description": "下列組織正在進行何種作用?"
+    }
+]

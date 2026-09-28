@@ -1,0 +1,112 @@
+[
+    {
+        "num": "B11_1",
+        "path": "B11/B11_1.webp",
+        "answer": [
+            "A: Lateral lemniscus B: 聽覺",
+            "Lateral lemniscus 聽覺"
+        ],
+        "explanation": "考試圖片是圖譜的 pons-3，為 Level of Pons-Midbrain Junction (A) 在 Superior cerebellar peduncle 的外側，為 Trapezoid Body 延伸出的 fiber (B) Auditory pathway（聽覺）大致上為： Vestibulocochlear Nerve (CN VIII) → Trapezoid Body → Lateral Lemniscus → Inferior Colliculus → Medial Geniculate Body (MGB) → Auditory Cortex",
+        "description": ""
+    },
+    {
+        "num": "B11_2",
+        "path": "B11/B11_2.webp",
+        "answer": [
+            "A: Internal arcuate fiber B: 傳遞 conscious proprioception and discriminative touch",
+            "Internal arcuate fiber 傳遞 conscious proprioception and discriminative touch"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B11_3",
+        "path": "B11/B11_3.webp",
+        "answer": [
+            "A: Posterior limb of internal capsule B: Thalamus",
+            "Posterior limb of internal capsule Thalamus"
+        ],
+        "explanation": "Posterior limb of internal capsule 區分 thalamus （內） & Lentiform nucleus（外） Anterior limb of internal capsule 區分 caudate nucleus（上） & Lentiform nucleus（下）",
+        "description": ""
+    },
+    {
+        "num": "B11_4",
+        "path": "B11/B11_4.webp",
+        "answer": [
+            "A: Sulcus limitans B: Trochlear n.",
+            "Sulcus limitans Trochlear n."
+        ],
+        "explanation": "A: Rhomboid fossa 的 median sulcus 的兩側 B: 唯一從腦幹背面冒出來的神經，很細 出處：atlas-3-5 brainstem",
+        "description": ""
+    },
+    {
+        "num": "B11_5",
+        "path": "B11/B11_5.webp",
+        "answer": [
+            "A: hypoglossal nerve B: arcuate nucleus",
+            "hypoglossal nerve arcuate nucleus"
+        ],
+        "explanation": "切片下方兩個巨大的圓形構造是錐體 (Pyramids)。 定位 B：貼在錐體最表面（最下面）的小塊灰質 即為 Arcuate nucleus。 定位 A：從錐體外側穿出的細長神經纖維束即為 Hypoglossal nerve。",
+        "description": ""
+    },
+    {
+        "num": "B11_6",
+        "path": "B11/B11_6.webp",
+        "answer": [
+            "A: Spinal trigeminal tract & nucleus B: Olivocerebellar tract",
+            "Spinal trigeminal tract & nucleus Olivocerebellar tract"
+        ],
+        "explanation": "此圖為 Inferior olive 高度的切片。由此可知 A 為 Spinal trigeminal tract & nucleus；B 則為由 Inferior olive nucleus 發出之 Olivocerebellar tract 出處：B12 共筆 vol.2 p.68",
+        "description": ""
+    },
+    {
+        "num": "B11_7",
+        "path": "B11/B11_7.webp",
+        "answer": [
+            "A: Calcarine sulcus B: Vision",
+            "Calcarine sulcus Vision"
+        ],
+        "explanation": "Calcarine sulcus 位於大腦的內側面 (Medial surface)，是一條從胼胝體後方的 splenium (壓部) 往腦後方延伸的深溝，將大腦內側面分為上方的 Cuneus (楔葉) 以及下方的 Lingual gyrus (舌迴)。 Calcarine sulcus 附近是 primary visual cortex， Lingual gyrus 負責視覺處理。",
+        "description": ""
+    },
+    {
+        "num": "B11_8",
+        "path": "B11/B11_8.webp",
+        "answer": [
+            "A: inferior vestibular nucleus B: solitary tract and nucleus",
+            "inferior vestibular nucleus solitary tract and nucleus"
+        ],
+        "explanation": "A: 貼在 inferior cerebellar peduncle 內側 質地不均勻 B: 從 vestibular nucleus 往內找 淺色 nucleus 包住深染 tract 像一顆荷包蛋",
+        "description": ""
+    },
+    {
+        "num": "B11_9",
+        "path": "B11/B11_9.webp",
+        "answer": [
+            "A: Corpus callosum B: Caudate nucleus",
+            "Corpus callosum Caudate nucleus"
+        ],
+        "explanation": "A: 連接左右腦的白色纖維 B: 緊鄰 lateral ventricle 外壁的灰質",
+        "description": ""
+    },
+    {
+        "num": "B11_10",
+        "path": "B11/B11_10.webp",
+        "answer": [
+            "A: Central sulcus B: Insula",
+            "Central sulcus Insula"
+        ],
+        "explanation": "A: 為在大腦 lateral view 看到的 central sulcus 的延伸，可以將兩者連線在一起 B: 被 cortex 包在裡面 出處：B11 共筆 vol.8： Insula ： p.48",
+        "description": ""
+    },
+    {
+        "num": "B11_11",
+        "path": "B11/B11_11.webp",
+        "answer": [
+            "A: Mesencephalic trigeminal tract B: Trigeminal nerve",
+            "Mesencephalic trigeminal tract Trigeminal nerve"
+        ],
+        "explanation": "位在 superior cerebellar peduncle 內側 出處：B11 共筆 vol.11 ： Level of trigeminal nucleus（Pons-2） ： p.59-60",
+        "description": ""
+    }
+]

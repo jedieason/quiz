@@ -1,0 +1,147 @@
+[
+  {
+    "num": "female-01",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-01.webp",
+    "answer": [
+      "Syncytiotrophoblast"
+    ],
+    "explanation": "多核、細胞界線不明，且位於 villi 的最外圍。往內分別為 cytotrophoblast、mesodermal core、villous capillary，故此為 tertiary villi。",
+    "description": "箭頭所指細胞名稱。"
+  },
+  {
+    "num": "female-02",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-02.webp",
+    "answer": [
+      "Cervix cervical gland"
+    ],
+    "explanation": "可見上皮細胞由單層柱狀上皮轉變為複層扁平上皮，此處稱為 transformation zone。Cervical gland 屬於有許多分支的 tubular gland。",
+    "description": "視野下構造名稱？構造 A 名稱？"
+  },
+  {
+    "num": "female-03",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-03.webp",
+    "answer": [
+      "Vagina"
+    ],
+    "explanation": "可見有核的非角質化複層扁平上皮，內部多 glycogen 因此呈現空染狀。下方為 dense CNT 的 lamina propria，在右下角有 venous sinus。",
+    "description": "視野下組織構造名稱？"
+  },
+  {
+    "num": "female-04",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-04.webp",
+    "answer": [
+      "Antrum of secondary follicle"
+    ],
+    "explanation": "stratum granulosum 中的空腔稱為 antrum。Granulosa cell 還沒被擠到周圍，也沒有出現 cumulus oophorus（火箭發射台），故可知為 secondary follicle。",
+    "description": "箭頭所指範圍內的結構名稱（Be specific）。"
+  },
+  {
+    "num": "female-05",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-05.webp",
+    "answer": [
+      "Active mammary gland"
+    ],
+    "explanation": "多 glandular system，少結締組織和脂肪。",
+    "description": "寫出視野下組織結構名稱（Be specific）。"
+  },
+  {
+    "num": "female-06",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-06.webp",
+    "answer": [
+      "Glassy membrane",
+      "Glassy membrane (of atretic follicle)"
+    ],
+    "explanation": "由 basal lamina 增厚而來的結構，呈現透明狀，是辨認 atretic follicle 的重要特徵，且中間的 oocyte 已經退化，zona pellucida 也已經凹陷不完整。",
+    "description": "箭頭所指構造名稱。"
+  },
+  {
+    "num": "female-07",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-07.webp",
+    "answer": [
+      "Placenta"
+    ],
+    "explanation": "左下角為 decidual plate，細胞圓大且胞質淡染；右上為 fetal villi，可見包在外圍的 trophoblasts 以及內圈的 mesodermal core 與 villous capillaries。",
+    "description": "整個構造名稱。"
+  },
+  {
+    "num": "female-08",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-08.webp",
+    "answer": [
+      "Uterus early secretory phase"
+    ],
+    "explanation": "Gland 大量增多，切面呈扭曲狀，但還沒有極度扭曲破碎，因此為 early secretory phase。註：此題無法使用 basal vacuolation 判斷，因解析度差。",
+    "description": "寫出器官名稱？此器官正處於何種階段？"
+  },
+  {
+    "num": "female-09",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-09.webp",
+    "answer": [
+      "Granulosa lutein cell"
+    ],
+    "explanation": "此視野下為黃體，細胞大而淡染，需與侵入的 theca lutein cell（圖中下方）區分。除此之外，跟 placenta 構造的區別在於在此視野下看不到 villi 等構造，所以不是 decidual cell。",
+    "description": "請問圖中圈起來的細胞為何？"
+  },
+  {
+    "num": "female-10",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-10.webp",
+    "answer": [
+      "Zona pellucida"
+    ],
+    "explanation": "此為 late primary follicle，指針所指為包在卵外面的 zona pellucida。因為指針不是指在細胞中央所以不要寫 oocyte，也要注意 zona pellucida 不一定是一個漂亮的圓。",
+    "description": "指針所指構造為何？"
+  },
+  {
+    "num": "female-11",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-11.webp",
+    "answer": [
+      "Intervillous space"
+    ],
+    "explanation": "判斷方式為明顯的 villi 層狀結構，外層的深染多核 syncytiotrophoblast，在內層較淡染而大的 cytotrophoblast，villi 內的 mesenchymal cell，深染的 macrophage，以及 tertiary villi 中的 capillary 浸潤。所以這裡是 placenta，villi 間的空間就稱為 intervillous space，裡面也可以觀察到血球。",
+    "description": "請問箭頭所在空間為何？"
+  },
+  {
+    "num": "female-12",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-12.webp",
+    "answer": [
+      "Secondary follicle"
+    ],
+    "explanation": "組織型態是一顆 follicle，出現了 antrum 而且尚未佔據大部分空間，所以是 secondary follicle。此時已可以區分 theca interna 與 externa 的差別。",
+    "description": "請問圖中構造為何？"
+  },
+  {
+    "num": "female-13",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-13.webp",
+    "answer": [
+      "Corpus albicans"
+    ],
+    "explanation": "由右邊的 early primary follicle 可判斷此為 ovary。Corpus albicans 的特徵為沒有特徵，就是一坨退化的透明組織，內部有 fibroblast。",
+    "description": "請問箭頭所指構造為何？"
+  },
+  {
+    "num": "female-14",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-14.webp",
+    "answer": [
+      "Uterus early secretory phase"
+    ],
+    "explanation": "gland 大量增多，切面呈扭曲狀，但還沒有極度扭曲破碎，因此為 early secretory phase。註：此題無法使用 basal vacuolation 判斷，因解析度差。",
+    "description": "圖中構造為何？處於何種時期？"
+  },
+  {
+    "num": "female-15",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-15.webp",
+    "answer": [
+      "cytotrophoblast"
+    ],
+    "explanation": "這片是 tertiary villi，可見到外層深染、多核的 syncytiotrophoblast 和內側較淡染，有時可見到明顯核仁的 cytotrophoblast，因為是 tertiary 所以較為退化。內部是 mesenchymal cell 和微血管。",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "female-16",
+    "path": "王淑慧老師_Female_reproductive_system/b11lab-16.webp",
+    "answer": [
+      "Mammary gland inactive"
+    ],
+    "explanation": "大量的脂肪組織與環繞在 TDLU 外的 myoepithelial cell 為特徵，中間萎縮的 TDLU 可以判斷為 inactive。",
+    "description": "請問圖中構造為何？處於何種狀態？"
+  }
+]

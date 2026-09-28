@@ -1,0 +1,238 @@
+[
+    {
+        "num": "b08lab_01",
+        "path": "b08lab/b08lab_01.webp",
+        "answer": [
+            "Supraglenoid tubercle"
+        ],
+        "explanation": "首先應可判斷出這是右邊的scapula。且glenoid cavity上方位置即是supraglenoid  tubercle。",
+        "description": "請問圈起來的構造？"
+    },
+    {
+        "num": "b08lab_02",
+        "path": "b08lab/b08lab_02.webp",
+        "answer": [
+            "Radial tuberosity"
+        ],
+        "explanation": "Radius 的近端較細，遠端較粗，跟ulna相反，因此可判斷出4號結構指的是radial tuberosity。",
+        "description": "請問4號結構是？"
+    },
+    {
+        "num": "b08lab_03",
+        "path": "b08lab/b08lab_03.webp",
+        "answer": [
+            "Foramen ovale",
+            "superior view"
+        ],
+        "explanation": "頭部的每個孔洞都要記住，包括經過的神經、血管等等。",
+        "description": "請問4號結構是？"
+    },
+    {
+        "num": "b08lab_04",
+        "path": "b08lab/b08lab_04.webp",
+        "answer": [
+            "Cervical vertebra"
+        ],
+        "explanation": "Vertebra區分可由facet面的方向，spinous process有無分岔等等來做判斷，由其cervical又具有transverse foramen，為重要特徵。",
+        "description": "請問這是何種vertebra （be specific）？"
+    },
+    {
+        "num": "b08lab_05",
+        "path": "b08lab/b08lab_05.webp",
+        "answer": [
+            "Dorsum sellae"
+        ],
+        "explanation": "構成 Sella turcica 的後側。",
+        "description": "請問箭頭所指的構造？"
+    },
+    {
+        "num": "b08lab_06",
+        "path": "b08lab/b08lab_06.webp",
+        "answer": [
+            "Greater sciatic notch"
+        ],
+        "explanation": "位於 Posterior inferior iliac spine 和 Ischial spine 之間的凹陷處。",
+        "description": "請問4號結構是？"
+    },
+    {
+        "num": "b08lab_07",
+        "path": "b08lab/b08lab_07.webp",
+        "answer": [
+            "Head of fibula"
+        ],
+        "explanation": "長這樣的關節只出現在膝蓋或手肘（至少這次範圍如此），注意到圖中被標色的骨頭沒有接到左邊的骨頭，因此可知道這應是膝關節，只有 tibia 跟 femur 相連，fibula 只靠在隔壁骨頭上。所問構造是它的 head，故應回答 head of fibula。【出處】07共筆 Vol.5 P.20、23-25",
+        "description": "構造為？"
+    },
+    {
+        "num": "b08lab_08",
+        "path": "b08lab/b08lab_08.webp",
+        "answer": [
+            "Lesser tubercle of humerus"
+        ],
+        "explanation": "先判斷出這是 humerus。所指2號構造位在 head 偏前側，為 Lesser tubercle。注意 lesser tubercle 偏前側；greater 則偏外側。",
+        "description": "請問2號結構是？"
+    },
+    {
+        "num": "b08lab_09",
+        "path": "b08lab/b08lab_09.webp",
+        "answer": [
+            "Spinous process"
+        ],
+        "explanation": "",
+        "description": "此構造？"
+    },
+    {
+        "num": "b08lab_10",
+        "path": "b08lab/b08lab_10.webp",
+        "answer": [
+            "Lateral condyle of tibia",
+            "anterior view"
+        ],
+        "explanation": "先判斷出這是tibia，和 Medial malleolus 位於不同側。",
+        "description": "請問1號結構是？"
+    },
+    {
+        "num": "b08lab_11",
+        "path": "b08lab/b08lab_11.webp",
+        "answer": [
+            "Conoid tubercle of clavicle"
+        ],
+        "explanation": "看到長條形的骨頭，兩邊接面平整，沒有大弧度彎曲，可判斷為 clavicle。箭頭所指為 clavicle 跟 scapula 相接處，該物不是線狀凸起，因此可知不是 trapezius line，是 Conoid tubercle。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b08lab_12",
+        "path": "b08lab/b08lab_12.webp",
+        "answer": [
+            "Ischial tuberosity"
+        ],
+        "explanation": "總之先觀察它在整個骨盆的相對位置在偏後下方，因此應該是 ischium bone。而 ischium bone 上的凸起便稱為 Ischial tuberosity。若把它擺成 3D 方位正確的模樣，應該會是骨盆的最低點。",
+        "description": "請問8號結構是？"
+    },
+    {
+        "num": "b08lab_13",
+        "path": "b08lab/b08lab_13.webp",
+        "answer": [
+            "Carotid canal"
+        ],
+        "explanation": "位在 Occipital condyle 的前方外側（anterior lateral site）、Jugular foramen 的前方。",
+        "description": "請問50號結構是？"
+    },
+    {
+        "num": "b08lab_14",
+        "path": "b08lab/b08lab_14.webp",
+        "answer": [
+            "Coronoid process of mandible"
+        ],
+        "explanation": "先判斷此為mandible，側上方有兩個process，前方為coronoid process，後方為condyloid process。",
+        "description": "所指構造（be specific）？"
+    },
+    {
+        "num": "b08lab_15",
+        "path": "b08lab/b08lab_15.webp",
+        "answer": [
+            "pisiform"
+        ],
+        "explanation": "此carpal bone位在小指側，且是proximal row，所以可得知為pisiform，或是由躺在triquetral上可辨認 (考古寫手以為carpal bone太細不會考，這題就飛了QQ)。",
+        "description": "紅色所指構造？"
+    },
+    {
+        "num": "b08lab_16",
+        "path": "b08lab/b08lab_16.webp",
+        "answer": [
+            "Pulmonary trunk"
+        ],
+        "explanation": "先分辨心臟的上下左右前後，Pulmonary trunk在基部會比aorta更前方，基本上就是用相對位置與形狀判斷。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_17",
+        "path": "b08lab/b08lab_17.webp",
+        "answer": [
+            "Iliac crest"
+        ],
+        "explanation": "位在ilium的上端外側面。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_18",
+        "path": "b08lab/b08lab_18.webp",
+        "answer": [
+            "Lateral pterygoid plate"
+        ],
+        "explanation": "此為口腔upper jaw的view，紅箭頭所指構造與較內側的medial pterygoid plate夾約60度，形成fossa。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_19",
+        "path": "b08lab/b08lab_19.webp",
+        "answer": [
+            "Incisive foramen"
+        ],
+        "explanation": "與上一題的view一樣，也可稱為Incisive fossa，不難判斷，但有可能會漏背到。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_20",
+        "path": "b08lab/b08lab_20.webp",
+        "answer": [
+            "Mandibular fossa"
+        ],
+        "explanation": "在middle cranial fossa的外側，相當大的凹陷，condyloid process of mandible套在上，前方有作為煞車的articular tubercle。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_21",
+        "path": "b08lab/b08lab_21.webp",
+        "answer": [
+            "Foramen ovale"
+        ],
+        "explanation": "可能背到同一題，也有可能是不同的view，由相對位置與驚嘆號的樣子可判斷。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_22",
+        "path": "b08lab/b08lab_22.webp",
+        "answer": [
+            "Lesser trochanter"
+        ],
+        "explanation": "首先由大大的head與明顯的neck判斷此為femur，此圖為posterior surface(由突起明顯的intertrochanteric crest判斷)，位於下端較小的突起為Lesser trochanter，上端較大的突起則為Greater trochanter。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_23",
+        "path": "b08lab/b08lab_23.webp",
+        "answer": [
+            "Lateral epicondyle of humerus"
+        ],
+        "explanation": "由head與較不彎的neck，或由遠端的構造判斷此為humerus，head側為medial side，另一側則為lateral side，因此為Lateral epicondyle (或可由epicondyle的大小判斷，Lateral比Medial小) 。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_24",
+        "path": "b08lab/b08lab_24.webp",
+        "answer": [
+            "Common iliac vein"
+        ],
+        "explanation": "忘記是考模型還是真人了，重點在為inferior vena cava往下最一開始的分支，且在artery的後方、較扁。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_25",
+        "path": "b08lab/b08lab_25.webp",
+        "answer": [
+            "Brachiocephalic trunk"
+        ],
+        "explanation": "Aortic arch的第一個分支，三個分支中最大且最右側，往上再分為right subclavian、right common carotid artery。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b08lab_26",
+        "path": "b08lab/b08lab_26.webp",
+        "answer": [
+            "Azygos vein"
+        ],
+        "explanation": "在thorax右側，回收intercostal vein，向上注入superior vena cava。",
+        "description": "紅箭頭所指？"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "num": "Posterior_Triangle_1",
+        "path": "Posterior_Triangle/Posterior_Triangle_1.webp",
+        "answer": [
+            "Greater auricular n.",
+            "Greater auricular nerve"
+        ],
+        "explanation": "往耳垂走，且走向和 4-external jugular vein 大致平行，為 Greater auricular nerve。A-transverse cervical n.、B-Greater auricular n.、C-lesser occipital n.、D-supraclavicular n. 為 cervical plexus 的 anterior rami 向後、向體表的分支。",
+        "description": ""
+    },
+    {
+        "num": "Posterior_Triangle_2",
+        "path": "Posterior_Triangle/Posterior_Triangle_2.webp",
+        "answer": [
+            "Accessory n.",
+            "Accessory nerve"
+        ],
+        "explanation": "可以看到他大約從 nerve point 附近鑽出，往 trapezius 走去。這張圖 還可以看到他接受了 C3 & C4 的 fiber 一起支配 trapezius。(複習)Nerve point of neck-SCM 的後緣中點，為頸部 Cutaneous n. 鑽出的位置。",
+        "description": ""
+    },
+    {
+        "num": "Posterior_Triangle_3",
+        "path": "Posterior_Triangle/Posterior_Triangle_3.webp",
+        "answer": [
+            "Accessory n.",
+            "Accessory nerve"
+        ],
+        "explanation": "在 posterior cervical triangle，可清楚看到其從 SCM 下緣穿出，鑽進 trapezius。",
+        "description": ""
+    },
+    {
+        "num": "Posterior_Triangle_4",
+        "path": "Posterior_Triangle/Posterior_Triangle_4.webp",
+        "answer": [
+            "Greater auricular n.",
+            "Greater auricular nerve"
+        ],
+        "explanation": "C2-C3 fiber，橫跨過 SCM 表面，和 EJV 平行。",
+        "description": ""
+    }
+]

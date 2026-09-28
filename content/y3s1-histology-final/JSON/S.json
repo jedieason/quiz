@@ -1,0 +1,595 @@
+[
+  {
+    "num": "208112",
+    "path": "S/208112.webp",
+    "answer": [
+      "A: Stomach B: Duodenum",
+      "Stomach Duodenum"
+    ],
+    "explanation": "Stomach Submucosa無Brunner’s gland，Muscularis mucosae完整。而Duodenum Submucosa有Brunner’s gland，Muscularis mucosae有不連續。\n【出處】共筆Vol.15 P.15",
+    "description": "整個範圍是哪兩種器官（A = ?，B = ? ）交界處之切片？"
+  },
+  {
+    "num": "203103",
+    "path": "S/203103.webp",
+    "answer": [
+      "Intercalated duct"
+    ],
+    "explanation": "圖片中有許多duct與深染的serous acinar，應為parotid gland。而箭頭所指管道的管腔不大，細胞邊界不明顯且高度較低，由low cuboid細胞圍成，應為intercalated duct。\n【出處】07共筆Vol.15 P.19,51",
+    "description": "箭頭所指為何？"
+  },
+  {
+    "num": "203119",
+    "path": "S/203119.webp",
+    "answer": [
+      "surface mucous cell"
+    ],
+    "explanation": "圖中為消化道的細胞，其朝向lumen上半部呈空泡狀，且分佈密集，因此為stomach的surface mucous cell。（如果是goblet cell，不該分佈這麼緊密，且應為酒杯狀）\n【出處】07共筆Vol.15 P.62",
+    "description": "箭頭所指的細胞為何？"
+  },
+  {
+    "num": "203120",
+    "path": "S/203120.webp",
+    "answer": [
+      "(1) Esophagus (2) submucosa gland",
+      "Esophagus submucosa gland"
+    ],
+    "explanation": "Esophagus和duodenum是消化道唯二在submucosa有線體的部分，而圖中上皮為stratified squamous epithelium且無villi構造，可推論為esophagus。\n箭頭所指即為submucosa gland。\n【出處】07共筆Vol.15 P.56",
+    "description": "（1）寫出整個範圍的器官名稱 （2）箭頭所指的為何？"
+  },
+  {
+    "num": "203121",
+    "path": "S/203121.webp",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "圖中可見許多管狀構造的腺體，有白色的mucous acini和較深染的serous acini交錯，按比例應為Submandibular gland。\n（但這片是因為有點退染所以導致不能單用顏色去判斷，所以還是要綜合其他特性來得出是哪一種腺體）\n【出處】07共筆Vol.15 P.54",
+    "description": "判斷此為何種腺體？"
+  },
+  {
+    "num": "206111",
+    "path": "S/206111.webp",
+    "answer": [
+      "Gastroduodenal junction"
+    ],
+    "explanation": "左邊duodenal submucosa 含有 Brunner’s gland，且有villi，所以判斷為十二指腸。右邊pylorus下方有增厚的muscularis externa，構成pyloric sphincter。\n【出處】07共筆Vol.16 P.48 ",
+    "description": "視野下為何種junction？"
+  },
+  {
+    "num": "206112",
+    "path": "S/206112.webp",
+    "answer": [
+      "Myoepithelial cell"
+    ],
+    "explanation": "箭頭所指深染的部分為dense body，細胞扁平。所以應該是在acinar cell周圍的myoepithelial cell。 \n【出處】共筆Vol.14 P.8",
+    "description": "圈起處為何種細胞？"
+  },
+  {
+    "num": "207208",
+    "path": "S/207208.webp",
+    "answer": [
+      "A: Sublingual gland B: Submandibular gland",
+      "Sublingual gland Submandibular gland"
+    ],
+    "explanation": "A是以mucous acini為主的mixed gland。有極為淡染的mucous acini，核扁平且被擠到basal side。B可看到白色的mucous acini和較深染的serous acini交錯的腺體。且以serous acini為主。另外還可看到mixed gland中serous cell被擠到細胞外圍所形成的半月形serous demilune。\n【出處】共筆Vol.14 P.47-50",
+    "description": "寫出A和B之器官名稱（Be specific）"
+  },
+  {
+    "num": "205223",
+    "path": "S/205223.webp",
+    "answer": [
+      "A"
+    ],
+    "explanation": "看不到白色的mucus acini就是了，不要把adipocyte認錯了。 ",
+    "description": "下列何者是parotid gland？"
+  },
+  {
+    "num": "206202",
+    "path": "S/206202.webp",
+    "answer": [
+      "A: sublingual gland B: submandibular gland",
+      "sublingual gland submandibular gland"
+    ],
+    "explanation": "A 是以 mucous acini 為主的 mixed gland。有極為淡染的\nmucous acini，核扁平且被擠到 basal side。\nB 可看到白色的 mucous acini 和較深染的 serous acini 交錯的\n腺體。且以 serous acini 為主。另外還可看到 mixed gland 中\nserous cell 被擠到細胞外圍所形成的半月形 serous demilune。",
+    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
+  },
+  {
+    "num": "206119",
+    "path": "S/206119.webp",
+    "answer": [
+      "Parotid gland"
+    ],
+    "explanation": "全都是serous acini，空白的是adipocyte。\n【出處】共筆Vol.14 P.14",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "206122",
+    "path": "S/206122.webp",
+    "answer": [
+      "Sublingual gland"
+    ],
+    "explanation": "Red pulp 的實心部份，由reticular connective tissue 架構。 \n【出處】共筆Vol.12 P.3",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "204127",
+    "path": "S/204127.webp",
+    "answer": [
+      "Esophageal gland proper"
+    ],
+    "explanation": "位於submucosa，是食道特有的tubuloalveolar glands。",
+    "description": "請問箭頭所指為何種組織？"
+  },
+  {
+    "num": "204128",
+    "path": "S/204128.webp",
+    "answer": [
+      "Parietal cell"
+    ],
+    "explanation": "為gastric gland佔最多的細胞，特徵有荷包蛋狀、核在中央、細胞質eosinophilic、數量多。",
+    "description": "箭頭所指為什麼細胞？"
+  },
+  {
+    "num": "204129",
+    "path": "S/204129.webp",
+    "answer": [
+      "Intercalated duct"
+    ],
+    "explanation": "此圖為parotid gland。lumen很小，由low cuboidal epithelium所組成，顏色較旁邊acinar淡。",
+    "description": "箭頭所指為什麼？"
+  },
+  {
+    "num": "204130",
+    "path": "S/204130.webp",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "深染淡染交錯，為mixed gland。深染的部分較多，因serous gland含量較mucous gland多。",
+    "description": "圖片中為什麼器官？"
+  },
+  {
+    "num": "210102",
+    "path": "S/210102.webp",
+    "answer": [
+      "Parotid gland"
+    ],
+    "explanation": "Parotid gland的特色:a.在septum內有許多 adipocytes，滲入lobule形成許多fat infiltration。b.在lobule內只有serous acini，不含任何的 mucous cell，因此呈現深染。c.Duct system與其他兩種 glands相較之下，最為發達。",
+    "description": "視野下為何種組織(不要理那兩個紅框)?"
+  },
+  {
+    "num": "210104",
+    "path": "S/210104.webp",
+    "answer": [
+      "Surface mucous cell"
+    ],
+    "explanation": "Surface mucous cell組成simple columnar epithelium，可分泌mucigen granules（不溶於水，形成霧狀保護層）；surface mucous cell 所在的凹陷稱為 gastric pit。",
+    "description": "視野下箭頭所指細胞為何?"
+  },
+  {
+    "num": "210107",
+    "path": "S/210107.webp",
+    "answer": [
+      "HCl intrinsic factor"
+    ],
+    "explanation": "胞呈粉紅色圓形，核位於細胞中央成荷包蛋狀，為　Parietal cell。 Parietal cell 分泌的物質是 HCL + intrinsic factor。",
+    "description": "請問藍色箭頭所指細胞會分泌那兩種物質？"
+  },
+  {
+    "num": "210114",
+    "path": "S/210114.webp",
+    "answer": [
+      "Esophagus"
+    ],
+    "explanation": "上皮為 non-keratinized stratified squamous epithelium，且在 submucosa 這層可觀察到發達的 esophageal gland proper。",
+    "description": "視野中為何種器官？"
+  },
+  {
+    "num": "11116",
+    "path": "S/11116.webp",
+    "answer": [
+      "Surface Mucous Cell"
+    ],
+    "explanation": "位於 gastric pit 的 simple columnar epithelial cell，細胞核在基底部，細胞質為淡染粉紅色，負責分泌 mucous。Surface mucous cell 是整條淡染，goblet cell 則是空泡狀夾雜在上皮細胞之間，應予以區分。",
+    "description": "這是什麽細胞？"
+  },
+  {
+    "num": "11118",
+    "path": "S/11118.webp",
+    "answer": [
+      "Excretory duct",
+      "of Parotid gland"
+    ],
+    "explanation": "由下方的adipose可知為parotid gland，又箭頭所指為由 pseudostratified columnar epithelium所構成的大型管腔，因此為excretory duct。",
+    "description": "這是什麽構造？"
+  },
+  {
+    "num": "11131",
+    "path": "S/11131.webp",
+    "answer": [
+      "Parietal cell"
+    ],
+    "explanation": "圖中箭頭所指為stomach的Fundic gland中的 Parietal cell。其形態特徵為細胞體積大、呈圓形或錐狀，細胞核圓且位於中央，細胞質呈明顯的eosinophilic。",
+    "description": "視野中指針細胞名稱？ （藍色指針）"
+  },
+  {
+    "num": "11135",
+    "path": "S/11135.webp",
+    "answer": [
+      "A: Parietal cell B: HCL + intrinsic factor",
+      "Parietal cell HCL + intrinsic factor"
+    ],
+    "explanation": "A: 此TEM圖顯示的細胞具有非常發達的mitochondria和複雜的intracellular canaliculi，此為active state的Parietal cell的典型特徵。 \nB: Parietal cell的主要功能為分泌HCl和 intrinsic factor。",
+    "description": "A: 以下TEM為何種細胞? B: 其會分泌哪兩種物質?"
+  },
+  {
+    "num": "205120",
+    "path": "S/205120.webp",
+    "answer": [
+      "Parietal cell"
+    ],
+    "explanation": "為gastric gland佔最多的細胞，特徵有荷包蛋狀、核在中央、細胞質eosinophilic、數量多。 ",
+    "description": "寫出箭號之細胞名稱？"
+  },
+  {
+    "num": "208202",
+    "path": "S/208202.webp",
+    "answer": [
+      "surface mucous cell"
+    ],
+    "explanation": "朝向lumen上半部呈空泡狀的細胞，且分佈十分密集，與Goblet cell的分佈不太一樣。\n【出處】08共筆Vol.14 P.39；09共筆Vol.14 P.41",
+    "description": "紅框內的細胞是什麼"
+  },
+  {
+    "num": "208210",
+    "path": "S/208210.webp",
+    "answer": [
+      "serous demilune"
+    ],
+    "explanation": "染色固定後產生的artifact，serous acinar被擠到mucous acinar外面像戴帽子。\n【出處】08共筆Vol.14 P.18；09共筆Vol.14 P.18",
+    "description": "紅色箭頭是什麼構造？"
+  },
+  {
+    "num": "208214",
+    "path": "S/208214.webp",
+    "answer": [
+      "esophagogastric junction"
+    ],
+    "explanation": "由esophagus（左）至stomach（右）的轉變：1. Noncornified stratified squamous epithelium → simple columnar epithelium 2. Muscularis externa增厚，交界可能看到gastroesophageal sphincter（此圖不明顯）3. Stomach 有surface mucous cell\n【出處】08共筆Vol.14 P.58；09共筆Vol.14 P.61",
+    "description": "這是哪兩個器官的交界？"
+  },
+  {
+    "num": "209207",
+    "path": "S/209207.webp",
+    "answer": [
+      "Parietal cell"
+    ],
+    "explanation": "此題常考。由紅色細胞、荷包蛋外型直接判斷出是Parietal cell。是Gastric gland 中佔最多的細胞，Cardiac & pyloric region幾乎無。\n【出處】09共筆 Vol.14 P.36",
+    "description": "請寫出箭頭所指的細胞"
+  },
+  {
+    "num": "2092015",
+    "path": "S/2092015.webp",
+    "answer": [
+      "Mucous neck cell"
+    ],
+    "explanation": "首先從畫面中紅色細胞紫色核，有如荷包蛋狀的特徵，可先判斷出藍色箭頭指的是parietal cell。之後黃色箭頭指的細胞夾雜於 parietal cells 之間，大小較小，細胞質淡染看不清楚的即為mucous neck cell。\n【出處】09共筆 Vol.14 P.65",
+    "description": "此為何種細胞（圖片黃色箭頭所指）"
+  },
+  {
+    "num": "208111",
+    "path": "S/208111.webp",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "深染淡染交錯，為mixed gland。深染的部分較多，因serous gland含量較mucous gland多。\n【出處】共筆Vol.14 P.17",
+    "description": "此為何器官內可見構造？"
+  },
+  {
+    "num": "208120",
+    "path": "S/208120.webp",
+    "answer": [
+      "Surface Mucous cell"
+    ],
+    "explanation": "圖中為消化道的細胞，其朝向lumen上半部呈空泡狀，且分佈密集，因此為stomach的surface mucous cell。（如果是goblet cell，不該分佈這麼緊密，且應為酒杯狀）\n【出處】共筆Vol.14 P.30",
+    "description": "下圖紅框內細胞名稱？"
+  },
+  {
+    "num": "207212",
+    "path": "S/207212.webp",
+    "answer": [
+      "A: intercalated duct B: striated duct",
+      "intercalated duct striated duct"
+    ],
+    "explanation": "A處構造由low cuboid細胞圍成，管腔不大，為intercalated duct。B處的上皮細胞比intercalated duct高，lumen也較大。基底部有紅色條紋為basal striation。\n【出處】共筆Vol.14 P.48",
+    "description": "寫出A及B所指之構造名稱（Be specific）"
+  },
+  {
+    "num": "206205",
+    "path": "S/206205.webp",
+    "answer": [
+      "Esophagus"
+    ],
+    "explanation": "可看到 mucosa 為 noncornified stratified squamous epithelium，\n且 submucosa 有淡染團狀的 esophageal gland proper。",
+    "description": "寫出中間範圍的器官名稱"
+  },
+  {
+    "num": "206213",
+    "path": "S/206213.webp",
+    "answer": [
+      "A: intercalated duct B: striated duct",
+      "intercalated duct striated duct"
+    ],
+    "explanation": "A 處構造由 low cuboid 細胞圍成，管腔不大，為 intercalated \nduct。\nB 處的上皮細胞比 intercalated duct 高，lumen 也較大。基底\n部有紅色條紋為 basal striation。",
+    "description": "寫出 A、B 的構造名稱"
+  },
+  {
+    "num": "206221",
+    "path": "S/206221.webp",
+    "answer": [
+      "Pylorus region of",
+      "stomach"
+    ],
+    "explanation": "Pit 下凹程度深。gastric pit 和 pyloric gland 的長度比例約\n2~3:1。且 pyloric gland 呈 coiled 狀。",
+    "description": "寫出整個範圍的器官部位名稱"
+  },
+  {
+    "num": "210201",
+    "path": "S/210201.webp",
+    "answer": [
+      "Pyloric gland"
+    ],
+    "explanation": "a.位置：pyloric sphincter（有明顯增厚的muscularis mucosae）\nb.Shape：simple/ branched tubular。切片下呈highly tortuous、coiled（呈現不規則切面，呈團狀分布）、lumen大。\nc.Pits：很深且有分岔。",
+    "description": "請問以下為何種構造?"
+  },
+  {
+    "num": "210204",
+    "path": "S/210204.webp",
+    "answer": [
+      "Surface mucous cell"
+    ],
+    "explanation": "胃的Surface mucous cell組成simple columnar epithelium，可分泌mucigen granules（不溶於水，形成霧狀保護層）；surface mucous cell 所在的凹陷稱為 gastric pit",
+    "description": "箭頭所指的細胞名稱為何?"
+  },
+  {
+    "num": "210213",
+    "path": "S/210213.webp",
+    "answer": [
+      "A: Stomach B: Esophagus",
+      "Stomach Esophagus"
+    ],
+    "explanation": "由 esophagus（B）至 stomach（A）的轉變：\n1.食道 muscularis externa 的 inner circular layer 增厚形成gastroesophageal sphincter（此圖視野未包含）\n2.由 noncornified stratified squamous epithelium 轉為 simple columnar epithelium\n3.Stomach 有很多向下凹陷的 gastric pits\n4.Esophagus 有 esophageal gland proper，stomach 於 submucosa 則無腺體",
+    "description": "A和B分別為何種器官？"
+  },
+  {
+    "num": "210215",
+    "path": "S/210215.webp",
+    "answer": [
+      "A: Sublingual gland B: Submandibular gland",
+      "Sublingual gland Submandibular gland"
+    ],
+    "explanation": "A：以 mucous acini 為主的 mixed gland，整體呈現比較空染的顏色\nB：以 serous acini 為主的 mixed gland，整體呈現比較深染的顏色",
+    "description": "寫出A和B個別之器官名稱"
+  },
+  {
+    "num": "204225",
+    "path": "S/204225.webp",
+    "answer": [
+      "A",
+      "Stomach Esophagus"
+    ],
+    "explanation": "由esophagus至stomach的轉變：1. Muscularis externa增厚，交界可能看到gastroesophageal sphincter 2. Noncornified stratified squamous epithelium→ simple columnar epithelium 3. Stomach會形成pit\n【出處】07共筆Vol.15 P.60",
+    "description": "整個範圍是哪兩種器官（A=?, B=?）交界處之切片？"
+  },
+  {
+    "num": "204226",
+    "path": "S/204226.webp",
+    "answer": [
+      "Oxyntic cell",
+      "Parietal cell"
+    ],
+    "explanation": "荷包蛋、核在中央、胞質eosinophilic、數量多\n【出處】07共筆Vol.15 P.63",
+    "description": "寫出箭號所指細胞名稱（Be specific）"
+  },
+  {
+    "num": "204227",
+    "path": "S/204227.webp",
+    "answer": [
+      "Intercalated duct"
+    ],
+    "explanation": "管腔小、不太圓，simple squamous epithelium或low cuboidal epithelium，在acini旁邊\n【出處】07共筆Vol.15 P.51",
+    "description": "寫出範圍所指組織構造名稱"
+  },
+  {
+    "num": "204228",
+    "path": "S/204228.webp",
+    "answer": [
+      "surface mucous cell"
+    ],
+    "explanation": "朝向lumen上半部呈空泡狀的細胞，且分佈十分密集，與Goblet cell的零星分佈不一樣。surface mucous cell是整條淡染核在基部，goblet cell的空泡狀則是夾雜在上皮細胞之間。\n【出處】07共筆Vol.15 P.45",
+    "description": "寫出箭號所指細胞名稱（Be specific）"
+  },
+  {
+    "num": "204229",
+    "path": "S/204229.webp",
+    "answer": [
+      "A",
+      "pyloric region  fundic region  cardiac region"
+    ],
+    "explanation": "pyloric的pit最深，其次是cardiac，fundic最淺。Cardiac和pylorus的gland是simple coiled tubular，切面不規則；fundic則是simple tubular，呈規則柱狀。\n【出處】07共筆Vol.15 P.64-66",
+    "description": "寫出A、B、C圖中的部位名稱（Be specific）"
+  },
+  {
+    "num": "205222",
+    "path": "S/205222.webp",
+    "answer": [
+      "Fundic part of gastric gland"
+    ],
+    "explanation": "很淺的pit，gland呈柱狀整齊排列 。",
+    "description": "寫出視野下組織部位名稱（Be specific）"
+  },
+  {
+    "num": "211213",
+    "path": "S/211213.webp",
+    "answer": [
+      "Fundic region of stomach"
+    ],
+    "explanation": "本圖給小圖，可用Gastric pit 深度判斷：pylorus 的最深，幾乎占滿，cardiac 深度占 1/2， fundic深度 1/3~1/4。\n若給放大的圖，可用parietal cell區分，只有fundic region有，其他兩區幾乎沒有。",
+    "description": "寫出視野下的構造名稱。Be specific。"
+  },
+  {
+    "num": "211214",
+    "path": "S/211214.webp",
+    "answer": [
+      "A: stomach B: esophagus",
+      "stomach esophagus"
+    ],
+    "explanation": "食道： non-cornified stratified squamous epithelium，為平整的結構。 有esophageal gland proper（綠色圈起）。\n胃： simple columnar epithelium（不含 goblet cell），有很多向下凹陷的 gastric pits。 沒有 gland。",
+    "description": "請寫出本圖為哪兩種器官之交界。右為A，左為B。"
+  },
+  {
+    "num": "211217",
+    "path": "S/211217.webp",
+    "answer": [
+      "Surface mucous cell"
+    ],
+    "explanation": "圖中為消化道的細胞，其朝向 lumen 上半部呈空泡狀，且分佈密集，因此為 stomach 的 surface mucous cell。（如果是goblet cell，不該分佈這麼緊密，且應為酒杯狀）",
+    "description": "下列箭頭所指的構造為何?"
+  },
+  {
+    "num": "211219",
+    "path": "S/211219.webp",
+    "answer": [
+      "A",
+      "左邊的"
+    ],
+    "explanation": "Parotid gland →\na.在 septum 內有許多 adipocytes，滲入 lobule 形成許多 fat infiltration。\nb.在 lobule 內只有 serous acini，不含任何的 mucous cell，因此呈現深染。\nc.Duct system 與其他兩種 glands 相較之下，最為發達。\nSubmandibular → 深染淡染交錯，為 mixed gland。深染的部分較多，因 serous gland 含量較 mucous gland 多。\nSublingual → Mixed gland，且大多為 mucous acini。",
+    "description": "下列哪一個是parotid gland?"
+  },
+  {
+    "num": "209109",
+    "path": "S/209109.webp",
+    "answer": [
+      "intercalated duct"
+    ],
+    "explanation": "此處應是parotid gland的intercalated duct\n（可參考：https://histology.siu.edu/erg/GI121b.htm ）",
+    "description": "\n藍色框框內的「細胞」是什麼？"
+  },
+  {
+    "num": "209115",
+    "path": "S/209115.webp",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "深染淡染交錯，為mixed gland。深染的部分較多，因serous gland含量較mucous gland多。\n【出處】共筆Vol.14 P.17",
+    "description": "視野下為何種組織？"
+  },
+  {
+    "num": "209117",
+    "path": "S/209117.webp",
+    "answer": [
+      "chief cell"
+    ],
+    "explanation": "Chief cell具有 basophilic 的細胞質、細胞位在 basal gland、細胞核位在 basal side。\n【出處】共筆Vol.14 P.39",
+    "description": "綠色虛線圍起來的細胞是什麼？"
+  },
+  {
+    "num": "209131",
+    "path": "S/209131.webp",
+    "answer": [
+      "Pylorus"
+    ],
+    "explanation": "Pit和gland比例約為2：1。可以看出pit明顯很深，也可從mucosa總厚度和管子形狀（coiled）判斷。\n【出處】共筆Vol.14 P.42",
+    "description": "是哪種器官？"
+  },
+  {
+    "num": "209134",
+    "path": "S/209134.webp",
+    "answer": [
+      "parietal cell"
+    ],
+    "explanation": "為gastric gland佔最多的細胞，特徵有荷包蛋狀、核在中央、細胞質eosinophilic、數量多。\n【出處】共筆Vol.14 P.36",
+    "description": "藍色箭頭所指的細胞是誰？"
+  },
+  {
+    "num": "206116",
+    "path": "S/206116.webp",
+    "answer": [
+      "Esophagus"
+    ],
+    "explanation": "上皮為non-keratinized stratified squamous epithelium，且有submucosal gland。\n【出處】共筆Vol.14 P.23 ",
+    "description": "視野下為何種器官的組織切片？"
+  },
+  {
+    "num": "206124",
+    "path": "S/206124.webp",
+    "answer": [
+      "Pylorus"
+    ],
+    "explanation": "Pit和gland比例約為2：1。可以看出pit明顯很深，也可從mucosa總厚度和管子形狀（coiled）判斷。 \n【出處】共筆Vol.14 P.40",
+    "description": "視野下為何種器官部位的組織切片？（Be specific）"
+  },
+  {
+    "num": "206127",
+    "path": "S/206127.webp",
+    "answer": [
+      "Esophageal gland proper"
+    ],
+    "explanation": "Esophagus和duodenum是消化道中唯二在submucosa有腺體的部位，且此處上皮為stratified squamous epithelium，所以判斷其位於esophagus。 \n【出處】共筆Vol.14 P.23 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "207119",
+    "path": "S/207119.webp",
+    "answer": [
+      "左圖"
+    ],
+    "explanation": "Parietal cell負責分泌HCl，呈錐形，核大且位於中間，有時可見核旁有細小管狀的canaliculi被許多mitochondria圍繞。",
+    "description": "下兩圖中何者為Parietal cell？"
+  },
+  {
+    "num": "207120",
+    "path": "S/207120.webp",
+    "answer": [
+      "右圖"
+    ],
+    "explanation": "Chief cell負責分泌pepsinogen及lipase，呈錐形，核大，富含rER，有許多zymogen granule。",
+    "description": "下兩圖中何者為Chief cell？"
+  },
+  {
+    "num": "207126",
+    "path": "S/207126.webp",
+    "answer": [
+      "Surface mucous cell"
+    ],
+    "explanation": "Surface mucous cell位於gastric gland最上方，gastric pit內。",
+    "description": "下圖紅框內細胞名稱為何？"
+  },
+  {
+    "num": "207128",
+    "path": "S/207128.webp",
+    "answer": [
+      "Submandibular gland"
+    ],
+    "explanation": "深染淡染交錯，為mixed gland。深染的部分較多，因serous gland含量較mucous gland多。",
+    "description": "下圖為何組織？"
+  },
+  {
+    "num": "207131",
+    "path": "S/207131.webp",
+    "answer": [
+      "Esophageal gland proper"
+    ],
+    "explanation": "位於submucosa，是食道特有的tubuloalveolar glands。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "206203",
+    "path": "S/206203.webp",
+    "answer": [
+      "A: Parotid gland B: Pancreas",
+      "Parotid gland Pancreas"
+    ],
+    "explanation": "A 可看到深染的 serous acini，沒有任何淡染的 mucous cell。\n且 septum 內有許多 adipocyte 滲入 lobule 形成 fat infiltration。\nB 可見深染淡染區，分別對應 exocrine gland 和 endocrine \ngland（islet of Langerhans）。",
+    "description": "寫出 A 及 B 所指之器官名稱（Be specific）"
+  }
+]

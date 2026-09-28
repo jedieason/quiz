@@ -1,0 +1,324 @@
+[
+  {
+    "num": "B08_1",
+    "path": "B08/B08_1.webp",
+    "answer": [
+      "(a)pyramid (b)corticospinal tract",
+      "pyramid corticospinal tract"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_2",
+    "path": "B08/B08_2.webp",
+    "answer": [
+      "(a)inferior colliculus (b)middle cerebellar peduncle",
+      "inferior colliculus middle cerebellar peduncle"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_3",
+    "path": "B08/B08_3.webp",
+    "answer": [
+      "(a)pyramidal decussation (b)spinal trigeminal nucleus",
+      "pyramidal decussation spinal trigeminal nucleus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_4",
+    "path": "B08/B08_4.webp",
+    "answer": [
+      "(a)cuneate nucleus (b)medial lemniscus",
+      "cuneate nucleus medial lemniscus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_5",
+    "path": "B08/B08_5.webp",
+    "answer": [
+      "(a)N/A (b)inferior olivary nucleus",
+      "N/A inferior olivary nucleus"
+    ],
+    "explanation": "(b)答案若要回答神經纖維則為 olivocerebellar fiber。",
+    "description": ""
+  },
+  {
+    "num": "B08_6",
+    "path": "B08/B08_6.webp",
+    "answer": [
+      "(a)pontocerebellar fiber (b)trigeminal nerve",
+      "pontocerebellar fiber trigeminal nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_7",
+    "path": "B08/B08_7.webp",
+    "answer": [
+      "(a)facial nerve",
+      "facial nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_8",
+    "path": "B08/B08_8.webp",
+    "answer": [
+      "(a) Lateral lemniscus (b) 聽覺",
+      "Lateral lemniscus 聽覺"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_10",
+    "path": "B08/B08_10.webp",
+    "answer": [
+      "(a) Decussation of superior cerebellar peduncle",
+      "Decussation of superior cerebellar peduncle"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_11",
+    "path": "B08/B08_11.webp",
+    "answer": [
+      "(a)Superior colliculus (b)Vision",
+      "Superior colliculus Vision"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_12",
+    "path": "B08/B08_12.webp",
+    "answer": [
+      "(a)Red nucleus (b)crus cerebri",
+      "Red nucleus crus cerebri"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_13",
+    "path": "B08/B08_13.webp",
+    "answer": [
+      "(a)medial geniculate body (b)mammillary body",
+      "medial geniculate body mammillary body"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_14",
+    "path": "B08/B08_14.webp",
+    "answer": [
+      "(a)Habenula (b)Internal medullary lamina",
+      "Habenula Internal medullary lamina"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_15",
+    "path": "B08/B08_15.webp",
+    "answer": [
+      "(a)Pineal gland (b)分泌 melatonin",
+      "Pineal gland 分泌 melatonin"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_20",
+    "path": "B08/B08_20.webp",
+    "answer": [
+      "(a)Supramarginal gyrus (b)語言接收",
+      "Supramarginal gyrus 語言接收"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_26",
+    "path": "B08/B08_26.webp",
+    "answer": [
+      "(a)lenticular fasciculus (b)ansa lenticularis",
+      "lenticular fasciculus ansa lenticularis"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_27",
+    "path": "B08/B08_27.webp",
+    "answer": [
+      "(a)glutamate (b)GABA",
+      "glutamate GABA"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_28",
+    "path": "B08/B08_28.webp",
+    "answer": [
+      "(a)posterior commissure (b)Dopamin",
+      "posterior commissure Dopamin"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_29",
+    "path": "B08/B08_29.webp",
+    "answer": [
+      "(A) putamen (B) GABA",
+      "putamen GABA"
+    ],
+    "explanation": "圖片來源: NTU-WAN non-labeled, horizontal 2 (詳圖見下頁)",
+    "description": ""
+  },
+  {
+    "num": "B08_30",
+    "path": "B08/B08_30.webp",
+    "answer": [
+      "(A) posterior limb of internal capsule (B) column of fornix",
+      "posterior limb of internal capsule column of fornix"
+    ],
+    "explanation": "此為 diencephalon-4 左右的切片位置，圖片下方是 anterior，上方是 posterior，已經看不到 red nucleus，此高度為 diencephalon。\n在 3rd ventricle 旁邊的 column(被橫切)較為 ventral 的是 fornix(B)。在 thalamus 外側和 putamen, globus pallidus 的內側的是 internal capsule，這裡只有切到 posterior limb)",
+    "description": ""
+  },
+  {
+    "num": "B08_31",
+    "path": "B08/B08_31.webp",
+    "answer": [
+      "(1)Cuneate fasciculus (2)T6 以上本體感覺",
+      "Cuneate fasciculus T6 以上本體感覺"
+    ],
+    "explanation": "註: 去年留下的答案給 cuneus nucleus (spinal cord 切片)，但 spinal cord 應該切不到 nucleus，所以就改指 fasiculus",
+    "description": ""
+  },
+  {
+    "num": "B08_32",
+    "path": "B08/B08_32.webp",
+    "answer": [
+      "(1)Superior colliculus (2)Superior cerebellar peduncle",
+      "Superior colliculus Superior cerebellar peduncle"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_33",
+    "path": "B08/B08_33.webp",
+    "answer": [
+      "(1)Inferior colliculus (2)Inferior vestibular nucleus",
+      "Inferior colliculus Inferior vestibular nucleus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_35",
+    "path": "B08/B08_35.webp",
+    "answer": [
+      "(1)Vision (2)calcarine sulcus",
+      "Vision calcarine sulcus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_36",
+    "path": "B08/B08_36.webp",
+    "answer": [
+      "(1)平衡覺、凝視相關 (2)MLF, medial longitudinal fasciculus",
+      "平衡覺、凝視相關 MLF, medial longitudinal fasciculus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_37",
+    "path": "B08/B08_37.webp",
+    "answer": [
+      "(1)Hippocampus (2)Lateral sulcus",
+      "Hippocampus Lateral sulcus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_38",
+    "path": "B08/B08_38.webp",
+    "answer": [
+      "ventral lateral nucleus",
+      "ventral lateral nucleus"
+    ],
+    "explanation": "背題者表示不確定",
+    "description": ""
+  },
+  {
+    "num": "B08_40",
+    "path": "B08/B08_40.webp",
+    "answer": [
+      "(1)Ganglion cell (2)Lateral geniculate body",
+      "Ganglion cell Lateral geniculate body",
+      "(1)Ganglion cell (2)LGB",
+      "Ganglion cell LGB"
+    ],
+    "explanation": "(1) 所指構造是 optic tract，是 ganglion cells 的神經纖維\n(2) 藍色構造是 optic radiation，由 LGB 投射至 primary visual cortex",
+    "description": ""
+  },
+  {
+    "num": "B08_44",
+    "path": "B08/B08_44.webp",
+    "answer": [
+      "cingulate gyrus；anterior cerebral artery",
+      "cingulate gyrus；anterior cerebral artery"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_47",
+    "path": "B08/B08_47.webp",
+    "answer": [
+      "optic radiation",
+      "optic radiation"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_48",
+    "path": "B08/B08_48.webp",
+    "answer": [
+      "crus of fornix；hippocampus",
+      "crus of fornix；hippocampus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B08_50",
+    "path": "B08/B08_50.webp",
+    "answer": [
+      "crus cerebri；periaqueductal gray/cerebral aqueduct",
+      "crus cerebri；periaqueductal gray/cerebral aqueduct"
+    ],
+    "explanation": "",
+    "description": ""
+  }
+]

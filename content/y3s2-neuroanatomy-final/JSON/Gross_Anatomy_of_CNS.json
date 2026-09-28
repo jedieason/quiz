@@ -1,0 +1,452 @@
+[
+  {
+    "num": "Gross_Anatomy_of_CNS_1",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_1.webp",
+    "answer": [
+      "(1) Parahippocampal gyrus (2) Uncus",
+      "Parahippocampal gyrus Uncus"
+    ],
+    "explanation": "(1)圈圈左側的縫為 collateral sulcus，在其內側 (2)在 parahippocampal gyrus 內側。出處：atlas-2-1-cerebrum: coronal (anterior posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_2",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_2.webp",
+    "answer": [
+      "(1) Anterior commissure (2) Putamen",
+      "Anterior commissure Putamen"
+    ],
+    "explanation": "(1)位於前段，且是橫向連結。出處：atlas-2-1-cerebrum: coronal (anterior posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_3",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_3.webp",
+    "answer": [
+      "(1) Denticulate ligament (2) Dura mater",
+      "Denticulate ligament Dura mater"
+    ],
+    "explanation": "(1)位於 ventral, dorsal rootlets 間。出處：atlas-5-3 spinal cord-meninges and rootlets",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_4",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_4.webp",
+    "answer": [
+      "(1) Cauda equina (2) L2 以下",
+      "Cauda equina L2 以下"
+    ],
+    "explanation": "(2)因為已經看到 cauda equina 了。出處：atlas-5-2 spinal cord-cauda equina",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_5",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_5.webp",
+    "answer": [
+      "(1) Precentral gyrus (2) Supramarginal gyrus (3) Broca's area",
+      "Precentral gyrus Supramarginal gyrus Broca's area"
+    ],
+    "explanation": "(2) lateral sulcus 延伸 (3) Broca's area 包含 opercular 及 triangular。出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_6",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_6.webp",
+    "answer": [
+      "(1) Superior temporal gyrus (2) 聽覺",
+      "Superior temporal gyrus 聽覺"
+    ],
+    "explanation": "(1) lateral sulcus 正下方。出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_7",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_7.webp",
+    "answer": [
+      "(1) Insula (2) Septum pellucidum",
+      "Insula Septum pellucidum"
+    ],
+    "explanation": "(2)區隔 lateral ventricle。出處：atlas-2-1-cerebrum: coronal (anterior posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_8",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_8.webp",
+    "answer": [
+      "(1) Nodulus (2) Middle cerebellar peduncle (3) Tonsil",
+      "Nodulus Middle cerebellar peduncle Tonsil"
+    ],
+    "explanation": "出處：atlas-4-1-cerebellum-anterior",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_9",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_9.webp",
+    "answer": [
+      "(1) Filum terminale (2) Dorsal root ganglion",
+      "Filum terminale Dorsal root ganglion"
+    ],
+    "explanation": "(1)顏色跟 cauda equina 比較不一樣。出處：atlas-5-2 spinal cord-cauda equina",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_10",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_10.webp",
+    "answer": [
+      "(1) Interthalamic adhesion (2) Septum pellucidum",
+      "Interthalamic adhesion Septum pellucidum"
+    ],
+    "explanation": "(1)連接左右 thalamus。出處：atlas-1-2 Cerebrum: medial view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_11",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_11.webp",
+    "answer": [
+      "(1) Globus pallidus (2) Internal capsule",
+      "Globus pallidus Internal capsule"
+    ],
+    "explanation": "出處：atlas-cerebrum: coronal (anterior-posterior)-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_12",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_12.webp",
+    "answer": [
+      "(1) Caudate nucleus (head) (2) Internal capsule (anterior limb)",
+      "Caudate nucleus (head) Internal capsule (anterior limb)"
+    ],
+    "explanation": "出處：atlas-2-7-cerebrum: horizontal-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_13",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_13.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Abducens nerve",
+      "Inferior colliculus Abducens nerve"
+    ],
+    "explanation": "出處：atlas-3-3-brainstem: lateral",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_14",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_14.webp",
+    "answer": [
+      "(1) Primary fissure (2) Posterior lobe of cerebellum",
+      "Primary fissure Posterior lobe of cerebellum"
+    ],
+    "explanation": "出處：atlas-3-2-brainstem: cerebellum",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_15",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_15.webp",
+    "answer": [
+      "Subthalamic nucleus",
+      "Subthalamic nu."
+    ],
+    "explanation": "出處：atlas-cerebrum: coronal (anterior-posterior)-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_16",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_16.webp",
+    "answer": [
+      "(1) Anterior commissure (2) (body of) Fornix",
+      "Anterior commissure (body of) Fornix"
+    ],
+    "explanation": "出處：atlas-1-3-cerebrum: midsaggital view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_17",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_17.webp",
+    "answer": [
+      "(1) Thalamus (2) Corpus callosum, splenium",
+      "Thalamus Corpus callosum, splenium"
+    ],
+    "explanation": "出處：atlas-2-7-cerebrum: horizontal-2 逆時針轉了九十度",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_18",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_18.webp",
+    "answer": [
+      "(1) Middle cerebellar peduncle (2) Obex",
+      "Middle cerebellar peduncle Obex"
+    ],
+    "explanation": "出處：atlas-3-6 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_19",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_19.webp",
+    "answer": [
+      "(1) Trochlear nerve (2) Medial eminence",
+      "Trochlear nerve Medial eminence"
+    ],
+    "explanation": "出處：atlas-3-5 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_20",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_20.webp",
+    "answer": [
+      "(1) Precentral gyrus (2) Supramarginal gyrus",
+      "Precentral gyrus Supramarginal gyrus"
+    ],
+    "explanation": "出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_21",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_21.webp",
+    "answer": [
+      "(1) Superior temporal gyrus (2) 聽覺",
+      "Superior temporal gyrus 聽覺"
+    ],
+    "explanation": "出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_22",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_22.webp",
+    "answer": [
+      "(1) Cuneus (2) 視覺",
+      "Cuneus 視覺"
+    ],
+    "explanation": "出處：atlas-1-2 Cerebrum: medial view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_23",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_23.webp",
+    "answer": [
+      "(1) Tectum (or corpora quadrigemina) (2) Septum pellucidum",
+      "Tectum (or corpora quadrigemina) Septum pellucidum"
+    ],
+    "explanation": "出處：atlas-1-2 Cerebrum: medial view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_24",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_24.webp",
+    "answer": [
+      "(1) Anterior cerebral artery (2) Fornix",
+      "Anterior cerebral artery Fornix"
+    ],
+    "explanation": "出處：atlas-1-3-cerebrum: midsaggital view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_25",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_25.webp",
+    "answer": [
+      "(1) Cingulate sulcus (2) Fornix",
+      "Cingulate sulcus Fornix"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_26",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_26.webp",
+    "answer": [
+      "(1) Primary fissure (2) Tonsil",
+      "Primary fissure Tonsil"
+    ],
+    "explanation": "出處：atlas-3-2-brainstem: cerebellum",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_27",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_27.webp",
+    "answer": [
+      "(1) Parahippocampal gyrus (2) Basilar artery",
+      "Parahippocampal gyrus Basilar artery"
+    ],
+    "explanation": "出處：atlas-1-6 Cerebrum: Ventral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_28",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_28.webp",
+    "answer": [
+      "(1) Thalamus (2) Hippocampus",
+      "Thalamus Hippocampus"
+    ],
+    "explanation": "注意：本片為 coronal section",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_29",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_29.webp",
+    "answer": [
+      "(1) Gracile tubercle (Clava) (2) T6 以下 touch and proprioception",
+      "Gracile tubercle (Clava) T6 以下 touch and proprioception"
+    ],
+    "explanation": "補充：T6 以上 cuneate fasciculus；T6 以下 gracile fasciculus。出處：atlas-3-6 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_30",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_30.webp",
+    "answer": [
+      "(1) Lingual gyrus (2) Septum pellucidum",
+      "Lingual gyrus Septum pellucidum"
+    ],
+    "explanation": "出處：atlas-1-2 Cerebrum: medial view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_31",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_31.webp",
+    "answer": [
+      "(1) Central sulcus (2) Lateral sulcus",
+      "Central sulcus Lateral sulcus"
+    ],
+    "explanation": "出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_32",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_32.webp",
+    "answer": [
+      "(1) Hippocampus (2) Fornix",
+      "Hippocampus Fornix"
+    ],
+    "explanation": "可參考：atlas-2-2-cerebrum: coronal (anterior posterior)-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_33",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_33.webp",
+    "answer": [
+      "(1) Caudate nucleus (2) Amygdala",
+      "Caudate nucleus Amygdala"
+    ],
+    "explanation": "(1)位在 lateral ventricle 旁。注意：此為 coronal section。可參考：atlas-2-1-cerebrum: coronal (anterior posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_34",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_34.webp",
+    "answer": [
+      "(1) Claustrum (2) Internal capsule (posterior limb)",
+      "Claustrum Internal capsule (posterior limb)"
+    ],
+    "explanation": "(1)注意他指的是中間有點褐色的部分。可參考：atlas-2-7-cerebrum: horizontal-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_35",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_35.webp",
+    "answer": [
+      "(1) Trochlear nerve (2) Brachium of inferior colliculus",
+      "Trochlear nerve Brachium of inferior colliculus"
+    ],
+    "explanation": "出處：atlas-3-6 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_36",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_36.webp",
+    "answer": [
+      "(1) Claustrum (2) Caudate nucleus",
+      "Claustrum Caudate nucleus"
+    ],
+    "explanation": "可參考：atlas-2-7-cerebrum: horizontal-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_37",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_37.webp",
+    "answer": [
+      "(1) Uncus (2) Amygdala",
+      "Uncus Amygdala"
+    ],
+    "explanation": "出處：atlas-1-6 Cerebrum: Ventral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_38",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_38.webp",
+    "answer": [
+      "(1) Calcarine sulcus (2) Cuneus",
+      "Calcarine sulcus Cuneus"
+    ],
+    "explanation": "出處：atlas-1-2 Cerebrum: medial view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_39",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_39.webp",
+    "answer": [
+      "(1) Middle cerebellar peduncle (2) Flocculus",
+      "Middle cerebellar peduncle Flocculus"
+    ],
+    "explanation": "出處：atlas-4-1-cerebellum-anterior",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_40",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_40.webp",
+    "answer": [
+      "(1) Postcentral gyrus (2) Inferior frontal sulcus",
+      "Postcentral gyrus Inferior frontal sulcus"
+    ],
+    "explanation": "出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_41",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_41.webp",
+    "answer": [
+      "(1) Trochlear nerve (2) Pyramidal decussation",
+      "Trochlear nerve Pyramidal decussation"
+    ],
+    "explanation": "出處：atlas-3-1 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_42",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_42.webp",
+    "answer": [
+      "(1) Gracile tubercle (Clava) (2) Inferior colliculus",
+      "Gracile tubercle (Clava) Inferior colliculus"
+    ],
+    "explanation": "出處：atlas-3-6 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_43",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_43.webp",
+    "answer": [
+      "(1) Globus pallidus (2) (Genu of) Corpus callosum",
+      "Globus pallidus (Genu of) Corpus callosum"
+    ],
+    "explanation": "注意：此片為 horizontal section。可參考：atlas-2-7-cerebrum: horizontal-2",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_44",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_44.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Medial geniculate body",
+      "Inferior colliculus Medial geniculate body"
+    ],
+    "explanation": "出處：atlas-3-6 brainstem",
+    "description": ""
+  },
+  {
+    "num": "Gross_Anatomy_of_CNS_45",
+    "path": "Gross_Anatomy_of_CNS/Gross_Anatomy_of_CNS_45.webp",
+    "answer": [
+      "(1) Internal capsule posterior limb (2) Hippocampus",
+      "Internal capsule posterior limb Hippocampus"
+    ],
+    "explanation": "可參考：atlas-2-2-cerebrum: coronal (anterior posterior)-2",
+    "description": ""
+  }
+]

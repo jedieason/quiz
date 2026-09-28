@@ -1,0 +1,130 @@
+[
+    {
+        "num": "Larynx_1",
+        "path": "Larynx/Larynx_1.webp",
+        "answer": [
+            "Posterior cricoarytenoid m."
+        ],
+        "explanation": "從 posterior cricoid lamina 附著到 vocal process of arytenoid cartilage，是唯一的 vocal cord abductor 而且超大一塊，由 lecture、國考、跑台都考了五千萬次的 recurrent laryngeal n. 支配。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_2",
+        "path": "Larynx/Larynx_2.webp",
+        "answer": [
+            "Superior laryngeal a."
+        ],
+        "explanation": "superior thyroid a. 的分支，和 internal laryngeal n. 一起進入 thyrohyoid membrane。其他:1:Facial v.，2:Retromandibular v.，3:Submandibular gland，4:Common carotid a.，5:Internal jugular v.，6:Accessory n.，7:External jugular v.，8:Superior belly of omohyoid m.，9:Communicating v.。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_3",
+        "path": "Larynx/Larynx_3.webp",
+        "answer": [
+            "Lateral cricoarytenoid m."
+        ],
+        "explanation": "從 arch of cricoid cartilage 連到 muscular process of arytenoid cartilage，為 vocal cord adductor。由 recurrent laryngeal n. 支配。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_4",
+        "path": "Larynx/Larynx_4.webp",
+        "answer": [
+            "Superior laryngeal n."
+        ],
+        "explanation": "分出 internal br. & external br.，為 vagus n. 的分支。從後面看也要會喔。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_5",
+        "path": "Larynx/Larynx_5.webp",
+        "answer": [
+            "Posterior cricoarytenoid m."
+        ],
+        "explanation": "posterior cricoid lamina 連到 muscular process of arytenoid cartilage，為唯一的 vocal cord abductor。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_6",
+        "path": "Larynx/Larynx_6.webp",
+        "answer": [
+            "Superior laryngeal n."
+        ],
+        "explanation": "千千萬萬不要跟 vagus n. 混淆。Superior laryngeal n. 會在 skull base 下 2.5cm 處從 vagus n. 分出，走到 ICA 內側，往 carotid triangle 處走，分出 internal laryngeal n. & external laryngeal n.。可是 vagus n. 主幹會直直往下衝走在 CCA & IJV 之間的後側，就是他在 Carotid sheath 裡應該在的位置。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_7",
+        "path": "Larynx/Larynx_7.webp",
+        "answer": [
+            "Vocal ligament"
+        ],
+        "explanation": "從 arytenoid cartilage 的 vocal process 向前連到 epiglottis 和 thyroid cartilage 相接處的 thyroid angle。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_8",
+        "path": "Larynx/Larynx_8.webp",
+        "answer": [
+            "Internal laryngeal n.",
+            "Superior laryngeal a."
+        ],
+        "explanation": "從 middle & inferior constrictor 之間鑽入 pharynx 再跑到 larynx，負責聲帶以上的感覺和 epiglottis 的感覺與味覺。 所以，internal laryngeal n. 只有 GSA fiber → 錯~~他也有 SVA 喔。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_9",
+        "path": "Larynx/Larynx_9.webp",
+        "answer": [
+            "External laryngeal n."
+        ],
+        "explanation": "支配 cricothyroid，負責飆高音。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_10",
+        "path": "Larynx/Larynx_10.webp",
+        "answer": [
+            "Recurrent laryngeal n.",
+            "Inferior laryngeal n."
+        ],
+        "explanation": "從 thyroid gland 的後方往上繞，從 inferior pharyngeal constrictor 的下緣和 inferior laryngeal a. 一起進入 larynx，支配除 cricothyroid 之外所有的 larynx intrinsic muscle 以及聲帶以下的感覺。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_11",
+        "path": "Larynx/Larynx_11.webp",
+        "answer": [
+            "External laryngeal n."
+        ],
+        "explanation": "答出這題的前提是你要看的出來他是從 superior laryngeal n. 分出來的，不然就沒救了。Superior laryngeal n. 會在 skull base 下 2.5cm 處從 vagus n. 分出，走到 ICA 內側，往 carotid triangle 處走，分出 internal laryngeal n. & external laryngeal n.。可是 vagus n. 主幹會直直往下衝走在 CCA & IJV 之間的後側， 就是他在 Carotid sheath 裡應該在的位置。終於判斷出他是 superior laryngeal n. 之後，請記得 internal laryngeal n. 會往前走要進入 thyrohyoid membrane，繼續往下走的就是 external laryngeal n.。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_12",
+        "path": "Larynx/Larynx_12.webp",
+        "answer": [
+            "Transverse arytenoid m."
+        ],
+        "explanation": "在 larynx 的後方，而且纖維橫走。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_13",
+        "path": "Larynx/Larynx_13.webp",
+        "answer": [
+            "Superior laryngeal a."
+        ],
+        "explanation": "superior thyroid a. 的分支，和 internal laryngeal n. 一起進入 thyrohyoid membrane。",
+        "description": ""
+    },
+    {
+        "num": "Larynx_14",
+        "path": "Larynx/Larynx_14.webp",
+        "answer": [
+            "Posterior cricoarytenoid m."
+        ],
+        "explanation": "從 posterior cricoid lamina→vocal process of arytenoid cartilage，是唯一的 vocal cord abductor。其他:1:Sulcus terminalis，2:Superior horn of thyroid cartilage，3:Thyroid cartilage，4:Inferior horn of thyroid cartilage，5:Body of tongue，6:Foramen cecum，7:Root of tongue，8:Aryepiglottic fold，9:Epiglottis，10: Aryepiglottic m.，11:Trachea。",
+        "description": ""
+    }
+]

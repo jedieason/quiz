@@ -1,0 +1,56 @@
+[
+    {
+        "num": "Ear_1",
+        "path": "Ear/Ear_1.webp",
+        "answer": [
+            "Right Incus"
+        ],
+        "explanation": "看到這個畫面請保持鎮定，確認這是 middle ear。謹記 malleus 在內側、前方，incus 在外側、後方的原則，即可判斷三小聽骨。其他:1. TMJ disc, 2. malleus head, 3. incus, 4. stapes, 5. vestibule, 6. cochlea, 7. cut and medially-retied chorda tympani nerve 8. the DML(discomalleolar ligament) and AML(anterior malleolar ligament ) emerging from the malleus anterior process and sectioned in their pre-septal segment.",
+        "description": ""
+    },
+    {
+        "num": "Ear_2",
+        "path": "Ear/Ear_2.webp",
+        "answer": [
+            "Left incus"
+        ],
+        "explanation": "迴力鏢。順帶一提，這是左耳的。至於如何判斷，從 lenticular process 指向內側可知。",
+        "description": ""
+    },
+    {
+        "num": "Ear_3",
+        "path": "Ear/Ear_3.webp",
+        "answer": [
+            "Right malleus"
+        ],
+        "explanation": "總之記得他頭會往後彎，應該就能判斷出來了，請自行體會。",
+        "description": ""
+    },
+    {
+        "num": "Ear_4",
+        "path": "Ear/Ear_4.webp",
+        "answer": [
+            "Right incus"
+        ],
+        "explanation": "請認明 L 型!",
+        "description": ""
+    },
+    {
+        "num": "Ear_5",
+        "path": "Ear/Ear_5.webp",
+        "answer": [
+            "Left malleus"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "Ear_6",
+        "path": "Ear/Ear_6.webp",
+        "answer": [
+            "Incus"
+        ],
+        "explanation": "看到聽小骨，先找出最好認的那隻—stapes(4)!像迴力鏢的就是 incus(3) ，最後就是 malleus(2)。其他:1. TMJ and middle ear space superior and posterior access. * Antero-lateral sample orientation. 1. TMJ disc, 2. malleus head, 3. incus, 4. stapes, 5. vestibule, 6. cochlea, 7. cut and medially-retied chorda tympani nerve, 8. the DML(discomalleolar ligament) and AML(anterior malleolar ligament ) emerging from the malleus anterior process and sectioned in their pre-septal segment.",
+        "description": ""
+    }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "num": "B06_1",
+    "path": "B06/B06_1.webp",
+    "answer": [
+      "(1) Pyramidal decussation (2) Lateral corticospinal tract 交叉至對側",
+      "Pyramidal decussation Lateral corticospinal tract 交叉至對側"
+    ],
+    "explanation": "出處：atlas-3-1 brainstem (anterior)",
+    "description": ""
+  },
+  {
+    "num": "B06_2",
+    "path": "B06/B06_2.webp",
+    "answer": [
+      "(1) Red nucleus (2) Substantia nigra",
+      "Red nucleus Substantia nigra"
+    ],
+    "explanation": "出處：atlas-6-3 midbrain-3",
+    "description": ""
+  },
+  {
+    "num": "B06_3",
+    "path": "B06/B06_3.webp",
+    "answer": [
+      "(A) Solitary nuclei and tract (B) Hypoglossal nerve",
+      "Solitary nuclei and tract Hypoglossal nerve"
+    ],
+    "explanation": "出處：atlas-8-4 medulla-4",
+    "description": ""
+  },
+  {
+    "num": "B06_4",
+    "path": "B06/B06_4.webp",
+    "answer": [
+      "(1) Superior cerebellar peduncle (2) Middle cerebellar peduncle",
+      "Superior cerebellar peduncle Middle cerebellar peduncle"
+    ],
+    "explanation": "06 補充：實際圖片可以比較明顯看到 AB 分別從中腦和橋腦走出。\n出處：atlas-3-4 brainstem (lateroposterior)",
+    "description": ""
+  },
+  {
+    "num": "B06_5",
+    "path": "B06/B06_5.webp",
+    "answer": [
+      "(1) Thalamus (2) Coronal section",
+      "Thalamus Coronal section"
+    ],
+    "explanation": "出處：atlas-2-2 cerebrum: coronal (anterior-posterior)-2",
+    "description": ""
+  },
+  {
+    "num": "B06_6",
+    "path": "B06/B06_6.webp",
+    "answer": [
+      "(1) Prefrontal cortex (2) 工作記憶與作決定",
+      "Prefrontal cortex 工作記憶與作決定"
+    ],
+    "explanation": "出處：atlas-1-1 Cerebrum: lateral view",
+    "description": ""
+  },
+  {
+    "num": "B06_7",
+    "path": "B06/B06_7.webp",
+    "answer": [
+      "(1) Anterior limb of internal capsule (2) Optic radiation",
+      "Anterior limb of internal capsule Optic radiation"
+    ],
+    "explanation": "出處：atlas-2-7 cerebrum: horizontal-2",
+    "description": ""
+  },
+  {
+    "num": "B06_8",
+    "path": "B06/B06_8.webp",
+    "answer": [
+      "(1) Lateral geniculate body (2) Vision",
+      "Lateral geniculate body Vision"
+    ],
+    "explanation": "出處：atlas-6-4 midbrain-4",
+    "description": ""
+  },
+  {
+    "num": "B06_9",
+    "path": "B06/B06_9.webp",
+    "answer": [
+      "(1) Pyramid (2) Olive, inferior olivary nucleus",
+      "Pyramid Olive, inferior olivary nucleus"
+    ],
+    "explanation": "出處：atlas-3-1 brainstem (anterior)",
+    "description": ""
+  },
+  {
+    "num": "B06_10",
+    "path": "B06/B06_10.webp",
+    "answer": [
+      "(1) Falx cerebri (2) Falx cerebelli",
+      "Falx cerebri Falx cerebelli"
+    ],
+    "explanation": "出處：神經解剖學 08 共筆 Vol.1 p.18,19 ； 大體解剖學 08 共筆 Vol.5 p.39",
+    "description": ""
+  },
+  {
+    "num": "B06_11",
+    "path": "B06/B06_11.webp",
+    "answer": [
+      "(1) Paramedian artery (2) Circumferential artery",
+      "Paramedian artery Circumferential artery"
+    ],
+    "explanation": "(1) A 指向 pontine nucleus\n(2) B 指向 facial nucleus\n出處：atlas-7-1 pons-1、神經解剖學 08 共筆 Vol.4 p.19 的圖(只有這張圖有提到兩條血管的名字)、07 神解 Vol.14 p.19",
+    "description": ""
+  },
+  {
+    "num": "B06_12",
+    "path": "B06/B06_12.webp",
+    "answer": [
+      "(1) Vertebral artery (2) C1-C6 transverse foramen",
+      "Vertebral artery C1-C6 transverse foramen"
+    ],
+    "explanation": "出處：神經解剖學 08 共筆 Vol.4 p.18,19 ； 大體解剖學 08 共筆 Vol.5 p.48",
+    "description": ""
+  },
+  {
+    "num": "B06_13",
+    "path": "B06/B06_13.webp",
+    "answer": [
+      "(1) Anterior cerebral artery (2) Vertebral artery",
+      "Anterior cerebral artery Vertebral artery"
+    ],
+    "explanation": "出處：神經解剖學 08 共筆 Vol.4 p.18,19 ； 大體解剖學 08 共筆 Vol.5 p.48,49",
+    "description": ""
+  }
+]

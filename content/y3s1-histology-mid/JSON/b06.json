@@ -1,0 +1,323 @@
+[
+    {
+        "num": "b06_01",
+        "path": "b06/b06_01.webp",
+        "answer": [
+            "Lysosome"
+        ],
+        "explanation": "此圖為EM下的Monocyte，箭頭所指為細胞質中圓形、橢圓形的electron dense構造，為lysosome的特徵。（最右邊小箭頭為滑鼠游標，非指示箭頭）",
+        "description": "寫出箭頭所指的構造(structure)名稱"
+    },
+    {
+        "num": "b06_02",
+        "path": "b06/b06_02.webp",
+        "answer": [
+            "White adipose tissue osmic acid"
+        ],
+        "explanation": "圖中未被染上顏色的細胞中心呈空泡狀，僅少許的細胞質和核被擠到邊緣，此為white adipose的特徵。染色的結果呈現黑色，則是利用osmic acid（鋨酸）做特殊染色，以滲透作用固定油滴，靠近中央的細胞反而因固定液不易滲透而留下空泡。若是以HE stain方法染色，油滴在玻片製作的過程中，會被酒精溶解，成為空泡。",
+        "description": "寫出整個範圍的組織名稱與製備方式"
+    },
+    {
+        "num": "b06_03",
+        "path": "b06/b06_03.webp",
+        "answer": [
+            "Fibrocartilage",
+            "fibrous cartilage"
+        ],
+        "explanation": "圖中的細胞相當小，數個為一群排列成鏈狀，可能為chondrocyte。而圖中matrix很少，也沒有軟骨膜（perichondrium），為Fibrocartilage的特徵。",
+        "description": "寫出視野下組織名稱。Be specific!"
+    },
+    {
+        "num": "b06_04",
+        "path": "b06/b06_04.webp",
+        "answer": [
+            "Sympathetic ganglion",
+            "multipolar neuron"
+        ],
+        "explanation": "圖中所圈的細胞體積大，旁邊有一些很小的細胞緊貼，為neuron cell body的特徵。除此之外，圖中的細胞與fiber混雜，並無明顯的界線，細胞核也偏向一邊，並沒有位於中心，細胞也略呈不規則狀，由此可推知應為sympathetic ganglion，此神經元亦被稱作multipolar neuron。",
+        "description": "寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b06_05",
+        "path": "b06/b06_05.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "此圖為EM下的影像，可見延伸出細胞的長條狀結構為cilia。cilia中的深染區域為motile cilia中的軸絲（axoneme），由9×2+2微管組成。而圖中所指為cilia的基部，稱為basal body，作為axoneme的發生和固著點，由9×3+0微管組成。",
+        "description": "寫出箭頭所指之構造名稱。"
+    },
+    {
+        "num": "b06_06",
+        "path": "b06/b06_06.webp",
+        "answer": [
+            "Macrophage"
+        ],
+        "explanation": "Vital stain是利用活體的macrophage具有吞噬作用，會吃掉染劑的特性，在活體動物打入染劑，使macrophage被染成藍色，容易觀察。",
+        "description": "寫出染上藍色的細胞名稱。"
+    },
+    {
+        "num": "b06_07",
+        "path": "b06/b06_07.webp",
+        "answer": [
+            "Submucosa",
+            "dense irregular connective tissue"
+        ],
+        "explanation": "在圖中黃色箭頭所指之組織上層，為含有多層細胞的複層扁平上皮組織，表面無角質層，可能為食道黏膜層（mucosa）的上皮組織。故在黏膜層之下，黃色箭頭所指之組織即為黏膜下層（submucosa）。另外，由圖中可看見黏膜下層充滿許多各種走向、雜亂無序的collagen fiber，細胞較少，故屬於dense irregular connective tissue。（補充） 06小考後有公佈標準解答，這題原本第一個答案是dermis，這兩個答案自相矛盾，靠近epidermis的dermis應該為LCT，且題目照片為食道切片（H01/6），詢問過學長姐後也確定是該範圍為submucosa。然而submucosa應該不在期中考試範圍中，老師只有口頭念過，故提供正確答案與官方答案供大家參考，考試時自行判斷要寫什麼。",
+        "description": "寫出箭頭所指區域名稱並寫出為哪一種結締組織。"
+    },
+    {
+        "num": "b06_08",
+        "path": "b06/b06_08.webp",
+        "answer": [
+            "Mitochondria"
+        ],
+        "explanation": "此圖為EM下的影像，箭頭所指的橢圓構造有雙層膜，內部含有許多皺褶，顯然為mitochondria。唯須注意mitochondria在細胞內並無固定形狀。",
+        "description": "請問以下箭頭所指的構造為何？"
+    },
+    {
+        "num": "b06_09",
+        "path": "b06/b06_09.webp",
+        "answer": [
+            "Cilia basal body"
+        ],
+        "explanation": "圖中所見之組織乍看下為多層上皮，但實際上為含有basal cell的pseudostratified columnar epithelium。而黃色箭頭所指之構造，在LM下較為整齊，且可分辨出一絲一絲的結構，為cilia的特徵。而在cilia下方，呈現深色的一條細線則為basal body，作為axoneme的發生和固著點。",
+        "description": "寫出黃色箭頭所指區域之結構名稱及紅色箭頭所指之深紅色線之名稱。"
+    },
+    {
+        "num": "b06_10",
+        "path": "b06/b06_10.webp",
+        "answer": [
+            "Dorsal root ganglion",
+            "pseudo-unipolar neuron"
+        ],
+        "explanation": "圖中所指的細胞體積大、圓，細胞核大且位於中央，周圍則有密集微小的satellite cell包圍著，也未與fiber相混雜，為dorsal root ganglion的特徵，此神經元亦被稱作pseudo-unipolar neuron。",
+        "description": "寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b06_11",
+        "path": "b06/b06_11.webp",
+        "answer": [
+            "Satellite cell"
+        ],
+        "explanation": "圖中圓形的大型細胞為dorsal root ganglion，故此題黃色箭頭所指的細胞為包圍ganglion的satellite cell。",
+        "description": "寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b06_12",
+        "path": "b06/b06_12.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cell"
+        ],
+        "explanation": "圖中所圈選的組織靠近管腔，組織本身為單層，每個細胞排列整齊且均附著於basement membrane上，細胞核呈橢圓形且位置靠近底部，細胞呈現柱狀，顯然為simple columnar epithelium。此外，在細胞上方游離面，有一層較淡染、地毯狀的構造，在LM下難以區分出一條一條的細部構造，為microvilli。而在組織中另有些呈空泡狀的細胞，為goblet cell，因含有黏多醣蛋白，在製備玻片時會被溶解，故呈現透明空泡狀。",
+        "description": "寫出虛線所指之組織名稱"
+    },
+    {
+        "num": "b06_13",
+        "path": "b06/b06_13.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "以紅血球作為比例尺，可發現箭頭所指的白血球細胞很大，約有2-3個紅血球大，且細胞質沒有染色顆粒，且細胞核凹陷明顯，可得知此細胞為monocyte。",
+        "description": "寫出箭號所指之細胞名稱"
+    },
+    {
+        "num": "b06_14",
+        "path": "b06/b06_14.webp",
+        "answer": [
+            "Plasma cell"
+        ],
+        "explanation": "圖中可見上皮細胞和管腔，可能為腺體。箭頭所指的細胞位於邊緣，靠近管腔和微血管，細胞核偏向一邊，不在中心，細胞核的外圍和中心較深染，呈現車輪狀，細胞質也有較為淡染、空泡狀的區域，故綜合以上特徵，可推斷為漿細胞。",
+        "description": " 寫出箭頭所指之細胞名稱"
+    },
+    {
+        "num": "b06_15",
+        "path": "b06/b06_15.webp",
+        "answer": [
+            "Bone decalcified bone"
+        ],
+        "explanation": "圖中可見一整片被染成淡紅色的組織，左側有些線狀排列的空洞，右側則有圓形的大型空洞，組織內則有許多小黑點，沿平行線狀空洞或圍繞圓形空洞排列，由此可知此組織為bone。此外，由於此切片被染色為紅色，代表含有有機質，而非含鈣的無機質，故為decalcified bone。",
+        "description": " 寫出視野下組織名稱及製備方法"
+    },
+    {
+        "num": "b06_16",
+        "path": "b06/b06_16.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "圖中圈選的組織圍繞管腔生長，應為上皮組織。乍看下似乎有兩層細胞構成，實際上每個細胞都貼著basement membrane生長，故為單層，稱為pseudostratified columnar epithelium。而在columnar cell上方有細絲狀構造，LM下可分解出一條條的詳細構造，長度長但不整齊，稱為stereocilia。",
+        "description": " 寫出虛線所指之組織名稱"
+    },
+    {
+        "num": "b06_17",
+        "path": "b06/b06_17.webp",
+        "answer": [
+            "Simple cuboidal epithelium"
+        ],
+        "explanation": "圖中虛線所圈出的細胞圍繞管腔整齊分布，細胞核呈圓形，位於細胞正中央，整體細胞呈四方形且僅單層分布，為simple cuboidal epithelium。",
+        "description": " 寫出虛線所指之組織名稱"
+    },
+    {
+        "num": "b06_18",
+        "path": "b06/b06_18.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "此為EM下的影像，箭頭所指的構造縱切呈現管狀，橫切面則可明顯發現由9×3的管狀構造構成，即可知此構造為centriole。（只指一個為centriole）",
+        "description": "寫出箭號所指之構造名稱"
+    },
+    {
+        "num": "b06_19",
+        "path": "b06/b06_19.webp",
+        "answer": [
+            "Nucleolus"
+        ],
+        "explanation": "此為EM下的影像，箭頭所指的構造包含在一個雙層膜、巨大的圓形胞器中，推測此巨大圓形胞器應為細胞核，而箭頭所指處即為細胞核中的核仁（nucleolus）",
+        "description": " 寫出箭號所指之構造名稱"
+    },
+    {
+        "num": "b06_20",
+        "path": "b06/b06_20.webp",
+        "answer": [
+            "Hair cuticle"
+        ],
+        "explanation": "由圖片中可知，箭頭所指之組織，位於一個空腔中，而空腔的上下均有多層的細胞構成組織包圍，並呈現對稱，可推測此空腔為hair follicle。而箭頭所指的淡染、單層的組織，即為hair cuticle。",
+        "description": " 寫出箭號間所指之構造名稱"
+    },
+    {
+        "num": "b06_21",
+        "path": "b06/b06_21.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圖中偏上方有一整片淡黃色不規則狀的組織，帶有許多的黑色小細胞，推測為骨小針（bone spicules）。而箭頭所指的細胞附於骨小針周圍，細胞很大、多核，顏色偏紅，為osteoclast的特徵。",
+        "description": " 寫出箭號所指範圍內細胞名稱"
+    },
+    {
+        "num": "b06_22",
+        "path": "b06/b06_22.webp",
+        "answer": [
+            "Stratum basale"
+        ],
+        "explanation": "圖中的組織可分為2種，上層的組織較為深染，呈現cornified stratified squamous epithelium的特徵，推測為epidermis。而下層的組織較淡染，細胞數少但含有密集的纖維，應為dermis。故黃色虛線所圍的區域，為epidermis的最底層，並與dermis的交界，稱為stratum basale。",
+        "description": " 寫出黃色虛線所圍之層次(layer)名稱"
+    },
+    {
+        "num": "b06_23",
+        "path": "b06/b06_23.webp",
+        "answer": [
+            "Purkinje cell"
+        ],
+        "explanation": "圖中箭頭所指的細胞較大、顏色偏紅，細胞呈現錐狀，可看到細胞有許多process往外伸，為purkinje cell的特徵，亦可判斷此切片為小腦。",
+        "description": " 寫出箭頭所指之細胞名稱"
+    },
+    {
+        "num": "b06_24",
+        "path": "b06/b06_24.webp",
+        "answer": [
+            "Mast cell metachromasia"
+        ],
+        "explanation": "圖中採用的染劑為toluidine blue，應將細胞染為藍色，但此細胞卻被染為紅色，也可觀察出細胞中含有許多顆粒，此為mast cell的特徵。而toluidine blue因染上mast cell中大量的陰離子，使得染劑結構變大，改變折光率，因此變為紅色，此現象稱為metachromasia。",
+        "description": " 寫出染上紅色的細胞名稱，並寫出將染劑由藍轉紅的特性為何"
+    },
+    {
+        "num": "b06_25",
+        "path": "b06/b06_25.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "圖中圈選的組織散布在空腔內，如一串葡萄的形狀。其中的細胞緊密連結，包裹中央的管腔，為choroid plexus的特徵。",
+        "description": " 寫出虛線所圍出之構造名稱"
+    },
+    {
+        "num": "b06_26",
+        "path": "b06/b06_26.webp",
+        "answer": [
+            "A"
+        ],
+        "explanation": "此為LM在低倍下的影像，其中A區的組織可見許多如同甜甜圈狀的構造；然B區的組織則可見許多深染的大型細胞，應為神經元，故B區為神經細胞本體所在的灰質，白質則為A區。",
+        "description": " A或B屬於white matter?"
+    },
+    {
+        "num": "b06_27",
+        "path": "b06/b06_27.webp",
+        "answer": [
+            "Node of Ranvier"
+        ],
+        "explanation": "此圖為osmic acid染色的神經組織。圖中的組織含有許多長條狀的構造，為神經的myelin sheaths，而箭頭所指處，即為兩個myelin sheaths之間的間隔，即為node of Ranvier",
+        "description": " 寫出箭頭所指之構造名稱"
+    },
+    {
+        "num": "b06_28",
+        "path": "b06/b06_28.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "箭頭所指的血球較紅血球大，整顆血球充滿染成藍紫色的顆粒，幾乎無法看見細胞核，此為basophil的特徵。",
+        "description": " 寫出箭頭所指之細胞名稱"
+    },
+    {
+        "num": "b06_29",
+        "path": "b06/b06_29.webp",
+        "answer": [
+            "Tendon skeletal muscle"
+        ],
+        "explanation": "右側的組織有橫紋，細胞核位於細胞邊緣呈橢圓形，且有多核的現象，染色也較紅，為skeletal muscle。圖中左側的組織無橫紋，纖維的走向固定，細胞核呈長條型且位於細胞中央，應為connective tissue。與skeletal muscle相接的connective tissue，稱為tendon，可將skeletal muscle附著於骨骼上。",
+        "description": " 依序寫出黃色虛線左右兩邊組織名稱"
+    },
+    {
+        "num": "b06_30",
+        "path": "b06/b06_30.webp",
+        "answer": [
+            "Smooth muscle",
+            "smooth muscle"
+        ],
+        "explanation": "圖中左側的組織為cross section，可見許多細胞呈圓形，緊密、整齊排列，空隙少且細胞核位於細胞中央，為smooth muscle。右側的組織則是lateral section。細胞核較大，細胞呈紡錘型，排列緊密空隙少，無橫紋，也為smooth muscle。",
+        "description": " 依序寫出綠色虛線左右兩邊組織名稱"
+    },
+    {
+        "num": "b06_31",
+        "path": "b06/b06_31.webp",
+        "answer": [
+            "Elastic cartilage orcein"
+        ],
+        "explanation": "圖中組織有許多橢圓形、圓形空腔，空腔中為一個個細胞，顯然為cartilage。背景則有許多以特殊染色呈現的elastic fiber，故此組織為elastic cartilage。圖中elastic fiber被染成紅棕色，使用染劑為orcein。",
+        "description": " 寫出視野下組織名稱及染色方法"
+    },
+    {
+        "num": "b06_32",
+        "path": "b06/b06_32.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "圖中箭頭所指之白血球大小與紅血球相當，細胞核幾乎充滿整個細胞，並帶有一個小凹陷，而細胞質則無染色顆粒，為lymphocyte的特徵。",
+        "description": " 寫出箭號所指之細胞名稱"
+    },
+    {
+        "num": "b06_33",
+        "path": "b06/b06_33.webp",
+        "answer": [
+            "Volkmann’s canal"
+        ],
+        "explanation": "圖中組織充滿許多空洞，空洞外則有許多黑點空腔圍繞，顯然為bone，空洞則為haversian canal。而箭頭所指的構造在橫向連接了不同的haversian canal，即為Volkmann’s canal。",
+        "description": " 寫出箭號所指範圍內之構造名稱"
+    },
+    {
+        "num": "b06_34",
+        "path": "b06/b06_34.webp",
+        "answer": [
+            "Epiphyseal plate"
+        ],
+        "explanation": "圖為LM下的低倍視野，藍色範圍組織的上下均為bone，而藍色範圍組織則為cartilage，此cartilage會不斷增生，並加長bone的長度，故此構造稱為epiphyseal plate。",
+        "description": " 寫出虛線所以範圍之結構名稱"
+    },
+    {
+        "num": "b06_35",
+        "path": "b06/b06_35.webp",
+        "answer": [
+            "Huxley’s layer",
+            "external root sheath"
+        ],
+        "explanation": "圖中可見一個cross section的構造，多層不同的細胞呈同心圓狀排列，應為hair 的cross section。其中B層的細胞相當厚且多層，排列較不緊密且淡染，應為external root sheath。A層則位於B層之內側，為inner root sheath中多層的Huxley’s layer。較外的inner root sheath為單層的Henle’s layer。",
+        "description": " 寫出A與B所指之構造名稱"
+    }
+]

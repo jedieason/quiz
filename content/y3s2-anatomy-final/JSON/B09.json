@@ -1,0 +1,229 @@
+[
+    {
+        "num": "B09_1",
+        "path": "B09/B09_1.webp",
+        "answer": [
+            "Great saphenous v."
+        ],
+        "explanation": "走在大腿淺層 medial side，注入 femoral vein。欲分辨內外側可看腳拇指和小指。",
+        "description": ""
+    },
+    {
+        "num": "B09_2",
+        "path": "B09/B09_2.webp",
+        "answer": [
+            "Glossopharyngeal n.",
+            "CN9"
+        ],
+        "explanation": "CN9 與 stylopharyngeus m.伴行穿入 pharynx，為重要必考題。",
+        "description": ""
+    },
+    {
+        "num": "B09_3",
+        "path": "B09/B09_3.webp",
+        "answer": [
+            "Buccal n."
+        ],
+        "explanation": "為 mandibular nerve (CN V3)的分支，支配 oral mucosa 之 sensation。穿向 buccinator m.。",
+        "description": ""
+    },
+    {
+        "num": "B09_4",
+        "path": "B09/B09_4.webp",
+        "answer": [
+            "Greater palatine a.",
+            "Greater palatine n."
+        ],
+        "explanation": "穿過 greater palatine foramina，進入口腔內 palate 下方，支配 palate 的感覺。",
+        "description": ""
+    },
+    {
+        "num": "B09_5",
+        "path": "B09/B09_5.webp",
+        "answer": [
+            "Chorda tympani n."
+        ],
+        "explanation": "在 infratemporal fossa 加入 lingual n.。負責舌前 2/3 之味覺。",
+        "description": ""
+    },
+    {
+        "num": "B09_6",
+        "path": "B09/B09_6.webp",
+        "answer": [
+            "Posterior cricoarytenoid m."
+        ],
+        "explanation": "附著在 cricoid cartilage 上，為 vocal cord 的 abductor。為 larynx 之中最明顯之肌肉。",
+        "description": ""
+    },
+    {
+        "num": "B09_7",
+        "path": "B09/B09_7.webp",
+        "answer": [
+            "Levator veli palatini m."
+        ],
+        "explanation": "位在耳咽管開口下方接到軟顎的是 levator veli palatini m.。",
+        "description": ""
+    },
+    {
+        "num": "B09_8",
+        "path": "B09/B09_8.webp",
+        "answer": [
+            "Lingual n."
+        ],
+        "explanation": "Lingual n. 在口腔中會和 Submandibular duct 交叉，負責舌前 1/3 的體感覺。",
+        "description": ""
+    },
+    {
+        "num": "B09_9",
+        "path": "B09/B09_9.webp",
+        "answer": [
+            "Lateral pterygoid m."
+        ],
+        "explanation": "origin 為 greater wing of sphenoid 和 lateral pterygoid plate 的 lateral side。Insertion 為 TMJ joint。",
+        "description": ""
+    },
+    {
+        "num": "B09_10",
+        "path": "B09/B09_10.webp",
+        "answer": [
+            "Hyoglossus m."
+        ],
+        "explanation": "Hyoglossus m. 位在舌頭兩側及後下方，會和 styloglossus m.癒合。",
+        "description": ""
+    },
+    {
+        "num": "B09_11",
+        "path": "B09/B09_11.webp",
+        "answer": [
+            "Styloglossus m."
+        ],
+        "explanation": "由 styloid process 接到舌頭前到後下方，會和 hyoglossus m. 癒合。",
+        "description": ""
+    },
+    {
+        "num": "B09_12",
+        "path": "B09/B09_12.webp",
+        "answer": [
+            "Internal laryngeal n."
+        ],
+        "explanation": "與 superior laryngeal a. 一起穿過 thyrohyoid membrane。往回追沒到 ECA 的是 internal laryngeal n.。",
+        "description": ""
+    },
+    {
+        "num": "B09_13",
+        "path": "B09/B09_13.webp",
+        "answer": [
+            "Anterior cruciate ligament"
+        ],
+        "explanation": "膝蓋打開看到的兩條韌帶，ACL 靠前，方向由內下到外上。",
+        "description": ""
+    },
+    {
+        "num": "B09_14",
+        "path": "B09/B09_14.webp",
+        "answer": [
+            "Malleus"
+        ],
+        "explanation": "有個明顯的頭。迴力鏢形狀的是 Incus。09 不用分左右。",
+        "description": ""
+    },
+    {
+        "num": "B09_15",
+        "path": "B09/B09_15.webp",
+        "answer": [
+            "Condyloid process of mandible"
+        ],
+        "explanation": "Mandible 上方的兩個 process，後面的叫 condyloid process，會形成 TMJ 的一部份。",
+        "description": ""
+    },
+    {
+        "num": "B09_16",
+        "path": "B09/B09_16.webp",
+        "answer": [
+            "Long plantar ligament"
+        ],
+        "explanation": "足底觀。靠外側，從 Calcaneous 的足底後側連到 cuboid bone，幫助外側足弓形成。",
+        "description": ""
+    },
+    {
+        "num": "B09_17",
+        "path": "B09/B09_17.webp",
+        "answer": [
+            "Fibular artery"
+        ],
+        "explanation": "小腿後側。辨識方法：看到 medial malleolus，此動脈走在 flexor hallucis longus 下面且末端隱沒。",
+        "description": ""
+    },
+    {
+        "num": "B09_18",
+        "path": "B09/B09_18.webp",
+        "answer": [
+            "Tendon of fibularis longus"
+        ],
+        "explanation": "從外側繞，在足底由外後側走到前內側。繞過 lateral malleolus 後方連到 1st metatarsal bone。",
+        "description": ""
+    },
+    {
+        "num": "B09_19",
+        "path": "B09/B09_19.webp",
+        "answer": [
+            "Sural Cutaneous n."
+        ],
+        "explanation": "一般為 tibial n.及 common fibular n.向下會合的神經。",
+        "description": ""
+    },
+    {
+        "num": "B09_20",
+        "path": "B09/B09_20.webp",
+        "answer": [
+            "tibialis posterior m."
+        ],
+        "explanation": "夾在 Flexor hallucis longus m.及 flexor digitorum longus m.之間 (這是左腳 posterior view)。",
+        "description": ""
+    },
+    {
+        "num": "B09_21",
+        "path": "B09/B09_21.webp",
+        "answer": [
+            "Tibial collateral ligament"
+        ],
+        "explanation": "在 knee joint 的內側，和 medial meniscus 緊連。出處:Rohen 8e p.463",
+        "description": ""
+    },
+    {
+        "num": "B09_22",
+        "path": "B09/B09_22.webp",
+        "answer": [
+            "Sartorius m."
+        ],
+        "explanation": "淺層，斜走，由側到中。其他:你是 Femoral a.、我是 adductor longus m.。",
+        "description": ""
+    },
+    {
+        "num": "B09_23",
+        "path": "B09/B09_23.webp",
+        "answer": [
+            "Lateral circumflex femoral artery"
+        ],
+        "explanation": "從 deep femoral artery 分出後往外走。詳見原表分支說明。",
+        "description": ""
+    },
+    {
+        "num": "B09_24",
+        "path": "B09/B09_24.webp",
+        "answer": [
+            "Anterior branch of obturator n."
+        ],
+        "explanation": "obturator n.被 adductor brevis m.分成 anterior/posterior 兩分支。支配 adductor longus/brevis m.。",
+        "description": ""
+    },
+    {
+        "num": "B09_25",
+        "path": "B09/B09_25.webp",
+        "answer": [
+            "Semimembranosus m."
+        ],
+        "explanation": "靠近膝蓋像膜狀，從 ischial tuberosity 連到 a groove on the medial condyle of tibia。",
+        "description": ""
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "num": "b04lab_01",
+        "path": "b04lab/b04lab_01.webp",
+        "answer": [
+            "Atlas"
+        ],
+        "explanation": "具有articular facets，可以承接occipital condyle 【出處】共筆Vol.1 p.17",
+        "description": "此塊骨頭？"
+    },
+    {
+        "num": "b04lab_02",
+        "path": "b04lab/b04lab_02.webp",
+        "answer": [
+            "Supraorbital notch"
+        ],
+        "explanation": "為 superciliary arch 上面的缺口，supraorbital n.（V1的分支）通過 【出處】共筆Vol.2 p.17",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_03",
+        "path": "b04lab/b04lab_03.webp",
+        "answer": [
+            "Supraspinous fossa"
+        ],
+        "explanation": "有supraspinatus m.附著 【出處】共筆Vol.4 p.9",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_04",
+        "path": "b04lab/b04lab_04.webp",
+        "answer": [
+            "Anterior inferior iliac spine"
+        ],
+        "explanation": "【出處】共筆Vol.5 p.2",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_05",
+        "path": "b04lab/b04lab_05.webp",
+        "answer": [
+            "Medial pterygoid plate"
+        ],
+        "explanation": "下方有hamulus勾狀突起 【出處】共筆Vol.3 p.21",
+        "description": "此片狀構造？"
+    },
+    {
+        "num": "b04lab_06",
+        "path": "b04lab/b04lab_06.webp",
+        "answer": [
+            "Surgical neck of humerus"
+        ],
+        "explanation": "易因過度受力而斷裂。此處有 axillary nerve與 posterior circumferential humeral arteries經過 【出處】共筆Vol.4 p.16",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_07",
+        "path": "b04lab/b04lab_07.webp",
+        "answer": [
+            "Pubic crest"
+        ],
+        "explanation": "與 pubic symphysis 相接的膨大部分，可從外表摸到的構造。 【出處】共筆Vol.5 p.6",
+        "description": "構造B？"
+    },
+    {
+        "num": "b04lab_08",
+        "path": "b04lab/b04lab_08.webp",
+        "answer": [
+            "Carotid canal"
+        ],
+        "explanation": "在 foramen lacerum 旁邊，internal carotid artery (ICA)通過 【出處】共筆Vol.2 p.25",
+        "description": "鎳子比的孔洞？"
+    },
+    {
+        "num": "b04lab_09",
+        "path": "b04lab/b04lab_09.webp",
+        "answer": [
+            "Olecranon fossa"
+        ],
+        "explanation": "可以容納 ulna 後上方的 olecranon 【出處】共筆Vol.4 p.21",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_10",
+        "path": "b04lab/b04lab_10.webp",
+        "answer": [
+            "Hypoglossal canal"
+        ],
+        "explanation": "通過hypoglossal n.(XII) 【出處】共筆Vol.2 p.34",
+        "description": "此構造？（B00）"
+    },
+    {
+        "num": "b04lab_11",
+        "path": "b04lab/b04lab_11.webp",
+        "answer": [
+            "Capitulum"
+        ],
+        "explanation": "連接 head of radius。注意這是左手 【出處】共筆Vol.4 p.19",
+        "description": "此構造？（B01）"
+    },
+    {
+        "num": "b04lab_12",
+        "path": "b04lab/b04lab_12.webp",
+        "answer": [
+            "Lesser sciatic notch"
+        ],
+        "explanation": "在ischial spine和ischial tuberosity之間 【出處】共筆Vol.5 p.5",
+        "description": "此構造？（B02）"
+    },
+    {
+        "num": "b04lab_13",
+        "path": "b04lab/b04lab_13.webp",
+        "answer": [
+            "Styloid process of ulna"
+        ],
+        "explanation": "是個重要的surface landmark 【出處】共筆Vol.4 p.23",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_14",
+        "path": "b04lab/b04lab_14.webp",
+        "answer": [
+            "Superior articular process"
+        ],
+        "explanation": "1. Spinous process 3. Superior articular process 5. Pedicle 6. Vertebral body 8. Transverse costal facet 9. Inferior articular process 【出處】共筆Vol.1 p.12",
+        "description": "構造3？"
+    },
+    {
+        "num": "b04lab_15",
+        "path": "b04lab/b04lab_15.webp",
+        "answer": [
+            "Tibial tuberosity"
+        ],
+        "explanation": "ligamentum patellae附著之處。注意這是左腳 【出處】共筆Vol.5 p.18",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_16",
+        "path": "b04lab/b04lab_16.webp",
+        "answer": [
+            "Foramen spinosum"
+        ],
+        "explanation": "middle meningeal a.通過 【出處】共筆Vol.2 p.30",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_17",
+        "path": "b04lab/b04lab_17.webp",
+        "answer": [
+            "Supinator crest"
+        ],
+        "explanation": "連接 supinator muscle（supination：翻轉手掌掌心向上） 【出處】共筆Vol.4 p.21",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_18",
+        "path": "b04lab/b04lab_18.webp",
+        "answer": [
+            "Anterior sacral foramina"
+        ],
+        "explanation": "相當於intervertebral foramen，spinal nerve 在此分支並穿出 【出處】共筆Vol.1 p.26",
+        "description": "這些孔洞？"
+    },
+    {
+        "num": "b04lab_19",
+        "path": "b04lab/b04lab_19.webp",
+        "answer": [
+            "Xiphoid process of sternum",
+            "Xiphisternum"
+        ],
+        "explanation": "是個surface landmark 【出處】共筆Vol.1 p.35",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_20",
+        "path": "b04lab/b04lab_20.webp",
+        "answer": [
+            "Superior orbital fissure"
+        ],
+        "explanation": "通過oculomotor n.(III)、trochlear n.(IV)、ophthalmic n.(V1)、abducens n.(VI) 【出處】共筆Vol.2 p.30",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_21",
+        "path": "b04lab/b04lab_21.webp",
+        "answer": [
+            "Anterior clinoid process"
+        ],
+        "explanation": "lesser wing 往後方延伸的兩根突起 【出處】共筆Vol.2 p.23",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_22",
+        "path": "b04lab/b04lab_22.webp",
+        "answer": [
+            "Radial tuberosity"
+        ],
+        "explanation": "在 ulna 上有對應的結構 fossa for radial tuberosity，可容納之。為 biceps brachii 連接處 比較：ulnar tuberosity是brachialis的連接處 【出處】共筆Vol.4 p.24",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_23",
+        "path": "b04lab/b04lab_23.webp",
+        "answer": [
+            "Lesser tubercle of humerus"
+        ],
+        "explanation": "有subscapularis m. 附著 【出處】共筆Vol.4 p.16",
+        "description": "藍色笑臉？"
+    },
+    {
+        "num": "b04lab_24",
+        "path": "b04lab/b04lab_24.webp",
+        "answer": [
+            "Patella"
+        ],
+        "explanation": "【出處】共筆Vol.5 p.23",
+        "description": "骨頭名稱？"
+    },
+    {
+        "num": "b04lab_25",
+        "path": "b04lab/b04lab_25.webp",
+        "answer": [
+            "Internal acoustic meatus"
+        ],
+        "explanation": "有facial n.(VII)和vestibulocochlear n.(VIII)通過。其中facial n.再從stylomastoid foramen穿出 【出處】共筆Vol.2 p.32",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_26",
+        "path": "b04lab/b04lab_26.webp",
+        "answer": [
+            "Coronoid process of ulna"
+        ],
+        "explanation": "於手臂 flexion 時套進 humerus 的coronoid fossa 【出處】共筆Vol.4 p.21",
+        "description": "此構造？（Be specific）"
+    },
+    {
+        "num": "b04lab_27",
+        "path": "b04lab/b04lab_27.webp",
+        "answer": [
+            "Lateral epicondyle of humerus"
+        ],
+        "explanation": "位在手肘外側，摸得到 【出處】共筆Vol.4 p.20",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_28",
+        "path": "b04lab/b04lab_28.webp",
+        "answer": [
+            "Coronoid process of mandible"
+        ],
+        "explanation": "【出處】共筆Vol.3 p.22",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_29",
+        "path": "b04lab/b04lab_29.webp",
+        "answer": [
+            "Right subclavian a."
+        ],
+        "explanation": "【出處】共筆Vol.6 p.19",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_30",
+        "path": "b04lab/b04lab_30.webp",
+        "answer": [
+            "Internal iliac vein (Left)"
+        ],
+        "explanation": "A. Common iliac a. B. Common iliac v. C. Internal iliac v. D. External iliac a. E. Internal iliac a. F. External iliac v. 【出處】共筆Vol.6 p.36、共筆Vol.6 p.57",
+        "description": "構造C？"
+    },
+    {
+        "num": "b04lab_31",
+        "path": "b04lab/b04lab_31.webp",
+        "answer": [
+            "Coronary sinus"
+        ],
+        "explanation": "直接注入right atrium 【出處】共筆Vol.6 p.6",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_32",
+        "path": "b04lab/b04lab_32.webp",
+        "answer": [
+            "Azygos vein"
+        ],
+        "explanation": "由Rt. posterior intercostal v.、Rt. subcostal v.、Rt. ascending lumbar v.匯流而成，也接收左上胸壁的accessory hemiazygos v，和左下胸壁的hemiazygos v.，將來自IVC (inferior vena cava)的血液流到SVC  【出處】共筆Vol.6 p.53",
+        "description": "此構造？"
+    },
+    {
+        "num": "b04lab_33",
+        "path": "b04lab/b04lab_33.webp",
+        "answer": [
+            "Radial a. (Left)"
+        ],
+        "explanation": "subclavian a.à（rib 1）àaxillary a.à（teres major）àbrachial a.à（elbow joint）à radial a. & ulnar a. àdeep & superficial palmar arch 此條血管很表層可用於量脈搏 【出處】共筆Vol.6 p.25",
+        "description": "此血管？"
+    },
+    {
+        "num": "b04lab_34",
+        "path": "b04lab/b04lab_34.webp",
+        "answer": [
+            "Mitral valve"
+        ],
+        "explanation": "【出處】共筆Vol.6 p.8",
+        "description": "此構造？"
+    }
+]

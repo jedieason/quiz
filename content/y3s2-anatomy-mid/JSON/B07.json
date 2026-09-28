@@ -1,0 +1,193 @@
+[
+    {
+        "num": "B07_1",
+        "path": "B07/B07_1.webp",
+        "answer": [
+            "Buccal branch of facial nerve"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_2",
+        "path": "B07/B07_2.webp",
+        "answer": [
+            "Ophthalmic artery"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_3",
+        "path": "B07/B07_3.webp",
+        "answer": [
+            "Buccinator muscle",
+            "Buccinator m."
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_4",
+        "path": "B07/B07_4.webp",
+        "answer": [
+            "Superficial temporal artery"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_5",
+        "path": "B07/B07_5.webp",
+        "answer": [
+            "Anterior scalene muscle",
+            "Anterior scalene m."
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_6",
+        "path": "B07/B07_6.webp",
+        "answer": [
+            "Abducens n.",
+            "Abducens nerve",
+            "CN6"
+        ],
+        "explanation": "從 pons 及 medulla oblongata 交界處發出，在 CN3 的 lateral 側， 往前穿過 superior orbital fissure 支配 lateral rectus m.。1：oculomotor n. (右側的 CN3 是被剪斷後往前壓 的狀態，左側是完整的)。2：lateral rectus m.。4：cerebellum 5：pons",
+        "description": ""
+    },
+    {
+        "num": "B07_7",
+        "path": "B07/B07_7.webp",
+        "answer": [
+            "Left recurrent laryngeal n.",
+            "Left recurrent laryngeal nerve"
+        ],
+        "explanation": "走在氣管左側，從下方穿入 thyroid gland 原題目 為 right recurrent laryngeal n.，但找不到圖片所以 用了左邊的。",
+        "description": ""
+    },
+    {
+        "num": "B07_8",
+        "path": "B07/B07_8.webp",
+        "answer": [
+            "Superior sagittal sinus"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B07_9",
+        "path": "B07/B07_9.webp",
+        "answer": [
+            "Filum terminale internum"
+        ],
+        "explanation": "從 conus medullaris 往下延伸，由 pia mater 構成， 旁邊 是 cuada equina",
+        "description": ""
+    },
+    {
+        "num": "B07_10",
+        "path": "B07/B07_10.webp",
+        "answer": [
+            "Anterior inferior cerebellar a.",
+            "Anterior inferior cerebellar artery"
+        ],
+        "explanation": "vertebral a.匯聚成 basilar a.後的第一個分支。LPCA： left posterior communicating a.。RPoCA： right posterior cerebral a.。LPICA： left posterior inferior cerebellar a.。ALVA： accessory left vertebral a.。",
+        "description": ""
+    },
+    {
+        "num": "B07_11",
+        "path": "B07/B07_11.webp",
+        "answer": [
+            "Arachnoid granulations"
+        ],
+        "explanation": "17 為 Granular foveolae，是 arachnoid granulation 的壓跡。 其他：16-sagittal suture、18-emissary vein(會貫穿頭骨)、 19-grooves for branches of middle meningeal vessels(側邊壓痕)",
+        "description": ""
+    },
+    {
+        "num": "B07_12",
+        "path": "B07/B07_12.webp",
+        "answer": [
+            "Inferior rectus muscle",
+            "Inferior rectus m."
+        ],
+        "explanation": "其他：1-Medial rectus muscle、4- lateral rectus muscle、5- sclera",
+        "description": ""
+    },
+    {
+        "num": "B07_13",
+        "path": "B07/B07_13.webp",
+        "answer": [
+            "Sigmoidal sinus"
+        ],
+        "explanation": "可見 confluence of sinus、transverse sinus，從與其 他 sinus 相接的方式、形狀，判 斷其為 sigmoidal sinus。",
+        "description": ""
+    },
+    {
+        "num": "B07_14",
+        "path": "B07/B07_14.webp",
+        "answer": [
+            "Abducens nerve"
+        ],
+        "explanation": "4 號肌肉為 lateral rectus muscle，由 abducens nerve 支配。其他：1-Medial rectus m、2- inferior rectus muscle、5- sclera",
+        "description": ""
+    },
+    {
+        "num": "B07_15",
+        "path": "B07/B07_15.webp",
+        "answer": [
+            "Inferior oblique m.",
+            "Inferior oblique muscle"
+        ],
+        "explanation": "可由位置及走向判斷，由 oculomotor n. 支配，從 maxillary bone → lateral wall of eyeball。",
+        "description": ""
+    },
+    {
+        "num": "B07_16",
+        "path": "B07/B07_16.webp",
+        "answer": [
+            "Denticulate ligament Pia mater"
+        ],
+        "explanation": "Denticulate ligament：由包覆 spinal cord 的 pia mater 向外延伸，與 dura mater(2 號構造)黏在一起。功能是將 spinal cord 固定在 dura mater 上，有 21 對。",
+        "description": ""
+    },
+    {
+        "num": "B07_17",
+        "path": "B07/B07_17.webp",
+        "answer": [
+            "Superior thyroid a.",
+            "Superior thyroid artery"
+        ],
+        "explanation": "可清楚看見他從 ECA 分出(第一條分支)，並分出 superior laryngeal a.(2) 和 internal br. of superior laryngeal n.(1) 一起穿過 thyrohyoid membrane。 5 是 external branch of superior laryngeal n. (external laryngeal n.，支配 corticothyroid m.、inf. constrictor)，4 是 ECA。(1). Internal branch of superior laryngeal n. (2). Superior laryngeal a. (3). Superior thyroid a. (4). External carotid a. (5). External branch of superior laryngeal n.",
+        "description": ""
+    },
+    {
+        "num": "B07_18",
+        "path": "B07/B07_18.webp",
+        "answer": [
+            "Infraorbital n.",
+            "Infraorbital nerve"
+        ],
+        "explanation": "屬於 CNV2 的分支，與 Infraorbital v./a.，一起從 infraorbital foramen 走出。",
+        "description": ""
+    },
+    {
+        "num": "B07_19",
+        "path": "B07/B07_19.webp",
+        "answer": [
+            "Right vagus n.",
+            "Right vagus nerve"
+        ],
+        "explanation": "右邊那條是 common carotid artery，上面可見其分 支為 external/internal carotid artery。 Internal jugular vein/common carotid artery/vagus n. 原本一起在 carotid sheat 中, 此 圖的 sheath 已破 壞，IJV 已去除。",
+        "description": ""
+    },
+    {
+        "num": "B07_20",
+        "path": "B07/B07_20.webp",
+        "answer": [
+            "Subclavian vein"
+        ],
+        "explanation": "anterior scalene m.(2,探針所指位置)上方，clavicle 下方 (1). Subclavian vein (2). Anterior scalene m.",
+        "description": ""
+    }
+]

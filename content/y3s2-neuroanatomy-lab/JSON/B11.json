@@ -1,0 +1,518 @@
+[
+  {
+    "num": "B11_1",
+    "path": "B11/B11_1.webp",
+    "answer": [
+      "(1) Corticospinal tract (2) Hypoglossal nerve",
+      "Corticospinal tract Hypoglossal nerve"
+    ],
+    "explanation": "此切片為 medulla 的 level of inferior olive，A 為 pyramid，內有 corticospinal tract 與 corticobulbar tract，B 為 hypoglossal nerve，從 pyramid 和 olive 之間發出。\n【出處】atlas-8-4 medulla-4",
+    "description": "(1)A 含有的神經纖維？(2)B 是哪一條腦神經？"
+  },
+  {
+    "num": "B11_2",
+    "path": "B11/B11_2.webp",
+    "answer": [
+      "(1) pineal gland (2) trochlear nerve",
+      "pineal gland trochlear nerve"
+    ],
+    "explanation": "此圖為 brainstem 後面觀。\nA 為 pineal gland，位在第三腦室後壁，四疊體的上方。\nB 為 trochlear nerve，是唯一從背側發出的腦神經。\n【出處】atlas-3-6 brainstem (posterior with rhomboid fossa)",
+    "description": "(1)A 是什麼構造？(2)B 是什麼腦神經？"
+  },
+  {
+    "num": "B11_3",
+    "path": "B11/B11_3.webp",
+    "answer": [
+      "(1) Cuneate fasciculus (2) Pyramidal decussation",
+      "Cuneate fasciculus Pyramidal decussation"
+    ],
+    "explanation": "此切片為 medulla 的 level of pyramidal decussation，B 即為 pyramidal decussation，A 為 posterior column 中較外側的 cuneate fasciculus。(正常來說 nucleus 為淡染 fasciculus 為深染，此圖不明顯，但以位置來說，nucleus 較靠近內部，fasciculus 較靠外)\n【出處】atlas-8-1 medulla-1",
+    "description": "(1)A 是什麼構造？(2)B 是什麼構造？"
+  },
+  {
+    "num": "B11_4",
+    "path": "B11/B11_4.webp",
+    "answer": [
+      "(1) Gracile nucleus (2) Inferior cerebellar peduncle / inferior cerebellar tract / climbing fibers",
+      "Gracile nucleus Inferior cerebellar peduncle / inferior cerebellar tract / climbing fibers"
+    ],
+    "explanation": "此切片為 medulla 的 level of inferior olive，靠背側圈起來的四個核區由內而外分別為 Hypoglossal nucleus, dorsal motor nucleus of vagus, cuneate nucleus, 及最外側的 A: gracile nucleus。\nB 為 olivocerebellar fibers，inferior olive 會發出 climbing fiber 經由下小腦角 inferior cerebellar peduncle 進入小腦。\n【出處】atlas-8-4 medulla-4",
+    "description": "(1)A 構造？(2) B 由何處進入小腦？"
+  },
+  {
+    "num": "B11_5",
+    "path": "B11/B11_5.webp",
+    "answer": [
+      "(A) (1) Solitary tract (2) Gustatory (and visceral) sensory",
+      "Solitary tract Gustatory (and visceral) sensory"
+    ],
+    "explanation": "A 為深染的 Solitary tract，功能為傳遞味覺(SVA)與內臟感覺(GVA)。\nSVA 與 GVA 均為 CN7, 9, 10 傳到孤立徑核 nucleus of solitary tract。\n【出處】atlas-8-5 medulla-5, B12 共筆 vol.4 p.15-17",
+    "description": "(1)A 是什麼構造？(2)A 的功能是什麼？"
+  },
+  {
+    "num": "B11_6",
+    "path": "B11/B11_6.webp",
+    "answer": [
+      "(1) Transverse pontine fibers (2) Trigeminal nerve",
+      "Transverse pontine fibers Trigeminal nerve",
+      "(1) Transverse pontine fibers (2) CN V",
+      "Transverse pontine fibers CN V",
+      "(1) pontocerebellar fibers (2) Trigeminal nerve",
+      "pontocerebellar fibers Trigeminal nerve",
+      "(1) pontocerebellar fibers (2) CN V",
+      "pontocerebellar fibers CN V"
+    ],
+    "explanation": "此切片為 pons 的 level of trigeminal nerve，有大量橫走 fiber，即 A: Transverse pontine (pontocerebellar) fibers，B 為很粗的 trigeminal nerve。\n【出處】atlas-7-2 pons-2",
+    "description": "(1)A 箭頭所指為何種神經纖維？ (2)B 所指為何種神經？"
+  },
+  {
+    "num": "B11_7",
+    "path": "B11/B11_7.webp",
+    "answer": [
+      "(1) Facial nerve (2) Abducens nerve",
+      "Facial nerve Abducens nerve",
+      "(1) Facial nerve (2) CN VI",
+      "Facial nerve CN VI",
+      "(1) CN VII (2) Abducens nerve",
+      "CN VII Abducens nerve",
+      "(1) CN VII (2) CN VI",
+      "CN VII CN VI"
+    ],
+    "explanation": "此切片為 pons 的 level of facial colliculus，facial colliculus 下方為 facial nerve 的轉折(genu)與 abducens nucleus，故 B 為 facial nerve，A 為 abducens nerve。\n【出處】atlas-7-1 pons-1",
+    "description": "(1)綠色虛線 B 為什麼構造？(2) 綠色虛線 A 為什麼構造？"
+  },
+  {
+    "num": "B11_8",
+    "path": "B11/B11_8.webp",
+    "answer": [
+      "(1) hearing (2) basilar artery",
+      "hearing basilar artery"
+    ],
+    "explanation": "此切片為 level of pons-midbrain junction\nA 為 Lateral lemniscus，位在上小腦角外側，負責傳遞聽覺至 inferior colliculus。\nB 為 pons 腹側中央血管 basilar artery。\n【出處】atlas-7-3 pons-3, B12 共筆 vol.3 p. 8",
+    "description": "(1)A 的功能是什麼？ (2)B 是什麼構造？"
+  },
+  {
+    "num": "B11_9",
+    "path": "B11/B11_9.webp",
+    "answer": [
+      "(1) Lateral lemniscus (2) Pain",
+      "Lateral lemniscus Pain"
+    ],
+    "explanation": "此切片為 level of inferior colliculus。\nA 為 Lateral lemniscus，V 字形夾著 inferior colliculus。\nB 為 Periaqueductal gray，與痛覺訊息調控(止痛)有關。\n【出處】atlas-6-1 midbrain-1, B12 共筆 vol.3 p. 7",
+    "description": "(1)A 箭頭所指構造名稱？(2) 圖中 B 構造與什麼感覺調控有關？"
+  },
+  {
+    "num": "B11_10",
+    "path": "B11/B11_10.webp",
+    "answer": [
+      "(1) Trochlear nucleus (2) Substantia nigra",
+      "Trochlear nucleus Substantia nigra"
+    ],
+    "explanation": "此切片為 level of inferior colliculus，Trochlear nucleus 在 PAG 的腹側，Substantia nigra 則在大腦腳的背側。\n【出處】B12 Vol.3 p.38",
+    "description": "(1)A 構造名稱？(2)B 構造名稱？"
+  },
+  {
+    "num": "B11_11",
+    "path": "B11/B11_11.webp",
+    "answer": [
+      "(1) Superior colliculus (2) Red nucleus",
+      "Superior colliculus Red nucleus"
+    ],
+    "explanation": "此切片為 level of superior colliculus，紅核在此切面下為明顯的橢圓形輪廓。\n【出處】B12 Vol.3 p.10",
+    "description": "(1)A 構造是？(2)B 構造是？"
+  },
+  {
+    "num": "B11_12",
+    "path": "B11/B11_12.webp",
+    "answer": [
+      "(1) Cerebral peduncle (2) Corticopontine, corticobulbar and corticospinal fibers",
+      "Cerebral peduncle Corticopontine, corticobulbar and corticospinal fibers"
+    ],
+    "explanation": "此切片為 level of inferior colliculus，通過 corticopontine fibers、corticobulbar fibers、corticospinal fibers，也就是從 cerebral cortex 下行的纖維\n【出處】B12 Vol.3 p.10",
+    "description": "(1) 請問白框內的構造為何？(2) 請問通過哪些神經纖維？"
+  },
+  {
+    "num": "B11_13",
+    "path": "B11/B11_13.webp",
+    "answer": [
+      "(1) thalamus (2) 3rd ventricle",
+      "thalamus 3rd ventricle"
+    ],
+    "explanation": "thalamus 中間會夾著 3rd ventricle。\n【出處】atlas-2-7 cerebrum",
+    "description": "(1)A 構造？(2)B 構造？"
+  },
+  {
+    "num": "B11_14",
+    "path": "B11/B11_14.webp",
+    "answer": [
+      "(1) mammillary body (2) anterior commissure",
+      "mammillary body anterior commissure"
+    ],
+    "explanation": "A 為 fornix，會由 hippocampus 投射到 mammillary body。\nB 為 anterior commissure，負責聯繫左右 temporal lobe / olfactory cortex\n【出處】atlas-9-4 diencephalon-4",
+    "description": "(1)請問 A 投射到何處？(寫主要) (2)B 構造為何？"
+  },
+  {
+    "num": "B11_15",
+    "path": "B11/B11_15.webp",
+    "answer": [
+      "(1) Ventromedial Nucleus (2) Posterior Nucleus",
+      "Ventromedial Nucleus Posterior Nucleus"
+    ],
+    "explanation": "可複習錢老師範圍：\nAnterior hypothalamus：parasympathetic、散熱\nPosterior hypothalamus：sympathetic、保溫",
+    "description": "(1) 所指構造為何（ 飽足中樞）？(2) 所指構造為何（sympathetic 功能）？"
+  },
+  {
+    "num": "B11_16",
+    "path": "B11/B11_16.webp",
+    "answer": [
+      "(1) olivocerebellar fiber (2) Purkinje dendrite",
+      "olivocerebellar fiber Purkinje dendrite"
+    ],
+    "explanation": "藍色所指神經纖維為 olivocerebellar fibers (climbing fibers) 起源於 inferior olivary nucleus 並經由 inferior cerebellar peduncle 進入 cerebellum，會投射到對側小腦的 Purkinje cell dendrites\n【出處】B12 Vol.4 p.79",
+    "description": "(1)請問藍色所指神經纖維為何？(2)投射到何處？"
+  },
+  {
+    "num": "B11_17",
+    "path": "B11/B11_17.webp",
+    "answer": [
+      "(1) dentate nucleus (2) ventral lateral nucleus of thalamus",
+      "dentate nucleus ventral lateral nucleus of thalamus",
+      "(1) dentate nucleus (2) VL nucleus of thalamus",
+      "dentate nucleus VL nucleus of thalamus"
+    ],
+    "explanation": "此為小腦切片，可見鋸齒狀的 dentate nucleus，會經由 superior cerebellar peduncle 投射去對側的紅核 and Ventral lateral (VL) nucleus of thalamus。\n【出處】B11 Vol.6 p.32",
+    "description": "(1) A 箭號所指構造？(2) 此構造投射到 thalamus 哪個腦區？"
+  },
+  {
+    "num": "B11_18",
+    "path": "B11/B11_18.webp",
+    "answer": [
+      "(1) pontocerebellar fibers (2) middle cerebellar peduncle",
+      "pontocerebellar fibers middle cerebellar peduncle"
+    ],
+    "explanation": "此切片為 level of trigeminal nerve，在 pons 中段，其中橫走的 fiber 為 pontocerebellar fibers。\n路徑：cerebral cortex → corticopontine fibers → pontine nuclei → pontocerebellar fibers → cerebellum\n【出處】B12 Vol.4 p.86",
+    "description": "(1)紅箭頭所指構造是什麼？(2)從什麼構造進入小腦?？"
+  },
+  {
+    "num": "B11_19",
+    "path": "B11/B11_19.webp",
+    "answer": [
+      "(1) Ventral anterior nucleus (2) premotor motor areas, supplementary motor areas, cingulate motor area",
+      "Ventral anterior nucleus premotor motor areas, supplementary motor areas, cingulate motor area"
+    ],
+    "explanation": "VA 會將處理過後較高階、曖昧的運動指令，投射到大腦皮質中較高階的運動區域，包含 premotor motor areas、supplementary motor areas（SMA）以及 cingulate motor area（或 prefrontal cortex）\n【出處】atlas-9-5-diencephalon、B11 共筆 vol.13 p.26, vol.10 p.58",
+    "description": "(1)A 是什麼核區？(2)A 會將訊息船至大腦 cortex 的哪一區域？"
+  },
+  {
+    "num": "B11_20",
+    "path": "B11/B11_20.webp",
+    "answer": [
+      "(1) 1 (2) Stria medullaris",
+      "1 Stria medullaris"
+    ],
+    "explanation": "【出處】atlas-9-5-diencephalon",
+    "description": "(1)1, 2, 3 何者為 projection neuron？(2)A 構造為何？"
+  },
+  {
+    "num": "B11_21",
+    "path": "B11/B11_21.webp",
+    "answer": [
+      "(1) Inferior parietal lobule (2) receptive language area",
+      "Inferior parietal lobule receptive language area"
+    ],
+    "explanation": "Inferior parietal lobule 位於 Parietal lobe，由 intraparietal sulcus 將頂葉上下區分後，位於下方的部分，可再細分為前方的 supramarginal gyrus 與後方的 angular gyrus，為 Receptive language area 並不屬於 Wernicke's area（Wernicke's area 主要是指顳上迴後段的 posterior part of superior temporal gyrus）\n【出處】atlas-1-1-Cerebrum: lateral view、B11 共筆 vol.7 p.28",
+    "description": "(1)圈起區域的構造為何？(2) 圈起區域的功能為何？"
+  },
+  {
+    "num": "B11_22",
+    "path": "B11/B11_22.webp",
+    "answer": [
+      "(A) Fornix (B) Hippocampus and mammillary body",
+      "Fornix Hippocampus and mammillary body"
+    ],
+    "explanation": "Fornix 為一 C 字形的神經束，位於 Thalamus 的內上方、Septum pellucidum 的下方，是海馬迴（Hippocampus）最重要的 efferent pathway，Fornix 會收集 Hippocampus 的訊息，並由後往前傳遞，最終其 column 的 post-commissural portion 會終止並連結到下視丘的乳頭體（Mammillary body）。\n【出處】atlas-1-2-cerebrum: medial view、B11 共筆 vol.8 p.60",
+    "description": "(1)B 是什麼構造？(2) B 連接哪兩個腦區？"
+  },
+  {
+    "num": "B11_23",
+    "path": "B11/B11_23.webp",
+    "answer": [
+      "(1) Dorsal/Posterior spinocerebellar tract (2) C8-L3 unconscious proprioception",
+      "Dorsal/Posterior spinocerebellar tract C8-L3 unconscious proprioception"
+    ],
+    "explanation": "Dorsal / Posterior spinocerebellar tract 之神經纖維同側上行不交叉，最終經由 inferior cerebellar peduncle 傳入小腦。接收來自 C8 – L3 區域的 Dorsal nucleus of Clarke 所發出的訊息，負責傳遞軀幹與下肢的無意識本體感覺，協助小腦進行運動協調與姿勢維持\n【出處】atlas-5-4-spinal cord",
+    "description": "(1)圈起處是甚麼構造？ (2)功能是什麼？"
+  },
+  {
+    "num": "B11_24",
+    "path": "B11/B11_24.webp",
+    "answer": [
+      "(1) 下肢 conscious proprioception (2) thermal sensation & pain",
+      "下肢 conscious proprioception thermal sensation & pain"
+    ],
+    "explanation": "(A)Gracile fasciculus 屬於 Dorsal column-medial lemniscus system 的一部分，位於脊髓背束的最內側（medial side），由大型 DRG 神經元傳入，主要負責傳遞 T6 以下（包含下肢）有意識的本體感覺（conscious proprioception）\n(B)Anterolateral system 負責傳遞身體的溫覺與痛覺，訊息由小型 DRG 神經元傳入脊髓背角後，會交叉到對側的側索或前索上行，主要傳遞來自身體軀幹與四肢的溫痛覺，最後傳遞至視丘的 VPL 核區。\n【出處】atlas-5-4-spinal cord、B11 共筆 vol.12 p.25、B11 共筆 vol.12 p.13 - p.15",
+    "description": "(1)A 的功能為何？(2) B 的功能為何？"
+  },
+  {
+    "num": "B11_25",
+    "path": "B11/B11_25.webp",
+    "answer": [
+      "(1)Habenula or Habenulointerpeduncular tract (2)third ventricle",
+      "Habenula or Habenulointerpeduncular tract third ventricle"
+    ],
+    "explanation": "【出處】atlas-9-3-diencephalon-3",
+    "description": "(1)紅箭頭所指構造是什麼？ (2)黃箭頭所指空間是什麼？"
+  },
+  {
+    "num": "B11_26",
+    "path": "B11/B11_26.webp",
+    "answer": [
+      "(1)Habenula or Habenulointerpeduncular tract (2)third ventricle",
+      "Habenula or Habenulointerpeduncular tract third ventricle"
+    ],
+    "explanation": "【出處】atlas-9-3-diencephalon-3",
+    "description": "(1)紅圈處較靠近 thalamus 的組成是甚麼？(2) 紅圈處較遠離 thalamus 的組成是甚麼？"
+  },
+  {
+    "num": "B11_27",
+    "path": "B11/B11_27.webp",
+    "answer": [
+      "(1) Central medial nucleus (2) glutamate",
+      "Central medial nucleus glutamate"
+    ],
+    "explanation": "需先辨認此圖為 thalamus，而 A 即為被 internal medullary lamina 包圍，在其內側較 internal medullary lamina 淡染的核區---central medial nucleus，neurotransmitter 為 glutamate。\n【出處】B11 共筆 vol.12 p74",
+    "description": "(1)A 構造名稱？(2)B 構造所使用的神經傳導物質為何（可用縮寫）？"
+  },
+  {
+    "num": "B11_28",
+    "path": "B11/B11_28.webp",
+    "answer": [
+      "(1) dopamine (2) GABA",
+      "dopamine GABA"
+    ],
+    "explanation": "箭頭構造是 substantia nigra，dorsal 分泌 dopamine，ventral 分泌 GABA。\n【出處】B11 共筆 vol.12 p52",
+    "description": "(1)箭頭所指構造的 dorsal 分泌什麼？(2) ventral 分泌什麼？"
+  },
+  {
+    "num": "B11_29",
+    "path": "B11/B11_29.webp",
+    "answer": [
+      "(1) Globus pallidus external segment (2) GABA",
+      "Globus pallidus external segment GABA"
+    ],
+    "explanation": "Globus pallidus（GP）分成 internal segment、external segment，位於 internal capsule 的外側。GPi 染色較 GPe 深色，因為 GPi 具有比較多的 fiber 傳到 thalamus。另外因為 GP 是三角形的構造，隨著愈往前往上切，GPi 會先消失，putamen 則越大。另外，GPe 會分泌抑制性的 GABA。\n【出處】B11 共筆 vol.12 p52",
+    "description": "(1) 此為什麼結構？(2) 分泌何種物質？"
+  },
+  {
+    "num": "B11_30",
+    "path": "B11/B11_30.webp",
+    "answer": [
+      "(1) putamen (2) fornix",
+      "putamen fornix"
+    ],
+    "explanation": "A 是 putamen，位於 globus pallidus (GP) 外側，較 GP 均質，為白色帶有黑色斑點，B 為 column of fornix，位於 anterior side，可參考 29 題詳解的圖片。\n【出處】B11 共筆 vol.11 p69",
+    "description": "(1)A 是甚麼構造？(2)B 是甚麼構造？"
+  },
+  {
+    "num": "B11_31",
+    "path": "B11/B11_31.webp",
+    "answer": [
+      "(1)Cuneate nucleus (2) discrimination, proprioception of the hand",
+      "Cuneate nucleus discrimination, proprioception of the hand"
+    ],
+    "explanation": "這張圖左右兩側偏下方處有 inferior olivary nucleus，可知是 level of inferior colliculus，其中 A 是 cuneate nucleus，負責 C1-T6 的 discrimination, proprioception of the hand。\n【出處】B11 共筆 vol.11 p43",
+    "description": "(1)A 是甚麼構造？ (2)A 的功能為何？"
+  },
+  {
+    "num": "B11_32",
+    "path": "B11/B11_32.webp",
+    "answer": [
+      "(1) Superior colliculus (2) Superior cerebellar peduncle",
+      "Superior colliculus Superior cerebellar peduncle"
+    ],
+    "explanation": "紅圈是四個圓形凸起 (四疊體)中的上方凸起，為 superior colliculus，在 pons 的 rhomboid fossa 外側是 peduncle，而黃圈高度較接近 superior cerebellar peduncle。\n【出處】B11 共筆 vol.11 p34",
+    "description": "(1) 紅圈構造為何？(2) 黃圈構造為何？"
+  },
+  {
+    "num": "B11_33",
+    "path": "B11/B11_33.webp",
+    "answer": [
+      "(1) (contralateral) inferior colliculus (2) inferior vestibular nucleus",
+      "(contralateral) inferior colliculus inferior vestibular nucleus"
+    ],
+    "explanation": "綠圈結構為 Inferior vestibular nucleus 有黑點狀斑紋，為 lateral vestibular nucleus 發出的 tract，旁邊的 medial vestibular nucleus 邊界清楚，內無黑點狀，和 MLF 相關。\n【出處】B11 共筆 vol.11 p50",
+    "description": "(1)藍圈構造會投射到哪裡？(2)含黑點的綠圈構造為何？"
+  },
+  {
+    "num": "B11_34",
+    "path": "B11/B11_34.webp",
+    "answer": [
+      "(1) Facial n. (2) Proprioception of face",
+      "Facial n. Proprioception of face"
+    ],
+    "explanation": "(我不太確定這是不是斜切)，所以可見 A 是 facial n.，B 位於 superior cerebellar peduncle 內側，是 Mesencephalic trigeminal tract，管 Proprioception of face。\n【出處】B11 共筆 vol.11 p57,60",
+    "description": "(1) A 構造為何？(2) B 功能為何？"
+  },
+  {
+    "num": "B11_35",
+    "path": "B11/B11_35.webp",
+    "answer": [
+      "(1) Vision (2) Calcarine sulcus",
+      "Vision Calcarine sulcus"
+    ],
+    "explanation": "圖中綠線處凹溝穿過枕葉且延伸往胼胝體後方，應為距狀溝（calcarine sulcus），將枕葉分為上方之楔狀葉（cuneus）與下方之舌迴（lingual gyrus）；藍線處則為頂枕溝（parietooccipital sulcus）。距狀溝周邊腦區即為初級視覺皮質（primary visual cortex），與視覺功能相關。\n【出處】Nolte’s The Human Brain 第六版，頁 62。",
+    "description": "請問綠線附近區域功能？請問綠線為何構造？"
+  },
+  {
+    "num": "B11_36",
+    "path": "B11/B11_36.webp",
+    "answer": [
+      "(1) GVA, General visceral afferent; SVA, Special visceral afferent (2) Medial longitudinal fasciculus",
+      "GVA, General visceral afferent; SVA, Special visceral afferent Medial longitudinal fasciculus"
+    ],
+    "explanation": "由視野下明顯可見下橄欖核（inferior olivary nucleus）與第四腦室（fourth ventricle）可知該處應為延髓上段。紅色箭頭所指構造較深染且位於迷走神經運動背核（dorsal motor nucleus of vagus）外側，應為孤立徑（solitary tract），傳遞來自顏面神經、舌咽神經與迷走神經之一般內臟感覺（general visceral afferent）以及特殊內臟感覺（special visceral afferent，主要為味覺）。黃色箭頭所指構造位於中線兩側且深染，應為內側縱束（medial longitudinal fasciculus），帶有內側前庭脊髓徑（medial vestibulospinal tract），可協助平衡調控。\n【出處】Nolte’s The Human Brain 第六版，頁 382-383。",
+    "description": "請問紅箭頭所指構造的功能為何？請問黃色指針所指為何構造？"
+  },
+  {
+    "num": "B11_37",
+    "path": "B11/B11_37.webp",
+    "answer": [
+      "(1) Lateral sulcus (2) Auditory sensation",
+      "Lateral sulcus Auditory sensation"
+    ],
+    "explanation": "紅色圓圈所指溝槽位於大腦兩側，應為外側溝（lateral sulcus）。其下方腦區為顳上迴（superior temporal gyrus），包含初級聽覺皮質（primary auditory cortex），與聽覺功能相關。此外，韋尼克氏區（Wernicke’s area）亦位於顳上迴之後部，與語言理解相關。\n【出處】Nolte’s The Human Brain 第六版，頁 61-62。",
+    "description": "請問該紅圈為何構造（溝）？黃圈區域為何功能？"
+  },
+  {
+    "num": "B11_38",
+    "path": "B11/B11_38.webp",
+    "answer": [
+      "(1) Mammillothalamic tract (2) Optic tract",
+      "Mammillothalamic tract Optic tract"
+    ],
+    "explanation": "紅色區域上起視丘（thalamus）、下至乳頭體（mammillary body），應為乳頭體丘腦徑（mammillothalamic tract），由乳頭體傳向視丘前核（anterior nucleus），與記憶形成相關。乳頭體前方為視交叉（optic chiasm），由視交叉向前延伸者為視神經（optic nerve），向後延伸者則為視徑（optic tract）。此題解答雖認為紅色箭頭所指為視徑，然就走向而言似乎更接近於視神經。\n【出處】Nolte’s The Human Brain 第六版，頁 587。",
+    "description": "請問紅色區域為何構造？請問紅色箭頭為何種構造？"
+  },
+  {
+    "num": "B11_39",
+    "path": "B11/B11_39.webp",
+    "answer": [
+      "(1) Medial geniculate body (2) Posterior commissure",
+      "Medial geniculate body Posterior commissure"
+    ],
+    "explanation": "視野下側可見深染之視徑（optic tract）且無乳頭體（mammillary body），可知該處應位於間腦底部。視野上方處可見松果體（pineal body），其下黃色箭頭所指深染構造即為後連合（posterior commissure），與瞳孔光反射調控有關。紅色箭頭所指構造較淡染，位於丘腦枕（pulvinar）前外側、腹側後核（ventral posterior nucleus）後側，就地緣關係而言可能為內側膝狀體（medial geniculate body）。下視丘各區之空間關係可參考其冠狀切面加以對照。\n【出處】NTUMC Atlas of Neuroanatomy，頁 29。Nolte’s The Human Brain 第六版，頁 395、399-400。",
+    "description": "請問紅色箭頭所指為何種構造？請問黃色箭頭所指為何種夠造？"
+  },
+  {
+    "num": "B11_40",
+    "path": "B11/B11_40.webp",
+    "answer": [
+      "(1) Ganglion cell (2) Lateral geniculate body",
+      "Ganglion cell Lateral geniculate body"
+    ],
+    "explanation": "圖中可見構造 3 自視交叉（optic chiasm，構造 2）發出前往外側膝狀體（lateral geniculate body，構造 5），應為視徑（optic tract）。視徑、視交叉與視神經（optic nerve，構造 1）內均為神經節細胞（ganglion cell）之軸突。構造 6 投射至枕葉之初級視覺皮質，應為視輻射束（optic radiation），內含外側膝狀體所發出之軸突。\n【出處】Nolte’s The Human Brain 第六版，頁 441-442。",
+    "description": "請問構造 3 的細胞本體為何？請問構造 6 的細胞本體為何？"
+  },
+  {
+    "num": "B11_41",
+    "path": "B11/B11_41.webp",
+    "answer": [
+      "(1) Lateral fissure (2) Middle cerebral artery",
+      "Lateral fissure Middle cerebral artery"
+    ],
+    "explanation": "藍線處凹溝位於大腦側邊且將下方之顳葉分出，應為外側裂（lateral fissure，即外側溝）。中大腦動脈（middle cerebral artery）自此處走出供應大腦側表面皮質。\n【出處】Nolte’s The Human Brain 第六版，頁 127。",
+    "description": "請問藍線為何種夠造？有哪條血管從此處穿出？"
+  },
+  {
+    "num": "B11_42",
+    "path": "B11/B11_42.webp",
+    "answer": [
+      "(1) Stria terminalis (2) Fornix",
+      "Stria terminalis Fornix"
+    ],
+    "explanation": "視野中央可見一深染構造分隔兩側視丘，此即穹窿體（body of fornix），由左右兩側之穹窿柱（column of fornix）會合而成。視野下方空隙即為側腦室，其旁側較為淡染且有若干孔洞之構造應為終紋（stria terminalis），內有丘腦紋狀靜脈（thalamostriate vein）行經。\n【出處】NTUMC Atlas of Neuroanatomy，頁 32。",
+    "description": "請問 A 構造為何？請問 B 構造為何？"
+  },
+  {
+    "num": "B11_43",
+    "path": "B11/B11_43.webp",
+    "answer": [
+      "(1) Thalamus (2) Posterior cerebral artery",
+      "Thalamus Posterior cerebral artery"
+    ],
+    "explanation": "根據穿入大腦位置與供應區域對照：\nGroup: Anteromedial, Origin: ACA, 入口: Anterior perforated substance, 供應: Hypothalamus (preoptic and suprachiasmatic)\nGroup: Anterolateral, Origin: MCA, 供應: Corpus striatum\nGroup: Posteromedial, Origin: PCA / Pcom, 入口: Posterior perforated substance (在 Optic chiasm 之後, floor of interpeduncular fossa), 供應: Diencephalon, Midbrain (medial portion of cerebral peduncle)\nGroup: Posterolateral, Origin: PCA, 入口: midbrain, 供應: Thalamus, Midbrain (tectum, lateral portion of cerebral peduncle)\n【出處】atlas-2-2-cerebrum: coronal (anterior-posterior)-2、B11 共筆 vol.13 p.60",
+    "description": "請問 A 構造為何？由何種血管供應？"
+  },
+  {
+    "num": "B11_44",
+    "path": "B11/B11_44.webp",
+    "answer": [
+      "(1) Mammillary body (2) Mammillothalamic fasciculus",
+      "Mammillary body Mammillothalamic fasciculus",
+      "(1) Mammillary body (2) Mammillothalamic tract",
+      "Mammillary body Mammillothalamic tract"
+    ],
+    "explanation": "Mammillothalamic fasciculus (MTf)始自 mammillary body，終點於 anterior nucleus of thalamus，是 memory enhancement 的重要 pathway，受損時會導致 Korsakoff syndrome。\n【出處】atlas-1-2-Cerebrum: medial view、B12 共筆 vol.8 p.41",
+    "description": "請問紅色箭頭為何種構造？用何種構造投射到視丘？"
+  },
+  {
+    "num": "B11_45",
+    "path": "B11/B11_45.webp",
+    "answer": [
+      "(1) (Anterior) cingulate gyrus (2) Corpus callosum",
+      "(Anterior) cingulate gyrus Corpus callosum"
+    ],
+    "explanation": "【出處】atlas-1-2-Cerebrum: medial view",
+    "description": "請問紅色箭頭所指構造為何？黃色箭頭所指構造為何？"
+  },
+  {
+    "num": "B11_46",
+    "path": "B11/B11_46.webp",
+    "answer": [
+      "(1) Choroid plexus (2) Hippocampus",
+      "Choroid plexus Hippocampus"
+    ],
+    "explanation": "(1)之官方正解為 choroid plexus，但紅色箭頭位置可能因跑版偏離，所指構造應為 corpus callosum。Choroid plexus 正確位置應為綠色箭頭所指。\n【出處】atlas-2-2-cerebrum: coronal (anterior-posterior)-2",
+    "description": "請問紅色箭頭所指構造為何？黃色箭頭所指構造為何？"
+  },
+  {
+    "num": "B11_47",
+    "path": "B11/B11_47.webp",
+    "answer": [
+      "(1) (Anterior limb of) internal capsule (2) Optic radiation",
+      "(Anterior limb of) internal capsule Optic radiation"
+    ],
+    "explanation": "【出處】atlas-2-7-cerebrum: horizontal-2",
+    "description": "請問 A 構造為何？請問 B 構造為何？"
+  },
+  {
+    "num": "B11_48",
+    "path": "B11/B11_48.webp",
+    "answer": [
+      "(1) Insula (2) Septum pellucidum",
+      "Insula Septum pellucidum"
+    ],
+    "explanation": "(2)之官方正解為 septum pellucidum，但紅色箭頭位置可能因跑版偏離，所指構造應為 lateral ventricle。Septum pellucidum 正確位置應為綠色箭頭所指。\n【出處】atlas-2-1-cerebrum: coronal (anterior-posterior)-1",
+    "description": "請問紅色箭頭所指構造為何？黃色箭頭所指構造為何？"
+  },
+  {
+    "num": "B11_49",
+    "path": "B11/B11_49.webp",
+    "answer": [
+      "(1) Uncus (2) Lateral ventricle",
+      "Uncus Lateral ventricle"
+    ],
+    "explanation": "(1)之官方正解為 uncus，但紅色箭頭位置可能因跑版偏離，所指構造應為 internal carotid artery 或者 oculomotor nerve。Uncus 正確位置應為綠色箭頭所指。\n(2)難以確認題意，惟從箭頭尖端往紙面方向穿入，大約可對應 inferior horn or antrum of lateral ventricle。\n【出處】atlas-1-6-Cerebrum: ventral view",
+    "description": "請問紅色箭頭所指構造為何？黃色箭頭所指構造（腦室）為何？"
+  },
+  {
+    "num": "B11_50",
+    "path": "B11/B11_50.webp",
+    "answer": [
+      "(1) pyramid (2) olive",
+      "pyramid olive"
+    ],
+    "explanation": "【出處】atlas-3-1-brainstem (anterior)",
+    "description": "請問紅色箭頭所指構造為何？黃色箭頭所指構造為何？"
+  }
+]

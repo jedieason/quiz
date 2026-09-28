@@ -1,0 +1,146 @@
+[
+    {
+        "num": "b04lab_01",
+        "path": "b04lab/b04lab_01.webp",
+        "answer": [
+            "Skeletal muscle"
+        ],
+        "explanation": "此為Skeletal muscle的橫切面（c.s.）。骨骼肌的細胞核位於細胞邊緣，多核、呈橢圓形，使用hematoxylin染色呈藍色。 \n\n【出處】共筆Vol.2 P.44, 75 ",
+        "description": "圖中為何種組織？（Be specific）"
+    },
+    {
+        "num": "b04lab_02",
+        "path": "b04lab/b04lab_02.webp",
+        "answer": [
+            "Elastic artery"
+        ],
+        "explanation": "辨識Elastic artery的指標為其elastic membrane中的深紫色平行波浪狀（由elastic fiber組成）。在Elastic membrane之間也可見淡染、長長的梭狀細胞，此為smooth muscle cells，細胞核有corkscrew的形狀。 \n\n【出處】07共筆Vol.10 P.23, 46 ",
+        "description": "圖中為何種血管？"
+    },
+    {
+        "num": "b04lab_03",
+        "path": "b04lab/b04lab_03.webp",
+        "answer": [
+            "Inner circumferential lamellae"
+        ],
+        "explanation": "Compact bone的邊緣內側（靠骨髓腔那一側）有數層平行板狀，稱為inner circumferential lamellae。 \n\n右下方為骨隨腔，可見許多空洞和空洞中的紅血球。 \n\n【出處】07共筆Vol.6 P.18, 50 ",
+        "description": "箭頭所指為何構造？ "
+    },
+    {
+        "num": "b04lab_04",
+        "path": "b04lab/b04lab_04.webp",
+        "answer": [
+            "Meissner’s corpuscle"
+        ],
+        "explanation": "於epidermis和dermis交界處的dermal papilla中可以觀察到橢圓形的結構，裡頭有橫走的fiber，主要有Schwann cell組成，細胞排列方向通常與Corpuscle的長軸垂直。 \n\n【出處】07共筆Vol.9 P.48 ",
+        "description": "箭頭所指為何構造？"
+    },
+    {
+        "num": "b04lab_05",
+        "path": "b04lab/b04lab_05.webp",
+        "answer": [
+            "Hyaline cartilage"
+        ],
+        "explanation": "Hyaline cartilage的fiber量少，所以matrix看起來偏透明均質狀。軟骨細胞（chondrocyte）散生，隨機分佈在matrix裡，chondrocyte的lacunae每3到5個會形成群聚（isogenic group）。 \n\n與Fibrocartilage比較：Fibrocartilage的chondrocyte會整齊排成一列，呈現鏈狀。 \n\n【出處】07共筆Vol.6 P.7, 39-40 ",
+        "description": "圖中為何組織？（Be specific） "
+    },
+    {
+        "num": "b04lab_06",
+        "path": "b04lab/b04lab_06.webp",
+        "answer": [
+            "mast cell metachromasia"
+        ],
+        "explanation": "此玻片的mast cell分佈在adipose tissue附近，圖中adipose tissue的核為藍色，mast cell則被染為紅色。 \n\nmast cell有metachromasia（異染性）的特質，toluidine blue原本會將細胞染成藍色，但mast cell因為被陰離子（如Heparin）吸附，最後呈色轉變為紫紅色。 \n\n【出處】共筆Vol.4 P.19 ",
+        "description": "圖中為何種細胞？Toluidine blue 加入後和胞內物質反應而呈紅色，此現象稱為？"
+    },
+    {
+        "num": "b04lab_07",
+        "path": "b04lab/b04lab_07.webp",
+        "answer": [
+            "desmosome"
+        ],
+        "explanation": "電顯下的desmosome，可以看到細胞膜內electron-dense的plaque和兩邊的intermediate filaments。（兩邊的毛刷構造）  \n\n【出處】共筆Vol.2 P.30 ",
+        "description": "圖中所示為何種構造？ "
+    },
+    {
+        "num": "b04lab_08",
+        "path": "b04lab/b04lab_08.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "此為Smooth muscle的縱切面（l.s.）。細胞呈紡錘狀，沒有橫紋，細胞核深染位於細胞中央，且具有明顯的點狀chromatin granule。 \n\n在腸胃器官的外側，可見內環外縱的Smooth muscle結構，近管腔為c.s.，遠離管腔則為l.s.。如果是橫切面，則可見Smooth muscle排列整齊緻密，因為c.s.會切到細胞的不同部位，所以造成細胞切面大小不一，有者甚至切到細胞核。 ",
+        "description": "圖中所示為何種組織？（Be specific）"
+    },
+    {
+        "num": "b04lab_09",
+        "path": "b04lab/b04lab_09.webp",
+        "answer": [
+            "Large vein"
+        ],
+        "explanation": "可分出tunica intima、tunica media、tunica adventitia三層。其中tunica intima非常薄，tunica media中可觀察到環走縱切（l.s.）的smooth muscle，tunica adventitia中則可觀察到一束束縱走橫切（c.s.）的smooth muscle，其間淡粉色帶狀分布者為collagen fiber。Large vein的tunica adventitia比tunica media厚很多。 \n\n【出處】07共筆Vol.10 P.55 ",
+        "description": "圖中為何種血管？ "
+    },
+    {
+        "num": "b04lab_10",
+        "path": "b04lab/b04lab_10.webp",
+        "answer": [
+            "Muscular artery"
+        ],
+        "explanation": "是Medium-Sized Arteries，又因含有大量smooth muscle而被稱為Muscular artery。 \n\n與Medium-Sized Vein比較：Muscular artery管壁較厚，管腔也較為平整，看起來相對環狀，tunica media比tunica adventitia厚。 \n\n與Elastic artery比較：Muscular artery在tunica media內側有很明顯折光率高（呈亮粉紅色）、波浪狀、高度收縮的elastic membrane；Elastic artery則因為Elastic fiber多所以比較不明顯。 \n\n【出處】07共筆Vol.10 P.49,50 ",
+        "description": "圖中所示為何種血管？"
+    },
+    {
+        "num": "b04lab_11",
+        "path": "b04lab/b04lab_11.webp",
+        "answer": [
+            "Epineurium"
+        ],
+        "explanation": "最外層是epineurium，為loose connective tissue，其顏色較Perineurium 淡，可能含有脂肪和血管。 \n\n【出處】07共筆Vol.7 P.24, 41 ",
+        "description": "箭頭所指為何組織？（Be specific） "
+    },
+    {
+        "num": "b04lab_12",
+        "path": "b04lab/b04lab_12.webp",
+        "answer": [
+            "Volkmann’s canal"
+        ],
+        "explanation": "Compact bone中的橫向管狀，會連接兩個或以上的Haversian canal。 \n\n【出處】06共筆Vol.6 P.45 ",
+        "description": "箭頭所指為何構造？ "
+    },
+    {
+        "num": "b04lab_13",
+        "path": "b04lab/b04lab_13.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "此為高倍率下的sympathetic ganglion。細胞核大，內有深色核仁，是eccentric nuclei，核會偏一邊，不會在中央。Neuron外有些許顆粒狀的satellite cell，核圓形，深染。因為sympathetic ganglion是Multipolar neuron，其細胞會伸出很多process，所以satellite cell排列不會像spinal ganglion那樣緊密。和Motor neuron cell一樣有Nissl body，但較為細緻平均也不會形成塊狀。 \n\n與spinal ganglion（DRG neuron）比較：Sympathetic ganglion的process會和fiber混雜，DRG則明顯分開。DRG的Satellite cell排列緊密；Sympathetic ganglion的不會。 \n\n【出處】07共筆Vol.7 P.27, 38 ",
+        "description": "圖中為何種組織？ "
+    },
+    {
+        "num": "b04lab_14",
+        "path": "b04lab/b04lab_14.webp",
+        "answer": [
+            "Internal root sheath"
+        ],
+        "explanation": "Scalp的Internal root sheath（IRS）可看到兩層，外層是Henle’s layer較淡染，內層則是Huxley’s layer較深染，且偏紅。 \n\n【出處】07共筆Vol.9 P.39 ",
+        "description": "箭頭所指為何構造？ "
+    },
+    {
+        "num": "b04lab_15",
+        "path": "b04lab/b04lab_15.webp",
+        "answer": [
+            "Multivesicular body"
+        ],
+        "explanation": "Multivesicular body（MVB）是lysosome的前身。MVB是late endosome表面膜向內凹陷形成的許多vesicle，電顯下內含許多小泡（intraluminal vesicle），最後皆會被分解。小的MVB會和其他的MVB fusion在一起愈變愈大。 【出處】共筆Vol.1 P.32 ",
+        "description": "圖中數字（1-5）所指為何構造？ "
+    },
+    {
+        "num": "b04lab_16",
+        "path": "b04lab/b04lab_16.webp",
+        "answer": [
+            "Cardiac muscle"
+        ],
+        "explanation": "此為Cardiac muscle的縱切面（l.s.），可以用只有心肌才有的心間盤（intercalated disc）來辨別。心肌在高倍下可見明顯橫紋，橢圓細胞核位於細胞中央，細胞有分岔。 \n\n與Skeletal muscle比較：心肌細胞排列沒有那麼緻密，也不會像骨骼肌那麼整齊。 \n\n【出處】共筆Vol.2 P.59, 79 ",
+        "description": "圖中為何種組織？（Be specific）"
+    }
+]

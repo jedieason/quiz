@@ -1,0 +1,334 @@
+[
+  {
+    "num": "B03_1",
+    "path": "B03/B03_1.webp",
+    "answer": [
+      "(1) Pons (2) Basilar artery",
+      "Pons Basilar artery"
+    ],
+    "explanation": "(1)腦幹膨大處\n(2)躺在 basilar sulcus 上\n出處：atlas 3-1",
+    "description": ""
+  },
+  {
+    "num": "B03_2",
+    "path": "B03/B03_2.webp",
+    "answer": [
+      "(1) Olive (2) Inferior olivary complex",
+      "Olive Inferior olivary complex"
+    ],
+    "explanation": "(1) pyramid 外側\n出處：atlas 3-1",
+    "description": ""
+  },
+  {
+    "num": "B03_3",
+    "path": "B03/B03_3.webp",
+    "answer": [
+      "(1) Superior colliculus (2) 視覺",
+      "Superior colliculus 視覺"
+    ],
+    "explanation": "(1) 出現 red nucleus\n出處：atlas 6-3",
+    "description": ""
+  },
+  {
+    "num": "B03_4",
+    "path": "B03/B03_4.webp",
+    "answer": [
+      "(1) Substantia nigra (2) Red nucleus",
+      "Substantia nigra Red nucleus"
+    ],
+    "explanation": "(1) 因為 red nu.還在，此時其 ventral side 的構造仍是 cerebral peduncle，而非 internal capsule\n出處：atlas 9-1",
+    "description": ""
+  },
+  {
+    "num": "B03_5",
+    "path": "B03/B03_5.webp",
+    "answer": [
+      "(1) Cuneate fasciculus (2) Pyramidal decussation",
+      "Cuneate fasciculus Pyramidal decussation"
+    ],
+    "explanation": "(2) 仍有 ventral, dorsal horn 的痕跡，只是 ventral horn 被 decussation 斷開\n出處：atlas 5-4",
+    "description": ""
+  },
+  {
+    "num": "B03_6",
+    "path": "B03/B03_6.webp",
+    "answer": [
+      "(1) Lateral lemniscus (2) 聽覺",
+      "Lateral lemniscus 聽覺"
+    ],
+    "explanation": "(1)螃蟹腳夾住 inferior colliculus\n出處：atlas 6-1",
+    "description": ""
+  },
+  {
+    "num": "B03_7",
+    "path": "B03/B03_7.webp",
+    "answer": [
+      "(1) Periaqueductal gray (2) 痛覺",
+      "Periaqueductal gray 痛覺"
+    ],
+    "explanation": "(2)此圖為 pons-midbrain junction，所以還沒高到看到 trochlear nucleus\n出處：atlas 7-3",
+    "description": ""
+  },
+  {
+    "num": "B03_8",
+    "path": "B03/B03_8.webp",
+    "answer": [
+      "(1) Solitary nuclei and tract (2) 傳遞 visceral sensory 訊息",
+      "Solitary nuclei and tract 傳遞 visceral sensory 訊息"
+    ],
+    "explanation": "(1) central gray 兩側\n出處：atlas 8-3",
+    "description": ""
+  },
+  {
+    "num": "B03_9",
+    "path": "B03/B03_9.webp",
+    "answer": [
+      "(1) Middle cerebellar peduncle (2) Nodulus",
+      "Middle cerebellar peduncle Nodulus"
+    ],
+    "explanation": "(1) 三個小腦腳中最大的一塊\n(2) vermis 的 C 型構造的最末端，此圖為 anterior view\n出處：atlas 4-1",
+    "description": ""
+  },
+  {
+    "num": "B03_10",
+    "path": "B03/B03_10.webp",
+    "answer": [
+      "(1) Thalamus (2) Third ventricle",
+      "Thalamus Third ventricle"
+    ],
+    "explanation": "出處：atlas 2-3",
+    "description": ""
+  },
+  {
+    "num": "B03_11",
+    "path": "B03/B03_11.webp",
+    "answer": [
+      "(1) Stria medullaris (2) Anterior commissure",
+      "Stria medullaris Anterior commissure"
+    ],
+    "explanation": "(1)出現 inferior thalamic peduncle，所以不是 habenular nu.，而是 stria medullaris\n出處：atlas 9-5",
+    "description": ""
+  },
+  {
+    "num": "B03_12",
+    "path": "B03/B03_12.webp",
+    "answer": [
+      "(1) Zona incerta (2) Mammillothalamic tract",
+      "Zona incerta Mammillothalamic tract"
+    ],
+    "explanation": "(1)藍箭頭所指為 subthalamic nu.\n出處：atlas 9-2",
+    "description": ""
+  },
+  {
+    "num": "B03_13",
+    "path": "B03/B03_13.webp",
+    "answer": [
+      "(1) Hypothalamus (2) Optic tract",
+      "Hypothalamus Optic tract"
+    ],
+    "explanation": "出處：atlas 9-1",
+    "description": ""
+  },
+  {
+    "num": "B03_14",
+    "path": "B03/B03_14.webp",
+    "answer": [
+      "(1) Lateral geniculate body (2) 視覺",
+      "Lateral geniculate body 視覺"
+    ],
+    "explanation": "(1)可見其 ventral side 連有 optic tract\n出處：atlas 6-4",
+    "description": ""
+  },
+  {
+    "num": "B03_15",
+    "path": "B03/B03_15.webp",
+    "answer": [
+      "(1) Anterior lobe (2) Superior cerebellar artery",
+      "Anterior lobe Superior cerebellar artery"
+    ],
+    "explanation": "(1)紅虛線為 primary fissure \n(2)此為小腦 superior view\n出處：atlas 4-4",
+    "description": ""
+  },
+  {
+    "num": "B03_16",
+    "path": "B03/B03_16.webp",
+    "answer": [
+      "(1) Caudate nucleus (2) Globus pallidus",
+      "Caudate nucleus Globus pallidus"
+    ],
+    "explanation": "出處：atlas 2-1",
+    "description": ""
+  },
+  {
+    "num": "B03_17",
+    "path": "B03/B03_17.webp",
+    "answer": [
+      "(1) Cingulate cortex (2) Lentiform nucleus",
+      "Cingulate cortex Lentiform nucleus",
+      "(1) Cingulate gyrus (2) Lentiform nucleus",
+      "Cingulate gyrus Lentiform nucleus"
+    ],
+    "explanation": "出處：可參考 Nolte’s Human Brain 7e p.634 Figure25-2",
+    "description": ""
+  },
+  {
+    "num": "B03_18",
+    "path": "B03/B03_18.webp",
+    "answer": [
+      "(1) Uncus (2) Lingual gyrus",
+      "Uncus Lingual gyrus"
+    ],
+    "explanation": "(2) calcarine sulcus 的 inferior side，calcarine sulcus 的 superior side 為 cuneus\n出處：可參考神解實驗共筆 Vol.1 p.10, 11",
+    "description": ""
+  },
+  {
+    "num": "B03_19",
+    "path": "B03/B03_19.webp",
+    "answer": [
+      "(1) Rectal gyrus (2) Parahippocampal gyrus",
+      "Rectal gyrus Parahippocampal gyrus"
+    ],
+    "explanation": "(1) 以 optic tract 為界，內側 rectal gyrus，外側 orbital gyrus)\n(2) collateral sulcus 為界，內側 parahippocampal gyrus，外側 occipitotemporal gyrus\n出處：神解實驗共筆 Vol.1 p.10",
+    "description": ""
+  },
+  {
+    "num": "B03_20",
+    "path": "B03/B03_20.webp",
+    "answer": [
+      "(1) Spinal cord (2) Posterior spinocerebellar tract",
+      "Spinal cord Posterior spinocerebellar tract"
+    ],
+    "explanation": "(1)明顯蝴蝶，未被截斷\n出處：atlas 5-4",
+    "description": ""
+  },
+  {
+    "num": "B03_21",
+    "path": "B03/B03_21.webp",
+    "answer": [
+      "(1) Anterior commissure (2) Fornix",
+      "Anterior commissure Fornix"
+    ],
+    "explanation": "出處：atlas 9-5",
+    "description": ""
+  },
+  {
+    "num": "B03_22",
+    "path": "B03/B03_22.webp",
+    "answer": [
+      "(1) Globus pallidus, internal segment (2) Subthalamic nucleus",
+      "Globus pallidus, internal segment Subthalamic nucleus"
+    ],
+    "explanation": "對應構造標號詳解：\n18. Dorsomedial nucleus\n19. Ventral lateral (VL) nucleus\n20. Terminal (thalamostriate) vein\n21. Ventral posterolateral (VPL) nucleus\n22. Globus pallidus (external segment)\n23. Globus pallidus (internal segment)\n24. Lenticular fasciculus\n25. Mammillothalamic tract\n26. Mammillary body\n27. Substantia nigra\n28. Optic tract\n29. Subthalamic nucleus\n30. Zona incerta\n31. Thalamic fasciculus\n32. Stria terminalis\n33. Lateral dorsal nucleus\n出處：Nolte’s Human Brain 7e p.640 Figure25-5",
+    "description": ""
+  },
+  {
+    "num": "B03_23",
+    "path": "B03/B03_23.webp",
+    "answer": [
+      "(1) Hypoglossal nucleus (2) Medial longitudinal fasciculus",
+      "Hypoglossal nucleus Medial longitudinal fasciculus"
+    ],
+    "explanation": "(1) 因其位在內側，稍微外側一點就是 dorsal motor nucleus of vagus n.\n出處：atlas 8-4",
+    "description": ""
+  },
+  {
+    "num": "B03_24",
+    "path": "B03/B03_24.webp",
+    "answer": [
+      "(1) Lateral spinothalamic tract (2) 身體的溫痛覺傳遞",
+      "Lateral spinothalamic tract 身體的溫痛覺傳遞"
+    ],
+    "explanation": "(1)蝴蝶被截斷-> pyramidal decussation layer，且此 tract 位置和原本在 spinal cord 的位置差不多\n(2) 身體的溫痛覺傳遞",
+    "description": ""
+  },
+  {
+    "num": "B03_25",
+    "path": "B03/B03_25.webp",
+    "answer": [
+      "(1) Trochlear nerve (2) Middle cerebellar peduncle",
+      "Trochlear nerve Middle cerebellar peduncle"
+    ],
+    "explanation": "(1)唯一從背側發出來的腦神經\n出處：atlas 3-5",
+    "description": ""
+  },
+  {
+    "num": "B03_26",
+    "path": "B03/B03_26.webp",
+    "answer": [
+      "(1) Thalamus (2) Optic tract",
+      "Thalamus Optic tract"
+    ],
+    "explanation": "出處：atlas 2-2",
+    "description": ""
+  },
+  {
+    "num": "B03_27",
+    "path": "B03/B03_27.webp",
+    "answer": [
+      "(1) Vertebral artery (2) Transverse foramen",
+      "Vertebral artery Transverse foramen"
+    ],
+    "explanation": "出處：atlas 1-6",
+    "description": ""
+  },
+  {
+    "num": "B03_28",
+    "path": "B03/B03_28.webp",
+    "answer": [
+      "(1) Cingulate gyrus (2) Anterior cerebral artery",
+      "Cingulate gyrus Anterior cerebral artery"
+    ],
+    "explanation": "(2)可參考謝松蒼教授的範圍，pericallosal branch of ant. cerebral a.\n出處：atlas 1-2",
+    "description": ""
+  },
+  {
+    "num": "B03_29",
+    "path": "B03/B03_29.webp",
+    "answer": [
+      "(1) Hippocampus (2) Posterior cerebral artery",
+      "Hippocampus Posterior cerebral artery"
+    ],
+    "explanation": "出處：atlas 2-3",
+    "description": ""
+  },
+  {
+    "num": "B03_30",
+    "path": "B03/B03_30.webp",
+    "answer": [
+      "(1) Crus cerebri (2) Lateral geniculate body",
+      "Crus cerebri Lateral geniculate body"
+    ],
+    "explanation": "(1)因為 red nucleus 還在\n(2) ventral side 有 optic tract\n出處：atlas 6-4",
+    "description": ""
+  },
+  {
+    "num": "B03_31",
+    "path": "B03/B03_31.webp",
+    "answer": [
+      "(1) Lateral sulcus (2) Middle cerebral artery cortical branch",
+      "Lateral sulcus Middle cerebral artery cortical branch"
+    ],
+    "explanation": "出處：atlas 1-1",
+    "description": ""
+  },
+  {
+    "num": "B03_32",
+    "path": "B03/B03_32.webp",
+    "answer": [
+      "(1) Caudate nucleus (2) Fornix (crus)",
+      "Caudate nucleus Fornix (crus)"
+    ],
+    "explanation": "(1)這張圖是 coronal section，然後考古覺得這個位置寫 Stria terminalis 應該也可以",
+    "description": ""
+  },
+  {
+    "num": "B03_33",
+    "path": "B03/B03_33.webp",
+    "answer": [
+      "(1) Zona incerta (2) Subthalamic nucleus",
+      "Zona incerta Subthalamic nucleus"
+    ],
+    "explanation": "出處：可參考 Nolte’s Human Brain 7e p.640 Figure25-5 (右下為 06 補充圖片)",
+    "description": ""
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "num": "204101",
+    "path": "R/204101.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "可以看到C型軟骨及trachealis muscle。",
+    "description": "圖中的為何器官？"
+  },
+  {
+    "num": "204102",
+    "path": "R/204102.webp",
+    "answer": [
+      "Bronchus"
+    ],
+    "explanation": "片狀cartilage，mucosa和submucosa之間有smooth muscle cell。",
+    "description": "視野下為何器官？"
+  },
+  {
+    "num": "204103",
+    "path": "R/204103.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "可以發現在terminal bronchiole末端的epithelium漸漸變為不連續，而成為respiratory bronchiole。表面呈圓拱形也是其特徵之一。",
+    "description": "上圖中箭頭所指為何種組織？（下圖中黑色圈圈）"
+  },
+  {
+    "num": "210108",
+    "path": "R/210108.webp",
+    "answer": [
+      "trachea"
+    ],
+    "explanation": "表層為 pseudostratified columnar epithelium，submucosa 內有腺體，判斷此構造為氣管。",
+    "description": "下面是哪一種組織？"
+  },
+  {
+    "num": "210128",
+    "path": "R/210128.webp",
+    "answer": [
+      "Bronchus"
+    ],
+    "explanation": "從外圍cartilage進行判斷。因為具有Hyaline cartilage但又不成連續的C型，因此可判斷為bronchus。",
+    "description": "請問以下是什麼構造？"
+  },
+  {
+    "num": "210134",
+    "path": "R/210134.webp",
+    "answer": [
+      "lung"
+    ],
+    "explanation": "多空腔及軟骨",
+    "description": "以下為何種器官？"
+  },
+  {
+    "num": "210135",
+    "path": "R/210135.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with cilia and goblet cell basal cell"
+    ],
+    "explanation": "看似多層細胞，但其實細胞均位於 basement membrane 上，可知道是 pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為 cilia（microvilli 只會是地毯狀）箭頭所指深染紅線為 cilia 基部的 basal body",
+    "description": "這是什麼組織? 底下為何種細胞？"
+  },
+  {
+    "num": "11103",
+    "path": "R/11103.webp",
+    "answer": [
+      "Pulmonary artery"
+    ],
+    "explanation": "箭頭所指的血管較大、伴行bronchiole，因此是pulmonary artery。(pulmonary vein會自己走在旁邊。)",
+    "description": "指針（藍色箭頭）所指為什麼構造？ "
+  },
+  {
+    "num": "11113",
+    "path": "R/11113.webp",
+    "answer": [
+      "Smooth muscle cell"
+    ],
+    "explanation": "Bronchus 含有不連續的hyaline cartilage chip/plate，在 mucosa 與 submucosa 之間會有一層環狀連續的平滑肌。",
+    "description": "指針所所指的是什麼細胞？"
+  },
+  {
+    "num": "11120",
+    "path": "R/11120.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "氣管由內而外的四層結構：\n\tMucosa－由具有 goblet cell 的 ciliated pseudostratified columnar epithelium組成\n\tSubmucosa－含有 tracheal gland\n\tCartilage layer－C shaped hyaline cartilage\n\tAdventitia",
+    "description": "下列是何種器官？"
+  },
+  {
+    "num": "11132",
+    "path": "R/11132.webp",
+    "answer": [
+      "Ciliated pseudostratified columnar epithelium with goblet cell"
+    ],
+    "explanation": "此為trachea的典型上皮，又稱呼吸道上皮。其特徵為：\n1.\tPseudostratified: 所有細胞核高低排列不一，但所有細胞均接觸基底膜。\n2.\tCiliated: 頂端有纖毛(cilia)結構。\n3.\tGoblet cell: 上皮中散佈著分泌黏液、呈空泡狀的goblet cell。",
+    "description": "範圍的組織是什麼？"
+  },
+  {
+    "num": "205101",
+    "path": "R/205101.webp",
+    "answer": [
+      "Hyaline cartilage chip"
+    ],
+    "explanation": "首先判斷是在肺臟中，然後視野下可見明顯呈環狀的平滑肌又有不連續片狀軟骨分布，可知是bronchus的橫切，另外呼吸道的軟骨屬於hyaline chip。 ",
+    "description": "箭頭指的為何構造？（Be specific）"
+  },
+  {
+    "num": "205102",
+    "path": "R/205102.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "視野下可C型軟骨，而平滑肌分布於軟骨開口間，可推知為trachea。 ",
+    "description": "視野下為何構造？"
+  },
+  {
+    "num": "205107",
+    "path": "R/205107.webp",
+    "answer": [
+      "Goblet cell Pseudostratified ciliated columnar epithelium with goblet cell"
+    ],
+    "explanation": "從頂部可見cilia，細胞排列看似多層，實際上每顆細胞都與basal membrane相連，為ciliated pseudostratified columnar epithelium，其之間又可見單細胞腺體goblet cell，其具有空泡狀mucinogen granule。 ",
+    "description": "圖中為何種組織？箭頭指的為何種細胞？"
+  },
+  {
+    "num": "208201",
+    "path": "R/208201.webp",
+    "answer": [
+      "smooth muscle cell"
+    ],
+    "explanation": "由Hyaline cartilage呈chip狀判斷此為bronchus的切面，介於mucosa與submucosa間的為smooth muscle cell。\n【出處】08共筆Vol.10 P.17；09共筆Vol.10 P.17 ",
+    "description": "箭頭所指是什麼細胞？"
+  },
+  {
+    "num": "208203",
+    "path": "R/208203.webp",
+    "answer": [
+      "respiratory bronchiole"
+    ],
+    "explanation": "沒有軟骨、上皮高低不一、有往肺泡的開口。\n【出處】08共筆Vol.10 P.52；09共筆Vol.10 P.52",
+    "description": "這是什麼構造？"
+  },
+  {
+    "num": "208208",
+    "path": "R/208208.webp",
+    "answer": [
+      "Basement membrane trachea"
+    ],
+    "explanation": "箭頭上皮底下厚厚的一層，閉著眼睛也要寫basement membrane。 切片經Orcein-Picroindigocarmine-carmine特殊染色 Orcein：將elastic fiber染成紅棕色。 Indigocarmine：將collagen fiber與reticular fiber染成藍綠色。 Picric acid：將肌肉與上皮組織染成淡黃色。 Carmine：將細胞核染成紅色。\n【出處】08共筆Vol.10 P.7；09共筆Vol.10 P.17",
+    "description": "請問圖中虛線所圍住的構造是？位於哪種器官？（特殊染色）"
+  },
+  {
+    "num": "208213",
+    "path": "R/208213.webp",
+    "answer": [
+      "macrophage"
+    ],
+    "explanation": "為Vital stain（Trypan blue），會被位於alveoli的air space中的macrophage吞噬，使它呈現藍色。肺中macrophage常吞噬空氣粉塵，故亦可稱dust cell。\n【出處】08共筆Vol.10 P.54；09共筆Vol.10 P.54",
+    "description": "箭頭所指是什麼細胞？"
+  },
+  {
+    "num": "2092017",
+    "path": "R/2092017.webp",
+    "answer": [
+      "Lamellar body",
+      "type 2 alveolar cell"
+    ],
+    "explanation": "此圖常考，為type 2 alveolar cell在TEM下的電顯圖。該圖特徵是細胞內有看起來像柵欄的 granules，稱為 lamellar bodies，可分泌 surfactant 覆蓋整個肺泡表面。\n【出處】09共筆 Vol.10 P.32-33",
+    "description": "這個構造是什麼，在什麼細胞"
+  },
+  {
+    "num": "2092018",
+    "path": "R/2092018.webp",
+    "answer": [
+      "Pulmonary vein"
+    ],
+    "explanation": "圖中很大的空腔是Bronchiole，藍色箭頭指的部分，呈鮮紅狀應為血管，又該血管沒有與Bronchiole伴行，且管腔形狀是不規則狀，故屬於pulmonary vein。\n【出處】09共筆 Vol.10 P.50",
+    "description": "藍色箭頭所指構造為何？"
+  },
+  {
+    "num": "2092021",
+    "path": "R/2092021.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "Epithelium漸漸變為不連續，而成為respiratory bronchiole。表面呈圓拱形也是其特徵之一。\n【出處】09共筆 Vol.10 P.25-26",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "2092033",
+    "path": "R/2092033.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "可看到完整、連續的C型軟骨，且有平滑肌連接缺口兩端，就是典型的trachea切片。\n【出處】09共筆 Vol.10 P.42",
+    "description": "圖中為何種器官？"
+  },
+  {
+    "num": "2092034",
+    "path": "R/2092034.webp",
+    "answer": [
+      "elastic fiber",
+      "lamina propria"
+    ],
+    "explanation": "常考，此為trachea經Orcein-Picroindigocarmine-carmine特殊染色的切片，所以紅棕色的即為elastic fiber，主要為在mucosa的lamina propria中。\n【出處】09共筆 Vol.10 P.4、45",
+    "description": "寫出照片中點狀的構造名稱（紅棕色）以及所處位置（特殊染色，be specific）"
+  },
+  {
+    "num": "208121",
+    "path": "R/208121.webp",
+    "answer": [
+      "Bronchus"
+    ],
+    "explanation": "辨別重點為明顯的smooth muscle layer以及hyaline cartilage呈\nchip狀。\n【出處】共筆Vol.10 P.52",
+    "description": "圖中間為何種組織？"
+  },
+  {
+    "num": "208123",
+    "path": "R/208123.webp",
+    "answer": [
+      "Ciliated columnar epithelium Goblet cell",
+      "Ciliated columnar epithelium TEM: Goblet cell",
+      "SEM: Ciliated columnar epithelium TEM: Goblet cell"
+    ],
+    "explanation": "帶有一條一條cilia的柱狀epithelium為ciliated columnar epithelium，中間夾雜充滿分泌小泡的goblet cell。TEM拍攝畫面為平面；SEM為立體。\n【出處】共筆Vol.10 P.11, 12",
+    "description": "下兩圖分別為何種顯微鏡？何種細胞？"
+  },
+  {
+    "num": "207205",
+    "path": "R/207205.webp",
+    "answer": [
+      "Basement membrane of trachea"
+    ],
+    "explanation": "Orcein-Picroindigocarmine-carmine染色，basement membrane富含collagen fiber呈藍色， lamina propria含elastic fiber呈紅棕色。Trachea的basement membrane很厚，有submucosal gland。\n【出處】共筆Vol.10 P.7",
+    "description": "黃色箭頭所指的構造，且位於哪個器官？"
+  },
+  {
+    "num": "207214",
+    "path": "R/207214.webp",
+    "answer": [
+      "respiratory bronchiole"
+    ],
+    "explanation": "可以發現在epithelium不連續，表面呈圓拱形。\n【出處】共筆Vol.10 P.28",
+    "description": "寫出虛線內構造名稱（Be specific）"
+  },
+  {
+    "num": "207217",
+    "path": "R/207217.webp",
+    "answer": [
+      "lamellar body"
+    ],
+    "explanation": "為Type II alveolar cell的Lamellar body\n【出處】共筆Vol.10 P.36",
+    "description": "寫出箭頭所指之構造名稱（TEM）"
+  },
+  {
+    "num": "206214",
+    "path": "R/206214.webp",
+    "answer": [
+      "Type 2",
+      "pneumocyte"
+    ],
+    "explanation": "細胞內有一顆一顆含 lamellar bodies 的 vesicle。",
+    "description": "寫出箭頭所指之細胞名稱（TEM）Be specific"
+  },
+  {
+    "num": "206219",
+    "path": "R/206219.webp",
+    "answer": [
+      "Elastic fiber"
+    ],
+    "explanation": "Orcein-Picroindigocarmine-carmine 染色，basement membrane\n富含 collagen fiber 呈藍色，lamina propria 含 elastic fiber 故呈\n紅棕色",
+    "description": "寫出箭頭所指之點狀構造名稱（特殊染色）"
+  },
+  {
+    "num": "206220",
+    "path": "R/206220.webp",
+    "answer": [
+      "Dust cell"
+    ],
+    "explanation": "Dust cell 即肺中的 macrophage，分布於 interalveolar septum\n和 alveolar air space 中，vital stain 呈藍色。",
+    "description": "寫出箭頭所指的細胞名稱（Vital stain）"
+  },
+  {
+    "num": "206231",
+    "path": "R/206231.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "Submucosa 有淡染的 mucous gland，有 trachealis muscle 連接\nC 型軟骨的 free end。",
+    "description": "寫出視野下器官名稱（Be specific）"
+  },
+  {
+    "num": "210202",
+    "path": "R/210202.webp",
+    "answer": [
+      "Trachealis muscle",
+      "smooth muscle"
+    ],
+    "explanation": "Trachealis muscle（TM）：連接氣管 C 形軟骨free end的平滑肌。由於此圖是trachea背側，故看不到軟骨，只看得到平滑肌。",
+    "description": "下方由虛線圍起來的構造為何?"
+  },
+  {
+    "num": "210214",
+    "path": "R/210214.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "Terminal bronchiole 的 epithelium 高度較一致，而來到 respiratory bronchiole 處會變薄、不連續以利氣體交換，表面呈圓拱型也是特徵之一。",
+    "description": "紅框內是什麽構造？"
+  },
+  {
+    "num": "210220",
+    "path": "R/210220.webp",
+    "answer": [
+      "Submucosa Tracheal gland"
+    ],
+    "explanation": "用C.Hyaline cartilage 以及 D. Trachealis mucle可知道為trachea 的lumen，而在其submucosa的腺體就是tracheal gland",
+    "description": "請問A 位於哪個部分? 又A 為何種構造?"
+  },
+  {
+    "num": "210223",
+    "path": "R/210223.webp",
+    "answer": [
+      "Lamellar body",
+      "type II alveolar cell"
+    ],
+    "explanation": "此圖常考，為 type 2 alveolar cell 在 TEM 下的電顯圖。該\n圖特徵是細胞內有看起來像柵欄的 granules，稱為 lamellar\nBodies，可分泌 surfactant 覆蓋整個肺泡表面。",
+    "description": "箭頭所指構造為何，在甚麼細胞?"
+  },
+  {
+    "num": "204201",
+    "path": "R/204201.webp",
+    "answer": [
+      "Elastic fibers"
+    ],
+    "explanation": "Orcein-Picroindigocarmine-carmine染色，basement membrane富含collagen fiber成藍色，lamina propria含elastic fiber成紅棕色。此為trachea，因為有很厚的basement membrane與ciliated pseudostratified columnar epi.\n【出處】共筆Vol.10 P.7",
+    "description": "寫出箭頭所指之點狀構造名稱（特殊染色）。Be specific"
+  },
+  {
+    "num": "204202",
+    "path": "R/204202.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "可以發現在epithelium不連續，表面呈圓拱形。\n【出處】共筆Vol.10 P.56",
+    "description": "寫出箭號所指之構造名稱"
+  },
+  {
+    "num": "204203",
+    "path": "R/204203.webp",
+    "answer": [
+      "Type II alveolar cell"
+    ],
+    "explanation": "細胞內有一顆一顆含lamellar bodies的vesicle。\n【出處】共筆Vol.10 P.36",
+    "description": "箭頭所指為何細胞？"
+  },
+  {
+    "num": "204204",
+    "path": "R/204204.webp",
+    "answer": [
+      "Macrophage"
+    ],
+    "explanation": "為Vital stain（Trypan blue），會被位於alveoli的air space中的macrophage吞噬，使它呈現藍色。\n【出處】共筆Vol.10 P.56-57",
+    "description": "箭頭所指為何細胞？"
+  },
+  {
+    "num": "204205",
+    "path": "R/204205.webp",
+    "answer": [
+      "Smooth muscle"
+    ],
+    "explanation": "由Hyaline cartilage（藍色）呈chip狀判斷此為bronchus的切面，介於mucosa與submucosa間的為smooth muscle cell。\n【出處】共筆Vol.10 P.52",
+    "description": "寫出箭號所指構造名稱？"
+  },
+  {
+    "num": "205201",
+    "path": "R/205201.webp",
+    "answer": [
+      "Pulmonary artery"
+    ],
+    "explanation": "在肺中有明顯的 smooth muscle、無 submucosa gland、無 hyaline cartilage，可以判斷此為 Bronchiole 的切面。箭頭所指為與bronchiole伴行的大型血管 pulmonary artery 。",
+    "description": "寫出虛線內整個構造名稱？Be specific！ "
+  },
+  {
+    "num": "205202",
+    "path": "R/205202.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "為在肺中從連續(terminal bronchiole)過渡到不連續上皮(respiratory bronchiole)的管腔 ",
+    "description": "寫出箭頭所指整個構造名稱？（be specific） "
+  },
+  {
+    "num": "205204",
+    "path": "R/205204.webp",
+    "answer": [
+      "Lamellar body"
+    ],
+    "explanation": "很常考 ！\n右邊空空的為capillary lumen，左邊有扁扁的squamous epithelial cell (alveolar type 1)，而箭頭指向目標所在細胞不扁平，為alveolar type 2 cells，箭頭所指為其granule (lamellar body)內有surfactant。 ",
+    "description": "寫出箭頭所指整個構造名稱？ "
+  },
+  {
+    "num": "211203",
+    "path": "R/211203.webp",
+    "answer": [
+      "Macrophage"
+    ],
+    "explanation": "為Vital stain（Trypan blue），會被位於alveoli的air space中的macrophage吞噬，使它呈現藍色。肺中macrophage常吞噬空氣粉塵，故亦可稱dust cell。",
+    "description": "請問下列何者問什麼細胞？(藍紫色部分）"
+  },
+  {
+    "num": "211223",
+    "path": "R/211223.webp",
+    "answer": [
+      "Basement membrane; Trachea"
+    ],
+    "explanation": "圖中所示為氣管（trachea）受地衣紅（orcein）—苦味酸靛胭脂（picroindigocarmine）—胭脂紅（carmine）之複合染色，其中地衣紅將彈性纖維（elastic fiber）染為紅棕色，苦味酸（picric acid）將肌肉與上皮組織染為黃色，靛胭脂（indigocarmine）將膠原纖維（collagen fiber）染為藍綠色，胭脂紅則將細胞核染為紅色。圖中可見於上皮細胞底下具一層明顯被染為藍色、富含膠原纖維之基底膜（basement membrane），可知該器官應為氣管。",
+    "description": "以下黑色虛線內的構造為何？ 是哪個器官切片？"
+  },
+  {
+    "num": "211233",
+    "path": "R/211233.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "圖中管腔的上皮已非連續，管壁上出現了alveoli的開口(圖片中管壁不連續處)，顯示此處已開始進行氣體交換，故為Respiratory bronchiole。",
+    "description": "寫出箭頭所指之構造名稱"
+  },
+  {
+    "num": "209102",
+    "path": "R/209102.webp",
+    "answer": [
+      "Trachea"
+    ],
+    "explanation": "視野下可見一個大型管道，周圍有C型軟骨包圍，而平滑肌分布於軟骨的口處，可推知此構造為trachea。\n【出處】共筆Vol.10 P.42",
+    "description": "請寫出視野下器官名稱？"
+  },
+  {
+    "num": "209107",
+    "path": "R/209107.webp",
+    "answer": [
+      "Smooth muscle cell of bronchiole"
+    ],
+    "explanation": "在bronchiole，上皮組織會由pseudostratified columnar epithelium變成simple ciliated columnar epithelium，且無submucosa或cartilage。此處smooth muscle cells較厚，成環狀排列。\n【出處】共筆Vol. 10 P.19",
+    "description": "標示M處的構造為？"
+  },
+  {
+    "num": "209112",
+    "path": "R/209112.webp",
+    "answer": [
+      "pseudostratified ciliated columnar epithelium with goblet cell"
+    ],
+    "explanation": "pseudostratified ciliated columnar epithelium with goblet cell的兩張照片，第一張是TEM下的側視圖，第二張是SEM下的俯視圖。\n【出處】共筆Vol.10 P.11-12",
+    "description": "問第一張此為何種細胞，再問第一、第二張圖是否指的是同一種細胞\n（註：pseudostratified ciliated columnar epithelium with goblet cell的兩張照片，第一張是TEM下的側視圖，第二張是SEM下的俯視圖）"
+  },
+  {
+    "num": "209127",
+    "path": "R/209127.webp",
+    "answer": [
+      "respiratory bronchiole"
+    ],
+    "explanation": "可以發現在terminal bronchiole末端的epithelium漸漸變為不連續，而成為respiratory bronchiole。表面呈圓拱形也是其特徵之一。\n【出處】共筆Vol.10 P.52",
+    "description": "紅框內構造為何？"
+  },
+  {
+    "num": "209135",
+    "path": "R/209135.webp",
+    "answer": [
+      "Bronchus"
+    ],
+    "explanation": "辨別重點為明顯的smooth muscle layer以及hyaline cartilage呈chip狀。\n【出處】共筆Vol.10 P.49",
+    "description": "視野內為何種器官"
+  },
+  {
+    "num": "206101",
+    "path": "R/206101.webp",
+    "answer": [
+      "Bronchus; smooth muscle cell"
+    ],
+    "explanation": "環狀smooth muscle存在於 mucosa 跟 submucosa 之間，且有plate form cartilage，可判斷其為bronchus。 \n【出處】共筆Vol.10 P.18 ",
+    "description": "視野下為何種構造？箭頭所指處為何種細胞？"
+  },
+  {
+    "num": "206129",
+    "path": "R/206129.webp",
+    "answer": [
+      "Pulmonary artery"
+    ],
+    "explanation": "在secondary bronchus旁邊較大條的血管。為伴行bronchus及bronchiole、較大的血管，較小的血管是bronchial artery。\n【出處】共筆Vol.13 P.55",
+    "description": "請問下圖所指的組織結構為何？"
+  },
+  {
+    "num": "207115",
+    "path": "R/207115.webp",
+    "answer": [
+      "Bronchial artery"
+    ],
+    "explanation": "在secondary bronchus旁邊較小條的血管。為伴行bronchus及bronchiole、較小的血管，較大的血管是pulmonary artery。",
+    "description": "框框（非箭頭）內為何構造？"
+  },
+  {
+    "num": "207117",
+    "path": "R/207117.webp",
+    "answer": [
+      "TEM ciliated columnar epithelium goblet cell; SEM"
+    ],
+    "explanation": "帶有一條一條cilia的柱狀epithelium為ciliated columnar epithelium，中間夾雜充滿分泌小泡的goblet cell。TEM拍攝畫面為平面，SEM為立體。",
+    "description": "下面兩圖為何種顯微鏡？何種細胞？"
+  },
+  {
+    "num": "207127",
+    "path": "R/207127.webp",
+    "answer": [
+      "Respiratory bronchiole"
+    ],
+    "explanation": "可以發現在terminal bronchiole末端的epithelium漸漸變為不連續，而成為respiratory bronchiole。表面呈圓拱形也是其特徵之一。",
+    "description": "下圖構造為何？"
+  },
+  {
+    "num": "207134",
+    "path": "R/207134.webp",
+    "answer": [
+      "Bronchus"
+    ],
+    "explanation": "片狀cartilage，mucosa和submucosa之間有smooth muscle cell。",
+    "description": "下圖為何組織？"
+  },
+  {
+    "num": "203101",
+    "path": "R/203101.webp",
+    "answer": [
+      "pulmonary artery"
+    ],
+    "explanation": "圖中組織充滿單層細胞所圍成的空腔與通道，可推斷為肺；而中央管道具有明顯的 smooth muscle、無 submucosa gland、無 hyaline cartilage，可以判斷此為 bronchiole 的切面。箭頭所指為與bronchiole伴行的大型血管，為 pulmonary artery。\n與pulmonary vein的判別方式為：與呼吸道伴行者是artery，獨立者為vein。\n【出處】共筆Vol.10 P.53",
+    "description": "箭頭指的為何構造？"
+  },
+  {
+    "num": "203102",
+    "path": "R/203102.webp",
+    "answer": [
+      "trachea"
+    ],
+    "explanation": "視野下可見一個大型管道，周圍有C型軟骨包圍，而平滑肌分布於軟骨的缺口處，可推知此構造為trachea。\n【出處】共筆Vol.10 P.47",
+    "description": "視野下為何構造？"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "Histology",
+  "short_name": "解剖跑臺",
+  "start_url": "/histology/",
+  "display": "standalone",
+  "scope": "/histology/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/histology/icons/icon-192.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/histology/icons/icon-512.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+[
+    {
+        "num": "Face_and_Scalp_1",
+        "path": "Face_and_Scalp/Face_and_Scalp_1.webp",
+        "answer": [
+            "Marginal mandibular branch of facial n.",
+            "Marginal mandibular branch of facial nerve"
+        ],
+        "explanation": "雖然老師講義寫 marginal mandibular branch of facial nerve 平行 parotid duct，但在這裡不適用，看 innervation 位置等 比較準。其他：1- zygomaticus major m.、2- temporal branch of facial nerve、3- zygomatic branch of facial nerve、4- parotid duct、5- parotid gland、6- buccal branch of facial nerve、7- masseter muscle。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_2",
+        "path": "Face_and_Scalp/Face_and_Scalp_2.webp",
+        "answer": [
+            "Zygomatic branch of facial n.",
+            "Zygomatic branch of facial nerve"
+        ],
+        "explanation": "支配 orbicularis oculi 往眼睛下半部走。(複習)Facial n. 的 branch 6 支，1 條 posterior auricular n. 後走，5 條前走。前 走的 branches 分成兩個 division，1st division 包含 temporal & zygomatic branch； 2nd division 包含 buccal & marginal mandibular & cervical branch。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_3",
+        "path": "Face_and_Scalp/Face_and_Scalp_3.webp",
+        "answer": [
+            "Anterior branch of retromandibular v.",
+            "Anterior branch of retromandibular vein"
+        ],
+        "explanation": "原本被 parotid gland 覆蓋，注意 retromandibular v. 前分支和 facial v.會合成 common facial v.注入 IJV，後分支則和 posterior auricular v.會合成 EJV(即走在 SCM 上，最外側的那條血管)。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_4",
+        "path": "Face_and_Scalp/Face_and_Scalp_4.webp",
+        "answer": [
+            "Palpebral part of orbicularis oculi m.",
+            "Palpebral part of orbicularis oculi muscle"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_5",
+        "path": "Face_and_Scalp/Face_and_Scalp_5.webp",
+        "answer": [
+            "Facial v.",
+            "Facial vein"
+        ],
+        "explanation": "其他：A-Parotid duct、B-Zygomaticus major、C– Buccal fat pad、D-Masseter muscle、E-Parotid gland、 G-Facial artery、H-Submandibular salivary gland",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_6",
+        "path": "Face_and_Scalp/Face_and_Scalp_6.webp",
+        "answer": [
+            "Buccal branch of facial n.",
+            "Buccal branch of facial nerve"
+        ],
+        "explanation": "走在 Masseter m.上，到嘴角支配支配 Buccinator m. 與 上層肌肉。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_7",
+        "path": "Face_and_Scalp/Face_and_Scalp_7.webp",
+        "answer": [
+            "Auriculotemporal n.",
+            "Auriculotemporal nerve"
+        ],
+        "explanation": "和 superficial temporal a.(6)伴行。其他：1 = orbicularis oculi m.、2 = zygomaticus major m.、3 = buccal branch of facial n.、4 = facial a.、5 = parotid gland and duct",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_8",
+        "path": "Face_and_Scalp/Face_and_Scalp_8.webp",
+        "answer": [
+            "Orbicularis oris muscle",
+            "Orbicularis oris m."
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_9",
+        "path": "Face_and_Scalp/Face_and_Scalp_9.webp",
+        "answer": [
+            "Mental n.",
+            "Mental nerve"
+        ],
+        "explanation": "inferior alveolar n.的末端從 mental foramen 鑽出來，改稱 mental n.。值得注意的是，supraorbital foramen、infraorbital foramen、mental foramen 大約 是在同一個 parasagittal plane 上。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_10",
+        "path": "Face_and_Scalp/Face_and_Scalp_10.webp",
+        "answer": [
+            "Marginal mandibular branch of facial n.",
+            "Marginal mandibular branch of facial nerve"
+        ],
+        "explanation": "沿著 inferior border of mandible 走，約與 parotid duct 平行。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_11",
+        "path": "Face_and_Scalp/Face_and_Scalp_11.webp",
+        "answer": [
+            "Parotid duct"
+        ],
+        "explanation": "跨過 masseter 表面，在 buccinator 處往內彎，鑽進 buccinator 後開口於 2nd maxillary molar 處。另一個認法是跟神經比起來較粗。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_12",
+        "path": "Face_and_Scalp/Face_and_Scalp_12.webp",
+        "answer": [
+            "Superficial temporal a.",
+            "Superficial temporal artery"
+        ],
+        "explanation": "和 superficial temporal v.、auriculotemporal n.伴行。這張圖超神作，可看到 auriculotemporal n.以及 facial n.的五個分支：temporal br. 、zygomatic br.、buccal br.、marginal mandibular br.、cervical br.。(複習)幾個名字有 auricular 的好朋友請不要錯亂：great auricular n.是 cervical plexus 的感覺分支，和 EJV 伴行跨過 SCM 走到耳朵下方。Auriculotemporal n.是 mandibular n.的感覺分支，和 superficial temporal a.&v.伴行，走在耳前。Posterior auricular br. of facial n.(posterior auricular",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_13",
+        "path": "Face_and_Scalp/Face_and_Scalp_13.webp",
+        "answer": [
+            "Buccal branch of facial n.",
+            "Buccal branch of facial nerve"
+        ],
+        "explanation": "可看出他跨過 masseter 往 buccinator 走去。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_14",
+        "path": "Face_and_Scalp/Face_and_Scalp_14.webp",
+        "answer": [
+            "Auriculotemporal n.",
+            "Auriculotemporal nerve"
+        ],
+        "explanation": "和 superficial temporal a.伴行，為 mandibular n.的分支，注 意他從耳前經過！",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_15",
+        "path": "Face_and_Scalp/Face_and_Scalp_15.webp",
+        "answer": [
+            "Buccinator m.",
+            "Buccinator muscle"
+        ],
+        "explanation": "判斷依據如下：(1) fiber 和 orbicularis oris 不可分離。(2) parotid duct 會鑽入它，進到 2nd maxillary molar 的地方。 順帶一提，這個大體老師有兩個 parotid duct(黑色箭頭所指處)，不過這不是重點 。染紅色者為 facial a.，旁邊藍色的為 facial v.。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_16",
+        "path": "Face_and_Scalp/Face_and_Scalp_16.webp",
+        "answer": [
+            "Angular a.",
+            "Angular artery"
+        ],
+        "explanation": "facial a.的末端。和 facial v.區分方法是看在 mandible 下緣附近有沒有蜿蜒曲折(facial a.有)。Facial a.在 angle of mouth 處分出 superior & inferior labial a.。angular a.和 ophthalmic a.有 anastomosis。其他：1-angular v.、2-angular a.、3- superior labial a.、4-facial a.、5-facial v.、6- inferior labial a.、7-parotid duct、8-parotid gland、 9-masseter m.",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_17",
+        "path": "Face_and_Scalp/Face_and_Scalp_17.webp",
+        "answer": [
+            "Parotid duct"
+        ],
+        "explanation": "在 zygomatic arch 下方約兩公分處橫跨過 masseter，在 masseter 前緣處就轉彎走到內側裡，往內鑽過 buccinator，到 2nd superior molar tooth 的地方。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_18",
+        "path": "Face_and_Scalp/Face_and_Scalp_18.webp",
+        "answer": [
+            "Mental n.",
+            "Mental nerve"
+        ],
+        "explanation": "從 mental foramen 鑽出。其他：1-infraorbital a.、2-infraorbital n.、3-facial a.。 右側由上到下：parotid duct, masseter m., parotid gland, facial v.。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_19",
+        "path": "Face_and_Scalp/Face_and_Scalp_19.webp",
+        "answer": [
+            "Superficial temporal a.",
+            "Superficial temporal artery"
+        ],
+        "explanation": "位於 TM joint 和 auricle 之間，會與 auriculotemporal n.(sensory branch of CN V3, mandibular n. )伴行。其他：1- Orbital part of Orbicularis oculi、2-zygomaticus major m.、3-buccal branch of facial nerve、4-facial artery、5-parotid gland and duct、7-auriculotemporal nerve。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_20",
+        "path": "Face_and_Scalp/Face_and_Scalp_20.webp",
+        "answer": [
+            "Infraorbital n.",
+            "Infraorbital nerve"
+        ],
+        "explanation": "屬於 CNV2 的分支，從 Infraorbital foramen 鑽出。",
+        "description": ""
+    },
+    {
+        "num": "Face_and_Scalp_21",
+        "path": "Face_and_Scalp/Face_and_Scalp_21.webp",
+        "answer": [
+            "Supraorbital a.",
+            "Supraorbital artery"
+        ],
+        "explanation": "其他：1- supraorbital n.、2- supraorbital artery、3- infraorbital artery、4- infraorbital nerve。",
+        "description": ""
+    }
+]

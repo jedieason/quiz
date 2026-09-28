@@ -1,0 +1,319 @@
+[
+  {
+    "num": "b11lab-01",
+    "path": "B11期末考/b11lab-01.webp",
+    "answer": [
+      "Basophils"
+    ],
+    "explanation": "此玻片為 pars distalis of pituitary gland，依據細胞質染色性質：Basophils 細胞較大，細胞質呈藍紫色；Acidophils 細胞較小，細胞質呈紅色；Chromophobes 細胞質極淡染，僅可見其細胞核。",
+    "description": "指針所指細胞名稱（be specific！）"
+  },
+  {
+    "num": "b11lab-02",
+    "path": "B11期末考/b11lab-02.webp",
+    "answer": [
+      "Oxyphil cells"
+    ],
+    "explanation": "此玻片為 parathyroid gland。Oxyphil cells 細胞質呈粉紅色，細胞較大且界限明顯（但老師說學校玻片較舊，未必可以看出），可以用核核距離較遠判斷；Principal cells 細胞質淡染，細胞較小而圓。",
+    "description": "請寫出指針所指的細胞名稱"
+  },
+  {
+    "num": "b11lab-03",
+    "path": "B11期末考/b11lab-03.webp",
+    "answer": [
+      "Chromaffin cells"
+    ],
+    "explanation": "此視野下的構造為 medulla of adrenal gland。Chromaffin cells（嗜鉻細胞）和 K2Cr2O7 反應產生棕色沉澱。",
+    "description": "紅線範圍為何種細胞（Zenker-formalin stain）？"
+  },
+  {
+    "num": "b11lab-04",
+    "path": "B11期末考/b11lab-04.webp",
+    "answer": [
+      "Spermatids"
+    ],
+    "explanation": "Spermatids 靠近 lumen 側，胞小核圓。其中值得注意的是，即使抵達後期轉為細長形的細胞，只要「尚未脫離管壁」都應該屬於 spermatids 的階段。",
+    "description": "指針處為何種細胞（be specific！）"
+  },
+  {
+    "num": "b11lab-05",
+    "path": "B11期末考/b11lab-05.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "此玻片為 crista ampullaris of inner ear。可以用香菇頭形狀特徵跟 macula 區分。上方為若有似無的膠狀構造 cupula，淡染覆蓋於 hair cell 上。",
+    "description": "圖中為何種構造"
+  },
+  {
+    "num": "b11lab-06",
+    "path": "B11期末考/b11lab-06.webp",
+    "answer": [
+      "Follicular cell of thyroid gland"
+    ],
+    "explanation": "Follicular cell 為 simple cuboidal epithelium，包圍 colloids。Parafollicular cell 則核大淡染。",
+    "description": "黃色圈起來的為何種細胞？"
+  },
+  {
+    "num": "b11lab-07",
+    "path": "B11期末考/b11lab-07.webp",
+    "answer": [
+      "Inner plexiform layer of the retina"
+    ],
+    "explanation": "此玻片為 optic part of retina。先辨認三層顏色較深、有染出細胞核的區域：ganglion cell layer, inner nuclear layer, outer nuclear layer。夾在 ganglion cell layer 及 inner nuclear layer 之間的即為 inner plexiform layer。",
+    "description": "指針處是哪一個 layer？"
+  },
+  {
+    "num": "b11lab-08",
+    "path": "B11期末考/b11lab-08.webp",
+    "answer": [
+      "Corpus albicans"
+    ],
+    "explanation": "Corpus albicans 呈白雲狀（本次考試只有這片長這樣），呈現粉白色均質狀，僅有少數的細胞。",
+    "description": "視野下為何種構造？"
+  },
+  {
+    "num": "b11lab-09",
+    "path": "B11期末考/b11lab-09.webp",
+    "answer": [
+      "Ora serrata"
+    ],
+    "explanation": "Retina 中 cecal part 跟 optic part 的交界，略微凹陷（不一定能看到）。若倍數較大，可以用兩側細胞層次不同區分，cecal part 分層不明顯，optic part 分層明顯。",
+    "description": "請寫出這是什麼 junction？ (Be specific)"
+  },
+  {
+    "num": "b11lab-10",
+    "path": "B11期末考/b11lab-10.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "此切片為 internal ear，右半部為 organ of Corti。Spiral ganglion 為 bipolar sensory neuron，其特徵為深染、葡萄狀。",
+    "description": "這是什麼構造"
+  },
+  {
+    "num": "b11lab-11",
+    "path": "B11期末考/b11lab-11.webp",
+    "answer": [
+      "Syncytiotrophoblast",
+      "cytotrophoblast"
+    ],
+    "explanation": "這片是 tertiary villi，外層的深染、多核的細胞為 Syncytiotrophoblast。",
+    "description": "箭頭所指細胞"
+  },
+  {
+    "num": "b11lab-12",
+    "path": "B11期末考/b11lab-12.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "Stereocilia 的特徵為長短不一，頂段會看起來有一圈粉紅色的連線。此為副睪的切片，副睪會有的上皮即為 pseudostratified columnar epithelium with stereocilia。",
+    "description": "圖的上皮種類為何"
+  },
+  {
+    "num": "b11lab-13",
+    "path": "B11期末考/b11lab-13.webp",
+    "answer": [
+      "Primary spermatocyte"
+    ],
+    "explanation": "在此區域核最大，核仁明顯有絲狀。",
+    "description": "指針所指爲何種細胞？"
+  },
+  {
+    "num": "b11lab-14",
+    "path": "B11期末考/b11lab-14.webp",
+    "answer": [
+      "Pituicytes"
+    ],
+    "explanation": "細胞核為圓形或橢圓形且淡染，為 pars nervosa 主要細胞組成。",
+    "description": "請問紅色箭頭所指的細胞為何？（不要管指針）"
+  },
+  {
+    "num": "b11lab-15",
+    "path": "B11期末考/b11lab-15.webp",
+    "answer": [
+      "Scala vestibuli"
+    ],
+    "explanation": "Cochlear canal 會被兩個 membrane 分成三個部分：Vestibular membrane 分隔 scala vestibuli 和 scala media。Basilar membrane 與其上的 organ of corti 分隔 scala media 和 scala tympani。故可知上中下三個腔室分別為 scala vestibuli、scala media 以及 scala tympani。",
+    "description": "指針下的空間為何？be specific"
+  },
+  {
+    "num": "b11lab-16",
+    "path": "B11期末考/b11lab-16.webp",
+    "answer": [
+      "Leydig cells"
+    ],
+    "explanation": "先判斷出旁邊管道為 seminiferous tubule，間質中有 lipid droplets、發達的 sER、 mitochondria 的即為 Leydig cell。",
+    "description": "圖中所指細胞為何？"
+  },
+  {
+    "num": "b11lab-17",
+    "path": "B11期末考/b11lab-17.webp",
+    "answer": [
+      "Active mammary gland"
+    ],
+    "explanation": "Gland 非常發達，細胞較矮，CNT 減少，可見大型 excretory duct。和 inactive 比較：幾乎看不到結締組織和 duct。和 lacrimal gland 比較：管腔較大、細胞和較大。",
+    "description": "圖中是何種生理狀態的器官？"
+  },
+  {
+    "num": "b11lab-18",
+    "path": "B11期末考/b11lab-18.webp",
+    "answer": [
+      "Lacrimal gland"
+    ],
+    "explanation": "大部分由 serous acini 組成，且 fat infiltration 和 duct 較少，外圍可見 myoepithelium cell。",
+    "description": "請問下列為何構造（be specific）"
+  },
+  {
+    "num": "b11lab-19",
+    "path": "B11期末考/b11lab-19.webp",
+    "answer": [
+      "B"
+    ],
+    "explanation": "lens capsule（淡染 透明）其下包著 subcapsule epithelium，聚集了許多細胞核。可以看到 subcapsule epithelium 的細胞核只分布在圖中右側，即前側。也可直接看有 Iris 為前側。",
+    "description": "哪個是 lens 的 anterior side？ （A, B 選一）"
+  },
+  {
+    "num": "b11lab-20",
+    "path": "B11期末考/b11lab-20.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "視野中有整個管子，內皮呈蜂巢高度分支狀，和 prostate state 相比，smooth muscle cell 較少。",
+    "description": "下列是何種器官"
+  },
+  {
+    "num": "b11lab-21",
+    "path": "B11期末考/b11lab-21.webp",
+    "answer": [
+      "Zona fasciculata"
+    ],
+    "explanation": "Cortex 由外到內分別為 zona glomerulosa, zona fasciculata, zona reticularis。更內層為 medulla。Zona fasciculate 細胞呈現縱走整齊排列，一束一束呈索狀。",
+    "description": "請問圖中藍線構造為何？"
+  },
+  {
+    "num": "b11lab-22",
+    "path": "B11期末考/b11lab-22.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見 palpebral conjunctiva，故為 tarsal gland。Tarsal glands（為皮脂腺）有管道連通到 tarsal plate，分泌淚液的部分成分。",
+    "description": "請問這是什麼組織"
+  },
+  {
+    "num": "b11lab-23",
+    "path": "B11期末考/b11lab-23.webp",
+    "answer": [
+      "Pinealocytes"
+    ],
+    "explanation": "由視野左側略呈同心圓狀之腦砂（brain sand）及組織受分割為小葉（lobule）之特徵可知此構造應為松果體（pineal gland）。此圖倍率恐稍顯不清，然在松果體中之細胞主要為松果體細胞（pinealocyte）與間質細胞（interstitial cell，屬神經膠細胞）：前者數量較多，細胞較大、細胞核淡染；後者數量少（約 5%），細胞核較深染且不規則。",
+    "description": "指針指的是何種細胞"
+  },
+  {
+    "num": "b11lab-24",
+    "path": "B11期末考/b11lab-24.webp",
+    "answer": [
+      "Interstitial gland"
+    ],
+    "explanation": "視野下可見同心圓狀、中心有卵母細胞（oocyte）之初級卵泡（primary follicle）及較小顆之原胚卵泡（primordial follicle），可知該部位應為卵巢皮質（ovarian cortex）。此圖指針似不甚明確，然於視野下方可見若干較大顆細胞彼此聚集，細胞型態近似於內泡膜（theca interna），此構造即為間質腺（interstitial gland），為內泡膜於卵泡退化後之殘餘，主要功能為分泌固醇類激素。",
+    "description": "請寫出構造名稱"
+  },
+  {
+    "num": "b11lab-25",
+    "path": "B11期末考/b11lab-25.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "血管紋（stria vascularis）位於耳蝸管壁，特點為富含微血管且具色素細胞而顏色較深。於第 27 題視野中亦可見到此構造。",
+    "description": "請問指針所指是什麼？"
+  },
+  {
+    "num": "b11lab-26",
+    "path": "B11期末考/b11lab-26.webp",
+    "answer": [
+      "Peg cell"
+    ],
+    "explanation": "視野下可見單層柱狀上皮，纖毛細胞與無纖毛細胞交錯排列，可知該構造應為輸卵管（fallopian tube）。箭頭所指細胞不具纖毛且細胞凸向管腔，為插入細胞（peg cell）。",
+    "description": "請問紅色箭頭所指是何種細胞（Be specific）？"
+  },
+  {
+    "num": "b11lab-27",
+    "path": "B11期末考/b11lab-27.webp",
+    "answer": [
+      "Organ of Corti"
+    ],
+    "explanation": "構造中可見長條狀之毛細胞（hair cell）與自螺旋緣（spiral limbus）伸出之覆膜（tectorial membrane），可知該構造為柯蒂氏器（organ of Corti）。",
+    "description": "請問藍框內的構造為何？"
+  },
+  {
+    "num": "b11lab-28",
+    "path": "B11期末考/b11lab-28.webp",
+    "answer": [
+      "Vagina"
+    ],
+    "explanation": "陰道（vagina）上皮型態為未角質化之複層鱗狀上皮（non-keratinized stratified squamous epithelium）且無腺體，黏膜固有層（lamina propria）富含血管，為辨識特徵。",
+    "description": "請問下列器官為何（Be specific）？"
+  },
+  {
+    "num": "b11lab-29",
+    "path": "B11期末考/b11lab-29.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "視野下可見大小不一空腔，空腔間有豐富平滑肌分布，可知該構造為攝護腺（prostate gland）。",
+    "description": "請寫出視野下器官名稱？"
+  },
+  {
+    "num": "b11lab-30",
+    "path": "B11期末考/b11lab-30.webp",
+    "answer": [
+      "Stratified columnar epithelium"
+    ],
+    "explanation": "陰莖尿道（penile urethra）上皮型態為複層柱狀上皮（stratified columnar epithelium），近尿道開口處為複層鱗狀上皮（stratified squamous epithelium）；攝護腺尿道（prostatic urethra）則為移行上皮（transitional epithelium）。",
+    "description": "視野下是何種上皮細胞"
+  },
+  {
+    "num": "b11lab-31",
+    "path": "B11期末考/b11lab-31.webp",
+    "answer": [
+      "Decidual cell"
+    ],
+    "explanation": "指針所指細胞體積較大且細胞質淡染，細胞周邊有細胞核深染之免疫細胞，視野周遭隱約可見絨毛（villus），可知該細胞為蛻膜細胞（decidual cell）。",
+    "description": "指針所指為何種細胞（Be specific）？"
+  },
+  {
+    "num": "b11lab-32",
+    "path": "B11期末考/b11lab-32.webp",
+    "answer": [
+      "Granulosa lutein cell"
+    ],
+    "explanation": "視野下可依細胞密度大致分為二區，且該二區細胞核均呈圓形、有脂質液滴分布，可知該構造應為黃體（corpus luteum）。其中細胞密度較高者為卵泡膜黃體細胞（theca lutein cell），來自內泡膜；細胞密度較低者則為顆粒層黃體細胞（granulosa lutein cell），來自顆粒層細胞（granulosa cell）。",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "b11lab-33",
+    "path": "B11期末考/b11lab-33.webp",
+    "answer": [
+      "Vas deferens",
+      "Ductus deferens"
+    ],
+    "explanation": "視野下可見厚實平滑肌層，由外向內呈現縱向—環向—縱向排列，可知該構造為輸精管（vas deferens）。",
+    "description": "圖中為何種構造？"
+  },
+  {
+    "num": "b11lab-34",
+    "path": "B11期末考/b11lab-34.webp",
+    "answer": [
+      "Cervix"
+    ],
+    "explanation": "視野下可見固有層中具有分支狀腺體，為子宮頸腺（cervical gland）。此外，在上皮可觀察到由單層柱狀上皮向複層鱗狀上皮過渡之移行帶（transformation zone），可知該構造為子宮頸（cervix）。",
+    "description": "請寫出此構造名稱"
+  },
+  {
+    "num": "b11lab-35",
+    "path": "B11期末考/b11lab-35.webp",
+    "answer": [
+      "Proliferative phase of uterus"
+    ],
+    "explanation": "Uterine gland 呈長直平滑狀 (截面為橢圓或圓形)",
+    "description": "下列是何種生理狀態的何種器官？"
+  }
+]

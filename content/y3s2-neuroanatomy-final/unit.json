@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Gross_Anatomy_of_CNS.json",
+        "name": "Gross Anatomy of CNS"
+    },
+    {
+        "id": "Medulla.json",
+        "name": "Medulla"
+    },
+    {
+        "id": "Pons.json",
+        "name": "Pons"
+    },
+    {
+        "id": "Midbrain.json",
+        "name": "Midbrain"
+    },
+    {
+        "id": "Diencephalon.json",
+        "name": "Diencephalon"
+    }
+]

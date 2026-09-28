@@ -1,0 +1,407 @@
+[
+  {
+    "num": "204108",
+    "path": "U/204108.webp",
+    "answer": [
+      "Podocyte",
+      "podocyte",
+      "是"
+    ],
+    "explanation": "上圖可見podocyte的primary and secondary process，以及它們之間interdigitation的現象包圍住capillary。下圖上方是podocyte，核大且呈現立方狀（cuboid）是特徵，下方是capillary。可以看到capillary表面的一個一個突起的pedicels。",
+    "description": "上下分別為什麼細胞？是否相同？"
+  },
+  {
+    "num": "204109",
+    "path": "U/204109.webp",
+    "answer": [
+      "Proximal convoluted tubule"
+    ],
+    "explanation": "管腔內有brush border，細胞染色偏紅，細胞間邊界不清楚。",
+    "description": "箭頭所指的是什麼管道？"
+  },
+  {
+    "num": "204110",
+    "path": "U/204110.webp",
+    "answer": [
+      "Outer medulla"
+    ],
+    "explanation": "左半部有球狀的glomerulus，可知為cortex，而到右半部逐漸消失，即為cortex與medulla交界部分。",
+    "description": "箭頭所指區域名稱？"
+  },
+  {
+    "num": "204111",
+    "path": "U/204111.webp",
+    "answer": [
+      "Urinary space"
+    ],
+    "explanation": "球狀構造為renal corpuscle，外層由Bowman’s capsule包裹，Bowman’s capsule的兩層細胞之間即為urinary space，也稱為Bowman’s space。",
+    "description": "箭頭所指區域名稱？"
+  },
+  {
+    "num": "204112",
+    "path": "U/204112.webp",
+    "answer": [
+      "Urinary bladder"
+    ],
+    "explanation": "沒有尿液或尿量少時，transitional epithelium細胞層數多，形成invaginated plaque，而因為切片方向的緣故，呈現不規則空泡狀，稱為fusiform vesicle。",
+    "description": "器官名稱？"
+  },
+  {
+    "num": "210103",
+    "path": "U/210103.webp",
+    "answer": [
+      "Interlobular vessel"
+    ],
+    "explanation": "Interlobular vessel為走在renal cortex的lobule之間的血管。",
+    "description": "視野下箭頭所指的構造為何?"
+  },
+  {
+    "num": "210112",
+    "path": "U/210112.webp",
+    "answer": [
+      "Transitional epithelium",
+      "urethra"
+    ],
+    "explanation": "管腔細胞成圓拱狀,突向管腔,有時可見雙核。除了 urinary bladder 外,ureter 及近端 urethra 的上皮亦為此構造。",
+    "description": "下列TEM圖是什麼上皮，還有舉出一個器官有這種上皮的(圖片亡佚)"
+  },
+  {
+    "num": "210115",
+    "path": "U/210115.webp",
+    "answer": [
+      "Proximal straight tubule",
+      "proximal convoluted tubule"
+    ],
+    "explanation": "形狀筆直、管腔髒髒的為brush border，此外藉由顏色可知細胞質偏eosinophilic、細胞核位置偏底部，綜合以上可判斷為PST。",
+    "description": "箭頭所指的管狀構造為何？"
+  },
+  {
+    "num": "210121",
+    "path": "U/210121.webp",
+    "answer": [
+      "Macula densa"
+    ],
+    "explanation": "圖片中充滿許多小管腔,應為腎臟,故中央的圓形構造即為Glomerulus。而箭頭所指處位於 vascular pole,tubule 不具brush border,lumen 較為乾淨,細胞核接近 lumen,推知為distal convoluted tubule。而所指的細胞高度較高,也較為密集,為 DCT 特化上皮細胞 macula densa,用來偵測 luminal sodium,協助活化 juxtaglomerular apparatus 分泌 renin。",
+    "description": "箭頭所指構造為何"
+  },
+  {
+    "num": "11102",
+    "path": "U/11102.webp",
+    "answer": [
+      "kidney"
+    ],
+    "explanation": "可觀察到空腔裡有紅血球，推知其為血管。進一步觀察可看到血管表面有小突起狀之foot process of podocyte，故此處應為glomerulus，位於kidney。",
+    "description": "請問此TEM是什麼器官? "
+  },
+  {
+    "num": "11105",
+    "path": "U/11105.webp",
+    "answer": [
+      "Bowman’s space",
+      "Urinary space",
+      "capsular space"
+    ],
+    "explanation": "Bowman's capsule的parietal layer和visceral layer之間所夾的空間。",
+    "description": "指針所指（箭頭）的這個空間是什麼?"
+  },
+  {
+    "num": "11124",
+    "path": "U/11124.webp",
+    "answer": [
+      "Proximal straight tubule"
+    ],
+    "explanation": "可從細胞質較深染、管中有較顯模糊且破碎之刷狀緣（brush border）得知其應屬近端小管（proximal tubule），而從視野下缺乏腎絲球（glomerulus）且同一視野可見集尿管（collecting duct）可以判斷所指構造應是近直小管（proximal straight tubule）。",
+    "description": "請問指針所指構造為何?"
+  },
+  {
+    "num": "11129",
+    "path": "U/11129.webp",
+    "answer": [
+      "Interlobular vessel"
+    ],
+    "explanation": "這個顏色（鮮亮紅，特染），又看到一圈一圈的應該是corpuscle，感覺連結之間的是Interlobular，如果在皮質隨質間的話感覺就要是arcuate.（二者垂直）",
+    "description": "指針所指是何種構造?"
+  },
+  {
+    "num": "205108",
+    "path": "U/205108.webp",
+    "answer": [
+      "glomerulus"
+    ],
+    "explanation": "非常明顯，可以看到外圍的Bowman’s capsule空腔和位於旁邊的proximal convoluted tubule 和有macula densa的distal convoluted tubule。 ",
+    "description": "虛線內為何種結構？"
+  },
+  {
+    "num": "208216",
+    "path": "U/208216.webp",
+    "answer": [
+      "Arcuate artery"
+    ],
+    "explanation": "分隔cortex與medulla。可見到圖的左邊為glomerulus，所以是位在cortex，右邊則是medulla。\n【出處】08共筆Vol.17 P.60",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "208224",
+    "path": "U/208224.webp",
+    "answer": [
+      "medullary ray"
+    ],
+    "explanation": "可見縱走的tubule們。\n【出處】08共筆Vol.17 P.55",
+    "description": "寫出虛線範圍內構造名稱？"
+  },
+  {
+    "num": "208234",
+    "path": "U/208234.webp",
+    "answer": [
+      "macula densa"
+    ],
+    "explanation": "在vascular pole，tubule細胞淡染分界明顯，細胞核接近lumen，推知為distal convoluted tubule （DCT），另外箭頭所指為DCT特化上皮細胞macula densa，其細胞核緊密擠在一起，可用來偵測luminal sodium，協助活化juxtaglomerular apparatus分泌renin。\n【出處】08共筆Vol.17 P.30",
+    "description": "箭頭所指為什麼構造？"
+  },
+  {
+    "num": "208103",
+    "path": "U/208103.webp",
+    "answer": [
+      "Collecting duct"
+    ],
+    "explanation": "視野下的tubule細胞多層、界線明顯。較淡染、細胞核不是在靠近lumen side，推知為collecting duct。\n【出處】共筆Vol.17 P.59",
+    "description": "虛線範圍內之構造名稱？"
+  },
+  {
+    "num": "208106",
+    "path": "U/208106.webp",
+    "answer": [
+      "Urinary space"
+    ],
+    "explanation": "球狀構造為renal corpuscle，外層由Bowman’s capsule包裹，Bowman’s capsule的兩層細胞之間即為urinary space，也稱為Bowman’s space。\n【出處】共筆Vol.17 P11",
+    "description": "虛線圍著的區域是？"
+  },
+  {
+    "num": "207209",
+    "path": "U/207209.webp",
+    "answer": [
+      "Distal convoluted tubule"
+    ],
+    "explanation": "可見腎絲球，又Lumen 乾淨無Brush Border，故為Distal convoluted tubule。\n【出處】07共筆Vol.18 P.61",
+    "description": "寫出箭頭所指虛線內整個構造（Be specific）"
+  },
+  {
+    "num": "206206",
+    "path": "U/206206.webp",
+    "answer": [
+      "Glomerulus"
+    ],
+    "explanation": "可看到 Bowman’s capsule 其內部有成團的血管，即為\nglomerulus。",
+    "description": "寫出箭頭所指虛線內構造名稱"
+  },
+  {
+    "num": "206207",
+    "path": "U/206207.webp",
+    "answer": [
+      "Bowman’s",
+      "Parietal layer of",
+      "capsule"
+    ],
+    "explanation": "為 simple squamous cell，位於外側。",
+    "description": "兩箭頭所共指之構造名稱（Be specific）"
+  },
+  {
+    "num": "205208",
+    "path": "U/205208.webp",
+    "answer": [
+      "Collecting duct"
+    ],
+    "explanation": "視野下的tubule細胞多層、界線明顯。較淡染、細胞核不是在靠近lumen side，推知為collecting duct 。",
+    "description": "寫出虛線範圍內之構造名稱？ "
+  },
+  {
+    "num": "205210",
+    "path": "U/205210.webp",
+    "answer": [
+      "Macula densa"
+    ],
+    "explanation": "在vascular pole，tubule細胞淡染分界明顯，細胞核接近lumen，推知為distal convoluted tubule (DCT)，另外箭頭所指為DCT特化上皮細胞macula densa，其細胞核緊密擠在一起，可用來偵測luminal sodium，協助活化juxtaglomerular apparatus分泌renin ",
+    "description": "箭頭所指構造為何？ "
+  },
+  {
+    "num": "211206",
+    "path": "U/211206.webp",
+    "answer": [
+      "Cortical labyrinth"
+    ],
+    "explanation": "在medullary ray之間，為網狀結構，可見convoluted tubules,少量collecting tubules以及renal corpuscles。",
+    "description": "請問該區域（框起處)為何？"
+  },
+  {
+    "num": "211221",
+    "path": "U/211221.webp",
+    "answer": [
+      "Parietal layer of Bowman’s capsule"
+    ],
+    "explanation": "圖中所指為鮑氏囊（Bowman’s capsule）外側之單層鱗狀上皮，即鮑氏囊之壁層（parietal layer），包覆於鮑氏囊腔（urinary space）外。",
+    "description": "下列黑色箭頭為何種構造（be specific)"
+  },
+  {
+    "num": "211226",
+    "path": "U/211226.webp",
+    "answer": [
+      "Arcuate artery",
+      "Arcuate artery ; 位在renal cortex與medulla之間"
+    ],
+    "explanation": "分隔cortex與medulla。可見到圖的左邊為glomerulus，所以是位在cortex，右邊則是medulla。 ",
+    "description": "這是什麼構造？ 如何判別？ （黃色箭頭）"
+  },
+  {
+    "num": "211228",
+    "path": "U/211228.webp",
+    "answer": [
+      "Thin segment of loop of Henle"
+    ],
+    "explanation": "管壁為simple squamous epithelium，管徑小，細胞相對PST和DST扁平。",
+    "description": "下列藍色虛線（非黃色虛線）為何種構造（be specific)"
+  },
+  {
+    "num": "209113",
+    "path": "U/209113.webp",
+    "answer": [
+      "vasa recta"
+    ],
+    "explanation": "伸入medulla的直線型血管，為vasa recta。\n【出處】共筆Vol.17 P.3",
+    "description": "視野中的構造為？"
+  },
+  {
+    "num": "209114",
+    "path": "U/209114.webp",
+    "answer": [
+      "PCT，有明顯brush border"
+    ],
+    "explanation": "細胞質染色較eosinophilic，管腔有鬚狀構造的為brush border，細胞核偏向底部。且位於glomerulus旁邊所以知道位在cortical labyrinth中，綜合以上幾點，就知道是PCT\n【出處】共筆Vol.17 P.28",
+    "description": "視野中的構造為？如何判斷？"
+  },
+  {
+    "num": "209119",
+    "path": "U/209119.webp",
+    "answer": [
+      "Podocyte foot process"
+    ],
+    "explanation": "可見podocyte的primary and secondary process，以及它們之間interdigitation的現象包圍住capillary。\n【出處】共筆Vol.17 P.15",
+    "description": "框起處構造為何？"
+  },
+  {
+    "num": "209133",
+    "path": "U/209133.webp",
+    "answer": [
+      "Transitional epithelium; urinary bladder"
+    ],
+    "explanation": "管腔細胞成圓拱狀，突向管腔，有時可見雙核。除了urinary bladder外，ureter及近端urethra的上皮亦為此構造。\n【出處】共筆Vol.17 P.44",
+    "description": "視野中為何種上皮細胞？請舉例一個此上皮會存在的器官"
+  },
+  {
+    "num": "206107",
+    "path": "U/206107.webp",
+    "answer": [
+      "Proximal straight tubule"
+    ],
+    "explanation": "直，細胞質染色較eosinophilic，管腔髒髒的為brush border，細胞核偏向底部。\n【出處】07共筆Vol.18 P.63",
+    "description": "箭頭所指的管狀構造為何？"
+  },
+  {
+    "num": "206108",
+    "path": "U/206108.webp",
+    "answer": [
+      "Parietal layer of Bowman's capsule"
+    ],
+    "explanation": "為 simple squamous epithelium，包覆於 urinary space 外。\n【出處】07共筆Vol.18 P.21 ",
+    "description": "箭頭所指的圈狀構造爲何？"
+  },
+  {
+    "num": "206113",
+    "path": "U/206113.webp",
+    "answer": [
+      "Podocyte"
+    ],
+    "explanation": "上圖上方是podocyte，下方是capillary。可以看到capillary表面的一個一個突起的pedicels。下圖可見podocyte的primary and secondary process，以及它們之間interdigitation的現象包圍住capillary。\n【出處】07共筆Vol.18 P.19-20",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "206114",
+    "path": "U/206114.webp",
+    "answer": [
+      "Urinary Space"
+    ],
+    "explanation": "中間可見Bowman’s capsule，附近也有許多PCT和DCT。 \n【出處】07共筆Vol.18 P.13",
+    "description": "虛線圈起處為何種構造？"
+  },
+  {
+    "num": "206117",
+    "path": "U/206117.webp",
+    "answer": [
+      "Transitional epithelium; urinary bladder"
+    ],
+    "explanation": "管腔細胞成圓拱狀，突向管腔，有時可見雙核。除了urinary bladder外，ureter及近端urethra的上皮亦為此構造。\n【出處】07共筆Vol.18 P.68 ",
+    "description": "視野下為何種上皮組織？寫一種有這種上皮的器官。"
+  },
+  {
+    "num": "206120",
+    "path": "U/206120.webp",
+    "answer": [
+      "Arcuate artery"
+    ],
+    "explanation": "分隔cortex與medulla。可見到圖的左邊為glomerulus，所以是位在cortex，右邊則是medulla。 \n【出處】07共筆Vol.18 P.47 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "207101",
+    "path": "U/207101.webp",
+    "answer": [
+      "Proximal convoluted tube"
+    ],
+    "explanation": "管腔內有brush border，細胞染色偏紅，細胞間邊界不清楚。",
+    "description": "請問下圖為何組織？"
+  },
+  {
+    "num": "207102",
+    "path": "U/207102.webp",
+    "answer": [
+      "Podocyte; podocyte; podocyte process"
+    ],
+    "explanation": "上圖上方是podocyte，下方是capillary。可以看到capillary表面的一個一個突起的pedicels。下圖可見podocyte的primary and secondary process，以及它們之間interdigitation的現象包圍住capillary。",
+    "description": "請問以下圖片各為何種細胞？藍色框框框起來的構造為何？"
+  },
+  {
+    "num": "207132",
+    "path": "U/207132.webp",
+    "answer": [
+      "Renal corpuscle"
+    ],
+    "explanation": "球狀構造為renal corpuscle，外層由Bowman’s capsule包裹，Bowman’s capsule的兩層細胞之間即為urinary space，也稱為Bowman’s space。",
+    "description": "下圖構造為何？"
+  },
+  {
+    "num": "203108",
+    "path": "U/203108.webp",
+    "answer": [
+      "urinary space"
+    ],
+    "explanation": "此圖中央的圓形構造為Glomerulus，故在Glomerulus外的一圈空腔稱為urinary space，介於Bowman’s capsule的parietal layer跟visceral layer中間\n【出處】07共筆Vol.18 P.21",
+    "description": "箭頭所指空腔為何？"
+  },
+  {
+    "num": "203109",
+    "path": "U/203109.webp",
+    "answer": [
+      "Macula densa"
+    ],
+    "explanation": "圖片中充滿許多小管腔，應為腎臟，故中央的圓形構造即為Glomerulus。而箭頭所指處位於vascular pole，tubule不具brush border，lumen較為乾淨，細胞核接近lumen，推知為distal convoluted tubule。而所指的細胞高度較高，也較為密集，為DCT特化上皮細胞macula densa，用來偵測luminal sodium，協助活化juxtaglomerular apparatus分泌renin。\n【出處】07共筆Vol.18 P.61",
+    "description": "箭頭所指的細胞為何？"
+  },
+  {
+    "num": "203110",
+    "path": "U/203110.webp",
+    "answer": [
+      "podocyte"
+    ],
+    "explanation": "此圖中的構造為renal的Glomerulus，而所指的細胞位於Visceral layer of Bowman’s capsule，稱為podocyte。\n【出處】07共筆Vol.18 P.21",
+    "description": "箭頭所指細胞名稱？"
+  }
+]

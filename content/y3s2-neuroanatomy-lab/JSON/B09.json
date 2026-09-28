@@ -1,0 +1,456 @@
+[
+  {
+    "num": "B09_1",
+    "path": "B09/B09_1.webp",
+    "answer": [
+      "(1)Middle cerebellar peduncle (2)Facial colliculus (4th ventricle)",
+      "Middle cerebellar peduncle Facial colliculus (4th ventricle)"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_2",
+    "path": "B09/B09_2.webp",
+    "answer": [
+      "(1)Olive (2)Inferior olivary nucleus",
+      "Olive Inferior olivary nucleus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_3",
+    "path": "B09/B09_3.webp",
+    "answer": [
+      "(1)Superior colliculus (2)Trochlear nerve",
+      "Superior colliculus Trochlear nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_4",
+    "path": "B09/B09_4.webp",
+    "answer": [
+      "(1)Trigeminal spinal nucleus (2)Cuneate fasciculus",
+      "Trigeminal spinal nucleus Cuneate fasciculus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_5",
+    "path": "B09/B09_5.webp",
+    "answer": [
+      "(1)Nucleus gracilis (2)Pyramid",
+      "Nucleus gracilis Pyramid"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_6",
+    "path": "B09/B09_6.webp",
+    "answer": [
+      "(1)solitary tract (2)hypoglossal nerve",
+      "solitary tract hypoglossal nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_7",
+    "path": "B09/B09_7.webp",
+    "answer": [
+      "(1)medial lemniscus (2)trigeminal nerve",
+      "medial lemniscus trigeminal nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_8",
+    "path": "B09/B09_8.webp",
+    "answer": [
+      "(1)facial nerve (2)basilar artery",
+      "facial nerve basilar artery"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_9",
+    "path": "B09/B09_9.webp",
+    "answer": [
+      "(1)periaqueductal gray (2)pain",
+      "periaqueductal gray pain"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_10",
+    "path": "B09/B09_10.webp",
+    "answer": [
+      "(1)lateral lemniscus (2)superior cerebellar peduncle(decussation)",
+      "lateral lemniscus superior cerebellar peduncle(decussation)"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_16",
+    "path": "B09/B09_16.webp",
+    "answer": [
+      "(1)lenticular fasciculus (2) ansa lenticularis",
+      "lenticular fasciculus ansa lenticularis"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_17",
+    "path": "B09/B09_17.webp",
+    "answer": [
+      "(1) glutamate (2) GABA",
+      "glutamate GABA"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_18",
+    "path": "B09/B09_18.webp",
+    "answer": [
+      "(1) red nucleus (2) dopamine",
+      "red nucleus dopamine"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_19",
+    "path": "B09/B09_19.webp",
+    "answer": [
+      "(1) putamen (2) GABA",
+      "putamen GABA"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_20",
+    "path": "B09/B09_20.webp",
+    "answer": [
+      "(1) internal capsule (posterior limb) (2) anterior commissure",
+      "internal capsule (posterior limb) anterior commissure"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_21",
+    "path": "B09/B09_21.webp",
+    "answer": [
+      "(1)Flocculus (2)Tonsil",
+      "Flocculus Tonsil"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_22",
+    "path": "B09/B09_22.webp",
+    "answer": [
+      "(1)middle cerebellar peduncle (2)Superior cerebellar peduncle",
+      "middle cerebellar peduncle Superior cerebellar peduncle"
+    ],
+    "explanation": "(1)官方解答給 Pontocerebellar fiber，背題可能有錯",
+    "description": ""
+  },
+  {
+    "num": "B09_23",
+    "path": "B09/B09_23.webp",
+    "answer": [
+      "(1)Primary fissure (2)4th ventricle",
+      "Primary fissure 4th ventricle"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_24",
+    "path": "B09/B09_24.webp",
+    "answer": [
+      "(1)Corpus callosum (2)Posterior limb of internal capsule",
+      "Corpus callosum Posterior limb of internal capsule"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_25",
+    "path": "B09/B09_25.webp",
+    "answer": [
+      "(1)Column of fornix (2)Stria medullaris",
+      "Column of fornix Stria medullaris"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_26",
+    "path": "B09/B09_26.webp",
+    "answer": [
+      "(A) Supramarginal gyrus (B) Receptive language area",
+      "Supramarginal gyrus Receptive language area"
+    ],
+    "explanation": "出處: cerebrum (lateral view)",
+    "description": ""
+  },
+  {
+    "num": "B09_27",
+    "path": "B09/B09_27.webp",
+    "answer": [
+      "(A) visual (B) parietooccipital sulcus",
+      "visual parietooccipital sulcus"
+    ],
+    "explanation": "出處: cerebrum medial/sagittal view",
+    "description": ""
+  },
+  {
+    "num": "B09_28",
+    "path": "B09/B09_28.webp",
+    "answer": [
+      "(A)spinal trigeminal tract and nucleus (B)pain and temperature of face",
+      "spinal trigeminal tract and nucleus pain and temperature of face"
+    ],
+    "explanation": "出處: medulla-1",
+    "description": ""
+  },
+  {
+    "num": "B09_29",
+    "path": "B09/B09_29.webp",
+    "answer": [
+      "(A) superior colliculus (B) trochlear nerve",
+      "superior colliculus trochlear nerve"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_30",
+    "path": "B09/B09_30.webp",
+    "answer": [
+      "(A) CN8 or CN9 (B) inferior vestibular nucleus",
+      "CN8 or CN9 inferior vestibular nucleus"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_31",
+    "path": "B09/B09_31.webp",
+    "answer": [
+      "facial nerve；discriminative touch & proprioception of face",
+      "facial nerve；discriminative touch & proprioception of face"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_32",
+    "path": "B09/B09_32.webp",
+    "answer": [
+      "Vision；calcarine sulcus",
+      "Vision；calcarine sulcus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_33",
+    "path": "B09/B09_33.webp",
+    "answer": [
+      "平衡覺、雙眼凝視；Medial Longitudinal Fasciculus",
+      "平衡覺、雙眼凝視；Medial Longitudinal Fasciculus"
+    ],
+    "explanation": "(解答給 General visceral afferent, Special visceral afferent (GVA,SVA 縮寫算錯)，圖可能給錯)\nMLF 縮寫算錯",
+    "description": ""
+  },
+  {
+    "num": "B09_34",
+    "path": "B09/B09_34.webp",
+    "answer": [
+      "(A)ventrolateral nucleus of thalamus (B)anterior commissure",
+      "ventrolateral nucleus of thalamus anterior commissure",
+      "(A)VL (B)anterior commissure",
+      "VL anterior commissure"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_35",
+    "path": "B09/B09_35.webp",
+    "answer": [
+      "(A) lateral sulcus (B) auditory sensation",
+      "lateral sulcus auditory sensation"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_36",
+    "path": "B09/B09_36.webp",
+    "answer": [
+      "(A) lateral geniculate body (B) anterior limb of internal capsule",
+      "lateral geniculate body anterior limb of internal capsule"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_37",
+    "path": "B09/B09_37.webp",
+    "answer": [
+      "(A) subthalamic nucleus (B) optic tract",
+      "subthalamic nucleus optic tract"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_38",
+    "path": "B09/B09_38.webp",
+    "answer": [
+      "(A) lateral ventricle (B) thalamus",
+      "lateral ventricle thalamus"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_39",
+    "path": "B09/B09_39.webp",
+    "answer": [
+      "(A) optic chiasma (B) the 3rd ventricle",
+      "optic chiasma the 3rd ventricle"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_40",
+    "path": "B09/B09_40.webp",
+    "answer": [
+      "(A) median eminence (B) mammillary body",
+      "median eminence mammillary body"
+    ],
+    "explanation": "出處: no label, medulla-5; labeled, medulla-inf. olivary nu. level",
+    "description": ""
+  },
+  {
+    "num": "B09_41",
+    "path": "B09/B09_41.webp",
+    "answer": [
+      "(A)Basilar a. (B)Posterior cerebral a.",
+      "Basilar a. Posterior cerebral a."
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_42",
+    "path": "B09/B09_42.webp",
+    "answer": [
+      "(A)Choroid plexus (B)3rd ventricle",
+      "Choroid plexus 3rd ventricle"
+    ],
+    "explanation": "影片參考：https://www.youtube.com/watch?v=yG-ZBIap3Zk",
+    "description": ""
+  },
+  {
+    "num": "B09_43",
+    "path": "B09/B09_43.webp",
+    "answer": [
+      "(A)Pyramids (B)Olive",
+      "Pyramids Olive",
+      "(A)Pyramids (B)olivary nucleus",
+      "Pyramids olivary nucleus"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_44",
+    "path": "B09/B09_44.webp",
+    "answer": [
+      "(A)Mammillothalamic tract (B)Memory",
+      "Mammillothalamic tract Memory"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_45",
+    "path": "B09/B09_45.webp",
+    "answer": [
+      "(A)Vertebral a. (B)Transverse foramen",
+      "Vertebral a. Transverse foramen"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_46",
+    "path": "B09/B09_46.webp",
+    "answer": [
+      "(1) Stria terminalis (2) Amygdala",
+      "Stria terminalis Amygdala"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "B09_47",
+    "path": "B09/B09_47.webp",
+    "answer": [
+      "(1) Red nucleus (2) Posterior commissure",
+      "Red nucleus Posterior commissure"
+    ],
+    "explanation": "(2)此 level 已幾乎要離開 superior colliculus，進入 diencephalon",
+    "description": ""
+  },
+  {
+    "num": "B09_48",
+    "path": "B09/B09_48.webp",
+    "answer": [
+      "(1) Falx cerebri (2) Tentorium cerebelli",
+      "Falx cerebri Tentorium cerebelli"
+    ],
+    "explanation": "出處：atlas-1-4 Cerebrum: posterior view",
+    "description": ""
+  },
+  {
+    "num": "B09_49",
+    "path": "B09/B09_49.webp",
+    "answer": [
+      "(1) Uncus (2) Anterior horn of lateral ventricle",
+      "Uncus Anterior horn of lateral ventricle"
+    ],
+    "explanation": "(2)因為此處 internal capsule 分隔 caudate 和 lentiform nu.，所以應是前半部腦的 coronal section",
+    "description": ""
+  },
+  {
+    "num": "B09_50",
+    "path": "B09/B09_50.webp",
+    "answer": [
+      "(1) Internal carotid artery (2) Anterior cerebral artery",
+      "Internal carotid artery Anterior cerebral artery"
+    ],
+    "explanation": "",
+    "description": ""
+  }
+]

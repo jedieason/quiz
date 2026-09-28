@@ -1,0 +1,307 @@
+[
+    {
+        "num": "b10lab_01",
+        "path": "b10lab/b10lab_01.webp",
+        "answer": [
+            "Aorta",
+            "elastic artery"
+        ],
+        "explanation": "有厚厚藍紫色elastic fiber的tunica media 為其特徵。 Tunica media（TM）： a.Elastic membranes：片狀捲曲狀、藍紫色的線條，由 elastic fibers 構成，厚且多。 b.環走 smooth muscle cells：細胞核長且藍。 【出處】10共筆Vol.7 P.18",
+        "description": "請問視野下是何種器官？"
+    },
+    {
+        "num": "b10lab_02",
+        "path": "b10lab/b10lab_02.webp",
+        "answer": [
+            "Ground bone section",
+            "Volkmann's canal"
+        ],
+        "explanation": "由褐色背景判斷此為硬骨細胞的ground bone section，可以保留無機質部分。橫向黑色空腔構造為Volkmann’s canal。 【出處】10共筆Vol.5 P.41",
+        "description": "視野下的玻片是何種製備方式；箭頭所指的構造名稱(be specific)？"
+    },
+    {
+        "num": "b10lab_03",
+        "path": "b10lab/b10lab_03.webp",
+        "answer": [
+            "Transitional epithelium"
+        ],
+        "explanation": "組織一側為空腔，為上皮組織。多層、表面細胞邊緣呈圓拱狀，部分細胞有雙核，判斷為 transitional epithelium。Transitional epithelium 能伸縮，出現在泌尿系統（腎盂、輸尿管、膀胱、部分尿道）的上皮。顯微鏡下的 transitional epithelium 通常為鬆弛狀態，有以下特徵： a.表層細胞呈現弧形凸向管腔且大而淺色。 b.表層細胞靠外側的膜邊緣有一條深染線，為膀胱鬆弛，細胞變小時多餘細胞質聚集於邊緣造成。 c.有些細胞有雙核。 【出處】10共筆Vol.2 P.40",
+        "description": "視野下為何種組織(不要理箭頭)?"
+    },
+    {
+        "num": "b10lab_04",
+        "path": "b10lab/b10lab_04.webp",
+        "answer": [
+            "Purkinje fiber"
+        ],
+        "explanation": "Purkinje fiber較一般心肌細胞大，核與核間距較大且較淡染（因myofibril少，glycogen多）。 【出處】10共筆Vol.3 P.25",
+        "description": "請問箭頭所指的細胞名稱(be specific)?"
+    },
+    {
+        "num": "b10lab_05",
+        "path": "b10lab/b10lab_05.webp",
+        "answer": [
+            "Transitional epithelium"
+        ],
+        "explanation": "表層細胞呈現圓拱形凸向管腔，細胞大而淺色，可判斷此為移型上皮(Transitional epithelium)。 【出處】10共筆Vol.2 P.40",
+        "description": "這是什麼種類的上皮組織？"
+    },
+    {
+        "num": "b10lab_06",
+        "path": "b10lab/b10lab_06.webp",
+        "answer": [
+            "mast cell/metachromasia"
+        ],
+        "explanation": "以 Toluidine blue 染 mast cell 時，因為其中含有大量帶負電離子使染劑分子大量堆積成為緊密的結構，進而折射呈現紫紅色，這種現象是 Metachromasia（異染性）的經典案例。 【出處】10共筆Vol.1 P.4",
+        "description": "請問指針所指的細胞為何？有何種染色特性？"
+    },
+    {
+        "num": "b10lab_07",
+        "path": "b10lab/b10lab_07.webp",
+        "answer": [
+            "dense regular CNT",
+            "Nuchal ligament"
+        ],
+        "explanation": "細胞稀疏、纖維規則緻密的組織為 dense regular CNT（此題圖中深色粗線條為 elastic fiber，穿插於其中的少數淡粉紅色線則為 collagen fiber，為Nuchal ligament的特性）。 【出處】10共筆Vol.4 P.4",
+        "description": "這是什麼構造？"
+    },
+    {
+        "num": "b10lab_08",
+        "path": "b10lab/b10lab_08.webp",
+        "answer": [
+            "peroxisome"
+        ],
+        "explanation": "此為典型的 peroxisome ，內部含有結晶狀的 nucleoid。 【出處】10共筆Vol.2 P.13",
+        "description": "圈起來的是什麼構造？"
+    },
+    {
+        "num": "b10lab_09",
+        "path": "b10lab/b10lab_09.webp",
+        "answer": [
+            "node of Ranvier"
+        ],
+        "explanation": "神經系統中未包覆 myelin sheath 的 junction 為蘭氏節(node of Ranvier)。 【出處】10共筆Vol.5 P.68",
+        "description": "這是什麼構造?"
+    },
+    {
+        "num": "b10lab_10",
+        "path": "b10lab/b10lab_10.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "大小上比紅血球大很多,有許多 basophilic 的 specific granule,核不明顯。 【出處】10共筆Vol.3 P.63",
+        "description": "這是什麼細胞?"
+    },
+    {
+        "num": "b10lab_11",
+        "path": "b10lab/b10lab_11.webp",
+        "answer": [
+            "Vena cava",
+            "large vein"
+        ],
+        "explanation": "可分出 tunica intima、tunica media 和 tunica adventitia 三層，其中 TI 最薄，TM 中可觀察到環走縱切的 smooth muscle，TA 明顯厚於前二者，且可觀察到一束束縱走橫切的 smooth muscle，其間粉紅色帶狀分佈的為 collagen fiber。 【出處】10共筆Vol.7 P.35",
+        "description": "視野中為何種構造？"
+    },
+    {
+        "num": "b10lab_12",
+        "path": "b10lab/b10lab_12.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "細胞核不在細胞中央（eccentric），因有許多 process，使得細胞間距較稀疏、周遭satellite cell 分佈較少。 與 spinal ganglion 比較：細胞為圓球形、細胞和位於中央，無 dendrite process 使得細胞間距較密集、satellite cell 密集包圍細胞。 【出處】10共筆Vol.5 P.78",
+        "description": "視野下為何種構造？"
+    },
+    {
+        "num": "b10lab_13",
+        "path": "b10lab/b10lab_13.webp",
+        "answer": [
+            "Decalcified bone section",
+            "osteocyte"
+        ],
+        "explanation": "脫鈣後 HE stain 會將殘留的 collagen fiber 染成紅色，同心圓圈型的 haversian system 明顯，中央的大孔洞為 haversian canal，散佈各處的小空腔是 lacuna，箭頭所指的小黑點為 osteocyte。 【出處】10共筆Vol.5 P.43",
+        "description": "此種玻片的製造方式？箭頭所指細胞為何？"
+    },
+    {
+        "num": "b10lab_14",
+        "path": "b10lab/b10lab_14.webp",
+        "answer": [
+            "Areolar tissue",
+            "Loose connective tissue",
+            "elastic fiber"
+        ],
+        "explanation": "Loose connective tissue 可以看到很多 ground substances 及 cells，其中 elastic fiber 在 resorcin-fuchsin 染色下變成深紫色，會觀察到分岔。 【出處】10共筆Vol.4 P.27",
+        "description": "視野下為何種組織？箭頭所指為何種構造？"
+    },
+    {
+        "num": "b10lab_15",
+        "path": "b10lab/b10lab_15.webp",
+        "answer": [
+            "Motor neuron",
+            "Multipolar neuron of spinal cord"
+        ],
+        "explanation": "此為silver stain 下的 multipolar neuron，細胞體積大、多角形，可見Nissl bodies, cell body 周圍無satellite cells，是spinal cord 之multipolar neuron，屬於motor neuron，若周圍有satellite cells，應該是位於sympathetic trunk  【出處】10共筆 Vol.6 P.35 ",
+        "description": "請問箭頭指的是甚麼細胞?"
+    },
+    {
+        "num": "b10lab_16",
+        "path": "b10lab/b10lab_16.webp",
+        "answer": [
+            "Skeletal muscle"
+        ],
+        "explanation": "有橫紋、多核、核都在旁邊，沒有閏盤【出處】10共筆 Vol.3 P.3",
+        "description": "請問以下為何種肌肉?"
+    },
+    {
+        "num": "b10lab_17",
+        "path": "b10lab/b10lab_17.webp",
+        "answer": [
+            "Brown adipose tissue"
+        ],
+        "explanation": "細胞核旁邊有許多小油滴，沒有融合成大的油滴，重點是有很多的mitochondria 【出處】10共筆 Vol.4 P.22",
+        "description": "請問以下為何種組織?"
+    },
+    {
+        "num": "b10lab_18",
+        "path": "b10lab/b10lab_18.webp",
+        "answer": [
+            "Endochondral ossification"
+        ],
+        "explanation": "此為典型Endochondral ossification，從上到下分別為Zone of reserve cartilage, proliferation, hypertrophy, cartilage calcification【出處】10共筆 Vol.5 P.47",
+        "description": "請問以下為何種作用?"
+    },
+    {
+        "num": "b10lab_19",
+        "path": "b10lab/b10lab_19.webp",
+        "answer": [
+            "Muscular artery"
+        ],
+        "explanation": "TI薄，TM的elastic fiber較elastic artery少，大部分為smooth muscle cell，且muscular artery的external及internal elastic membrane明顯 【出處】10共筆 Vol.8 P.51",
+        "description": "請問下圖為何種構造?"
+    },
+    {
+        "num": "b10lab_20",
+        "path": "b10lab/b10lab_20.webp",
+        "answer": [
+            "Multivesicular body"
+        ],
+        "explanation": "Late endosome包著許多intraluminal vesicle(ILV)稱為multivesicular body(MVB) 【出處】10共筆 Vol.1 P.34",
+        "description": "請問下圖是甚麼構造?"
+    },
+    {
+        "num": "b10lab_21",
+        "path": "b10lab/b10lab_21.webp",
+        "answer": [
+            "Hyaline cartilage"
+        ],
+        "explanation": "Matrix均質淡染，且多個chondrocyte聚集在lacuna中間，為hyaline cartilage。 【出處】10共筆 Vol.4 P.3",
+        "description": "請問下圖是什麼構造？"
+    },
+    {
+        "num": "b10lab_22",
+        "path": "b10lab/b10lab_22.webp",
+        "answer": [
+            "Muscle spindle"
+        ],
+        "explanation": "可見紡錘狀spindle，被肌纖維夾住，在muscle fiber間有紡錘型膨大的構造。 【出處】10共筆 Vol.6 P.31",
+        "description": "箭頭所指為何構造?"
+    },
+    {
+        "num": "b10lab_23",
+        "path": "b10lab/b10lab_23.webp",
+        "answer": [
+            "Smooth Endoplasmic Reticulum"
+        ],
+        "explanation": "SER在電顯下呈現管狀以及小泡狀。sER的小泡狀通常呈現密集且大量狀。 【出處】10共筆Vol 1 P.19",
+        "description": "請問下圖呈密集小泡狀的是什麼構造？"
+    },
+    {
+        "num": "b10lab_24",
+        "path": "b10lab/b10lab_24.webp",
+        "answer": [
+            "Hemidesmosome"
+        ],
+        "explanation": "出現類似於半個Desmosome的構造，只有半邊具有連結構造。 【出處】10共筆Vol 2 P.64",
+        "description": "請問圖中電子顯微鏡中的構造為何？"
+    },
+    {
+        "num": "b10lab_25",
+        "path": "b10lab/b10lab_25.webp",
+        "answer": [
+            "Dorsal Root Ganglion"
+        ],
+        "explanation": "圖中圈起處細胞較大,一旁有許多小細胞圍繞,為神經元的特徵。此外 satellite cell 和 fiber 有明顯分界,細胞呈圓形且核位於細胞中心,可判斷為 Dorsal root ganglion(DRG)。 【出處】10共筆Vol 5 P.77",
+        "description": "請問以下構造為何？"
+    },
+    {
+        "num": "b10lab_26",
+        "path": "b10lab/b10lab_26.webp",
+        "answer": [
+            "Clathrin Coated Vesicle"
+        ],
+        "explanation": "網狀球體為有 clathrin 包覆的 vesicle。 【出處】10共筆Vol 1 P.12",
+        "description": "請問以下結構為何？"
+    },
+    {
+        "num": "b10lab_27",
+        "path": "b10lab/b10lab_27.webp",
+        "answer": [
+            "Neutrophil"
+        ],
+        "explanation": "單核多葉(3~5 葉)，細胞質為淡粉紅色。 若是女性血液則有機會觀察到 Barr body (不活 化的 X 染色體)。 【出處】10共筆Vol 3 P.68",
+        "description": "請問指針下細胞為何"
+    },
+    {
+        "num": "b10lab_28",
+        "path": "b10lab/b10lab_28.webp",
+        "answer": [
+            "Granular layer of cerebellum"
+        ],
+        "explanation": "觀察重點:分三層，看到這三層，就要知道是小腦! Molecular layer:外層，細胞數少，含大量 unmyelinated nerve fiber，因此 HE stain 下染成較紅(淡色)。 Purkinje cell layer:中間層，由單層 purkinje neuron 組成，為 flask- shape，細胞很大，間隔距離排列，亦有 neuron 特徵。細胞核大、核 仁明顯且位於細胞中央。 Granular layer:內層，大量 granular neuron 組成，在 HE stain 下只剩 下顆粒小而深染的細胞核。【出處】10共筆Vol6 P.38",
+        "description": "請問白色線以下是什麼層"
+    },
+    {
+        "num": "b10lab_29",
+        "path": "b10lab/b10lab_29.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "Eosinophil 的 細 胞 核 裂 成 2 葉 ， 於 LM 下 可 見 紅 色 大 顆 的specific granule；於 EM 下可見 azurophilic granule 與specific granule，其中 specific granule 中可見 electron-dense crystalloid body。 【出處】10共筆Vol3 P.71",
+        "description": "請問以下是什麼細胞"
+    },
+    {
+        "num": "b10lab_30",
+        "path": "b10lab/b10lab_30.webp",
+        "answer": [
+            "Endothelium cell"
+        ],
+        "explanation": "此為 EM 下的圖表，此處為一狹小的管腔，僅由一層細胞構成，且管腔內可見紅血球，故此處為微血管。 【出處】10共筆Vol 7 P.25",
+        "description": "請問以下是什麼細胞"
+    },
+    {
+        "num": "b10lab_31",
+        "path": "b10lab/b10lab_31.webp",
+        "answer": [
+            "Subcapsular sinus"
+        ],
+        "explanation": "最外圍的粉紅色是 lymph node 的 capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus 中可以看到三種細胞: endothelial cell、reticular cell 和 macrophage。 【出處】共筆 Vol.11 P.38",
+        "description": "指針所指是哪個構造？"
+    },
+    {
+        "num": "b10lab_32",
+        "path": "b10lab/b10lab_32.webp",
+        "answer": [
+            "lung"
+        ],
+        "explanation": "題目給一張電顯圖（非上圖），可以從其chip狀hyaline cartilage認出是lung之bronchus。 【出處】共筆 Vol.10 P.49",
+        "description": "這是什麼器官?"
+    },
+    {
+        "num": "b10lab_33",
+        "path": "b10lab/b10lab_33.webp",
+        "answer": [
+            "monocyte"
+        ],
+        "explanation": "Cell 大、馬蹄形核，為 Monocyte。 【出處】共筆 Vol.3 P.12",
+        "description": "這是什麼細胞"
+    }
+]

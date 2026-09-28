@@ -1,0 +1,137 @@
+[
+  {
+    "num": "eye_ear-01",
+    "path": "林能裕老師_Eye_and_ear/b11lab-01.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "由 hair cell 和下方的 supporting cell 組成。有一層若有似無的 capsule 包覆在上方，下方有神經纖維延伸出去。",
+    "description": "箭頭所指的構造名稱。"
+  },
+  {
+    "num": "eye_ear-02",
+    "path": "林能裕老師_Eye_and_ear/b11lab-02.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "位於 cochlear duct 表面的特化上皮就是 Stria vascularis，其中有豐富的 capillary，功能是製造分泌 endolymph，圖左可以看到 organ of Corti。內側較為淡染的則是 spiral ligament",
+    "description": "箭頭所指構造名稱。"
+  },
+  {
+    "num": "eye_ear-03",
+    "path": "林能裕老師_Eye_and_ear/b11lab-03.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "位於 cochlear duct 表面的特化上皮就是 Stria vascularis，其中有豐富的 capillary，功能是製造分泌 endolymph。",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "eye_ear-04",
+    "path": "林能裕老師_Eye_and_ear/b11lab-04.webp",
+    "answer": [
+      "Inner hair cell"
+    ],
+    "explanation": "此為 TEM 的圖，可以見到被 IPH（inner phalangeal cell）包覆起來。Outer hair cell 的話，OPH 只包覆在基部，但是會伸出很長的 phalangeal process，形成 apical cuticular plate",
+    "description": "細胞名稱？"
+  },
+  {
+    "num": "eye_ear-05",
+    "path": "林能裕老師_Eye_and_ear/b11lab-05.webp",
+    "answer": [
+      "Retinal pigment epithelial layer"
+    ],
+    "explanation": "緊鄰 choroid 並明顯有色素沉澱即為 retinal pigment epithelium layer。",
+    "description": "箭頭所指該層細胞名稱？"
+  },
+  {
+    "num": "eye_ear-06",
+    "path": "林能裕老師_Eye_and_ear/b11lab-06.webp",
+    "answer": [
+      "Lacrimal gland"
+    ],
+    "explanation": "視野下大部分由 serous acini 構成，幾乎沒有 fat infiltration。",
+    "description": "視野下位於何種器官？"
+  },
+  {
+    "num": "eye_ear-07",
+    "path": "林能裕老師_Eye_and_ear/b11lab-07.webp",
+    "answer": [
+      "Ciliary process"
+    ],
+    "explanation": "此為 ciliary body（睫狀體）的 ciliary process，其特徵為 double layered cuboidal epithelium，淺層（outer）有色素，深層（inner）則沒有；在 stroma 中可以看到血管。功能為分泌 aqueous humor，使光線到達 retina；以及延伸出 zonular fiber，形成 suspensory ligament 連接到 lens。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "eye_ear-08",
+    "path": "林能裕老師_Eye_and_ear/b11lab-08.webp",
+    "answer": [
+      "Cornea"
+    ],
+    "explanation": "非常漂亮且標準的角膜切片，corneal epithelium 與中間很厚的 substantia propria（corneal stroma）為特徵。注意空腔不是血管，是 artifact，cornea 的 stroma 沒有血管。Cornea 從上到下分成五層：corneal epithelium、 Bowman’s membrane、corneal stroma、Descemet’s membrane、endothelium。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "eye_ear-09",
+    "path": "林能裕老師_Eye_and_ear/b11lab-09.webp",
+    "answer": [
+      "Photoreceptor layer"
+    ],
+    "explanation": "從左到右為 sclera 鞏膜、choroid 脈絡叢（深黑色）、retinaRetina 可分十層，其中深色區域為細胞聚集處，從箭頭所指那一層往右為 photoreceptor nuclear layer（outer nuclear layer）、inner nuclear layer（主要是 bipolar cell）、ganglion cell layer。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "eye_ear-10",
+    "path": "林能裕老師_Eye_and_ear/b11lab-10.webp",
+    "answer": [
+      "Outer hair cell"
+    ],
+    "explanation": "此為 cochlea 內的 organ of Corti，中間三角形為 tunnel of Corti，其右側為 inner phalangeal cell 和 inner hair cell（只有一顆），左側為 outer phalangeal cell、outer hair cell。右下角的纖維狀為 cochlear nerve，右上的膜狀物為 tectorial membrane。",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "eye_ear-11",
+    "path": "林能裕老師_Eye_and_ear/b11lab-11.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "此切片為 eyelid 眼瞼與 sclera 鞏膜，眼瞼中的腺體有 tarsal gland、apocrine gland of Moll 與 sebaceous gland of Zeis。Zeis gland 會開口入 hair follicle，在整體下方；gland of Moll 則是 不易觀察。Tarsal gland，又叫做 sebaceous gland of Meibomian，會分泌油酯防止淚液層蒸發。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "eye_ear-12",
+    "path": "林能裕老師_Eye_and_ear/b11lab-12.webp",
+    "answer": [
+      "Iris"
+    ],
+    "explanation": "判斷方式為明顯的上皮細胞，上層（anterior）不規則，往下有 melanocyte 與 fibroblast，再更下方則有 smooth muscle。最下方深染部分為兩層的 pigment epithelium（不須區分）。下方粉紅色為 lens，可以觀察到 lens capsule 和 subcapsular epithelium。",
+    "description": "圖中上方構造為何？"
+  },
+  {
+    "num": "eye_ear-13",
+    "path": "林能裕老師_Eye_and_ear/b11lab-13.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "左方冠狀物為 Cupula，為密度與 endolymph 相似的 gelatinous protein-polysaccharide mass。下方 hair cell（type I & type II），可以感受轉動與動平衡。因為整體凸起來了（香菇頭）所以不是 macula。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "eye_ear-14",
+    "path": "林能裕老師_Eye_and_ear/b11lab-14.webp",
+    "answer": [
+      "Tectorial membrane"
+    ],
+    "explanation": "此為 cochlea 內的 organ of Corti，中間三角形為 tunnel of Corti，其左側為 inner phalangeal cell 和 inner hair cell，右側為 outer phalangeal cell、outer hair cell。左下角的纖維狀為 cochlear nerve，右上的膜狀物為 tectorial membrane。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "eye_ear-15",
+    "path": "林能裕老師_Eye_and_ear/b11lab-15.webp",
+    "answer": [
+      "Orbicularis oculi"
+    ],
+    "explanation": "此為 eyelid 的切片，故可知內含的肌肉為 Orbicularis oculi。",
+    "description": "A 的構造名稱？"
+  }
+]

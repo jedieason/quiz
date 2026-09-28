@@ -1,0 +1,281 @@
+[
+    {
+        "num": "b06lab_01",
+        "path": "b06lab/b06lab_01.webp",
+        "answer": [
+            "axis"
+        ],
+        "explanation": "首先應可判斷出這是脊椎骨。再由三角形孔洞、兩邊有 transverse foramen 判斷它是 C-spine。再觀察到它有 dens 的構造，因此知道是 C2。",
+        "description": "此塊骨頭？"
+    },
+    {
+        "num": "b06lab_02",
+        "path": "b06lab/b06lab_02.webp",
+        "answer": [
+            "Internal acoustic meatus"
+        ],
+        "explanation": "位在 temporal bone 的 petrous part，可知這個孔洞接著要通到內耳，因此是 Int. acoustic meatus。",
+        "description": "此孔洞？"
+    },
+    {
+        "num": "b06lab_03",
+        "path": "b06lab/b06lab_03.webp",
+        "answer": [
+            "Metacarpal I"
+        ],
+        "explanation": "接在長得亂七八糟的 carpal 上就是 metacarpal。Phalanges 除了拇指是兩節外都是三節，這也可以作為判斷依據之一。",
+        "description": "此塊骨頭"
+    },
+    {
+        "num": "b06lab_04",
+        "path": "b06lab/b06lab_04.webp",
+        "answer": [
+            "Iliac crest"
+        ],
+        "explanation": "整塊骨盆上半部（平整的那塊）的頂端就稱之為 Iliac crest。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_05",
+        "path": "b06lab/b06lab_05.webp",
+        "answer": [
+            "Medial pterygoid plate"
+        ],
+        "explanation": "先注意到這是從顱底往前上方看。此時看到的空間應該是咽部（pharynx），圖片中央的兩個對稱孔洞即是鼻腔通到鼻咽的開口。位在鼻腔偏後方的 lateral wall，又有兩個分支的骨頭應是 sphenoid bone，靠內側的分支稱為 medial pterygoid plate。",
+        "description": "此片狀構造？"
+    },
+    {
+        "num": "b06lab_06",
+        "path": "b06lab/b06lab_06.webp",
+        "answer": [
+            "Jugular foramen"
+        ],
+        "explanation": "注意到此孔洞位在 temporal bone 跟occipital bone 接合處的裂縫，故應為 Jugular foramen。",
+        "description": "此孔洞？"
+    },
+    {
+        "num": "b06lab_07",
+        "path": "b06lab/b06lab_07.webp",
+        "answer": [
+            "Head of fibula"
+        ],
+        "explanation": "長這樣的關節只出現在膝蓋或手肘（至少這次範圍如此），注意到圖中被標色的骨頭沒有接到左邊的骨頭，因此可知道這應是膝關節，只有 tibia 跟 femur 相連，fibula 只靠在隔壁骨頭上。所問構造是它的 head，故應回答 head of fibula。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_08",
+        "path": "b06lab/b06lab_08.webp",
+        "answer": [
+            "Sacral hiatus"
+        ],
+        "explanation": "看到融合成一片的脊椎骨，且有四對 foramina 的開口，先判斷是 sacrum bone。在 sacrum bone 的末端開口稱為 Sacral hiatus。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_09",
+        "path": "b06lab/b06lab_09.webp",
+        "answer": [
+            "Dorsum sellae"
+        ],
+        "explanation": "看到該構造位在sphenoid bone 上，可知它應是 sella turcica 的一部分。其中央凹陷靠 posterior 側的突起便稱為 Dorsum sellae。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_10",
+        "path": "b06lab/b06lab_10.webp",
+        "answer": [
+            "Trochlear notch"
+        ],
+        "explanation": "這個有點 L 型的關節面便是 ulna 跟 humerus 的接面，L 的開口稱為 Trochlea notch，對應到 humerus 上的 trochlea。註：肘膝關節的每個接面都要辨認並熟記！",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_11",
+        "path": "b06lab/b06lab_11.webp",
+        "answer": [
+            "Conoid tubercle"
+        ],
+        "explanation": "看到長條形的骨頭，兩邊接面平整，沒有大弧度彎曲，可判斷為 clavicle。箭頭所指為 clavicle 跟 scapula 相接處，該物不是線狀凸起，因此可知不是 trapezius line，是 Conoid tubercle。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_12",
+        "path": "b06lab/b06lab_12.webp",
+        "answer": [
+            "Cribriform plate"
+        ],
+        "explanation": "位在 anterior cranial fossa，上面都是洞的板狀物就是 Cribriform plate。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_13",
+        "path": "b06lab/b06lab_13.webp",
+        "answer": [
+            "Lateral epicondyle of humerus"
+        ],
+        "explanation": "因反光不容易清楚看見 radial fossa 跟 coronoid fossa，但可由圖片右側的 head 判斷應是 femur 或 humerus 其一。注意到 head of femur 是明顯向外側凸出的，因此這支骨頭應該是 humerus。仔細觀察右側的 head，上半部跟下半部中間有個較大且明顯的凹陷，為 anatomical neck，位在 medial，因此箭頭所指應為 Lateral epicondyle。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_14",
+        "path": "b06lab/b06lab_14.webp",
+        "answer": [
+            "Greater sciatic notch"
+        ],
+        "explanation": "骨盆明顯有兩個 notch，這個 notch 位在比較偏 superior 的位子，也比較大，因此是 Greater sciatic notch。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_15",
+        "path": "b06lab/b06lab_15.webp",
+        "answer": [
+            "Xiphoid process"
+        ],
+        "explanation": "位在胸骨的最下緣，一塊半獨立的東西。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_16",
+        "path": "b06lab/b06lab_16.webp",
+        "answer": [
+            "Adductor tubercle"
+        ],
+        "explanation": "這支骨頭的 head 有明顯向外側凸出，因此應是 femur。箭頭所指構造位在 medial 方向，因此可能是 medial epicondyle 或 Adductor tubercle。再觀察它的細部位置，為在 medial 方向朝 superior 的凸起，因此答案寫 Adductor tubercle 或許還是比較適合。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_17",
+        "path": "b06lab/b06lab_17.webp",
+        "answer": [
+            "Ischial tuberosity"
+        ],
+        "explanation": "此題要在心裡把骨盆擺成人體中的位置比較好作答。總之先觀察它在整個骨盆的相對位置在偏後下方，因此應該是 ischium bone。而 ischium bone 上的凸起便稱為 Ischial tuberosity。若把它擺成 3D 方位正確的模樣，應該會是骨盆的最低點。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_18",
+        "path": "b06lab/b06lab_18.webp",
+        "answer": [
+            "Foramen rotundum"
+        ],
+        "explanation": "該孔洞的 medial side 有 sellae turcica；anterior side 有 sup. orbital fissure；位在sphenoid bone 上，因此應該是 Foramen rotundum。注意它的開口方向是往前下方通到 pterygopalatine fossa，而不是正下方。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_19",
+        "path": "b06lab/b06lab_19.webp",
+        "answer": [
+            "Mental foramen"
+        ],
+        "explanation": "位在下顎的 anterior side。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_20",
+        "path": "b06lab/b06lab_20.webp",
+        "answer": [
+            "Coronoid process of mandible"
+        ],
+        "explanation": "Mandible 上，張嘴時沒有被卡住的 process，應是 Coronoid process。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_21",
+        "path": "b06lab/b06lab_21.webp",
+        "answer": [
+            "Alveolar process of maxilla"
+        ],
+        "explanation": "不論是上顎還是下顎，長出牙齒的就稱為 alveolar process。記得標明它在上顎（Maxilla）上。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_22",
+        "path": "b06lab/b06lab_22.webp",
+        "answer": [
+            "Lamina"
+        ],
+        "explanation": "觀察到它位在脊椎骨的 transverse process 跟 spinous process 之間，應該是 Lamina。Pedicle 是 articular process 跟 body 中間那一段，兩者在此圖中有相當距離。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_23",
+        "path": "b06lab/b06lab_23.webp",
+        "answer": [
+            "Lesser trochanter"
+        ],
+        "explanation": "先判斷出這支是 femur。所指構造是靠近 head、位在 medial side 的凸起，相較於外側的較小，為 Lesser trochanter。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_24",
+        "path": "b06lab/b06lab_24.webp",
+        "answer": [
+            "Lesser tubercle"
+        ],
+        "explanation": "先判斷出這支是 humerus。所指構造位在 head 偏前側，為 Lesser tubercle。注意 lesser tubercle 偏前側；greater 則偏外側。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_25",
+        "path": "b06lab/b06lab_25.webp",
+        "answer": [
+            "Superior pubic ramus"
+        ],
+        "explanation": "注意到最靠近紙面的構造為 pubic symphysis；中央下方的構造為 ischial tuberosity。搭配 ischial spine 以及兩個 sciatic notch 的相對位置可以判斷所指構造偏上方，因此為 Superior pubic ramus。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_26",
+        "path": "b06lab/b06lab_26.webp",
+        "answer": [
+            "Inferior vena cava"
+        ],
+        "explanation": "可先由血管走向判斷出所指構造位在心室，再由靠後面的兩支肺動脈判斷其應為右心室，因此為 Inferior vena cava。",
+        "description": "鑷子所指的構造？"
+    },
+    {
+        "num": "b06lab_27",
+        "path": "b06lab/b06lab_27.webp",
+        "answer": [
+            "Chordae tendineae"
+        ],
+        "explanation": "注意 Chordae tendineae 是細小很多條，papillary muscle 是較粗大一條。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b06lab_28",
+        "path": "b06lab/b06lab_28.webp",
+        "answer": [
+            "Brachiocephalic trunk"
+        ],
+        "explanation": "從主動脈弓分支出去，位在右邊且只有一條，可知為 Brachiocephalic trunk。",
+        "description": "此構造（紅色箭頭）？"
+    },
+    {
+        "num": "b06lab_29",
+        "path": "b06lab/b06lab_29.webp",
+        "answer": [
+            "Right coronary artery"
+        ],
+        "explanation": "注意到它從主動脈基部單一分支出來，故應為冠狀動脈。圖片右側還有另一條分支，可知這張圖應是從心臟正面拍攝。注意到圖片會跟人體左右相反，因此圖示為 Right coronary artery。",
+        "description": "鑷子所夾的血管？"
+    },
+    {
+        "num": "b06lab_30",
+        "path": "b06lab/b06lab_30.webp",
+        "answer": [
+            "External iliac artery"
+        ],
+        "explanation": "先從周圍臟器判斷其位於骨盆腔，接著注意到它身後還有一條分支走深入骨盆腔，它自己走在偏 ventral side，故應為 External iliac artery。",
+        "description": "血管D？"
+    },
+    {
+        "num": "b06lab_31",
+        "path": "b06lab/b06lab_31.webp",
+        "answer": [
+            "Azygos vein"
+        ],
+        "explanation": "看到貼著背部，所有的 intercostal vein 都匯入它身上，且位在偏右方的位子，故為 Azygos vein。",
+        "description": "此構造？"
+    }
+]

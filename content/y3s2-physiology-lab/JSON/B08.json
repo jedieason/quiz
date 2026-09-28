@@ -1,0 +1,343 @@
+[
+    {
+        "origin": "出自 B09 考古第 2 題",
+        "question": "下列關於雌鼠性週期實驗中陰道抹片觀察到的細胞（1）有核上皮細胞（2）角質化上皮細胞（3）白血球，由大到小分別為？",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "213",
+            "D": "231"
+        },
+        "answer": "C",
+        "explanation": "動情週期各種細胞大小比較：角質化無核上皮(2) ＞ 有核上皮(1) ＞ 白血球(3)。【出處】B09 lab 共筆 P.3."
+    },
+    {
+        "origin": "出自 B09 考古第 4 題",
+        "question": "雌鼠陰道上皮細胞的角質化是由何 hormone 調控？",
+        "options": {
+            "A": "Estrogen",
+            "B": "Progesterone",
+            "C": "以上皆是",
+            "D": "以上皆非"
+        },
+        "answer": "A",
+        "explanation": "雌鼠陰道上皮細胞的角質化主要是受到雌激素（estrogen）的作用。【出處】B09 lab 共筆 P.6."
+    },
+    {
+        "origin": "出自 B09 考古第 5 題",
+        "question": "年老雌鼠主要處於哪一階段？",
+        "options": {
+            "A": "間情期",
+            "B": "動情前期",
+            "C": "動情期",
+            "D": "動情後期"
+        },
+        "answer": "A",
+        "explanation": "年老的雌鼠沒有新的濾泡發育，使得雌激素（estrogen）的分泌量降低，因而長期處於間情期（diestrus）。"
+    },
+    {
+        "origin": "出自 B09 考古第 6 題",
+        "question": "以下 1到3 何者正確：\n1）有些時期不容易判別（動情後期、動情前期），需連續觀察週期性變化。\n2）用大量 Saline 沖洗陰道，容易把細胞沖洗下來。\n3）Liu B 覆蓋 Liu A 時需輕輕搖晃載玻片以均勻混合染劑，使細胞染色均勻。",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "23",
+            "D": "1"
+        },
+        "answer": "D",
+        "explanation": "2) 吸取少許 saline 沖洗陰道，將適量沖洗液滴在在玻片上。3) 染色過程中不能搖晃，否則可能增加紫色沉澱物。【出處】B09 lab 共筆 P.2."
+    },
+    {
+        "origin": "出自 B09 考古第 7 題",
+        "question": "實驗小鼠定時交配，與什麼費洛蒙現象有關？",
+        "options": {
+            "A": "Lee-Boot effect",
+            "B": "Whitten effect",
+            "C": "Vanderbergh effect"
+        },
+        "answer": "B",
+        "explanation": "Whitten 現象（Whitten effect）指的是當雌性小鼠暴露在雄性小鼠的氣味（即雄性費洛蒙）下時，其發情週期會同步化。這種現象可以用來訂時交配，因為雌性小鼠的發情期會變得一致，更容易預測和控制。【B09 P.2】"
+    },
+    {
+        "origin": "出自 B09 考古第 8 題",
+        "question": "將哪個時期的雌鼠和雄鼠關在同個籠子交配成功的機率比較高？",
+        "options": {
+            "A": "動情期",
+            "B": "動情前期",
+            "C": "間情期"
+        },
+        "answer": "A",
+        "explanation": "動情期是雌鼠發情週期中最適合交配的階段，此時雌鼠最有可能接受雄鼠的交配，從而提高成功率。【B09 P.1】"
+    },
+    {
+        "origin": "出自 B09 考古第 9 題",
+        "question": "關於青蛙複合動作電位實驗的敘述何者正確？\n1. 分離神經時如果遇到分支要先綁棉線再剪\n2. 神經取長一點，儘量取到臀部的一半\n3. 神經浸泡在 paraffin oil 中以保活性",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "23",
+            "D": "1"
+        },
+        "answer": "D",
+        "explanation": "1) 遇到神經分支時，先綁棉線可以防止剪斷後神經回縮及細胞液流失。2) 長度達 6到7 公分，非臀部的一半。3) 適時補充 paraffin oil 以免乾燥，但不能整根浸泡以免浮起接觸不良。【出處】B09 P.23、P.27."
+    },
+    {
+        "origin": "出自 B09 考古第 10 題",
+        "question": "下列敘述何者為非？",
+        "options": {
+            "A": "PowerLab 的 trigger 應接於 SYNC.區域的 pulse",
+            "B": "BNC 接頭應和神經放置槽鎖緊，否則接觸不良會無法產生電訊號",
+            "C": "SD9 delay 能調整連續兩電訊號的間隔時間",
+            "D": "SD9 pulse 改成 twin 可以產生連續兩強度相同的電訊號"
+        },
+        "answer": "B",
+        "explanation": "和神經放置槽相連接的為 Hook 接頭，而非 BNC 接頭。【B09 P.22】"
+    },
+    {
+        "origin": "出自 B09 考古第 11 題",
+        "question": "上圖是一個實驗常見的坐骨神經複合動作電位（compound action potential）[圖片]，為了產生此一圖形，我們建議將刺激電極（正極、負極）與記錄電極（G1、G2）擺放的相對位置為：",
+        "options": {
+            "A": "正極接近 G1",
+            "B": "正極接近 G2",
+            "C": "負極接近 G1",
+            "D": "負極接近 G2"
+        },
+        "answer": "C",
+        "explanation": "刺激電極的負極較接近 G1。【B09 P.22】"
+    },
+    {
+        "origin": "出自 B09 考古第 12 題",
+        "question": "承上題，下列關於 A,B,C 的敘述何者錯誤？",
+        "options": {
+            "A": "A 為 artifact",
+            "B": "當刺激強度為 0.1V 時，A 不會出現",
+            "C": "隨著電刺激強度增加，B 的振幅會變大",
+            "D": "隨著電刺激強度較小時，C 會消失"
+        },
+        "answer": "B",
+        "explanation": "(B) 錯誤，Artifact 仍會出現。"
+    },
+    {
+        "origin": "出自 B09 考古第 13 題",
+        "question": "承上題，若圖中橫軸每單位間隔設定 2ms，且刺激電極到記錄電極之間的距離為 5cm，則由複合動作電位圖形可得知傳導最慢之神經傳導速度為？",
+        "options": {
+            "A": "10m/s",
+            "B": "20m/s",
+            "C": "50m/s",
+            "D": "100m/s"
+        },
+        "answer": "C",
+        "explanation": "Artifact 到 Peak I 約為 1 ms。神經傳導速度為 5 (cm)/1 (ms) = 50 m/s。"
+    },
+    {
+        "origin": "出自 B09 考古第 14 題",
+        "question": "如下圖之一條 axon（傳導速度為 70 m/s，不反應期為 1 ms），其上有 S1 與 S2 兩對刺激電極以及一對紀錄電極 R。試問 S1 在 S2 之前多少 ms 內刺激，可使 R 記錄不到 S2 的反應？\n圖片示意： S1 --(14cm)-- R -(7cm)- S2",
+        "options": {
+            "A": "S1 在 S2 刺激之前 2 ms 內刺激，R 不會記錄到 S2 的動作電位",
+            "B": "S1 在 S2 刺激之前 3 ms 內刺激，R 不會記錄到 S2 的動作電位",
+            "C": "S1 在 S2 刺激之前 4 ms 內刺激，R 不會記錄到 S2 的動作電位",
+            "D": "S1 在 S2 刺激之前 5 ms 內刺激，R 不會記錄到 S2 的動作電位"
+        },
+        "answer": "C",
+        "explanation": "動作電位從 S1 傳到 S2 耗時 210mm/(70m/s) = 3ms。故在 S1 刺激後之 3ms 內，S2 刺激產生之動作電位都會在傳遞到 S2 前就與 S1 刺激產生之動作電位碰撞而無法繼續傳遞。"
+    },
+    {
+        "origin": "出自 B09 考古第 16 題",
+        "question": "牛蛙坐骨神經實驗裝置如下圖所示，若 AB = 4 cm，BC = 5 cm，其主要 fibers 有兩種：(1) group I，conduction velocity 大約等於 30 m/s (peak)；(2) group II，conduction celerity 大約等於 15 m/s (peak)，而且 AC 之間無任何神經纖維分支。\n神經放置槽裝置如圖所示 [圖片]，每條不鏽鋼絲間隔 1 cm，記錄電擊 G1 位於第 7 條不鏽鋼絲，G2 位於第 8 條不鏽鋼絲。今若欲觀察到典型的碰撞圖形，則根據上述提示條件，S9 刺激電極正極與 SD9 刺激電極負極分別應位於第幾銀絲上？",
+        "options": {
+            "A": "3, 13",
+            "B": "2, 13",
+            "C": "3, 12",
+            "D": "2, 14"
+        },
+        "answer": "B",
+        "explanation": "S9 負極應該在 3，正極再往外推 1，故為 2；SD9 負極應在 13。故答案選 B (2, 13)。"
+    },
+    {
+        "origin": "出自 B09 考古第 17 題",
+        "question": "承上題，在 A 處，S9 以產生 group I + group II 的電壓刺激，並於 B 處記錄其 compound action potential，從 stimulus artifact 至 group I peak 之時間約為：",
+        "options": {
+            "A": "1/3 ms",
+            "B": "4/3 ms",
+            "C": "5/3 ms",
+            "D": "10/3 ms"
+        },
+        "answer": "B",
+        "explanation": "40 (mm)/30 (m/s) = 4/3 (ms)。"
+    },
+    {
+        "origin": "出自 B09 考古第 18 題",
+        "question": "承上題，從 stimulus artifact 至 group II peak 之時間約為？",
+        "options": {
+            "A": "1/3 ms",
+            "B": "5/3 ms",
+            "C": "8/3 ms",
+            "D": "15/3 ms"
+        },
+        "answer": "C",
+        "explanation": "40 (mm)/15 (m/s) = 8/3 (ms)。"
+    },
+    {
+        "origin": "出自 B09 考古第 19 題",
+        "question": "設定 S9 以產生較大 group I 的刺激強度，而 SD9 以產生 group I + group II 的刺激強度，進行碰撞實驗，引起之 action potential 圖形最可能變成下列圖片中那一條？[圖片]",
+        "options": {
+            "A": "圖(A)",
+            "B": "圖(B)",
+            "C": "圖(C)"
+        },
+        "answer": "C",
+        "explanation": "來自 S9 和 SD9 的訊號方向相反，因此測到的 potential 波型會彼此反相。因 S9 較近，先來的是 S9 的正相 Group I，後來的 S2 則兼有反相的 Group I 和 II。"
+    },
+    {
+        "origin": "出自 B09 考古第 20 題",
+        "question": "承上題，在相同刺激情況下，當刺激間隔縮小的時候，最不可能發生下列何者狀況？",
+        "options": {
+            "A": "S1 group I 波形不變",
+            "B": "S2 group I 完全消失",
+            "C": "S2 group II 完全消失"
+        },
+        "answer": "C",
+        "explanation": "Group 1 與 Group 2 分別走在不同神經上，所以兩方都要有 Group 2 才能碰撞使其變小。"
+    },
+    {
+        "origin": "出自 B09 考古第 24 題",
+        "question": "內毛細胞去極化是因為什麼離子？",
+        "options": {
+            "A": "Na+",
+            "B": "K+",
+            "C": "Cl-",
+            "D": "Ca2+"
+        },
+        "answer": "B",
+        "explanation": "動纖毛往靜纖毛擺動時（長往短），tip link 變短、張力降低，使鉀通道關閉導致過極化；反之向長纖毛方向擺動，tip link 變長打開 $K^+$ 通道，使 endolymph 中的高濃度 $K^+$ 流入細胞，造成 depolarization。"
+    },
+    {
+        "origin": "出自 B09 考古第 25 題",
+        "question": "小菲自願做旋轉後眼球震顫受試者，若旋轉椅順時針方向旋轉，其眼球震顫的方向為何？若旋轉完後立即起身走路，身體和走路姿勢偏向哪一側？",
+        "options": {
+            "A": "眼球震顫向右，偏向右側",
+            "B": "眼球震顫向右，偏向左側",
+            "C": "眼球震顫向左，偏向右側",
+            "D": "眼球震顫向左，偏向左側"
+        },
+        "answer": "D",
+        "explanation": "停止順時針旋轉後，淋巴液順時針轉動刺激左耳。左前庭興奮引發向左的快速相(眼振向左)，身體維持平衡之本能偏向左側。【出處】09 共筆 p. 40"
+    },
+    {
+        "origin": "出自 B09 考古第 26 題",
+        "question": "進行 Caloric Test 時，頭部需後傾___度，是因為____；若從左耳灌入 10°C 的冰水，則眼球震顫的方向為何？",
+        "options": {
+            "A": "30 度：使水平半規管平行水平面；左",
+            "B": "30 度：使水平半規管垂直水平面；右",
+            "C": "60 度：使水平半規管平行水平面；左",
+            "D": "60 度：使水平半規管垂直水平面；右"
+        },
+        "answer": "D",
+        "explanation": "頭後仰 60° 以便使 horizontal semicircular canal 與地平面垂直，效果最顯著。冰水灌入左耳使內淋巴沉降、產生抑制作用，右耳相對興奮，感覺向右轉，故眼振（fast phase）向右。"
+    },
+    {
+        "origin": "出自 B09 考古第 29 題",
+        "question": "Lordosis Quotient (LQ) = ?",
+        "options": {
+            "A": "Lordosis 之次數 / Mount 之次數 * 100%",
+            "B": "Mount 之次數 / Lordosis 之次數 * 100%",
+            "C": "Lordosis 之次數 / (Mount 之次數 + Lordosis 之次數) * 100%",
+            "D": "Mount 之次數 / (Mount 之次數 + Lordosis 之次數) * 100%"
+        },
+        "answer": "A",
+        "explanation": "LQ =（Lordosis 次數/mount 次數）* 100%，代表雌鼠對雄鼠 mount 的接受比例。【出處】B09 p.16"
+    },
+    {
+        "origin": "出自 B09 考古第 30 題",
+        "question": "下列何種 neurotransmitter 的增加與雄鼠在射精後會有很長一段休息時間有關？",
+        "options": {
+            "A": "Norepinephrine",
+            "B": "Acetylcholine",
+            "C": "Serotonin",
+            "D": "Dopamine"
+        },
+        "answer": "C",
+        "explanation": "Dopamine 促成 refractory period，而 serotonin 則持續此 refractory period（不反應期）。【出處】B09 p.16"
+    },
+    {
+        "origin": "出自 B09 考古第 31 題",
+        "question": "小菲自願當旋轉後眼球震顫實驗的受試者，若以順時針旋轉，請問眼球震顫方向？當小菲旋轉後馬上站起來往先前走，身體偏的方向是？",
+        "options": {
+            "A": "眼球震顫向左、身體偏左",
+            "B": "眼球震顫向右、身體偏左",
+            "C": "眼球震顫向左、身體偏右",
+            "D": "眼球震顫向右、身體偏右"
+        },
+        "answer": "A",
+        "explanation": "停止旋轉後，淋巴液維持原順時針慣性。此時刺激左側前庭，使右側 abducens 與左側 oculomotor nucleus 興奮，雙眼慢速右移，再快速左彈(眼振向左)，身體平衡機制使姿勢向左偏。【出處】09 共筆 p. 40"
+    },
+    {
+        "origin": "出自 B09 考古第 33 題",
+        "question": "Lordosis 發生跟以下幾項有關 ：\n(a) 雌鼠腰部接受 estradiol 刺激\n(b) 雌鼠體內有足夠 estradiol\n(c) ventromedial nucleus of thalamus 受 estradiol 刺激\n(d) 雄鼠 darting 吸引雌鼠\n(e) 雄鼠 mount",
+        "options": {
+            "A": "5 項",
+            "B": "4 項",
+            "C": "3 項",
+            "D": "2 項"
+        },
+        "answer": "D",
+        "explanation": "(b)與(e)正確。(a)接受的是機械刺激；(c)應為 VMH of hypothalamus；(d)darting 是雌性動作。【出處】B09 p.14"
+    },
+    {
+        "origin": "出自 B09 考古第 37 題",
+        "question": "有關雄鼠雄性激素的實驗，發現 testosterone 可以增加其 sexual performance 和 sexual motivation 的功能，是什麼作用？",
+        "options": {
+            "A": "Organizational effect",
+            "B": "Activational effect"
+        },
+        "answer": "B",
+        "explanation": "性成熟後，激素對行為的激發與維持作用稱為 Activational Effect。【出處】B09 p.18"
+    },
+    {
+        "origin": "出自 B09 考古第 38 題",
+        "question": "本實驗延伸，實驗設計要有以下哪兩項",
+        "options": {
+            "A": "Sufficiency",
+            "B": "Conformation bias",
+            "C": "Requirement",
+            "D": "Variance"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "實驗設計中，必須注意兩個條件：充分性(sufficiency)與必要性(requirement/necessity)。【出處】B09 p.13"
+    },
+    {
+        "origin": "出自 B09 考古第 39 題",
+        "question": "雄鼠性行為觀察中哪些屬於實驗控制組？（複選 全對才給分）",
+        "options": {
+            "A": "wild type",
+            "B": "sham operation",
+            "C": "orchiectomy + testosterone",
+            "D": "orchiectomy + oil"
+        },
+        "answer": [
+            "B",
+            "D"
+        ],
+        "explanation": "對應手術對照為 sham operation；對應藥物媒介(placebo)為無活性溶劑 olive oil。【出處】B09 p.13"
+    },
+    {
+        "origin": "出自 B09 考古第 40 題",
+        "question": "本實驗中雌鼠發情性行為表現？（複選）",
+        "options": {
+            "A": "Ear wriggling",
+            "B": "Hopping",
+            "C": "Mounting",
+            "D": "Solicitation",
+            "E": "Ejaculation"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "發情雌鼠的表現包括：衝刺(darting)、跳躍(hopping)、搖耳(ear wriggling)與誘引(solicitation)等。【出處】B09 p.19"
+    }
+]

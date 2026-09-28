@@ -1,0 +1,111 @@
+[
+    {
+        "num": "B04_1",
+        "path": "B04/B04_1.webp",
+        "answer": [
+            "Right vagus n.",
+            "Right vagus nerve"
+        ],
+        "explanation": "右邊那條是 common carotid artery，上面可見其分 支為 external/internal carotid artery。Internal jugular vein/common carotid artery/vagus n. 原本一起在 carotid sheat 中, 此 圖的 sheath 已破 壞，IJV 已去除。",
+        "description": ""
+    },
+    {
+        "num": "B04_2",
+        "path": "B04/B04_2.webp",
+        "answer": [
+            "Facial n.",
+            "Facial nerve"
+        ],
+        "explanation": "從耳前的 parotid gland 裡面分支出的神經，由上 到下可見分為五群( temporal, zygomatic, buccal, marginal mandibular, cervical)。",
+        "description": ""
+    },
+    {
+        "num": "B04_3",
+        "path": "B04/B04_3.webp",
+        "answer": [
+            "Vertebral a.",
+            "Vertebral artery"
+        ],
+        "explanation": "這裏是 suboccipital triangle。其他：A=greater occipital nerve、B = rectus capitis posterior minor、C = rectus capitis posterior major、 D =obliquus capitis inferior、E = atlas(C1)",
+        "description": ""
+    },
+    {
+        "num": "B04_4",
+        "path": "B04/B04_4.webp",
+        "answer": [
+            "Right anterior scalene m.",
+            "Right anterior scalene muscle"
+        ],
+        "explanation": "其他：B/C/E =3rd/2nd/1st part of subclavian artery、D = 1st rib",
+        "description": ""
+    },
+    {
+        "num": "B04_5",
+        "path": "B04/B04_5.webp",
+        "answer": [
+            "Left recurrent laryngeal n.",
+            "Left recurrent laryngeal nerve"
+        ],
+        "explanation": "這張圖的 thyroid gland 被橫斷，和我們開法不 同，不 是背面觀。重點是在 trachea 兩側。",
+        "description": ""
+    },
+    {
+        "num": "B04_6",
+        "path": "B04/B04_6.webp",
+        "answer": [
+            "Posterior inferior cerebellar a.",
+            "Posterior inferior cerebellar artery"
+        ],
+        "explanation": "Tricky 的地方是，PICA 可能從 vertebral artery 或 basilar artery 分出。其他：A= Superior Cerebellar a.(SCA)、B = basilar a.、C = Pons (其上為 pontine artery)、D = Anterior Inferior Cerebellar a. (AICA)、F= vertebral artery、G = medulla",
+        "description": ""
+    },
+    {
+        "num": "B04_7",
+        "path": "B04/B04_7.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "spinal cord 兩側，薄膜狀連接到 dura。",
+        "description": ""
+    },
+    {
+        "num": "B04_8",
+        "path": "B04/B04_8.webp",
+        "answer": [
+            "Filum terminale internum",
+            "Internal terminal filum"
+        ],
+        "explanation": "從 conus medullaris 一路延伸 到 dura sac 的尾端， 質地較粗，與一旁的 cauda equina 不同。其他：A = dura mater、B = conus medullaris、D = cauda equina",
+        "description": ""
+    },
+    {
+        "num": "B04_9",
+        "path": "B04/B04_9.webp",
+        "answer": [
+            "Supraorbital n.",
+            "Supraorbital nerve"
+        ],
+        "explanation": "眼睛上方靠外側的神經，內側的為 B = supratrochlear n.。",
+        "description": ""
+    },
+    {
+        "num": "B04_10",
+        "path": "B04/B04_10.webp",
+        "answer": [
+            "Ophthalmic a.",
+            "Ophthalmic artery"
+        ],
+        "explanation": "與 optic n.伴行通過 optic canal。 B 鑷所指為翻起 來的 optic n.， A 鑷下彎彎的是 internal carotid a.。",
+        "description": ""
+    },
+    {
+        "num": "B04_11",
+        "path": "B04/B04_11.webp",
+        "answer": [
+            "C2",
+            "Axis"
+        ],
+        "explanation": "凸起的是 dens(這題我也不清楚在做甚麼@@ 當作 笑話吧)。",
+        "description": ""
+    }
+]

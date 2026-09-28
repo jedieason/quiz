@@ -1,0 +1,275 @@
+[
+    {
+        "num": "b08lab_01",
+        "path": "b08lab/b08lab_01.webp",
+        "answer": [
+            "Volkmann’s canal"
+        ],
+        "explanation": "由褐色背景能判斷此為硬骨細胞的研磨切片，可以保留無機質的部分。而呈橫向黑色空腔的構造為 Volkmann’s canal。",
+        "description": "箭頭所指為何種構造？（Be specific）"
+    },
+    {
+        "num": "b08lab_02",
+        "path": "b08lab/b08lab_02.webp",
+        "answer": [
+            "decalcified bone"
+        ],
+        "explanation": "看到許多同心圓中的小空洞，還有小黑點osteocytes，沒有黑色骨屑花紋就是decalcified bone。",
+        "description": "此玻片製作方法？"
+    },
+    {
+        "num": "b08lab_03",
+        "path": "b08lab/b08lab_03.webp",
+        "answer": [
+            "Reticular tissue silver stain"
+        ],
+        "explanation": "銀染色下黑色的網狀細線，主要分布在淋巴結內部的trabeculae。",
+        "description": "圖中為何種組織？何種染色？（Be specific）"
+    },
+    {
+        "num": "b08lab_04",
+        "path": "b08lab/b08lab_04.webp",
+        "answer": [
+            "C",
+            "Basophil"
+        ],
+        "explanation": "Basophil 較紅血球大，在 LM 下整顆血球充滿染成藍紫色的顆粒，幾乎無法看見細胞核；在 EM 下可見 azurophilic granule及顆粒大、圓，且整顆 electron-dense 的 specific granules。",
+        "description": "選擇題，看LM找EM？"
+    },
+    {
+        "num": "b08lab_05",
+        "path": "b08lab/b08lab_05.webp",
+        "answer": [
+            "Neutrophil"
+        ],
+        "explanation": "Neutrophil 在 LM 下可見細胞質有染色顆粒，為顆粒球，且核分裂成多葉；在 EM 下可見 3 至 5 葉的細胞核，內有深染的 heterochromatin，細胞質有深色 azurophilic granules 和顏色較淺、尺寸較小的 specific granules，可觀察到偽足。",
+        "description": "這是什麼細胞"
+    },
+    {
+        "num": "b08lab_06",
+        "path": "b08lab/b08lab_06.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "Eosinophil 的細胞核裂成 2 葉，於 LM 下可見紅色大顆的 specific granule；於 EM 下可見 azurophilic granule 與 specific granule，其中 specific granule 中可見 electron-dense 的 crystalloid body。",
+        "description": "這是什麼細胞?"
+    },
+    {
+        "num": "b08lab_07",
+        "path": "b08lab/b08lab_07.webp",
+        "answer": [
+            "Purkinje cell"
+        ],
+        "explanation": "圖中箭頭所指的細胞較大、顏色偏紅，細胞呈現錐狀，可看到細胞有許多 process 往外伸，為 Purkinje cell 的特徵。",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b08lab_08",
+        "path": "b08lab/b08lab_08.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "可見類似一串葡萄的形狀，為 choroid plexus，緊密排列的 ependymal cells 包著血管與 loose CNT。",
+        "description": "紅框中為何種構造？"
+    },
+    {
+        "num": "b08lab_09",
+        "path": "b08lab/b08lab_09.webp",
+        "answer": [
+            "Heterochromatin"
+        ],
+        "explanation": "圖中細胞核偏一邊，細胞質增多的那一側呈空泡狀，為漿細胞。細胞核呈現車輪狀，外圍為深染的 heterochromatin，中間為核仁，之間的淺色區域為 euchromatin。",
+        "description": "箭頭所指為何種構造？"
+    },
+    {
+        "num": "b08lab_10",
+        "path": "b08lab/b08lab_10.webp",
+        "answer": [
+            "Elastic artery"
+        ],
+        "explanation": "有厚厚藍紫色 elastic fiber 的 tunica media 為其特徵。Tunica media（TM）：Elastic membranes：片狀捲曲狀、藍紫色的線條，由 elastic fibers 構成，厚且多。環走 smooth muscle cells：細胞核長且藍。",
+        "description": "圖中所示為何種血管？"
+    },
+    {
+        "num": "b08lab_11",
+        "path": "b08lab/b08lab_11.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cell"
+        ],
+        "explanation": "細胞核都位於底層，所以判斷為 simple columnar epithelium，除此之外可見一顆一顆顏色很淡，似泡泡狀的 goblet cell，細胞核靠管腔外側。管腔側有地毯狀的構造，為 microvilli。",
+        "description": "圖中為何種組織？（Be specific）"
+    },
+    {
+        "num": "b08lab_12",
+        "path": "b08lab/b08lab_12.webp",
+        "answer": [
+            "Transitional epithelium",
+            "urinary system"
+        ],
+        "explanation": "組織一側為空腔，為上皮組織。多層、表面細胞邊緣呈圓拱狀，部分細胞有雙核，判斷為 transitional epithelium。Transitional epithelium 能伸縮，出現在泌尿系統（腎盂、輸尿管、膀胱、部分尿道）的上皮。顯微鏡下的 transitional epithelium 通常為鬆弛狀態，有以下特徵：表層細胞呈現弧形凸向管腔且大而淺色。表層細胞靠外側的膜邊緣有一條深染線，為膀胱鬆弛，細胞變小時多餘細胞質聚集於邊緣造成。有些細胞有雙核。",
+        "description": "箭頭所指為何種組織？出現在哪一系統？"
+    },
+    {
+        "num": "b08lab_13",
+        "path": "b08lab/b08lab_13.webp",
+        "answer": [
+            "Lysosome"
+        ],
+        "explanation": "圓形的 electron dense vesicle。",
+        "description": "右下黑色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b08lab_14",
+        "path": "b08lab/b08lab_14.webp",
+        "answer": [
+            "Nuchal ligament"
+        ],
+        "explanation": "Elastic fiber 呈紫紅色，此處較一般常見的 elastic fiber 更粗，是特化的結果，為 nuchal ligament 的主要結構，不要誤認為collagen fiber。在這些纖維之間可以看到扁圓形，呈黑紫色之fibroblast 細胞核。",
+        "description": "圖中為何種組織？（Be specific，為special stain）"
+    },
+    {
+        "num": "b08lab_15",
+        "path": "b08lab/b08lab_15.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "電子顯微鏡下高基氏體形成像一堆平板的扁囊。",
+        "description": "紅圈中為何種構造？"
+    },
+    {
+        "num": "b08lab_16",
+        "path": "b08lab/b08lab_16.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "看似多層細胞，但其實細胞均位於 basement membrane 上，可知道是 pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為 cilia（microvilli 只會是地毯狀）。",
+        "description": "圖中為何種組織？（Be specific）"
+    },
+    {
+        "num": "b08lab_17",
+        "path": "b08lab/b08lab_17.webp",
+        "answer": [
+            "Large vein"
+        ],
+        "explanation": "可分出 tunica intima、tunica media、tunica adventitia 三層。其中 tunica intima 非常薄，tunica media 中可觀察到環走縱切（l.s.）的 smooth muscle，tunica adventitia 中則可觀察到一束束縱走橫切（c.s.）的 smooth muscle，其間淡粉色帶狀分布者為 collagen fiber。Large vein 的 tunica adventitia 比 tunica media 厚很多。",
+        "description": "圖中為何種組織？由何種構造組成？"
+    },
+    {
+        "num": "b08lab_18",
+        "path": "b08lab/b08lab_18.webp",
+        "answer": [
+            "Tendon / dense regular connective tissue"
+        ],
+        "explanation": "Fibers 和 fibroblasts 排列很規律且無橫紋構造。其中 collagen fiber 被染成深粉紅色排列，而 fibroblast 細胞核被染成深紫色，夾雜在 collagen fibers 之間。",
+        "description": "這是什麼組織?屬於哪種CNT?"
+    },
+    {
+        "num": "b08lab_19",
+        "path": "b08lab/b08lab_19.webp",
+        "answer": [
+            "Glycocalyx"
+        ],
+        "explanation": "細胞膜上的醣蛋白們。",
+        "description": "寫出箭號所指之構造名稱。"
+    },
+    {
+        "num": "b08lab_20",
+        "path": "b08lab/b08lab_20.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圍繞在硬骨組織的骨小針周遭，體型較大，頂部多核，細胞被染成比較紅的顏色。",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b08lab_21",
+        "path": "b08lab/b08lab_21.webp",
+        "answer": [
+            "Muscle spindle"
+        ],
+        "explanation": "可見紡錘狀 spindle，被肌纖維夾住，在 muscle fiber 間有紡錘形膨大的構造。",
+        "description": "箭頭所指是什麼結構？"
+    },
+    {
+        "num": "b08lab_22",
+        "path": "b08lab/b08lab_22.webp",
+        "answer": [
+            "Stratified cuboidal epithelium",
+            "duct portion of merocrine sweat gland"
+        ],
+        "explanation": "圖中腺體可見到較小的管腔，細胞排列整齊且較為深染，一旁的脂肪細胞較少，可判斷為 eccrine （merocrine） sweat gland。而 eccrine （merocrine） sweat gland 又可分為 secretory portion 及  duct portion：Secretory portion（視野中央偏下方）：細胞較大，排列較不規則，cytosol 淡染。周圍會有一圈較深染的 myoepithelial cells，可將汗液擠到管道中。Duct portion（藍圈處）：細胞較 cuboid，較小，排列較整齊，cytosol 較深染。",
+        "description": "圈中構造為何？位於何種部位？"
+    },
+    {
+        "num": "b08lab_23",
+        "path": "b08lab/b08lab_23.webp",
+        "answer": [
+            "Motor neuron silver stain"
+        ],
+        "explanation": "圖中所指的細胞體積大、呈多角形，可見塊狀的 Nissl bodies，且 cell body 周圍無 satellite cells 圍繞，為 spinal cord 的 multipolar neuron 的特徵。",
+        "description": "箭頭所指為何種細胞？染色方式？"
+    },
+    {
+        "num": "b08lab_24",
+        "path": "b08lab/b08lab_24.webp",
+        "answer": [
+            "Fenestrated capillary"
+        ],
+        "explanation": "電顯照片中，僅一層細胞圍成一個腔，應為微血管。此圖中可見微血管的內皮細胞出現許多孔洞，造成管壁在 EM 下呈現凹凸不平的樣子，為 fenestrated capillary 的特徵。",
+        "description": "視野中整個構造名稱？"
+    },
+    {
+        "num": "b08lab_25",
+        "path": "b08lab/b08lab_25.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "看起來像多層，但最下層的 basal cells 是間隔出現，有的地方有、有的地方沒有，上方細胞皆有連接到 basement membrane，所以是 pseudostratified columnar epithelium。表面的毛比 cilia 長，呈長短不一不規則狀，下方有一層紅色的 terminal bar，為stereocilia。",
+        "description": "箭頭所指為何種組織？（Be specific）"
+    },
+    {
+        "num": "b08lab_26",
+        "path": "b08lab/b08lab_26.webp",
+        "answer": [
+            "Pseudounipolar neuron"
+        ],
+        "explanation": "圖中所指的細胞體積大、圓，細胞核大且位於中央，周圍則有密集微小的 satellite cell 包圍著，也未與 fiber 相混雜，為 dorsal root ganglion 的特徵，此神經元亦被稱作 pseudo-unipolar neuron。",
+        "description": " 圈中為何種細胞？"
+    },
+    {
+        "num": "b08lab_27",
+        "path": "b08lab/b08lab_27.webp",
+        "answer": [
+            "Nail bed"
+        ],
+        "explanation": "Nail plate 底下深紫色為 nail bed ，是屬於 stratified squamous epithelium。這裡有兩層細胞，分別為 stratum basale 以及stratum spinosum。",
+        "description": "左下方黃色箭號指的結構？"
+    },
+    {
+        "num": "b08lab_28",
+        "path": "b08lab/b08lab_28.webp",
+        "answer": [
+            "Meissner’s corpuscle"
+        ],
+        "explanation": "此組織為 thick skin，可見視野上方 stratum granulosum 與下方stratum corneum之間有顏色不同的 stratum lucidum（本圖不明顯），並可見很厚的角質層。於 epidermis 和dermis 交界處的dermal papilla中可以觀察到橢圓形的結構，裡頭有橫走的fiber，主要由 Schwann cell 組成，細胞排列方向通常與 corpuscle 的長軸垂直。",
+        "description": "箭頭所指為何種結構？"
+    },
+    {
+        "num": "b08lab_29",
+        "path": "b08lab/b08lab_29.webp",
+        "answer": [
+            "Fenestrated capillary"
+        ],
+        "explanation": "電顯照片中，僅一層細胞圍成一個腔，應為微血管。此圖中可見微血管的內皮細胞出現許多孔洞，造成管壁在 EM 下呈現凹凸不平的樣子，為 fenestrated capillary 的特徵。",
+        "description": "紅圈所示為何種構造？"
+    },
+    {
+        "num": "b08lab_30",
+        "path": "b08lab/b08lab_30.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "在細胞中間的細胞核可看到顆粒狀 chromatin granule，細胞間",
+        "description": "圖中為何種組織？"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "num": "b11_01",
+        "path": "b11/b11_01.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圍繞在硬骨組織的骨小針周遭，體型較大，頂部多核，細胞被染成比較紅的顏色。",
+        "description": "圖中箭頭所指細胞名稱為何？"
+    },
+    {
+        "num": "b11_02",
+        "path": "b11/b11_02.webp",
+        "answer": [
+            "Large vein",
+            "vena cava",
+            "Tunica media"
+        ],
+        "explanation": "可分出tunica intima、tunica media、tunica adventitia三層。其中tunica intima非常薄，tunica media中可觀察到環走縱切（l.s.）的smooth muscle，tunica adventitia中則可觀察到一束束縱走橫切（c.s.）的smooth muscle，其間淡粉色帶狀分布者為collagen fiber。Large vein的tunica adventitia比tunica media厚很多。",
+        "description": "圖中箭頭所指細胞名稱為何？"
+    },
+    {
+        "num": "b11_03",
+        "path": "b11/b11_03.webp",
+        "answer": [
+            "Nucleolus"
+        ],
+        "explanation": "細胞中大白圓為細胞核，核中高電荷密度的黑色部分為核仁",
+        "description": "紅色箭頭所標示部分為何？"
+    },
+    {
+        "num": "b11_04",
+        "path": "b11/b11_04.webp",
+        "answer": [
+            "B"
+        ],
+        "explanation": "此為大腦切片，B處可見多個神經細胞核，其中有許多pyramidal cells，可知為灰質部分；A處為process聚集的白質。 ",
+        "description": "請問AB何者為灰質？（A為左側、B為右側）"
+    },
+    {
+        "num": "b11_05",
+        "path": "b11/b11_05.webp",
+        "answer": [
+            "左：fibrocartilage 右：tendon",
+            "fibrocartilage tendon"
+        ],
+        "explanation": "左:有lacuna，是chondrocyte，又排列整齊鏈狀，所以是fibrocartilage。 右:核長條型，fiber走向固定，為tendon。",
+        "description": "左右分別是什麼？"
+    },
+    {
+        "num": "b11_06",
+        "path": "b11/b11_06.webp",
+        "answer": [
+            "Canaliculi"
+        ],
+        "explanation": "從osteocyte的lacunae延伸出來的輻射狀細線為canaliculi。",
+        "description": "請問箭頭所指構造是什麼？"
+    },
+    {
+        "num": "b11_07",
+        "path": "b11/b11_07.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "深藍色顆粒，核不清楚。 ",
+        "description": "請問下列為何種細胞？"
+    },
+    {
+        "num": "b11_08",
+        "path": "b11/b11_08.webp",
+        "answer": [
+            "A. smooth muscle B. cardiac muscle",
+            "smooth muscle cardiac muscle"
+        ],
+        "explanation": "A.細胞排列較為緊密；B.細胞間空隙較大",
+        "description": "下列圖片中A，B各為何種組織？"
+    },
+    {
+        "num": "b11_09",
+        "path": "b11/b11_09.webp",
+        "answer": [
+            "Tunica media"
+        ],
+        "explanation": "多層 smooth muscle（大多是環狀排列）和 elastic fiber。",
+        "description": "以下紅線標示的結構是？"
+    },
+    {
+        "num": "b11_10",
+        "path": "b11/b11_10.webp",
+        "answer": [
+            "Alpha-granule"
+        ],
+        "explanation": "超大（300~500 nm），各種形狀皆有。電顯下略微 electron dense，因此呈現灰色。δ-granule 顏色極深，又稱dense body，為兩者差異。",
+        "description": "下面黑色箭頭 (G) 所指構造為何？"
+    },
+    {
+        "num": "b11_11",
+        "path": "b11/b11_11.webp",
+        "answer": [
+            "Choroid plexus",
+            "ependymal cell"
+        ],
+        "explanation": "脈絡叢（choroid plexus）為特化的 ependymal cell 中間包覆 vascular core 組成。（師曰：類似一串葡萄的形狀）",
+        "description": "紅色圈選的組織為何？箭頭所指的細胞名稱？（be specific）"
+    },
+    {
+        "num": "b11_12",
+        "path": "b11/b11_12.webp",
+        "answer": [
+            "Smooth muscle contraction"
+        ],
+        "explanation": "深紅色的深染帶狀為 contraction bands。收縮的平滑肌兩端的細胞質會往中心集中，故較深染。細胞核顏色也較深，且部分細胞核呈螺旋狀或可樂果狀（corkscrew）。",
+        "description": "這是什麼組織？它現在在做什麼？"
+    },
+    {
+        "num": "b11_13",
+        "path": "b11/b11_13.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "1，2，3，4 皆為 cilia，中間有 central microtubules 的陰影，而旁邊的小圓和條狀物為microvilli。",
+        "description": "寫出黃色箭頭所指的構造名稱"
+    },
+    {
+        "num": "b11_14",
+        "path": "b11/b11_14.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "典型的核為馬蹄形或腎形，有明顯凹陷（markedly indented），且細胞核不會佔滿整顆細胞。",
+        "description": "此細胞為何？"
+    },
+    {
+        "num": "b11_15",
+        "path": "b11/b11_15.webp",
+        "answer": [
+            "Elastic Cartilage",
+            "Orcein staining"
+        ],
+        "explanation": "Elastic fiber 被Orcein 染成紅棕色，同時可見Perichondrium（微綠）、Lacuna(空腔)、Chondrocyte(腔內細胞)；Orcein: 染 Elastic fiber 成為紅棕色",
+        "description": "請問下列的組織？染色方式？"
+    },
+    {
+        "num": "b11_16",
+        "path": "b11/b11_16.webp",
+        "answer": [
+            "Zone of proliferation"
+        ],
+        "explanation": "zone of reserve cartilage：軟骨的部分；zone of proliferation：lacuna / chondrocyte 密度開始劇烈增加； zone of hypertrophy：lacuna 膨脹； zone of cartilage calcification：軟骨鈣化，正在轉換成硬骨； zone of resorption：骨頭的再塑造（remodelling of bone）。新生層的硬骨質跟殘留的軟骨有顏色有明顯的分別：鈣化的軟骨被染成偏藍色，新生成的骨質則被染成紅色。",
+        "description": "下圖框框是什麼區域？"
+    },
+    {
+        "num": "b11_17",
+        "path": "b11/b11_17.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "細胞分裂時，中心體複製，可觀察到 2 個中心體，即 4 個中心粒。因中心粒互相垂直，故有縱切面與橫切面，橫切面為 9×3+0。",
+        "description": "請問這是什麼構造？"
+    },
+    {
+        "num": "b11_18",
+        "path": "b11/b11_18.webp",
+        "answer": [
+            "Internal Elastic Membrane",
+            "Smooth muscle cell"
+        ],
+        "explanation": "經過特殊染色，可以將原本 HE stain 下不明顯的 internal & external elastic lamella 染成黑色，圖片上方箭頭所指處為 internal elastic lamella、圖片下方；箭頭所指處為 external elastic lamella。Tunica media 中，波浪狀的 elastic lamella 很少，多為 smooth muscle，且呈現螺旋形（corkscrew）",
+        "description": "請問綠色箭頭所指的深色線是什麼構造？紅色箭頭所指的是什麼細胞？"
+    },
+    {
+        "num": "b11_19",
+        "path": "b11/b11_19.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "跟紅血球差不多大，深藍的核圓且比例大，周圍有少許淡藍色細胞質，是和basophil 最大的不同。",
+        "description": "這個細胞為何？"
+    },
+    {
+        "num": "b11_20",
+        "path": "b11/b11_20.webp",
+        "answer": [
+            "Fenestration (of fenestrated capillary)"
+        ],
+        "explanation": "細胞質有很多孔洞叫 fenestration，通透性增加，所以有物質交換的功能。",
+        "description": "請問箭頭所指的「構造」名稱為何"
+    },
+    {
+        "num": "b11_21",
+        "path": "b11/b11_21.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "紅色長條為肌肉，肌肉之間有黑色樹枝狀構造為神經纖維，其末端可見到圓盤狀運動終板。",
+        "description": "請寫出下圖箭頭所指構造的名稱"
+    },
+    {
+        "num": "b11_22",
+        "path": "b11/b11_22.webp",
+        "answer": [
+            "dense irregular connective tissue",
+            "Collagen fiber",
+            "collagenous fiber"
+        ],
+        "explanation": "圖中Connective tissue纖維緻密，且走向不一，故為 dense irregular connective tissue，又大部分纖維用HE染色呈粉紅色，故為Collagen fiber。",
+        "description": "寫出下面箭頭所指組織名稱，並寫出為哪種纖維組成。"
+    },
+    {
+        "num": "b11_23",
+        "path": "b11/b11_23.webp",
+        "answer": [
+            "Motor neuron",
+            "Multipolar neuron"
+        ],
+        "explanation": "此為 silver stain 下的 multipolar neuron，細胞體積大、多角形， 可見 Nissl bodies, cell body 周圍無 satellite cells，是 spinal cord 之 multipolar neuron，屬於 motor neuron。",
+        "description": "下列是何種細胞"
+    },
+    {
+        "num": "b11_24",
+        "path": "b11/b11_24.webp",
+        "answer": [
+            "Simple cuboid epithelium"
+        ],
+        "explanation": "細胞為立方體，核在中央。",
+        "description": "寫出虛線所指之組織"
+    },
+    {
+        "num": "b11_25",
+        "path": "b11/b11_25.webp",
+        "answer": [
+            "A: Brown Adipose tissue B: White adipose tissue",
+            "Brown Adipose tissue White adipose tissue"
+        ],
+        "explanation": "Brown Adipose tissue核旁有需多小油滴，沒有合成大油滴，旁有粒線體；White adipose tissue油滴大，細胞胞器被擠到旁邊。 ",
+        "description": "請問A、B分別是什麼組織？"
+    },
+    {
+        "num": "b11_26",
+        "path": "b11/b11_26.webp",
+        "answer": [
+            "Non-cornified Stratified squamous epithelium",
+            "non-keratinized Stratified squamous epithelium"
+        ],
+        "explanation": "A為多層扁平上皮細胞，且未角質化",
+        "description": "A爲何種組織"
+    },
+    {
+        "num": "b11_27",
+        "path": "b11/b11_27.webp",
+        "answer": [
+            "dorsal root ganglion"
+        ],
+        "explanation": "圖中圈起處細胞較大,一旁有許多小細胞圍繞,為神經元的 特徵。此外 satellite cell 和 fiber 有明顯分界,細胞呈圓形且 核位於細胞中心,可判斷為 Dorsal root ganglion(DRG)。",
+        "description": "請寫出以下組織名稱"
+    },
+    {
+        "num": "b11_28",
+        "path": "b11/b11_28.webp",
+        "answer": [
+            "Cerebellum"
+        ],
+        "explanation": "途中可見Granular layer、Purkinje cell及Molecular layer，故為小腦",
+        "description": "寫出圖中器官名稱？（忽略箭頭）"
+    },
+    {
+        "num": "b11_29",
+        "path": "b11/b11_29.webp",
+        "answer": [
+            "Cilia Basal body"
+        ],
+        "explanation": "可見一絲一絲的構造，且長度比stereocilia短，故為cilia；在cilia底部呈深紅色線條構造是由basal body所構成",
+        "description": "請問下圖黃色區域的構造為何？紅色箭頭為何"
+    },
+    {
+        "num": "b11_30",
+        "path": "b11/b11_30.webp",
+        "answer": [
+            "Astrocyte"
+        ],
+        "explanation": "此為存在於 CNS medulla 中的 fibrous astrocyte，process 較細長、分岔較少，經由 silver stain 呈黑色。（和protoplastic的區別方式是fibrous astrocyte背景很深，看不到neuron）",
+        "description": "圖中箭頭指的是什麼細胞？"
+    },
+    {
+        "num": "b11_31",
+        "path": "b11/b11_31.webp",
+        "answer": [
+            "Goblet cell PAS"
+        ],
+        "explanation": "Goblet cell 為空泡狀的分泌細胞，可用PAS染色",
+        "description": "深紫色細胞為何？用何者染色方式製備？"
+    },
+    {
+        "num": "b11_32",
+        "path": "b11/b11_32.webp",
+        "answer": [
+            "Plasma cell"
+        ],
+        "explanation": "細胞橢圓形，細胞核偏向一邊，細胞核的外圍和中心較深染，呈現車輪狀，細胞質也有較為淡染、空泡狀的區域（為Golgi apparatus），故綜合以上特徵，可推論為plasma cell。",
+        "description": "請問這是什麼細胞？"
+    },
+    {
+        "num": "b11_33",
+        "path": "b11/b11_33.webp",
+        "answer": [
+            "White Adipose tissue (osmic acid fixation)"
+        ],
+        "explanation": "Osmic acid 染色並固定脂肪，被染到的地方呈現黑色。",
+        "description": "這是什麼組織？製備方法為何？"
+    },
+    {
+        "num": "b11_34",
+        "path": "b11/b11_34.webp",
+        "answer": [
+            "Elastic fiber",
+            "elastin fiber"
+        ],
+        "explanation": "Loose connective tissue中，Elastic fiver被resorcin fuchsin染成藍紫色的細絲線，較粗的淺紫色線條則為collagen fiber。背景中可見較深染的紡錘狀細胞體，為fibroblast。",
+        "description": "請寫出紫色線條的名稱。(Be specific)"
+    },
+    {
+        "num": "b11_35",
+        "path": "b11/b11_35.webp",
+        "answer": [
+            "Mast cell metachromasia"
+        ],
+        "explanation": "Mast cell特徵為顆粒豐富，中間略呈中空狀的大型細胞。Mast cell的異染性是因為Toluidine blue stains granules被mast cell中的大量陰離子抓住，使染劑折射率改變(藍色變為紫紅色)。",
+        "description": "請問下列呈紅色的細胞為何？並寫出將染劑由藍轉紅的特性為何？"
+    }
+]

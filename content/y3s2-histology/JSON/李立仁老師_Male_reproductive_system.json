@@ -1,0 +1,110 @@
+[
+  {
+    "num": "b11lab-01",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-01.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "Stereocilia 的特徵為長短不一，頂段會看起來有一圈粉紅色的連線。此為副睪的切片，副睪會有的上皮即為 pseudostratified columnar epithelium with stereocilia。",
+    "description": "圓圈中的上皮名稱？"
+  },
+  {
+    "num": "b11lab-02",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-02.webp",
+    "answer": [
+      "Sertoli cell"
+    ],
+    "explanation": "核呈橢圓狀，細胞會和 basement membrane 接觸長度較周圍細胞長。",
+    "description": "箭頭所指細胞名稱？"
+  },
+  {
+    "num": "b11lab-03",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-03.webp",
+    "answer": [
+      "Primary spermatocyte"
+    ],
+    "explanation": "在此區域核最大，核仁明顯有絲狀。",
+    "description": "箭頭所指細胞名稱？"
+  },
+  {
+    "num": "b11lab-04",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-04.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "超級厚的平滑層，若仔細看，可以看到分三層內縱中環外縱。管內的上皮也被擠出像是梅花的形狀。",
+    "description": "構造名稱？"
+  },
+  {
+    "num": "b11lab-05",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-05.webp",
+    "answer": [
+      "Prostate gland smooth muscle"
+    ],
+    "explanation": "上皮的皺褶形成 prostatic alveoli、粉紅色的 Corpora amylacea 和大量的平滑肌。",
+    "description": "此構造位於哪一個器官？箭頭所指構造為何？"
+  },
+  {
+    "num": "b11lab-06",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-06.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "蜂窩狀的管腔、外有內環外縱的平滑肌包覆。",
+    "description": "此圖為何種器官？"
+  },
+  {
+    "num": "b11lab-07",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-07.webp",
+    "answer": [
+      "Scrotum"
+    ],
+    "explanation": "Stratum basale 含有 pigment granules、大量的 smooth muscle（黃）、含有 elastic fiber（紅棕）。",
+    "description": "此圖位於何種器官？"
+  },
+  {
+    "num": "b11lab-08",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-08.webp",
+    "answer": [
+      "Acrosome Mitochondria sheath"
+    ],
+    "explanation": "精子核前方構造為 acrosome，而 B 的顆粒為 mitochondria。",
+    "description": "圖中 A、B 所指之箭頭分別為何種構造？"
+  },
+  {
+    "num": "b11lab-09",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-09.webp",
+    "answer": [
+      "Spermatid"
+    ],
+    "explanation": "Early spermatid 之特徵為小細胞，深染，已經看不見染色質絲，核仍為圓球狀。1. Sertoli cell; 2. Leydig cell; 3. spermatogonia; 4. primary spermatocyte; 6. late spermatid（核為尖尖箭頭狀）。",
+    "description": "請問圖中 5 號所指之細胞為何？"
+  },
+  {
+    "num": "b11lab-10",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-10.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "超級厚的平滑層，若仔細看，可以看到分三層內縱中環外縱。管內的上皮也被擠出像是梅花的形狀。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "b11lab-11",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-11.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "由豐富的 smooth muscle 還有 prostatic concretion（Corpora amylacea）可以判斷。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "b11lab-12",
+    "path": "李立仁老師_Male_reproductive_system/b11lab-12.webp",
+    "answer": [
+      "Epididymis pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "此圖可方便觀察 ductus efferentes（左）與 epididymis（右）的差異。左側的 ductus efferentes 之上皮高低不齊，破碎呈星狀；右側的 epididymis 則有平整高上皮。",
+    "description": "圈起來的地方在何構造內？上皮型態為何？"
+  }
+]

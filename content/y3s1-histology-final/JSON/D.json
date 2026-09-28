@@ -1,0 +1,1112 @@
+[
+  {
+    "num": "204104",
+    "path": "D/204104.webp",
+    "answer": [
+      "Pseudostratified ciliated columnar epithelium with goblet cell"
+    ],
+    "explanation": "帶有一條一條cilia的epithelium，中間夾雜幾顆淡染的goblet cell。",
+    "description": "畫面中為何種上皮組織？箭頭所指為什麼細胞？"
+  },
+  {
+    "num": "204105",
+    "path": "D/204105.webp",
+    "answer": [
+      "Colon",
+      "Large intestine"
+    ],
+    "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。",
+    "description": "畫面中器官名稱？"
+  },
+  {
+    "num": "204106",
+    "path": "D/204106.webp",
+    "answer": [
+      "Ileum"
+    ],
+    "explanation": "Villi數量減少而且變短，下方長條紫色橢圓狀區塊為Peyer’s patches。",
+    "description": "寫出整個範圍的器官名稱？（Be specific）"
+  },
+  {
+    "num": "204107",
+    "path": "D/204107.webp",
+    "answer": [
+      "Pancreas"
+    ],
+    "explanation": "深染處是exocrine portion，有acinar cell。淡染處是endocrine portion，為islets of Langerhans。",
+    "description": "視野下器官名稱？"
+  },
+  {
+    "num": "204122",
+    "path": "D/204122.webp",
+    "answer": [
+      "Gall bladder simple columnar epithelium"
+    ],
+    "explanation": "Gall bladder最上面的mucosa epithelium為simple columnar epithelium（人身上最高），且無goblet cell，具有非常明顯凸起的rugae/villi。往下可再劃分成muscularis externa和adventitia/serosa。 \n（與其他消化道最明顯的差別在於沒有submucosa和muscularis mucosa這兩層）",
+    "description": "圖片中為何種器官？其上皮為何種組織？"
+  },
+  {
+    "num": "204123",
+    "path": "D/204123.webp",
+    "answer": [
+      "Extrahepatic bile duct",
+      "simple columnar epithelium"
+    ],
+    "explanation": "Bile duct是在肝臟外面，比較大型的部分。與gall bladder一樣分為mucosa，muscularis externa和adventitia/serosa，沒有submucosa和muscularis mucosa，差別在於bile duct比較沒有fold和rugae。最內層mucosa可分為epithelium和lamina propria，其中epithelium為simple columnar epithelium，亦無goblet cell。",
+    "description": "圖中為什麼器官？何種上皮組織？"
+  },
+  {
+    "num": "204124",
+    "path": "D/204124.webp",
+    "answer": [
+      "Best’s carmine glycogen"
+    ],
+    "explanation": "Best’s carmine主要針對glycogen particle染紅色。在hepatocyte中含有大量的glycogen particle，所以在此玻片中會被染出大量的紅色顆粒。 \n（比較：Carmine染紅細胞核；Best’s carmine染紅glycogen particle）",
+    "description": "請問染色方法及紅色物質名稱？"
+  },
+  {
+    "num": "204125",
+    "path": "D/204125.webp",
+    "answer": [
+      "Kupffer cell"
+    ],
+    "explanation": "此為用vital stain染色的liver。使用vital stain主要是為了染Kupffer cell。Kupffer cell是macrophage在肝臟的名稱，所以在Trypan blue活體染色染成藍色。核比較大且會突出lumen，皆位於sinusoid中。",
+    "description": "箭頭所指為什麼細胞？"
+  },
+  {
+    "num": "204126",
+    "path": "D/204126.webp",
+    "answer": [
+      "Hepatic artery"
+    ],
+    "explanation": "此為liver的portal triad。內含三種管腔。管腔最大，管壁薄（一層endothelia及一層smooth muscle），管腔中央可見血球的是portal vein。管徑較小，管壁厚，具有smooth muscle的是hepatic artery。由一圈很整齊的simple cuboidal epithelium組成的則是bile duct。 \n箭頭所指為hepatic artery。",
+    "description": "箭頭所指為什麼構造？"
+  },
+  {
+    "num": "210101",
+    "path": "D/210101.webp",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "Portal vein位於liver lobule頂點的portal triad中，其管腔較大、管壁薄（一層endothelium及一層smooth muscle），管腔中央可看見血球。",
+    "description": "圖中箭頭所指的構造為何？"
+  },
+  {
+    "num": "210109",
+    "path": "D/210109.webp",
+    "answer": [
+      "duodenum"
+    ],
+    "explanation": "Submucosa 有 gland,所以只剩下 esophagus 和 duodenum 兩種器官。在 submucosa 有 Brunner’s gland 但 villi 呈現葉片狀、較短,所以是 duodenum。",
+    "description": "這是什麼器官?"
+  },
+  {
+    "num": "210111",
+    "path": "D/210111.webp",
+    "answer": [
+      "liver"
+    ],
+    "explanation": "該組織分成多角形葉,由板狀構造組成。且位於每個 lobule當中都可見 central vein,lobule 的頂點則為 portal triad。",
+    "description": "寫出視野下的器官名稱"
+  },
+  {
+    "num": "210117",
+    "path": "D/210117.webp",
+    "answer": [
+      "Ileum"
+    ],
+    "explanation": "從較少的plicae circulares以及明顯的Peyer’s patch可判斷為ileum",
+    "description": "請問視野下為甚麼器官?"
+  },
+  {
+    "num": "210118",
+    "path": "D/210118.webp",
+    "answer": [
+      "Islet of Langerhans"
+    ],
+    "explanation": "可見淡染以及深染的區域，淡染為endocrine gland (islet of Langerhans)，深染為exocrine gland (acinar cell)",
+    "description": "請問視野下淡染的區域為甚麼組織?"
+  },
+  {
+    "num": "210123",
+    "path": "D/210123.webp",
+    "answer": [
+      "A",
+      "zone 1"
+    ],
+    "explanation": "Zone of Liver acinus；由中央短軸往兩端 central vein 分為zone1、2、3。右上縫隙構成的斜線為 portal tract，血流由portal tract 流入，會先接觸到 zone1 的血，一面接著往zone2、zone3 流，最後才擴散匯入 central vein，即左下之空腔。由 Zone1 到 Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone1 含氧量最高。",
+    "description": "哪一區含氧量最高"
+  },
+  {
+    "num": "210129",
+    "path": "D/210129.webp",
+    "answer": [
+      "Colon"
+    ],
+    "explanation": "可見 mucosa 的頂端高度大 致相同，intestinal gland(Gl)內包含大量 goblet cell。 此處的 submucosa 沒有 gland 分布。 Muscularis mucosae 連續分布。",
+    "description": "請問以下是什麼器官？"
+  },
+  {
+    "num": "11107",
+    "path": "D/11107.webp",
+    "answer": [
+      "Centroacinar cell"
+    ],
+    "explanation": "在acinar cell (特徵為底部較basophilic，頂部比較eosinophilic、細胞會圍成一圈) 中間的就是centroacinar cell。",
+    "description": "指針（藍色箭頭）所指的細胞是什麼?"
+  },
+  {
+    "num": "11115",
+    "path": "D/11115.webp",
+    "answer": [
+      "A: Bile Duct B: Simple columnar epithelium",
+      "A: Bile Duct B: with microvilli",
+      "A: Gallbladder B: Simple columnar epithelium",
+      "A: Gallbladder B: with microvilli",
+      "Bile Duct Simple columnar epithelium",
+      "Bile Duct with microvilli",
+      "Gallbladder Simple columnar epithelium",
+      "Gallbladder with microvilli"
+    ],
+    "explanation": "There are only three layers: mucosa, muscularis externa and adventitia (no muscularis mucosa and no submucosa). The muscularis externa is relatively thick. The epithelium of gallbladder is simple columnar. ",
+    "description": "這是什麽組織？上皮層是什麽？"
+  },
+  {
+    "num": "11117",
+    "path": "D/11117.webp",
+    "answer": [
+      "Zone 3"
+    ],
+    "explanation": "觀察 liver acinus 的分區：由兩 portal canal 的連線往 central vein 分成 zone 1 到zone 3。",
+    "description": "這是哪一個 zone？"
+  },
+  {
+    "num": "11126",
+    "path": "D/11126.webp",
+    "answer": [
+      "Hepatic artery"
+    ],
+    "explanation": "首先用內皮不是cuboid、有血球而排除 bile duct，再來可以從其tunica media 中平滑肌較多、管徑較小排除portal vein得到答案是 hepatic artery。",
+    "description": "這是什麼構造"
+  },
+  {
+    "num": "11128",
+    "path": "D/11128.webp",
+    "answer": [
+      "Teniae coli"
+    ],
+    "explanation": "從沒有villi可以判斷出屬於大腸，而大腸外muscularis externa 特別突起的地方即可判斷出屬於teniae coli。 ",
+    "description": "下圖是什麼構造"
+  },
+  {
+    "num": "11133",
+    "path": "D/11133.webp",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "此圖為肝臟的Portal triad。箭頭所指為三聯組中管腔最大、管壁最薄的血管，即為Portal vein。",
+    "description": "指針下構造名稱？"
+  },
+  {
+    "num": "205103",
+    "path": "D/205103.webp",
+    "answer": [
+      "Ileum",
+      "Peyer’s patch"
+    ],
+    "explanation": "碩大而明顯的lymphatic nodule，位於ileum處則稱作Peyer’s patch，有短、非葉狀的villi，判斷是ileum。 ",
+    "description": "視野下為何構造？"
+  },
+  {
+    "num": "205104",
+    "path": "D/205104.webp",
+    "answer": [
+      "Submucosa"
+    ],
+    "explanation": "所指構造為plicae circulares中央的submucosa，內有血管與乳糜管（lacteal）。Plicae circulares的外層為mucosa，上面許多的指狀突起為villi。 ",
+    "description": "箭頭指的為何構造？"
+  },
+  {
+    "num": "205105",
+    "path": "D/205105.webp",
+    "answer": [
+      "Pancreas"
+    ],
+    "explanation": "可見深染淡染區，分別對應exocrine gland（acinar cell，深染）和endocrine gland（islet of Langerhans，淡染）。 ",
+    "description": "視野下的器官名稱？"
+  },
+  {
+    "num": "205106",
+    "path": "D/205106.webp",
+    "answer": [
+      "Colon"
+    ],
+    "explanation": "大腸表面較為平整，具有非指狀但凹陷的pit，且muscularis externa可以看到平滑肌聚集形成的 taeniae coli（用來推測不是rectum）。 ",
+    "description": "視野下的器官名稱？"
+  },
+  {
+    "num": "205113",
+    "path": "D/205113.webp",
+    "answer": [
+      "Liver"
+    ],
+    "explanation": "該組織分成多角形葉，由板狀構造組成。且位於每個lobule當中都可見central vein，lobule的頂點則為portal triad。 ",
+    "description": "這是什麼器官的切片？"
+  },
+  {
+    "num": "205114",
+    "path": "D/205114.webp",
+    "answer": [
+      "Gall bladder"
+    ],
+    "explanation": "該組織可分為3層，由下到上為mucosa、muscularis externa、adventitia。Mucosa包含epithelium與lamina propria，epithelium為simple columnar epithelium with rugae/villi，且無goblet cell，muscularis externa為平滑肌。有時於lamina propria可見tubuloalveolar gland。由分層、上皮組織類型判斷為膽囊。 ",
+    "description": "這是什麼器官？"
+  },
+  {
+    "num": "205115",
+    "path": "D/205115.webp",
+    "answer": [
+      "Peribiliary gland"
+    ],
+    "explanation": "這是extrahepatic bile duct，和上一題gall bladder一樣可分為3層：mucosa、muscularis externa、serosa/adventitia。但其mucosa較平滑，folding和rugae較不明顯，且為獨立管道並沒有被肝組織包圍，故為extrahepatic bile duct。而在此處，箭頭所指的構造是mucosa下的PBG，peribiliary gland，有intramural PBG和extramural PBG兩種，前者較後者接近管腔。",
+    "description": "箭號所指為何構造？"
+  },
+  {
+    "num": "208205",
+    "path": "D/208205.webp",
+    "answer": [
+      "Peyer's patch ileum"
+    ],
+    "explanation": "管壁有villi短而非葉狀，碩大而明顯的lymphatic nodule。\n【出處】08共筆Vol.15 P.22",
+    "description": "圖中的器官及圈圈中構造名稱？"
+  },
+  {
+    "num": "208207",
+    "path": "D/208207.webp",
+    "answer": [
+      "1"
+    ],
+    "explanation": "Zone of Liver acinus：由中央短軸往兩端central vein分為zone1、2、3。由於血流由portal tract流入，會先接觸到zone1的血，一面接著往zone2、zone3，最後才擴散匯入central vein(圖左下)。由Zone1到Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone1含氧量最高。\n【出處】08共筆Vol.16 P.26",
+    "description": "哪一區有較高的氧氣？"
+  },
+  {
+    "num": "208211",
+    "path": "D/208211.webp",
+    "answer": [
+      "bile duct"
+    ],
+    "explanation": "此為liver的portal triad。內含三種管腔。管腔最大，管壁薄（一層endothelia及一層smooth muscle），管腔中央可見血球的是portal vein。管徑較小，管壁厚，具有smooth muscle的是hepatic artery（此圖沒看到）。由一圈很整齊的simple cuboidal epithelium組成的則是bile duct（綠框內構造）。\n【出處】08共筆Vol.16 P.42",
+    "description": "請問圖中框內的構造為何？"
+  },
+  {
+    "num": "208215",
+    "path": "D/208215.webp",
+    "answer": [
+      "hepatocyte"
+    ],
+    "explanation": "先從板狀結構判斷為肝臟，而hepatocyte核圓且多為雙核。\n【出處】08共筆Vol.16 P.11",
+    "description": "紅框是什麼細胞？"
+  },
+  {
+    "num": "208223",
+    "path": "D/208223.webp",
+    "answer": [
+      "Pancreas acinar cell"
+    ],
+    "explanation": "此圖可見淡染的蘭氏小島，可知為Pancreas。Pancreas相對深染的部分為exocrine portion，其中acinar cell核較圓、深染，而centroacinar cell核較扁平、淡染。\n【出處】08共筆Vol.15 P.37, 38",
+    "description": "A圖器官為何？B圖中藍色框框所指細胞名稱？"
+  },
+  {
+    "num": "208231",
+    "path": "D/208231.webp",
+    "answer": [
+      "Paneth cell"
+    ],
+    "explanation": "細胞位在intestinal gland的最底部，且細胞頂端具eosinophilic的granules。細胞基部為basophilic。\n【出處】08共筆Vol.15 P.49",
+    "description": "紅框為何種細胞？"
+  },
+  {
+    "num": "208233",
+    "path": "D/208233.webp",
+    "answer": [
+      "Best’s carmine or PAS",
+      "glycogen particle"
+    ],
+    "explanation": "Best’s carmine主要針對glycogen particle染紅色。在hepatocyte中含有大量的glycogen particle，所以在此玻片中會被染出大量的紅色顆粒。（比較：Carmine染紅細胞核；Best’s carmine染紅glycogen particle）\n【出處】08共筆Vol.16 P.18",
+    "description": "圖染什麼東西？用什麼染劑？"
+  },
+  {
+    "num": "208235",
+    "path": "D/208235.webp",
+    "answer": [
+      "sinusoid of liver"
+    ],
+    "explanation": "箭頭所指空腔為sinusoid of liver，被Kupffer cell和endothelial cell所圍出。其周圍有hepatocyte 的microvilli。\n【出處】08共筆Vol.16 P.28",
+    "description": "此為什麼構造？"
+  },
+  {
+    "num": "209203",
+    "path": "D/209203.webp",
+    "answer": [
+      "Lamina propria"
+    ],
+    "explanation": "先辨別出圖中一塊一塊的構造是被橫切的小腸villi。又Villi僅由mucosa （=simple columnar epithelium cell + lamina propria）組成，而虛線外圍看到goblet cell，屬於epithelium層，因此虛線圍起來以內的構造就會是lamina propria。\n【出處】09共筆 Vol.15 P.3",
+    "description": "虛線內為何構造"
+  },
+  {
+    "num": "209205",
+    "path": "D/209205.webp",
+    "answer": [
+      "Intestine gland Paneth cell"
+    ],
+    "explanation": "注意此紅色為重要的特殊染色，被染色的部分是Paneth cell位於小腸intestinal gland 的最底部，與抗菌有關。\n【出處】09共筆 Vol.15 P.8",
+    "description": "下圖為何細胞，在哪裡出現"
+  },
+  {
+    "num": "209210",
+    "path": "D/209210.webp",
+    "answer": [
+      "Centroacinar cell"
+    ],
+    "explanation": "圖中可見箭頭指的較淡染細胞（Centroacinar cells）被一群較深染的acinar cells 圍在中間。\n【出處】09共筆 Vol.15 P.39、59",
+    "description": "箭頭所指是什麼細胞"
+  },
+  {
+    "num": "2092019",
+    "path": "D/2092019.webp",
+    "answer": [
+      "duodenum muscularis mucosae"
+    ],
+    "explanation": "圖左上角有像是villi被橫切的構造，而且可以看到goblet cell，應為小腸。問題所指部分的右下角那區有像gland的構造，可以直接推測出是Brunner’s gland，這是duodenum的切片。因此問題所指的部分即為muscularis mucosae。注意muscularis mucosae因為有Brunner’s gland的duct穿過，而在duodenum呈不連續，也是本題答題重要依據。\n【出處】09共筆 Vol.15 P.13-14",
+    "description": "寫出兩條虛線之間的構造？位於何處？"
+  },
+  {
+    "num": "2092027",
+    "path": "D/2092027.webp",
+    "answer": [
+      "plica circulares"
+    ],
+    "explanation": "先看出這應該是腸道的切片，而框起來部分包含向管腔凸起的 villi、 mucosa與submucosa，故整個叫做Plica Circularis。\n(單數是plica circularis，複數是plicae circulares)\n【出處】09共筆 Vol.15 P.48",
+    "description": "紅色框框裡的構造名稱？"
+  },
+  {
+    "num": "208101",
+    "path": "D/208101.webp",
+    "answer": [
+      "Gall bladder"
+    ],
+    "explanation": "該組織可分為3層，由下到上為mucosa、muscularis externa、adventitia。Mucosa包含epithelium與lamina propria，epithelium為simple columnar epithelium with rugae / villi，且無goblet cell，muscularis externa為平滑肌。有時於lamina propria可見tubuloalveolar gland。由分層、上皮組織類型判斷為膽囊。\n【出處】共筆Vol. 16 P.52",
+    "description": "這是什麼器官？"
+  },
+  {
+    "num": "208102",
+    "path": "D/208102.webp",
+    "answer": [
+      "colon"
+    ],
+    "explanation": "大腸表面較為平整，具有非指狀但凹陷的pit，且muscularis externa可以看到平滑肌聚集形成的taeniae coli（用來推測不是rectum）。\n【出處】共筆Vol.15 P.27",
+    "description": "這是什麼器官？"
+  },
+  {
+    "num": "208109",
+    "path": "D/208109.webp",
+    "answer": [
+      "Mucosae",
+      "Muscularis",
+      "duodenum"
+    ],
+    "explanation": "為GI tract 的Muscularis mucosae，又可見其Brunner’s gland穿過muscularis mucosae，為鑑別duodenum最重要的特色。\n【出處】共筆Vol.15 P.51",
+    "description": "黑色箭頭指的是？（非黃色虛線）"
+  },
+  {
+    "num": "208113",
+    "path": "D/208113.webp",
+    "answer": [
+      "Duodenum"
+    ],
+    "explanation": "Submucosa有gland，所以只剩下esophagus和duodenum兩種器官。在submucosa有Brunner’s gland但villi呈現葉片狀、較短，所以是duodenum。\n【出處】共筆Vol.15 P.15",
+    "description": "圖中的為何器官？"
+  },
+  {
+    "num": "208114",
+    "path": "D/208114.webp",
+    "answer": [
+      "1"
+    ],
+    "explanation": "先判斷Central vein 和 portal venules的位置，遠離Central vein 的Zone 1氧氣含量高,β oxidation、gluconeogenesis 較活躍。\n【出處】共筆Vol.16 P.26",
+    "description": "圖中箭頭所指為何種組織？"
+  },
+  {
+    "num": "208116",
+    "path": "D/208116.webp",
+    "answer": [
+      "Central vein"
+    ],
+    "explanation": "此為Liver，Lobule中央為Central vein。\n【出處】共筆Vol.16 P.8",
+    "description": "畫面中器官名稱？"
+  },
+  {
+    "num": "208117",
+    "path": "D/208117.webp",
+    "answer": [
+      "Jejunum"
+    ],
+    "explanation": "具plicae circulares，且villi高而明顯。\n【出處】共筆Vol.15 P.19,20",
+    "description": "畫面中器官名稱？"
+  },
+  {
+    "num": "207202",
+    "path": "D/207202.webp",
+    "answer": [
+      "Centroacinar cell"
+    ],
+    "explanation": "Centroacinar cell位於環狀排列的acinarcell中央。Centroacinar cell小、核較扁平，質顏色淡染;Acinar cells較圓，深染。\n【出處】07共筆Vol.16 P.7",
+    "description": "箭頭所指之細胞名稱？"
+  },
+  {
+    "num": "207204",
+    "path": "D/207204.webp",
+    "answer": [
+      "Zone 1"
+    ],
+    "explanation": "先判斷Central vein 和 portal venules的位置，遠離Central vein 的Zone 1氧氣含量高,β oxidation、gluconeogenesis 較活躍。\n【出處】07共筆Vol.17 P.28",
+    "description": "哪一區有較高的氧氣？"
+  },
+  {
+    "num": "207207",
+    "path": "D/207207.webp",
+    "answer": [
+      "Muscularis mucosae duodenum"
+    ],
+    "explanation": "為GI tract 的Muscularis mucosae，又可見其Brunner’s gland穿過muscularis mucosae，為鑑別duodenum最重要的特色。\n【出處】07共筆Vol.16 P.19",
+    "description": "寫出兩條虛線之間的構造？位於何處？"
+  },
+  {
+    "num": "207210",
+    "path": "D/207210.webp",
+    "answer": [
+      "ME longitudinal layer",
+      "Teniae coli"
+    ],
+    "explanation": "大腸的Muscularis externa可以看到平滑肌聚集形成的 taeniae coli。\n【出處】07共筆Vol.16 P.30",
+    "description": "寫出箭頭所指虛線內構造名稱（Be specific）"
+  },
+  {
+    "num": "207211",
+    "path": "D/207211.webp",
+    "answer": [
+      "central vein"
+    ],
+    "explanation": "此為Liver，Lobule中央為Central vein\n【出處】07共筆Vol.17 P.42",
+    "description": "寫出箭頭所指管腔的名稱"
+  },
+  {
+    "num": "207213",
+    "path": "D/207213.webp",
+    "answer": [
+      "A: villi B: lamina propria",
+      "villi lamina propria"
+    ],
+    "explanation": "題目不清，可觀察到goblet cell應為小腸，B Loose CNT 為lamina propria。\n【出處】07共筆Vol.16 P.26",
+    "description": "題意不清"
+  },
+  {
+    "num": "207215",
+    "path": "D/207215.webp",
+    "answer": [
+      "A: anus B: rectum",
+      "anus rectum"
+    ],
+    "explanation": "(B)上皮為simple columnar epithelium with goblet cell，表面平整，可知為大腸。(A)上皮為non-keratinized stratified epithelium，squamous或columnar看不太清楚，但表面無villi可排除小腸，可確定為anus。\n【出處】07共筆Vol.16 P.37",
+    "description": "圖片是哪兩種器官的交界處？（A = ?；B = ?）"
+  },
+  {
+    "num": "207216",
+    "path": "D/207216.webp",
+    "answer": [
+      "portal vein"
+    ],
+    "explanation": "此為liver的portal triad。內含三種管腔。管腔最大，管壁薄（一層endothelia及一層smooth muscle），管腔中央可見血球的是portal vein。管徑較小，管壁厚，具有smooth muscle的是hepatic artery。由一圈很整齊的simple cuboidal epithelium組成的則是bile duct。虛線所圍為portal vein。\n【出處】07共筆Vol.17 P.44",
+    "description": "寫出虛線範圍的構造名稱"
+  },
+  {
+    "num": "206204",
+    "path": "D/206204.webp",
+    "answer": [
+      "Cholangiocyte"
+    ],
+    "explanation": "Cholangiocyte 細胞核大而細胞質很少。外觀比附近的細胞深\n染一些。分布在 canal of Hering 一路往外到 extrahepatic bile \nduct。",
+    "description": "寫出箭頭所指之細胞名稱（Be specific）"
+  },
+  {
+    "num": "206216",
+    "path": "D/206216.webp",
+    "answer": [
+      "Zone 1"
+    ],
+    "explanation": "Zone 1 最靠近 portal canal，血液含有較多膽汁。",
+    "description": "請問哪一區的血液含有較多的膽汁？"
+  },
+  {
+    "num": "206222",
+    "path": "D/206222.webp",
+    "answer": [
+      "Paneth cells"
+    ],
+    "explanation": "細胞位在 intestinal gland 的最底部，且細胞頂端具\neosinophilic 的 granules。細胞基部為 basophilic。",
+    "description": "寫出箭頭所指的細胞名稱（特殊染色）"
+  },
+  {
+    "num": "206234",
+    "path": "D/206234.webp",
+    "answer": [
+      "Central vein"
+    ],
+    "explanation": "Central vein 由 sinusoid 輻射狀往中間注入而成，其管壁會有\nsinusoid 的開口而 endothelial cell 呈不連續狀。",
+    "description": "寫出箭頭所指空間名稱"
+  },
+  {
+    "num": "210208",
+    "path": "D/210208.webp",
+    "answer": [
+      "taenia coli"
+    ],
+    "explanation": "胃腸道外側縱走肌不均勻增厚即為大腸的 taenia coli",
+    "description": "圈起處為什麼構造(be specific)"
+  },
+  {
+    "num": "210211",
+    "path": "D/210211.webp",
+    "answer": [
+      "Paneth cell Small Intestine"
+    ],
+    "explanation": "細胞位在 intestinal gland 的最底部,且細胞頂端具\neosinophilic 的granules。細胞基部為 basophilic。",
+    "description": "請寫出藍色箭頭所指的構造？在哪個器官裡？"
+  },
+  {
+    "num": "210212",
+    "path": "D/210212.webp",
+    "answer": [
+      "pancreatic centroacinar cell"
+    ],
+    "explanation": "圖中可見箭頭指的較淡染細胞(Centroacinar cells)被一群\n較深染的 acinar cells 圍在中間。",
+    "description": "這是什麼細胞？"
+  },
+  {
+    "num": "210217",
+    "path": "D/210217.webp",
+    "answer": [
+      "Zone 1"
+    ],
+    "explanation": "先判斷 central vein以及portal venules之相對位置，遠離central vein 之zone 1 含氧量最高，有活躍的beta oxidation 和 gluconeogenesis",
+    "description": "請問以下何區的含氧量最高?"
+  },
+  {
+    "num": "210222",
+    "path": "D/210222.webp",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "圖中為 portal triad，旁邊有 bile duct 及 hepatic artery 伴行",
+    "description": "虛線圈起處的構造為何?"
+  },
+  {
+    "num": "210227",
+    "path": "D/210227.webp",
+    "answer": [
+      "Glycogen"
+    ],
+    "explanation": "Best’s carmine 主要針對 glycogen particle 染紅色。在hepatocyte 中含有大量的 glycogen particle,所以在此玻片中\n會被染出大量的紅色顆粒。",
+    "description": "請問以下紅色顆粒為何？"
+  },
+  {
+    "num": "210228",
+    "path": "D/210228.webp",
+    "answer": [
+      "Intercalated duct",
+      "Striated duct"
+    ],
+    "explanation": "A 處構造由 low cuboid 細胞圍成,管腔不大,為 intercalated\nduct。\nB 處的上皮細胞比 intercalated duct 高,lumen 也較大。基底\n部有紅色條紋為 basal striation",
+    "description": "請問以下為何種管狀構造？"
+  },
+  {
+    "num": "210234",
+    "path": "D/210234.webp",
+    "answer": [
+      "Space of Disse"
+    ],
+    "explanation": "位於 sinusoid 周圍與 hepatocytes 之間。充滿由 hepatocytes 伸 出的 small irregular microvilli。",
+    "description": "細紅箭頭所指構造為何？"
+  },
+  {
+    "num": "204206",
+    "path": "D/204206.webp",
+    "answer": [
+      "A: Anus B: Rectum",
+      "Anus Rectum"
+    ],
+    "explanation": "(B)上皮為simple columnar epithelium with goblet cell，表面平整，可知為大腸。(A)上皮為non-keratinized stratified epithelium，squamous或columnar看不太清楚，但表面無villi可排除小腸，可確定為anus。\n【出處】07共筆Vol.16 P.56",
+    "description": "整個範圍是哪兩種器官交界處之切片？"
+  },
+  {
+    "num": "204207",
+    "path": "D/204207.webp",
+    "answer": [
+      "Pancreatic acinar cells"
+    ],
+    "explanation": "底部有核呈basophilic，頂部有zymogen granule呈eosinophilic。\n【出處】07共筆Vol.16 P.60",
+    "description": "箭號所指之細胞名稱？Be specific"
+  },
+  {
+    "num": "204208",
+    "path": "D/204208.webp",
+    "answer": [
+      "Lamina propria"
+    ],
+    "explanation": "可以看到simple columnar epithelium with goblet cell，且可見striated border，可知為小腸。圖中一塊一塊的是villi，包圍的區域即是lamina propria。\n【出處】07共筆Vol.16 P.19",
+    "description": "寫出箭號所指虛線範圍內之構造名稱？Be specific"
+  },
+  {
+    "num": "204219",
+    "path": "D/204219.webp",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "此為liver的portal triad。內含三種管腔。管腔最大，管壁薄（一層endothelia及一層smooth muscle），管腔中央可見血球的是portal vein。管徑較小，管壁厚，具有smooth muscle的是hepatic artery(左邊那個)。由一圈很整齊的simple cuboidal epithelium組成的則是bile duct(中間那個)。箭頭所指為portal vein。\n【出處】07共筆Vol.17 P.44",
+    "description": ""
+  },
+  {
+    "num": "204220",
+    "path": "D/204220.webp",
+    "answer": [
+      "Intrahepatic bile ductule"
+    ],
+    "explanation": "先從板狀結構判斷為肝臟。藍色箭頭所指細胞為cholangiocytes，為bile duct的特殊epithelium。cholangiocytes在肝臟內為cuboidal，越往外隨管腔變大逐漸變為columnar，此圖中所指細胞為cuboidal，綜合以上判斷為intrahepatic bile ductule。另外，上方藍色方框所指為canal of Hering，而星號處為space of Mall。☆★此題有對考古ppt答案作完善，原答案給bile duct (bile ductule)\n【出處】07共筆Vol.17 P.25",
+    "description": "藍箭頭所指構造名稱"
+  },
+  {
+    "num": "204221",
+    "path": "D/204221.webp",
+    "answer": [
+      "Central vein"
+    ],
+    "explanation": "Central vein由sinusoid輻射狀往中間注入而成，其管壁會有sinusoid的開口而endothelial cell呈不連續狀。(相較之下sublobular vein管壁不會有開口)\n【出處】07共筆Vol.17 P.43",
+    "description": ""
+  },
+  {
+    "num": "204222",
+    "path": "D/204222.webp",
+    "answer": [
+      "Fenestrated endothelial cell"
+    ],
+    "explanation": "紅色箭頭所指為space of Disse，位在hepatocyte 與endothelial cell 、Kupffer cells之間。 圖中可見空間內被hepatocytes 伸出的 small irregular microvilli充滿，是其最大特徵。而Kupffer cell為macrophage，一般來說核形狀會較不規則，核質比也不像圖中之細胞這麼大，且圖中細胞包圍整個sinusoid，故推論為endothelial cell。Sinusoid的endothelial cells為fenestrated endothelial cell。\n【出處】07共筆Vol.17 P.19",
+    "description": "藍箭頭所指細胞名稱 （Be specific!）"
+  },
+  {
+    "num": "204223",
+    "path": "D/204223.webp",
+    "answer": [
+      "Zone 1"
+    ],
+    "explanation": "圖左下為central vein，中央斜線為portal canal Zone of Liver acinus：由中央短軸往兩端central vein分為zone1、2、3。由於血流由portal tract流入，會先接觸到zone1的細胞，一面經hepatocyte代謝，一面接著往zone2、zone3劉，最後才匯入central vein(圖左下)。由Zone1到Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone1含氧量最高。\n【出處】07共筆Vol.17 P.28",
+    "description": ""
+  },
+  {
+    "num": "204224",
+    "path": "D/204224.webp",
+    "answer": [
+      "A",
+      "Duodenum Stomach"
+    ],
+    "explanation": "Stomach的Submucosa無Brunner’s gland、Muscularis mucosae完整；Duodenum的Submucosa有Brunner’s gland、Muscularis mucosae有不連續。\n【出處】07共筆Vol.16 P.47",
+    "description": "整個範圍是哪兩種器官（A=?, B=?）交界處之切片？"
+  },
+  {
+    "num": "205205",
+    "path": "D/205205.webp",
+    "answer": [
+      "A: rectum ；B：anus",
+      "rectum ；B：anus"
+    ],
+    "explanation": "視野下可見由右邊的simple columnar epithelium with many goblet cells過渡到左邊的stratified squamous epithelium，可推知為rectal-anal junction 。",
+    "description": "整個範圍是哪兩種器官交界處之切片？"
+  },
+  {
+    "num": "205206",
+    "path": "D/205206.webp",
+    "answer": [
+      "pancreatic acinar cell"
+    ],
+    "explanation": "圖為Pancreas的Exocrine portion，箭頭所指的細胞大、近 lumen側有較深的顆粒，為zymogen granules，能將酵素分泌至lumen，為pancreatic acinar cell。",
+    "description": "箭頭指的為何細胞？"
+  },
+  {
+    "num": "205207",
+    "path": "D/205207.webp",
+    "answer": [
+      "jejunum"
+    ],
+    "explanation": "具plicae circulares，且villi高而明顯。",
+    "description": "視野下的器官名稱？ "
+  },
+  {
+    "num": "205219",
+    "path": "D/205219.webp",
+    "answer": [
+      "Space of Disse"
+    ],
+    "explanation": "應可判斷中央之管腔是微血管，而紅色箭頭所指空間充滿許多不規則東西，綜合以上特徵判斷為space of Disse。Space of Disse的特徵是位在hepatocyte 與hepatic sinusoid的endothelial cell、Kupffer cells間，被hepatocytes 伸出的 small irregular microvilli充滿。",
+    "description": "細紅箭頭所指空間名稱 （Be specific!） "
+  },
+  {
+    "num": "205220",
+    "path": "D/205220.webp",
+    "answer": [
+      "3"
+    ],
+    "explanation": "Zone of Liver acinus：由中央短軸往兩端central vein分為zone1、2、3。右上縫隙構成的斜線為portal tract，血流由portal tract流入，會先接觸到zone1的血，一面接著往zone2、zone3留，最後才擴散匯入central vein，即左下之空腔。由Zone1到Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone3含氧量最少。",
+    "description": "請問哪一區的血液含有較低的氧氣？"
+  },
+  {
+    "num": "205221",
+    "path": "D/205221.webp",
+    "answer": [
+      "Kupffer cell"
+    ],
+    "explanation": "從板狀構造判斷為肝臟，板狀構造之間的空間為sinusoid，而該細胞凸向sinusoid，判斷為Kupffer cell 。",
+    "description": "箭號所指的細胞名稱？"
+  },
+  {
+    "num": "211212",
+    "path": "D/211212.webp",
+    "answer": [
+      "Sinusoid in liver"
+    ],
+    "explanation": "此圖是每年的必考題，但老師上課用簡報的圖片沒有每構造的名稱 (可參考本題使用之圖)。為Liver sinusoid之橫切面。可注意到內皮細胞間有一些fenestrae。the space of Disse位於sinusoidal wall和 hepatocytes之間。",
+    "description": "寫出箭頭所指之構造名稱。Be specific"
+  },
+  {
+    "num": "211216",
+    "path": "D/211216.webp",
+    "answer": [
+      "A",
+      "zone 1"
+    ],
+    "explanation": "Zone of Liver acinus；由中央短軸往兩端 central vein 分為zone1、2、3。右上縫隙構成的斜線為 portal tract，血流由portal tract 流入，會先接觸到 zone1 的血，一面接著往zone2、zone3 流，最後才擴散匯入 central vein，即左下之空腔。由 Zone1 到 Zone3，養分、腸道吸收毒物濃度降低，代謝廢物濃度升高。Zone1 含氧量最高。",
+    "description": "以下哪一區氧氣最多?"
+  },
+  {
+    "num": "211225",
+    "path": "D/211225.webp",
+    "answer": [
+      "Villi"
+    ],
+    "explanation": "圖為空腸（jejunum），有明顯的環狀褶皺（plica circularis），而框線內構造即為細長呈指狀之腸絨毛（villi）。",
+    "description": "下方紅色框線內是什麼結構？"
+  },
+  {
+    "num": "211227",
+    "path": "D/211227.webp",
+    "answer": [
+      "Peyer’s patch"
+    ],
+    "explanation": "管壁有villi短而非葉狀，為ilieun，上有碩大而明顯的lymphatic nodule",
+    "description": "請問黑色箭頭為何者構造"
+  },
+  {
+    "num": "211229",
+    "path": "D/211229.webp",
+    "answer": [
+      "A: Anus B: Rectum",
+      "Anus Rectum"
+    ],
+    "explanation": "左側為simple columnar epithelium with goblet cell，有intestinal gland，為rectum；右側為non-cornified stratified squamous epithelium，下方有平滑肌組成的internal anal sphincter，為Anus。",
+    "description": "範圍是哪兩種器官（A=？，B=？）交界處之切片?"
+  },
+  {
+    "num": "211231",
+    "path": "D/211231.webp",
+    "answer": [
+      "Centroacinar cell"
+    ],
+    "explanation": "位於環狀排列的acinar cell中央，為 intercalated duct的起始細胞。其形態特徵為細胞小、細胞核扁平、細胞質少且淡染。",
+    "description": "下圖為何種細胞?"
+  },
+  {
+    "num": "209105",
+    "path": "D/209105.webp",
+    "answer": [
+      "Lamina propria"
+    ],
+    "explanation": "可以看到simple columnar epithelium with goblet cell，且可見striated border，可知為小腸。圖中一塊一塊的是villi，包圍的區域即是lamina propria。\n【出處】共筆Vol.15 P.17",
+    "description": "請寫出箭號所指虛線範圍內構造名稱"
+  },
+  {
+    "num": "209106",
+    "path": "D/209106.webp",
+    "answer": [
+      "Gall bladder"
+    ],
+    "explanation": "該組織可分為3層，分別為mucosa、muscularis externa、adventitia。Mucosa包含epithelium與lamina propria，epithelium為simple columnar epithelium with rugae / villi，且無goblet cell，muscularis externa為平滑肌。有時於lamina propria可見tubuloalveolar gland。由分層、上皮組織類型判斷為膽囊。\n【出處】共筆Vol. 16 P.53",
+    "description": "請問視野下的器官名稱"
+  },
+  {
+    "num": "209116",
+    "path": "D/209116.webp",
+    "answer": [
+      "Central vein in liver"
+    ],
+    "explanation": "此為Liver，Lobule中央為Central vein。\n【出處】共筆Vol.16 P.3",
+    "description": "中間指針所指是什麼構造？"
+  },
+  {
+    "num": "209118",
+    "path": "D/209118.webp",
+    "answer": [
+      "Colon"
+    ],
+    "explanation": "可見mucosa的頂端高度大致相同，intestinal gland內包含大量goblet cell。\n【出處】共筆Vol.15 P.29",
+    "description": "視野中器官為何？"
+  },
+  {
+    "num": "209126",
+    "path": "D/209126.webp",
+    "answer": [
+      "space of Mall"
+    ],
+    "explanation": "介於 Periportal stroma 和 Limiting plate 之間的空腔。\n【出處】共筆Vol.16 P.7",
+    "description": "箭頭所指構造名稱？"
+  },
+  {
+    "num": "207105",
+    "path": "D/207105.webp",
+    "answer": [
+      "左圖"
+    ],
+    "explanation": "管腔細胞成圓拱狀，突向管腔，有時可見雙核。除了urinary bladder外，ureter及近端urethra的上皮亦為此構造。右圖應為DCT。",
+    "description": "下面哪一張是Transitional epithelium？"
+  },
+  {
+    "num": "207110",
+    "path": "D/207110.webp",
+    "answer": [
+      "Kupffer cell; in liver vital stain"
+    ],
+    "explanation": "此為用vital stain染色的liver。使用vital stain主要是為了染Kupffer cell。Kupffer cell是macrophage在肝臟的名稱，所以在trypan blue活體染色染成藍色。核比較大且會突出lumen，皆位於sinusoid中。",
+    "description": "箭頭所指為何細胞，分布於何器官？"
+  },
+  {
+    "num": "207112",
+    "path": "D/207112.webp",
+    "answer": [
+      "Islet of Langerhans"
+    ],
+    "explanation": "可見深染淡染區，分別對應exocrine gland（acinar cell，深染）和endocrine gland（islet of Langerhans，淡染）。",
+    "description": "哪裡血氧比較低？"
+  },
+  {
+    "num": "207113",
+    "path": "D/207113.webp",
+    "answer": [
+      "靠近central vein處"
+    ],
+    "explanation": "先以六邊形細胞判斷此為肝臟切片，再找到於lobule中間的central vein，血液集中central vein後匯入sublobular vein後匯入collecting Vein後匯入Hepatic vein。",
+    "description": "此為何種細胞？"
+  },
+  {
+    "num": "207116",
+    "path": "D/207116.webp",
+    "answer": [
+      "Colon"
+    ],
+    "explanation": "大腸表面較為平整，具有非指狀但凹陷的pit，且muscularis externa可以看到平滑肌聚集形成的taeniae coli（用來推測不是rectum）。",
+    "description": "以下為何處組織？"
+  },
+  {
+    "num": "207118",
+    "path": "D/207118.webp",
+    "answer": [
+      "LM",
+      "villi",
+      "villi; SEM"
+    ],
+    "explanation": "Villi為指狀突起，由小腸壁mucosa構成，表面為pseudostratified columnar epithelium，其表面又有microvilli構成之striated border。",
+    "description": "下兩圖分別為何種顯微鏡拍攝，各為何構造？"
+  },
+  {
+    "num": "207130",
+    "path": "D/207130.webp",
+    "answer": [
+      "Duodenum"
+    ],
+    "explanation": "Submucosa有gland，所以只剩下esophagus和duodenum兩種器官。在submucosa有Brunner’s gland但villi呈現葉片狀、較短，所以是duodenum。",
+    "description": "下面為何處切片？"
+  },
+  {
+    "num": "207136",
+    "path": "D/207136.webp",
+    "answer": [
+      "Myenteric plexus"
+    ],
+    "explanation": "位於muscularis externa內環外縱平滑肌的中間，為整個GI共同的基本構造。",
+    "description": "請問框起來構造名稱（be specific）？"
+  },
+  {
+    "num": "203104",
+    "path": "D/203104.webp",
+    "answer": [
+      "Jejunum"
+    ],
+    "explanation": "圖中上方為管腔，分布許多上皮細胞和 goblet cells，推測為消化道。而其 villi較為細長呈指狀，推測應為jejunum。\n比較\nDuodenum的villi較短、呈片段；Jejunum的villi細長呈指狀，且plica circularis明顯；ileum的plica circularis不明顯\n【出處】07共筆Vol.16 P.53",
+    "description": "寫出整個範圍的器官名稱？"
+  },
+  {
+    "num": "203105",
+    "path": "D/203105.webp",
+    "answer": [
+      "Islet of Langerhans"
+    ],
+    "explanation": "圖中器官充滿許多深染的細胞，被分成許多個lobe，中間夾雜成群的淡染細胞，並被一大堆深染的部分包圍，為pancreas的特徵。其中深染的部分為excretory portion，所圈選的較為淡染的部分為endocrine portion，構造則為Islet of Langerhans。\n【出處】07共筆Vol.16 P.59",
+    "description": "圈選處為何構造？"
+  },
+  {
+    "num": "203106",
+    "path": "D/203106.webp",
+    "answer": [
+      "A: rectum B: anus",
+      "rectum anus"
+    ],
+    "explanation": "圖中A處為simple columnar epithelium with goblet cells ，過渡到B處的stratified squamous epithelium，可推測為rectum到anus的交界，故A為rectum；B為Anus。\n【出處】07共筆Vol.16 P.57,58",
+    "description": "判斷A與B分別為何種器官？"
+  },
+  {
+    "num": "203107",
+    "path": "D/203107.webp",
+    "answer": [
+      "villi"
+    ],
+    "explanation": "圖為jejunum，有明顯的plica circularis，而框框中的構造即為villi。\n【出處】07共筆Vol.16 P.53",
+    "description": "圖中框起來的構造為何？"
+  },
+  {
+    "num": "203118",
+    "path": "D/203118.webp",
+    "answer": [
+      "Sublobular vein"
+    ],
+    "explanation": "此圖肝臟的組織（可從周圍細胞的型態偏向一排一排的方式形成判斷出），所指構造為sublobular vein，由central vein匯入，其邊緣為連續的endothelial cell，即旁邊的hepatocyte所圍成的sinusoid不會匯入與vein相通。可用sinusoid和vein是否形成開口來區別central vein（有開口）和sublobular vein（沒開口）。而位於portal triad中的為portal vein。\n【出處】07共筆Vol.17 P.44",
+    "description": "寫出此條構造名稱"
+  },
+  {
+    "num": "206106",
+    "path": "D/206106.webp",
+    "answer": [
+      "Colon",
+      "Large intestine"
+    ],
+    "explanation": "Lumen平滑，表皮高度差不多，可知為大腸。\n【出處】07共筆Vol.16 P.30 ",
+    "description": "視野下為何種器官的組織切片？"
+  },
+  {
+    "num": "206125",
+    "path": "D/206125.webp",
+    "answer": [
+      "Space of Disse"
+    ],
+    "explanation": "位於sinusoid周圍與hepatocytes之間。充滿由hepatocytes 伸出的small irregular microvilli。\n【出處】07共筆Vol.17 P.19",
+    "description": "問號處為何種構造？"
+  },
+  {
+    "num": "206130",
+    "path": "D/206130.webp",
+    "answer": [
+      "Duodenum"
+    ],
+    "explanation": "Submucosa有gland，所以只剩下esophagus和duodenum兩種器官。在submucosa有Brunner’s gland但villi呈現葉片狀、較短，所以是duodenum。 \n【出處】07共筆Vol.16 P.53 ",
+    "description": "視野下為何種器官？（Be specific）"
+  },
+  {
+    "num": "206131",
+    "path": "D/206131.webp",
+    "answer": [
+      "Portal vein"
+    ],
+    "explanation": "圖中為portal triad，旁邊有bile duct及hepatic artery伴行。 \n【出處】07共筆Vol.17 P.50 ",
+    "description": "虛線圈起處為何種構造？"
+  },
+  {
+    "num": "204113",
+    "path": "D/204113.webp",
+    "answer": [
+      "Lymphatic vessel of portal region"
+    ],
+    "explanation": "可先由周圍肝細胞單層排列方式判斷出此為肝臟切片。且因為管道的分佈知道是portal triad。portal triad中較不規則的空腔，且由不完整的endothelial cell包圍，即是lymphatic vessel。",
+    "description": "圖片中為什麼管道？"
+  },
+  {
+    "num": "206105",
+    "path": "D/206105.webp",
+    "answer": [
+      "Space of Mall"
+    ],
+    "explanation": "介於 Periportal stroma 和 Limiting plate 之間的空腔。\n【出處】07共筆Vol.17 P.10 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "11112",
+    "path": "D/11112.webp",
+    "answer": [
+      "A: Goblet cell B: Ciliated columnar cell",
+      "Goblet cell Ciliated columnar cell"
+    ],
+    "explanation": "A: 上窄下寬，似高腳杯，細胞核位於細胞底部，細胞上方充滿很多 mucinogen granules。\nB: 長方形細胞，其表面有很多條狀構造。",
+    "description": "左圖和右圖分別為何種細胞？（全對才給分）"
+  },
+  {
+    "num": "206211",
+    "path": "D/206211.webp",
+    "answer": [
+      "Cilia SEM"
+    ],
+    "explanation": "纖毛在 SEM 下呈鬚狀，圖中標示 G 的地方是無鬚狀構造的\n凹陷處，為 goblet cell。",
+    "description": "紅色箭頭之構造為何？用何種顯微鏡觀察？（Be specific）"
+  },
+  {
+    "num": "206215",
+    "path": "D/206215.webp",
+    "answer": [
+      "A: Anus B: Rectum",
+      "Anus Rectum"
+    ],
+    "explanation": "視野下可見由 simple columnar epithelium with many goblet \ncells 過渡到 stratified squamous epithelium，可推知為 rectal_x0002_anal junction",
+    "description": "整個範圍是哪兩種器官（A = ? ； B = ?）的交界？"
+  },
+  {
+    "num": "206217",
+    "path": "D/206217.webp",
+    "answer": [
+      "Goblet cell"
+    ],
+    "explanation": "呈空泡狀，細胞上寬下窄，細胞核被擠到細胞基部。",
+    "description": "寫出箭頭所指細胞質有空白的細胞名稱"
+  },
+  {
+    "num": "210205",
+    "path": "D/210205.webp",
+    "answer": [
+      "Goblet cell Epithelial cell",
+      "紅: Goblet cell 藍: Epithelial cell"
+    ],
+    "explanation": "從圖僅能判斷出是腸道絨毛。絨毛表面由 H&E stain 下相對深染的 Epithelial cell和淡染的 Goblet cell 組成。",
+    "description": "箭頭指的細胞名稱（紅&藍箭頭）"
+  },
+  {
+    "num": "211204",
+    "path": "D/211204.webp",
+    "answer": [
+      "Paneth cell/ Intestinal gland"
+    ],
+    "explanation": "此紅色為重要的特殊染色，被染色的部分是Paneth cell位於小腸intestinal gland 的最底部，與抗菌有關 。",
+    "description": "請寫出此細胞的名稱？以及所在位置？"
+  }
+]

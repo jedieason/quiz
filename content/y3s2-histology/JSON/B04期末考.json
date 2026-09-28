@@ -1,0 +1,281 @@
+[
+  {
+    "num": "b04lab-01",
+    "path": "B04期末考/b04lab-01.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "有dense CNT構成的薄capsule、發達smooth muscle cells。",
+    "description": " 視野下器官名稱？"
+  },
+  {
+    "num": "b04lab-02",
+    "path": "B04期末考/b04lab-02.webp",
+    "answer": [
+      "Ductus epididymis"
+    ],
+    "explanation": "Ductus epididymis 管腔為 pseudostratified columnar epi. with stereocilia，上皮高度較高表面平整圓滑。 ",
+    "description": "圈狀構造名稱？"
+  },
+  {
+    "num": "b04lab-03",
+    "path": "B04期末考/b04lab-03.webp",
+    "answer": [
+      "Parafollicular cells"
+    ],
+    "explanation": "深染為follicular cell，淺染為 parafollicular cell。",
+    "description": "黃色箭頭所指細胞名稱？"
+  },
+  {
+    "num": "b04lab-04",
+    "path": "B04期末考/b04lab-04.webp",
+    "answer": [
+      "Corneoscleral limbus"
+    ],
+    "explanation": "此處為cornea與sclera的交界處，上側為cornea下側為sclera，故推測為corneoscleral limbus。 ",
+    "description": " 視野下結構名稱？"
+  },
+  {
+    "num": "b04lab-05",
+    "path": "B04期末考/b04lab-05.webp",
+    "answer": [
+      "Corpus albicans"
+    ],
+    "explanation": "似白雲狀（此次期中唯一像白雲的玻片）。",
+    "description": " 紅色框線內結構名稱？ "
+  },
+  {
+    "num": "b04lab-06",
+    "path": "B04期末考/b04lab-06.webp",
+    "answer": [
+      "Interstitial gland"
+    ],
+    "explanation": "Ovary組織切片可以觀察到細胞核較圓、細胞核間距較大的群聚細胞，周圍被核扁平、細胞核間距較小的結締組織包圍，可判定為interstitial gland。Interstitial gland 是一團散佈在stroma間的類上皮細胞，由濾泡退化後未被分解而留在卵巢皮質的theca interna組成。 ",
+    "description": " 紅箭頭所指構造名稱？ "
+  },
+  {
+    "num": "b04lab-07",
+    "path": "B04期末考/b04lab-07.webp",
+    "answer": [
+      "Zona fasciculata"
+    ],
+    "explanation": "最外層可見capsule，深色處可見清楚三層結構，箭頭左側為zona glomerulosa，因此箭頭處為 zona fasciculata。",
+    "description": " 黃色箭頭範圍內的結構名稱？"
+  },
+  {
+    "num": "b04lab-08",
+    "path": "B04期末考/b04lab-08.webp",
+    "answer": [
+      "Outer nuclear layer"
+    ],
+    "explanation": "Retina 分成 10層，此為第四層的outer nuclear layer，內含rod cell 與 cone cell 的細胞核。 ",
+    "description": " 紅色虛線範圍內的結構名稱？"
+  },
+  {
+    "num": "b04lab-09",
+    "path": "B04期末考/b04lab-09.webp",
+    "answer": [
+      "Glassy membrane"
+    ],
+    "explanation": "Basal lamina 增厚形成的透明層，為atretic follicle的特徵。",
+    "description": " 紅圈範圍內雙箭頭所指構造為何？"
+  },
+  {
+    "num": "b04lab-10",
+    "path": "B04期末考/b04lab-10.webp",
+    "answer": [
+      "Acidophils"
+    ],
+    "explanation": "豔紅為acidophils，細胞質偏紫為basophils，淡染為chromophobes（只有 Pars distalis 同時具有三者）。 ",
+    "description": "黃色箭頭所指細胞名稱？"
+  },
+  {
+    "num": "b04lab-11",
+    "path": "B04期末考/b04lab-11.webp",
+    "answer": [
+      "Primary spermatocyte"
+    ],
+    "explanation": "大顆且可見細絲狀染色質即為primary spermatocyte。",
+    "description": "紅色箭頭所指細胞名稱？"
+  },
+  {
+    "num": "b04lab-12",
+    "path": "B04期末考/b04lab-12.webp",
+    "answer": [
+      "Peg cell"
+    ],
+    "explanation": "細胞呈圓拱狀突向lumen，沒有一絲一絲紅色線條的basal body，為具分泌功能的peg cell。 ",
+    "description": "橘色框線內之細胞名稱？ "
+  },
+  {
+    "num": "b04lab-13",
+    "path": "B04期末考/b04lab-13.webp",
+    "answer": [
+      "Tunica albuginea (of testis)"
+    ],
+    "explanation": "由外至內三層：tunica vaginalis、tunica albuginea、tunica vasculosa。 ",
+    "description": "紅色箭頭範圍內構造名稱？"
+  },
+  {
+    "num": "b04lab-14",
+    "path": "B04期末考/b04lab-14.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "為 inner ear 中 vestibular apparatus 的 crista ampullaris。Macula排列整齊，而crista ampullaris排列隆起（香菇頭）。",
+    "description": "紅色箭頭所指結構名稱？"
+  },
+  {
+    "num": "b04lab-15",
+    "path": "B04期末考/b04lab-15.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "細胞較大，細胞質染成紅色，單獨成群位於細精管之間。",
+    "description": "黃色箭頭細胞名稱？"
+  },
+  {
+    "num": "b04lab-16",
+    "path": "B04期末考/b04lab-16.webp",
+    "answer": [
+      "Late secretory uterine gland"
+    ],
+    "explanation": "放大圖可見細胞核內染色質模糊不清，為細胞凋亡前兆，右圖呈絮狀，故推測為late secretory uterine gland。",
+    "description": "圖片所示結構名稱（以放大倍率高者作答）。"
+  },
+  {
+    "num": "b04lab-17",
+    "path": "B04期末考/b04lab-17.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "長條狀蜂窩結構且平滑肌比例低，故為seminal vesicle。 ",
+    "description": "整個範圍構造名稱？"
+  },
+  {
+    "num": "b04lab-18",
+    "path": "B04期末考/b04lab-18.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見palpebral conjunctiva，故為tarsal gland。Tarsal glands（為皮脂腺）有管道連通到tarsal plate，分泌淚液的部分成分。",
+    "description": "圈起來的組織名稱？"
+  },
+  {
+    "num": "b04lab-19",
+    "path": "B04期末考/b04lab-19.webp",
+    "answer": [
+      "Lacrimal gland"
+    ],
+    "explanation": "大部分由serous gland組成，且fat infiltration和 duct較少，故推測為lacrimal gland。 ",
+    "description": "視野下為何種組織？"
+  },
+  {
+    "num": "b04lab-20",
+    "path": "B04期末考/b04lab-20.webp",
+    "answer": [
+      "Active mammary gland"
+    ],
+    "explanation": "Gland 非常發達，細胞較矮，CNT減少，可見大型excretory duct。",
+    "description": "請寫出視野下構造名稱（Be specific）。"
+  },
+  {
+    "num": "b04lab-21",
+    "path": "B04期末考/b04lab-21.webp",
+    "answer": [
+      "Pineal gland"
+    ],
+    "explanation": "出現腦沙可以判斷為pineal gland。 ",
+    "description": "下圖為何器官？"
+  },
+  {
+    "num": "b04lab-22",
+    "path": "B04期末考/b04lab-22.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "清晰的3層平滑肌，內縱中環外縱。",
+    "description": "視野下整個構造為何？"
+  },
+  {
+    "num": "b04lab-23",
+    "path": "B04期末考/b04lab-23.webp",
+    "answer": [
+      "Decidual cell"
+    ],
+    "explanation": "此組織為placenta，右上可見fetal villi。A處箭頭可見大而細胞質但染的decidual cell。",
+    "description": "A細胞名稱？"
+  },
+  {
+    "num": "b04lab-24",
+    "path": "B04期末考/b04lab-24.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "位於spiral ligament 表面，且見深染較密集的核，故為stria vascularis，分泌 endolymph。",
+    "description": "粗箭頭所指構造名稱？ "
+  },
+  {
+    "num": "b04lab-25",
+    "path": "B04期末考/b04lab-25.webp",
+    "answer": [
+      "Ductus efferentes"
+    ],
+    "explanation": "可見單層 high columnar epithelium 和 short cuboid-like epithelium，且管腔內高低不齊，故為ductus efferentes。 ",
+    "description": "此為何種構造？"
+  },
+  {
+    "num": "b04lab-26",
+    "path": "B04期末考/b04lab-26.webp",
+    "answer": [
+      "Chromaffin cell"
+    ],
+    "explanation": "低倍圖可看出是adrenal gland，而黃箭頭則指在該處的medulla，medulla 中核小濃染的為chromaffin cell較大的為ganglion cell。 ",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "b04lab-27",
+    "path": "B04期末考/b04lab-27.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "內耳深染像葡萄的結構就是spiral ganglion。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "b04lab-28",
+    "path": "B04期末考/b04lab-28.webp",
+    "answer": [
+      "Thyroid gland"
+    ],
+    "explanation": "視野下可以看見thyroid follicles以及其中的colloids。",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "b04lab-29",
+    "path": "B04期末考/b04lab-29.webp",
+    "answer": [
+      "Lens; anterior"
+    ],
+    "explanation": "Lens 細胞核越往中間堆積會越成熟，越成熟就越沒有細胞核，所以越往中間的細 胞核就會較少。圖中可見細胞核，故為anterior。 ",
+    "description": "圈內構造？Anterior還是posterior？"
+  },
+  {
+    "num": "b04lab-30",
+    "path": "B04期末考/b04lab-30.webp",
+    "answer": [
+      "Cervix"
+    ],
+    "explanation": "圖左側為陰道，右側為子宮頸，下方可見cervical gland。中間上皮型態轉折的地方稱為transitional zone。 ",
+    "description": "視野下器官名稱？"
+  },
+  {
+    "num": "b04lab-31",
+    "path": "B04期末考/b04lab-31.webp",
+    "answer": [
+      "Vagina"
+    ],
+    "explanation": "Non-cornified stratified squamous epithelium。",
+    "description": "視野下器官名稱？"
+  }
+]

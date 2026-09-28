@@ -1,0 +1,122 @@
+[
+  {
+    "num": "Pons_1",
+    "path": "Pons/Pons_1.webp",
+    "answer": [
+      "(1) Superior cerebellar peduncle (2) Middle cerebellar peduncle",
+      "Superior cerebellar peduncle Middle cerebellar peduncle"
+    ],
+    "explanation": "(1)此圖在 level of trigeminal nucleus (2)橫向纖維為 pontocerebellar fibers",
+    "description": ""
+  },
+  {
+    "num": "Pons_2",
+    "path": "Pons/Pons_2.webp",
+    "answer": [
+      "(1) Abducens nucleus, Facial nerve (2) Level of facial colliculus",
+      "Abducens nucleus, Facial nerve Level of facial colliculus"
+    ],
+    "explanation": "(2)有橫走纖維，裡面 cortical tracts 還在",
+    "description": ""
+  },
+  {
+    "num": "Pons_3",
+    "path": "Pons/Pons_3.webp",
+    "answer": [
+      "(1) Trigeminal nerve (2) 咀嚼肌運動與 facial somatosensory",
+      "Trigeminal nerve 咀嚼肌運動與 facial somatosensory"
+    ],
+    "explanation": "(1)很大一根。此為 level of trigeminal nucleus",
+    "description": ""
+  },
+  {
+    "num": "Pons_4",
+    "path": "Pons/Pons_4.webp",
+    "answer": [
+      "(1) Paramedian arteries (2) Long circumferential branch of basilar artery",
+      "Paramedian arteries Long circumferential branch of basilar artery"
+    ],
+    "explanation": "注意：此圖約在 pons level of trigeminal nerve 附近（今年未特別提及血管構造）",
+    "description": ""
+  },
+  {
+    "num": "Pons_5",
+    "path": "Pons/Pons_5.webp",
+    "answer": [
+      "(1) Periaqueductal gray (2) 痛覺 (3) Lateral lemniscus",
+      "Periaqueductal gray 痛覺 Lateral lemniscus"
+    ],
+    "explanation": "此為 level of pons-midbrain junction (atlas-7-3-pons 3)",
+    "description": ""
+  },
+  {
+    "num": "Pons_6",
+    "path": "Pons/Pons_6.webp",
+    "answer": [
+      "(1) Facial motor nucleus (2) GSE",
+      "Facial motor nucleus GSE"
+    ],
+    "explanation": "(1)補充：BE(Branchial efferent) (2) abducens nucleus",
+    "description": ""
+  },
+  {
+    "num": "Pons_7",
+    "path": "Pons/Pons_7.webp",
+    "answer": [
+      "(1) Superior olivary nucleus (2) 聽覺",
+      "Superior olivary nucleus 聽覺"
+    ],
+    "explanation": "出處：atlas-8-7-medulla-7",
+    "description": ""
+  },
+  {
+    "num": "Pons_8",
+    "path": "Pons/Pons_8.webp",
+    "answer": [
+      "(1) Decussation of superior cerebellar peduncle (2) Lateral lemniscus",
+      "Decussation of superior cerebellar peduncle Lateral lemniscus"
+    ],
+    "explanation": "出處： atlas-7-3-pons-3",
+    "description": ""
+  },
+  {
+    "num": "Pons_9",
+    "path": "Pons/Pons_9.webp",
+    "answer": [
+      "(1) Ventral cochlear nucleus (2) Medial lemniscus",
+      "Ventral cochlear nucleus Medial lemniscus"
+    ],
+    "explanation": "(1)切片在 pons，故可見此構造。出處：atlas-8-7-medulla-7",
+    "description": ""
+  },
+  {
+    "num": "Pons_10",
+    "path": "Pons/Pons_10.webp",
+    "answer": [
+      "(1) Mesencephalic trigeminal tract (2) Trigeminal nerve",
+      "Mesencephalic trigeminal tract Trigeminal nerve"
+    ],
+    "explanation": "出處： atlas-7-2-pons-2",
+    "description": ""
+  },
+  {
+    "num": "Pons_11",
+    "path": "Pons/Pons_11.webp",
+    "answer": [
+      "(1) Lateral lemniscus (2) Anterolateral system",
+      "Lateral lemniscus Anterolateral system"
+    ],
+    "explanation": "出處： atlas-7-1-pons-1",
+    "description": ""
+  },
+  {
+    "num": "Pons_12",
+    "path": "Pons/Pons_12.webp",
+    "answer": [
+      "(1) Abducens nerve (2) Trapezoid body",
+      "Abducens nerve Trapezoid body"
+    ],
+    "explanation": "(1)外側的才是 Facial n.。出處： atlas-7-3-pons-3",
+    "description": ""
+  }
+]

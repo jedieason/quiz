@@ -1,0 +1,505 @@
+[
+    {
+        "num": "egg_1",
+        "path": "egg/egg_1.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "大型蟲卵，有卵蓋（為有卵蓋第二大的蟲卵），透明。內含物為一個卵細胞與多個卵黃細胞。要特別留意卵蓋對側有無增厚，若卵蓋對面的卵殼會略增厚，則為Echinostoma spp. (與Fasciola hepatica/Fasciolopsis buski區分，後兩者無增厚，且卵蓋對面卵殼平滑)。Echinostoma malayanum 與 Echinostoma revolutum 蟲卵無法區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_2",
+        "path": "egg/egg_2.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲蟲卵。大型蟲卵、長橢圓形、無卵蓋、具有明顯的側刺。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_3",
+        "path": "egg/egg_3.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲蟲卵。蟲卵不對稱，似D型（一邊尖一邊鈍）。有卵蓋。內含物為一個卵細胞與多個卵黃細胞。卵殼兩端較尖。需與廣節裂頭絛蟲卵區分，後者卵殼兩端較圓鈍，卵蓋像三角形。",
+        "description": ""
+    },
+    {
+        "num": "egg_4",
+        "path": "egg/egg_4.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲蟲卵。大型蟲卵，圓形或橢圓形。無卵蓋。卵殼周圍常附著宿主組織細胞，看起來髒髒的。卵殼上可能有微小、不明顯的側突。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_5",
+        "path": "egg/egg_5.webp",
+        "answer": [
+            "Toxocara canis",
+            "Toxocara cati"
+        ],
+        "explanation": "犬貓蛔蟲卵。圓形，中型。卵殼外表呈現類似高爾夫球表面的坑洞狀 (pitted surface)。內含物可能是卵細胞，或是進一步分化為幼蟲。此蟲卵在人的糞便中不可能出現；若檢出，表示檢體受犬貓糞便污染。犬蛔蟲與貓蛔蟲的蟲卵可不用區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_6",
+        "path": "egg/egg_6.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼厚度為一層殼，很薄。內含物為卵細胞(通常已分裂成數個細胞)或是幼蟲。卵的兩端均較圓鈍。美洲鉤蟲與十二指腸鉤蟲的卵無法區分。需與東方毛線蟲卵區分，後者一端較尖。",
+        "description": ""
+    },
+    {
+        "num": "egg_7",
+        "path": "egg/egg_7.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。半橢圓形，一邊平，一邊彎曲，似D型 (像柿的子)。中小型 (比蛔蟲卵略小一點)。卵殼不對稱。剛排出時內含物是卵細胞，在空氣中一段時間後會發育成蝌蚪狀幼蟲。常見於玻璃膠紙上的卵多為內含幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_8",
+        "path": "egg/egg_8.webp",
+        "answer": [
+            "Capillaria philippinensis"
+        ],
+        "explanation": "菲律賓毛線蟲卵。長橢圓形，似花生形。重要特徵為兩端各有一個透明的卵塞 (mucoid plug)。卵殼表面有細緻紋路。蟲卵側面觀可見輕微的腰身。",
+        "description": ""
+    },
+    {
+        "num": "egg_9",
+        "path": "egg/egg_9.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲蟲卵。大型蟲卵。無卵蓋。具有一個小小的尾刺 (terminal spine)。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_10",
+        "path": "egg/egg_10.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。大小中型 (約鉤蟲卵大小)。短橢圓形或卵形。有卵蓋 (operculum)，卵蓋對面有時候會有一個小結節 (knob)，像鈕釦一樣。卵殼兩端較圓鈍。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_11",
+        "path": "egg/egg_11.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，短橢圓形或圓形。特徵是卵殼外層通常覆有凹凸不平的蛋白膜 (mammillated albuminous coat)，使其邊緣看起來像大波浪。若蛋白膜存在，蟲卵常被膽汁染成淡黃色或金黃色。卵殼本身很厚。內含物為卵細胞或已發育的幼蟲，且內含物與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "egg_12",
+        "path": "egg/egg_12.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲蟲卵。卵殼略厚，表面可見放射狀或不規則紋路。卵殼內外膜之間有膠樣物質 (玻璃樣物質)。內含物為六鉤幼蟲 (oncosphere)。其胚膜 (embryophore/胎蟲被殼) 兩端有突起，但沒有極絲 (polar filaments) (與微小絛蟲卵有極絲區分)。",
+        "description": "殼有橫紋"
+    },
+    {
+        "num": "egg_13",
+        "path": "egg/egg_13.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的卵囊 (egg packet/capsule)。每個卵囊內含有多個 (2-40個) 蟲卵。每個蟲卵內均有一個六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_14",
+        "path": "egg/egg_14.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲卵。形狀似啤酒桶或手榴彈。中型。兩端各有一個透明的黏液栓塞 (mucoid plug)。卵殼較厚，表面光滑，沒有紋路。若被膽汁染色，卵殼會呈黃褐色。內含物為卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_15",
+        "path": "egg/egg_15.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。長橢圓形，不對稱。中大型。蟲卵一端有卵蓋 (operculum)，卵蓋對面的卵殼厚度常有不均勻增厚或肩部突起。蟲卵常呈金黃色。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_16",
+        "path": "egg/egg_16.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp. egg)。圓形或略橢圓形。卵殼厚，表面呈放射狀條紋 (似輪胎紋)。內含六鉤幼蟲 (oncosphere 或 hexacanth embryo)。豬肉絛蟲與牛肉絛蟲的蟲卵形態無法區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_17",
+        "path": "egg/egg_17.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲蟲卵。短橢圓形。中型 (似鉤蟲卵大小)。卵殼很薄且透明。內含六鉤幼蟲。其胚膜 (embryophore/胎蟲被殼) 的兩端有突起，突起處發出6-8條極絲 (polar filaments) 伸向卵殼內膜與外膜之間。",
+        "description": ""
+    },
+    {
+        "num": "egg_18",
+        "path": "egg/egg_18.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲蟲卵。為吸蟲卵中較小者之一。形狀似電燈泡或有肩花瓶。一端有卵蓋 (operculum)，其與卵殼連接處常形成明顯的肩部 (shoulders)。卵蓋對面常有一小突起 (abopercular knob/小逗點)。卵殼表面有網紋或顆粒狀紋路 (似甜瓜子紋)。內含已發育的毛幼 (miracidium)。",
+        "description": ""
+    },
+    {
+        "num": "egg_19",
+        "path": "egg/egg_19.webp",
+        "answer": [
+            "Heterophyes heterophyes",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。為最小的吸蟲卵之一。有卵蓋，但卵蓋與卵殼之間無明顯肩膀或突出。卵殼沒有紋路。需與中華肝吸蟲卵區分，後者有肩膀及紋路。",
+        "description": ""
+    },
+    {
+        "num": "egg_20",
+        "path": "egg/egg_20.webp",
+        "answer": [
+            "Capillaria hepatica"
+        ],
+        "explanation": "肝毛線蟲卵。長橢圓形。中型。兩端各有一個透明的卵塞。卵殼有紋路，蟲體看起來微胖，不像菲律賓毛線蟲卵有明顯腰身。若在人的糞檢出現此蟲卵，通常為假性感染 (食入帶蟲動物肝臟所致)。",
+        "description": ""
+    },
+    {
+        "num": "egg_21",
+        "path": "egg/egg_21.webp",
+        "answer": [
+            "Trichostrongylus orientalis"
+        ],
+        "explanation": "東方毛線蟲卵。長橢圓形，一端較尖，另一端較圓鈍。大小比鉤蟲卵大 (約鉤蟲卵的3/2倍)。卵殼薄，透明。內含物若為卵細胞，常見分裂為桑椹期的卵細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_22",
+        "path": "egg/egg_22.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。大小中型。短橢圓形或卵形。有卵蓋，卵蓋對面有時候會有一個小結節 (像鈕釦)。卵殼兩端較圓鈍。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_23",
+        "path": "egg/egg_23.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。長橢圓形，不對稱。中大型。蟲卵一端有卵蓋，卵蓋對面的卵殼厚度常有不均勻增厚，使蟲卵呈金黃色。內含一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_24",
+        "path": "egg/egg_24.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄，透明。內含物通常為已分裂成2-8個細胞的卵細胞。卵的兩端均較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "egg_25",
+        "path": "egg/egg_25.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲蟲卵 (Echinostoma spp.)。大型蟲卵，有卵蓋。特徵是卵蓋對面的卵殼會略增厚。內含一個卵細胞與多個卵黃細胞。馬來棘口吸蟲與外旋棘口吸蟲的卵無法區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_26",
+        "path": "egg/egg_26.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Fasciolopsis buski"
+        ],
+        "explanation": "牛羊肝吸蟲或薑片蟲蟲卵。為最大的吸蟲卵之一。有卵蓋。卵殼薄，透明。卵蓋對面卵殼平滑，無增厚 (與棘口吸蟲卵區分)。內含一個卵細胞與多個卵黃細胞。此兩種蟲卵形態相似，不易區分，通常合稱Fasciola/Fasciolopsis egg。",
+        "description": ""
+    },
+    {
+        "num": "egg_27",
+        "path": "egg/egg_27.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "未受精蛔蟲卵。長橢圓形 (較受精卵狹長)。卵殼較薄。卵細胞與卵殼之間沒有空隙。卵內充滿大小不等油滴狀的屈光性顆粒。外層可有或無蛋白膜。",
+        "description": ""
+    },
+    {
+        "num": "egg_28",
+        "path": "egg/egg_28.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Fasciolopsis buski"
+        ],
+        "explanation": "牛羊肝吸蟲或薑片蟲蟲卵。大型，有卵蓋。卵蓋對面卵殼平滑無增厚。",
+        "description": ""
+    },
+    {
+        "num": "egg_29",
+        "path": "egg/egg_29.webp",
+        "answer": [
+            "Metagonimus yokogawai",
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。小型蟲卵。有卵蓋。卵殼沒有紋路。沒有肩膀 (卵蓋與卵殼之間沒有突出)。內含毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_30",
+        "path": "egg/egg_30.webp",
+        "answer": [
+            "Metagonimus yokogawai",
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。小型蟲卵。有卵蓋。卵殼沒有紋路。沒有肩膀。內含毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_31",
+        "path": "egg/egg_31.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp.)。卵殼厚，表面有放射狀條紋 (似輪胎)。內含六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_32",
+        "path": "egg/egg_32.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp.)。卵殼厚，呈放射狀條紋 (似輪胎)。內含六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_33",
+        "path": "egg/egg_33.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。中大型，長橢圓形，不對稱。有卵蓋。卵蓋對面卵殼有不均勻增厚。呈金黃色。",
+        "description": ""
+    },
+    {
+        "num": "egg_34",
+        "path": "egg/egg_34.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。半橢圓形 (D字型)，一邊平，一邊彎曲。卵殼不對稱。",
+        "description": ""
+    },
+    {
+        "num": "egg_35",
+        "path": "egg/egg_35.webp",
+        "answer": [
+            "Capillaria hepatica"
+        ],
+        "explanation": "肝毛線蟲卵。長橢圓形，中型。兩端有透明卵塞。卵殼有紋路。蟲體微胖。若在人糞檢出現為假性感染。",
+        "description": ""
+    },
+    {
+        "num": "egg_36",
+        "path": "egg/egg_36.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲蟲卵。不對稱，一邊尖一邊鈍 (D型)。有卵蓋。卵殼兩端較尖。",
+        "description": ""
+    },
+    {
+        "num": "egg_37",
+        "path": "egg/egg_37.webp",
+        "answer": [
+            "Trichostrongylus orientalis"
+        ],
+        "explanation": "東方毛線蟲卵。長橢圓形，一邊尖一邊圓鈍。大小比鉤蟲卵大。鉤蟲卵約為東方毛線蟲蟲卵的2/3。內含物常見分裂為桑椹期的卵細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_38",
+        "path": "egg/egg_38.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，短橢圓形或圓形。卵殼厚。外層有凹凸不平的蛋白膜 (大波浪)，被膽汁染成淡黃色。卵細胞與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "egg_39",
+        "path": "egg/egg_39.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，卵殼很厚。外圍有不規則沉積的蛋白膜。內含物(卵細胞)與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "egg_40",
+        "path": "egg/egg_40.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲蟲卵。大型蟲卵，圓形或橢圓形。無卵蓋。卵殼周圍常附著宿主組織，看起來髒髒的。內含miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_41",
+        "path": "egg/egg_41.webp",
+        "answer": [
+            "Capillaria philippinensis"
+        ],
+        "explanation": "菲律賓毛線蟲卵。長橢圓形，似花生形。兩端有透明卵塞。卵殼有紋路。蟲體有腰身。",
+        "description": ""
+    },
+    {
+        "num": "egg_42",
+        "path": "egg/egg_42.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。中小型。卵殼不對稱，一邊平，一邊彎曲 (D型)。內含物為卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_43",
+        "path": "egg/egg_43.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲卵。中型，啤酒桶形或手榴彈形。兩端各有一個透明的卵塞。卵殼較厚，表面光滑，無紋路。被膽汁染後呈黃褐色。",
+        "description": ""
+    },
+    {
+        "num": "egg_44",
+        "path": "egg/egg_44.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄，透明。卵的兩端均較圓鈍。內含卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_45",
+        "path": "egg/egg_45.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。卵殼厚度：一層殼，很薄。 內含物：卵細胞或是幼蟲。 卵的兩端均較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "egg_46",
+        "path": "egg/egg_46.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄。卵兩端較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "egg_47",
+        "path": "egg/egg_47.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲蟲卵。大型蟲卵、有卵蓋、透明。卵蓋對面的卵殼會略增厚（與牛羊肝吸蟲/薑片蟲卵殼平滑區分）。內含一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_48",
+        "path": "egg/egg_48.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲蟲卵。大型蟲卵、長橢圓形。無卵蓋。具有一個明顯的側刺。內含miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_49",
+        "path": "egg/egg_49.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。中型，約鉤蟲卵大小。短橢圓形或卵形。有卵蓋。卵殼兩端較圓鈍。卵蓋對面有時候會有一個小結節，像鈕釦一樣。",
+        "description": ""
+    },
+    {
+        "num": "egg_50",
+        "path": "egg/egg_50.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。中型，短橢圓形或卵形。有卵蓋。卵殼兩端較圓鈍。卵蓋對面有時有小結節。",
+        "description": ""
+    },
+    {
+        "num": "egg_51",
+        "path": "egg/egg_51.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲蟲卵。短橢圓形，中型(鉤蟲卵大小)。卵殼很薄且透明。內含六鉤幼蟲。胎蟲胚殼的兩端有突起，突起處發出6-8條極絲。與縮小絛蟲卵區分，後者無極絲且卵殼有紋路。",
+        "description": ""
+    },
+    {
+        "num": "egg_52",
+        "path": "egg/egg_52.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。卵殼外層有凹凸不平的蛋白膜 (大波浪)。",
+        "description": ""
+    },
+    {
+        "num": "egg_53",
+        "path": "egg/egg_53.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。卵殼厚，外有蛋白膜沉積。內含物與卵殼兩端有空隙。",
+        "description": ""
+    },
+    {
+        "num": "egg_54",
+        "path": "egg/egg_54.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲蟲卵。卵殼有紋路，有玻璃樣物質。內含物為六鉤幼蟲。胎蟲被殼的兩端有突起，但沒有極絲 (與微小絛蟲卵有極絲區分)。",
+        "description": ""
+    }
+]

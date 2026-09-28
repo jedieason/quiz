@@ -1,0 +1,452 @@
+[
+  {
+    "num": "B07_1-1",
+    "path": "B07/B07_1-1.webp",
+    "answer": [
+      "Internal arcuate fiber"
+    ],
+    "explanation": "出處：atlas-8-3 medulla-3；08 神解實驗 vol.3 p.15",
+    "description": ""
+  },
+  {
+    "num": "B07_1-2",
+    "path": "B07/B07_1-2.webp",
+    "answer": [
+      "Spinal trigeminal nucleus"
+    ],
+    "explanation": "出處：atlas-8-3 medulla-3；08 神解實驗 vol.3 p.15",
+    "description": ""
+  },
+  {
+    "num": "B07_2-1",
+    "path": "B07/B07_2-1.webp",
+    "answer": [
+      "Solitary tract"
+    ],
+    "explanation": "出處：atlas-8-4 medulla-4；08 神解實驗 vol.3 p.17",
+    "description": ""
+  },
+  {
+    "num": "B07_2-2",
+    "path": "B07/B07_2-2.webp",
+    "answer": [
+      "Medial lemniscus"
+    ],
+    "explanation": "出處：atlas-8-4 medulla-4；08 神解實驗 vol.3 p.17",
+    "description": ""
+  },
+  {
+    "num": "B07_3-1",
+    "path": "B07/B07_3-1.webp",
+    "answer": [
+      "Inferior olivary nucleus"
+    ],
+    "explanation": "出處：atlas-8-4 medulla-4；08 神解實驗 vol.3 p.17",
+    "description": ""
+  },
+  {
+    "num": "B07_3-2",
+    "path": "B07/B07_3-2.webp",
+    "answer": [
+      "Hypoglossal nerve"
+    ],
+    "explanation": "出處：atlas-8-4 medulla-4；08 神解實驗 vol.3 p.17",
+    "description": ""
+  },
+  {
+    "num": "B07_4-1",
+    "path": "B07/B07_4-1.webp",
+    "answer": [
+      "Basilar artery"
+    ],
+    "explanation": "從有橫走向的 fiber 可知，這裡是 pons，而走在 pons 腹側中間的，就是 basilar a.。\n出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29",
+    "description": ""
+  },
+  {
+    "num": "B07_4-2",
+    "path": "B07/B07_4-2.webp",
+    "answer": [
+      "Trigeminal nerve"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29",
+    "description": ""
+  },
+  {
+    "num": "B07_5-1",
+    "path": "B07/B07_5-1.webp",
+    "answer": [
+      "Periaqueductal gray"
+    ],
+    "explanation": "出處：atlas-6-1 midbrain-1；08 神解實驗 vol.3 p.32",
+    "description": ""
+  },
+  {
+    "num": "B07_5-2",
+    "path": "B07/B07_5-2.webp",
+    "answer": [
+      "Decussation of superior cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas-6-1 midbrain-1；08 神解實驗 vol.3 p.32",
+    "description": ""
+  },
+  {
+    "num": "B07_6-1",
+    "path": "B07/B07_6-1.webp",
+    "answer": [
+      "Medial longitudinal fasciculus"
+    ],
+    "explanation": "MLF 背側淡染的為 Trochlear n.。\n出處：atlas-6-2 midbrain-2；07 神解實驗 vol.3 p.7, 8",
+    "description": ""
+  },
+  {
+    "num": "B07_6-2",
+    "path": "B07/B07_6-2.webp",
+    "answer": [
+      "Substantia nigra"
+    ],
+    "explanation": "大腦腳內側淡染處\n出處：atlas-6-2 midbrain-2；07 神解實驗 vol.3 p.7, 8",
+    "description": ""
+  },
+  {
+    "num": "B07_7-1",
+    "path": "B07/B07_7-1.webp",
+    "answer": [
+      "Zona incerta"
+    ],
+    "explanation": "出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19",
+    "description": ""
+  },
+  {
+    "num": "B07_7-2",
+    "path": "B07/B07_7-2.webp",
+    "answer": [
+      "Reticular nucleus"
+    ],
+    "explanation": "包在 external medullary lamina 中淡染的核區\n出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19",
+    "description": ""
+  },
+  {
+    "num": "B07_8-1",
+    "path": "B07/B07_8-1.webp",
+    "answer": [
+      "Tonsil"
+    ],
+    "explanation": "出處：atlas-4-1 cerebellum-anterior；08 神解實驗 vol.1 p.22",
+    "description": ""
+  },
+  {
+    "num": "B07_8-2",
+    "path": "B07/B07_8-2.webp",
+    "answer": [
+      "Dorsolateral fissure"
+    ],
+    "explanation": "Dorsolateral fissure 上方的構造為 flocculus\n出處：atlas-4-1 cerebellum-anterior；08 神解實驗 vol.1 p.22",
+    "description": ""
+  },
+  {
+    "num": "B07_9-1",
+    "path": "B07/B07_9-1.webp",
+    "answer": [
+      "Middle cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas-4-1 cerebellum-anterior；08 神解實驗 vol.1 p.22",
+    "description": ""
+  },
+  {
+    "num": "B07_9-2",
+    "path": "B07/B07_9-2.webp",
+    "answer": [
+      "Flocculus"
+    ],
+    "explanation": "在 Dorsolateral fissure 上方\n出處：atlas-4-1 cerebellum-anterior；08 神解實驗 vol.1 p.22",
+    "description": ""
+  },
+  {
+    "num": "B07_10-1",
+    "path": "B07/B07_10-1.webp",
+    "answer": [
+      "Anterior commissure"
+    ],
+    "explanation": "目前只切到兩個 column，越往上切，距離越近\n出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19, 20",
+    "description": ""
+  },
+  {
+    "num": "B07_10-2",
+    "path": "B07/B07_10-2.webp",
+    "answer": [
+      "Internal capsule, posterior limb"
+    ],
+    "explanation": "出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19",
+    "description": ""
+  },
+  {
+    "num": "B07_11-1",
+    "path": "B07/B07_11-1.webp",
+    "answer": [
+      "Lateral sulcus"
+    ],
+    "explanation": "出處：atlas-1-1 cerebrum: lateral view；08 神解實驗 vol.1 p.2",
+    "description": ""
+  },
+  {
+    "num": "B07_11-2",
+    "path": "B07/B07_11-2.webp",
+    "answer": [
+      "Motor speech"
+    ],
+    "explanation": "此區為 Broca’s area\n出處：atlas-1-1 cerebrum: lateral view；08 神解 vol.6 p.5",
+    "description": ""
+  },
+  {
+    "num": "B07_12-1",
+    "path": "B07/B07_12-1.webp",
+    "answer": [
+      "Gracile fasciculus"
+    ],
+    "explanation": "出處：atlas-5-4 spinal cord；08 神解 vol.2 p.23, 24",
+    "description": ""
+  },
+  {
+    "num": "B07_12-2",
+    "path": "B07/B07_12-2.webp",
+    "answer": [
+      "T6 以下有意識本體感覺、觸覺"
+    ],
+    "explanation": "出處：atlas-5-4 spinal cord；08 神解 vol.2 p.23, 24",
+    "description": ""
+  },
+  {
+    "num": "B07_13-1",
+    "path": "B07/B07_13-1.webp",
+    "answer": [
+      "Anterior spinocerebellar tract"
+    ],
+    "explanation": "出處：atlas-5-4 spinal cord；08 神解 vol.2 p.28, 29",
+    "description": ""
+  },
+  {
+    "num": "B07_13-2",
+    "path": "B07/B07_13-2.webp",
+    "answer": [
+      "Superior cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas-5-4 spinal cord；08 神解 vol.2 p.28, 29",
+    "description": ""
+  },
+  {
+    "num": "B07_14-1",
+    "path": "B07/B07_14-1.webp",
+    "answer": [
+      "Lenticular fasciculus"
+    ],
+    "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+    "description": ""
+  },
+  {
+    "num": "B07_14-2",
+    "path": "B07/B07_14-2.webp",
+    "answer": [
+      "Ansa lenticularis"
+    ],
+    "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+    "description": ""
+  },
+  {
+    "num": "B07_15-1",
+    "path": "B07/B07_15-1.webp",
+    "answer": [
+      "Habenulointerpeduncular tract"
+    ],
+    "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+    "description": ""
+  },
+  {
+    "num": "B07_15-2",
+    "path": "B07/B07_15-2.webp",
+    "answer": [
+      "Lamina terminalis"
+    ],
+    "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+    "description": ""
+  },
+  {
+    "num": "B07_16-1",
+    "path": "B07/B07_16-1.webp",
+    "answer": [
+      "Motor branch of trigeminal nerve"
+    ],
+    "explanation": "組長覺得不像，但歷年答案給 facial nerve，供各位參考。請參閱：The Human Brain, 7E, p. 284, figure11-13\n出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.26, 27",
+    "description": ""
+  },
+  {
+    "num": "B07_16-2",
+    "path": "B07/B07_16-2.webp",
+    "answer": [
+      "Superior cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2",
+    "description": ""
+  },
+  {
+    "num": "B07_17-1",
+    "path": "B07/B07_17-1.webp",
+    "answer": [
+      "Trigeminal main sensory nucleus"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2",
+    "description": ""
+  },
+  {
+    "num": "B07_17-2",
+    "path": "B07/B07_17-2.webp",
+    "answer": [
+      "臉部 discriminative touch"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解 vol.3 p.9",
+    "description": ""
+  },
+  {
+    "num": "B07_18-1",
+    "path": "B07/B07_18-1.webp",
+    "answer": [
+      "Medial longitudinal fasciculus"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2",
+    "description": ""
+  },
+  {
+    "num": "B07_18-2",
+    "path": "B07/B07_18-2.webp",
+    "answer": [
+      "Trapezoid body"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.26, 27",
+    "description": ""
+  },
+  {
+    "num": "B07_19-1",
+    "path": "B07/B07_19-1.webp",
+    "answer": [
+      "Medial lemniscus"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.26, 27",
+    "description": ""
+  },
+  {
+    "num": "B07_19-2",
+    "path": "B07/B07_19-2.webp",
+    "answer": [
+      "body 的觸覺、有意識本體感覺"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解 vol.3 p.8",
+    "description": ""
+  },
+  {
+    "num": "B07_20-1",
+    "path": "B07/B07_20-1.webp",
+    "answer": [
+      "Mesencephalic trigeminal tract"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29, 30",
+    "description": ""
+  },
+  {
+    "num": "B07_20-2",
+    "path": "B07/B07_20-2.webp",
+    "answer": [
+      "Face proprioception"
+    ],
+    "explanation": "出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29, 30",
+    "description": ""
+  },
+  {
+    "num": "B07_21-1",
+    "path": "B07/B07_21-1.webp",
+    "answer": [
+      "Crus cerebri"
+    ],
+    "explanation": "出處：atlas-6-4 midbrain-4",
+    "description": ""
+  },
+  {
+    "num": "B07_21-2",
+    "path": "B07/B07_21-2.webp",
+    "answer": [
+      "Lateral geniculate body"
+    ],
+    "explanation": "出處：atlas-6-4 midbrain-4",
+    "description": ""
+  },
+  {
+    "num": "B07_22-1",
+    "path": "B07/B07_22-1.webp",
+    "answer": [
+      "Internal carotid artery"
+    ],
+    "explanation": "出處：08 大體實驗 vol.3 p.6",
+    "description": ""
+  },
+  {
+    "num": "B07_22-2",
+    "path": "B07/B07_22-2.webp",
+    "answer": [
+      "Mammillary body"
+    ],
+    "explanation": "出處：atlas-6-4 midbrain-4",
+    "description": ""
+  },
+  {
+    "num": "B07_23-1",
+    "path": "B07/B07_23-1.webp",
+    "answer": [
+      "Cerebral aqueduct"
+    ],
+    "explanation": "出處：atlas-6-4 midbrain-4",
+    "description": ""
+  },
+  {
+    "num": "B07_23-2",
+    "path": "B07/B07_23-2.webp",
+    "answer": [
+      "Olfactory bulb"
+    ],
+    "explanation": "出處：atlas-1-6 cerebrum: ventral view",
+    "description": ""
+  },
+  {
+    "num": "B07_24-1",
+    "path": "B07/B07_24-1.webp",
+    "answer": [
+      "Insula"
+    ],
+    "explanation": "出處：atlas-2-1 cerebrum: coronal (anterior-posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "B07_24-2",
+    "path": "B07/B07_24-2.webp",
+    "answer": [
+      "Fornix"
+    ],
+    "explanation": "如果是 septum pellucidum 應該會指在更上面\n出處：atlas-2-1 cerebrum: coronal (anterior-posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "B07_25-1",
+    "path": "B07/B07_25-1.webp",
+    "answer": [
+      "Corpus callosum"
+    ],
+    "explanation": "出處：atlas-2-1 cerebrum: coronal (anterior-posterior)-1",
+    "description": ""
+  },
+  {
+    "num": "B07_25-2",
+    "path": "B07/B07_25-2.webp",
+    "answer": [
+      "Internal capsule, anterior limb"
+    ],
+    "explanation": "出處：atlas-2-1 cerebrum: coronal (anterior-posterior)-1",
+    "description": ""
+  }
+]

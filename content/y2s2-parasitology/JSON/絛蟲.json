@@ -1,0 +1,350 @@
+[
+    {
+        "num": "5",
+        "path": "絛蟲/IMG_5723.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈花瓣狀(rosette-shaped)。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於子宮後面(呈橫的長方形)。寄生人體最大的絛蟲，約3-10公尺。",
+        "description": ""
+    },
+    {
+        "num": "8",
+        "path": "絛蟲/IMG_5726.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的受孕體節。體節呈直的長方形。單側子宮分枝數大於15 (通常15-30對)。豬肉絛蟲的單側子宮分枝數則小於13。",
+        "description": ""
+    },
+    {
+        "num": "14",
+        "path": "絛蟲/IMG_5732.webp",
+        "answer": [
+            "假葉目",
+            "擬葉目",
+            "Pseudophyllidea"
+        ],
+        "explanation": "假葉目(擬葉目)絛蟲成蟲的體節，其生殖孔位於體節的中間。圓葉目絛蟲的生殖孔在體節側面。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "19",
+        "path": "絛蟲/IMG_5737.webp",
+        "answer": [
+            "Hymenolepis nana",
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "微小絛蟲或縮小絛蟲的成熟體節。體節呈橫的長方形。具有三個睪丸，兩個在右邊，一個在左邊。生殖孔一律在體節左邊。",
+        "description": ""
+    },
+    {
+        "num": "25",
+        "path": "絛蟲/IMG_5743.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的成熟體節或受孕體節。每一個體節均有兩套生殖系統與兩個位於體節兩側的生殖孔。",
+        "description": ""
+    },
+    {
+        "num": "46",
+        "path": "絛蟲/IMG_5764.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的頭節 (scolex)。具有四個吸盤。無額嘴 (rostellum)，亦無鉤 (與豬肉絛蟲頭節有額嘴及兩圈鉤不同)。",
+        "description": ""
+    },
+    {
+        "num": "55",
+        "path": "絛蟲/IMG_5773.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。為乳白色半透明囊泡，內含一個反折的頭節 (scolex)。大小約0.5-1公分。寄生於中間宿主的肌肉等組織中。",
+        "description": ""
+    },
+    {
+        "num": "58",
+        "path": "絛蟲/IMG_5776.webp",
+        "answer": [
+            "Raillietina celebensis"
+        ],
+        "explanation": "西里伯斯雷氏絛蟲的受孕體節，外觀似米粒。",
+        "description": ""
+    },
+    {
+        "num": "70",
+        "path": "絛蟲/IMG_5788.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲 (有鉤絛蟲) 的頭節 (scolex)。具有四個吸盤。頂端有可伸縮的額嘴 (rostellum)，其上排列有兩圈角質鉤 (hooks)。",
+        "description": ""
+    },
+    {
+        "num": "88",
+        "path": "form/cysticercus.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。為乳白色半透明囊泡 (約0.5-1公分)，形似西米露，內含一個反折的頭節。",
+        "description": ""
+    },
+    {
+        "num": "95",
+        "path": "./絛蟲/IM-0001.webp",
+        "answer": [
+            "Echinococcus granulosus"
+        ],
+        "explanation": "單包絛蟲成蟲。蟲體微小，僅由頭節、頸部及2-3個體節組成 (通常為未成熟節、成熟節、受孕節各一)。頭節具四吸盤及兩圈鉤。",
+        "description": ""
+    },
+    {
+        "num": "97",
+        "path": "./絛蟲/IM-0003.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。體節寬大於長。生殖孔位於體節腹面中央。子宮呈玫瑰花瓣狀或旋鈕狀，位於體節中央。睪丸及卵黃腺呈濾泡狀散佈於體節兩側。",
+        "description": ""
+    },
+    {
+        "num": "100",
+        "path": "./絛蟲/IM-0006.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的受孕體節。體節呈長方形 (長大於寬)。子宮主幹居中，向兩側發出分支，單側分支數多於15條 (通常15-30條)。",
+        "description": ""
+    },
+    {
+        "num": "103",
+        "path": "./絛蟲/IM-0009.webp",
+        "answer": [
+            "圓葉目絛蟲",
+            "圓葉目"
+        ],
+        "explanation": "圓葉目絛蟲的體節，其生殖孔位於體節的側面。圖示為連續體節，可見生殖孔交替或單側位於邊緣。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "105",
+        "path": "./絛蟲/IM-0011.webp",
+        "answer": [
+            "Hymenolepis nana",
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "微小絛蟲或縮小絛蟲的成熟體節。體節呈橫的長方形。具有三個睪丸，兩個在生殖孔的遠端，一個在近端 (通常兩個在右，一個在左)。生殖孔單側開口。",
+        "description": ""
+    },
+    {
+        "num": "118",
+        "path": "./絛蟲/IM-0024.webp",
+        "answer": [
+            "Gnathostoma spinigerum",
+            "Dracunculus medinensis",
+            "Diphyllobothrium latum",
+            "Spirometra mansoni"
+        ],
+        "explanation": "圖為劍水蚤 (Cyclops)，是棘顎口線蟲 (Gnathostoma spinigerum，人非FH)、麥地那線蟲 (Dracunculus medinensis，人是唯一FH)、廣節裂頭絛蟲 (Diphyllobothrium latum，人是FH) 和曼氏裂頭絛蟲 (Spirometra mansoni，人非FH) 的第一中間宿主。",
+        "description": "寫出一種以它為中間宿主的蟲？"
+    },
+    {
+        "num": "233",
+        "path": "./絛蟲/IM-0067.webp",
+        "answer": [
+            "假葉目",
+            "假葉目絛蟲",
+            "擬葉目",
+            "擬葉目絛蟲"
+        ],
+        "explanation": "假葉目(擬葉目)絛蟲成蟲，其生殖孔在體節的中間。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "234",
+        "path": "./絛蟲/IM-0068.webp",
+        "answer": [
+            "圓葉目",
+            "圓葉目絛蟲"
+        ],
+        "explanation": "圓葉目絛蟲，其生殖孔在體節的側面。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "235",
+        "path": "form/cysticercus-1.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。約一公分大小橢圓形囊泡，內有一個白色的頭節。",
+        "description": ""
+    },
+    {
+        "num": "236",
+        "path": "form/cysticercus-2.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus) 在肌肉組織中。呈橢圓形囊泡，內含頭節。",
+        "description": ""
+    },
+    {
+        "num": "237",
+        "path": "form/cysticercus-3.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "238",
+        "path": "form/cysticercus-4.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "239",
+        "path": "form/e-g-protoscolex.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "240",
+        "path": "form/e-g-protoscolex-2.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "241",
+        "path": "絛蟲/pseudophyllidea.webp",
+        "answer": [
+            "Diphyllobothrium latum",
+            "Spirometra mansoni"
+        ],
+        "explanation": "假葉目絛蟲的頭節。特徵是頭節兩側各有一條縱走的吸溝 (bothria)，無吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "242",
+        "path": "絛蟲/taeni-solium.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲的頭節。有四個吸盤，頂端有額嘴，額嘴上有兩圈鉤。",
+        "description": ""
+    },
+    {
+        "num": "243",
+        "path": "絛蟲/taeni-sagi.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲的頭節。有四個吸盤，無額嘴，無鉤。",
+        "description": ""
+    },
+    {
+        "num": "244",
+        "path": "絛蟲/h-nana.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲的頭節。有四個吸盤，具可伸縮的額嘴，額嘴上有一圈鉤。有明顯的頸部。",
+        "description": ""
+    },
+    {
+        "num": "245",
+        "path": "絛蟲/h-diminuta.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲的頭節。有四個吸盤，額嘴退化無鉤。看起來沒有明顯頸部。",
+        "description": ""
+    },
+    {
+        "num": "246",
+        "path": "絛蟲/dipy.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的頭節。有四個吸盤，具可伸縮的額嘴，額嘴上有數排(通常3-4排)玫瑰刺狀的小鉤。",
+        "description": ""
+    },
+    {
+        "num": "247",
+        "path": "絛蟲/r-cele.webp",
+        "answer": [
+            "Raillietina celebensis"
+        ],
+        "explanation": "台灣絛蟲(亞洲雷公絛蟲)的頭節。具有四個吸盤，吸盤上佈滿小鉤。額嘴上也有多圈鎚狀鉤。",
+        "description": ""
+    },
+    {
+        "num": "248",
+        "path": "絛蟲/d-latum.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈花瓣狀。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於子宮後面。",
+        "description": ""
+    },
+    {
+        "num": "249",
+        "path": "絛蟲/spirometra.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈霜淇淋狀(螺旋狀)。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於體節後面。",
+        "description": ""
+    },
+    {
+        "num": "250",
+        "path": "絛蟲/taenia-solium.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲的受孕體節。呈直的長方形。單側子宮分枝數小於13 (通常7-12對)，分枝粗呈樹枝狀。",
+        "description": ""
+    },
+    {
+        "num": "251",
+        "path": "絛蟲/dipy-segment.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的成熟或受孕體節。每一個體節均有兩套生殖系統與兩個位於體節兩側的生殖孔。受孕體節內充滿卵囊。",
+        "description": ""
+    }
+]

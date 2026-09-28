@@ -1,0 +1,172 @@
+[
+  {
+    "num": "Midbrain_1",
+    "path": "Midbrain/Midbrain_1.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) 聽覺",
+      "Inferior colliculus 聽覺"
+    ],
+    "explanation": "(1)可以看到 lateral lemniscus 夾著他。出處： atlas-6-1-midbrain-1",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_2",
+    "path": "Midbrain/Midbrain_2.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Medial longitudinal fasciculus",
+      "Inferior colliculus Medial longitudinal fasciculus"
+    ],
+    "explanation": "出處： atlas-6-1-midbrain-1",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_3",
+    "path": "Midbrain/Midbrain_3.webp",
+    "answer": [
+      "(1) Lateral lemniscus (2) Cerebral aqueduct",
+      "Lateral lemniscus Cerebral aqueduct"
+    ],
+    "explanation": "(1)辨別依據：蟹腳狀夾著 Inf. colliculus。出處： atlas-6-1-midbrain-1",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_4",
+    "path": "Midbrain/Midbrain_4.webp",
+    "answer": [
+      "(1) Pulvinar (2) Mammillary body",
+      "Pulvinar Mammillary body"
+    ],
+    "explanation": "(1)在 thalamus 的 dorsal side。出處：level of superior colliculus (atlas-6-3-midbrain-3)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_5",
+    "path": "Midbrain/Midbrain_5.webp",
+    "answer": [
+      "(1) Interpeduncular nucleus (2) Trochlear nucleus",
+      "Interpeduncular nucleus Trochlear nucleus"
+    ],
+    "explanation": "(1)位在 interpeduncular fossa 處 (2) MLF 的 dorsal side。出處：level of superior colliculus (atlas-6-2-midbrain-2)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_6",
+    "path": "Midbrain/Midbrain_6.webp",
+    "answer": [
+      "(1) Substantia nigra (2) Medial lemniscus",
+      "Substantia nigra Medial lemniscus"
+    ],
+    "explanation": "出處：level of superior colliculus，有 crus cerebri 無 lateral lemniscus",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_7",
+    "path": "Midbrain/Midbrain_7.webp",
+    "answer": [
+      "(1) Superior colliculus (2) 視覺",
+      "Superior colliculus 視覺"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-3-midbrain-3)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_8",
+    "path": "Midbrain/Midbrain_8.webp",
+    "answer": [
+      "(1) Medial geniculate body (2) Optic tract",
+      "Medial geniculate body Optic tract"
+    ],
+    "explanation": "(1) LGB 內側 (2)傳入 LGB。出處：atlas-9-1-diencephalon-1, atlas-6-4-midbrain 4",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_9",
+    "path": "Midbrain/Midbrain_9.webp",
+    "answer": [
+      "(1) Pineal gland (2) Commissure of superior colliculus",
+      "Pineal gland Commissure of superior colliculus"
+    ],
+    "explanation": "出處：atlas-9-1-diencephalon-1",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_10",
+    "path": "Midbrain/Midbrain_10.webp",
+    "answer": [
+      "(1) Superior colliculus (2) Medial geniculate body (3) Oculomotor nerve",
+      "Superior colliculus Medial geniculate body Oculomotor nerve"
+    ],
+    "explanation": "(3)藍色圓圈為 Oculomotor nucleus。出處：level of superior colliculus (atlas-6-4-midbrain-4)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_11",
+    "path": "Midbrain/Midbrain_11.webp",
+    "answer": [
+      "(1) Interpeduncular nucleus (2) Trochlear nucleus (3) Medial longitudinal fasciculus",
+      "Interpeduncular nucleus Trochlear nucleus Medial longitudinal fasciculus"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-2-midbrain-2)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_12",
+    "path": "Midbrain/Midbrain_12.webp",
+    "answer": [
+      "(1) Substantia nigra (2) Dopamine (3) Amygdala",
+      "Substantia nigra Dopamine Amygdala"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-3-midbrain-3)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_13",
+    "path": "Midbrain/Midbrain_13.webp",
+    "answer": [
+      "(1) Superior colliculus (2) 視覺 (3) Oculomotor nerve",
+      "Superior colliculus 視覺 Oculomotor nerve"
+    ],
+    "explanation": "(1)切到邊邊。出處：level of superior colliculus (atlas-6-2-midbrain-2)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_14",
+    "path": "Midbrain/Midbrain_14.webp",
+    "answer": [
+      "(1) Medial longitudinal fasciculus (2) Medial lemniscus",
+      "Medial longitudinal fasciculus Medial lemniscus"
+    ],
+    "explanation": "(1)在他 dorsal side 的是 trochlear nu.。出處：level of superior colliculus (atlas-6-2-midbrain-2)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_15",
+    "path": "Midbrain/Midbrain_15.webp",
+    "answer": [
+      "(1) Trochlear nucleus (2) Interpeduncular nucleus",
+      "Trochlear nucleus Interpeduncular nucleus"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-2-midbrain-2)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_16",
+    "path": "Midbrain/Midbrain_16.webp",
+    "answer": [
+      "(1) Habenulointerpeduncular tract (2) Mammillary body",
+      "Habenulointerpeduncular tract Mammillary body"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-3-midbrain-3)",
+    "description": ""
+  },
+  {
+    "num": "Midbrain_17",
+    "path": "Midbrain/Midbrain_17.webp",
+    "answer": [
+      "(1) Oculomotor nerve (2) Periaqueductal gray",
+      "Oculomotor nerve Periaqueductal gray"
+    ],
+    "explanation": "出處：level of superior colliculus (atlas-6-3-midbrain-3)",
+    "description": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "Infratemporal_Region.json",
+        "name": "Infratemporal region"
+    },
+    {
+        "id": "Pharynx.json",
+        "name": "Pharynx"
+    },
+    {
+        "id": "Bisection_of_head.json",
+        "name": "Bisection of head, Pharyngeal wall, mouth and tongue"
+    },
+    {
+        "id": "Larynx.json",
+        "name": "Larynx"
+    },
+    {
+        "id": "Ear.json",
+        "name": "Ear"
+    },
+    {
+        "id": "Thigh_Popliteal_fossa.json",
+        "name": "Thigh, Popliteal fossa"
+    },
+    {
+        "id": "Lat_Ant_Compartment_of_Leg.json",
+        "name": "Lat./Ant. compartment of leg, Dorsum of foot"
+    },
+    {
+        "id": "Post_Compartment_of_Leg.json",
+        "name": "Post. compartment of leg, Sole of foot, Knee joint of lower limb"
+    }
+]

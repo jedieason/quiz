@@ -1,0 +1,226 @@
+[
+    {
+        "num": "Deep_Dissection_of_Neck_1",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_1.webp",
+        "answer": [
+            "Internal thoracic a. Thyrocervical trunk",
+            "Internal thoracic artery Thyrocervical trunk"
+        ],
+        "explanation": "稍微端詳一下可以發現這張圖不是很經典，小心 variation 就在你身邊。7-inferior thyroid a. 和 8-transverse cervical a. 兩條分支跟 3-suprascapular a. 這條分支差得有點遠，這時候只好記得 1-internal thoracic a. 一般都在 2-Thyrocervical trunk 的對側，然後從走向判斷出 3 跟 8 是誰 。這張圖的優點可以看到 6-ascending cervical a. 從 7-inferior thyroid a. 發出。 其他 4-vagus n.，5-subclavian a.。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_2",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_2.webp",
+        "answer": [
+            "Dorsal scapular a.",
+            "Dorsal scapular artery"
+        ],
+        "explanation": "先找到分出 3 個分支的 thyrocervical trunk 蓋在 anterior scalene 上(分支點都躺在 ant. scalene 上!!! 這是快速找出 thyrocervical trunk 的方法)，進 而知道橫跨在 ant. scalene 下的是 subclavian a.，再看出這是 subclavian a. 的第 3 分支。記得 ant. scalene 底下偷偷躲著看不到的 costocervical trunk。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_3",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_3.webp",
+        "answer": [
+            "Superior trunk of brachial plexus",
+            "Upper trunk of brachial plexus"
+        ],
+        "explanation": "老梗新把戲，穿出 scalene triangle(由 anterior scalene 與 middle scalene，以及 first rib 所形成的三角形區域)。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_4",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_4.webp",
+        "answer": [
+            "Thyrocervical trunk"
+        ],
+        "explanation": "SCA 第一段的分支，分為 inferior thyroid a., transverse cervical a., suprascapular a.。1 = right subclavian a.； 2 = right common carotid a.； 3 = brachiocephalic a.； 4 = trachea； 5 = internal thoracic a.；6 = thyrocervical trunk； 7 = suprascapular a.； 8 = transverse cervical a,； 9 = inferior thyroid a.",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_5",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_5.webp",
+        "answer": [
+            "Cricothyroid m.",
+            "Cricothyroid muscle"
+        ],
+        "explanation": "由 vagus nerve 的 external br. of superior laryngeal nerve 支配。 使聲帶收縮變長，唱高音。位於甲狀腺上方的 intrinsic muscle of larynx。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_6",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_6.webp",
+        "answer": [
+            "Levator scapulae m.",
+            "Levator scapulae muscle"
+        ],
+        "explanation": "dorsal scapular n. & dorsal scapular a.支配，為 floor of posterior cervical triangle。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_7",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_7.webp",
+        "answer": [
+            "Suprascapular a.",
+            "Suprascapular artery"
+        ],
+        "explanation": "thyrocervical trunk 的分支，走往 scapula 上方，從 transverse scapular ligament 上方通過。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_8",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_8.webp",
+        "answer": [
+            "Superior cervical sympathetic ganglion"
+        ],
+        "explanation": "sympathetic trunk 緊跟著 2-internal carotid a. 跑，共有 3 個 sympathetic ganglion：superior、middle、inferior，其中 superior 是最大的。3 是 vagus n.。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_9",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_9.webp",
+        "answer": [
+            "Costocervical trunk"
+        ],
+        "explanation": "subclavian a. second part 的分支。此圖可清楚看到 1- subclavian a. 的分支們：3-vertebral a.、4- thyrocervical trunk、5-internal thoracic a.、6-dorsal scapular a.。2 是 common carotid a.。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_10",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_10.webp",
+        "answer": [
+            "Thyrocervical trunk"
+        ],
+        "explanation": "可清楚看見他分出 inferior thyroid a.、transverse cervical a.、 suprascapular a.。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_11",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_11.webp",
+        "answer": [
+            "Brachial plexus"
+        ],
+        "explanation": "夾在 1-anterior & 2-middle scalene muscle 之間。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_12",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_12.webp",
+        "answer": [
+            "Longus colli muscle",
+            "Longus colli m."
+        ],
+        "explanation": "附著到 anterior arch of atlas。功能為 head & neck flexor。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_13",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_13.webp",
+        "answer": [
+            "Splenius capitis muscle Levator scapulae muscle",
+            "Splenius capitis m. Levator scapulae m."
+        ],
+        "explanation": "posterior occipital triangle 的 muscle floor 組成 由上到下依序為：Splenius capitis → levator scapulae → posterior scalene muscle → middle scalene muscle → anterior scalene muscle。其他：1- SCM、 2-Lesser occipital n.、 3-clavicle、 4- External jugular v.",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_14",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_14.webp",
+        "answer": [
+            "Left recurrent laryngeal n.",
+            "Left recurrent laryngeal nerve"
+        ],
+        "explanation": "走在 trachea 旁，把 thyroid gland 移除後可見。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_15",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_15.webp",
+        "answer": [
+            "Transverse cervical a.",
+            "Transverse cervical artery"
+        ],
+        "explanation": "可清楚看到他從 thyrocervical trunk 橫著分出。 回憶 thyrocervical trunk 三分支：inferior thyroid a.、transverse cervical a.、 suprascapular a.。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_16",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_16.webp",
+        "answer": [
+            "Vertebral a.",
+            "Vertebral artery"
+        ],
+        "explanation": "(看完可以把方框框移開有標示) 複習 SCA 的分支，此處可見被 anterior scalene(C3-C6 transverse process→R1 scalene tubercle)分為三段：1. 第一段分支為 vertebral a.(往後鑽到 anterior scalene & longus colli 之間)、 thyrocervical trunk(分支為 inferior thyroid a.(又有一分支為 ascending cervical a.) 、transverse cervical a.、suprascapular a.)、internal thoracic a. (往下進入胸腔 )，指標旁邊較細的應為 phrenic n. 走在 ant. scalene 上方，亦往下進入胸腔。2. 第二段分支為 costocervical trunk，又分出 deep cervical a. & supreme intercostal a.。3. 第三段分支為 dorsal scapular a.，穿過 brachial plexus 的 superior & middle trunk 之間。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_17",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_17.webp",
+        "answer": [
+            "Thoracic duct"
+        ],
+        "explanation": "老梗新滋味，有個 arch of thoracic duct 進入 IJV & Subclavian v.交界 形成 brachiocephalic v.的地方 (venous angle)。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_18",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_18.webp",
+        "answer": [
+            "Cricothyroid m.",
+            "Cricothyroid muscle"
+        ],
+        "explanation": "唯一一條不被 recurrent laryngeal n.支配的 intrinsic muscle of larynx，由 external br. of superior laryngeal n.支配。負責飆高音的肌肉。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_19",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_19.webp",
+        "answer": [
+            "Anterior scalene m.",
+            "Anterior scalene muscle"
+        ],
+        "explanation": "C3-C6 transverse process -> R1 scalene tubercle。為重要 landmark：(1) phrenic n.橫越其上，(2)把 SCA 分成三段，(3)遮住 brachial plexus 的 trunk，(4)transverse cervical a.、suprascapular a. 橫越其上。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_20",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_20.webp",
+        "answer": [
+            "Right vagus n.",
+            "Right vagus nerve"
+        ],
+        "explanation": "走在 subclavian a.的前方。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_21",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_21.webp",
+        "answer": [
+            "Vertebral a.",
+            "Vertebral artery"
+        ],
+        "explanation": "SCA 的第一段分支，走入 longus colli & anterior scalene 之間，走進 C6 的 transverse foramen。旁邊是 thyrocervical trunk。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_22",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_22.webp",
+        "answer": [
+            "Internal branch of superior laryngeal n.",
+            "Internal branch of superior laryngeal nerve"
+        ],
+        "explanation": "可以清楚看到它和 superior laryngeal a.(superior thyroid a.的分支)一起走進 thyrohyoid membrane。下面也可以看到 external branch of superior laryngeal n.，支配 cricothyroid muscles & inferior pharyngeal constrictor。",
+        "description": ""
+    },
+    {
+        "num": "Deep_Dissection_of_Neck_23",
+        "path": "Deep_Dissection_of_Neck/Deep_Dissection_of_Neck_23.webp",
+        "answer": [
+            "Left recurrent laryngeal n.",
+            "Left recurrent laryngeal nerve"
+        ],
+        "explanation": "從 aortic arch 下方繞回來，由下往上走在 trachea 旁邊 。",
+        "description": ""
+    }
+]

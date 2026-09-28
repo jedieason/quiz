@@ -1,0 +1,345 @@
+[
+    {
+        "num": "Cranial_Cavity_1",
+        "path": "Cranial_Cavity/Cranial_Cavity_1.webp",
+        "answer": [
+            "Falx cerebri"
+        ],
+        "explanation": "前面附著到 crista galli。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_2",
+        "path": "Cranial_Cavity/Cranial_Cavity_2.webp",
+        "answer": [
+            "Transverse sinus"
+        ],
+        "explanation": "橫走的 sinus，前方是 tentorium cerebelli。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_3",
+        "path": "Cranial_Cavity/Cranial_Cavity_3.webp",
+        "answer": [
+            "Superior cerebellar a.",
+            "Superior cerebellar artery"
+        ],
+        "explanation": "與前方 posterior cerebral a. 夾住 oculomotor n.(CN3)。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_4",
+        "path": "Cranial_Cavity/Cranial_Cavity_4.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "這是 midbrain & pons 的 posterior view，四顆圓圓的是 superior & inferior colliculi，trochlear n.從腦幹後方 inf. colliculi 的下面鑽出。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_5",
+        "path": "Cranial_Cavity/Cranial_Cavity_5.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "找到 oculomotor n. 在哪裡，然後 Trochlear n. 會出現在它的外側 後方。Trochlear n. 還有一個特點，那就是在這一帶的(與 CN III、V、VI 相比)腦神經中，Trochlear n.相對來說算是比較<細的。a. superior orbital fissure b. cavernous sinus c. oculomotor n.",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_6",
+        "path": "Cranial_Cavity/Cranial_Cavity_6.webp",
+        "answer": [
+            "Granular foveolae",
+            "For arachnoid granulations"
+        ],
+        "explanation": "頭骨上的小凹槽。 其他：16-sagittal suture、 18-emissary vein(會貫穿頭骨)、 19-grooves for branches of middle meningeal vessels(側邊壓痕)",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_7",
+        "path": "Cranial_Cavity/Cranial_Cavity_7.webp",
+        "answer": [
+            "Optic n. Mammillary body",
+            "Optic nerve Mammillary body"
+        ],
+        "explanation": "(紅) Optic n.形成 SCN。(黃) Mammillary body： 記得在 optic chiasm 下方兩顆白色球狀物體就是它。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_8",
+        "path": "Cranial_Cavity/Cranial_Cavity_8.webp",
+        "answer": [
+            "Left anterior cerebral a.",
+            "Left anterior cerebral artery"
+        ],
+        "explanation": "與 olfactory tract 平行向前延伸。其他： a. RACA： right anterior cerebral artery b. PLX： Plexiform part of the anterior cerebral artery c. RMCA： right middle cerebral artery d. ICA： right internal carotid artery e. ON： optic nerve f. PCA： posterior communicating artery g. BA： basilar artery h. LMCA： left middle cerebral artery i. ICA： left internal carotid artery",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_9",
+        "path": "Cranial_Cavity/Cranial_Cavity_9.webp",
+        "answer": [
+            "Confluence of sinus"
+        ],
+        "explanation": "Superior sagittal sinus 和 straight sinus 匯集，左右 transverse sinus 流出。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_10",
+        "path": "Cranial_Cavity/Cranial_Cavity_10.webp",
+        "answer": [
+            "Facial n. Vestibulocochlear n.",
+            "Facial nerve Vestibulocochlear nerve"
+        ],
+        "explanation": "兩條 cranial nerve 都走入 temporal bone 中的 internal acoustic meatus。其他：3-vertebral a.、4+8 應該是 CN 9+10+11。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_11",
+        "path": "Cranial_Cavity/Cranial_Cavity_11.webp",
+        "answer": [
+            "Tentorium cerebelli"
+        ],
+        "explanation": "理論上應該是單字題。連到 anterior & posterior clinoid process。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_12",
+        "path": "Cranial_Cavity/Cranial_Cavity_12.webp",
+        "answer": [
+            "Posterior inferior cerebellar a.",
+            "Posterior inferior cerebellar artery"
+        ],
+        "explanation": "vertebral a.的分支。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_13",
+        "path": "Cranial_Cavity/Cranial_Cavity_13.webp",
+        "answer": [
+            "Anterior inferior cerebellar a.",
+            "Anterior inferior cerebellar artery"
+        ],
+        "explanation": "從 basilar a.分出，靠近 vertebra a.端。其餘由右到 左： PLX： Plexiform part of the anterior cerebral artery ON： optic nerve PCA： posterior communicating artery BA： basilar artery",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_14",
+        "path": "Cranial_Cavity/Cranial_Cavity_14.webp",
+        "answer": [
+            "Olfactory bulb"
+        ],
+        "explanation": "olfactory tract 的 termination 會有橢圓形的膨大。A 為 olfactory tract ，由 temporal lobe 前方發出。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_15",
+        "path": "Cranial_Cavity/Cranial_Cavity_15.webp",
+        "answer": [
+            "Middle meningeal a.",
+            "Middle meningeal artery"
+        ],
+        "explanation": "通過 foramen spinosum。為何判斷的出是這個洞 呢?因為 旁邊有 V1,V2,V3。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_16",
+        "path": "Cranial_Cavity/Cranial_Cavity_16.webp",
+        "answer": [
+            "Vestibulocochlear n.",
+            "Vestibulocochlear nerve"
+        ],
+        "explanation": "在 facial n.外側，medulla-pons junction。在最外側 原因是因 為 special somatic sensory nucleus 在最外 側。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_17",
+        "path": "Cranial_Cavity/Cranial_Cavity_17.webp",
+        "answer": [
+            "Glossopharyngeal n. Vagus n.",
+            "Glossopharyngeal nerve Vagus nerve"
+        ],
+        "explanation": "從 medulla oblongata 的兩側發出。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_18",
+        "path": "Cranial_Cavity/Cranial_Cavity_18.webp",
+        "answer": [
+            "Posterior communicating a.",
+            "Posterior communicating artery"
+        ],
+        "explanation": "總之 circle of Willis 要很熟，posterior communicating a. 連接 posterior cerebral a. 和 middle cerebral a.。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_19",
+        "path": "Cranial_Cavity/Cranial_Cavity_19.webp",
+        "answer": [
+            "Middle cerebral a.",
+            "Middle cerebral artery"
+        ],
+        "explanation": "middle cerebral artery 的開頭有 internal carotid artery 的開口 。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_20",
+        "path": "Cranial_Cavity/Cranial_Cavity_20.webp",
+        "answer": [
+            "Trigeminal n.",
+            "Trigeminal nerve"
+        ],
+        "explanation": "從 pons 中段發出，想想 level of trigeminal n.，較 粗的是 sensory。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_21",
+        "path": "Cranial_Cavity/Cranial_Cavity_21.webp",
+        "answer": [
+            "Superior cerebellar a.",
+            "Superior cerebellar artery"
+        ],
+        "explanation": "請不要寫成 posterior cerebral a.。關鍵在於 SCA & PCA 之間 夾住 oculomotor n. & trochlear n.，此為 超重要特徵。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_22",
+        "path": "Cranial_Cavity/Cranial_Cavity_22.webp",
+        "answer": [
+            "Optic n.",
+            "Optic nerve"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_23",
+        "path": "Cranial_Cavity/Cranial_Cavity_23.webp",
+        "answer": [
+            "Anterior cerebral a.",
+            "Anterior cerebral artery"
+        ],
+        "explanation": "為 ICA 的分支。 順帶一提的是，這個大體老師沒 有形成 Circle of Willis，不過這不是重點。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_24",
+        "path": "Cranial_Cavity/Cranial_Cavity_24.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "唯一從背側發出又繞回來的腦神經，也是唯一交 叉的腦神經。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_25",
+        "path": "Cranial_Cavity/Cranial_Cavity_25.webp",
+        "answer": [
+            "Arachnoid granulation"
+        ],
+        "explanation": "arachnoid 在 longitudinal fissure 附近的突起進入 superior sagittal sinus，使 CSF 能回到體循環。*注 意和 granular foveolae 不同，granular foveolae 是 指他在頭骨上留下的壓跡。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_26",
+        "path": "Cranial_Cavity/Cranial_Cavity_26.webp",
+        "answer": [
+            "Spinal accessory n.",
+            "Spinal accessory nerve"
+        ],
+        "explanation": "C1-C5 的 fiber，從 foramen magnum 往上走之後， 再從 jugular foramen 出來。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_27",
+        "path": "Cranial_Cavity/Cranial_Cavity_27.webp",
+        "answer": [
+            "Vertebral a.",
+            "Vertebral artery"
+        ],
+        "explanation": "兩條 vertebral a. 匯合形成 basilar a.，basilar a. 躺 在 pons 上面。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_28",
+        "path": "Cranial_Cavity/Cranial_Cavity_28.webp",
+        "answer": [
+            "Internal carotid a.",
+            "Internal carotid artery"
+        ],
+        "explanation": "接在 middle cerebral a. 的上游。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_29",
+        "path": "Cranial_Cavity/Cranial_Cavity_29.webp",
+        "answer": [
+            "Abducens n.",
+            "Abducens nerve"
+        ],
+        "explanation": "就是乖乖走到 lateral rectus muscle 上，請不要寫 成 lacrimal n.否則很 悲劇。不過值得一提的是， frontal n., lacrimal n., trochlear n. & superior ophthalmic v.都是從 common tendinous ring 上方通過的。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_30",
+        "path": "Cranial_Cavity/Cranial_Cavity_30.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "在 pons 側邊，而且特別細。 其他：B - trigeminal n.、C - abducens n.",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_31",
+        "path": "Cranial_Cavity/Cranial_Cavity_31.webp",
+        "answer": [
+            "Hypoglossal n.",
+            "Hypoglossal nerve"
+        ],
+        "explanation": "通過 hypoglossal canal。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_32",
+        "path": "Cranial_Cavity/Cranial_Cavity_32.webp",
+        "answer": [
+            "Basilar a. Anterior inferior cerebellar a.",
+            "Basilar artery Anterior inferior cerebellar artery"
+        ],
+        "explanation": "(藍) Basilar a.躺在 pons 正中間。(黃) Anterior inferior cerebellar a.：從 basilar a. 發出，發出位置 接近兩條 vertebral a.。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_33",
+        "path": "Cranial_Cavity/Cranial_Cavity_33.webp",
+        "answer": [
+            "Infundibulum"
+        ],
+        "explanation": "又稱 pituitary stalk ，位於 optic chiasm 中間。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_34",
+        "path": "Cranial_Cavity/Cranial_Cavity_34.webp",
+        "answer": [
+            "Anterior communicating a.",
+            "Anterior communicating artery"
+        ],
+        "explanation": "連接兩條 anterior cerebral a.。",
+        "description": ""
+    },
+    {
+        "num": "Cranial_Cavity_35",
+        "path": "Cranial_Cavity/Cranial_Cavity_35.webp",
+        "answer": [
+            "Superior cerebellar a.",
+            "Superior cerebellar artery"
+        ],
+        "explanation": "容易和 posterior cerebral a.搞混，兩者之間隔著 oculomotor n.。",
+        "description": ""
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "num": "b10lab_01",
+        "path": "b10lab/b10lab_01.webp",
+        "answer": [
+            "Posterior sacral foramina",
+            "pelvic"
+        ],
+        "explanation": "相當於 Intervertebral foramen，有 S1 到S4的Anterior primary rami通過",
+        "description": "綠色所圈的孔洞為何？"
+    },
+    {
+        "num": "b10lab_02",
+        "path": "b10lab/b10lab_02.webp",
+        "answer": [
+            "Radial fossa of humerus"
+        ],
+        "explanation": "有兩個condyle 需看出此為humerus的distal end.右側的 epicondyle 較大且凸出，為medial epicondyle. 因此左側的 fossa 應為 radial fossa of humerus.",
+        "description": "箭頭指的構造為何？"
+    },
+    {
+        "num": "b10lab_03",
+        "path": "b10lab/b10lab_03.webp",
+        "answer": [
+            "Internal acoustic meatus"
+        ],
+        "explanation": "注意此孔洞位於temporal bone的petrous part,孔洞下面有temporal bone與 occipital bone 交接處的裂孔 jugular foramen.",
+        "description": "黃色線所標的構造為？"
+    },
+    {
+        "num": "b10lab_04",
+        "path": "b10lab/b10lab_04.webp",
+        "answer": [
+            "jugular foramen"
+        ],
+        "explanation": "要小心區分，不是 carotid canal",
+        "description": "綠色處為何洞？"
+    },
+    {
+        "num": "b10lab_05",
+        "path": "b10lab/b10lab_05.webp",
+        "answer": [
+            "Adductor tubercule"
+        ],
+        "explanation": "要小心區分，不是 medial femoral epicondyle",
+        "description": "紅框處為何？"
+    },
+    {
+        "num": "b10lab_06",
+        "path": "b10lab/b10lab_06.webp",
+        "answer": [
+            "Ulnar styloid process"
+        ],
+        "explanation": "Ulnar下方突起",
+        "description": "紅框處為何？"
+    },
+    {
+        "num": "b10lab_07",
+        "path": "b10lab/b10lab_07.webp",
+        "answer": [
+            "Superior pubic ramus"
+        ],
+        "explanation": "要先辨認出pubic tubercle的位置，然後就可以得知紅色區域(在pubic tubercle和ala of ilium之間)為Superior pubic ramus。",
+        "description": "請問紅色區域之構造為？"
+    },
+    {
+        "num": "b10lab_08",
+        "path": "b10lab/b10lab_08.webp",
+        "answer": [
+            "Optic canal"
+        ],
+        "explanation": "此題的視角為俯視，在 lesser wing 下方的第一組孔洞即為 optic canal",
+        "description": "請問紅色箭頭所指的孔洞為？"
+    },
+    {
+        "num": "b10lab_09",
+        "path": "b10lab/b10lab_09.webp",
+        "answer": [
+            "Lumbar vertebrae"
+        ],
+        "explanation": "可以由以下幾個較明顯的依據判斷該圖為lumbar vertebrae：1.Vertebral body 比 vertebral foramen大許多(個人認為是最主要的判斷依據) 2. Spinous process 為片狀、平行四邊形的Transverse process 變短",
+        "description": "請問下列構造為何？ （Be specific）"
+    },
+    {
+        "num": "b10lab_10",
+        "path": "b10lab/b10lab_10.webp",
+        "answer": [
+            "Carotid canal"
+        ],
+        "explanation": "inferior view可觀察到，位於Jugular foramen的anterior side",
+        "description": "問紅色方框構造為何？"
+    },
+    {
+        "num": "b10lab_11",
+        "path": "b10lab/b10lab_11.webp",
+        "answer": [
+            "Pisiform bone"
+        ],
+        "explanation": "突起的骨頭，位於proximal row的medial side，Triquetrum的palmar surface",
+        "description": "問紅色方框構造為何？"
+    },
+    {
+        "num": "b10lab_12",
+        "path": "b10lab/b10lab_12.webp",
+        "answer": [
+            "Crista galli"
+        ],
+        "explanation": "Ethmoid bone上面垂直突起的部分",
+        "description": "問紅色方框構造為何？"
+    },
+    {
+        "num": "b10lab_13",
+        "path": "b10lab/b10lab_13.webp",
+        "answer": [
+            "Condylar process"
+        ],
+        "explanation": "與teporal bone 形成temporomandibular joint",
+        "description": "此構造？"
+    },
+    {
+        "num": "b10lab_14",
+        "path": "b10lab/b10lab_14.webp",
+        "answer": [
+            "Conoid tubercle"
+        ],
+        "explanation": "看到長條形的骨頭，兩邊接面平整，沒有大弧度 彎曲，可判斷為 clavicle。箭頭所指為clavicle 跟 scapula相接處，該物不是線狀凸起，因此可知不是Trapezoid line，是Conoid tubercle。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b10lab_15",
+        "path": "b10lab/b10lab_15.webp",
+        "answer": [
+            "1st Metacarpal"
+        ],
+        "explanation": "接在carpal上者為metacarpal，大拇指到小指依序以1st-5th命名",
+        "description": "此骨頭？"
+    },
+    {
+        "num": "b10lab_16",
+        "path": "b10lab/b10lab_16.webp",
+        "answer": [
+            "Ascending aorta"
+        ],
+        "explanation": "從左心室出來的血管區段稱為 ascending aorta（＊be specific！所以不能只寫aorta）",
+        "description": "問紅色圓圈所圈的構造為何？Be specific！（是真的心臟，用繩子綁著）"
+    },
+    {
+        "num": "b10lab_17",
+        "path": "b10lab/b10lab_17.webp",
+        "answer": [
+            "Chordae tendineae"
+        ],
+        "explanation": "是連接在papillary muscle和瓣膜之間的腱索",
+        "description": "問紅色圓圈所圈的構造為何？（是真的心臟，用繩子綁著）"
+    },
+    {
+        "num": "b10lab_18",
+        "path": "b10lab/b10lab_18.webp",
+        "answer": [
+            "Greater sciatic notch"
+        ],
+        "explanation": "位於ilium的posterior inferior iliac spine與ischial spine之間",
+        "description": "問紅色箭頭所指的構造為何？"
+    },
+    {
+        "num": "b10lab_19",
+        "path": "b10lab/b10lab_19.webp",
+        "answer": [
+            "Supraglenoid tubercle"
+        ],
+        "explanation": "可先觀察出整塊骨頭為scapula，又該構造為glenoid cavity之上的突起",
+        "description": "紅色圈起來構造為何？"
+    },
+    {
+        "num": "b10lab_20",
+        "path": "b10lab/b10lab_20.webp",
+        "answer": [
+            "Foramen rotundum"
+        ],
+        "explanation": "Sphenoid bone的四個孔洞由前到後為superior orbital fissure, foramen rotundum, foramen ovale, foramen spinosum",
+        "description": "紅色箭頭所指孔洞為何？"
+    },
+    {
+        "num": "b10lab_21",
+        "path": "b10lab/b10lab_21.webp",
+        "answer": [
+            "Medial condyle of tibia"
+        ],
+        "explanation": "由tibial tuberosity推測出其為tibia的正面觀，再來觀察tibia下方的medial malleolus (這張圖片沒有下半部，但考試的時候可以看的到)，便可知道該處的condyle為medial側",
+        "description": "紅色方框所指構造為何？（be specific）"
+    },
+    {
+        "num": "b10lab_22",
+        "path": "b10lab/b10lab_22.webp",
+        "answer": [
+            "Inferior nasal concha"
+        ],
+        "explanation": "位於nasal cavity側壁，為獨立的骨頭",
+        "description": "綠色虛線所圍構造為何？"
+    },
+    {
+        "num": "b10lab_23",
+        "path": "b10lab/b10lab_23.webp",
+        "answer": [
+            "Acromion"
+        ],
+        "explanation": "所指部位已是spine沿升至glenoid 後方，為acromion。",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_24",
+        "path": "b10lab/b10lab_24.webp",
+        "answer": [
+            "Lesser trochanter of femur"
+        ],
+        "explanation": "此為背側觀，於內側(medial)的是lesser trochanter",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_25",
+        "path": "b10lab/b10lab_25.webp",
+        "answer": [
+            "Anterior superior iliac spine"
+        ],
+        "explanation": "此為右邊pelvis，位於外側上方的突起是 Anterior superior iliac spine (a.s.i.s.)",
+        "description": "紅色圈圈所圈構造為何？"
+    },
+    {
+        "num": "b10lab_26",
+        "path": "b10lab/b10lab_26.webp",
+        "answer": [
+            "Ischial tuberosity"
+        ],
+        "explanation": "此為左側pelvis的背後觀，大大突起是 Ischial tuberosity",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_27",
+        "path": "b10lab/b10lab_27.webp",
+        "answer": [
+            "Lateral pterygoid plate"
+        ],
+        "explanation": "此為Sphenoid的Posterior view, 可看到兩邊對稱共四片之 pterygoid plate；內外側分別稱為 Medial/Lateral pterygoid plate",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_28",
+        "path": "b10lab/b10lab_28.webp",
+        "answer": [
+            "Supinator crest of ulna"
+        ],
+        "explanation": "Olceranon下方、Radial notch旁，靠lateral側之突起即為 Supinator crest",
+        "description": "箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_29",
+        "path": "b10lab/b10lab_29.webp",
+        "answer": [
+            "Superior articular process"
+        ],
+        "explanation": "脊椎骨連接上下之突起即為 articular process",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_30",
+        "path": "b10lab/b10lab_30.webp",
+        "answer": [
+            "Xiphoid process"
+        ],
+        "explanation": "胸骨最下端之突起即為 Xiphoid process",
+        "description": "紅色箭頭所指構造為何？"
+    },
+    {
+        "num": "b10lab_31",
+        "path": "b10lab/b10lab_31.webp",
+        "answer": [
+            "Abdominal aorta"
+        ],
+        "explanation": "腹部最粗的動脈",
+        "description": "請問A血管為何？"
+    },
+    {
+        "num": "b10lab_32",
+        "path": "b10lab/b10lab_32.webp",
+        "answer": [
+            "Basilar artery"
+        ],
+        "explanation": "Circle of Willis匯入的血管來源有兩個，一是位於兩側邊的是兩條internal carotid artery，位於後側的是由兩條vertebral artery會合而成的basilar artery",
+        "description": "請問箭頭所指的血管為何？"
+    },
+    {
+        "num": "b10lab_33",
+        "path": "b10lab/b10lab_33.webp",
+        "answer": [
+            "Internal jugular vein"
+        ],
+        "explanation": "兩條jugular vein的差別在於走在sternocleidomastoid m.的內側還外側",
+        "description": "請問A血管為何？"
+    },
+    {
+        "num": "b10lab_34",
+        "path": "b10lab/b10lab_34.webp",
+        "answer": [
+            "External iliac artery"
+        ],
+        "explanation": "Internal iliac artery會往pelvic region(骨盆腔)鑽進去，而external iliac artery則會繼續往下變成femoral artery",
+        "description": "請問A血管為何？"
+    }
+]

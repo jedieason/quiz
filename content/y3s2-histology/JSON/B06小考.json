@@ -1,0 +1,317 @@
+[
+    {
+        "num": "b06quiz-01",
+        "path": "B06小考/b06quiz-01.webp",
+        "answer": [
+            "Organ of Corti"
+        ],
+        "explanation": "可見tectorial membrane 以及 hair cell 等。",
+        "description": "寫出藍線所圍的構造名稱"
+    },
+    {
+        "num": "b06quiz-02",
+        "path": "B06小考/b06quiz-02.webp",
+        "answer": [
+            "Zona pellucida"
+        ],
+        "explanation": "位在oocyte以及follicular cell 之間呈亮粉色帶狀者為zona  pellucida。",
+        "description": " 寫出箭號所指構造名稱（Be specific）。 "
+    },
+    {
+        "num": "b06quiz-03",
+        "path": "B06小考/b06quiz-03.webp",
+        "answer": [
+            "Tarsal gland"
+        ],
+        "explanation": "此為eyelid切片，下方較平整處朝向眼睛，位在此處的限體稱為tarsal gland。",
+        "description": "寫出箭頭所指之腺體名稱。"
+    },
+    {
+        "num": "b06quiz-04",
+        "path": "B06小考/b06quiz-04.webp",
+        "answer": [
+            "Thyroid gland"
+        ],
+        "explanation": "Thyroid follicle 主要由周圍的 follicular cell 以及中央的 colloid 組成，colloid內含有 follicular cell 所分泌的 thyroglobulin。",
+        "description": "寫出視野下腺體名稱。"
+    },
+    {
+        "num": "b06quiz-05",
+        "path": "B06小考/b06quiz-05.webp",
+        "answer": [
+            "Epididymis, Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "可以看到中央有精子，且周圍為有stereocilia之平整上皮細胞，可判斷此處為epididymis。 ",
+        "description": " 寫出器官名稱及上皮種類（Be specific）"
+    },
+    {
+        "num": "b06quiz-06",
+        "path": "B06小考/b06quiz-06.webp",
+        "answer": [
+            "Stria vascularis"
+        ],
+        "explanation": "位在scala media，由 epithelium 特化形成，內有相當多的血管故成紅色。",
+        "description": "寫出箭頭所指之構造名稱。"
+    },
+    {
+        "num": "b06quiz-07",
+        "path": "B06小考/b06quiz-07.webp",
+        "answer": [
+            "Theca interna"
+        ],
+        "explanation": "位在mature follicle 外且靠內側，細胞較圓較大的為theca interna；外側較扁的細胞為theca externa。",
+        "description": " 寫出箭號所指範圍內之細胞名稱（Be specific）。"
+    },
+    {
+        "num": "b06quiz-08",
+        "path": "B06小考/b06quiz-08.webp",
+        "answer": [
+            "Acidophil"
+        ],
+        "explanation": "切片中可以看到一圈圈腺體的結構，且內含許多不同染色性質的細胞，故可判斷為pars distalis。箭頭所指細胞呈現紅色，判斷應為acidophil。",
+        "description": "寫出箭頭所指細胞種類（Be specific）。"
+    },
+    {
+        "num": "b06quiz-09",
+        "path": "B06小考/b06quiz-09.webp",
+        "answer": [
+            "Herring body"
+        ],
+        "explanation": "Herring body 為 pars nervosa 中 neurosecretory vesicle 堆積於axon terminal 所形成之構造。",
+        "description": " 寫出箭頭所指構造名稱。"
+    },
+    {
+        "num": "b06quiz-10",
+        "path": "B06小考/b06quiz-10.webp",
+        "answer": [
+            "Seminal vesicle"
+        ],
+        "explanation": "長條形囊狀結構，且lumen高度分支，成蜂巢狀，故可判斷為seminal vesicle。",
+        "description": "寫出器官名稱。"
+    },
+    {
+        "num": "b06quiz-11",
+        "path": "B06小考/b06quiz-11.webp",
+        "answer": [
+            "綠：Primordial follicle 白：Early primary follicle"
+        ],
+        "explanation": "分布於ovary的cortex淺層處且oocyte外面有扁平狀 follicular cell 包圍住的為 primordial follicle；有 zona  pellucida 圍繞在 oocyte 且 follicular cell 呈單層 cuboid 狀的為early primary follicle。",
+        "description": "寫出綠色及白色圓圈所指範圍之構造名稱。"
+    },
+    {
+        "num": "b06quiz-12",
+        "path": "B06小考/b06quiz-12.webp",
+        "answer": [
+            "Retinal pigment epithelium"
+        ],
+        "explanation": "Retina 最外側有一層細胞具有黑色素沉積，可吸收多餘光線防止炫光，稱為retinal pigment epithelium。",
+        "description": "寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b06quiz-13",
+        "path": "B06小考/b06quiz-13.webp",
+        "answer": [
+            "Peg cell"
+        ],
+        "explanation": "在輸卵管上皮細胞中可以看到有些細胞有纖毛，而有些則無。無纖毛的細胞稱為peg cell，高度通常較高且凸向管腔，具有分泌功能。",
+        "description": "寫出箭號所指之細胞名稱（Be specific）"
+    },
+    {
+        "num": "b06quiz-14",
+        "path": "B06小考/b06quiz-14.webp",
+        "answer": [
+            "Cytotrophoblast"
+        ],
+        "explanation": "此切片為placenta 中 villi 的切片，最外層扁平狀深染細胞 為syncytiotrophoblast，在其內側細胞淡染且呈現圓形的為 cytotrophoblast。",
+        "description": "寫出箭號所指細胞名稱（Be specific）。 "
+    },
+    {
+        "num": "b06quiz-15",
+        "path": "B06小考/b06quiz-15.webp",
+        "answer": [
+            "Zona fasciculata"
+        ],
+        "explanation": "此切片中可看到adrenal gland capsule下的 zona glomerulosa以及zona fasciculata兩層，其中zona fasciculata細胞排列成束狀，之間有許多sinusoid，此層佔cortex大部分。",
+        "description": "寫出箭頭所指區域名稱。"
+    },
+    {
+        "num": "b06quiz-16",
+        "path": "B06小考/b06quiz-16.webp",
+        "answer": [
+            "Outer plexiform layer"
+        ],
+        "explanation": "此處為optic part of retina ，其中位在 inner nuclear layer 以及outer nuclear layer 之間的為 outer plexiform layer，有 rod 及cone 細胞的process。",
+        "description": "寫出箭頭範圍內的層次名稱。"
+    },
+    {
+        "num": "b06quiz-17",
+        "path": "B06小考/b06quiz-17.webp",
+        "answer": [
+            "Sertoli cell"
+        ],
+        "explanation": "位在seminiferous tubule，具清楚核仁且和 basement membrane相連者為Sertoli cell。",
+        "description": "寫出箭頭所指細胞名稱。"
+    },
+    {
+        "num": "b06quiz-18",
+        "path": "B06小考/b06quiz-18.webp",
+        "answer": [
+            "Brain sand"
+        ],
+        "explanation": "Brain sand 主要由磷酸鈣組成，在染色下呈現深紫色，為判斷pineal gland 之重要依據。",
+        "description": "寫出箭頭所指構造名稱。 "
+    },
+    {
+        "num": "b06quiz-19",
+        "path": "B06小考/b06quiz-19.webp",
+        "answer": [
+            "Antrum"
+        ],
+        "explanation": "Secondary follicle 之空腔稱為 antrum，內部充滿 follicular fluid。 ",
+        "description": "寫出箭頭所指圈狀結構名稱（Be specific）。 "
+    },
+    {
+        "num": "b06quiz-20",
+        "path": "B06小考/b06quiz-20.webp",
+        "answer": [
+            "Spiral ganglion"
+        ],
+        "explanation": "在耳蝸的modiolus處切到的神經束為spiral ganglion，接收hair cell 的訊息後傳入brainstem。",
+        "description": "寫出藍線所圍之組織名稱。 "
+    },
+    {
+        "num": "b06quiz-21",
+        "path": "B06小考/b06quiz-21.webp",
+        "answer": [
+            "Prostate gland"
+        ],
+        "explanation": "片中的粉紅色同心圓構造為prostatic concretion ，外側佈滿的粉紅色細胞為平滑肌細胞，此兩大特徵可判斷為prostate gland。",
+        "description": "寫出器官名稱。"
+    },
+    {
+        "num": "b06quiz-22",
+        "path": "B06小考/b06quiz-22.webp",
+        "answer": [
+            "Chief cell of parathyroid gland"
+        ],
+        "explanation": "此為parathyroid gland 之切片，主要可以看到較大的oxyphil cell 以及較小之 chief cell。細胞之大小可以用核與核之間的距離判斷。",
+        "description": "寫出箭頭所指細胞名稱。 "
+    },
+    {
+        "num": "b06quiz-23",
+        "path": "B06小考/b06quiz-23.webp",
+        "answer": [
+            "Ciliary process"
+        ],
+        "explanation": "上方為水晶體，其前方的構造則為iris。Ciliary body 包含ciliary muscle 以及 ciliary process。",
+        "description": "寫出藍色線所圍的構造名稱。"
+    },
+    {
+        "num": "b06quiz-24",
+        "path": "B06小考/b06quiz-24.webp",
+        "answer": [
+            "Stratified columnar epithelium"
+        ],
+        "explanation": "尿道周邊有許多trabeculae 和venous sinus，固可判斷應為penile urethra，此處上皮為人體少見之stratified columnar epithelium。",
+        "description": "寫出黑色箭頭所指構造的上皮種類。"
+    },
+    {
+        "num": "b06quiz-25",
+        "path": "B06小考/b06quiz-25.webp",
+        "answer": [
+            "Tunica albuginea of penis"
+        ],
+        "explanation": "中央淡染區域可以看到有許多lacuna，故判斷應為penis的勃起組織，而外側緻密結締組織即為tunica albuginea。",
+        "description": "寫出箭頭所指構造名稱。 "
+    },
+    {
+        "num": "b06quiz-26",
+        "path": "B06小考/b06quiz-26.webp",
+        "answer": [
+            "Lacuna of penis"
+        ],
+        "explanation": "左側緻密性結締組織為tunica albuginea，其所包覆的構造為 penis 之勃起構造，當中的loose CNT稱為trabeculae，而有一層上皮細胞圍成之空腔為lacuna，勃起時會充滿血液。",
+        "description": "寫出箭頭所指構造名稱。 "
+    },
+    {
+        "num": "b06quiz-27",
+        "path": "B06小考/b06quiz-27.webp",
+        "answer": [
+            "Macula of vestibule"
+        ],
+        "explanation": "此處為vestibule，側邊增厚處為macula，上有otolithic membrane，可與endolymph 產生相對位移而引發感覺。",
+        "description": "寫出虛線範圍內的構造名稱。"
+    },
+    {
+        "num": "b06quiz-28",
+        "path": "B06小考/b06quiz-28.webp",
+        "answer": [
+            "A:Mammary gland,active B:Mammary gland,inactive"
+        ],
+        "explanation": "A中可看見明顯之duct 以及 alveoli，故應為active之乳腺；B則可見connective tissue以及 adipose tissue佔大多數，故應為inactive之乳腺。",
+        "description": "分別寫出視野下A和B的組織構造名稱，並寫出處於何種狀態 （Be specific）。"
+    },
+    {
+        "num": "b06quiz-29",
+        "path": "B06小考/b06quiz-29.webp",
+        "answer": [
+            "Leydig cell"
+        ],
+        "explanation": "位於interstitial space 且細胞較大、細胞質呈紅色。",
+        "description": "寫出箭頭所指之細胞名稱。"
+    },
+    {
+        "num": "b06quiz-30",
+        "path": "B06小考/b06quiz-30.webp",
+        "answer": [
+            "Granulosa lutein cell"
+        ],
+        "explanation": "同時可以看到細胞較小與較大的兩區可判斷為corpus luteum，其中細胞較大較淡染者為 granulosa lutein cell。",
+        "description": "寫出綠線所指範圍內之細胞名稱（Be specific）。 "
+    },
+    {
+        "num": "b06quiz-31",
+        "path": "B06小考/b06quiz-31.webp",
+        "answer": [
+            "Scala media"
+        ],
+        "explanation": "Cochlear canal 會被分成三個空間，其中最小且被兩個membrane 夾在中間的為scala media。",
+        "description": "寫出藍線所圍的空間名稱。"
+    },
+    {
+        "num": "b06quiz-32",
+        "path": "B06小考/b06quiz-32.webp",
+        "answer": [
+            "(Tertiary) Villus"
+        ],
+        "explanation": "可見最外層扁平狀深染之syncytiotrophoblast，及內側淡染圓形之cytotrophoblast，可判斷為villus。",
+        "description": "寫出紅線所指範圍內結構名稱。"
+    },
+    {
+        "num": "b06quiz-33",
+        "path": "B06小考/b06quiz-33.webp",
+        "answer": [
+            "Ora serrata"
+        ],
+        "explanation": "右下為ciliary body，可大致判斷此處為retina。有可見交界處兩側細胞層數不同，故應為nonvisual part 以及 visual part交界處，稱為ora serrata。",
+        "description": "寫出藍色範圍的junction名稱。"
+    },
+    {
+        "num": "b06quiz-34",
+        "path": "B06小考/b06quiz-34.webp",
+        "answer": [
+            "Ovary"
+        ],
+        "explanation": "可以看到裡面有許多follicle 故應為ovary。",
+        "description": "寫出視野下器官名稱（Be specific）。"
+    },
+    {
+        "num": "b06quiz-35",
+        "path": "B06小考/b06quiz-35.webp",
+        "answer": [
+            "Vas deferens"
+        ],
+        "explanation": "有很厚平滑肌層且其厚度可達lumen 3~5倍以上之構造為 Vas deferens。",
+        "description": "寫出構造名稱。"
+    }
+]

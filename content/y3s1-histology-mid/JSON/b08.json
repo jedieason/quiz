@@ -1,0 +1,337 @@
+[
+    {
+        "num": "b08_01",
+        "path": "b08/b08_01.webp",
+        "answer": [
+            "Nucleolus"
+        ],
+        "explanation": "此為EM下的影像，箭頭所指的構造包含在一個雙層膜、巨大的圓形胞器中，推測此巨大圓形胞器應為細胞核，而箭頭所指處即為細胞核中的核仁（nucleolus）。\n【出處】共筆Vol.1 P.28",
+        "description": ""
+    },
+    {
+        "num": "b08_02",
+        "path": "b08/b08_02.webp",
+        "answer": [
+            "Stratified cuboidal epithelium"
+        ],
+        "explanation": "此為腺體構造，可見兩層cuboidal cells，為Stratified cuboidal epithelium。\n【出處】共筆Vol.2 P.9",
+        "description": ""
+    },
+    {
+        "num": "b08_03",
+        "path": "b08/b08_03.webp",
+        "answer": [
+            "Tunica Adventitia"
+        ],
+        "explanation": "此為Large vein，其Tunica adventitia有許多縱走的smooth muscle bundles。\n【出處】（08）共筆Vol.9 P.38,39,54",
+        "description": ""
+    },
+    {
+        "num": "b08_04",
+        "path": "b08/b08_04.webp",
+        "answer": [
+            "Mast cell",
+            "metachromasia"
+        ],
+        "explanation": "圖中採用的染劑為toluidine blue，應將細胞染為藍色，但此細胞卻被染為紅色，也可觀察出細胞中含有許多顆粒，此為mast cell的特徵。\n而toluidine blue因染上mast cell中大量的陰離子，使得染劑結構變大，改變折光率，因此變為紅色，此現象稱為metachromasia。\n【出處】（08）共筆Vol.4 P.19,20,46",
+        "description": ""
+    },
+    {
+        "num": "b08_05",
+        "path": "b08/b08_05.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "大小與紅血球差不多，且核質比很大，幾乎看不見細胞質。\n【出處】共筆Vol.3 P.11,16,30,33",
+        "description": "黃色箭頭所指的是何種細胞？"
+    },
+    {
+        "num": "b08_06",
+        "path": "b08/b08_06.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "此為EM下的影像，箭頭所指的構造縱切呈現管狀，橫切面則可明顯發現由9×3的管狀構造構成，即可知此構造為centriole。（只指一個為centriole）\n【出處】共筆Vol.1 P.43,44",
+        "description": "箭頭所指構造名稱？"
+    },
+    {
+        "num": "b08_07",
+        "path": "b08/b08_07.webp",
+        "answer": [
+            "silver stain"
+        ],
+        "explanation": "Neural process在一般染色下不易觀察（因富含intermediate filaments），需透過重金屬染色來觀察。\n【出處】（08）共筆Vol.6 P.36",
+        "description": "下圖使用的是哪一種染色方式？"
+    },
+    {
+        "num": "b08_08",
+        "path": "b08/b08_08.webp",
+        "answer": [
+            "Huxley’s layer",
+            "cuticle"
+        ],
+        "explanation": "此圖為Hair follicle橫切面，由內而外為medulla、cortex、cuticle、Huxley’s layer、Henle’s layer、ERS、glassy membrane。Huxley’s layer含Trichohyaline granules，會被染成深紅色點；cuticle為帶有黑色素的cortex外圍之透明構造。\n【出處】（08）共筆Vol.8 P.21,42",
+        "description": "寫出Ａ、Ｂ所指構造名稱？"
+    },
+    {
+        "num": "b08_09",
+        "path": "b08/b08_09.webp",
+        "answer": [
+            "Cornified stratified squamous epithelium",
+            "Epidermis",
+            "Dense irregular tissue",
+            "Reticular layer of dermis"
+        ],
+        "explanation": "Epidermis上方有一層淡粉色透明角質層，所以是cornified；Dermis由上往下可分為Papillary layer與Reticular layer，前者屬loose CNT，後者為dense irregular CNT。\n【出處】（08）共筆Vol.8 P.9",
+        "description": "A、B所指構造名稱？"
+    },
+    {
+        "num": "b08_10",
+        "path": "b08/b08_10.webp",
+        "answer": [
+            "multipolar neuron",
+            "Sympathetic ganglion"
+        ],
+        "explanation": "【出處】（08）共筆Vol.6 P.38",
+        "description": "寫出視野所見細胞名稱？"
+    },
+    {
+        "num": "b08_11",
+        "path": "b08/b08_11.webp",
+        "answer": [
+            "Fibrous cartilage"
+        ],
+        "explanation": "Chondrocyte在collagen bundles之間排列成鏈狀，周圍有lacuna。\n【出處】共筆Vol.4 P.9, 38",
+        "description": "寫出組織名稱？"
+    },
+    {
+        "num": "b08_12",
+        "path": "b08/b08_12.webp",
+        "answer": [
+            "Brown adipose tissue",
+            "White adipose tissue"
+        ],
+        "explanation": "圖中L代表lipid，A圖中央白色構造為細胞核，依比例可知周圍的油滴分佈於同一個細胞內，且該細胞內含有許多粒線體（圖中灰黑色小顆粒），為brown adipose tissue的特徵。B圖則可看見細胞被一個巨大的油滴佔滿，且核被擠到邊緣，為white adipose tissue的特徵。\n【出處】（08）共筆Vol.4 P.22,23",
+        "description": "A、B分別為什麼組織？"
+    },
+    {
+        "num": "b08_13",
+        "path": "b08/b08_13.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cells"
+        ],
+        "explanation": "每個細胞都接觸到basement membrane，細胞核在同一水平面且較靠近BM。細胞表面有一層淡粉色、分不出細絲狀的構造，為microvilli，白色空泡狀細胞為goblet cells。\n【出處】共筆Vol.2 P.5,14; Vol.3 P.17,18,19",
+        "description": "黃色框框組織名稱？"
+    },
+    {
+        "num": "b08_14",
+        "path": "b08/b08_14.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "Cilia為9*2+2的構造，中央可見一條黑黑的線，其下方為basal body，為9*3的構造。\n【出處】共筆Vol.1 P.45, Vol.2 P.21",
+        "description": "箭頭所指構造名稱？"
+    },
+    {
+        "num": "b08_15",
+        "path": "b08/b08_15.webp",
+        "answer": [
+            "sebaceous gland",
+            "Arrector pili muscle"
+        ],
+        "explanation": "Sebaceous gland位於hair follicle上端1/3處的旁邊，內有多個小油滴，且細胞核位於油滴正中央，為與一般脂肪細胞不同之處；sebaceous gland旁常常可見之平滑肌束為Arrector pili muscle\n【出處】（08）共筆Vol.8 P.24~27, 40",
+        "description": "寫出A、B所指構造名稱？"
+    },
+    {
+        "num": "b08_16",
+        "path": "b08/b08_16.webp",
+        "answer": [
+            "A"
+        ],
+        "explanation": "【出處】（08）共筆Vol.7 P.21",
+        "description": ""
+    },
+    {
+        "num": "b08_17",
+        "path": "b08/b08_17.webp",
+        "answer": [
+            "TEM",
+            "mitochondria",
+            "SEM",
+            "mitochondria"
+        ],
+        "explanation": "A圖為TEM下的視野，可見雙層膜狀構造及cristae，為粒線體；B圖較有立體感，為SEM的視野，可見胞器內有許多由內膜向內凹折的構造，為粒線體的特徵。\n【出處】共筆Vol.1 P.6,37~38",
+        "description": "A、B分別為何種顯微鏡下的視野？分別為何種胞器？"
+    },
+    {
+        "num": "b08_18",
+        "path": "b08/b08_18.webp",
+        "answer": [
+            "Plasma cell",
+            "製造抗體"
+        ],
+        "explanation": "此為plasma cell分布於組織間微血管的視野，其核為車輪狀（外圍有heterochromatin，中間有nucleolus），且核被發達的golgi擠到細胞邊邊。\n【出處】（08）共筆Vol.4 P.21,43",
+        "description": "箭頭所指細胞名稱？執行什麼功能？"
+    },
+    {
+        "num": "b08_19",
+        "path": "b08/b08_19.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "為副睪和內耳毛細胞特有構造，長短不一不規則狀。\n【出處】共筆Vol.2 P.7",
+        "description": "這是什麼組織？"
+    },
+    {
+        "num": "b08_20",
+        "path": "b08/b08_20.webp",
+        "answer": [
+            "Tunica media"
+        ],
+        "explanation": "為Aorta中間那層，最厚，富含elastic membrane。\n【出處】共筆Vol.9 P.21, 44",
+        "description": "此構造名稱？"
+    },
+    {
+        "num": "b08_21",
+        "path": "b08/b08_21.webp",
+        "answer": [
+            "Compact bone",
+            "skeletal muscle"
+        ],
+        "explanation": "左邊為Decalcified的compact bone，可見Osteon和Osteocyte。\n右邊為Skeletal muscle，多核、核在邊緣。\n【出處】共筆Vol.2 P.43, Vol.5 P.15",
+        "description": "左右兩邊是什麼組織名稱？"
+    },
+    {
+        "num": "b08_22",
+        "path": "b08/b08_22.webp",
+        "answer": [
+            "上：skeletal muscle 下：tendon",
+            "skeletal muscle tendon"
+        ],
+        "explanation": "上方組織多核、有橫紋、核位於邊緣，為骨骼肌。\n下方組織核長條狀、無橫紋、核位於細胞中央、不規則Fiber多，為Dense regular CT。\n【出處】共筆Vol.2 P.54",
+        "description": "上下分別為何種組織？"
+    },
+    {
+        "num": "b08_23",
+        "path": "b08/b08_23.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圖中箭頭所指的細胞較大、多核、顏色偏紅，為蝕骨細胞。\n【出處】共筆Vol.4 P.23",
+        "description": "箭頭指的是何種細胞？"
+    },
+    {
+        "num": "b08_24",
+        "path": "b08/b08_24.webp",
+        "answer": [
+            "Elastic cartilage",
+            "Elastic cartilage"
+        ],
+        "explanation": "兩者皆為 Elastic cartilage，左邊為Orcein染色，右邊為Verhoeff”s Hematoxylin染色。\n【出處】共筆Vol.4 P.8, 36",
+        "description": "左右分別為何種組織？"
+    },
+    {
+        "num": "b08_25",
+        "path": "b08/b08_25.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "圖中圈選的組織散布在空腔內，如一串葡萄的形狀。其中的細胞緊密連結，包裹中央的管腔，為choroid plexus的特徵。\n【出處】08共筆Vol.7 P.16",
+        "description": "寫出虛線所圈之構造名稱？"
+    },
+    {
+        "num": "b08_26",
+        "path": "b08/b08_26.webp",
+        "answer": [
+            "Lysosome"
+        ],
+        "explanation": "為TEM下的Lysosome。\n【出處】共筆Vol.1 P.32, 33",
+        "description": "寫出箭號所指之構造名稱？"
+    },
+    {
+        "num": "b08_27",
+        "path": "b08/b08_27.webp",
+        "answer": [
+            "smooth muscle / contraction"
+        ],
+        "explanation": "平滑肌收縮，形成contraction band。\n【出處】共筆Vol.2 P.70",
+        "description": "何種組織？正在做什麼？"
+    },
+    {
+        "num": "b08_28",
+        "path": "b08/b08_28.webp",
+        "answer": [
+            "Pseudounipolar neuron",
+            "DRG",
+            "spinal ganglion"
+        ],
+        "explanation": "核位於中央、胞外有satellite cell、Cell body聚集，為 DRG。\n【出處】08共筆Vol.6 P.27",
+        "description": "箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b08_29",
+        "path": "b08/b08_29.webp",
+        "answer": [
+            "Cilia",
+            "Basal Body"
+        ],
+        "explanation": "圖中所見之組織乍看下為多層上皮，但實際上為含有basal cell的pseudostratified columnar epithelium。而黃色箭頭所指之構造，在LM下較為整齊，且可分辨出一絲一絲的結構，為cilia的特徵。而在cilia下方，呈現深色的一條細線則為basal body，作為axoneme的發生和固著點。\n【出處】共筆Vol.2 P20-22",
+        "description": "黃色箭頭結構名稱？紅色箭頭所指深紅色線之名稱？"
+    },
+    {
+        "num": "b08_30",
+        "path": "b08/b08_30.webp",
+        "answer": [
+            "Node of Ranvier"
+        ],
+        "explanation": "此圖為osmic acid染色的神經組織。圖中的組織含有許多長條狀的構造，為神經的myelin sheaths，而箭頭所指處，即為兩個myelin sheaths之間的間隔，即為node of Ranvier。\n【出處】08共筆Vol.6 P.44",
+        "description": "箭頭所指構造？"
+    },
+    {
+        "num": "b08_31",
+        "path": "b08/b08_31.webp",
+        "answer": [
+            "Smooth muscle",
+            "Dense irregular connective tissue"
+        ],
+        "explanation": "左邊核呈紡錘型、細胞間排列緊密，為平滑肌。\n右邊Fiber多、排列緊密但不規則，為Dense irregular CT。\n【出處】共筆Vol.2 P.65, 08Vol.4 P.27",
+        "description": "左邊組織名稱？右邊組織名稱？"
+    },
+    {
+        "num": "b08_32",
+        "path": "b08/b08_32.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "Cell大、馬蹄形核，為Monocyte。\n【出處】共筆Vol.3 P.12",
+        "description": "箭頭所指構造？"
+    },
+    {
+        "num": "b08_33",
+        "path": "b08/b08_33.webp",
+        "answer": [
+            "Elastic lamellae",
+            "membrane"
+        ],
+        "explanation": "為辨識Elastic a.、Muscular a.之重要Landmark，富含Elastic fiber，可被Orcein特殊染色。\n【出處】08共筆Vol.9 P.21-23",
+        "description": "深色線條構造名稱？"
+    },
+    {
+        "num": "b08_34",
+        "path": "b08/b08_34.webp",
+        "answer": [
+            "Mitochondrion"
+        ],
+        "explanation": "TEM下的粒線體。\n【出處】共筆Vol.1 P.37-39",
+        "description": "此構造名稱？"
+    },
+    {
+        "num": "b08_35",
+        "path": "b08/b08_35.webp",
+        "answer": [
+            "Satellite cell"
+        ],
+        "explanation": "Satellite cell圍繞在DRG cell body（Sympathetic ganglion也有）旁。\n【出處】08共筆Vol.6 P.27",
+        "description": "箭頭所指細胞名稱？"
+    }
+]

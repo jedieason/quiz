@@ -1,0 +1,35 @@
+:root {
+    /* Material 3 Light Mode Tokens */
+    --md-sys-color-primary: #6D8A96;
+    --md-sys-color-primary-rgb: 109, 138, 150;
+    --md-sys-color-on-primary: #FFFFFF;
+    --md-sys-color-primary-container: #E7EEF1;
+    --md-sys-color-on-primary-container: #051F26;
+    --md-sys-color-secondary: #5A7580;
+    --md-sys-color-on-secondary: #FFFFFF;
+    --md-sys-color-surface: #FFFFFF;
+    --md-sys-color-on-surface: #1F1F1F;
+    --md-sys-color-surface-container: #FFFFFF;
+    --md-sys-color-outline: #70797C;
+    --md-sys-color-outline-rgb: 112, 121, 124;
+    --md-sys-color-error: #BA1A1A;
+
+    /* Legacy Variable Mappings */
+    --bg-primary: var(--md-sys-color-surface);
+    --bg-secondary: #FFFFFF;
+    --text-primary: var(--md-sys-color-on-surface);
+    --text-secondary: #5F6368;
+    --text-muted: #70757A;
+    --heading-color: #202124;
+    --border-primary: #DADCE0;
+    --border-secondary: #BDC1C6;
+    --accent-blue: var(--md-sys-color-primary);
+    --accent-blue-hover: #5A7580;
+    --accent-green: #5A7580;
+    --accent-orange: #FBBC04;
+    --accent-red: #EA4335;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --focus-ring: rgba(109, 138, 150, 0.25);
+    --modal-bg: #FFFFFF;
+    --card-answer-bg: rgba(248, 249, 250, 0.95);
+}

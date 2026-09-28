@@ -1,0 +1,201 @@
+[
+    {
+        "num": "B10_1",
+        "path": "B10/B10_1.webp",
+        "answer": [
+            "Tibialis anterior m."
+        ],
+        "explanation": "其外側與 extensor digitorum longus 之間有 ant. tibial a.和 deep fibular n.。",
+        "description": ""
+    },
+    {
+        "num": "B10_2",
+        "path": "B10/B10_2.webp",
+        "answer": [
+            "Posterior cruciate ligament"
+        ],
+        "explanation": "從內上前連到外下後，較強，防止膝關節過度伸展。",
+        "description": ""
+    },
+    {
+        "num": "B10_3",
+        "path": "B10/B10_3.webp",
+        "answer": [
+            "Submandibular duct"
+        ],
+        "explanation": "注意不要寫成 lingual n.。從 submandibular duct 的外側進到內側往舌頭走去，有個十字交叉。",
+        "description": ""
+    },
+    {
+        "num": "B10_4",
+        "path": "B10/B10_4.webp",
+        "answer": [
+            "hyoglossus m."
+        ],
+        "explanation": "從 hyoid 連到 side of tongue，由 hypoglossal n.支配。為 tongue 的 retractor & depressor。",
+        "description": ""
+    },
+    {
+        "num": "B10_5",
+        "path": "B10/B10_5.webp",
+        "answer": [
+            "Levator veli palatini m."
+        ],
+        "explanation": "在耳咽管正下方，從 nasopharynx 看，只是肌肉有被切斷。",
+        "description": ""
+    },
+    {
+        "num": "B10_6",
+        "path": "B10/B10_6.webp",
+        "answer": [
+            "Chorda tympani n."
+        ],
+        "explanation": "從中耳走到臉側邊。包含 otic ganglion, Lingual nerve, Mandibular nerve 等分支關係細節。",
+        "description": ""
+    },
+    {
+        "num": "B10_7",
+        "path": "B10/B10_7.webp",
+        "answer": [
+            "descending palatine artery"
+        ],
+        "explanation": "會與 greater palatine n.和 lesser palatine n.並行。出處：Rohen atlas 8e p.149",
+        "description": ""
+    },
+    {
+        "num": "B10_8",
+        "path": "B10/B10_8.webp",
+        "answer": [
+            "Hypoglossal n."
+        ],
+        "explanation": "往前走在 ECA 外側，勾住 occipital a.。進入口腔後走在 hyoglossus 外側，口腔偏下側。",
+        "description": ""
+    },
+    {
+        "num": "B10_9",
+        "path": "B10/B10_9.webp",
+        "answer": [
+            "Mylohyoid n.",
+            "n. to mylohyoid"
+        ],
+        "explanation": "來自 inferior alveolar n.快要進入 mandibular foramen 時的分支，支配 mylohyoid m.。",
+        "description": ""
+    },
+    {
+        "num": "B10_10",
+        "path": "B10/B10_10.webp",
+        "answer": [
+            "Maxillary nerve"
+        ],
+        "explanation": "7 號孔洞根據位置可判斷為 foramen rotundum，而通過它的構造為 maxillary n. (CN V2)。",
+        "description": ""
+    },
+    {
+        "num": "B10_11",
+        "path": "B10/B10_11.webp",
+        "answer": [
+            "Middle meningeal a."
+        ],
+        "explanation": "可以清楚看到被 auriculotemporal n.包住。圖中有出現 accessory meningeal a.。",
+        "description": ""
+    },
+    {
+        "num": "B10_12",
+        "path": "B10/B10_12.webp",
+        "answer": [
+            "Auriculotemporal n."
+        ],
+        "explanation": "infratemporal fossa 往後往外往上走的神經。畫面中也可看到 middle meningeal a.。",
+        "description": ""
+    },
+    {
+        "num": "B10_13",
+        "path": "B10/B10_13.webp",
+        "answer": [
+            "Vocal fold"
+        ],
+        "explanation": "包含 Epiglottis, Vestibule, Ventricle 等 10 項喉部構造細節。",
+        "description": ""
+    },
+    {
+        "num": "B10_17",
+        "path": "B10/B10_17.webp",
+        "answer": [
+            "Nerve of pterygoid canal"
+        ],
+        "explanation": "該孔洞為 Sphenoid bone 上的 pterygoid canal。神經往前連到 pterygopalatine ganglion。",
+        "description": ""
+    },
+    {
+        "num": "B10_18",
+        "path": "B10/B10_18.webp",
+        "answer": [
+            "Lateral pterygoid m."
+        ],
+        "explanation": "由 TMJ 走向 greater wing of sphenoid (upper head)，或走向 lateral pterygoid 之 lateral side (lower head)。",
+        "description": ""
+    },
+    {
+        "num": "B10_19",
+        "path": "B10/B10_19.webp",
+        "answer": [
+            "Incus"
+        ],
+        "explanation": "位於 tympanic cavity 的三小聽骨。此為右耳，右邊似乎把外耳道切開了。",
+        "description": ""
+    },
+    {
+        "num": "B10_20",
+        "path": "B10/B10_20.webp",
+        "answer": [
+            "CN9.10.11"
+        ],
+        "explanation": "此箭頭所指為 Jugular foramen，CN9.10.11 皆可。",
+        "description": ""
+    },
+    {
+        "num": "B10_21",
+        "path": "B10/B10_21.webp",
+        "answer": [
+            "Saphenous n."
+        ],
+        "explanation": "Femoral n.的分支。Saphenous n.在 medial 側非常長，與 Femoral a.&v.伴行並穿過 adductor canal。",
+        "description": ""
+    },
+    {
+        "num": "B10_24",
+        "path": "B10/B10_24.webp",
+        "answer": [
+            "Fibular artery"
+        ],
+        "explanation": "Leg 的 posterior view，走在 lateral side 的 artery，由 Posterior tibial a.分出。",
+        "description": ""
+    },
+    {
+        "num": "B10_25",
+        "path": "B10/B10_25.webp",
+        "answer": [
+            "Hyoid bone"
+        ],
+        "explanation": "口腔附近，在 mandible bone(上)與 vertebrae(下)之間，為 oropharynx 和 laryngopharynx 的界線。",
+        "description": ""
+    },
+    {
+        "num": "B10_26",
+        "path": "B10/B10_26.webp",
+        "answer": [
+            "Pes anserinus"
+        ],
+        "explanation": "Sartorius, gracilis, semitendinosus 的 common insertion，保護膝關節內側。",
+        "description": ""
+    },
+    {
+        "num": "B10_27",
+        "path": "B10/B10_27.webp",
+        "answer": [
+            "Fibularis longus tendon"
+        ],
+        "explanation": "從 lateral fibula 上 2/3 繞過 lateral malleolus 後方。形成足底交叉，維持足弓。",
+        "description": ""
+    }
+]

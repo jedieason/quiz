@@ -1,0 +1,329 @@
+[
+    {
+        "num": "b10_01",
+        "path": "b10/b10_01.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "運動神經軸突連接骨骼肌之處為 motor end plate",
+        "description": "請寫出箭頭所指的構造為何?"
+    },
+    {
+        "num": "b10_02",
+        "path": "b10/b10_02.webp",
+        "answer": [
+            "B"
+        ],
+        "explanation": "B可見許多process，為白質",
+        "description": "請問A, B哪一個區域是白質?"
+    },
+    {
+        "num": "b10_03",
+        "path": "b10/b10_03.webp",
+        "answer": [
+            "Mixed bone",
+            "Mixed trabeculae",
+            "spicule"
+        ],
+        "explanation": "Spicule由軟骨轉換而來，可同時看見殘留的軟骨與新生成的硬骨，其染色特性不同",
+        "description": "圍起來的構造名稱為何?"
+    },
+    {
+        "num": "b10_04",
+        "path": "b10/b10_04.webp",
+        "answer": [
+            "heterochromatin"
+        ],
+        "explanation": "細胞核外圍為深染的heterochromatin，中間為核仁，之間的淺色區域為euchromatin",
+        "description": "請寫出箭頭所指的構造"
+    },
+    {
+        "num": "b10_05",
+        "path": "b10/b10_05.webp",
+        "answer": [
+            "plasma cell 分泌抗體"
+        ],
+        "explanation": "橢圓形的細胞細胞核偏一邊，這是 plasma cell，功能是分泌抗體",
+        "description": "請問圖中箭頭所指細胞為何？它的功能是什麼？"
+    },
+    {
+        "num": "b10_06",
+        "path": "b10/b10_06.webp",
+        "answer": [
+            "A：white adipocyte B：brown adipocyte",
+            "white adipocyte brown adipocyte"
+        ],
+        "explanation": "Brown adipocyte：核在細胞中間，一細胞質含有多個脂肪油滴。White adipocyte ： 胞內儲藏的油滴會融合成一個大的脂肪油滴，而將細胞核、細胞質及其他胞器擠至細胞邊緣，因此細胞核呈扁平，且只有少少的胞器。",
+        "description": "下面兩者分別是哪種脂肪細胞？"
+    },
+    {
+        "num": "b10_07",
+        "path": "b10/b10_07.webp",
+        "answer": [
+            "Node of Ranvier"
+        ],
+        "explanation": "圖為被隨翹包覆的神經突觸，箭頭所指處髓鞘中斷，是髓鞘細胞之間裸露出的部分，即 Node of Ranvier ",
+        "description": "請寫出黃色箭頭指的組織確切名稱"
+    },
+    {
+        "num": "b10_08",
+        "path": "b10/b10_08.webp",
+        "answer": [
+            "Nucleolus"
+        ],
+        "explanation": "細胞中大白圓為細胞核，核中高電賀密度的黑色部分為核仁(Nucleolus)",
+        "description": "請問以下箭頭所指的構造為何？"
+    },
+    {
+        "num": "b10_09",
+        "path": "b10/b10_09.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereo cilia"
+        ],
+        "explanation": "看似多層細胞,但其實細胞均位於 basement membrane 上,可知道是 pseudostratified columnar epithelium,其上可見一根根稀疏的構造,因判斷為stereo cilia(microvilli 只會是地毯狀)",
+        "description": "圖中是什麼構造？"
+    },
+    {
+        "num": "b10_10",
+        "path": "b10/b10_10.webp",
+        "answer": [
+            "choroid plexus"
+        ],
+        "explanation": "可見一串葡萄狀構造 , 為choroid plexus, 緊密排列的 ependymal cells 包著血管與 loose CNT",
+        "description": "請問虛線圈起處的構造名稱為何？"
+    },
+    {
+        "num": "b10_11",
+        "path": "b10/b10_11.webp",
+        "answer": [
+            "basal body"
+        ],
+        "explanation": "突出物為 cilium,而下方則是 basal body",
+        "description": "黃色箭頭下構造為何？"
+    },
+    {
+        "num": "b10_12",
+        "path": "b10/b10_12.webp",
+        "answer": [
+            "elastic membrane",
+            "muscular artery"
+        ],
+        "explanation": "和 vein 的差別是 tunica media 很厚,和 elastic artery 的差別在intima 的 subendothelial CNT 很薄,media 的 elastin 比較少,smooth muscle 多,其實看管徑大小差很多就知道了",
+        "description": "這是什麼構造，圖中深色線是什麼東西"
+    },
+    {
+        "num": "b10_13",
+        "path": "b10/b10_13.webp",
+        "answer": [
+            "Astrocyte"
+        ],
+        "explanation": "此為存在於 CNS 白質中的 fibrous astrocyte，process 較細長、分岔較少，經由 silver stain 呈黑色",
+        "description": "此為何種細胞？"
+    },
+    {
+        "num": "b10_14",
+        "path": "b10/b10_14.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "在 TEM 下形成像一疊平板的扁囊",
+        "description": "此為何種構造？"
+    },
+    {
+        "num": "b10_15",
+        "path": "b10/b10_15.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cells",
+            "striated border"
+        ],
+        "explanation": "細胞核整齊、接近 basement membrane，管腔側有地毯狀的構造為 microvilli，此外有空泡狀的分泌細胞存在於 columnar cell 之間、即為 goblet cell",
+        "description": "視野範圍中之組織名稱？"
+    },
+    {
+        "num": "b10_16",
+        "path": "b10/b10_16.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "兩到三倍紅血球大，核明顯凹陷呈馬蹄形",
+        "description": "此為何種細胞？"
+    },
+    {
+        "num": "b10_17",
+        "path": "b10/b10_17.webp",
+        "answer": [
+            "Multipolar neuron"
+        ],
+        "explanation": "此為silver stain 下的 multipolar neuron，細胞體積大、多角形，可見Nissl bodies, cell body 周圍無satellite cells，是spinal cord 之multipolar neuron，屬於motor neuron，若周圍有satellite cells，應該是位於sympathetic trunk",
+        "description": "請問箭頭指的是甚麼細胞"
+    },
+    {
+        "num": "b10_18",
+        "path": "b10/b10_18.webp",
+        "answer": [
+            "A:Dense irregular connective tissue B:Smooth muscle",
+            "Dense irregular connective tissue Smooth muscle"
+        ],
+        "explanation": "此張圖像素較低，不易判斷，但主要可以觀察到上方Fiber多、排列緊密但不規則，因此為Dense irregular CT下方細胞核為紡錘型、細胞排列更緊密，為Smooth muscle",
+        "description": "分別寫出A與B之組織名稱"
+    },
+    {
+        "num": "b10_19",
+        "path": "b10/b10_19.webp",
+        "answer": [
+            "Fenestrated capillary"
+        ],
+        "explanation": "此電子顯微鏡照片中，可見由一層細胞圍成一個腔，應該是微血管，更能看到其內皮細胞出現許多洞，在EM下凹凸不平，都是fenestrated capillary的特徵",
+        "description": "請問以下為什麼構造"
+    },
+    {
+        "num": "b10_20",
+        "path": "b10/b10_20.webp",
+        "answer": [
+            "Zone of proliferation"
+        ],
+        "explanation": "此為典型Endochondral ossification，從上到下分別為Zone of reserve cartilage, proliferation, hypertrophy, cartilage calcification",
+        "description": "請問以下的區域被稱為（紅色箭頭）"
+    },
+    {
+        "num": "b10_21",
+        "path": "b10/b10_21.webp",
+        "answer": [
+            "External elastic lamella",
+            "External elastic membrane"
+        ],
+        "explanation": "Muscular artery，此為Weigert’s resorcin-fuchsin stain，將internal 及external 染成黑色，其中tunica media和tunica adventitia交界處為external elastic lamella",
+        "description": "寫出右側箭頭所指構造(特殊染色) Be specific"
+    },
+    {
+        "num": "b10_22",
+        "path": "b10/b10_22.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "此為血液抹片，細胞呈藍紫色，顆粒多，覆蓋住細胞核，為basophil",
+        "description": "請寫出下圖細胞名稱"
+    },
+    {
+        "num": "b10_23",
+        "path": "b10/b10_23.webp",
+        "answer": [
+            "Intramembranous ossification"
+        ],
+        "explanation": "成骨方式分為intramembranous bone formation和endochondral bone formation，此圖為 intramembranous bone formation",
+        "description": "下圖是哪一種bone formation"
+    },
+    {
+        "num": "b10_24",
+        "path": "b10/b10_24.webp",
+        "answer": [
+            "Purkinje cell of cerebellum"
+        ],
+        "explanation": "箭頭所指細胞大，顏色偏紅，細胞成錐狀，可看到細胞有許多process往外深，為Purkinje cell的特徵",
+        "description": "箭頭所指為何種細胞?"
+    },
+    {
+        "num": "b10_25",
+        "path": "b10/b10_25.webp",
+        "answer": [
+            "A:Skeletal muscle/B:Tendon",
+            "A:skeletal muscle/B:dense regular connective tissue"
+        ],
+        "explanation": "A 為細胞核在邊緣的骨骼肌。B 為 dense regular connective tissue 的縱切面,可能為 tendon。",
+        "description": "請問A、B分別為甚麼構造？(A:(A構造)/B:(B構造))"
+    },
+    {
+        "num": "b10_26",
+        "path": "b10/b10_26.webp",
+        "answer": [
+            "Large Vein"
+        ],
+        "explanation": "可分出 tunica intima、tunica media、tunica adventitia 三層。其中tunica intima 非常薄,tunica media 中可觀察到環走縱切(l.s.)的 smooth muscle,tunica adventitia 中則可觀察到一束束縱走橫切(c.s.)的 smooth muscle,其間淡粉色帶狀分布者為 collagen fiber。Large vein 的 tunica adventitia 比 tunica media 厚很多。",
+        "description": " 請問下圖視野為何種血管？"
+    },
+    {
+        "num": "b10_27",
+        "path": "b10/b10_27.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "和 RBC 差不多大小,深藍色細胞核很大,天藍色的細胞質很\n 少,沒有什麼顆粒(和 basophil 區分)",
+        "description": "寫出下圖中央所指的細胞名稱？"
+    },
+    {
+        "num": "b10_28",
+        "path": "b10/b10_28.webp",
+        "answer": [
+            "Stratified Cuboidal Epithelium"
+        ],
+        "explanation": "多層(通常兩層),可以看到部分細胞沒有貼在 basement\nmembrane 上。最表層近似正方形",
+        "description": "請問下圖所指的組織結構為何？"
+    },
+    {
+        "num": "b10_29",
+        "path": "b10/b10_29.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "表面的毛比 cilia 長，且長短不一，毛與毛間的間隔長，呈一束一束狀，似 許多毛筆尖，為 stereocilia",
+        "description": "請問下圖所指的組織結構為何？"
+    },
+    {
+        "num": "b10_30",
+        "path": "b10/b10_30.webp",
+        "answer": [
+            "A: skeletal muscle B: tendon",
+            "skeletal muscle tendon"
+        ],
+        "explanation": "此為muscle-tendon junction, 上方箭頭可見橫紋故為skeletal muscle, 下方箭頭可見fibroblast,且排列緊密為tendon(或dense regular connective tissue)",
+        "description": "請問下圖所指的組織結構為何？A:上面箭頭 B:下面箭頭"
+    },
+    {
+        "num": "b10_31",
+        "path": "b10/b10_31.webp",
+        "answer": [
+            "A:cardiac muscle B:smooth muscle",
+            "cardiac muscle smooth muscle"
+        ],
+        "explanation": "Ａ：細胞會分岔，心間盤，有橫紋，故為cardiac muscleＢ：細胞和在中間，紡錘形",
+        "description": "請問下圖所指的組織結構為何？"
+    },
+    {
+        "num": "b10_32",
+        "path": "b10/b10_32.webp",
+        "answer": [
+            "basal body Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "看起來像多層，但最下層的 basal cells 是間隔出現，有的地方有、有的地方沒有，上方細胞皆有連接到 basement membrane，所以是 pseudostratified columnar epithelium cilia比 microvilli 長且比 stereocilia 整齊 ，cilia 底部有 electron dense 的構造，為 basal body",
+        "description": "請問下圖所指的組織結構為何？紅色箭頭為何"
+    },
+    {
+        "num": "b10_33",
+        "path": "b10/b10_33.webp",
+        "answer": [
+            "A:hyaline cartilage B:elastic cartilage",
+            "hyaline cartilage elastic cartilage"
+        ],
+        "explanation": "A: 1. 可見空腔狀結構 lacuna，內有軟骨細胞(chondrocyte)。 2. 每 3 到 5 個 lacunae 形成一個 isogenic group。B: Orcein stains 染 elastic fibers 呈現棕色，為特殊染色，且可見到 lacuna 中間有細胞，推測是軟骨組織。",
+        "description": "寫出A和B兩張圖片中的組織名稱？"
+    },
+    {
+        "num": "b10_34",
+        "path": "b10/b10_34.webp",
+        "answer": [
+            "vasa vasorum/tunica adventitia"
+        ],
+        "explanation": "在血管分層中最外層的為 tunica adventitia，其中可能有 vasa vasorum 幫忙運輸養分及廢物",
+        "description": "請寫出框框內的是什麼東西，還有箭頭標示的整個區域名稱(格式:框框內結構/雙箭頭所指全區域)"
+    },
+    {
+        "num": "b10_35",
+        "path": "b10/b10_35.webp",
+        "answer": [
+            "A:cornified stratified squamous epithelium B:dense irregular CNT",
+            "cornified stratified squamous epithelium dense irregular CNT"
+        ],
+        "explanation": "Epidermis 上方有一層淡粉色透明角質層，所以是 cornified; Dermis 由上往下可分為 Papillary layer 與 Reticular layer，前者 屬 loose CNT，後者為 dense irregular CNT",
+        "description": "請寫出AB分別是什麼組織？"
+    }
+]

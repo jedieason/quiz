@@ -1,0 +1,282 @@
+[
+    {
+        "num": "b09lab_01",
+        "path": "b09lab/b09lab_01.webp",
+        "answer": [
+            "Cribriform plate"
+        ],
+        "explanation": "Cribriform plate 位在 anterior cranial fossa，上面都是洞的板狀物就 是 Cribriform plate",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_02",
+        "path": "b09lab/b09lab_02.webp",
+        "answer": [
+            "Trochlea of humerus"
+        ],
+        "explanation": "Trochlea of humerus 為 posterior view of distal end of humerus。凹窩為 Olecranon fossa",
+        "description": "箭頭所指構造？"
+    },
+    {
+        "num": "b09lab_03",
+        "path": "b09lab/b09lab_03.webp",
+        "answer": [
+            "Lamina"
+        ],
+        "explanation": "Lamina 觀察到它位在脊椎骨的 transverse process跟spinous process 之間，應該是 Lamina。Pedicle 是articular process 跟 body 中間那一段，兩者在此圖中有相當距離。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_04",
+        "path": "b09lab/b09lab_04.webp",
+        "answer": [
+            "Occipital condyle of Occipital Bone"
+        ],
+        "explanation": "Occipital condyle 接上 atlas",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_05",
+        "path": "b09lab/b09lab_05.webp",
+        "answer": [
+            "Medial malleolus"
+        ],
+        "explanation": "Medial malleolus 由形狀可知此為脛骨（Tibia）構成踝關節（ankle joint）之處 。",
+        "description": "請問14號結構是？"
+    },
+    {
+        "num": "b09lab_06",
+        "path": "b09lab/b09lab_06.webp",
+        "answer": [
+            "Thoracic vertebra"
+        ],
+        "explanation": "Thoracic vertebra 脊椎本體（Vertebral body）有和肋骨相接用的 costal demifacet；而胸椎（Thoracic vertebrae）上下節的接觸面為垂直地前後平行（相較頸椎是水平地上下平行，活動度會較低；此外，胸椎的Vertebral foramen 較圓而小。",
+        "description": "請問此構造為何（be specific）？"
+    },
+    {
+        "num": "b09lab_07",
+        "path": "b09lab/b09lab_07.webp",
+        "answer": [
+            "Manubrium of sternum"
+        ],
+        "explanation": "Manubrium of sternum 1.最上緣位於正中的凹陷稱為 jugular notch。2.上方的左右兩側各有一個凹陷， 用來連接鎖骨（clavicle）。第一肋骨（R1）的關節處位在鎖骨關節處的下 方。",
+        "description": "這是什麼骨頭？"
+    },
+    {
+        "num": "b09lab_08",
+        "path": "b09lab/b09lab_08.webp",
+        "answer": [
+            "Surgical neck"
+        ],
+        "explanation": "Surgical neck of humerus 易因過度受力而斷裂。此處有 axillary nerve 與 posterior circumferential humeral arteries 經過",
+        "description": "請寫出標示的構造"
+    },
+    {
+        "num": "b09lab_09",
+        "path": "b09lab/b09lab_09.webp",
+        "answer": [
+            "Alveolar process of maxilla"
+        ],
+        "explanation": "Alveolar process of maxilla 不論是上顎還是下顎，長出牙齒的就稱為 alveolar process。記得標明它在上顎（Maxilla）上。",
+        "description": "下列標成綠色的構造為何（be specific）"
+    },
+    {
+        "num": "b09lab_10",
+        "path": "b09lab/b09lab_10.webp",
+        "answer": [
+            "Anterior clinoid process"
+        ],
+        "explanation": "Anterior clinoid process為 lesser wing 往後方延伸的兩根突起",
+        "description": "綠色構造為？"
+    },
+    {
+        "num": "b09lab_11",
+        "path": "b09lab/b09lab_11.webp",
+        "answer": [
+            "Glenoid cavity"
+        ],
+        "explanation": "Glenoid cavity of left scapula",
+        "description": "紅色構造為？"
+    },
+    {
+        "num": "b09lab_12",
+        "path": "b09lab/b09lab_12.webp",
+        "answer": [
+            "Styloid process of radius"
+        ],
+        "explanation": "Styloid process:為 distal end 末端的突起（複習: ulna 上也有一個;另外頭頸部那章也有一個同名 process）",
+        "description": "請問7號結構是？"
+    },
+    {
+        "num": "b09lab_13",
+        "path": "b09lab/b09lab_13.webp",
+        "answer": [
+            "Brachiocephalic trunk"
+        ],
+        "explanation": "Aortic arch 的第一個分支，三個分支中最大且最右側，往上再分為 right subclavian、right common carotid artery。",
+        "description": "綠箭頭所指？"
+    },
+    {
+        "num": "b09lab_14",
+        "path": "b09lab/b09lab_14.webp",
+        "answer": [
+            "Supraspinous fossa"
+        ],
+        "explanation": "Supraspinous fossa 有 supraspinatus m.附著",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_15",
+        "path": "b09lab/b09lab_15.webp",
+        "answer": [
+            "Sella turcica",
+            "hypophyseal fossa"
+        ],
+        "explanation": "Sphenoid Bone由前面的突起 tuberculum sellae、後面的突起 dorsum sellae、以及中間 U 字形凹陷下去的 hypophyseal fossa（=pituitary fossa,垂體窩）所構成，為一個鞍型的凹槽結構。hypophyseal fossa 內裝有腦垂體（pituitary gland）。",
+        "description": "綠箭頭所指？"
+    },
+    {
+        "num": "b09lab_16",
+        "path": "b09lab/b09lab_16.webp",
+        "answer": [
+            "Coronoid process of ulna"
+        ],
+        "explanation": "Coronoid process of ulna 於手臂 flexion 時套進humerus 的 coronoid fossa",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_17",
+        "path": "b09lab/b09lab_17.webp",
+        "answer": [
+            "Azygos vein"
+        ],
+        "explanation": "Azygos vein 在 thorax 右側，回收 intercostal vein，向上注入 superior vena cava。",
+        "description": "紅箭頭所指？"
+    },
+    {
+        "num": "b09lab_18",
+        "path": "b09lab/b09lab_18.webp",
+        "answer": [
+            "Deltoid tuberosity"
+        ],
+        "explanation": "從圖片中上方的 Head of humerus 可辨認出此為肱骨（Humerus），而題目所指為骨頭中段的表面突起。",
+        "description": "白線所指的為什麼構造？"
+    },
+    {
+        "num": "b09lab_19",
+        "path": "b09lab/b09lab_19.webp",
+        "answer": [
+            "Acetabular notch"
+        ],
+        "explanation": "位於 Acetabulum 下方未完全閉合的缺口。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_20",
+        "path": "b09lab/b09lab_20.webp",
+        "answer": [
+            "Intertrochanteric crest"
+        ],
+        "explanation": "由圖片中上方球狀的 Head of femur 可辨別此為股骨（Femur），左端和右端的突起處分別為Greater trochanter 和 Lesser trochanter。",
+        "description": "寫出標示的結構名稱"
+    },
+    {
+        "num": "b09lab_21",
+        "path": "b09lab/b09lab_21.webp",
+        "answer": [
+            "Talus"
+        ],
+        "explanation": "為 inferior view of right talus。上面與 tibia、側邊與 calcaneus 相接。",
+        "description": "此骨頭？ （Be specific）"
+    },
+    {
+        "num": "b09lab_22",
+        "path": "b09lab/b09lab_22.webp",
+        "answer": [
+            "Iliac fossa"
+        ],
+        "explanation": "由形狀可知此為髂骨（Ilium），且該凹窩和耳朵狀的薦椎關節接面（articular surface for sacrum）位於同一側。",
+        "description": "這個凹窩？"
+    },
+    {
+        "num": "b09lab_23",
+        "path": "b09lab/b09lab_23.webp",
+        "answer": [
+            "Tibial tuberosity"
+        ],
+        "explanation": "由照片中右方的 Medial malleolus 判斷為左腳脛骨。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_24",
+        "path": "b09lab/b09lab_24.webp",
+        "answer": [
+            "Medial pterygoid plate"
+        ],
+        "explanation": "先注意到這是從顱底往前上方看。此時看到的空間應該是咽部（pharynx），圖片中央的兩個對稱孔洞即是鼻腔通到鼻咽的開口。位在鼻腔偏後方的 lateral wall，又有兩個分支的骨頭應是 sphenoid bone，靠內側的分支稱為 medial pterygoid plate。",
+        "description": "此鑷子指的構造？"
+    },
+    {
+        "num": "b09lab_25",
+        "path": "b09lab/b09lab_25.webp",
+        "answer": [
+            "Atlas"
+        ],
+        "explanation": "特點：（1）沒有 vertebral body。（2）沒有 spinous process（變成 posterior tubercle / arch）。（3）整體似一圓圈,脊髓（Spinal cord）穿過中間。",
+        "description": "此骨頭？"
+    },
+    {
+        "num": "b09lab_26",
+        "path": "b09lab/b09lab_26.webp",
+        "answer": [
+            "Inferior pubic ramus"
+        ],
+        "explanation": "用 Acetabulum 和 Obturator foramen 為參考點，題目所圈範圍包括 Inferior pubic ramus 和 Ramus of ischium。",
+        "description": "此構造？"
+    },
+    {
+        "num": "b09lab_27",
+        "path": "b09lab/b09lab_27.webp",
+        "answer": [
+            "Supraorbital foramen"
+        ],
+        "explanation": "從前方觀看（anterior view）,位於眼框上緣偏內側的小凹陷（或孔洞）",
+        "description": "此孔洞？"
+    },
+    {
+        "num": "b09lab_28",
+        "path": "b09lab/b09lab_28.webp",
+        "answer": [
+            "Popliteal vein"
+        ],
+        "explanation": "",
+        "description": "以下指的是什麼靜脈？"
+    },
+    {
+        "num": "b09lab_29",
+        "path": "b09lab/b09lab_29.webp",
+        "answer": [
+            "Horizontal plate of palatine bone"
+        ],
+        "explanation": "",
+        "description": "紅框內構造名稱？"
+    },
+    {
+        "num": "b09lab_30",
+        "path": "b09lab/b09lab_30.webp",
+        "answer": [
+            "Pulmonary trunk"
+        ],
+        "explanation": "先分辨心臟的上下左右前後，Pulmonary trunk 在基部會比 aorta 更前方，基本上就是用相對位置與形狀判斷。",
+        "description": "紅色箭頭所指構造？"
+    },
+    {
+        "num": "b09lab_31",
+        "path": "b09lab/b09lab_31.webp",
+        "answer": [
+            "Coronary sinus"
+        ],
+        "explanation": "直接注入 right atrium。",
+        "description": "此構造？"
+    }
+]

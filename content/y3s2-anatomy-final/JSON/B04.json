@@ -1,0 +1,174 @@
+[
+    {
+        "num": "B04_1",
+        "path": "B04/B04_1.webp",
+        "answer": [
+            "Buccal n."
+        ],
+        "explanation": "與 parotid duct 平行，左邊那條是 buccal artery，可以看到上面連到 maxillary artery。出處:Rohen atlas of human anatomy 8e p.82。其他:1-29 項構造詳見原表內容。",
+        "description": ""
+    },
+    {
+        "num": "B04_2",
+        "path": "B04/B04_2.webp",
+        "answer": [
+            "Superior cervical ganglion"
+        ],
+        "explanation": "位於第一和第二頸椎的高度，辨認的方法是他會位在 carotid sheath 的後方",
+        "description": ""
+    },
+    {
+        "num": "B04_3",
+        "path": "B04/B04_3.webp",
+        "answer": [
+            "Tibial n."
+        ],
+        "explanation": "其他:B 為 medial sural cutaneous nerve C 為 common fibular nerve D 為 lateral sural cutaneous nerve E 為 sural communicating branch。",
+        "description": ""
+    },
+    {
+        "num": "B04_4",
+        "path": "B04/B04_4.webp",
+        "answer": [
+            "Stapes"
+        ],
+        "explanation": "其他:1-Malleus(head)、4-Malleus(handle)、6,7-Incus、15-Promontory、31- Chorda tympani、33- round window",
+        "description": ""
+    },
+    {
+        "num": "B04_5",
+        "path": "B04/B04_5.webp",
+        "answer": [
+            "Deep fibular n."
+        ],
+        "explanation": "其他:A 為 ant. Tibial artery、B 為 dorsalis pedis artery、D 為 fibular artery (=peroneal a.)。",
+        "description": ""
+    },
+    {
+        "num": "B04_6",
+        "path": "B04/B04_6.webp",
+        "answer": [
+            "Anterior branch of obturator n."
+        ],
+        "explanation": "可看到走在 Adductor brevis m.上方，而 post. branch 會鑽到 Obturator externus 跟 Adductor brevis 之間。其他:黃上-femoral n.、藍上-obturator externus、藍下-adductor brevis m.",
+        "description": ""
+    },
+    {
+        "num": "B04_7",
+        "path": "B04/B04_7.webp",
+        "answer": [
+            "Saphenous n."
+        ],
+        "explanation": "圖片的上半部看起來是 adductor canal 的開口，裡面包含是 Femoral v./a./n.。藍箭頭開口處應該是 adductor canal 的出口，這時已經分支成 Saphenous n.。下兩個箭頭分別是 Sartorius m.與 vastus medialis",
+        "description": ""
+    },
+    {
+        "num": "B04_8",
+        "path": "B04/B04_8.webp",
+        "answer": [
+            "Lingual n."
+        ],
+        "explanation": "注意較上的藍色箭頭所指的是 duct of submandibular gland，較下方的藍色箭頭所指的是 geniohyoid m.，最中間的藍色長方形下的肌肉是 mylohyoid m.",
+        "description": ""
+    },
+    {
+        "num": "B04_9",
+        "path": "B04/B04_9.webp",
+        "answer": [
+            "Dorsalis pedis a."
+        ],
+        "explanation": "在足背，可以由血管不是橫走的判斷不是 arcuate a.。",
+        "description": ""
+    },
+    {
+        "num": "B04_10",
+        "path": "B04/B04_10.webp",
+        "answer": [
+            "Glossopharyngeal n."
+        ],
+        "explanation": "跑台時須注意此神經和 stylopharyngeus m. 伴行，一起穿過 sup、mid constrictor m.之間，為辨識重點。",
+        "description": ""
+    },
+    {
+        "num": "B04_11",
+        "path": "B04/B04_11.webp",
+        "answer": [
+            "Lingual a."
+        ],
+        "explanation": "從口腔內部看，有一條從後面走入、走在 hyoglossus m. 外側。其他:14-Greater palatine n./a.、15-lesser palatine n./a.、18-epiglottis。出處:color atlas of anatomy 7e P.146",
+        "description": ""
+    },
+    {
+        "num": "B04_12",
+        "path": "B04/B04_12.webp",
+        "answer": [
+            "Levator veli palatini m."
+        ],
+        "explanation": "從 auditory tube(21)內側連到 palatine。其他:6, 10, 15, 16, 19, 21, 25 等構造細節詳見原表。出處:color atlas of anatomy 7e P.145",
+        "description": ""
+    },
+    {
+        "num": "B04_13",
+        "path": "B04/B04_13.webp",
+        "answer": [
+            "Stylopharyngeus m."
+        ],
+        "explanation": "從後側看，從 superior constrictor m.(6)和 middle constrictor m.(9)之間進入。其他:10-Inferior constrictor m.、17-IJV、19-CNXI、21-CNX 出處:color atlas of anatomy 7e P.167",
+        "description": ""
+    },
+    {
+        "num": "B04_14",
+        "path": "B04/B04_14.webp",
+        "answer": [
+            "Middle meningeal a."
+        ],
+        "explanation": "在 infratemporal fossa 中的 lateral pterygoid m.的 medial side 並從 foramen spinosum 進到 middle cranial fossa，auriculotemporal n.會藉兩個 roots 會環繞 middle meningeal a.(重要!!)。出處:color atlas of anatomy 7e P.83",
+        "description": ""
+    },
+    {
+        "num": "B04_15",
+        "path": "B04/B04_15.webp",
+        "answer": [
+            "Lesser palatine a."
+        ],
+        "explanation": "從臉的剖面看，旁邊有挖穿 maxillary sinus，分出前後兩支，指在後面那支。",
+        "description": ""
+    },
+    {
+        "num": "B04_16",
+        "path": "B04/B04_16.webp",
+        "answer": [
+            "Superior laryngeal n.",
+            "posterior view"
+        ],
+        "explanation": "出處:Rohen atlas of human anatomy 8e p.167。包含 Ascending pharyngeal artery、Pharyngeal plexus 等 18 項構造。",
+        "description": ""
+    },
+    {
+        "num": "B04_17",
+        "path": "B04/B04_17.webp",
+        "answer": [
+            "Tibialis posterior tendon"
+        ],
+        "explanation": "looking at tarsal tunnel from the medial side。依序可以看到由前往後為 Tibialis posterior m., Flexor digitorum longus, tibial a., tibial n., flexor hallucis longus, Achilles tendon。",
+        "description": ""
+    },
+    {
+        "num": "B04_18",
+        "path": "B04/B04_18.webp",
+        "answer": [
+            "Hyoglossus m."
+        ],
+        "explanation": "medial view。出處:Rohen atlas of human anatomy 8e p.153。包含 Vagus nerve, Lingual nerve, Glossopharyngeal nerve 等 26 項構造。",
+        "description": ""
+    },
+    {
+        "num": "B04_19",
+        "path": "B04/B04_19.webp",
+        "answer": [
+            "Chorda tympani n."
+        ],
+        "explanation": "looking at infratemporal fossa，從 Lingual n.往上 trace 可以找到它。其他:藍色箭頭標示 malleus 上的 chorda tympani。",
+        "description": ""
+    }
+]

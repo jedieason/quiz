@@ -1,0 +1,545 @@
+[
+    {
+        "num": "4",
+        "path": "form/IMG_5722.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體 (cyst)。成熟的cyst具有4個細胞核。可見吸盤 (sucking disc) 的碎片及軸絲 (axonemes)。與Endolimax nana cyst區分：Giardia lamblia cyst的4個核通常偏向一側，整體較長偏卵型；E. nana cyst的核分佈較隨意，整體更圓，且核在顯微鏡下看起來像小點。",
+        "description": ""
+    },
+    {
+        "num": "16",
+        "path": "form/IMG_5734.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi trypomastigote"
+        ],
+        "explanation": "克氏錐蟲的錐鞭毛體 (Trypomastigote)。在血液中，其動基體 (kinetoplast) 為一個大點 (相較於岡比亞/羅得西亞錐蟲的kinetoplast為小點)。具有波動膜。常呈C型或S型。",
+        "description": ""
+    },
+    {
+        "num": "30",
+        "path": "form/IMG_5748.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體 (trophozoite)。蟲體梨形。具有一根明顯的軸柱 (axostyle) 貫穿蟲體並突出於後端。具有波動膜 (undulating membrane)，長度約為身體的1/3。有一個細胞核。身體前端有四根前鞭毛，另有一根鞭毛向後延伸構成波動膜邊緣。",
+        "description": ""
+    },
+    {
+        "num": "40",
+        "path": "form/IMG_5758.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Leishmania donovani",
+            "Trypanosoma cruzi amastigote",
+            "Leishmania donovani amastigote"
+        ],
+        "explanation": "無鞭毛體 (amastigote)。在宿主細胞內，蟲體呈圓形或卵圓形。可見一個較大的細胞核 (大點) 和一個較小的動基體 (kinetoplast，小點)。克氏錐蟲 (T. cruzi) 和利什曼原蟲 (Leishmania spp.) 的無鞭毛體在形態上無法區分。",
+        "description": "寫出生物學名"
+    },
+    {
+        "num": "69",
+        "path": "form/IMG_5787.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。蟲體呈弓形、新月形或香蕉形，一端較尖，另一端較鈍圓。有一個細胞核，位於蟲體中央或偏後。常見於腹腔滲出液或組織抹片中，可游離或在宿主細胞內。",
+        "description": ""
+    },
+    {
+        "num": "73",
+        "path": "form/IMG_5791.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli trophozoite"
+        ],
+        "explanation": "大腸纖毛蟲營養體 (trophozoite)。為人體寄生最大的原蟲。全身披有纖毛。前端有胞口 (cytostome)。具有兩個細胞核：一個豆形或腎臟形的大核 (macronucleus) 和一個位於大核凹陷處的小核 (micronucleus)。",
+        "description": ""
+    },
+    {
+        "num": "80",
+        "path": "form/IMG_5798.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞錐蟲或羅得西亞錐蟲的錐鞭毛體 (trypomastigote)。在人體血液中，其動基體 (kinetoplast) 為一個小點 (與克氏錐蟲的大點區分)。具有波動膜。蟲體細長，呈S形或柳葉形。岡比亞錐蟲與羅得西亞錐蟲的trypomastigote形態上無法區分。",
+        "description": ""
+    },
+    {
+        "num": "88",
+        "path": "form/cysticercus.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。為乳白色半透明囊泡 (約0.5-1公分)，形似西米露，內含一個反折的頭節。",
+        "description": ""
+    },
+    {
+        "num": "124",
+        "path": "./form/IM-0027.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi amastigote",
+            "Leishmania donovani",
+            "Leishmania donovani amastigote"
+        ],
+        "explanation": "無鞭毛體 (amastigote)。可見一個大點 (寄生蟲的細胞核) 與一個小點 (kinetoplast)。在組織細胞內。克氏錐蟲和利什曼原蟲的無鞭毛體形態上難以區分。",
+        "description": ""
+    },
+    {
+        "num": "125",
+        "path": "./form/IM-0028.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。蟲體呈弓形或新月形，有一個細胞核。常在腹腔滲出液或組織抹片中發現。",
+        "description": ""
+    },
+    {
+        "num": "126",
+        "path": "原蟲/IM-0029.webp",
+        "answer": [
+            "Cystoisospora belli mature oocyst",
+            "Cystoisospora belli oocyst",
+            "Cystoisospora belli",
+            "Isospora belli mature oocyst",
+            "Isospora belli oocyst",
+            "Isospora belli"
+        ],
+        "explanation": "貝氏等胞球蟲成熟卵囊 (mature oocyst)。內含2個孢子囊 (sporocyst)，每個孢子囊內有4個子孢子 (sporozoites)。",
+        "description": ""
+    },
+    {
+        "num": "127",
+        "path": "./form/IM-0030.webp",
+        "answer": [
+            "Plasmodium ovale",
+            "Plasmodium ovale trophozoite"
+        ],
+        "explanation": "卵形瘧原蟲感染的紅血球 (RBC) 會漲大，常呈卵形，邊緣不規則，似破爛。有許氏點 (Schüffner's dots)，且較粗。",
+        "description": ""
+    },
+    {
+        "num": "128",
+        "path": "./form/IM-0031.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體。成熟囊體有4個細胞核。可見吸盤碎片和軸絲。與Endolimax nana囊體比較，Giardia的核偏向一側，整體較長卵形。",
+        "description": ""
+    },
+    {
+        "num": "129",
+        "path": "form/Plasmodium_falcipurum_gameto100x.webp",
+        "answer": [
+            "Plasmodium falciparum",
+            "Plasmodium falciparum gametocyte"
+        ],
+        "explanation": "惡性瘧原蟲的配子體，特徵為香蕉狀或臘腸狀。均有瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "130",
+        "path": "./form/IM-0032.webp",
+        "answer": [
+            "Plasmodium malariae",
+            "Plasmodium malariae schizont"
+        ],
+        "explanation": "三日瘧原蟲裂殖體 (schizont)。通常含有6-12個裂殖子 (merozoites)，常為8個，排列成玫瑰花環狀或水果拼盤狀。被感染紅血球不漲大。有黃褐色瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "131",
+        "path": "原蟲/C_belli_spore_wtmt1.webp",
+        "answer": [
+            "Cystoisospora belli immature oocyst",
+            "Cystoisospora belli oocyst",
+            "Cystoisospora belli",
+            "Isospora belli immature oocyst",
+            "Isospora belli oocyst",
+            "Isospora belli"
+        ],
+        "explanation": "貝氏等胞球蟲未成熟卵囊 (immature oocyst)。卵囊內通常只有1個孢子母細胞 (sporoblast) 或稱為 sporocyst。",
+        "description": ""
+    },
+    {
+        "num": "132",
+        "path": "./form/IM-0033.webp",
+        "answer": [
+            "Plasmodium malariae",
+            "Plasmodium malariae trophozoite"
+        ],
+        "explanation": "三日瘧原蟲營養體。被感染紅血球不漲大。晚期營養體常見帶狀型 (band form)。無許氏點。有瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "133",
+        "path": "./form/IM-0034.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli trophozoite"
+        ],
+        "explanation": "大腸阿米巴營養體。其karyosome (核仁) 在核的偏中心位置。細胞質內可見食物泡，含細菌，但不含紅血球。核周染色質不均勻。",
+        "description": ""
+    },
+    {
+        "num": "134",
+        "path": "./form/IM-0035.webp",
+        "answer": [
+            "Iodamoeba butschlii cyst",
+            "Iodamoeba buetschlii cyst",
+            "Iodamoeba butschlii",
+            "Iodamoeba buetschlii"
+        ],
+        "explanation": "嗜碘阿米巴囊體 (cyst)。成熟囊體只有1個細胞核，核內karyosome大。細胞質內有大的糖原泡。無核周染色質。",
+        "description": ""
+    },
+    {
+        "num": "135",
+        "path": "./form/IM-0036.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia trophozoite"
+        ],
+        "explanation": "梨形鞭毛蟲營養體。梨形，有2個細胞核，4對鞭毛，大吸盤，像笑臉。",
+        "description": ""
+    },
+    {
+        "num": "136",
+        "path": "./form/IM-0037.webp",
+        "answer": [
+            "Trypanosoma cruzi trypomastigote",
+            "Trypanosoma cruzi"
+        ],
+        "explanation": "克氏錐蟲錐鞭毛體。血液中，其kinetoplast為一大點。有波動膜。常呈C型或S型。",
+        "description": ""
+    },
+    {
+        "num": "137",
+        "path": "./form/IM-0038.webp",
+        "answer": [
+            "Plasmodium vivax",
+            "Plasmodium vivax trophozoite"
+        ],
+        "explanation": "間日瘧原蟲營養體。被感染紅血球漲大。晚期營養體常呈不規則的阿米巴型 (ameboid form)。有細小的許氏點 (Schüffner's dot) 和黃褐色瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "138",
+        "path": "./form/IM-0039.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體。有一很明顯的軸柱 (axostyle)。有波動膜，約身體的1/3長。有1個細胞核。身體有四根前鞭毛與一根向後的鞭毛。",
+        "description": ""
+    },
+    {
+        "num": "139",
+        "path": "./form/IM-0040.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica cyst"
+        ],
+        "explanation": "痢疾阿米巴囊體。成熟囊體大部分有4個細胞核。需調細調節輪才能看清楚。核仁位於中央，核周染色質均勻。未成熟囊體可見兩端圓鈍似香腸狀的類染色體 (chromatoidal body)。",
+        "description": ""
+    },
+    {
+        "num": "140",
+        "path": "./form/IM-0041.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞/羅得西亞錐蟲的錐鞭毛體。血液中，其kinetoplast為一小點。有波動膜。",
+        "description": ""
+    },
+    {
+        "num": "141",
+        "path": "./form/IM-0042.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli cyst"
+        ],
+        "explanation": "大腸纖毛蟲囊體。與營養體相似，但多一個囊壁。內有腎臟形的大核和小核。",
+        "description": ""
+    },
+    {
+        "num": "142",
+        "path": "./form/IM-0043.webp",
+        "answer": [
+            "Acanthamoeba culbertsoni",
+            "Acanthamoeba castellanii",
+            "Acanthamoeba castellanii trophozoite"
+        ],
+        "explanation": "棘阿米巴蟲營養體。有透明棘狀偽足。一個細胞核，Karyosome很大。",
+        "description": ""
+    },
+    {
+        "num": "143",
+        "path": "./form/IM-0044.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica trophozoite"
+        ],
+        "explanation": "痢疾阿米巴營養體。Karyosome在核的中心。核周染色質均勻。常吞噬紅血球。",
+        "description": ""
+    },
+    {
+        "num": "144",
+        "path": "./form/IM-0045.webp",
+        "answer": [
+            "Endolimax nana",
+            "Endolimax nana cyst"
+        ],
+        "explanation": "微小阿米巴囊體。成熟囊體大部分有4個細胞核。細胞核無核周染色質，鏡下只看到4個小點。",
+        "description": ""
+    },
+    {
+        "num": "187",
+        "path": "form/trichinella-cyst.webp",
+        "answer": [
+            "Trichinella spiralis",
+            "Trichinella spiralis encysted larva"
+        ],
+        "explanation": "旋毛蟲幼蟲包囊 (encysted larva) 在肌肉組織中。囊內幼蟲呈螺旋狀。",
+        "description": ""
+    },
+    {
+        "num": "235",
+        "path": "form/cysticercus-1.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。約一公分大小橢圓形囊泡，內有一個白色的頭節。",
+        "description": ""
+    },
+    {
+        "num": "236",
+        "path": "form/cysticercus-2.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus) 在肌肉組織中。呈橢圓形囊泡，內含頭節。",
+        "description": ""
+    },
+    {
+        "num": "237",
+        "path": "form/cysticercus-3.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "238",
+        "path": "form/cysticercus-4.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "239",
+        "path": "form/e-g-protoscolex.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "240",
+        "path": "form/e-g-protoscolex-2.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "252",
+        "path": "form/bal-coli-cyst.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli cyst"
+        ],
+        "explanation": "大腸纖毛蟲囊體。圓形或卵圓形。有囊壁。內可見腎臟形的大核及小核。",
+        "description": ""
+    },
+    {
+        "num": "253",
+        "path": "form/gl-tro.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia trophozoite"
+        ],
+        "explanation": "梨形鞭毛蟲營養體。有2個細胞核，4對鞭毛，一個大的腹吸盤。像一個笑臉。有中體和軸絲。活體運動似落葉狀。",
+        "description": ""
+    },
+    {
+        "num": "254",
+        "path": "form/gb-cyst.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體。成熟囊體有4個細胞核。有吸盤的碎片和軸絲。",
+        "description": ""
+    },
+    {
+        "num": "255",
+        "path": "form/t-vaginalis-tro.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體。有一很明顯的軸柱 (axostyle)。有波動膜，約身體的1/3長。有1個細胞核。身體有四根前鞭毛與一根向後的鞭毛。",
+        "description": ""
+    },
+    {
+        "num": "256",
+        "path": "form/t-brucei-trypo.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞/羅得西亞錐蟲的錐鞭毛體。在人體血液中，其kinetoplast為一個小點。有波動膜。此兩種錐蟲的trypomastigote無法區分。",
+        "description": ""
+    },
+    {
+        "num": "257",
+        "path": "form/t-cruzi-trypo.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi trypomastigote"
+        ],
+        "explanation": "克氏錐蟲的錐鞭毛體。血液中，其kinetoplast為一個大點。有波動膜。",
+        "description": ""
+    },
+    {
+        "num": "258",
+        "path": "form/toxoplamsa-tachy.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。在腹腔滲出液中，有一個細胞核，像新月形。",
+        "description": ""
+    },
+    {
+        "num": "259",
+        "path": "form/pf-ring-form.webp",
+        "answer": [
+            "Plasmodium falciparum",
+            "Plasmodium falciparum ring form"
+        ],
+        "explanation": "惡性瘧原蟲的配子體呈香蕉狀。其環狀體(ring form trophozoite)常見於血液抹片，可見多個環狀體感染同一紅血球，或貼邊環 (appliqué form)。",
+        "description": ""
+    },
+    {
+        "num": "260",
+        "path": "form/p-vivax-amoeba-form.webp",
+        "answer": [
+            "Plasmodium vivax",
+            "Plasmodium vivax trophozoite"
+        ],
+        "explanation": "間日瘧原蟲。被感染紅血球漲大。早期營養體為環狀體 (ring-form)，約RBC直徑1/3。晚期營養體常見阿米巴型 (ameboid form)。各時期均有細小許氏點 (Schüffner's dot)與黃褐色瘧色素。裂殖體有12-24個裂殖子(通常16個)。",
+        "description": ""
+    },
+    {
+        "num": "261",
+        "path": "form/p-ovale.webp",
+        "answer": [
+            "Plasmodium ovale",
+            "Plasmodium ovale trophozoite"
+        ],
+        "explanation": "卵形瘧原蟲滋養體。被感染紅血球漲大，且常呈卵形，邊緣破破爛爛的。有許氏點，且很粗。",
+        "description": ""
+    },
+    {
+        "num": "262",
+        "path": "form/e-h-cyst.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica cyst"
+        ],
+        "explanation": "痢疾阿米巴囊體。成熟囊體大部分有4個細胞核。未成熟囊體的類染色體 (chromatoidal body) 兩邊圓鈍，似香腸狀。囊體大小大於10 μm。",
+        "description": "4個核"
+    },
+    {
+        "num": "263",
+        "path": "form/ent-coli-cyst.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli cyst"
+        ],
+        "explanation": "大腸阿米巴囊體。成熟囊體大部分有8個細胞核。需調細調節輪才能看清楚。未成熟囊體的類染色體兩邊呈樹枝狀，似掃把狀。囊體大小大於10 μm。",
+        "description": "8個核"
+    },
+    {
+        "num": "264",
+        "path": "form/e-nana-cyst.webp",
+        "answer": [
+            "Endolimax nana",
+            "Endolimax nana cyst"
+        ],
+        "explanation": "微小阿米巴囊體。大小：小於10 μm。形狀：短橢圓形。成熟囊體大部分有4個細胞核。細胞核沒有核周染色質。顯微鏡下，只看到4個小點。",
+        "description": "4個核"
+    },
+    {
+        "num": "265",
+        "path": "form/acanth.webp",
+        "answer": [
+            "Acanthamoeba castellanii",
+            "Acanthamoeba castellanii trophozoite"
+        ],
+        "explanation": "棘阿米巴蟲營養體。有透明棘狀偽足。一個細胞核，Karyosome很大。",
+        "description": ""
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "num": "b06lab_01",
+        "path": "b06lab/b06lab_01.webp",
+        "answer": [
+            "Simple columnar epithelium with goblet cell and microvilli"
+        ],
+        "explanation": "細胞核都位於底層所以判斷為simple columnar epithelium，除此之外可見一顆一顆顏色很淡，似泡泡狀的goblet cell，細胞核靠管腔外側。內側有地毯狀的構造：microvilli。【出處】共筆Vol.3 P.17",
+        "description": "哪種組織？"
+    },
+    {
+        "num": "b06lab_02",
+        "path": "b06lab/b06lab_02.webp",
+        "answer": [
+            "Cerebellum"
+        ],
+        "explanation": "圖可見分三層的構造，由右至左分別為：細胞數少、HE stain 下染成較紅(淡色)的Molecular layer、由單層 purkinje cell組成，為 flask- shape，細胞很大的Purkinje cell layer，以及由大量 granular neuron 組成，在 HE stain 下只 剩下顆粒小而深染的細胞的Granular layer，可知是小腦。【出處】07共筆Vol.8 P.38",
+        "description": "哪種組織？"
+    },
+    {
+        "num": "b06lab_03",
+        "path": "b06lab/b06lab_03.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "上面有長cilia（可見一絲一絲的構造）， 且下面的 basal cells 是間隔出現，可判斷是Pseudostratified columnar epithelium。【出處】共筆Vol.3 P.20",
+        "description": "哪種組織？"
+    },
+    {
+        "num": "b06lab_04",
+        "path": "b06lab/b06lab_04.webp",
+        "answer": [
+            "External root sheath"
+        ],
+        "explanation": "此為Hair follicle，箭頭所指處由多層細胞構成，排列較不緊密染色較淡，較厚，為ERS，其外側為Glassy membrane，內側為較深染的IRS。【出處】07共筆Vol.9 P.39",
+        "description": "哪個構造（紅色箭頭）？"
+    },
+    {
+        "num": "b06lab_05",
+        "path": "b06lab/b06lab_05.webp",
+        "answer": [
+            "Volkmann’s canal ground bone"
+        ],
+        "explanation": "由褐色背景能判斷此為硬骨細胞的研磨切片，可以保留無機質的部分。而呈橫向黑色空腔的構造為Volkmann’s canal。【出處】07共筆Vol.6 P.45",
+        "description": "哪個構造（紅色箭頭）？製備方式為？"
+    },
+    {
+        "num": "b06lab_06",
+        "path": "b06lab/b06lab_06.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "圖中所指的細胞較大，一旁有些小細胞和fiber交錯夾雜，為神經元的特徵。而圈選的細胞之細胞核不位於細胞中央(eccentric)，細胞略呈現多角狀，與fiber無明顯分界，可判斷為Sympathetic ganglion。【出處】07共筆Vol.7 P.38",
+        "description": "哪種組織？"
+    },
+    {
+        "num": "b06lab_07",
+        "path": "b06lab/b06lab_07.webp",
+        "answer": [
+            "Dorsal root ganglion"
+        ],
+        "explanation": "圖中所指的細胞較大，一旁有許多小細胞圍繞，為神經元的特徵。此外，所圈選的細胞satellite cell多且與fiber有明顯分界，細胞形狀幾乎呈圓形且細胞核位於細胞中心，可由此判斷為Dorsal root ganglion(DRG)。【出處】07共筆Vol.7 P.27",
+        "description": "哪種組織？"
+    },
+    {
+        "num": "b06lab_08",
+        "path": "b06lab/b06lab_08.webp",
+        "answer": [
+            "Eccrine sweat gland",
+            "merocrine sweat gland"
+        ],
+        "explanation": "圖中腺體可見到較小的管腔，細胞排列整齊且較為深染，一旁的脂肪細胞較少，可判斷為Eccrine (merocrine) sweat gland。而Eccrine (merocrine) sweat gland又可分為 secretory portion 及 duct portion:Secretory portion（圖中染色較淡管腔）: 細胞較大，排列較不規則， cytosol 淡染。周圍會有一圈較深染的 myoepithelial cells，可將汗液擠到管道中。Duct portion（圖右上方）: 細胞較cuboid，較小，排列較整齊， cytosol 較深染。【出處】07共筆Vol.9 P.46",
+        "description": "哪種腺體？"
+    },
+    {
+        "num": "b06lab_09",
+        "path": "b06lab/b06lab_09.webp",
+        "answer": [
+            "A",
+            "Skeletal muscle",
+            "B",
+            "Dense regular connective tissue",
+            "tendon"
+        ],
+        "explanation": "A為細胞核在邊緣的骨骼肌。B為dense regular connective tissue的縱切面，可能為tendon。【出處】07共筆Vol.5 P.38",
+        "description": "A、B分別為哪種組織？"
+    },
+    {
+        "num": "b06lab_10",
+        "path": "b06lab/b06lab_10.webp",
+        "answer": [
+            "Meissner's Corpuscle"
+        ],
+        "explanation": "Meissner's Corpuscle是於 epidermis 和 dermis 交界處的 dermal papilla 中可以觀察到的橢圓形的構造，裡面有橫走的 fiber，主要由 Schwann cell 組成，細胞排列方向通常會與 corpuscle 的長軸垂直。【出處】07共筆Vol.9 P.44",
+        "description": "白色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_11",
+        "path": "b06lab/b06lab_11.webp",
+        "answer": [
+            "Z line"
+        ],
+        "explanation": "箭頭所指為I band （亮帶）的z line。【出處】共筆Vol.2 P.50",
+        "description": "紅色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_12",
+        "path": "b06lab/b06lab_12.webp",
+        "answer": [
+            "Mitochondria"
+        ],
+        "explanation": "有diad在z line上，應為心肌細胞，箭頭所指為mitochondria。【出處】共筆Vol.2 P.61",
+        "description": "紅色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_13",
+        "path": "b06lab/b06lab_13.webp",
+        "answer": [
+            "Excretory duct for sweat gland"
+        ],
+        "explanation": "Excretory duct細胞較cuboid，較小，排列較整齊， cytosol 較深染，由 stratified (double layer)cuboid epithelium 排列而成。【出處】07共筆Vol.9 P.26",
+        "description": "藍圈中為何種構造？"
+    },
+    {
+        "num": "b06lab_14",
+        "path": "b06lab/b06lab_14.webp",
+        "answer": [
+            "Pyramidal neuron",
+            "Pyramidal cell layer of Cerebral cortex"
+        ],
+        "explanation": "錐形(pyramid-shape)，核大、核仁明顯，周圍白白的 perineuronal space 為製作過程產生的 artifact。Neuron cells 外形像金字塔。【出處】07共筆Vol.8 P.39",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b06lab_15",
+        "path": "b06lab/b06lab_15.webp",
+        "answer": [
+            "Elastic artery"
+        ],
+        "explanation": "有厚厚藍紫色(elastic fiber)的 TM為其特徵 Tunica media(TM) ：1. Elastic membranes片狀捲曲狀、藍紫色的線條，由 Elastic fibers 構成， 厚且多。2. 環走 Smooth muscle cells:細胞核長且藍。【出處】07共筆Vol.10 P.44-47",
+        "description": "哪種血管？"
+    },
+    {
+        "num": "b06lab_16",
+        "path": "b06lab/b06lab_16.webp",
+        "answer": [
+            "Elastic fiber"
+        ],
+        "explanation": "較細、色深、會分岔的線為 elastic fiber， 較粗、色淺、不會分岔但會交叉的為 collagen fiber。【出處】共筆Vol.4 P.33",
+        "description": "何種構造？"
+    },
+    {
+        "num": "b06lab_17",
+        "path": "b06lab/b06lab_17.webp",
+        "answer": [
+            "Loose connective tissue"
+        ],
+        "explanation": "可以看到很多 ground substances（空白處）及 cells。【出處】共筆Vol.4 P.33",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b06lab_18",
+        "path": "b06lab/b06lab_18.webp",
+        "answer": [
+            "Nuclear pore"
+        ],
+        "explanation": "此為EM下的圖片，圖片中間處有個雙層膜的胞器，在胞器外有些模狀構造及很小的electron dense的vesicle，應為RER，故可推測此胞器為細胞核。因此，箭頭所指處為核膜上的孔洞，即為Nuclear pore。詳見共筆Vol.1 P.25【出處】共筆Vol.1 P.25",
+        "description": "藍色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_19",
+        "path": "b06lab/b06lab_19.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "可見nerve fiber 末端接近 muscle fiber 的部分有橢圓形的構造，為 motor end plate。【出處】07共筆Vol.7 P.44",
+        "description": "黃色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_20",
+        "path": "b06lab/b06lab_20.webp",
+        "answer": [
+            "Muscle spindle"
+        ],
+        "explanation": "可見紡錘狀 Spindle，被肌纖維夾住 ，在 muscle fiber 間有紡錘形膨大的構造。【出處】07共筆Vol.7 P.45",
+        "description": "白色箭頭所指為何種構造？"
+    },
+    {
+        "num": "b06lab_21",
+        "path": "b06lab/b06lab_21.webp",
+        "answer": [
+            "Hyaline cartilage"
+        ],
+        "explanation": "1. 可見空腔狀結構 lacuna，內有軟骨細胞(chondrocyte)。2. 每 3 到 5 個 lacunae 形成一個 isogenic group。【出處】07共筆Vol.6 P.39",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b06lab_22",
+        "path": "b06lab/b06lab_22.webp",
+        "answer": [
+            "Endothelium cell"
+        ],
+        "explanation": "此為EM下的圖表，此處為一狹小的管腔，僅由一層細胞構成，且管腔內可見紅血球，故此處為微血管。因此，紅色箭頭所指的細胞即為構成微血管管壁的【出處】07共筆Vol.10 P.34",
+        "description": "請問紅箭頭所指是何種細胞？(Be specific)"
+    },
+    {
+        "num": "b06lab_23",
+        "path": "b06lab/b06lab_23.webp",
+        "answer": [
+            "Spongy bone",
+            "spicule"
+        ],
+        "explanation": "在 compact bone 靠骨頭的內側，呈海綿狀或蜂窩狀，由許多不規則且細長bone trabecula(骨小樑，複數 trabeculae)與 bone spicules(骨小針)構成。【出處】07共筆Vol.6 P.18",
+        "description": "何種組織（構造）？"
+    },
+    {
+        "num": "b06lab_24",
+        "path": "b06lab/b06lab_24.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "C.S.切片:此圖細胞的細胞核在細胞中間，細胞排列緊密且呈現大小不一的圓形，不像心肌細胞有分支且有許多空隙供血管通過，故為平滑肌。【出處】共筆Vol.2 P.84",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b06lab_25",
+        "path": "b06lab/b06lab_25.webp",
+        "answer": [
+            "Clathrin"
+        ],
+        "explanation": "網狀球體為有 clathrin 包覆的 pit。【出處】共筆Vol.1 P.12",
+        "description": "箭頭所指網格狀結構為何種蛋白組成？"
+    },
+    {
+        "num": "b06lab_26",
+        "path": "b06lab/b06lab_26.webp",
+        "answer": [
+            "Vena cava"
+        ],
+        "explanation": "1. Intima: endothelium、subendothelial layer、smooth muscle cells 2. Media:平滑肌環狀排列。 3. Adventitia:比另外兩層厚很多，且有許多縱走束狀排列的平滑肌，維持整體形狀。【出處】07共筆Vol.10 P.54",
+        "description": "何種組織？"
+    },
+    {
+        "num": "b06lab_27",
+        "path": "b06lab/b06lab_27.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "先從大小來看能看出比紅血球大很多，有許多basophilic的specific granule，核不明顯。【出處】共筆Vol.3 P.28",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b06lab_28",
+        "path": "b06lab/b06lab_28.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "細胞核裂成 2 葉，有紅色大顆的 specific granule。【出處】共筆Vol.3 P.28",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b06lab_29",
+        "path": "b06lab/b06lab_29.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "兩到三倍紅血球大，核明顯凹陷呈馬蹄形。【出處】共筆Vol.3 P.29",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b06lab_30",
+        "path": "b06lab/b06lab_30.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "可見類似一串葡萄的形狀，為Choroid plexus，緊密排列的ependymal cells包著血管與Loose CNT 。【出處】07共筆Vol.8 P.40",
+        "description": "紅框中為何種構造？"
+    },
+    {
+        "num": "b06lab_31",
+        "path": "b06lab/b06lab_31.webp",
+        "answer": [
+            "Sebaceous gland"
+        ],
+        "explanation": " sebaceous gland 內富含油滴，所以在 HE 染色下會呈空泡狀， 且在 arrector pili muscle 和 shaft之間。【出處】07共筆Vol.9 P.42",
+        "description": "何種腺體？"
+    },
+    {
+        "num": "b06lab_32",
+        "path": "b06lab/b06lab_32.webp",
+        "answer": [
+            "Endochondral ossification"
+        ],
+        "explanation": "圖中由右至左，可發現軟骨細胞增生、複製，膨脹並進行鈣化，最後變為硬骨細胞的過程，故為Endochondral ossification。詳見共筆Vol.6 P.51。【出處】07共筆Vol.6 P.51",
+        "description": "何種骨化方式？"
+    },
+    {
+        "num": "b06lab_33",
+        "path": "b06lab/b06lab_33.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圖中所指細胞較為深染紅色，並具有多個細胞核，體型也較周遭細胞大上不少，應為Osteoclast。【出處】07共筆Vol.6 P.26",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b06lab_34",
+        "path": "b06lab/b06lab_34.webp",
+        "answer": [
+            "SER"
+        ],
+        "explanation": "此圖為EM下的影像，紅框中構造成管狀或小泡狀且重複出現，散布一個區域，應為SER。【出處】共筆Vol.1 P.17",
+        "description": "紅框中為何種構造？"
+    }
+]

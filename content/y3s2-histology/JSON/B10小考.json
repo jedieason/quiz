@@ -1,0 +1,323 @@
+[
+  {
+    "num": "b10quiz-01",
+    "path": "B10小考/b10quiz-01.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見 palpebral conjunctiva，故為 tarsal gland。Tarsal glands（為皮脂腺）有管道連通到 tarsal plate，分泌淚液的部分成分。",
+    "description": "1.虛線構造名稱"
+  },
+  {
+    "num": "b10quiz-02",
+    "path": "B10小考/b10quiz-02.webp",
+    "answer": [
+      "acrosome"
+    ],
+    "explanation": "精子核前方構造為 acrosome",
+    "description": "2.請問下面箭頭所指的是什麼構造？"
+  },
+  {
+    "num": "b10quiz-03",
+    "path": "B10小考/b10quiz-03.webp",
+    "answer": [
+      "Mammary gland Inactive Pregnant"
+    ],
+    "explanation": "A) 大量的脂肪組織與環繞在 TDLU 外的 myoepithelial cell 為特徵，中間萎縮的 TDLU 可以判斷為 inactive。 B) Gland 非常發達，細胞較矮，CNT 減少，可見大型 excretory duct。",
+    "description": "3.下圖的構造為何？兩圖分別為何種時期的切片？"
+  },
+  {
+    "num": "b10quiz-04",
+    "path": "B10小考/b10quiz-04.webp",
+    "answer": [
+      "Germinal epithelium"
+    ],
+    "explanation": "箭頭所指為卵巢表面上皮，其內之 stroma 中有許多 developing follicles。",
+    "description": "4.請寫出兩箭號中間指的構造"
+  },
+  {
+    "num": "b10quiz-05",
+    "path": "B10小考/b10quiz-05.webp",
+    "answer": [
+      "Thyroid gland follicular cell"
+    ],
+    "explanation": "視野下可以看見 thyroid follicles 以及其中的 colloids。",
+    "description": "5.(1)視野下器官名稱(2)箭頭所指細胞名稱"
+  },
+  {
+    "num": "b10quiz-06",
+    "path": "B10小考/b10quiz-06.webp",
+    "answer": [
+      "Straight artery"
+    ],
+    "explanation": "此為子宮內皮。若靠近 myometrium 則是 straight artery，若靠近 lumen 的話，則是 spiral artery。",
+    "description": "6.下圖紅圈為何種構造？"
+  },
+  {
+    "num": "b10quiz-07",
+    "path": "B10小考/b10quiz-07.webp",
+    "answer": [
+      "Vestibular membrane"
+    ],
+    "explanation": "位於耳蝸內，區隔 scala vestibuli 與 scala media 的膜狀構造。",
+    "description": "7.問號處為何構造"
+  },
+  {
+    "num": "b10quiz-08",
+    "path": "B10小考/b10quiz-08.webp",
+    "answer": [
+      "ciliated cells of the uterine tube"
+    ],
+    "explanation": "Oviduct 管壁可分三層：serosa、muscularis、mucosa（由外至內），圖中顯示的是 mucosa 的部分。Mucosa 呈指狀突起，由 simple columnar epithelium 構成，又再分為 ciliated cell（有 cilia、下方有深紅色線條 basal body）和 non-ciliated cell（peg cell）（沒有 basal body 和 cilia、細胞凸向管腔）。",
+    "description": "8.寫出紅色箭號所指的細胞名稱。"
+  },
+  {
+    "num": "b10quiz-09",
+    "path": "B10小考/b10quiz-09.webp",
+    "answer": [
+      "Adrenal cortex zona glomerulosa"
+    ],
+    "explanation": "腎上腺皮質的最外層，為 simple columnar epithelium，聚集成團狀，是 cortex 中最薄的。",
+    "description": "9.器官為何？這層構造叫什麼名字?"
+  },
+  {
+    "num": "b10quiz-10",
+    "path": "B10小考/b10quiz-10.webp",
+    "answer": [
+      "corpus albicans"
+    ],
+    "explanation": "Corpus albicans 的特徵為沒有特徵，就是一坨退化的透明組織，內部有 fibroblast。",
+    "description": "10. 寫出黑色雙箭頭所指之構造名稱（be specific）"
+  },
+  {
+    "num": "b10quiz-11",
+    "path": "B10小考/b10quiz-11.webp",
+    "answer": [
+      "Glassy membrane"
+    ],
+    "explanation": "由 basal lamina 增厚而來的結構，呈現透明狀，是辨認 atretic follicle 的重要特徵，且中間的 oocyte 已經退化 zona pellucida 也已經凹陷不完整。",
+    "description": "11. 請寫出箭頭內的結構名稱"
+  },
+  {
+    "num": "b10quiz-12",
+    "path": "B10小考/b10quiz-12.webp",
+    "answer": [
+      "Sertoli cells"
+    ],
+    "explanation": "核呈橢圓狀，清楚核仁，細胞會和 basement membrane 接觸長度較周圍細胞長。",
+    "description": "12. 寫出箭頭所指的細胞名稱？（Be specific）"
+  },
+  {
+    "num": "b10quiz-13",
+    "path": "B10小考/b10quiz-13.webp",
+    "answer": [
+      "Interstitial gland Ovary"
+    ],
+    "explanation": "Ovary 組織切片可以觀察到細胞核較圓、細胞核間距較大的群聚細胞，周圍被核扁平、細胞核間距較小的結締組織包圍，可判定為 interstitial gland。Interstitial gland 是一團散佈在 stroma 間的類上皮細胞，由濾泡退化後未被分解而留在卵巢皮質的 theca interna 組成。",
+    "description": "13. 視野下所圍區域為何構造？器官為何？"
+  },
+  {
+    "num": "b10quiz-14",
+    "path": "B10小考/b10quiz-14.webp",
+    "answer": [
+      "鉀離子",
+      "Potassium ion"
+    ],
+    "explanation": "箭號所指之構造為 Stria vascularis 在 spiral ligament（為 cochlea epi.的增生）表面，製造 endolymph、運送鉀離子。是人體少數 epithelium 內的血管。富含粒線體，在 H&E 下呈紅色。",
+    "description": "14. 寫出箭號所指之構造有何種離子通過?"
+  },
+  {
+    "num": "b10quiz-15",
+    "path": "B10小考/b10quiz-15.webp",
+    "answer": [
+      "atretic follicle"
+    ],
+    "explanation": "最左邊圓圈中 Zona pellucida 形狀不規則，呈現褶皺狀；右側兩個圓圈可看到 basement membrane 增厚成為淡染的 glassy membrane，由以上特色可知為退化階段的 atretic follicle",
+    "description": "15. 請寫出下列構造名稱"
+  },
+  {
+    "num": "b10quiz-16",
+    "path": "B10小考/b10quiz-16.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "位於 interstitial space 且細胞較大、細胞質呈紅色。",
+    "description": "16. 請寫出箭頭所指細胞名稱(be specific)"
+  },
+  {
+    "num": "b10quiz-17",
+    "path": "B10小考/b10quiz-17.webp",
+    "answer": [
+      "Theca interna"
+    ],
+    "explanation": "位在 mature follicle 外且靠內側，細胞呈 ovoid 或 polyhedral 的為 theca interna；外側呈 spindle shape 的細胞為 theca externa。",
+    "description": "17. 下圖箭頭指示範圍內的為何種構造？"
+  },
+  {
+    "num": "b10quiz-18",
+    "path": "B10小考/b10quiz-18.webp",
+    "answer": [
+      "Posterior lobe of pituitary gland Pars nervosa Pituicyte"
+    ],
+    "explanation": "Posterior lobe 的特徵為 Herring body（工人推測題目應該有給），而在其中主要的細胞是 Pituicyte，細胞核呈現扁橢圓狀、深染。",
+    "description": "18. 請問視野下組織名稱？右下角箭頭所指之細胞名稱？"
+  },
+  {
+    "num": "b10quiz-19",
+    "path": "B10小考/b10quiz-19.webp",
+    "answer": [
+      "B"
+    ],
+    "explanation": "Rod cell 和 Cone cell 的比較如下：Rod cell Outer segment 形狀為桿狀；Cone cell Outer segment 形狀為錐形。Synapse 形狀：Rod cell 為圓球狀；Cone cell 為花托狀（上方接觸面積較大）。",
+    "description": "19. A 或 B 哪個是視錐細胞？"
+  },
+  {
+    "num": "b10quiz-20",
+    "path": "B10小考/b10quiz-20.webp",
+    "answer": [
+      "Cervical gland"
+    ],
+    "explanation": "首先要判斷此為何種器官，由上皮組織的變化（從 simple columnar 變成 stratified squamous）能先初步認定此為 cervix 的地方。而在此處的腺體稱為 Cervical gland，位於子宮頸的 lamina propria 中，有分支（branched tubular gland），和 uterine 的 simple tubular gland 不同。",
+    "description": "20. 請寫出所指的腺體名稱"
+  },
+  {
+    "num": "b10quiz-21",
+    "path": "B10小考/b10quiz-21.webp",
+    "answer": [
+      "Retinal pigment epithelium",
+      "pigmented cell layer of retina"
+    ],
+    "explanation": "最靠近 choroid，和 Bruch’s membrane 相連，是 retina 十層中的第一層。",
+    "description": "21. 寫出箭頭所指之細胞名稱。"
+  },
+  {
+    "num": "b10quiz-22",
+    "path": "B10小考/b10quiz-22.webp",
+    "answer": [
+      "Adrenal medulla chromaffin cell"
+    ],
+    "explanation": "可觀察到該器官分為兩層：上層較淡染者為 adrenal cortex，下層則為 adrenal medulla。Medulla 中的 chromaffin cells 含有腎上腺素，會與特殊染色 Zenker-formalin 反應，產生棕色沈澱。",
+    "description": "22. 請問這些細胞位於哪個器官的哪個部份？細胞名稱為何？"
+  },
+  {
+    "num": "b10quiz-23",
+    "path": "B10小考/b10quiz-23.webp",
+    "answer": [
+      "Ora serrata"
+    ],
+    "explanation": "Retina 分為 cecal part（nonvisual part）跟 optic part（visual part）。兩者交界處稱為 ora serrata。",
+    "description": "23. 這個 junction 的完整名稱是什麼？"
+  },
+  {
+    "num": "b10quiz-24",
+    "path": "B10小考/b10quiz-24.webp",
+    "answer": [
+      "Seminiferous tubule Spermatid"
+    ],
+    "explanation": "Spermatid 靠近 lumen，特徵為小細胞、深染，已經看不見染色質絲。",
+    "description": "24. 請問視野下的構造和細胞名稱(紅色箭頭)"
+  },
+  {
+    "num": "b10quiz-25",
+    "path": "B10小考/b10quiz-25.webp",
+    "answer": [
+      "Cupula"
+    ],
+    "explanation": "視野下的構造為 crista ampullaris，其上會覆有一層透明狀的 cupula。",
+    "description": "25. 請寫出紅色箭號所指的構造名稱"
+  },
+  {
+    "num": "b10quiz-26",
+    "path": "B10小考/b10quiz-26.webp",
+    "answer": [
+      "Ductus deferens",
+      "Vas deferens"
+    ],
+    "explanation": "有非常厚的肌肉層（內縱中環外縱），為辨認重點。",
+    "description": "26. 以下構造為何"
+  },
+  {
+    "num": "b10quiz-27",
+    "path": "B10小考/b10quiz-27.webp",
+    "answer": [
+      "outer plexiform layer of the retina",
+      "OPL"
+    ],
+    "explanation": "Outer plexiform layer(OPL) 有 rod 和 cone 細胞的 process，在 outer nuclear layer 和 inner nuclear layer 之間。",
+    "description": "27. 這層是什麼"
+  },
+  {
+    "num": "b10quiz-28",
+    "path": "B10小考/b10quiz-28.webp",
+    "answer": [
+      "Pineal gland Pinealocyte"
+    ],
+    "explanation": "由 septum 所圍出的 lobule 之中大部分細胞具有圓形淡染細胞核，為 pinealocytes；少數具有不規則狀深染細胞核者為 interstitial cells (藍色箭頭)。",
+    "description": "28. 請寫出下列器官名稱和紅色箭頭所指細胞名稱"
+  },
+  {
+    "num": "b10quiz-29",
+    "path": "B10小考/b10quiz-29.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "Seminal vesicle 的特徵為蜂窩狀的管腔、上皮屬於 pseudostratified columnar epithelium、外圍有內環外縱的肌肉層。",
+    "description": "29. 請問這是什麼構造？"
+  },
+  {
+    "num": "b10quiz-30",
+    "path": "B10小考/b10quiz-30.webp",
+    "answer": [
+      "Tectorial membrane"
+    ],
+    "explanation": "從 hair cell 可以判斷出這是 organ of corti，由左側 spiral limbus 延伸到 outer hair cell 的膜狀構造為 tectorial membrane。",
+    "description": "30. 請問指針所指為何構造？"
+  },
+  {
+    "num": "b10quiz-31",
+    "path": "B10小考/b10quiz-31.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "由豐富的 smooth muscle 還有 prostatic concretion（Corpora amylacea）可以判斷。",
+    "description": "31. 請問寫出視野下的器官名稱。"
+  },
+  {
+    "num": "b10quiz-32",
+    "path": "B10小考/b10quiz-32.webp",
+    "answer": [
+      "Auditory tube",
+      "Eustachian tube",
+      "Bartolomeo Eustachi"
+    ],
+    "explanation": "Bony portion 的上皮從 tympanic membrane 延伸過來，都是 simple columnar epithelium，往內的 cartilaginous portion 開始出現 pseudostratified columnar epithelium ，並開始有 mucin 分泌（出現淡染空泡狀 goblet cells)。",
+    "description": "32. 請寫出視野下構造的名稱（寫出人名加分）。"
+  },
+  {
+    "num": "b10quiz-33",
+    "path": "B10小考/b10quiz-33.webp",
+    "answer": [
+      "Stratified columnar epithelium"
+    ],
+    "explanation": "尿道周邊有許多 trabeculae 和 venous sinus，故可判斷應為 penile urethra，此處上皮為人體少見之 stratified columnar epithelium。",
+    "description": "33. 箭頭所指是何種上皮組織？"
+  },
+  {
+    "num": "b10quiz-34",
+    "path": "B10小考/b10quiz-34.webp",
+    "answer": [
+      "Ductus epididymis Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "Ductus epididymis 上皮為 pseudostratified columnar epithelium with stereocilia，管腔連續完整，epithelium 高度較高。",
+    "description": "34. 請寫出構造名稱以及上皮名稱。"
+  },
+  {
+    "num": "b10quiz-35",
+    "path": "B10小考/b10quiz-35.webp",
+    "answer": [
+      "Anterior lobe of pituitary gland acidophil"
+    ],
+    "explanation": "在 pituitary gland 的 pars distalis（深染部分），可以看到 3 種細胞：Acidophil：細胞較 basophils 小，細胞質呈紅色。Basophil：細胞較 acidophils 大，細胞質呈藍紫色。Chromophobes：細胞質極淡染，僅可見其細胞核。",
+    "description": "35. 下圖來自什麼器官？箭頭所指細胞為何？"
+  }
+]

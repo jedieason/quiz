@@ -1,0 +1,299 @@
+[
+  {
+    "num": "b03lab-01",
+    "path": "B03期末考/b03lab-01.webp",
+    "answer": [
+      "Inactive mammary gland"
+    ],
+    "explanation": "大量的脂肪組織與環繞在TDLU外的myoepithelial cell為特徵，中間萎縮的TDLU可以判斷為inactive。",
+    "description": " 以下構造為何？（要分時期）"
+  },
+  {
+    "num": "b03lab-02",
+    "path": "B03期末考/b03lab-02.webp",
+    "answer": [
+      "Corpus spongiosum"
+    ],
+    "explanation": "圖中央為尿道上皮，屬於stratified columnar epithelium。",
+    "description": "下圖整個構造為何？ "
+  },
+  {
+    "num": "b03lab-03",
+    "path": "B03期末考/b03lab-03.webp",
+    "answer": [
+      "Chromaffin cell"
+    ],
+    "explanation": "箭頭指的是medulla，medulla中核小深染的為chromaffin cell，較大的為ganglion cell。 ",
+    "description": " 箭頭所指的細胞為何？"
+  },
+  {
+    "num": "b03lab-04",
+    "path": "B03期末考/b03lab-04.webp",
+    "answer": [
+      "Vagina"
+    ],
+    "explanation": "可見有核的非角質化複層扁平上皮，內部多glycogen因此呈現空染狀。下方為dense CNT的lamina propria，在右下角有venous sinus。 ",
+    "description": " 下列構造為何？"
+  },
+  {
+    "num": "b03lab-05",
+    "path": "B03期末考/b03lab-05.webp",
+    "answer": [
+      "Venous sinus"
+    ],
+    "explanation": "此為富含平滑肌的Corpora cavernosa，左側為充滿collagen fiber 的 tunica albuginea。",
+    "description": "箭頭所指的空腔為何？ "
+  },
+  {
+    "num": "b03lab-06",
+    "path": "B03期末考/b03lab-06.webp",
+    "answer": [
+      "Intervillous space"
+    ],
+    "explanation": "有明顯的 villi，外層有深染多核 syncytiotrophoblast，在內層有淡染而大的cytotrophoblast，villi內的 mesenchymal cell，深染的macrophage，以及tertiary villi中的 capillary浸潤，所以這裡是placenta，villi間的空間就稱為intervillous space，裡面也可以觀察到血球。",
+    "description": " 箭頭所指的位置為何？"
+  },
+  {
+    "num": "b03lab-07",
+    "path": "B03期末考/b03lab-07.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "超級厚的平滑肌層，若仔細看，可以看到分三層，內縱中環外縱。管內上皮也被擠出像是梅花的形狀。",
+    "description": " 請問圖中構造為何？"
+  },
+  {
+    "num": "b03lab-08",
+    "path": "B03期末考/b03lab-08.webp",
+    "answer": [
+      "Cornea"
+    ],
+    "explanation": "非常漂亮且標準的角膜切片，corneal epithelium與中間很厚的corneal stroma 為特徵。注意空腔不是血管，是artifact，cornea 的 stroma沒有血管。 Cornea 從上到下分成五層：corneal epithelium → Bowman’s membrane → corneal stroma →Descemet’s membrane → endothelium。 ",
+    "description": "請問圖中構造為何？ "
+  },
+  {
+    "num": "b03lab-09",
+    "path": "B03期末考/b03lab-09.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "位於cochlear duct 表面的特化上皮就是stria vascularis，其中有豐富的capillary，功能是製造分泌endolymph，圖右可見organ of Corti。 ",
+    "description": " 請問箭頭所指的構造為何？"
+  },
+  {
+    "num": "b03lab-10",
+    "path": "B03期末考/b03lab-10.webp",
+    "answer": [
+      "Oviduct（uterine tube）"
+    ],
+    "explanation": "高度扭曲分支的上皮，內環外縱的平滑肌可看出是輸卵管。",
+    "description": "下列整個構造為何？"
+  },
+  {
+    "num": "b03lab-11",
+    "path": "B03期末考/b03lab-11.webp",
+    "answer": [
+      "Tunica albuginea"
+    ],
+    "explanation": "右側為 corpus cavernosa，包裹在其外的組織即為tunica albuginea，充滿 collagen fiber 因此特殊染色呈現藍綠色。",
+    "description": "箭頭所指的構造為何？"
+  },
+  {
+    "num": "b03lab-12",
+    "path": "B03期末考/b03lab-12.webp",
+    "answer": [
+      "Scrotum"
+    ],
+    "explanation": "此為Orcein-Picroindigocarmine-Carmine stain，視野中可見含有pigment cells 的 epidermis、富含 collagen fiber的 dermis以及不含fat cell的 subcutaneous layer。 ",
+    "description": "下列組織可見於何種器官？"
+  },
+  {
+    "num": "b03lab-13",
+    "path": "B03期末考/b03lab-13.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "由豐富的smooth muscle還有prostatic concretion（Corpora amylacea）可以判斷。 ",
+    "description": "下列組織可見於何種器官？"
+  },
+  {
+    "num": "b03lab-14",
+    "path": "B03期末考/b03lab-14.webp",
+    "answer": [
+      "A：Spermatid B：Spermatozoa"
+    ],
+    "explanation": "A呈現球狀，無明顯尾部，應為spermatid；B則呈現細長型，應為spermatozoa。 ",
+    "description": "A箭頭為何？B箭頭為何？"
+  },
+  {
+    "num": "b03lab-15",
+    "path": "B03期末考/b03lab-15.webp",
+    "answer": [
+      "Acidophil"
+    ],
+    "explanation": "此為腦垂腺前葉切片，視野下呈粉紅色之細胞即為acidophil。 ",
+    "description": "指針所指細胞為何？"
+  },
+  {
+    "num": "b03lab-16",
+    "path": "B03期末考/b03lab-16.webp",
+    "answer": [
+      "Central adrenomedullary vein"
+    ],
+    "explanation": "由圖可知為位在adrenal medulla中的大型管道，呈不規則形狀，並有內皮細胞圍繞，可知為central adrenomedullary vein。",
+    "description": "箭頭所指的構造為何？"
+  },
+  {
+    "num": "b03lab-17",
+    "path": "B03期末考/b03lab-17.webp",
+    "answer": [
+      "Stratum granulosum（Membrana granulosa）"
+    ],
+    "explanation": "細胞數量非常多而密集，右側即為follicle內部空腔，故可知該層必為stratum granulosum，因此虛線左側為theca interna。 ",
+    "description": "箭頭所指的構造為何？ "
+  },
+  {
+    "num": "b03lab-18",
+    "path": "B03期末考/b03lab-18.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "位於seminiferous tubules 之間，細胞大且為嗜酸性染色。",
+    "description": "A框框的箭頭所指的是什麼細胞？"
+  },
+  {
+    "num": "b03lab-19",
+    "path": "B03期末考/b03lab-19.webp",
+    "answer": [
+      "Proliferative phase of uterus"
+    ],
+    "explanation": "本切片無法直接辨認出early或late，但因為glands相對比較直，因此比較接近early。",
+    "description": "此為何種構造？（須註明時期）"
+  },
+  {
+    "num": "b03lab-20",
+    "path": "B03期末考/b03lab-20.webp",
+    "answer": [
+      "Ductus efferentes"
+    ],
+    "explanation": "管腔呈星狀，且高低不平為其最大特徵。",
+    "description": "此為何種構造？"
+  },
+  {
+    "num": "b03lab-21",
+    "path": "B03期末考/b03lab-21.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "cilia 高低不一，且頂端會圍出一圈粉紅色的東西。此為epididymis 的切片。",
+    "description": "此為何種上皮組織？ "
+  },
+  {
+    "num": "b03lab-22",
+    "path": "B03期末考/b03lab-22.webp",
+    "answer": [
+      "Parafollicular cell"
+    ],
+    "explanation": "周圍可見 thyroid follicle 以及 colloid，在 follicle 之間呈現淡染大顆的細胞就是parafollicular cell。",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "b03lab-23",
+    "path": "B03期末考/b03lab-23.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "可見外圍的平滑肌壁、呈現蜂窩狀的mucosal folds還有中間的lumen。 ",
+    "description": "此為何種構造？"
+  },
+  {
+    "num": "b03lab-24",
+    "path": "B03期末考/b03lab-24.webp",
+    "answer": [
+      "Nabothian cyst"
+    ],
+    "explanation": "一團實心的東西堵住cervical gland的開口，通常位置會靠近ectocervix 的表面。",
+    "description": "箭頭所指的為何種構造？"
+  },
+  {
+    "num": "b03lab-25",
+    "path": "B03期末考/b03lab-25.webp",
+    "answer": [
+      "Conjunctiva"
+    ],
+    "explanation": "圖片下方有stratified columnar epithelium with goblet cells 以及tarsal glands。",
+    "description": "視野下的構造是什麼？"
+  },
+  {
+    "num": "b03lab-26",
+    "path": "B03期末考/b03lab-26.webp",
+    "answer": [
+      "Scala media"
+    ],
+    "explanation": "箭頭所指空腔中有organ of Corti。 上中下三個腔室分別為scala vestibuli、scala media以及 scala tympani。",
+    "description": "箭頭所指的區域為何？ "
+  },
+  {
+    "num": "b03lab-27",
+    "path": "B03期末考/b03lab-27.webp",
+    "answer": [
+      "Retina"
+    ],
+    "explanation": "retina 分成十層，看到非常多層不同細胞組成的構造就是retina。",
+    "description": "框框內的構造是什麼？"
+  },
+  {
+    "num": "b03lab-28",
+    "path": "B03期末考/b03lab-28.webp",
+    "answer": [
+      "Retinal pigment layer"
+    ],
+    "explanation": "在choroid正上方，細胞顏色明顯深染的一層即為retinal pigment layer。 ",
+    "description": "箭頭所指的這層構造為何？"
+  },
+  {
+    "num": "b03lab-29",
+    "path": "B03期末考/b03lab-29.webp",
+    "answer": [
+      "Organ of Corti"
+    ],
+    "explanation": "介於scala media以及 scala tympani之間的構造即為organ of Corti。",
+    "description": "框框裡的構造是什麼？"
+  },
+  {
+    "num": "b03lab-30",
+    "path": "B03期末考/b03lab-30.webp",
+    "answer": [
+      "Cupula"
+    ],
+    "explanation": "視野下的構造為crista ampullaris，其上會覆有一層透明狀的cupula。 ",
+    "description": "箭頭所指構造是什麼？"
+  },
+  {
+    "num": "b03lab-31",
+    "path": "B03期末考/b03lab-31.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "圖片右方為organ of Corti，spiral ganglion 是 cochlear nerve的ganglion。 ",
+    "description": "箭頭所指的構造為何？"
+  },
+  {
+    "num": "b03lab-32",
+    "path": "B03期末考/b03lab-32.webp",
+    "answer": [
+      "Spiral artery"
+    ],
+    "explanation": "Spiral artery 剛好切到的時候會看到一堆連續的圓圈血管橫斷面，此為secretory phase uterus 切片。",
+    "description": "箭頭所指的構造為何？"
+  },
+  {
+    "num": "b03lab-33",
+    "path": "B03期末考/b03lab-33.webp",
+    "answer": [
+      "Schlemm’s canal"
+    ],
+    "explanation": "在靠近 sclera和 cornea交界的地方會出現空洞狀的管腔，可以回收水狀液，名為Schlemm’s canal。 而Trabecular meshwork 則是在 cornea最內層的 endothelium的空洞狀構造。",
+    "description": "箭頭所指的構造為何？"
+  }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "num": "21",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5739.webp",
+        "answer": [
+            "bed bug",
+            "臭蟲"
+        ],
+        "explanation": "臭蟲。身體扁平卵圓形，無翅。具有刺吸式口器。六隻腳，腳上無特殊鉤爪。胸部背板前緣凹陷，頭部部分嵌入其中。",
+        "description": ""
+    },
+    {
+        "num": "29",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5747.webp",
+        "answer": [
+            "tick",
+            "蜱"
+        ],
+        "explanation": "蜱。身體分為顎體 (capitulum/gnathosoma) 和軀體 (idiosoma)。成蟲及若蟲有八隻腳，幼蟲六隻腳。具有口下板 (hypostome) 用於吸血。背部可能有盾板 (scutum)。與蟎區分：蜱體型較大，口下板外露且具倒齒；蟎體型較小。與蝨區分：蝨為昆蟲，六隻腳。",
+        "description": ""
+    },
+    {
+        "num": "39",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5757.webp",
+        "answer": [
+            "蟎",
+            "mite"
+        ],
+        "explanation": "蟎。體型微小。成蟲及若蟲有八隻腳，足較短。與蜱區分：蜱體型較大，口下板外露且發達；蟎的口器部分（顎體）相對較小。與蝨區分：蝨為昆蟲，六隻腳。圖中可能為疥蟎，足末端有爪或吸盤，部分足有長毛。",
+        "description": ""
+    },
+    {
+        "num": "48",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5766.webp",
+        "answer": [
+            "陰蝨",
+            "Crab louse"
+        ],
+        "explanation": "陰蝨 (Phthirus pubis)。蟲體短而寬，略呈螃蟹狀。六隻腳，前對足細小，中後對足粗壯，末端有強大的鉤爪，適於抓握陰毛或粗毛。腹部節片癒合不明顯。",
+        "description": ""
+    },
+    {
+        "num": "51",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5769.webp",
+        "answer": [
+            "跳蚤",
+            "flea"
+        ],
+        "explanation": "跳蚤。蟲體左右扁平。無翅。具有刺吸式口器。六隻腳，後腿強壯有力，適於跳躍。部分種類頭部或前胸背板具有櫛梳 (ctenidia)。",
+        "description": ""
+    },
+    {
+        "num": "76",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5794.webp",
+        "answer": [
+            "Armillifer agkistrodontis"
+        ],
+        "explanation": "百步蛇舌形蟲。雌成蟲身體呈念珠狀或佛珠狀，有明顯的環節。雄成蟲較小，環節不明顯。",
+        "description": ""
+    },
+    {
+        "num": "120",
+        "path": "",
+        "answer": [
+            "fly",
+            "蒼蠅"
+        ],
+        "explanation": "Thelazia callipaeda (眼結膜吸吮線蟲) 的中間宿主是某些種類的果蠅或舐食性蠅類。",
+        "description": "寫出Thelazia callipaeda 的中間宿主？（可寫中文）"
+    },
+    {
+        "num": "122",
+        "path": "",
+        "answer": [
+            "狗蚤",
+            "貓蚤",
+            "狗蝨",
+            "dog flea",
+            "Dog flea",
+            "Cat flea",
+            "cat flea"
+        ],
+        "explanation": "犬絛蟲 (Dipylidium caninum) 的中間宿主主要是狗蚤 (Ctenocephalides canis) 或貓蚤 (Ctenocephalides felis)，偶爾也可是狗蝨 (Trichodectes canis)。",
+        "description": "寫出一種Dipylidium caninum 的中間宿主？（可寫中文）（這題沒圖片）"
+    },
+    {
+        "num": "145",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0046.webp",
+        "answer": [
+            "蟎",
+            "疥蟎",
+            "Mite",
+            "mite",
+            "itch mite",
+            "Itch mite"
+        ],
+        "explanation": "疥蟎 (Human itch mite)。體型微小，圓形或卵圓形。成蟲八足。表皮有細橫紋及少量剛毛或棘。足短，部分足末端有長吸盤狀構造。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "146",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0047.webp",
+        "answer": [
+            "頭蝨",
+            "體蝨",
+            "Human head louse"
+        ],
+        "explanation": "頭蝨或體蝨。蟲體長橢圓形，背腹扁平。六隻腳，足末端有爪適於抓握毛髮。頭蝨通常在頭髮，體蝨在衣物縫線處。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "147",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0048.webp",
+        "answer": [
+            "Armillifer agkistrodontis",
+            "Armillifer agkistrodontis adult",
+            "Armillifer agkistrodontis female adult",
+            "Armillifer agkistrodontis 成蟲",
+            "Armillifer agkistrodontis 雌成蟲"
+        ],
+        "explanation": "百步蛇舌形蟲雌成蟲。身體呈念珠狀，有明顯環節。",
+        "description": ""
+    },
+    {
+        "num": "148",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0049.webp",
+        "answer": [
+            "tick",
+            "蜱",
+            "Tick"
+        ],
+        "explanation": "蜱。成蟲八足。身體分顎體和軀體。顎體有口下板。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "149",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0050.webp",
+        "answer": [
+            "Armillifer agkistrodontis",
+            "Armillifer agkistrodontis larva",
+            "Armillifer agkistrodontis 幼蟲"
+        ],
+        "explanation": "百步蛇舌形蟲幼蟲。蟲體呈C形或環形，有體環。",
+        "description": ""
+    },
+    {
+        "num": "150",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0051.webp",
+        "answer": [
+            "Leech",
+            "水蛭",
+            "山蛭",
+            "蛭",
+            "leech"
+        ],
+        "explanation": "蛭類 (Leech)。身體分節，前後端各有一個吸盤，後吸盤較大。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "151",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0052.webp",
+        "answer": [
+            "陰蝨",
+            "crab louse"
+        ],
+        "explanation": "陰蝨。蟲體短寬如蟹。中後對足粗壯，末端有強大鉤爪。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "152",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0053.webp",
+        "answer": [
+            "臭蟲",
+            "bed bug",
+            "Bed bug"
+        ],
+        "explanation": "臭蟲。身體扁平卵圓形。六足。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "153",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0054.webp",
+        "answer": [
+            "Ctenocephalides spp.",
+            "跳蚤",
+            "人蚤",
+            "貓蚤",
+            "狗蚤",
+            "Pulex irritans",
+            "flea",
+            "Flea"
+        ],
+        "explanation": "跳蚤。體側扁。後腿強壯適於跳躍。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "161",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0055.webp",
+        "answer": [
+            "雜質"
+        ],
+        "explanation": "指針指的是雜質，因為沒有卵殼和內涵物(如卵細胞、幼蟲等寄生蟲結構)。",
+        "description": ""
+    },
+    {
+        "num": "197",
+        "path": "./舌蟲、蛭類、節肢動物/IM-0057.webp",
+        "answer": [
+            "雜質"
+        ],
+        "explanation": "指針指的是雜質。因為沒有內涵物(如卵細胞、幼蟲等)。要判斷為蟲卵，必須要有卵殼和內涵物，缺一不可。",
+        "description": ""
+    },
+    {
+        "num": "267",
+        "path": "舌蟲、蛭類、節肢動物/leech.webp",
+        "answer": [
+            "Leech",
+            "水蛭",
+            "山蛭",
+            "蛭",
+            "leech",
+            "land leech"
+        ],
+        "explanation": "蛭類。身體分節，前後端各有一個吸盤。",
+        "description": ""
+    }
+]

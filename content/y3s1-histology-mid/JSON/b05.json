@@ -1,0 +1,320 @@
+[
+    {
+        "num": "b05_01",
+        "path": "b05/b05_01.webp",
+        "answer": [
+            "Internal elastic lamina"
+        ],
+        "explanation": "血管Tunica media中可見elastic fiber layer，且為蜷曲構造，最靠近tunica intima的那層為Internal elastic lamina",
+        "description": "箭頭所指為何種構造？"
+    },
+    {
+        "num": "b05_02",
+        "path": "b05/b05_02.webp",
+        "answer": [
+            "White adipose tissue"
+        ],
+        "explanation": "Osmic acid 染色並固定脂肪，被染到的地方呈現黑色",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_03",
+        "path": "b05/b05_03.webp",
+        "answer": [
+            "Nucleolus"
+        ],
+        "explanation": "核有雙層膜構造，周圍被ER包圍。核中Electron dense的地方即為核仁",
+        "description": "箭頭所指是何種構造？"
+    },
+    {
+        "num": "b05_04",
+        "path": "b05/b05_04.webp",
+        "answer": [
+            "Macrophage"
+        ],
+        "explanation": "核有凹陷，可見被macrophage吞噬的trypan blue (vital stain) ，形成Phagosome，呈藍灰色。而核的地方略顯紅色，因為使用carmine染色。",
+        "description": "箭號所指為何細胞？（vital stain）"
+    },
+    {
+        "num": "b05_05",
+        "path": "b05/b05_05.webp",
+        "answer": [
+            "Vasa Vasorum"
+        ],
+        "explanation": "此圖為Elastic artery，tunica adventitia中有血管供應血管組織養分，稱為Vasa Vasorum，可見small artery（左）核向內突；small vein（右）臂薄且內皮平滑",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_06",
+        "path": "b05/b05_06.webp",
+        "answer": [
+            "Noncornified stratified squamous epithelium"
+        ],
+        "explanation": "可見多層扁平上皮，且其上方並沒有角質化構造。",
+        "description": "箭頭所指是何種組織？"
+    },
+    {
+        "num": "b05_07",
+        "path": "b05/b05_07.webp",
+        "answer": [
+            "skeletal muscle/tendon"
+        ],
+        "explanation": "此細胞具有橫紋，多核且分佈在細胞邊緣，推測是骨骼肌細胞，而其旁邊有連接肌腱，為dense regular CNT，collagen fiber之間有紡錘狀的fibroblast",
+        "description": "下列是哪兩種組織？（格式:上部組織/下部組織）"
+    },
+    {
+        "num": "b05_08",
+        "path": "b05/b05_08.webp",
+        "answer": [
+            "Lysosome"
+        ],
+        "explanation": "深黑色圓型小泡（electron dense）",
+        "description": "下圖編號L是何種構造？"
+    },
+    {
+        "num": "b05_09",
+        "path": "b05/b05_09.webp",
+        "answer": [
+            "axon",
+            "myelin sheath"
+        ],
+        "explanation": "兩張圖皆為橫切面，左圖為HE染色，可見一圈圈myelin sheath（空染），其中含有axon；右圖則為osmium染脂質（黑色），因此只有myelin sheath被染到",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_10",
+        "path": "b05/b05_10.webp",
+        "answer": [
+            "pseudostratified columnar epithelium with cilia",
+            "basal body"
+        ],
+        "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為cilia（microvilli只會是地毯狀)，箭頭所指深染紅線為cilia基部的basal body",
+        "description": "下列是何種組織？箭頭所指為何種構造？"
+    },
+    {
+        "num": "b05_11",
+        "path": "b05/b05_11.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圍繞在硬骨組織的骨小針周遭，體型較大，頂部多核，細胞被染成比較紅的顏色。",
+        "description": "箭號所指為何種細胞？"
+    },
+    {
+        "num": "b05_12",
+        "path": "b05/b05_12.webp",
+        "answer": [
+            "Elastic cartilage"
+        ],
+        "explanation": "Orcein stains 染 elastic fibers呈現棕色，為特",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_13",
+        "path": "b05/b05_13.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "左圖為縱切，細胞核呈梭狀位在中央；右圖為橫切，細胞的大小差異大，但形狀相似",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_14",
+        "path": "b05/b05_14.webp",
+        "answer": [
+            "White adipose tissue"
+        ],
+        "explanation": "因為油滴在玻片製作過程（HE stain）中被溶解，成為大空泡，核被擠到旁邊。",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_15",
+        "path": "b05/b05_15.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "細胞核會偏一邊 ，因為這裡的細胞是multipolar，使得周遭的satellite cells較少，且細胞不是像背根神經節（DRG）細胞一樣呈圓形。",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_16",
+        "path": "b05/b05_16.webp",
+        "answer": [
+            "Proliferation zone",
+            "endochondral bone formation"
+        ],
+        "explanation": "由圖中可見，軟骨細胞數量極多，彷彿正在增生，因此為 proliferation zone",
+        "description": "下列是何種區域？（何種成骨方式）"
+    },
+    {
+        "num": "b05_17",
+        "path": "b05/b05_17.webp",
+        "answer": [
+            "Dense irregular connective tissue"
+        ],
+        "explanation": "Fiber排列緊密，相較細胞多出很多，為緻密型，但fiber排列凌亂，為irregular CNT",
+        "description": "箭頭所指是何種組織？"
+    },
+    {
+        "num": "b05_18",
+        "path": "b05/b05_18.webp",
+        "answer": [
+            "Fibrocartilage"
+        ],
+        "explanation": "含regular fibers，有成列的 chondrocytes in lacunae",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_19",
+        "path": "b05/b05_19.webp",
+        "answer": [
+            "Endothelial cell"
+        ],
+        "explanation": "血管之內皮細胞（中間的黑色物質應為血球）",
+        "description": "箭號所指為何細胞？"
+    },
+    {
+        "num": "b05_20",
+        "path": "b05/b05_20.webp",
+        "answer": [
+            "Mast cell"
+        ],
+        "explanation": "Metachromasia：Toluidine blue stains granules （藍色轉為紫紅色）",
+        "description": "箭號所指為何細胞？"
+    },
+    {
+        "num": "b05_21",
+        "path": "b05/b05_21.webp",
+        "answer": [
+            "compact bone decalcified bone"
+        ],
+        "explanation": "染成紅色，視野下可見有機質",
+        "description": "下列是何種組織/何種製備方式"
+    },
+    {
+        "num": "b05_22",
+        "path": "b05/b05_22.webp",
+        "answer": [
+            "Intercalated disc"
+        ],
+        "explanation": "心肌細胞之間的連接構造",
+        "description": "箭號所指是何種構造？"
+    },
+    {
+        "num": "b05_23",
+        "path": "b05/b05_23.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "為軸突末梢接觸於肌肉之部分。",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_24",
+        "path": "b05/b05_24.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "較紅血球大很多，加上細胞核有明顯凹陷，明顯為單核球。",
+        "description": "下列是何種白血球？"
+    },
+    {
+        "num": "b05_25",
+        "path": "b05/b05_25.webp",
+        "answer": [
+            "Purkinje fiber"
+        ],
+        "explanation": "較心肌細胞大，核與核間距較大，較淡染（因myofibril少，glycogen多）",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_26",
+        "path": "b05/b05_26.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cell"
+        ],
+        "explanation": "可見單層柱狀上皮細胞，同時有白色空泡狀 goblet cells和 地毯狀microvilli",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_27",
+        "path": "b05/b05_27.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "3x9+0 microtubules，因centrosome由兩個互相垂直的centriole組成，所以旁邊有l.s.的centriole",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_28",
+        "path": "b05/b05_28.webp",
+        "answer": [
+            "Plasma cell"
+        ],
+        "explanation": "negative image of golgi apparatus， 並有車輪狀細胞核。",
+        "description": "箭頭所指是何種細胞？"
+    },
+    {
+        "num": "b05_29",
+        "path": "b05/b05_29.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "深藍色顆粒，核不清楚。",
+        "description": "下列是何種白血球？"
+    },
+    {
+        "num": "b05_30",
+        "path": "b05/b05_30.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "每個細胞均有接觸到basal membrane，表層有長短不一毛筆狀之stereocilia。",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_31",
+        "path": "b05/b05_31.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "3x9 microtubules ，位於cilia底部。",
+        "description": "箭頭所指是何種構造？"
+    },
+    {
+        "num": "b05_32",
+        "path": "b05/b05_32.webp",
+        "answer": [
+            "Areolar tissue"
+        ],
+        "explanation": "見elastic fibers （purple）and collagen（pink），細胞間基質多",
+        "description": "下列是何種組織？"
+    },
+    {
+        "num": "b05_33",
+        "path": "b05/b05_33.webp",
+        "answer": [
+            "Tunica adventitia"
+        ],
+        "explanation": "此圖為Large vein，其tunica adventitia為三層中最厚的一層，有縱走平滑肌束，並穿插許多collagen fibers。",
+        "description": "下列是何種構造？"
+    },
+    {
+        "num": "b05_34",
+        "path": "b05/b05_34.webp",
+        "answer": [
+            "Simple cuboidal epithelium"
+        ],
+        "explanation": "單層立方狀，核位於細胞正中央。",
+        "description": "箭頭所指為何組織？"
+    },
+    {
+        "num": "b05_35",
+        "path": "b05/b05_35.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "排列不整齊的偽單層，又有cilia附著其上，為Pseudostratified columnar epithelium with cilia。",
+        "description": "下列是何種構造？"
+    }
+]

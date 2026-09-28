@@ -1,0 +1,690 @@
+[
+    {
+        "num": "EM_01",
+        "path": "EM/EM_01.webp",
+        "answer": [
+            "P-face plasma membrane"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "下半部構造為何"
+    },
+    {
+        "num": "EM_02",
+        "path": "EM/EM_02.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_03",
+        "path": "EM/EM_03.webp",
+        "answer": [
+            "lysosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_04",
+        "path": "EM/EM_04.webp",
+        "answer": [
+            "mitochondria"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "3為何"
+    },
+    {
+        "num": "EM_05",
+        "path": "EM/EM_05.webp",
+        "answer": [
+            "smooth endoplasmic reticulum"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "4為何"
+    },
+    {
+        "num": "EM_06",
+        "path": "EM/EM_06.webp",
+        "answer": [
+            "plasma membrane"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "5為何"
+    },
+    {
+        "num": "EM_07",
+        "path": "EM/EM_07.webp",
+        "answer": [
+            "nuclear envelope"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_08",
+        "path": "EM/EM_08.webp",
+        "answer": [
+            "heterochromatin"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_09",
+        "path": "EM/EM_09.webp",
+        "answer": [
+            "ribosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "3為何"
+    },
+    {
+        "num": "EM_10",
+        "path": "EM/EM_10.webp",
+        "answer": [
+            "granular material"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_11",
+        "path": "EM/EM_11.webp",
+        "answer": [
+            "fibrillar center"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_12",
+        "path": "EM/EM_12.webp",
+        "answer": [
+            "fibrillar material"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "3為何"
+    },
+    {
+        "num": "EM_13",
+        "path": "EM/EM_13.webp",
+        "answer": [
+            "mitochondria"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_14",
+        "path": "EM/EM_14.webp",
+        "answer": [
+            "peroxisome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_15",
+        "path": "EM/EM_15.webp",
+        "answer": [
+            "nuclear lamina"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "4為何"
+    },
+    {
+        "num": "EM_16",
+        "path": "EM/EM_16.webp",
+        "answer": [
+            "phagosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_17",
+        "path": "EM/EM_17.webp",
+        "answer": [
+            "phagosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_18",
+        "path": "EM/EM_18.webp",
+        "answer": [
+            "lysosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_19",
+        "path": "EM/EM_19.webp",
+        "answer": [
+            "axon"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "中間是什麼構造？"
+    },
+    {
+        "num": "EM_20",
+        "path": "EM/EM_20.webp",
+        "answer": [
+            "intermediate filament"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_21",
+        "path": "EM/EM_21.webp",
+        "answer": [
+            "microtubule"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_22",
+        "path": "EM/EM_22.webp",
+        "answer": [
+            "matrix granule",
+            "calcium phosphate"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_23",
+        "path": "EM/EM_23.webp",
+        "answer": [
+            "striation"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_24",
+        "path": "EM/EM_24.webp",
+        "answer": [
+            "glycogen"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_25",
+        "path": "EM/EM_25.webp",
+        "answer": [
+            "peroxisome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_26",
+        "path": "EM/EM_26.webp",
+        "answer": [
+            "lipid"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_27",
+        "path": "EM/EM_27.webp",
+        "answer": [
+            "peroxisome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_28",
+        "path": "EM/EM_28.webp",
+        "answer": [
+            "mitochondria"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_29",
+        "path": "EM/EM_29.webp",
+        "answer": [
+            "tight junction"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_30",
+        "path": "EM/EM_30.webp",
+        "answer": [
+            "intermediate junction"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_31",
+        "path": "EM/EM_31.webp",
+        "answer": [
+            "desmosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_32",
+        "path": "EM/EM_32.webp",
+        "answer": [
+            "intermediate filament"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "3為何"
+    },
+    {
+        "num": "EM_33",
+        "path": "EM/EM_33.webp",
+        "answer": [
+            "terminal web"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "4為何"
+    },
+    {
+        "num": "EM_34",
+        "path": "EM/EM_34.webp",
+        "answer": [
+            "microvilli"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "5為何"
+    },
+    {
+        "num": "EM_35",
+        "path": "EM/EM_35.webp",
+        "answer": [
+            "hemidesmosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_36",
+        "path": "EM/EM_36.webp",
+        "answer": [
+            "basal lamina"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_37",
+        "path": "EM/EM_37.webp",
+        "answer": [
+            "gap junction"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_38",
+        "path": "EM/EM_38.webp",
+        "answer": [
+            "collagen"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_39",
+        "path": "EM/EM_39.webp",
+        "answer": [
+            "secondary lysosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_40",
+        "path": "EM/EM_40.webp",
+        "answer": [
+            "multivesicular body"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_41",
+        "path": "EM/EM_41.webp",
+        "answer": [
+            "lysosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "3為何"
+    },
+    {
+        "num": "EM_42",
+        "path": "EM/EM_42.webp",
+        "answer": [
+            "reticulocyte"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_43",
+        "path": "EM/EM_43.webp",
+        "answer": [
+            "platelet"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_44",
+        "path": "EM/EM_44.webp",
+        "answer": [
+            "neutrophil"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_45",
+        "path": "EM/EM_45.webp",
+        "answer": [
+            "specific granule"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_46",
+        "path": "EM/EM_46.webp",
+        "answer": [
+            "primary granule"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_47",
+        "path": "EM/EM_47.webp",
+        "answer": [
+            "basophil"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_48",
+        "path": "EM/EM_48.webp",
+        "answer": [
+            "specific granule (of basophil)"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_49",
+        "path": "EM/EM_49.webp",
+        "answer": [
+            "eosinophil"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_50",
+        "path": "EM/EM_50.webp",
+        "answer": [
+            "crystalloid body"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_51",
+        "path": "EM/EM_51.webp",
+        "answer": [
+            "megakaryocyte"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_52",
+        "path": "EM/EM_52.webp",
+        "answer": [
+            "platelet demarcation channel"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_53",
+        "path": "EM/EM_53.webp",
+        "answer": [
+            "platelet"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_54",
+        "path": "EM/EM_54.webp",
+        "answer": [
+            "alpha-granule"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_55",
+        "path": "EM/EM_55.webp",
+        "answer": [
+            "monocyte"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_56",
+        "path": "EM/EM_56.webp",
+        "answer": [
+            "lysosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_57",
+        "path": "EM/EM_57.webp",
+        "answer": [
+            "lymphocyte"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_58",
+        "path": "EM/EM_58.webp",
+        "answer": [
+            "macrophage"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_59",
+        "path": "EM/EM_59.webp",
+        "answer": [
+            "phagosome"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_60",
+        "path": "EM/EM_60.webp",
+        "answer": [
+            "mast cell"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_61",
+        "path": "EM/EM_61.webp",
+        "answer": [
+            "elastin"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_62",
+        "path": "EM/EM_62.webp",
+        "answer": [
+            "microfibril"
+        ],
+        "explanation": "Wheater's functional histology",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_63",
+        "path": "EM/EM_63.webp",
+        "answer": [
+            "clathrin-coated vesicle"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "1為何"
+    },
+    {
+        "num": "EM_64",
+        "path": "EM/EM_64.webp",
+        "answer": [
+            "pinocytotic vesicle"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "2為何"
+    },
+    {
+        "num": "EM_65",
+        "path": "EM/EM_65.webp",
+        "answer": [
+            "early endosome"
+        ],
+        "explanation": "Histology: a text and atlas 通靈忽略",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_66",
+        "path": "EM/EM_66.webp",
+        "answer": [
+            "autophagosome"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_67",
+        "path": "EM/EM_67.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "Histology: a text and atlas 通靈忽略",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_68",
+        "path": "EM/EM_68.webp",
+        "answer": [
+            "nuclear lamina",
+            "intermediate filament"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？/ 組成成分？"
+    },
+    {
+        "num": "EM_69",
+        "path": "EM/EM_69.webp",
+        "answer": [
+            "microvilli"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_70",
+        "path": "EM/EM_70.webp",
+        "answer": [
+            "microvilli"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_71",
+        "path": "EM/EM_71.webp",
+        "answer": [
+            "microvilli"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_72",
+        "path": "EM/EM_72.webp",
+        "answer": [
+            "stereocilia"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_73",
+        "path": "EM/EM_73.webp",
+        "answer": [
+            "basal infolding"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_74",
+        "path": "EM/EM_74.webp",
+        "answer": [
+            "plasma cell"
+        ],
+        "explanation": "Histology: a text and atlas",
+        "description": "這是甚麼血液細胞？"
+    },
+    {
+        "num": "EM_75",
+        "path": "EM/EM_75.webp",
+        "answer": [
+            "normoblast"
+        ],
+        "explanation": "Histology: a text and atlas 通靈忽略",
+        "description": "這是甚麼？"
+    },
+    {
+        "num": "EM_76",
+        "path": "EM/EM_76.webp",
+        "answer": [
+            "erythrocyte",
+            "platelet",
+            "lymphocyte"
+        ],
+        "explanation": "https://embryology.med.unsw.edu.au/",
+        "description": "左中右依序為何？"
+    }
+]

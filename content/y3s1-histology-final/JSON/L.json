@@ -1,0 +1,1249 @@
+[
+  {
+    "num": "208204",
+    "path": "L/208204.webp",
+    "answer": [
+      "Hassall’s corpuscle"
+    ],
+    "explanation": "紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】08共筆Vol.11 P.30；09共筆Vol.11 P.33",
+    "description": "箭頭所指構造名稱？"
+  },
+  {
+    "num": "209111",
+    "path": "L/209111.webp",
+    "answer": [
+      "Epithelial reticular cell type 6"
+    ],
+    "explanation": "Hassall’s corpuscle紅色同心圓狀，存在medulla，是辨識thymus的重要特徵，由ERC type 6組成。\n【出處】共筆Vol.11 P.35",
+    "description": "請寫出指針所指「構造」為「何種細胞」組成"
+  },
+  {
+    "num": "204114",
+    "path": "L/204114.webp",
+    "answer": [
+      "Thymus"
+    ],
+    "explanation": "可以看到一個個lobule，且有thymus的重要特徵Hasall’s corpuscle。而左下的圖則看得到involution，也就是退化的狀況，有時跑台會用這張圖問說是哪種生理現象。",
+    "description": "圖片中為什麼器官？（三者為同一個器官）"
+  },
+  {
+    "num": "204115",
+    "path": "L/204115.webp",
+    "answer": [
+      "Lymph node"
+    ],
+    "explanation": "辨識lymph node的指標為lymphatic nodule、cortex和medulla（由外到內）。最外圍的粉紅色是capsule。沒有Hasall’s corpuscle。",
+    "description": "圖片中為何種器官？"
+  },
+  {
+    "num": "204116",
+    "path": "L/204116.webp",
+    "answer": [
+      "Central artery"
+    ],
+    "explanation": "此為spleen。有white pulp（深染），red pulp（較淡染）。White pulp中又分為germinal center（中間）和mantle zone（周圍），germinal center 偏一側看到的圓球狀構造即是central artery（顏色較淺），為trabecular a.走到white pulp裡的構造。 ",
+    "description": "箭頭所指為什麼管道？"
+  },
+  {
+    "num": "204117",
+    "path": "L/204117.webp",
+    "answer": [
+      "High endothelial venule"
+    ],
+    "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。 ",
+    "description": "箭頭所指為什麼構造？"
+  },
+  {
+    "num": "204118",
+    "path": "L/204118.webp",
+    "answer": [
+      "Lingual tonsil"
+    ],
+    "explanation": "此為位於舌根的lingual tonsil。在低倍下最明顯的特徵就是crypt淺，無分岔。有類似桌狀結構，lamina propria 內同樣有許多 follicles。高倍下可看出表面是由noncornified stratified squamous epithelium構成。",
+    "description": "圖片中為什麼器官？"
+  },
+  {
+    "num": "204119",
+    "path": "L/204119.webp",
+    "answer": [
+      "Red pulp"
+    ],
+    "explanation": "此為淋巴器官，有分為white pulp（深染），red pulp（較淡染）。White pulp中又分為germinal center（中間）和mantle zone（周圍）。Germinal center裡偏一側看到的圓形管道狀構造，即為central artery，可判斷此器官為spleen。",
+    "description": "圖中所指為什麼區域？"
+  },
+  {
+    "num": "204120",
+    "path": "L/204120.webp",
+    "answer": [
+      "Epithelioreticular cell type 5"
+    ],
+    "explanation": "可以先由Hassall’s corpuscle推測出此為thymus 的medulla。再推出ERC type V位於medulla，特徵為核大、淡染，周圍其他細胞是lymphocyte。",
+    "description": "箭頭所指為什麼細胞？"
+  },
+  {
+    "num": "204121",
+    "path": "L/204121.webp",
+    "answer": [
+      "Megakaryocyte"
+    ],
+    "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。 \n箭頭所指細胞有巨核，故為megakaryocyte。",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "210106",
+    "path": "L/210106.webp",
+    "answer": [
+      "B"
+    ],
+    "explanation": "這是一個淋巴結。A：為 Germinal center，富含B cell。B：為 Deep cortex，富含T cell。 C：為 Subcapsular space。",
+    "description": "which has the most T cell"
+  },
+  {
+    "num": "210113",
+    "path": "L/210113.webp",
+    "answer": [
+      "Normoblast"
+    ],
+    "explanation": "此為 red bone marrow，綠圓框內之細胞大小近似 RBC，有深藍色圓形的核和明顯的 plasma，且數量最多。",
+    "description": "綠色圓框內為何種細胞？"
+  },
+  {
+    "num": "210116",
+    "path": "L/210116.webp",
+    "answer": [
+      "Littoral cell"
+    ],
+    "explanation": "此圖為spleen，箭頭所指的細胞構成 red pulp 的 venous sinus，其凸向管腔、rod-shaped，即為 Littoral cell。",
+    "description": "指針所指為何種細胞？"
+  },
+  {
+    "num": "210119",
+    "path": "L/210119.webp",
+    "answer": [
+      "Central artery",
+      "Central artery of spleen"
+    ],
+    "explanation": "此圖位於lymphatic nodule中，又中間血管非單層構造，可知為spleen white pulp 中的central artery，下方為red pulp",
+    "description": "請問視野下箭頭所指的是甚麼?"
+  },
+  {
+    "num": "210122",
+    "path": "L/210122.webp",
+    "answer": [
+      "Palatine tonsil"
+    ],
+    "explanation": "此為 palatine tonsil,有許多 lymph nodule,且有深、分叉成人字形的 crypt。其具有 noncornified stratified squamous epithelium。",
+    "description": "圖中為何器官"
+  },
+  {
+    "num": "210124",
+    "path": "L/210124.webp",
+    "answer": [
+      "Marginal zone"
+    ],
+    "explanation": "White pulp最外圍和red pulp交界處為marginal zone。",
+    "description": "藍色虛線經過處為何"
+  },
+  {
+    "num": "210127",
+    "path": "L/210127.webp",
+    "answer": [
+      "Hassall’s corpuscle"
+    ],
+    "explanation": "本題於實際跑台時，將hassall’s corpuscle放得非常大，非常難判斷。Hassall’s corpuscle是一個呈現淡粉紅狀圓圈構造，具有許多Reticular fiber，因此仔細看會有纖維狀的淡染構造。",
+    "description": "請問以下為什麼構造？"
+  },
+  {
+    "num": "210133",
+    "path": "L/210133.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "圖中可見一個橢圓形構造，其外圍深染內側淡染，充滿淋巴球為 Lymphatic nodule。而空腔上方有一層粉紅色的結締組織，是 lymph node 的 capsule，其下的空腔即為 subcapsular sinus。高倍下，sinus 中可看到三種細胞：endothelial cell、reticular cell 和 macrophage。",
+    "description": "以下空隙是何種構造？"
+  },
+  {
+    "num": "11108",
+    "path": "L/11108.webp",
+    "answer": [
+      "Normoblast"
+    ],
+    "explanation": "在 bone marrow 中，細胞大小近似紅血球，非常深染圓形的核，數量最多。",
+    "description": "指針所指是何種細胞?"
+  },
+  {
+    "num": "11109",
+    "path": "L/11109.webp",
+    "answer": [
+      "Hemicapsule",
+      "of Palatine tonsil"
+    ],
+    "explanation": "Palatine tonsil的底部會有一層很厚但沒有完整包覆tonsil的結締組織（hemicapsule），其將 tonsil 和更內層的pharyngeal muscle （skeletal m.）分開。",
+    "description": "指針所指構造是什麼？"
+  },
+  {
+    "num": "11110",
+    "path": "L/11110.webp",
+    "answer": [
+      "Trabecular sinus"
+    ],
+    "explanation": "在lymph node，最外圍粉紅色的 capsule 往內延伸的構造是trabeculae，其旁邊的空腔便為trabecular sinus。",
+    "description": "此空間名稱是什麼？ "
+  },
+  {
+    "num": "11111",
+    "path": "L/11111.webp",
+    "answer": [
+      "Splenic nodule",
+      "white pulp"
+    ],
+    "explanation": "在 spleen 中，深染、藍紫色（basophilic）圓形或不規則的區域便為 white pulp，其中央可見管狀構造，即central a.，圍繞在血管周圍的構造為PALS，若出現splenic nodule，則 central a. 會偏離中心。Splenic nodule 包含中央淡染區（Germinal centre）以及周圍深染區（Mantle zone）。",
+    "description": "指針所指的構造是什麼？"
+  },
+  {
+    "num": "11122",
+    "path": "L/11122.webp",
+    "answer": [
+      "Epithelioreticular cell type 5"
+    ],
+    "explanation": "視野右側有一哈氏小體（Hassall’s corpuscle），可知視野範圍應是胸腺髓質（thymic medulla），而在其周遭不屬於哈氏小體之淡染特殊細胞即為第五型上皮網狀細胞（epithelioreticular cell type 5）。",
+    "description": "請問這是什麼細胞"
+  },
+  {
+    "num": "11123",
+    "path": "L/11123.webp",
+    "answer": [
+      "Lymphatic nodule"
+    ],
+    "explanation": "圖中可見在腸胃道黏膜層（mucosa）中有膨大之構造並向黏膜下層（submucosa）延伸，為淋巴小結（lymphatic nodule），又稱培氏斑（Peyer’s patch），主要見於迴腸（ilium）。",
+    "description": "以下構造是什麼？"
+  },
+  {
+    "num": "11125",
+    "path": "L/11125.webp",
+    "answer": [
+      "A: High endothelial venule B: deep cortex of lymphatic nodule",
+      "High endothelial venule deep cortex of lymphatic nodule"
+    ],
+    "explanation": "此圖可見較偏向單層立方上皮型態之內皮細胞，又管道周圍遍布深染且核質比大之淋巴細胞，可推測其應為高內皮小靜脈（high endothelial venule, HEV），位於淋巴結之皮質旁區（deep cortex）。",
+    "description": "A請問此位於lymph node的構造是什麼?B他在哪裡"
+  },
+  {
+    "num": "11127",
+    "path": "L/11127.webp",
+    "answer": [
+      "A: Littoral cell B: Venous sinus",
+      "Littoral cell Venous sinus"
+    ],
+    "explanation": "可以從細胞型態搭配許多空腔得知是littoral cell，進而知道其位於肝臟的venous sinus。",
+    "description": "A：下列為何種細胞，B：此細胞在哪裡"
+  },
+  {
+    "num": "205109",
+    "path": "L/205109.webp",
+    "answer": [
+      "Medullary sinus of lymph node"
+    ],
+    "explanation": "視野下都黃色的，有很多類似空腔，指針指著一個葫蘆狀的空腔（感覺空腔邊緣有黑色reticular fiber） ",
+    "description": "請寫出箭頭所指構造名稱？"
+  },
+  {
+    "num": "205110",
+    "path": "L/205110.webp",
+    "answer": [
+      "Hassall’s corpuscle"
+    ],
+    "explanation": "Hassall’s corpuscle位於thymus的medulla區，為粉紅色的同心圓構造，是thymus的重要特徵。在Hassall’s corpuscle裡面有大大的、核淡染的細胞，即為組成它的type VI epithelioreticular cells。 ",
+    "description": "虛線圓框所圈構造為？"
+  },
+  {
+    "num": "205111",
+    "path": "L/205111.webp",
+    "answer": [
+      "B cell"
+    ],
+    "explanation": "從組織型態可判斷為淋巴組織，而箭頭所指淡染區域被一圈深染區域包圍，可知為lymph nodule。中間淺染的部份為germinal center，旁邊較濃染的則是mantle zone，兩者皆由B cells構成。 ",
+    "description": "箭頭所指區域以哪種淋巴球為主？"
+  },
+  {
+    "num": "205112",
+    "path": "L/205112.webp",
+    "answer": [
+      "T cell"
+    ],
+    "explanation": "從組織型態可判斷為淋巴組織，箭頭所指區域為lymphatic nodule。而箭頭所指區域中央有血管，可判斷這是spleen，該血管為central artery，其周圍區域為PALS（peri-arteriolar lymphatic sheath），是在lymphatic nodule擴張前圍繞在central artery 周圍的組織，主要由T cell 組成。",
+    "description": "箭頭所指區域以哪種淋巴球為主？"
+  },
+  {
+    "num": "208217",
+    "path": "L/208217.webp",
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "Subcapsular sinus",
+      "germinal center",
+      "high endothelial venule"
+    ],
+    "explanation": "(A) 此圖所見多數細胞較小，但深染且核質比大，推測為lymphocyte，故可推測此圖為淋巴器官。而箭頭所指的管狀構造由單一層的simple cuboidal endothelial cell構成，且無大量macrophage包圍，故可推測為lymph node的deep cortex中的High endothelial venule（HEV）。(B) 最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。 (C) 此為淋巴器官，有分為white pulp（深染），red pulp（較淡染）。White pulp中又分為germinal center（中間）和mantle zone（周圍）。箭頭所指為germinal center裡偏一側看到的圓球狀構造，即為central artery（顏色較淺）。圓圈圈起處Trabeculae的c.s.，trabeculae為capsule向內延伸的板狀構造，協助支撐spleen。\n【出處】08共筆Vol.11 P.35, 38；09共筆Vol.11 P.38, 41",
+    "description": "圖中A、B、C各為什麼構造？"
+  },
+  {
+    "num": "208226",
+    "path": "L/208226.webp",
+    "answer": [
+      "High endothelial venule"
+    ],
+    "explanation": "此圖所見多數細胞較小，但深染且核質比大，推測為lymphocyte，故可推測此圖為淋巴器官。而箭頭所指的管狀構造由單一層的simple cuboidal endothelial cell構成，且無大量macrophage包圍，故可推測為lymph node的deep cortex中的High endothelial venule（HEV）。\n【出處】08共筆Vol.11 P.38；09共筆Vol.11 P.41",
+    "description": "箭頭所指的構造為何？"
+  },
+  {
+    "num": "208227",
+    "path": "L/208227.webp",
+    "answer": [
+      "venous sinus of spleen"
+    ],
+    "explanation": "注意此空腔的管壁，細胞形狀凸向管腔。venous sinus 的 endothelial cell 為rod-shaped，稱作 Littoral cell。\n【出處】08共筆Vol.12 P.39；09共筆Vol.12 P.40",
+    "description": "寫出虛線範圍內構造名稱？"
+  },
+  {
+    "num": "208229",
+    "path": "L/208229.webp",
+    "answer": [
+      "Megakaryocyte"
+    ],
+    "explanation": "此視野下可以看到多種細胞，圈選的細胞巨大且有多葉狀巨核的是megakaryocyte；體型稍小，有腎形或馬蹄形核的是metamyelocyte；大小近似RBC，有深藍色圓形核，數量最多的是normoblast；而白色圓球狀細胞是adipocyte。由於此器官包含許多造血過程中的細胞，可推測為red bone marrow。\n【出處】08共筆Vol.12 P.53；09共筆Vol.12 P.54",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "209201",
+    "path": "L/209201.webp",
+    "answer": [
+      "Non-cornified stratified squamous epithelium"
+    ],
+    "explanation": "此為 palatine tonsil，有許多 lymph nodule，且有深、分叉成人字形的 crypt。palatine tonsil表面是non-cornified stratified\n【出處】09共筆 Vol.12 P.22 squamous epithelium。",
+    "description": "寫出方框範圍內為何種上皮組織"
+  },
+  {
+    "num": "209204",
+    "path": "L/209204.webp",
+    "answer": [
+      "A"
+    ],
+    "explanation": "首先從central artery的特徵看出此為spleen的white pulp。緊接在central artery周圍的區域是PALS，富含T cell。假如畫面再縮小應可看見圓形的lymphatic nodule （注意central artery會落在nodule邊緣）。無論是lymphatic nodule中間淡染的germinal center或旁邊較深染的mantle zone都是由 B cells 構成。\n【出處】09共筆 Vol.12 P.2",
+    "description": "哪一區含有較多T cell？\n（註：圖A 指PALS，圖B不確定）"
+  },
+  {
+    "num": "209209",
+    "path": "L/209209.webp",
+    "answer": [
+      "Spleen",
+      "Venous sinus"
+    ],
+    "explanation": "觀察到管腔周圍細胞有向內突起的細胞核（Littoral cell），故為venous sinus，位於spleen的red pulp。\n【出處】09共筆 Vol.12 P.6",
+    "description": "圖片中藍色箭頭所指的構造為？在哪一個器官？"
+  },
+  {
+    "num": "2092020",
+    "path": "L/2092020.webp",
+    "answer": [
+      "Epithelioreticular cell type V"
+    ],
+    "explanation": "先從圖片左邊由許多同心圓形成的構造，判斷出是ERC type 6。接著，箭頭指的較淡染的細胞，就是與它同樣位在thymus之medulla的ERC type 5 （ERC考試要寫全名）。注意畫面中許多深染小顆的細胞是lymphocyte。\n【出處】09共筆 Vol.11 P.35",
+    "description": "請寫出箭頭所指細胞名稱"
+  },
+  {
+    "num": "2092022",
+    "path": "L/2092022.webp",
+    "answer": [
+      "subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。空腔中可見reticular fiber與macrophage。\n【出處】09共筆 Vol.11 P.14",
+    "description": "匡起處構造為何？"
+  },
+  {
+    "num": "2092025",
+    "path": "L/2092025.webp",
+    "answer": [
+      "Spleen"
+    ],
+    "explanation": "為spleen的red pulp，黑色圈起來的是venous sinus，旁邊則是充滿紅血球的pulp cord。\n【出處】09共筆 Vol.12 P.43-44",
+    "description": "範圍內為何器官？"
+  },
+  {
+    "num": "2092026",
+    "path": "L/2092026.webp",
+    "answer": [
+      "splenic nodule"
+    ],
+    "explanation": "可先判斷為某種 lymph nodule，而可見 nodule 中央有血 管穿過，是 spleen 的重要特徵！此外，spleen中的這些nodule （white pulp）是零星散布的。\n【出處】09共筆 Vol.12 P.4",
+    "description": "指針所指的構造名稱"
+  },
+  {
+    "num": "2092029",
+    "path": "L/2092029.webp",
+    "answer": [
+      "High endothelial venule"
+    ],
+    "explanation": "常考，此圖所見多數細胞較小，但深染且核質比大，推測為lymphocyte，故可推測此圖為淋巴器官。\n而箭頭所指的管狀構造由單一層的 simple cuboidal endothelial cell 構成，且無大量 macrophage 包圍，故可推測為 lymph node的 deep cortex 中的 High endothelial venule（HEV考試要寫全名）。\n【出處】09共筆 Vol.11 P.25-26",
+    "description": "下圖框框是何種構造"
+  },
+  {
+    "num": "2092031",
+    "path": "L/2092031.webp",
+    "answer": [
+      "B"
+    ],
+    "explanation": "先從深染的圓形lymphatic nodules以及其排列在外側的特徵，看出這是lymph node的切片。A為lymphatic nodule，位在superficial cortex，主要為 B-cell；C靠近medulla，有fibroblastic reticular cell、plasma cell、lymphocyte（主要還是 B cells）、macrophage。B沒有lymphatic nodule，夾在A、C兩區之間是deep cortex，較A、C有較多的T-cell。\n【出處】09共筆 Vol.11 P.8-9、23",
+    "description": "最可能在下列哪區找到T cell？"
+  },
+  {
+    "num": "208104",
+    "path": "L/208104.webp",
+    "answer": [
+      "Littoral cell"
+    ],
+    "explanation": "此圖為spleen，箭頭所指的細胞構成Red pulp的venous sinus，其凸向管腔，為特化的內皮細胞，稱為littoral cell。\n【出處】共筆Vol.12 P.10",
+    "description": "箭號所指的細胞名稱？"
+  },
+  {
+    "num": "208107",
+    "path": "L/208107.webp",
+    "answer": [
+      "Deep cortex"
+    ],
+    "explanation": "Lymphocyte移動路徑：1.artery→lymph node→HEV→paracortex→lymph sinus→efferent lymphatic vessel→thoracic duct→left subclavian和internal jugular v.的交界。2.afferent lymphatic vessel→subcapsular sinus→trabecular sinus→medullary sinus→efferent lymphatic vessel→thoracic duct→left subclavian和internal jugular v.的交界。其中HEV位於deep cortex\n【出處】共筆Vol.11 P.23",
+    "description": "血液中lymphocytes從何處進入此組織？"
+  },
+  {
+    "num": "208108",
+    "path": "L/208108.webp",
+    "answer": [
+      "Metamyelocyte"
+    ],
+    "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。箭頭所指細胞體型小，且有腎形或馬蹄形核，應為metamyelocyte。\n【出處】共筆Vol.12 P.53",
+    "description": "框起來細胞名稱為何？"
+  },
+  {
+    "num": "208110",
+    "path": "L/208110.webp",
+    "answer": [
+      "Thymus"
+    ],
+    "explanation": "可以由Hassall’s corpuscle推測出此為thymus。\n【出處】共筆Vol.11 P.44",
+    "description": "此為何器官內可見構造？"
+  },
+  {
+    "num": "208119",
+    "path": "L/208119.webp",
+    "answer": [
+      "Lingual tonsil"
+    ],
+    "explanation": "桌狀，表皮為non-keratinized stratified squamous epithelium。crypt是偏短且沒有分支的。\n【出處】共筆Vol.12 P.22",
+    "description": "視野下構造名稱？"
+  },
+  {
+    "num": "208122",
+    "path": "L/208122.webp",
+    "answer": [
+      "Central artery"
+    ],
+    "explanation": "此為lymphatic nodule，並藉由中央central artery的存在，可判斷其位於spleen的white pulp。\n【出處】共筆Vol.12 P.5",
+    "description": "圈起處為何構造？"
+  },
+  {
+    "num": "207201",
+    "path": "L/207201.webp",
+    "answer": [
+      "Littoral cell",
+      "endothelial cell"
+    ],
+    "explanation": "注意此空腔的管壁，細胞形狀凸向管腔。venous sinus 的 endothelial cell 為rod-shaped，稱作 Littoral cell。\n【出處】共筆Vol.12 P.39 ",
+    "description": "寫出箭頭所指之細胞名稱？"
+  },
+  {
+    "num": "207206",
+    "path": "L/207206.webp",
+    "answer": [
+      "sheathed capillary"
+    ],
+    "explanation": "應可判斷此圖為某種淋巴組織的medulla，而此管道管壁由核長橢圓/不規則形狀之細胞團團包圍，且管腔很小，是spleen的sheathed capillary的特徵，其由macrophage包圍。\n【出處】共筆Vol.12 P.6",
+    "description": "箭頭所指的管腔構造？"
+  },
+  {
+    "num": "206201",
+    "path": "L/206201.webp",
+    "answer": [
+      "Peyer’s patch"
+    ],
+    "explanation": "可看到 Ileum 管壁有 villi 短、非葉狀，裡面有碩大而明顯的\nlymphatic nodule，即為 Peyer’s patch",
+    "description": "寫出紅色箭號所指之構造名稱（Be specific）"
+  },
+  {
+    "num": "206209",
+    "path": "L/206209.webp",
+    "answer": [
+      "Spleen"
+    ],
+    "explanation": "圖中可見許多核質比大的小細胞，為淋巴球。其中較\nbasophilic、較深染的是 white pulp。較 eosinophilic，較淡染\n部分則是 red pulp。而在 white pulp 偏一側還看得到 central \nartery，是 spleen 特有構造，故此器官為 spleen。",
+    "description": "寫出器官名稱"
+  },
+  {
+    "num": "206210",
+    "path": "L/206210.webp",
+    "answer": [
+      "White pulp of",
+      "spleen"
+    ],
+    "explanation": "為 basophilic，偏一側看得到 central artery。",
+    "description": "寫出虛線圍繞的構造名稱（加註器官）"
+  },
+  {
+    "num": "206212",
+    "path": "L/206212.webp",
+    "answer": [
+      "Islet of",
+      "Langerhans"
+    ],
+    "explanation": "旁邊可見 eosinophilic 的 exocrine gland，推知是 pancreas，而\n虛線所圈淡染為 islet of Langerhans，細胞核圓且核仁明顯。",
+    "description": "寫出箭頭所指虛線內整個構造名稱"
+  },
+  {
+    "num": "206223",
+    "path": "L/206223.webp",
+    "answer": [
+      "non-cornified stratified squamous epithelium",
+      "noncornified stratified squamous epithelium"
+    ],
+    "explanation": "可見有許多 lymph nodule，且有深、分叉成人字形的 crypt，\n判斷為 palatine tonsil，其具有 noncornified stratified squamous \nepithelium。",
+    "description": "寫出方框範圍內為何種上皮組織？"
+  },
+  {
+    "num": "206224",
+    "path": "L/206224.webp",
+    "answer": [
+      "A",
+      "PALS"
+    ],
+    "explanation": "圖中 A 處為 White pulp 的 central artery 旁染色較 basophilic 的\n地方，為 PALS，主要為 T cells 聚集處。",
+    "description": "請問 T 淋巴球較容易在哪一區聚集？"
+  },
+  {
+    "num": "206225",
+    "path": "L/206225.webp",
+    "answer": [
+      "Bone marrow"
+    ],
+    "explanation": "低倍下的 bone marrow 有白色圓球狀細胞，為 adipocyte。而\n條狀的 blood sinusoid 裡面充滿血液。",
+    "description": "整個範圍是什麼器官？"
+  },
+  {
+    "num": "206227",
+    "path": "L/206227.webp",
+    "answer": [
+      "ERC type 5"
+    ],
+    "explanation": "可見 Hassall’s corpuscle，推斷為 thymus 的 medulla。ERC \ntype 5 特徵為核大、淡染。",
+    "description": "寫出箭頭所指細胞名稱（Be specific）"
+  },
+  {
+    "num": "206228",
+    "path": "L/206228.webp",
+    "answer": [
+      "ERC type 1"
+    ],
+    "explanation": "ERC type 1 出現在 capsule 和 cortex 之間，但同時也會出現在\nBlood-Thymus barrier 中。就此題來說，他不像是典型的\ncapsule 和 cortex 的分界處（應有明顯的 CNT），有可能是位\n在 capsule 往內延伸的 septae 中，所以依舊是 ERC type 1",
+    "description": "寫出箭頭所指細胞名稱，Be specific"
+  },
+  {
+    "num": "206229",
+    "path": "L/206229.webp",
+    "answer": [
+      "Venous sinus of",
+      "spleen"
+    ],
+    "explanation": "此圖為銀染的特殊染色，黑線為 reticular fiber。可發現到\nreticular fiber 並不會進入空腔中，此為 spleen 的 red pulp\n的特徵，虛線所圍的空腔是 Venous sinus。",
+    "description": "寫出虛線範圍內構造名稱，加註器官"
+  },
+  {
+    "num": "206230",
+    "path": "L/206230.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是 lymph node 的 capsule，其下的空腔稱為\nsubcapsular sinus。",
+    "description": "寫出虛線範圍內的構造名稱"
+  },
+  {
+    "num": "206232",
+    "path": "L/206232.webp",
+    "answer": [
+      "Sinusoid of liver"
+    ],
+    "explanation": "箭頭所指空腔為 sinusoid of liver，被 Kupffer cell 和\nendothelial cell 所圍出。其周圍有 hepatocyte 的 microvilli。",
+    "description": "寫出箭頭所指空間名稱，加註器官位置"
+  },
+  {
+    "num": "210206",
+    "path": "L/210206.webp",
+    "answer": [
+      "non-cornified stratified squamous epithelium"
+    ],
+    "explanation": "先判斷是tonsil，看到有分支的ctypt進一步判斷出是 palatine tonsil，其表皮為 non-cornified stratified squamous epithelium",
+    "description": "寫出方框範圍內為何種上皮組織"
+  },
+  {
+    "num": "210219",
+    "path": "L/210219.webp",
+    "answer": [
+      "Thymus"
+    ],
+    "explanation": "可以看到Hassall’s corpuscles",
+    "description": "請問視野下為什麼器官?"
+  },
+  {
+    "num": "210224",
+    "path": "L/210224.webp",
+    "answer": [
+      "Central artery"
+    ],
+    "explanation": "圖為spleen的white pulp，white pulp中間為antral artery。",
+    "description": "圖中圈起處的構造為何?"
+  },
+  {
+    "num": "210226",
+    "path": "L/210226.webp",
+    "answer": [
+      "Megakaryocyte"
+    ],
+    "explanation": "由附近的大片油滴以及密集細胞和sinusoid可以推論此為一bone marrow的玻片。而在視野下最明顯且體積最大者即為Megakaryocyte，為血小板的前身。",
+    "description": "請問以下為何種細胞？"
+  },
+  {
+    "num": "210229",
+    "path": "L/210229.webp",
+    "answer": [
+      "Trabecular vein"
+    ],
+    "explanation": "Trabeculae 內有時可找到管壁較厚 Trabecular a.和較薄的 Trabecular v.。 Trabecular a. 的管徑較小，有明顯 smooth muscle cell layer;Trabecular v.的管徑較大。Venous sinus 匯流到 pulp v.，然後 pulp v.再進入 trabecular v.，最後經由 Splenic v. 到 Portal v.。",
+    "description": "請問以下為何種構造？"
+  },
+  {
+    "num": "210230",
+    "path": "L/210230.webp",
+    "answer": [
+      "Lymph node"
+    ],
+    "explanation": "辨識 lymph node 的指標為 lymphatic nodule、cortex 和 medulla(由外到內)。最外圍的粉紅色是 capsule。沒有Hasall’s corpuscle",
+    "description": "請問以下為何種構造？"
+  },
+  {
+    "num": "210231",
+    "path": "L/210231.webp",
+    "answer": [
+      "High endothelial venule"
+    ],
+    "explanation": "此圖所見多數細胞較小，但深染且核質比大，推測為 lymphocyte，故可推測此圖為淋巴器官。 而箭頭所指的管狀構造由單一層的 simple cuboidal endothelial cell 構成，且無大量 macrophage 包圍，故可推測為 lymph node 的 deep cortex 中的 High endothelial venule(HEV)",
+    "description": "請問以下為何種構造？"
+  },
+  {
+    "num": "210232",
+    "path": "L/210232.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是 lymph node 的 capsule，其下的空腔稱為 subcapsular sinus。",
+    "description": "請問以下為何種構造？"
+  },
+  {
+    "num": "210233",
+    "path": "L/210233.webp",
+    "answer": [
+      "Venous sinus of spleen"
+    ],
+    "explanation": "venous sinus 周圍細胞核凸向管腔(Littoral cell)，venous sinus 之間是由 reticular fiber 構成的 pulp cord。",
+    "description": "請問以下為何種構造(藍色箭頭)？"
+  },
+  {
+    "num": "204209",
+    "path": "L/204209.webp",
+    "answer": [
+      "T lymphocytes"
+    ],
+    "explanation": "在White pulp的central artery旁染色較basophilic處，為PALS，主要為T cells聚集處。\n【出處】共筆Vol.12 P.38",
+    "description": ""
+  },
+  {
+    "num": "204210",
+    "path": "L/204210.webp",
+    "answer": [
+      "Venous sinus；spleen"
+    ],
+    "explanation": "此為spleen的red pulp。裡面的空腔指的是Venous sinus，這裡要注意Reticular fiber不會進入venous sinus，空腔很乾淨（和lymph node不一樣）。且venous sinus的endothelial cell的細胞核會向內突出。Venous sinus之間則是由reticular fiber構成的索狀構造，成為pulp cord。\n【出處】共筆Vol.12 P.6",
+    "description": ""
+  },
+  {
+    "num": "204211",
+    "path": "L/204211.webp",
+    "answer": [
+      "Lymphatic nodules",
+      "Peyer’s patches"
+    ],
+    "explanation": "可於mucosa中，看到很多intestinal gland。在ileum中submucosa處的lymphatic nodules特稱Peyer’s patches。\n【出處】07共筆Vol.16 P.52",
+    "description": "箭頭所指構造名稱 （Be specific!） "
+  },
+  {
+    "num": "204212",
+    "path": "L/204212.webp",
+    "answer": [
+      "epithelioreticular cell Type V"
+    ],
+    "explanation": "此為Hassall’s corpuscle，位於thymus的medulla區，為粉紅色的同心圓構造。在Hassall’s corpuscle旁邊箭頭指的大大淺淺的為epithelioreticular cell type VI。\n【出處】共筆Vol.11 P.46",
+    "description": "箭頭所指細胞名稱 （Be specific!） "
+  },
+  {
+    "num": "204213",
+    "path": "L/204213.webp",
+    "answer": [
+      "Trabecular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是lymph node的capsule，capsule往內延伸的構造成為trabeculae，其旁邊的空腔為trabecular sinus。\n【出處】共筆Vol.11 P.35",
+    "description": "請寫出此空腔（虛線圍繞）名稱"
+  },
+  {
+    "num": "204214",
+    "path": "L/204214.webp",
+    "answer": [
+      "subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。\n【出處】共筆Vol.11 P.37",
+    "description": ""
+  },
+  {
+    "num": "204215",
+    "path": "L/204215.webp",
+    "answer": [
+      "Normoblast"
+    ],
+    "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。指針所指為normoblast。\n【出處】共筆Vol.12 P.54",
+    "description": ""
+  },
+  {
+    "num": "204216",
+    "path": "L/204216.webp",
+    "answer": [
+      "Sheathed capillary"
+    ],
+    "explanation": "Pulp a.進入red pulp後會變成sheathed capillary，由單層內皮細胞構成，外圍會有很多Macrophage形成sheath。\n【出處】共筆Vol.12 P.6",
+    "description": ""
+  },
+  {
+    "num": "204217",
+    "path": "L/204217.webp",
+    "answer": [
+      "Littoral cell"
+    ],
+    "explanation": "構成在Red pulp的venous sinus的細胞，走向平行於venous sinus的走向，排列形成rod-like的結構。\n【出處】共筆Vol.12 P.12",
+    "description": ""
+  },
+  {
+    "num": "204218",
+    "path": "L/204218.webp",
+    "answer": [
+      "T lymphocytes"
+    ],
+    "explanation": "先辨認出這是lymph node的deep cortex（在primary follicle下方）。Deep cortex為superficial cortex下方沒有Lymphatic follicle的地方，在這裡可以發現T cell。\n【出處】共筆Vol.11 P.20",
+    "description": "請寫出此處最多的淋巴球種類"
+  },
+  {
+    "num": "204235",
+    "path": "L/204235.webp",
+    "answer": [
+      "Noncornified stratified squamous epithelium。"
+    ],
+    "explanation": "可見有許多lymph nodule，且有深、分叉成人字形的crypt，判斷為palatine tonsil，其具有noncornified stratified squamous epithelium。\n【出處】共筆Vol.12 P.47",
+    "description": "方框內為何上皮組織？"
+  },
+  {
+    "num": "205211",
+    "path": "L/205211.webp",
+    "answer": [
+      "Peyer’s patch"
+    ],
+    "explanation": "管壁有villi短而非葉狀，碩大而明顯的lymphatic nodule。",
+    "description": "箭頭指的為何構造？（be specific）"
+  },
+  {
+    "num": "205212",
+    "path": "L/205212.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。 ",
+    "description": "寫出箭頭所指這層空隙的構造名稱。 "
+  },
+  {
+    "num": "205213",
+    "path": "L/205213.webp",
+    "answer": [
+      "Epithelioreticular cell type 5"
+    ],
+    "explanation": "可見Hassall’s corpuscle，推斷為thymus的medulla。ERC type 5 特徵為核大、淡染。 ",
+    "description": "顯出箭頭所指細胞名稱。"
+  },
+  {
+    "num": "205214",
+    "path": "L/205214.webp",
+    "answer": [
+      "HEV",
+      "Post-capillary venule /  High endothelial venule"
+    ],
+    "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。",
+    "description": "請寫出箭頭所指構造名稱？  "
+  },
+  {
+    "num": "205215",
+    "path": "L/205215.webp",
+    "answer": [
+      "Splenic nodule"
+    ],
+    "explanation": "應可輕易判斷為某種lymph nodule，而可見nodule中央有血管穿過，是spleen的重要特徵！括號所框basophilic區域有分層，為germinal center被活化的white pulp，稱為splenic nodule。 ",
+    "description": "請問括號所指為何構造？ "
+  },
+  {
+    "num": "205216",
+    "path": "L/205216.webp",
+    "answer": [
+      "Sheathed capillary； Macrophage"
+    ],
+    "explanation": "應可判斷此圖為某種淋巴組織的medulla，而此管道管壁由核長橢圓/不規則形狀之細胞團團包圍，且管腔很小，是spleen的sheathed capillary的特徵，其由macrophage包圍。 ",
+    "description": "請問圖中標b與c圓圈所圈為何？與包圍它的細胞為何？"
+  },
+  {
+    "num": "205217",
+    "path": "L/205217.webp",
+    "answer": [
+      "Venous sinus of spleen"
+    ],
+    "explanation": "注意此空腔的管壁，細胞形狀凸向管腔。venous sinus 的 endothelial cell 為rod-shaped，稱作 Littoral cell。 ",
+    "description": "寫出虛線範圍內構造名稱？be specific"
+  },
+  {
+    "num": "205218",
+    "path": "L/205218.webp",
+    "answer": [
+      "Littoral cell"
+    ],
+    "explanation": "視野下組織為某淋巴組織的medulla。箭頭所指細胞凸向管腔，包圍著空腔，為特化的內皮細胞，因此推論應是Littoral cell，為rod-shaped細胞包圍venous sinus of spleen。 ",
+    "description": "箭號所指的細胞名稱？"
+  },
+  {
+    "num": "205225",
+    "path": "L/205225.webp",
+    "answer": [
+      "Hemi-capsule of palatine tonsil"
+    ],
+    "explanation": "此為palatine tonsil。在低倍下最明顯的觀察重點就是有往內延伸、分岔成人字形的crypt。箭頭所指 connective tissue 位於 palatine tonsil 跟下方肌肉之間，屬於由 collagen fiber 組成的 hemi-capsule，只包住palatine tonsil下面一半，而palatine tonsil面向lumen側的表面為noncornified stratified squamous epithelium。 ",
+    "description": "寫出箭頭所指之構造名稱？Be specific！"
+  },
+  {
+    "num": "211201",
+    "path": "L/211201.webp",
+    "answer": [
+      "Blood sinusoid of bone marrow"
+    ],
+    "explanation": "Bone marrow中非adipocyte的空腔，附近有許多粉紅色或透明（無核）的紅血球。",
+    "description": "下圖是什麼構造？"
+  },
+  {
+    "num": "211202",
+    "path": "L/211202.webp",
+    "answer": [
+      "C"
+    ],
+    "explanation": "此為淋巴器官，有分為white pulp（深染），red pulp（較淡染）。White pulp中又分為germinal center（中間）和mantle zone（周圍）。Mantle zone周圍淡染處為Marginal zone，連接white pulp & red pulp，macrophage聚集於此處，選C。",
+    "description": "請問下列哪一區最多Macrophage？"
+  },
+  {
+    "num": "211205",
+    "path": "L/211205.webp",
+    "answer": [
+      "Palatine tonsil crypt"
+    ],
+    "explanation": "此圖為有往內延伸、分岔成人字形的crypt。外層則由non-cornified stratified squamous epithelium構成，可藉此判斷黃框處為Palatine tonsil crypt。",
+    "description": "下面黃色框起來的構造為？"
+  },
+  {
+    "num": "211207",
+    "path": "L/211207.webp",
+    "answer": [
+      "Venous sinus of spleen"
+    ],
+    "explanation": "此圖為venous sinus的橫切面，被littoral cell包圍。",
+    "description": "請問虛線內是什麼構造？"
+  },
+  {
+    "num": "211209",
+    "path": "L/211209.webp",
+    "answer": [
+      "Lymph node"
+    ],
+    "explanation": "最外圍粉紅色的是Capsule，其下的空腔稱為subcapsular sinus。Capsule 往內延伸的構造稱為trabeculae，旁邊的空腔為trabeculae sinus。 深色環狀所圍出的部分為Lymphatic nodule，其中間淡染構造為germinal center，周圍深染為mantle zone。Thymus無sinus，可作為比較。",
+    "description": "請問下圖為何種器官"
+  },
+  {
+    "num": "211210",
+    "path": "L/211210.webp",
+    "answer": [
+      "T lymphocyte"
+    ],
+    "explanation": "圖為放大的deep cortex，可觀察到圖片圈起的HEV (high endothelial venule)，最可能出現T cell。",
+    "description": "下圖區域最可能出現何種細胞？"
+  },
+  {
+    "num": "211211",
+    "path": "L/211211.webp",
+    "answer": [
+      "subcapsular sinus"
+    ],
+    "explanation": "本圖為lymph node。最外圍粉紅色的是Capsule，其下的空腔稱為subcapsular sinus。",
+    "description": "藍色箭頭所指為何構造？"
+  },
+  {
+    "num": "211215",
+    "path": "L/211215.webp",
+    "answer": [
+      "Penicillar arterioles"
+    ],
+    "explanation": "Pulp artery 由 central artery 延伸出來，後接到 penicillar arterioles，之後接到 sheathed capillary。",
+    "description": "圖中黃色範圍所指構造名稱為何"
+  },
+  {
+    "num": "211230",
+    "path": "L/211230.webp",
+    "answer": [
+      "Hassall’s corpuscles"
+    ],
+    "explanation": "同心圓狀，旁邊有lymphocyte以及少許核大淡染的ERC type 5。",
+    "description": "請問箭頭所指的構造為何"
+  },
+  {
+    "num": "209101",
+    "path": "L/209101.webp",
+    "answer": [
+      "Ileum"
+    ],
+    "explanation": "碩大而明顯的lymphatic nodule，位於ileum處則稱作Peyer’s patch，有短、非葉狀的villi，判斷是ileum。\n【出處】共筆Vol.15 P.51",
+    "description": "請問視野下是何種器官？"
+  },
+  {
+    "num": "209104",
+    "path": "L/209104.webp",
+    "answer": [
+      "T cell"
+    ],
+    "explanation": "箭頭所指處位在lymph node 中white pulp的central artery旁，細胞染色較basophilic處，為PALS，主要為T cells聚集處。\n【出處】共筆Vol.12 P.2",
+    "description": "周圍的細胞為何？"
+  },
+  {
+    "num": "209121",
+    "path": "L/209121.webp",
+    "answer": [
+      "subcapsular sinus"
+    ],
+    "explanation": "最外圍的粉紅色是lymph node的capsule，其下的空腔稱為subcapsular sinus。在高倍下，sinus中可以看到三種細胞：endothelial cell、reticular cell和macrophage。\n【出處】共筆Vol.11 P.38",
+    "description": "箭頭所指構造？"
+  },
+  {
+    "num": "209122",
+    "path": "L/209122.webp",
+    "answer": [
+      "white pulp of spleen"
+    ],
+    "explanation": "此為lymphatic nodule，並藉由中央central artery的存在，可判斷其位於spleen的white pulp。\n【出處】共筆Vol.12 P.5",
+    "description": "標示處為何種組織？"
+  },
+  {
+    "num": "209124",
+    "path": "L/209124.webp",
+    "answer": [
+      "palatine tonsil"
+    ],
+    "explanation": "此為palatine tonsil，有許多lymph nodule，且有深、分叉成人字形的crypt。其具有noncornified stratified squamous epithelium。\n【出處】共筆Vol.12 P.22",
+    "description": "圖中為何器官"
+  },
+  {
+    "num": "209125",
+    "path": "L/209125.webp",
+    "answer": [
+      "High endothelial venule"
+    ],
+    "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。\n【出處】共筆Vol.11 P.41",
+    "description": "請問指針構造？"
+  },
+  {
+    "num": "209128",
+    "path": "L/209128.webp",
+    "answer": [
+      "Metamyelocyte"
+    ],
+    "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。\n箭頭所指細胞體型小，且有腎形或馬蹄形核，應為metamyelocyte。\n【出處】共筆Vol.12 P.54",
+    "description": "下圖中是什麼細胞"
+  },
+  {
+    "num": "206102",
+    "path": "L/206102.webp",
+    "answer": [
+      "Hassall’s corpuscle"
+    ],
+    "explanation": "粉紅色圈圈，中心角質化，為thymus特有的構造。 \n【出處】共筆Vol.11 P.32 ",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "206104",
+    "path": "L/206104.webp",
+    "answer": [
+      "Bone marrow sinusoid"
+    ],
+    "explanation": "Bone marrow中非adipocyte的空腔，附近有許多粉紅色或透明（無核）的紅血球。\n【出處】共筆Vol.12 P.36",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "206109",
+    "path": "L/206109.webp",
+    "answer": [
+      "HEV",
+      "High endothelial venule"
+    ],
+    "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，就是HEV。HEV管腔由單一層的simple cuboidal或simple columnar endothelial cell構成。\n【出處】共筆Vol.11 P.39 ",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "206115",
+    "path": "L/206115.webp",
+    "answer": [
+      "Trabecular sinus"
+    ],
+    "explanation": "從 capsule 延伸到內側，在 trabeculae 旁邊的sinus。\n【出處】共筆Vol.11 P.8, 34",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "206118",
+    "path": "L/206118.webp",
+    "answer": [
+      "Central artery"
+    ],
+    "explanation": "此為lymphatic nodule，並藉由中央central artery的存在，可判斷其位於spleen的white pulp。\n【出處】共筆Vol.12 P.5 ",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "206121",
+    "path": "L/206121.webp",
+    "answer": [
+      "Reticular cell"
+    ],
+    "explanation": "Mixed gland，且大多為mucous acini。 \n【出處】共筆Vol.14 P.16",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "206123",
+    "path": "L/206123.webp",
+    "answer": [
+      "Pulp cord"
+    ],
+    "explanation": "Pit和gland比例約為2：1。可以看出pit明顯很深，也可從mucosa總厚度和管子形狀（coiled）判斷。\n【出處】共筆Vol.14 P.40",
+    "description": "箭頭所指爲何種構造？"
+  },
+  {
+    "num": "206126",
+    "path": "L/206126.webp",
+    "answer": [
+      "Lingual tonsil"
+    ],
+    "explanation": "桌狀，表皮為non-keratinized stratified squamous epithelium。crypt是偏短且沒有分支的。\n【出處】共筆Vol.12 P.22",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "206133",
+    "path": "L/206133.webp",
+    "answer": [
+      "Thymus cortex"
+    ],
+    "explanation": "深色處有Hassall’s corpuscle用以判斷為thymus，近外側為皮質。 \n【出處】共筆Vol.11 P.44",
+    "description": "圈起處為何種構造？"
+  },
+  {
+    "num": "207104",
+    "path": "L/207104.webp",
+    "answer": [
+      "Epithelioreticular cell type5"
+    ],
+    "explanation": "可以先由Hassall’s corpuscle推測出此為thymus的medulla。再推出ERC type V位於medulla，特徵為核大、淡染，周圍其他細胞是lymphocyte。",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "207108",
+    "path": "L/207108.webp",
+    "answer": [
+      "Thymus"
+    ],
+    "explanation": "可以由Hassall’s corpuscle推測出此為thymus。",
+    "description": "此為何器官內可見構造？"
+  },
+  {
+    "num": "207109",
+    "path": "L/207109.webp",
+    "answer": [
+      "Lymph node"
+    ],
+    "explanation": "粗黑線為collagen fiber，細的是reticular fiber。",
+    "description": "此為何組織？"
+  },
+  {
+    "num": "207111",
+    "path": "L/207111.webp",
+    "answer": [
+      "Sheathed capillary"
+    ],
+    "explanation": "可見小小管腔狀構造於red pulp中。",
+    "description": "框框內為何構造？"
+  },
+  {
+    "num": "207114",
+    "path": "L/207114.webp",
+    "answer": [
+      "Lymphatic nodule"
+    ],
+    "explanation": "Lymphatic nodule中有germinal center，有很多B cells，外圍身染處為mantle zone。",
+    "description": "哪裡B cell比較多？"
+  },
+  {
+    "num": "207121",
+    "path": "L/207121.webp",
+    "answer": [
+      "Medullary cord; lymph node"
+    ],
+    "explanation": "Medullary cord呈現小島狀，細胞較多較密集，染色較深，旁邊可見較淡粉trabeculae，較白空間為medullary sinus。",
+    "description": "以下框框中為何構造，位於何處？"
+  },
+  {
+    "num": "207122",
+    "path": "L/207122.webp",
+    "answer": [
+      "Venous sinus; spleen"
+    ],
+    "explanation": "venous sinus周圍細胞核凸向管腔（Littoral cell），venous sinus之間是由reticular fiber構成的pulp cord。",
+    "description": "下圖紅框處為何構造？在何器官中？"
+  },
+  {
+    "num": "207123",
+    "path": "L/207123.webp",
+    "answer": [
+      "Spleen"
+    ],
+    "explanation": "此為silver stain，將collagen fiber和reticular fiber染成黑色。圖中可見深染white pulp。",
+    "description": "以下為何器官？"
+  },
+  {
+    "num": "207124",
+    "path": "L/207124.webp",
+    "answer": [
+      "Pulp artery"
+    ],
+    "explanation": "Pulp artery由central artery延伸出來，後接到penicillar arterioles，之後接到sheathed capillary。圖中可見深染旁邊有white pulp中的central artery。",
+    "description": "框起來處為何構造？"
+  },
+  {
+    "num": "207125",
+    "path": "L/207125.webp",
+    "answer": [
+      "Band cell",
+      "Metamyelocyte"
+    ],
+    "explanation": "此為red bone marrow。白色圓球狀細胞是adipocyte。在這個視野下可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。箭頭所指細胞有腎形或馬蹄形核，故為metamyelocyte",
+    "description": "框起來細胞名稱為何？"
+  },
+  {
+    "num": "207133",
+    "path": "L/207133.webp",
+    "answer": [
+      "Deep cortex"
+    ],
+    "explanation": "Lymphocyte移動路徑：1.artery→lymph node→HEV→paracortex→lymph sinus→efferent lymphatic vessel→thoracic duct→left subclavian和internal jugular v.的交界。2.afferent lymphatic vessel→subcapsular sinus→trabecular sinus→medullary sinus→efferent lymphatic vessel→thoracic duct→left subclavian和internal jugular v.的交界。其中HEV位於deep cortex",
+    "description": "血液中lymphocytes從何處進入此組織？"
+  },
+  {
+    "num": "207137",
+    "path": "L/207137.webp",
+    "answer": [
+      "Thymus"
+    ],
+    "explanation": "深色處有Hassall’s corpuscle用以判斷為thymus。",
+    "description": "以下為哪一器官切片？"
+  },
+  {
+    "num": "203111",
+    "path": "L/203111.webp",
+    "answer": [
+      "HEV",
+      "High endothelial venule"
+    ],
+    "explanation": "此為高倍率下的lymph node，在deep cortex中lymphocyte較少的地方會發現有一管徑較小，和周圍顏色相比較淡的空腔，由單層的simple cuboidal或simple columnar endothelial cell構成的管腔，就是HEV。\n【出處】共筆Vol.11 P.24",
+    "description": "箭頭所指的構造為何"
+  },
+  {
+    "num": "203112",
+    "path": "L/203112.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "圖中可見一個橢圓形構造，其外圍深染內側淡染，充滿淋巴球為Lymphatic nodule。而空腔上方有一層粉紅色的結締組織，是lymph node的capsule，其下的空腔即為subcapsular sinus。高倍下，sinus中可看到三種細胞：endothelial cell、reticular cell和macrophage。\n【出處】共筆Vol.11 P.35",
+    "description": "箭頭所指空腔為何"
+  },
+  {
+    "num": "203113",
+    "path": "L/203113.webp",
+    "answer": [
+      "PALS",
+      "Periarterial lymphatic sheath"
+    ],
+    "explanation": "箭頭所指處位在lymph node 中white pulp的central artery旁，細胞染色較basophilic處，為PALS，主要為T cells聚集處。\n【出處】共筆Vol.12 P.6",
+    "description": "A所指的範圍為何種構造？"
+  },
+  {
+    "num": "203114",
+    "path": "L/203114.webp",
+    "answer": [
+      "Subcapsular sinus"
+    ],
+    "explanation": "圖中可見一個橢圓形構造，其外圍深染內側淡染，充滿淋巴球為Lymphatic nodule。而空腔上方有一層粉紅色的結締組織，是lymph node的capsule，其下的空腔即為subcapsular sinus。高倍下，sinus中可看到三種細胞：endothelial cell、reticular cell和macrophage。\n【出處】共筆Vol.11 P.35",
+    "description": "A所指的是什麼構造？"
+  },
+  {
+    "num": "203115",
+    "path": "L/203115.webp",
+    "answer": [
+      "Metamyelocyte"
+    ],
+    "explanation": "Red bone marrow中可以看到三種造血細胞，最大顆且有多葉狀巨核的是megakaryocyte。體型稍小，有腎形或馬蹄形核的是metamyelocyte。大小近似RBC，有深藍色圓形核，數量最多的是normoblast。\n箭號所指細胞有馬蹄形核，故為metamyelocyte。\n【出處】共筆Vol.12 P.53",
+    "description": "箭頭所指的為何"
+  },
+  {
+    "num": "203116",
+    "path": "L/203116.webp",
+    "answer": [
+      "Littoral cell"
+    ],
+    "explanation": "此圖為spleen，箭頭所指的細胞構成Red pulp的venous sinus，其凸向管腔，為特化的內皮細胞，稱為littoral cell。\n【出處】共筆Vol.12 P.10",
+    "description": "箭頭所指細胞為何"
+  },
+  {
+    "num": "203117",
+    "path": "L/203117.webp",
+    "answer": [
+      "Palatine tonsil"
+    ],
+    "explanation": "此為palatine tonsil。在低倍下最明顯的觀察重點就是有往內延伸、分岔成人字形的crypt。高倍下可看出表面是由noncornified stratified squamous epithelium構成。\n【出處】共筆Vol.12 P.47",
+    "description": "寫出整個範圍的器官名稱？"
+  }
+]

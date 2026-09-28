@@ -1,0 +1,202 @@
+[
+    {
+        "num": "B07_1",
+        "path": "B07/B07_1.webp",
+        "answer": [
+            "Corpus callosum",
+            "Corpus callosum"
+        ],
+        "explanation": "出處：atlas-1-2 Cerebrum: medial view",
+        "description": ""
+    },
+    {
+        "num": "B07_2",
+        "path": "B07/B07_2.webp",
+        "answer": [
+            "Cingulate sulcus",
+            "Cingulate sulcus"
+        ],
+        "explanation": "出處：atlas-1-2 Cerebrum: medial view；08 神解實驗 vol.1 p.11",
+        "description": ""
+    },
+    {
+        "num": "B07_3",
+        "path": "B07/B07_3.webp",
+        "answer": [
+            "Caudate nucleus",
+            "Caudate nucleus"
+        ],
+        "explanation": "出處：atlas-2-7 Cerebrum: horizontal-2；08 神解實驗 vol.2 p.9",
+        "description": ""
+    },
+    {
+        "num": "B07_4",
+        "path": "B07/B07_4.webp",
+        "answer": [
+            "Internal capsule",
+            "Internal capsule"
+        ],
+        "explanation": "出處：atlas-2-7 Cerebrum: horizontal-2；08 神解實驗 vol.2 p.9",
+        "description": ""
+    },
+    {
+        "num": "B07_5",
+        "path": "B07/B07_5.webp",
+        "answer": [
+            "Central tegmental tract",
+            "Central tegmental tract"
+        ],
+        "explanation": "在 ML（水平橫躺）的背側 出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29, 30",
+        "description": ""
+    },
+    {
+        "num": "B07_6",
+        "path": "B07/B07_6.webp",
+        "answer": [
+            "Superior cerebellar peduncle",
+            "Superior cerebellar peduncle"
+        ],
+        "explanation": "第四腦室旁邊深染的構造 出處：atlas-7-2 pons-2；08 神解實驗 vol.3 p.29, 30",
+        "description": ""
+    },
+    {
+        "num": "B07_7",
+        "path": "B07/B07_7.webp",
+        "answer": [
+            "Inferior vestibular nucleus",
+            "Inferior vestibular nucleus"
+        ],
+        "explanation": "有黑點狀豹紋！ 出處：atlas-8-5 medulla-5；08 神解實驗 vol.3 p.20",
+        "description": ""
+    },
+    {
+        "num": "B07_8",
+        "path": "B07/B07_8.webp",
+        "answer": [
+            "GVA、Taste information",
+            "GVA、Taste information"
+        ],
+        "explanation": "B 是 solitary tract and nucleus Nucleus（淡染）把 tract（深染）包在裡面，讓 tract 看起來被孤立 出處：atlas-8-5 medulla-5；08 神解實驗 vol.3 p.20",
+        "description": ""
+    },
+    {
+        "num": "B07_9",
+        "path": "B07/B07_9.webp",
+        "answer": [
+            "Cuneate fasciculus and nucleus",
+            "Cuneate fasciculus and nucleus"
+        ],
+        "explanation": "出處：atlas-8-2 medulla-2；08 神解實驗 vol.3 p.11",
+        "description": ""
+    },
+    {
+        "num": "B07_10",
+        "path": "B07/B07_10.webp",
+        "answer": [
+            "傳遞 T6 以上的有意識的本體感覺（conscious proprioceptive information）",
+            "傳遞 T6 以上的有意識的本體感覺（conscious proprioceptive information）"
+        ],
+        "explanation": "內側的 gracile fasciculus 則是傳遞 T6 以下 出處：atlas-8-2 medulla-2；08 神解實驗 vol.3 p.11",
+        "description": ""
+    },
+    {
+        "num": "B07_11",
+        "path": "B07/B07_11.webp",
+        "answer": [
+            "Medial geniculate body",
+            "Medial geniculate body"
+        ],
+        "explanation": "出處：atlas-6-4 midbrain-4；07 神解實驗 vol.3 p.12, 13",
+        "description": ""
+    },
+    {
+        "num": "B07_12",
+        "path": "B07/B07_12.webp",
+        "answer": [
+            "Optic radiation",
+            "Optic radiation"
+        ],
+        "explanation": "LGB 外側深染者就是 Optic radiation LGB 為 MGB 外腹側淡染者 出處：atlas-6-4 midbrain-4；07 神解實驗 vol.3 p.12, 13",
+        "description": ""
+    },
+    {
+        "num": "B07_13",
+        "path": "B07/B07_13.webp",
+        "answer": [
+            "Fornix（column）",
+            "Fornix（column）"
+        ],
+        "explanation": "出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19",
+        "description": ""
+    },
+    {
+        "num": "B07_14",
+        "path": "B07/B07_14.webp",
+        "answer": [
+            "Drinking behavior",
+            "Drinking behavior"
+        ],
+        "explanation": "B 為 Zona incerta 出處：atlas-9-3 diencephalon-3；07 神解實驗 vol.3 p.19",
+        "description": ""
+    },
+    {
+        "num": "B07_15",
+        "path": "B07/B07_15.webp",
+        "answer": [
+            "Oculomotor nerve",
+            "Oculomotor nerve"
+        ],
+        "explanation": "出處：atlas-6-3 midbrain-3；07 神解實驗 vol.3 p.9, 10",
+        "description": ""
+    },
+    {
+        "num": "B07_16",
+        "path": "B07/B07_16.webp",
+        "answer": [
+            "C",
+            "C"
+        ],
+        "explanation": "B 為大腦腳（Crus cerebri） 出處：atlas-6-3 midbrain-3；07 神解實驗 vol.3 p.9, 10",
+        "description": ""
+    },
+    {
+        "num": "B07_17",
+        "path": "B07/B07_17.webp",
+        "answer": [
+            "Centromedian nucleus",
+            "Centromedian nucleus"
+        ],
+        "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+        "description": ""
+    },
+    {
+        "num": "B07_18",
+        "path": "B07/B07_18.webp",
+        "answer": [
+            "Subthalamic nucleus",
+            "Subthalamic nucleus"
+        ],
+        "explanation": "出處：atlas-9-2 diencephalon-2；07 神解實驗 vol.3 p.16, 17",
+        "description": ""
+    },
+    {
+        "num": "B07_19",
+        "path": "B07/B07_19.webp",
+        "answer": [
+            "Anterior nucleus",
+            "Anterior nucleus"
+        ],
+        "explanation": "出處：atlas-9-7 diencephalon-7；07 神解實驗 vol.3 p.56",
+        "description": ""
+    },
+    {
+        "num": "B07_20",
+        "path": "B07/B07_20.webp",
+        "answer": [
+            "Fornix（crus）",
+            "Fornix（crus）"
+        ],
+        "explanation": "出處：atlas-9-7 diencephalon-7；07 神解實驗 vol.3 p.56",
+        "description": ""
+    }
+]

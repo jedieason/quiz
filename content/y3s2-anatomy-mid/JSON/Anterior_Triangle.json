@@ -1,0 +1,171 @@
+[
+    {
+        "num": "Anterior_Triangle_1",
+        "path": "Anterior_Triangle/Anterior_Triangle_1.webp",
+        "answer": [
+            "Ansa cervicalis"
+        ],
+        "explanation": "位於 Carotid sheath 外側表面，支配 omohyoid、sternohyoid、 sternothyroid。注意 thyrohyoid 是由 C1 fiber 支配!(1： hypoglossal n.)",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_2",
+        "path": "Anterior_Triangle/Anterior_Triangle_2.webp",
+        "answer": [
+            "Superior root of Ansa cervicalis",
+            "Ansa cervicalis"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_3",
+        "path": "Anterior_Triangle/Anterior_Triangle_3.webp",
+        "answer": [
+            "Superior thyroid a.",
+            "Superior thyroid artery"
+        ],
+        "explanation": "由 external carotid artery 分出，可以看到從側上方進入 thyroid gland。有個悲傷口訣可以記 external carotid a. 的分支：Some Anatomists Like Freaking Out Poor Medical Students。S： superior thyroid a. A： ascending pharyngeal a. L： lingual a. F： facial a. O： occipital a. P： posterior auricular a. S： superficial temporal a. M： maxillary a.",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_4",
+        "path": "Anterior_Triangle/Anterior_Triangle_4.webp",
+        "answer": [
+            "Superior belly of omohyoid m.",
+            "Superior belly of omohyoid muscle"
+        ],
+        "explanation": "其他：1-anterior belly of digastric m.、 2-external jugular v. (橫跨於 5-SCM 之上 )、3-submandibular gland",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_5",
+        "path": "Anterior_Triangle/Anterior_Triangle_5.webp",
+        "answer": [
+            "Hypoglossal n.",
+            "Hypoglossal nerve"
+        ],
+        "explanation": "在 IJV & ICA 之間下行 → 遇 occipital a.時轉彎，壓過 occipital a.、 ECA, lingual a. →在 posterior belly of digastric m. & stylohyoid (兩個都由 facial n.支配)的 medial side →mylohyoid 之後，進入口腔→支配 genioglossus, Hyoglossus, styloglossus & intrinsic m.m. of tongue。其他：1 = digastric m.； 2 = submandibular gland； 3 = lingual a., 4 = hypoglossal n.； 5 = mylohyoid m.； 6 =stylohyoid m.；7 = facial a.",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_6",
+        "path": "Anterior_Triangle/Anterior_Triangle_6.webp",
+        "answer": [
+            "Phrenic n.",
+            "Phrenic nerve"
+        ],
+        "explanation": "躺在 anterior scalene 之上。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_7",
+        "path": "Anterior_Triangle/Anterior_Triangle_7.webp",
+        "answer": [
+            "Ascending pharyngeal a.",
+            "Ascending pharyngeal artery"
+        ],
+        "explanation": "ECA 往 medial side 的小小分支(一中)。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_8",
+        "path": "Anterior_Triangle/Anterior_Triangle_8.webp",
+        "answer": [
+            "Sternohyoid m.",
+            "Sternohyoid muscle"
+        ],
+        "explanation": "連接於 hyoid bone 和 sternum 之間(直達車)。 其他：1-omohyoid m.； 3-thyrohyoid m.； 4-sternothyroid m.",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_9",
+        "path": "Anterior_Triangle/Anterior_Triangle_9.webp",
+        "answer": [
+            "Superior thyroid a.",
+            "Superior thyroid artery"
+        ],
+        "explanation": "可清楚看見他從 ECA 分出(第一條分支)，並分出 superior laryngeal a.(2) 和 internal br. of superior laryngeal n.(1) 一起穿過 thyrohyoid membrane。5 是 external branch of superior laryngeal n. (external laryngeal n.，支配 corticothyroid m.、inf. constrictor)，4 是 ECA。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_10",
+        "path": "Anterior_Triangle/Anterior_Triangle_10.webp",
+        "answer": [
+            "Phrenic n.",
+            "Phrenic nerve"
+        ],
+        "explanation": "C3-C5，跨過 anterior scalene 的表面。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_11",
+        "path": "Anterior_Triangle/Anterior_Triangle_11.webp",
+        "answer": [
+            "Sternothyroid m.",
+            "Sternothyroid muscle"
+        ],
+        "explanation": "深層 strap muscle，larynx depressor，為 ansa cervicalis 支配。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_12",
+        "path": "Anterior_Triangle/Anterior_Triangle_12.webp",
+        "answer": [
+            "Stylohyoid m.",
+            "Stylohyoid muscle"
+        ],
+        "explanation": "styloid process→hyoid bone 的 greater horn，由 facial n.支配，吞嚥時的 hyoid elevator。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_13",
+        "path": "Anterior_Triangle/Anterior_Triangle_13.webp",
+        "answer": [
+            "Inferior belly of omohyoid m.",
+            "Inferior belly of omohyoid muscle"
+        ],
+        "explanation": "分隔 occipital triangle & supraclavicular triangle。由 ansa cervicalis 支配。其他：A-SCM； C clavicular origin",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_14",
+        "path": "Anterior_Triangle/Anterior_Triangle_14.webp",
+        "answer": [
+            "Hypoglossal n.",
+            "Hypoglossal nerve"
+        ],
+        "explanation": "從 IJV & ICA 之間下行 → 遇 occipital a.轉彎，壓過 occipital a.、ECA 、lingual a. →posterior belly of digastric m. & stylohyoid 內側 → mylohyoid 裡面 → 支配 genioglossus, Hyoglossus, styloglossus 和 intrinsic m. of tongue。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_15",
+        "path": "Anterior_Triangle/Anterior_Triangle_15.webp",
+        "answer": [
+            "Lingual a.",
+            "Lingual artery"
+        ],
+        "explanation": "首先要看出 7,8,9 是一組的構造，9 是與 common carotid artery 伴行的 internal jugular vein，7,8 依序是 external & internal carotid artery。其他：1 是 external carotid artery 最低的分支，所以是 Superior thyroid a.。2 則是 lingual a.。External carotid artery 向前的 3 分支：4-facial a.、2-lingual a.、1-Superior thyroid a.。3-glandular br.、5-occipital a.、6-post. auricular a.、10-submandibular gl.、11- common facial v. 、12-post. belly of digastric m.、13-SCM。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_16",
+        "path": "Anterior_Triangle/Anterior_Triangle_16.webp",
+        "answer": [
+            "Vagus n.",
+            "Vagus nerve"
+        ],
+        "explanation": "伴行的是 common carotid a.。carotid sheath 內另有 internal jugular v.(此 圖看不到)。",
+        "description": ""
+    },
+    {
+        "num": "Anterior_Triangle_17",
+        "path": "Anterior_Triangle/Anterior_Triangle_17.webp",
+        "answer": [
+            "Superior belly of omohyoid m.",
+            "Superior belly of omohyoid muscle"
+        ],
+        "explanation": "",
+        "description": ""
+    }
+]

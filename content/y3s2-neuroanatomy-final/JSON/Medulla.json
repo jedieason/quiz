@@ -1,0 +1,212 @@
+[
+  {
+    "num": "Medulla_1",
+    "path": "Medulla/Medulla_1.webp",
+    "answer": [
+      "(1) Anterolateral system (2) 痛覺、溫度感覺、部分觸覺",
+      "Anterolateral system 痛覺、溫度感覺、部分觸覺"
+    ],
+    "explanation": "出處： level of sensory decussation (atlas-8-1-medulla-1)",
+    "description": ""
+  },
+  {
+    "num": "Medulla_2",
+    "path": "Medulla/Medulla_2.webp",
+    "answer": [
+      "(1) Cuneate nucleus (2) Arcuate nucleus, inferior cerebellar peduncle",
+      "Cuneate nucleus Arcuate nucleus, inferior cerebellar peduncle"
+    ],
+    "explanation": "出處：level of inferior olivary nucleus (atlas-8-2-medulla-2)",
+    "description": ""
+  },
+  {
+    "num": "Medulla_3",
+    "path": "Medulla/Medulla_3.webp",
+    "answer": [
+      "(1) Solitary tract (2) Inferior olivary nucleus, cerebellum",
+      "Solitary tract Inferior olivary nucleus, cerebellum"
+    ],
+    "explanation": "出處：atlas-8-5-medulla-5",
+    "description": ""
+  },
+  {
+    "num": "Medulla_4",
+    "path": "Medulla/Medulla_4.webp",
+    "answer": [
+      "(1) Gracile fasciculus (2) Internal arcuate fibers",
+      "Gracile fasciculus Internal arcuate fibers"
+    ],
+    "explanation": "此為 level of sensory decussation，分開的 pyramid 與出現 gracile, cuneate nucleus。出處： atlas-8-1-medulla-1",
+    "description": ""
+  },
+  {
+    "num": "Medulla_5",
+    "path": "Medulla/Medulla_5.webp",
+    "answer": [
+      "(1) Anterior spinocerebellar tract (2) Superior cerebellar peduncle (3) Medial lemniscus",
+      "Anterior spinocerebellar tract Superior cerebellar peduncle Medial lemniscus"
+    ],
+    "explanation": "(3)在 medulla 還是直的。出處： atlas-8-1-medulla-1 此為 level of sensory decussation",
+    "description": ""
+  },
+  {
+    "num": "Medulla_6",
+    "path": "Medulla/Medulla_6.webp",
+    "answer": [
+      "(1) Hypoglossal nucleus (2) Movement of intrinsic muscles of tongue",
+      "Hypoglossal nucleus Movement of intrinsic muscles of tongue"
+    ],
+    "explanation": "(1)在比較 ventral medial 的是 hypoglossal; dorsal lateral 的是 dorsal motor nucleus of vagus。此為 level of inferior olivary nucleus (atlas-8-3-medulla-3)",
+    "description": ""
+  },
+  {
+    "num": "Medulla_7",
+    "path": "Medulla/Medulla_7.webp",
+    "answer": [
+      "(1) Dorsal motor nucleus of vagus nerve (2) Inferior vestibular nucleus",
+      "Dorsal motor nucleus of vagus nerve Inferior vestibular nucleus"
+    ],
+    "explanation": "(1)位於 sulcus limitans 的 medial side (2) Inferior vestibular nucleus 的特色就是有豹紋。此為 level of inferior olivary nucleus (atlas-8-5-medulla-5)",
+    "description": ""
+  },
+  {
+    "num": "Medulla_8",
+    "path": "Medulla/Medulla_8.webp",
+    "answer": [
+      "(1) Medial lemniscus (2) 本體感覺訊息傳遞",
+      "Medial lemniscus 本體感覺訊息傳遞"
+    ],
+    "explanation": "",
+    "description": ""
+  },
+  {
+    "num": "Medulla_9",
+    "path": "Medulla/Medulla_9.webp",
+    "answer": [
+      "(1) Pyramid (2) Anterior spinal artery",
+      "Pyramid Anterior spinal artery"
+    ],
+    "explanation": "出處： atlas-8-3-medulla-3",
+    "description": ""
+  },
+  {
+    "num": "Medulla_10",
+    "path": "Medulla/Medulla_10.webp",
+    "answer": [
+      "(1) Anterolateral system (2) 痛覺、溫度感覺、部分觸覺",
+      "Anterolateral system 痛覺、溫度感覺、部分觸覺"
+    ],
+    "explanation": "出處： atlas-8-1-medulla-1",
+    "description": ""
+  },
+  {
+    "num": "Medulla_11",
+    "path": "Medulla/Medulla_11.webp",
+    "answer": [
+      "(1) Olivocerebellar fibers (2) Inferior cerebellar peduncle",
+      "Olivocerebellar fibers Inferior cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas-8-4-medulla-4",
+    "description": ""
+  },
+  {
+    "num": "Medulla_12",
+    "path": "Medulla/Medulla_12.webp",
+    "answer": [
+      "(1) Central tegmental tract (2) Inferior olivary nucleus",
+      "Central tegmental tract Inferior olivary nucleus"
+    ],
+    "explanation": "出處：atlas-8-6-medulla-6",
+    "description": ""
+  },
+  {
+    "num": "Medulla_13",
+    "path": "Medulla/Medulla_13.webp",
+    "answer": [
+      "(1) Posterior spinocerebellar tract (2) Internal arcuate fiber (3) touch and proprioception",
+      "Posterior spinocerebellar tract Internal arcuate fiber touch and proprioception"
+    ],
+    "explanation": "出處： atlas-8-1-medulla-1",
+    "description": ""
+  },
+  {
+    "num": "Medulla_14",
+    "path": "Medulla/Medulla_14.webp",
+    "answer": [
+      "(1) Pyramid (2) Inferior vestibular nucleus (3) Inferior salivatory nucleus (4) Medial vestibular nucleus",
+      "Pyramid Inferior vestibular nucleus Inferior salivatory nucleus Medial vestibular nucleus"
+    ],
+    "explanation": "(3) solitary tract 的內側(08 無介紹) (4)在 B 內側。出處：atlas-8-5-medulla-5",
+    "description": ""
+  },
+  {
+    "num": "Medulla_15",
+    "path": "Medulla/Medulla_15.webp",
+    "answer": [
+      "(1) Pyramidal decussation (2) Spinal trigeminal nucleus (3) Spinal trigeminal tract",
+      "Pyramidal decussation Spinal trigeminal nucleus Spinal trigeminal tract"
+    ],
+    "explanation": "出處：Level of pyramidal decussation (atlas-5-4-spinal cord)",
+    "description": ""
+  },
+  {
+    "num": "Medulla_16",
+    "path": "Medulla/Medulla_16.webp",
+    "answer": [
+      "(1) Cuneate nucleus (2) Cuneate fasciculus (3) Gracile nucleus (4) Gracile fasciculus",
+      "Cuneate nucleus Cuneate fasciculus Gracile nucleus Gracile fasciculus"
+    ],
+    "explanation": "出處： atlas-8-2-medulla-2",
+    "description": ""
+  },
+  {
+    "num": "Medulla_17",
+    "path": "Medulla/Medulla_17.webp",
+    "answer": [
+      "(1) Hypoglossal nucleus (2) GSE",
+      "Hypoglossal nucleus GSE"
+    ],
+    "explanation": "出處：atlas-8-5-medulla-5",
+    "description": ""
+  },
+  {
+    "num": "Medulla_18",
+    "path": "Medulla/Medulla_18.webp",
+    "answer": [
+      "(1) Dorsal motor nucleus of vagus nerve (2) GVE",
+      "Dorsal motor nucleus of vagus nerve GVE"
+    ],
+    "explanation": "出處： atlas-8-5-medulla-5",
+    "description": ""
+  },
+  {
+    "num": "Medulla_19",
+    "path": "Medulla/Medulla_19.webp",
+    "answer": [
+      "(1) Sulcus limitans (2) 區分 sensory 和 motor areas",
+      "Sulcus limitans 區分 sensory 和 motor areas"
+    ],
+    "explanation": "(2) Medial side is motor area, lateral side is sensory area. 出處： atlas-8-5-medulla-5",
+    "description": ""
+  },
+  {
+    "num": "Medulla_20",
+    "path": "Medulla/Medulla_20.webp",
+    "answer": [
+      "(1) Internal arcuate fiber (2) Posterior spinocerebellar tract",
+      "Internal arcuate fiber Posterior spinocerebellar tract"
+    ],
+    "explanation": "可參考： atlas-8-2-medulla-2",
+    "description": ""
+  },
+  {
+    "num": "Medulla_21",
+    "path": "Medulla/Medulla_21.webp",
+    "answer": [
+      "(1) Inferior vestibular nucleus (2) Pyramid",
+      "Inferior vestibular nucleus Pyramid"
+    ],
+    "explanation": "(1)特徵：許多灰色斑點。可參考： atlas-8-4-medulla-4",
+    "description": ""
+  }
+]

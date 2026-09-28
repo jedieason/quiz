@@ -1,0 +1,139 @@
+[
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_1",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_1.webp",
+        "answer": [
+            "Peroneus tertius tendon",
+            "Fibularis tertius tendon"
+        ],
+        "explanation": "從 distal end of fibula 連到 base of 5th metatarsal bone，在 extensor digitorum longus 的外側，應該就能輕鬆判斷。他由 deep fibular n. 支配，負責 dorsiflexion & eversion of foot。注意到前小腿四肌: tibialis anterior, extensor digitorum longus, extensor hallucis longus, peroneus tertius 都是由 deep fibular n. 支配，而足背雙肌:extensor hallucis brevis & extensor digitorum brevis 則都由 lateral br. of deep fibular n. 支配。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_2",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_2.webp",
+        "answer": [
+            "Anterior tibial a."
+        ],
+        "explanation": "從 popliteal a. 分出來往前鑽過 interosseous membrane，之後和 deep fibular n. 伴行，在前小腿近中段處走在 tibialis anterior & extensor digitorum longus 之間，足背可能會在 extensor hallucis longus tendon & extensor digitorum longus tendon 之間。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_3",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_3.webp",
+        "answer": [
+            "Peroneus tertius tendon",
+            "Fibularis tertius tendon"
+        ],
+        "explanation": "注意他連到 5th metatarsal base，不要寫成 extensor digitorum longus。他屬於前小腿四肌，由 deep fibular n. 支配。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_4",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_4.webp",
+        "answer": [
+            "Deep fibular n."
+        ],
+        "explanation": "注意他的 medial br. 往前分岔成 2 個 dorsal digital n.n.，和 dorsalis pedis a. 伴行，且和 extensor hallucis longus tendon 走很近。而他的 lateral br. 則支配了 extensor hallucis brevis & extensor digitorum brevis，和 tarsometatarsal joint。*他明確走在誰的 medial 或 lateral side 在足背有點不太一定，各家說法不同，唯一共通的只有他會 pass retinaculum，deep to extensor。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_5",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_5.webp",
+        "answer": [
+            "Extensor hallucis longus tendon"
+        ],
+        "explanation": "理論上是個單字題。從 middle fibula & interosseous membrane 連到 base of distal phalanx of great toe，為 dorsiflexor & extensor of great toe，注意他的肌腱跨過神經血管 (其實不同書畫的不太一樣 @@)，肌肉質偏下方內側。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_6",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_6.webp",
+        "answer": [
+            "Anterior tibial a."
+        ],
+        "explanation": "首先你要看出這是 popliteal fossa 下緣，看到 popliteal a. 在經過 popliteus 下緣之後立馬分支為 anterior tibial a. & posterior tibial a.。anterior tibial a. 鑽過 interosseous membrane，會分出 anterior tibial recurrent a. 參與 genicular anastomosis，主幹下行和 deep fibular n. 伴行。這對苦命情侶在前側小腿由上而下分別走在 (1)tibialis anterior & extensor digitorum longus 間; (2)tibialis anterior & extensor hallucis longus 間; (3)extensor hallucis longus tendon & extensor digitorum longus tendon 間。總之腳的構造就是告訴我們生命會一直換跑道，所以每一個重要的十字路口都必考就對了。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_7",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_7.webp",
+        "answer": [
+            "Superficial fibular n."
+        ],
+        "explanation": "在 lateral compartment of leg，被蓋在 fibularis longus 之下，沿著 fibularis brevis 的後緣往下走。支配 fibularis longus & fibularis brevis (都是 foot everter)，以及 anterolateral aspect of leg & most dorsum of foot 感覺。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_8",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_8.webp",
+        "answer": [
+            "Tibialis anterior tendon"
+        ],
+        "explanation": "在 extensor hallucis longus tendon 的外側，從 lateral condyle, superior 2/3 of lateral tibia, interosseous membrane (重點就是，都在 tibia 的 lateral side!!!) 連到 medial cuneiform & 1st metatarsal bone，由 deep fibular n. 支配，為 inverter & dorsiflexor of foot。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_9",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_9.webp",
+        "answer": [
+            "Deep fibular n."
+        ],
+        "explanation": "這是小腿的外側觀，可以看到 fibular head，common fibular n. 繞過 fibular head 後分成 superficial fibular n. & deep fibular n.。superficial fibular n. 繼續留在 lateral compartment 走在 peroneus longus 之下，deep fibular n. 往 anterior compartment 走到 tibialis anterior & extensor digitorum longus 之間。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_10",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_10.webp",
+        "answer": [
+            "Dorsalis pedis a."
+        ],
+        "explanation": "不要寫成 anterior tibial a.，因為已經跨過 ankle joint 了。走在 extensor hallucis longus tendon & extensor hallucis brevis tendon 之間。在 metatarsal bone 處變成 arcuate a.。圖中還可以看到他分出 deep plantar a.。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_11",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_11.webp",
+        "answer": [
+            "Deep fibular n."
+        ],
+        "explanation": "注意這個畫面要深深烙印在腦海中，而且不用看腳趾頭就要會判斷。由內到外構造依序為:tendon of tibialis anterior→tendon of extensor hallucis longus→anterior tibial a./v.(上)dorsalis pedis a.(下)→deep fibular n. →extensor hallucis brevis→extensor digitorum longus→fibularis tertius。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_12",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_12.webp",
+        "answer": [
+            "Fibularis brevis m."
+        ],
+        "explanation": "肌肉本體在 fibularis longus 的前下方，肌腱繞過 lateral malleolus 後方之後附著到 5th metatarsal bone，由 superficial fibular n. 支配，負責 eversion of foot。1. lateral malleolus 2. Fibularis longus",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_13",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_13.webp",
+        "answer": [
+            "Extensor hallucis brevis m."
+        ],
+        "explanation": "Insert 到大拇趾的 base of proximal phalanx。其他:2. extensor digitorum brevis、3. tibialis anterior、6. fibularis longus、7.fibularis brevis、8.deep fibular n.、9. dorsalis pedis",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_14",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_14.webp",
+        "answer": [
+            "Deep fibular n."
+        ],
+        "explanation": "deep fibular nerve 會從 extensor retinaculum 及 extensor hallucis longus 的 tendon 下穿過，之後從第一、二腳指之間穿出。",
+        "description": ""
+    },
+    {
+        "num": "Lat_Ant_Compartment_of_Leg_15",
+        "path": "Lat_Ant_Compartment_of_Leg/Lat_Ant_Compartment_of_Leg_15.webp",
+        "answer": [
+            "Tibialis anterior m."
+        ],
+        "explanation": "其外側與 extensor digitorum longus 之間有 ant. tibial a. 和 deep fibular n. 。黃箭頭是 tibia bone 的 ant. border。",
+        "description": ""
+    }
+]

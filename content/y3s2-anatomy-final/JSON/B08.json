@@ -1,0 +1,236 @@
+[
+    {
+        "num": "B08_1",
+        "path": "B08/B08_1.webp",
+        "answer": [
+            "Middle meningeal a."
+        ],
+        "explanation": "Middle meningeal artery 穿過 Auriculotemporal n.兩個 root 中間的環。",
+        "description": ""
+    },
+    {
+        "num": "B08_2",
+        "path": "B08/B08_2.webp",
+        "answer": [
+            "Greater palatine n."
+        ],
+        "explanation": "經過較前方的 greater palatine canal 支配硬顎；Lesser palatine nerve (15) 則經過後方。",
+        "description": ""
+    },
+    {
+        "num": "B08_3",
+        "path": "B08/B08_3.webp",
+        "answer": [
+            "Chorda tympani n."
+        ],
+        "explanation": "穿出 Petrotympanic fissure 後，繼續往下往前會併入 Lingual n. (28 號)。",
+        "description": ""
+    },
+    {
+        "num": "B08_4",
+        "path": "B08/B08_4.webp",
+        "answer": [
+            "Palatopharyngeus m."
+        ],
+        "explanation": "Palatine tonsil (67)後方是 Palatopharyngeal arch，內有 Palatopharyngeus m.。",
+        "description": ""
+    },
+    {
+        "num": "B08_5",
+        "path": "B08/B08_5.webp",
+        "answer": [
+            "CN9"
+        ],
+        "explanation": "24 號是 Stylopharyngeus m.，Glossopharyngeal n. 會伴隨其下行到 sup. 與 mid. constrictor m. 之間。",
+        "description": ""
+    },
+    {
+        "num": "B08_6",
+        "path": "B08/B08_6.webp",
+        "answer": [
+            "Superior laryngeal a."
+        ],
+        "explanation": "與 internal laryngeal n.伴行，走在 middle 與 inferior constrictor m. (16)之間。",
+        "description": ""
+    },
+    {
+        "num": "B08_7",
+        "path": "B08/B08_7.webp",
+        "answer": [
+            "lingual n."
+        ],
+        "explanation": "可看到和 submandibular duct 十字交叉，duct 在內，lingual n.在外。鑷子夾的是 Hypoglossal n.。",
+        "description": ""
+    },
+    {
+        "num": "B08_8",
+        "path": "B08/B08_8.webp",
+        "answer": [
+            "semitendinosus m."
+        ],
+        "explanation": "大腿後側觀觀三條肌肉中，中間的那塊就是 Semitendinosus，壓在 Semimembranosus 之上。",
+        "description": ""
+    },
+    {
+        "num": "B08_9",
+        "path": "B08/B08_9.webp",
+        "answer": [
+            "tibialis anterior m."
+        ],
+        "explanation": "Anterior compartment of leg，和 tibia bone 相連，其 tendon 往下 insert 到 1st metatarsal bone。",
+        "description": ""
+    },
+    {
+        "num": "B08_10",
+        "path": "B08/B08_10.webp",
+        "answer": [
+            "tendon of flexor hallucis longus m."
+        ],
+        "explanation": "足底第二層，從足底內側 insert 到 big toe。",
+        "description": ""
+    },
+    {
+        "num": "B08_11",
+        "path": "B08/B08_11.webp",
+        "answer": [
+            "popliteus m."
+        ],
+        "explanation": "膝蓋後側觀。屬於深層肌肉，被壓在 plantaris m. 之下，且在 popliteal fossa 內下側。",
+        "description": ""
+    },
+    {
+        "num": "B08_12",
+        "path": "B08/B08_12.webp",
+        "answer": [
+            "adductor longus m."
+        ],
+        "explanation": "左腿內側，內收肌肉中最淺層的就是 adductor longus m.。",
+        "description": ""
+    },
+    {
+        "num": "B08_13",
+        "path": "B08/B08_13.webp",
+        "answer": [
+            "Lateral circumflex femoral artery"
+        ],
+        "explanation": "從 deep femoral a. 分出後往外走，隱沒到 sartorius m. 和 rectus femoris m. 之下。有三分支詳見原表。",
+        "description": ""
+    },
+    {
+        "num": "B08_14",
+        "path": "B08/B08_14.webp",
+        "answer": [
+            "Incus"
+        ],
+        "explanation": "其他:1-Malleus(head)、4-Malleus(handle)、12-stapes、15-Promontory、31- Chorda tympani等。",
+        "description": ""
+    },
+    {
+        "num": "B08_15",
+        "path": "B08/B08_15.webp",
+        "answer": [
+            "Genioglossus muscle"
+        ],
+        "explanation": "Mental spine 連到 under surface of tongue，由 hypoglossal n.支配，是 tongue 的 protruder & depressor。",
+        "description": ""
+    },
+    {
+        "num": "B08_16",
+        "path": "B08/B08_16.webp",
+        "answer": [
+            "Internal laryngeal nerve"
+        ],
+        "explanation": "從 middle & inferior constrictor 之間鑽入 pharynx 再跑到 larynx，負責聲帶以上感覺與味覺。",
+        "description": ""
+    },
+    {
+        "num": "B08_17",
+        "path": "B08/B08_17.webp",
+        "answer": [
+            "Deep artery of thigh"
+        ],
+        "explanation": "Femoral artery 於前側分出此分支，會走在 pectineus m. 與 adductor longus m. 之間往深處走。",
+        "description": ""
+    },
+    {
+        "num": "B08_18",
+        "path": "B08/B08_18.webp",
+        "answer": [
+            "Levator veli palatini muscle"
+        ],
+        "explanation": "從 auditory tube (14) 內側連到 palatine。包含 facial nerve, incus, malleus 等構造詳見原表。",
+        "description": ""
+    },
+    {
+        "num": "B08_19",
+        "path": "B08/B08_19.webp",
+        "answer": [
+            "Infraorbital nerve"
+        ],
+        "explanation": "考古敘述說考 anterior view。從正面看從眼眶下緣的 infra-orbital foramen 穿出。",
+        "description": ""
+    },
+    {
+        "num": "B08_20",
+        "path": "B08/B08_20.webp",
+        "answer": [
+            "Hyoglossus m."
+        ],
+        "explanation": "從 hyoid 連到 side of tongue，lingual n.(red), submandibular duct(blue)在之外側。",
+        "description": ""
+    },
+    {
+        "num": "B08_21",
+        "path": "B08/B08_21.webp",
+        "answer": [
+            "Spring ligament"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B08_22",
+        "path": "B08/B08_22.webp",
+        "answer": [
+            "Fibular collateral ligament"
+        ],
+        "explanation": "在 knee joint 的外側，從 lateral epicondyle of femur 向下連到 head of fibula。出處:Rohen atlas 8e p.463",
+        "description": ""
+    },
+    {
+        "num": "B08_23",
+        "path": "B08/B08_23.webp",
+        "answer": [
+            "Saphenous n."
+        ],
+        "explanation": "在 adductor canal 裡與 femoral a./v.伴行，穿出 deep fascia 形成小腿內側感覺神經。",
+        "description": ""
+    },
+    {
+        "num": "B08_24",
+        "path": "B08/B08_24.webp",
+        "answer": [
+            "Posterior tibial a."
+        ],
+        "explanation": "左腳後側觀。沿著 tibialis posterior 表面下行，和 tibial n.伴行，從後跟進入足底。",
+        "description": ""
+    },
+    {
+        "num": "B08_25",
+        "path": "B08/B08_25.webp",
+        "answer": [
+            "Medial meniscus"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B08_26",
+        "path": "B08/B08_26.webp",
+        "answer": [
+            "Femoral a."
+        ],
+        "explanation": "可看到分支出來的 deep artery of thigh。",
+        "description": ""
+    }
+]

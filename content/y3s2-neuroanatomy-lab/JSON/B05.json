@@ -1,0 +1,334 @@
+[
+  {
+    "num": "B05_1",
+    "path": "B05/B05_1.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Hearing",
+      "Inferior colliculus Hearing"
+    ],
+    "explanation": "出處：atlas 3-4",
+    "description": ""
+  },
+  {
+    "num": "B05_2",
+    "path": "B05/B05_2.webp",
+    "answer": [
+      "(1) Superior cerebellar peduncle (2) Inferior cerebellar peduncle",
+      "Superior cerebellar peduncle Inferior cerebellar peduncle"
+    ],
+    "explanation": "出處：atlas 3-5",
+    "description": ""
+  },
+  {
+    "num": "B05_3",
+    "path": "B05/B05_3.webp",
+    "answer": [
+      "(1) Olive (2) Inferior olivary nucleus",
+      "Olive Inferior olivary nucleus"
+    ],
+    "explanation": "出處：atlas 3-1",
+    "description": ""
+  },
+  {
+    "num": "B05_4",
+    "path": "B05/B05_4.webp",
+    "answer": [
+      "(1) Middle cerebral artery (2) Internal carotid artery",
+      "Middle cerebral artery Internal carotid artery"
+    ],
+    "explanation": "此圖為頭部血管造影。\nB 血管左右各一，可以從其大小和彎折方式判斷其為 Internal carotid artery。\nA 血管為 B 的 Terminal branch，且可以看到它往外側跑，故為 Middle cerebral artery。\n出處：網路、謝松蒼 blood supply of CNS",
+    "description": ""
+  },
+  {
+    "num": "B05_5",
+    "path": "B05/B05_5.webp",
+    "answer": [
+      "(1) Caudate nucleus (2) Corpus callosum, splenium",
+      "Caudate nucleus Corpus callosum, splenium"
+    ],
+    "explanation": "此圖為大腦 horizontal section。\n可以看到中央內側的 Thalamus，往外側依序可見 Internal capsule 和 Lentiform nucleus（GP & Putamen）。\nA 位於 Lentiform nucleus 前側，且兩者被 Internal capsule 分開，故可得知其為 Caudate nucleus。\nB 為連接左右的大型神經束且位於後側，故為 Corpus callosum 的 Splenium。\n出處：atlas 2-7",
+    "description": ""
+  },
+  {
+    "num": "B05_6",
+    "path": "B05/B05_6.webp",
+    "answer": [
+      "(1) Medial lemniscus (2) Hypoglossal nerve",
+      "Medial lemniscus Hypoglossal nerve"
+    ],
+    "explanation": "出處：atlas 8-4",
+    "description": ""
+  },
+  {
+    "num": "B05_7",
+    "path": "B05/B05_7.webp",
+    "answer": [
+      "(1) Abducens nucleus (2) Facial nerve",
+      "Abducens nucleus Facial nerve"
+    ],
+    "explanation": "出處：atlas 7-1",
+    "description": ""
+  },
+  {
+    "num": "B05_8",
+    "path": "B05/B05_8.webp",
+    "answer": [
+      "(1) Hippocampus (2) Fornix",
+      "Hippocampus Fornix"
+    ],
+    "explanation": "此圖為大腦 coronal section。\nA 位於 Temporal lobe 的下內側，可以從其折疊方式看出它是 Hippocampus。\nB 位於 Corpus callosum 下方近中線處，截面呈圓柱狀。符合這種條件的構造應為 Fornix。\n出處：atlas 2-3",
+    "description": ""
+  },
+  {
+    "num": "B05_9",
+    "path": "B05/B05_9.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Middle cerebellar peduncle",
+      "Inferior colliculus Middle cerebellar peduncle"
+    ],
+    "explanation": "此圖為腦幹 Lateral view，並移除了部分小腦。\nA 為位於 Midbrain 背側的突起，而且可以發現其上方還有一顆，因此應為四疊體中位居下方的 Inferior colliculus。\nB 位於 Pons 處，且可以從切面看出其向後連接。故可判斷其為 Middle cerebellar peduncle。\n出處：atlas 3-3",
+    "description": ""
+  },
+  {
+    "num": "B05_10",
+    "path": "B05/B05_10.webp",
+    "answer": [
+      "(1) Cerebral peduncle (2) Periaqueductal gray",
+      "Cerebral peduncle Periaqueductal gray"
+    ],
+    "explanation": "出處：atlas 6-2",
+    "description": ""
+  },
+  {
+    "num": "B05_11",
+    "path": "B05/B05_11.webp",
+    "answer": [
+      "(1) Red nucleus (2) Substantia nigra",
+      "Red nucleus Substantia nigra"
+    ],
+    "explanation": "出處：atlas 6-3",
+    "description": ""
+  },
+  {
+    "num": "B05_12",
+    "path": "B05/B05_12.webp",
+    "answer": [
+      "(1) Cingulate gyrus (2) Anterior cerebral artery",
+      "Cingulate gyrus Anterior cerebral artery"
+    ],
+    "explanation": "此圖為腦 medial view。\nA 為 Corpus callosum 正上方之 Gyrus，即 Cingulate gyrus。\nCingulate gyrus 位於大腦內側前 2/3，此處血液由 Anterior cerebral artery 供應。\n出處：atlas 1-2",
+    "description": ""
+  },
+  {
+    "num": "B05_13",
+    "path": "B05/B05_13.webp",
+    "answer": [
+      "(1) Crus cerebri (2) Lateral geniculate body",
+      "Crus cerebri Lateral geniculate body"
+    ],
+    "explanation": "可由圖片中央的 Red nucleus 判斷此切面位於 Midbrain，其外側有 Substantia nigra 及 Crus cerebri。\nA 為外側之大神經束，即 Crus cerebri。\nB 的部分可以看到 Optic tract（圖中下方神經束）投射至其上，故為轉接視覺訊息的 Lateral geniculate body，MGB 在其內側與之相鄰。\n出處：atlas 6-4",
+    "description": ""
+  },
+  {
+    "num": "B05_14",
+    "path": "B05/B05_14.webp",
+    "answer": [
+      "(1) Insula (2) Internal capsule",
+      "Insula Internal capsule"
+    ],
+    "explanation": "此圖為大腦 coronal section。\nA 為被 Operculum 包覆的 Insula，深埋在 Lateral sulcus 內側表面。\nB 隔開了外側的 Lenticular nucleus 及內側的 Caudate nucleus，為 Internal capsule。\n出處：atlas 2-1",
+    "description": ""
+  },
+  {
+    "num": "B05_15",
+    "path": "B05/B05_15.webp",
+    "answer": [
+      "(1) Centromedian nucleus (2) Habenular nucleus",
+      "Centromedian nucleus Habenular nucleus"
+    ],
+    "explanation": "考古組認為 habenulointerpeduncular tract 也對\n出處：atlas 9-3",
+    "description": ""
+  },
+  {
+    "num": "B05_16",
+    "path": "B05/B05_16.webp",
+    "answer": [
+      "(1) Pineal gland (2) 分泌 melatonin",
+      "Pineal gland 分泌 melatonin"
+    ],
+    "explanation": "出處：atlas 9-1",
+    "description": ""
+  },
+  {
+    "num": "B05_17",
+    "path": "B05/B05_17.webp",
+    "answer": [
+      "(1) Zona incerta (2) regulation of drinking behavior",
+      "Zona incerta regulation of drinking behavior"
+    ],
+    "explanation": "出處：atlas 9-2",
+    "description": ""
+  },
+  {
+    "num": "B05_18",
+    "path": "B05/B05_18.webp",
+    "answer": [
+      "Lateral geniculate body",
+      "Lateral geniculate body"
+    ],
+    "explanation": "出處：atlas 6-4",
+    "description": ""
+  },
+  {
+    "num": "B05_19",
+    "path": "B05/B05_19.webp",
+    "answer": [
+      "(1) Lateral corticospinal tract (2) Spinothalamic tract",
+      "Lateral corticospinal tract Spinothalamic tract"
+    ],
+    "explanation": "此圖為脊髓橫切面。\nA 區域夾在 Ventral horn 與 Dorsal horn 之間，為 Lateral corticospinal tract。\nB 區域位於 Ventral horn 外側，為 Spinothalamic tract，負責傳遞身體溫痛覺。\n出處：神解共筆 vol.3 p.5",
+    "description": ""
+  },
+  {
+    "num": "B05_20",
+    "path": "B05/B05_20.webp",
+    "answer": [
+      "(1) Uvula (2) Tonsil",
+      "Uvula Tonsil"
+    ],
+    "explanation": "此圖為小腦 Inferior view，可由(B)Tonsil 判斷朝向螢幕的是下方。\n中線的 A 為偏 Dorsal、Inferior 的 Uvula。\n（A 可能有點像 Nodulus，不過 Nodulus 比較 Ventral 一點，所以會在圖中 A 區域的更下方）\n出處：atlas 4-2",
+    "description": ""
+  },
+  {
+    "num": "B05_21",
+    "path": "B05/B05_21.webp",
+    "answer": [
+      "(1) Lateral sulcus (2) Cortical branch of middle cerebral artery",
+      "Lateral sulcus Cortical branch of middle cerebral artery"
+    ],
+    "explanation": "此圖為大腦 Lateral view。\n側面這條隔開 Temporal lobe 和上方腦葉的溝是 Lateral sulcus。\nMCA 的 Cortical branch 會從其中走出供應 External cerebrum 的血液。\n出處：atlas 1-1",
+    "description": ""
+  },
+  {
+    "num": "B05_22",
+    "path": "B05/B05_22.webp",
+    "answer": [
+      "(1) Premotor area，可修飾將從 primary motor area 發出的訊號，以執行更精細的動作 (2) Angular gyrus",
+      "Premotor area，可修飾將從 primary motor area 發出的訊號，以執行更精細的動作 Angular gyrus"
+    ],
+    "explanation": "出處：atlas 1-1",
+    "description": ""
+  },
+  {
+    "num": "B05_23",
+    "path": "B05/B05_23.webp",
+    "answer": [
+      "(1) Lingual gyrus (2) 視覺",
+      "Lingual gyrus 視覺"
+    ],
+    "explanation": "出處：atlas 1-2",
+    "description": ""
+  },
+  {
+    "num": "B05_24",
+    "path": "B05/B05_24.webp",
+    "answer": [
+      "(1) Hypoglossal nucleus (2) Medial longitudinal fasciculus",
+      "Hypoglossal nucleus Medial longitudinal fasciculus"
+    ],
+    "explanation": "從 Inferior olivary nucleus 和 圖片上方（背側）已經出現第四腦室形狀可以判斷此切面位於 Open medulla。\nA 為腦室表面最 Medial 的腦神經核，此處負責 GSE。而此高度的 GSE 只有 Hypoglossal nucleus。\nMedulla 中央的縱走纖維束由 Dorsal 至 Ventral（切片上至下）依序為 Medial longitudinal fasciculus、Tectospinal tract、Medial lemniscus。\nB 位於最上面，故為 MLF。\n出處：atlas 8-5",
+    "description": ""
+  },
+  {
+    "num": "B05_25",
+    "path": "B05/B05_25.webp",
+    "answer": [
+      "(1) Cingulate gyrus (2) Cuneus",
+      "Cingulate gyrus Cuneus"
+    ],
+    "explanation": "出處：atlas 1-2",
+    "description": ""
+  },
+  {
+    "num": "B05_26",
+    "path": "B05/B05_26.webp",
+    "answer": [
+      "(1) Anterior commissure (2) Mammillary body",
+      "Anterior commissure Mammillary body"
+    ],
+    "explanation": "出處：atlas 1-2",
+    "description": ""
+  },
+  {
+    "num": "B05_27",
+    "path": "B05/B05_27.webp",
+    "answer": [
+      "(1) Dentate nucleus (2) Vermis",
+      "Dentate nucleus Vermis"
+    ],
+    "explanation": "此圖為小腦 horizontal section，可由呈樹枝狀的截面看出。\nA 為位於深處的核區（Deep nuclei），呈齒狀，故為 Dentate nucleus。\nB 為位於小腦中線凹陷處的腦區 Vermis。\n出處：Nolte’s Human Brain 7e P. 502",
+    "description": ""
+  },
+  {
+    "num": "B05_28",
+    "path": "B05/B05_28.webp",
+    "answer": [
+      "(1) Occipitotemporal gyrus (2) 視覺辨識",
+      "Occipitotemporal gyrus 視覺辨識"
+    ],
+    "explanation": "(2) 特別是人臉的辨識。\n此圖為大腦 medial-inferior view。\n虛線區域位於 Temporal lobe 底部，且夾在最內的 Parahippocampal gyrus 和外側的 Inferior temporal gyrus 之間，為 Occipitotemporal gyrus。\nOccipitotemporal gyrus 處理許多視覺訊息，和辨識功能相關。內有 Fusiform face area 負責人臉的認知。\n出處：1-6",
+    "description": ""
+  },
+  {
+    "num": "B05_29",
+    "path": "B05/B05_29.webp",
+    "answer": [
+      "(1) Optic tract (2) 接收大腦聯合皮質訊息並投射至 globus pallidus",
+      "Optic tract 接收大腦聯合皮質訊息並投射至 globus pallidus"
+    ],
+    "explanation": "此圖為大腦 frontal section。\nA 顏色較深，為神經束。又因其位於大腦底部且左右各一，故應為 Optic tract。\nB 顏色較淺，為神經核。可見在外側靠著 Internal capsule、內下側則有 Thalamus，同時緊鄰 Lateral ventricle。此位置之神經核應為 Caudate nucleus，其功能為接收大腦聯合皮質訊息並投射至 Globus pallidus。\n出處：Nolte’s Human Brain 7e P. 638",
+    "description": ""
+  },
+  {
+    "num": "B05_30",
+    "path": "B05/B05_30.webp",
+    "answer": [
+      "(1) Habenulointerpeduncular tract (2) Fornix",
+      "Habenulointerpeduncular tract Fornix",
+      "(1) Fasciculus retroflexus (2) Fornix",
+      "Fasciculus retroflexus Fornix"
+    ],
+    "explanation": "左圖為大腦 Coronal section，右圖為左圖中央部分放大。\nA 從第三腦室旁向下走到 Midbrain 且繞著 Red nucleus，為 Habenulo-interpeduncular tract。\nB 走在 Corpus callosum 下方，且能看出其從兩側向中間併攏。因此應為 Fornix。\n出處：atlas 2-3 2-4",
+    "description": ""
+  },
+  {
+    "num": "B05_31",
+    "path": "B05/B05_31.webp",
+    "answer": [
+      "(1) Inferior colliculus (2) Inferior vestibular nucleus",
+      "Inferior colliculus Inferior vestibular nucleus"
+    ],
+    "explanation": "從圖中的 Inferior olivary nucleus 和已經出現的 Pontine nucleus 可以判斷此切面位於 Medulla 接近 Pons 處，故左上和右上的黑色區域為下小腦腳。\nA 走在下小腦腳外背側，為 Dorsal cochlear nucleus，其 Axon 不經 Superior olivary nucleus，直接投射至對側 Inferior colliculus。\nB 為 Inferior vestibular nucleus，因被大量 Fiber 穿過而呈豹紋狀。\n出處：atlas 8-6",
+    "description": ""
+  },
+  {
+    "num": "B05_32",
+    "path": "B05/B05_32.webp",
+    "answer": [
+      "(1) Lateral sulcus (2) 語言感覺",
+      "Lateral sulcus 語言感覺"
+    ],
+    "explanation": "此圖為大腦 lateral view。\n側面這條隔開 Temporal lobe 和上方腦葉的溝是 Lateral sulcus。\nB 位於 Lateral sulcus 末端，為 Supramarginal gyrus。它是 Wernicke’s area 的一部分，負責語言感覺。\n出處：atlas 1-1",
+    "description": ""
+  },
+  {
+    "num": "B05_33",
+    "path": "B05/B05_33.webp",
+    "answer": [
+      "(1) Cingulate gyrus (2) Globus pallidus, internal segment",
+      "Cingulate gyrus Globus pallidus, internal segment"
+    ],
+    "explanation": "此圖為大腦 coronal section。\nA 為位於連接左右半球的 Corpus callosum 上方的 gyrus，故為 Cingulate gyrus。\nB 位於 Internal capsule 下外側，為 Lentiform nucleus 的一部分，其由內至外依序為 GPi、GPe、Putamen，B 位於最內側，故為 GPi。\n出處：Nolte’s Human Brain 7e P. 636\natlas 1-2 Cerebrum: medial view\natlas 2-5 cerebrum: coronal with hippocampus",
+    "description": ""
+  }
+]

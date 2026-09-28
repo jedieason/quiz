@@ -1,0 +1,200 @@
+[
+  {
+    "num": "b08lab-01",
+    "path": "B08期末考/b08lab-01.webp",
+    "answer": [
+      "Acidophil"
+    ],
+    "explanation": "切片中可以看到一圈一圈腺體的結構，且內含許多不同染色性質的細胞，故可判斷為 pars distalis。箭頭所指細胞呈現紅色，判斷應為 acidophil。【出處】共筆 Vol.1 p.44",
+    "description": "請問指針所指為何種細胞？"
+  },
+  {
+    "num": "b08lab-02",
+    "path": "B08期末考/b08lab-02.webp",
+    "answer": [
+      "organ of Corti"
+    ],
+    "explanation": "位於 scala media，為主要的聽覺器官（scala tympani 和 scala vestibuli 之間），可以觀察到三排 outer hair cell、一排 inner hair cell、tectorial membrane 蓋在上面。【出處】07 共筆 Vol.6 P.57",
+    "description": "請問紅線圈的是何種構造？"
+  },
+  {
+    "num": "b08lab-03",
+    "path": "B08期末考/b08lab-03.webp",
+    "answer": [
+      "prostate gland"
+    ],
+    "explanation": "由豐富的 smooth muscle 和 prostatic concretion 可以判斷。【出處】共筆 Vol.5 p.39",
+    "description": "請問視野中為何種器官？"
+  },
+  {
+    "num": "b08lab-04",
+    "path": "B08期末考/b08lab-04.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "表面平整圓滑，為 Ductus epididymis 管腔。【出處】共筆 Vol.4 p.50",
+    "description": "請問下圖組織上皮的種類名稱？"
+  },
+  {
+    "num": "b08lab-06",
+    "path": "B08期末考/b08lab-06.webp",
+    "answer": [
+      "primary spermatocyte"
+    ],
+    "explanation": "大顆且可見細絲狀染色質即為 primary spermatocyte。【出處】共筆 Vol.4 P.46",
+    "description": "請問指針為何種細胞？"
+  },
+  {
+    "num": "b08lab-08",
+    "path": "B08期末考/b08lab-08.webp",
+    "answer": [
+      "Sertoli cell"
+    ],
+    "explanation": "核呈橢圓狀，細胞會和 basement membrane 接觸長度較周圍細胞長。【出處】共筆 Vol.4 p.43、44",
+    "description": "請問下圖指針所指細胞名稱？"
+  },
+  {
+    "num": "b08lab-09",
+    "path": "B08期末考/b08lab-09.webp",
+    "answer": [
+      "outer nuclear layer"
+    ],
+    "explanation": "Retina 分成 10 層，此為第四層的 outer nuclear layer，內含 rod cell 與 cone cell 的細胞核。【出處】07 共筆 Vol.6 P.24",
+    "description": "請問畫面中紅線所框區域屬於何種層次？"
+  },
+  {
+    "num": "b08lab-10",
+    "path": "B08期末考/b08lab-10.webp",
+    "answer": [
+      "ductus deferens"
+    ],
+    "explanation": "Ductus deferens 管腔外有三層很厚的 smooth muscle（內縱中環外縱），內壁不規則狀或星狀（artifact），上皮 pseudostratified columnar epithelium with stereocilia。【出處】共筆 Vol.4 P.51",
+    "description": "請問視野下為何種構造？"
+  },
+  {
+    "num": "b08lab-11",
+    "path": "B08期末考/b08lab-11.webp",
+    "answer": [
+      "spiral ganglion"
+    ],
+    "explanation": "由左圖的螺旋切面能發現此為 cochlea 周圍的組織切片圖。在 modiolus 部分切到的 ganglion 是 spiral ganglion，為 bipolar neuron，可以在其旁邊看到 afferent fibers（A）和 efferent fibers（E）。【出處】07 共筆 Vol.6 p.57",
+    "description": "請問指針所指構造為何？"
+  },
+  {
+    "num": "b08lab-12",
+    "path": "B08期末考/b08lab-12.webp",
+    "answer": [
+      "vagina glycogen"
+    ],
+    "explanation": "可見有核的非角質化複層扁平上皮，內部多 glycogen 因此呈現空染狀。下方為 dense CNT 的 lamina propria，在右下角有 venous sinus。【出處】共筆 Vol.3 P.43",
+    "description": "請問視野下為何種器官(A)？因為富含何種物質，經固定後而呈現空染(B)？"
+  },
+  {
+    "num": "b08lab-13",
+    "path": "B08期末考/b08lab-13.webp",
+    "answer": [
+      "ectocervix"
+    ],
+    "explanation": "一團實心的東西堵住 cervical gland 的開口，應為 Nabothian cyst，通常位置會靠近 ectocervix 的表面，因此推斷為 ectocervix。【出處】共筆 Vol.3 P.42",
+    "description": "請問框框內的器官為何？"
+  },
+  {
+    "num": "b08lab-17",
+    "path": "B08期末考/b08lab-17.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "先判斷出旁邊管道為 seminiferous tubule，間質中有 lipid droplets、發達的 sER、mitochondria 的即為 Leydig cell。【出處】共筆 Vol.4 P.24",
+    "description": "請寫出視野下細胞名稱？"
+  },
+  {
+    "num": "b08lab-19",
+    "path": "B08期末考/b08lab-19.webp",
+    "answer": [
+      "granulosa lutein cell granulosa cell"
+    ],
+    "explanation": "細胞很大顆、圓形狀，為 steroid hormone secreting cell。位於靠近黃體的中心。【出處】08 共筆 Vol.2 P.31",
+    "description": "請問指針為何種細胞？由何種細胞分化產生？"
+  },
+  {
+    "num": "b08lab-21",
+    "path": "B08期末考/b08lab-21.webp",
+    "answer": [
+      "tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見 palpebral conjunctiva，故為 tarsal gland。Tarsal glands（為皮脂腺）有管道連通到 tarsal plate，分泌淚液的部分成分。【出處】08 共筆 Vol.6 P.53-54",
+    "description": "寫出視野下是何種腺體？"
+  },
+  {
+    "num": "b08lab-22",
+    "path": "B08期末考/b08lab-22.webp",
+    "answer": [
+      "intervillous space"
+    ],
+    "explanation": "判斷方式為明顯的 villi 層狀結構，外層的深染多核 syncytiotrophoblast，在內層較淡染而大的 cytotrophoblast，villi 內的 mesenchymal cell，深染的 macrophage，以及 tertiary villi 中的 capillary 浸潤。所以這裡是 placenta，villi 間的空間就稱為 intervillous space，裡面也可以觀察到血球。【出處】08 共筆 Vol.3 P.25",
+    "description": "請問下圖的空腔為何？"
+  },
+  {
+    "num": "b08lab-23",
+    "path": "B08期末考/b08lab-23.webp",
+    "answer": [
+      "lacrimal gland"
+    ],
+    "explanation": "大部分是相對深染的 serous gland，和 parotid gland 類似，但是 fat infiltration 和 duct 較少。【出處】08 共筆 Vol.6 P.38",
+    "description": "寫出視野下為何種腺體？"
+  },
+  {
+    "num": "b08lab-29",
+    "path": "B08期末考/b08lab-29.webp",
+    "answer": [
+      "A"
+    ],
+    "explanation": "Iris 所在之處為前方。【出處】08 共筆 Vol.6 P.50",
+    "description": "請問 A 或 B 是 lens 的 anterior surface？"
+  },
+  {
+    "num": "b08lab-30",
+    "path": "B08期末考/b08lab-30.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "指狀突起，表面覆有一層淡染 cupula，底下有神經纖維分布。【出處】08 共筆 Vol.6 P.59",
+    "description": "請問視野下為何種構造？"
+  },
+  {
+    "num": "b08lab-31",
+    "path": "B08期末考/b08lab-31.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "複雜蜂巢狀結構，沒有偏紅（偏紅可能是 prostate gland），管腔內壁相對 prostate gland 也較平滑。【出處】08 共筆 Vol.5 P.11",
+    "description": "請問畫面中為何種器官？"
+  },
+  {
+    "num": "b08lab-33",
+    "path": "B08期末考/b08lab-33.webp",
+    "answer": [
+      "Peg cell progesterone"
+    ],
+    "explanation": "細胞呈圓拱狀突向 lumen，沒有一絲一絲紅色線條的 basal body，為具分泌功能的 peg cell，可產生輸卵管液，並受 progesterone 刺激。09 寫手註：題目是問 peg cell 可分泌何種激素，學長姐給的答案是 estrogen，但根據共筆內容，peg cell 可產生輸卵管液，並受 progesterone 刺激。【出處】08 共筆 Vol.2 P.29-30",
+    "description": "請問圖中為何種細胞？分泌何種激素？"
+  },
+  {
+    "num": "b08lab-34",
+    "path": "B08期末考/b08lab-34.webp",
+    "answer": [
+      "Penile urethra"
+    ],
+    "explanation": "此為 Orcein-Picroindigocarmine-Carmine 染色下的 penile urethra，管腔上皮周圍可觀察到一圈深棕色的 elastic fiber，中間空腔為 urethra。【出處】08 共筆 Vol.5 P.56",
+    "description": "請問視野下為何種構造？"
+  },
+  {
+    "num": "b08lab-35",
+    "path": "B08期末考/b08lab-35.webp",
+    "answer": [
+      "Canal of Schlemm"
+    ],
+    "explanation": "在靠近 sclera 和 cornea 交界的地方會出現空洞狀。周圍可見 endothelium lining，可以回收水狀液。【出處】08 共筆 Vol.6 P.44",
+    "description": "請問圈起的空腔為何？"
+  }
+]

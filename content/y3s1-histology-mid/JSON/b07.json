@@ -1,0 +1,339 @@
+[
+    {
+        "num": "b07_01",
+        "path": "b07/b07_01.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia and goblet cell basal body"
+        ],
+        "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為cilia（microvilli只會是地毯狀）\n箭頭所指深染紅線為cilia基部的basal body\n【出處】共筆Vol.2 p.7, 21",
+        "description": "組織名稱及深紅色線之名稱？"
+    },
+    {
+        "num": "b07_02",
+        "path": "b07/b07_02.webp",
+        "answer": [
+            "Mixed bone spicule"
+        ],
+        "explanation": "Spicule由軟骨轉換而來，可同時看見殘留的軟骨與新生成的硬骨，其染色特性不同\n【出處】07共筆Vol.6 p.34",
+        "description": "寫出箭頭所指範圍內的整個構造名稱？"
+    },
+    {
+        "num": "b07_03",
+        "path": "b07/b07_03.webp",
+        "answer": [
+            "SEM rER"
+        ],
+        "explanation": "07的影片裡助教給的答案是SEM，或許是畫質太差導致截圖看不出立體感。rER上有許多核糖體。\n【出處】共筆 Vol.1 p.5,14,15",
+        "description": "下圖是由哪種顯微鏡所得之影像？藍色虛線範圍內為何種胞器？"
+    },
+    {
+        "num": "b07_04",
+        "path": "b07/b07_04.webp",
+        "answer": [
+            "Multipolar neuron",
+            "motor neuron"
+        ],
+        "explanation": "圖中所圈的細胞體積大、多角形，可見塊狀的Nissl bodies，且cell body周圍無satellite cells圍繞，為spinal cord的multipolar neuron的特徵。(不可只寫neuron)\n【出處】07共筆Vol.7 p.35",
+        "description": "箭號所指細胞名稱？"
+    },
+    {
+        "num": "b07_05",
+        "path": "b07/b07_05.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "較紅血球大很多，加上細胞核有明顯凹陷，為單核球。\n【出處】共筆Vol.3 p.12, 15, 32",
+        "description": "下圖白血球的細胞名稱？"
+    },
+    {
+        "num": "b07_06",
+        "path": "b07/b07_06.webp",
+        "answer": [
+            "Transitional epithelium",
+            "Urinary system"
+        ],
+        "explanation": "細胞向外凸起，呈圓拱型，且部分細胞可見雙核構造，為transitional epithelium的特徵。常見於泌尿系統，如膀胱。\n【出處】共筆Vol.3 p.25",
+        "description": "箭頭所指是何種組織？出現在哪一系統？"
+    },
+    {
+        "num": "b07_07",
+        "path": "b07/b07_07.webp",
+        "answer": [
+            "Elastic cartilage orcein stain"
+        ],
+        "explanation": "看見多個lacunae，為軟骨，其Ground substance中有一絲一絲被特殊染色的elastic fiber，因此為elastic cartilage。Elastic fiber使用orcein染色呈紅棕色\n【出處】07共筆Vol.6 P.10",
+        "description": "下圖是何種組織？使用哪種染色方式？"
+    },
+    {
+        "num": "b07_08",
+        "path": "b07/b07_08.webp",
+        "answer": [
+            "Epidermis cornified stratified squamous epithelium"
+        ],
+        "explanation": "Epidermis位於皮膚最表層，由cornified stratified squamous epithelium組成，上方不規則組織為角質層（無細胞核）。\n【出處】共筆Vol.3 p.24, 07共筆Vol.9 p.2",
+        "description": "寫出Ａ層之名稱與Ａ層之組織名稱？"
+    },
+    {
+        "num": "b07_09",
+        "path": "b07/b07_09.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "箭頭所指的血球較紅血球大，整顆血球充滿染成藍紫色的顆粒，幾乎無法看見細胞核，此為basophil的特徵。\n【出處】共筆Vol.3 P.10",
+        "description": "箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b07_10",
+        "path": "b07/b07_10.webp",
+        "answer": [
+            "Pseudounipolar neuron",
+            "dorsal root ganglion",
+            "spinal ganglion"
+        ],
+        "explanation": "圖中所指的細胞體積大、圓，細胞核大且位於中央，周圍則有密集微小的satellite cell包圍著，也未與fiber相混雜，為dorsal root ganglion的特徵，此神經元亦被稱作pseudo-unipolar neuron。（見同年第4題整理）\n【出處】07共筆Vol.7 P.27, 28",
+        "description": "寫出箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b07_11",
+        "path": "b07/b07_11.webp",
+        "answer": [
+            "A: granular layer B: molecular layer",
+            "granular layer molecular layer"
+        ],
+        "explanation": "此為小腦構造，Granular layer位於內層，由大量granular neuron組成，在HE stain下剩下顆粒小而深染的細胞核。Molecular layer位於最外層，細胞數少，含大量unmyelinated nerve fiber，因此在HE stain下較紅（淡色）。中間層為Purkinje cell。\n【出處】07共筆Vol.8 p.37",
+        "description": "A、B的組織名稱？（不要理黃圈圈）"
+    },
+    {
+        "num": "b07_12",
+        "path": "b07/b07_12.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cells"
+        ],
+        "explanation": "圖中所圈選的組織靠近管腔，組織本身為單層，每個細胞排列整齊且均附著於basement membrane上，細胞核呈橢圓形且位置靠近底部，細胞呈現柱狀，顯然為simple columnar epithelium。此外，在細胞上方游離面，有一層較淡染、地毯狀的構造，在LM下難以區分出一條一條的細部構造，為microvilli。而在組織中另有些呈空泡狀的細胞，為goblet cell，因含有黏多醣蛋白，在製備玻片時會被溶解，故呈現透明空泡狀。\n【出處】共筆Vol.2 P.5, Vol.3 P.18",
+        "description": "框框組織名稱？"
+    },
+    {
+        "num": "b07_13",
+        "path": "b07/b07_13.webp",
+        "answer": [
+            "Heterochromatin"
+        ],
+        "explanation": "細胞核邊緣electron dense的構造為緊密纏繞、不活化（不轉錄）的heterochromatin\n【出處】共筆Vol.1 p.23",
+        "description": "黃色箭頭所指構造名稱？（不要理右下紅色圈圈）"
+    },
+    {
+        "num": "b07_14",
+        "path": "b07/b07_14.webp",
+        "answer": [
+            "Purkinje fiber"
+        ],
+        "explanation": "核位於中央、細胞大且不規則，內有豐富的glycogen，所以在HE stain下染色較淺\n【出處】共筆Vol.2 p.64",
+        "description": "箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b07_15",
+        "path": "b07/b07_15.webp",
+        "answer": [
+            "A: Keratohyalin granule B: Thick skin",
+            "Keratohyalin granule Thick skin"
+        ],
+        "explanation": "箭頭所指為epidermis的stratum granulosum，此層細胞具有basophilic的keratohyalin granules，因此在HE stain下呈深染藍紫色。上層淡染構造由上而下分別為Stratum corneum和Stratum lucidum，其中後者只存在於thick skin中，且thick skin的Stratum corneum較thin skin厚\n【出處】07共筆Vol.9 p.6,7",
+        "description": "Ａ：寫出範圍內深色顆粒名稱？Ｂ：視野下屬於薄皮膚或厚皮膚？"
+    },
+    {
+        "num": "b07_16",
+        "path": "b07/b07_16.webp",
+        "answer": [
+            "上：Smooth muscle 下：Cardiac muscle",
+            "Smooth muscle Cardiac muscle"
+        ],
+        "explanation": "心肌細胞橫切面空隙較多\n【出處】共筆Vol.2 p.58, 66",
+        "description": "上下分別爲何種組織？"
+    },
+    {
+        "num": "b07_17",
+        "path": "b07/b07_17.webp",
+        "answer": [
+            "Astrocyte",
+            "fibrous astrocyte",
+            "protoplasmic astrocyte"
+        ],
+        "explanation": "存在於CNS中，背景深染，因此為白質內的fibrous astrocyte，process較細長（使用silver stain觀察），分岔較少。(只要有寫出astrocyte就好)\n【出處】07共筆Vol.8 p.12, 42",
+        "description": "箭頭所指是何種細胞？（silver stain）"
+    },
+    {
+        "num": "b07_18",
+        "path": "b07/b07_18.webp",
+        "answer": [
+            "Microvilli"
+        ],
+        "explanation": "此為irregular microvilli，其中間沒有一條線，可和畫面前方的cilia比較（cilia為9*2+2，中間有2條microtubule）\n【出處】共筆Vol.2 p.15~17",
+        "description": "箭頭所指構造名稱？"
+    },
+    {
+        "num": "b07_19",
+        "path": "b07/b07_19.webp",
+        "answer": [
+            "A: dermal papilla B: dermis/ hypodermis",
+            "dermal papilla dermis/ hypodermis"
+        ],
+        "explanation": "A為Meissner’s corpuscle，呈龍卷風狀，為觸覺受器，位於Dermal papilla；B為Pacinian corpuscle，位於dermis和hypodermis之間，為壓力和震動的受器。\n【出處】07共筆Vol.9 P.31, 32",
+        "description": "Ａ、Ｂ各位於皮膚何處？"
+    },
+    {
+        "num": "b07_20",
+        "path": "b07/b07_20.webp",
+        "answer": [
+            "Elastic fiber",
+            "collagen fiber"
+        ],
+        "explanation": "此為loose connective tissue，纖維細、色深，且會分支者為Elastic fiber，纖維粗、淡粉色者為Collagen fiber\n【出處】共筆Vol.4 p.33",
+        "description": "紫色細絲（紅箭頭）與粉紅色絲狀物（藍箭頭）的構造名稱？"
+    },
+    {
+        "num": "b07_21",
+        "path": "b07/b07_21.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "3x9+0 microtubules，因centrosome由兩個互相垂直的centriole組成，所以旁邊有l.s.的centriole\n【出處】共筆Vol.1 P.43, 44",
+        "description": "箭頭所指構造名稱？"
+    },
+    {
+        "num": "b07_22",
+        "path": "b07/b07_22.webp",
+        "answer": [
+            "A: dense irregular connective tissue B: smooth muscle",
+            "dense irregular connective tissue smooth muscle"
+        ],
+        "explanation": "1. 細胞核的數量：DCNT的fiber多細胞少，smooth muscle細胞核較多\n2. 細胞核型態：fibroblast較細長，smooth muscle核較圓\n（但這張圖都看不出來）\n3. 此圖的smooth muscle似乎有contraction band\n【出處】共筆Vol.4 p.27, Vol.2 p.72",
+        "description": "分別寫出Ａ及Ｂ之組織名稱？（傳下來的影片畫質太差…也找不到其他相似圖片）"
+    },
+    {
+        "num": "b07_23",
+        "path": "b07/b07_23.webp",
+        "answer": [
+            "A: smooth muscle B: tendon(dense regular)",
+            "smooth muscle tendon(dense regular)"
+        ],
+        "explanation": "同上題，另外dense regular CNT的fiber排列緊密\n【出處】共筆Vol.4 p.29",
+        "description": "分別寫出Ａ及Ｂ之組織名稱？"
+    },
+    {
+        "num": "b07_24",
+        "path": "b07/b07_24.webp",
+        "answer": [
+            "Proliferation zone",
+            "long bone",
+            "epiphyseal plate",
+            "epiphysis"
+        ],
+        "explanation": "由圖中可見，軟骨細胞數量極多，彷彿正在增生，形成isogenic group，且排成列狀，因此為 proliferation zone。(不可寫cartilage/ endochondral ossification)\n【出處】07共筆Vol.6 p.33",
+        "description": "箭頭所指區域名稱？此構造發生於何處？"
+    },
+    {
+        "num": "b07_25",
+        "path": "b07/b07_25.webp",
+        "answer": [
+            "黃：external root sheath",
+            "藍：Henle’s layer"
+        ],
+        "explanation": "此為hair follicle 的c.s.，黃箭頭的ERS由多層細胞構成，排列較不緊密，染色較淡(長得像白色火龍果)。\n內層為internal root sheath，層數少、細胞扁平密集，故較深染，又可分為兩層，外層(藍箭頭區域)為扁平無顆粒的Henle’s layer，內層則為深染有顆粒的Huxley’s layer。\n【出處】07共筆Vol.9 p.21",
+        "description": "分別寫出黃色與藍色箭頭所指區域之構造名稱？"
+    },
+    {
+        "num": "b07_26",
+        "path": "b07/b07_26.webp",
+        "answer": [
+            "B"
+        ],
+        "explanation": "A可見許多process，為白質\n【出處】07共筆Vol.8 p.5",
+        "description": "哪一個區域是灰質？"
+    },
+    {
+        "num": "b07_27",
+        "path": "b07/b07_27.webp",
+        "answer": [
+            "Multipolar neuron",
+            "sympathetic ganglion"
+        ],
+        "explanation": "【出處】07共筆Vol.7 P.37, 38",
+        "description": "箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b07_28",
+        "path": "b07/b07_28.webp",
+        "answer": [
+            "左: tendon(dense regular CNT) 右: skeletal muscle",
+            "tendon(dense regular CNT) skeletal muscle"
+        ],
+        "explanation": "Tendon fiber排列緊密、核細長；skeletal muscle核在fiber邊緣，且有橫紋（此圖看不出來）\n【出處】共筆Vol.2 p.56, 57",
+        "description": "分別寫出左右兩邊組織名稱？"
+    },
+    {
+        "num": "b07_29",
+        "path": "b07/b07_29.webp",
+        "answer": [
+            "Reticular connective tissue",
+            "reticular tissue"
+        ],
+        "explanation": "分支多且密，呈網狀構造\n【出處】共筆Vol.4 p.8~10",
+        "description": "視野範圍的組織名稱？（silver stain）（不要理紅箭頭）"
+    },
+    {
+        "num": "b07_30",
+        "path": "b07/b07_30.webp",
+        "answer": [
+            "上：fibrocartilage 下：dense regular CNT/ tendon",
+            "fibrocartilage dense regular CNT/ tendon"
+        ],
+        "explanation": "fibrocartilage的chondrocyte排成鏈狀，和fibroblast比起來核較圓，且周圍有lacunae\n【出處】07共筆Vol.6 p.11",
+        "description": "上下分別為何種組織？"
+    },
+    {
+        "num": "b07_31",
+        "path": "b07/b07_31.webp",
+        "answer": [
+            "Mast cell/Metachromasia"
+        ],
+        "explanation": "Metachromasia：Toluidine blue stains granules 被mast cell中的大量陰離子抓住，使染劑折射率改變（藍色轉為紫紅色）\n【出處】共筆Vol.4 p.19, 46",
+        "description": "染上紅色的細胞名稱/將染劑由藍轉紅的特性為何？(格式:細胞/特性)"
+    },
+    {
+        "num": "b07_32",
+        "path": "b07/b07_32.webp",
+        "answer": [
+            "nucleolus"
+        ],
+        "explanation": "核仁。\n【出處】共筆Vol.1 p.22",
+        "description": "箭頭所指構造？"
+    },
+    {
+        "num": "b07_33",
+        "path": "b07/b07_33.webp",
+        "answer": [
+            "Duct(Opening) of sweat gland",
+            "stratum corneum"
+        ],
+        "explanation": "Sweat gland的duct向上延伸至stratum corneum，染色呈空泡狀\n【出處】07共筆Vol.9 P.35, 36",
+        "description": "紅色箭頭所指構造名稱？此構造所在的層次名稱？"
+    },
+    {
+        "num": "b07_34",
+        "path": "b07/b07_34.webp",
+        "answer": [
+            "Golgi apparatus"
+        ],
+        "explanation": "片狀膜狀構造，有凸狀cis Golgi與凹狀trans Golgi。\n【出處】共筆Vol.1 P.19~21",
+        "description": "箭頭所指構造名稱？"
+    },
+    {
+        "num": "b07_35",
+        "path": "b07/b07_35.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "大小和RBC差不多、核質比高，且細胞質成天藍色\n【出處】共筆Vol.3 p.11",
+        "description": "黃色箭頭所指細胞名稱？（不要理紅箭頭）"
+    }
+]

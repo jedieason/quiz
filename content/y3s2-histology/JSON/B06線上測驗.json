@@ -1,0 +1,92 @@
+[
+  {
+    "num": "b06quiz-01",
+    "path": "B06線上測驗/b06quiz-01.webp",
+    "answer": [
+      "Stratum Functionale"
+    ],
+    "explanation": "圖片的右上半部可見上皮組織增高，表面突起且腺體扭曲，",
+    "description": "寫出此範圍為哪一層（不需寫器官）。"
+  },
+  {
+    "num": "b06quiz-02",
+    "path": "B06線上測驗/b06quiz-02.webp",
+    "answer": [
+      "Decidual cell"
+    ],
+    "explanation": "首先由右上角低倍圖中的兩側型態判斷為Placenta，而將形 狀完整側的Decidual plate 放大可見一顆顆白白胖胖、細胞界",
+    "description": "寫出箭頭所指細胞。"
+  },
+  {
+    "num": "b06quiz-03",
+    "path": "B06線上測驗/b06quiz-03.webp",
+    "answer": [
+      "Cytotrophoblast"
+    ],
+    "explanation": "在villi 的邊緣可見Cytotrophoblast 位於Syncytiotrophoblast 的內側，細胞圓型、淡染、單核、體積較大。",
+    "description": "寫出箭頭所指細胞。"
+  },
+  {
+    "num": "b06quiz-04",
+    "path": "B06線上測驗/b06quiz-04.webp",
+    "answer": [
+      "Ductus epididymis"
+    ],
+    "explanation": "與Ductus efferents 相比，可見其管腔表面平滑，epithelium",
+    "description": "寫出範圍內的構造。"
+  },
+  {
+    "num": "b06quiz-05",
+    "path": "B06線上測驗/b06quiz-05.webp",
+    "answer": [
+      "Primary spermatocyte"
+    ],
+    "explanation": "細胞本身大，擁有seminiferous tubule 中最大的細胞核，有",
+    "description": "寫出箭頭所指細胞。"
+  },
+  {
+    "num": "b06quiz-06",
+    "path": "B06線上測驗/b06quiz-06.webp",
+    "answer": [
+      "Zona Reticularis"
+    ],
+    "explanation": "可見adrenal gland 最外層有capsule 包覆，再往內顏色較深 者為cortex。期中cortex 分成三層，最內側靠近medulla 處",
+    "description": "寫出範圍所指的層次（不需寫器官）。"
+  },
+  {
+    "num": "b06quiz-07",
+    "path": "B06線上測驗/b06quiz-07.webp",
+    "answer": [
+      "Chromophobes"
+    ],
+    "explanation": "在右上圖的切片中能看出視野是從anterior pituitary gland 所 放大出來的（較為深染），而pars distalis 中細胞質不成色的",
+    "description": "寫出箭頭所指細胞。"
+  },
+  {
+    "num": "b06quiz-08",
+    "path": "B06線上測驗/b06quiz-08.webp",
+    "answer": [
+      "Mature follicle Antrum"
+    ],
+    "explanation": "已變得相當大，充滿液體，oocyte 已完成第一次分 裂，為 secondary oocyte。因 antrum 壓力大，把 granulosa",
+    "description": "寫出哪一個時期的濾泡。"
+  },
+  {
+    "num": "b06quiz-09",
+    "path": "B06線上測驗/b06quiz-09.webp",
+    "answer": [
+      "Active connective tissue"
+    ],
+    "explanation": "和 adipose tissue 比例低，以 alveoli 為主。",
+    "description": "寫出哪一個時期的乳腺。"
+  },
+  {
+    "num": "b06quiz-10",
+    "path": "B06線上測驗/b06quiz-10.webp",
+    "answer": [
+      "Organ of Corti"
+    ],
+    "explanation": "可清楚看到 spiral limbus 連接到 tectorial membrane 再碰到 outer hair cell，hair cell 底部可見淡粉色的是 basilar",
+    "description": "寫出範圍內的構造。"
+  }
+]

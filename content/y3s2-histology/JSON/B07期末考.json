@@ -1,0 +1,319 @@
+[
+  {
+    "num": "b07lab-01",
+    "path": "B07期末考/b07lab-01.webp",
+    "answer": [
+      "Vas deferens"
+    ],
+    "explanation": "很厚的肌肉層，內縱中環外縱。",
+    "description": "請問視野下所見構造為何？"
+  },
+  {
+    "num": "b07lab-02",
+    "path": "B07期末考/b07lab-02.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "內耳深染像葡萄的結構就是 spiral ganglion。",
+    "description": "請問箭頭所指的構造為何？"
+  },
+  {
+    "num": "b07lab-03",
+    "path": "B07期末考/b07lab-03.webp",
+    "answer": [
+      "Posterior pituitary gland",
+      "pars nervosa"
+    ],
+    "explanation": "視野下可見 pituicyte 跟 herring body、unmyelinated fiber。藍色框框由上至下分別是：endothelial cell, Herring body, pituicyte。",
+    "description": "請問視野下的構造為何？"
+  },
+  {
+    "num": "b07lab-04",
+    "path": "B07期末考/b07lab-04.webp",
+    "answer": [
+      "Peg cell progesterone"
+    ],
+    "explanation": "細胞呈圓拱狀突向 lumen，沒有一絲一絲紅色線條的 basal body，為具分泌功能的 peg cell。受 progesterone 刺激（經週期後半段後達到高峰）。",
+    "description": "請問紅色方格所示的是什麼構造？由什麼激素促進其 secretory activity？"
+  },
+  {
+    "num": "b07lab-05",
+    "path": "B07期末考/b07lab-05.webp",
+    "answer": [
+      "Corneoscleral limbus"
+    ],
+    "explanation": "此處為 cornea 與 sclera 的交界處，上側為 cornea 下側為 sclera，故推測為 corneoscleral limbus。",
+    "description": "請問視野下的 junction 名稱?"
+  },
+  {
+    "num": "b07lab-06",
+    "path": "B07期末考/b07lab-06.webp",
+    "answer": [
+      "Stria vascularis"
+    ],
+    "explanation": "於 cochlear duct 表面的特化上皮，其中有 capillary。",
+    "description": "請問箭頭所指的構造是？"
+  },
+  {
+    "num": "b07lab-07",
+    "path": "B07期末考/b07lab-07.webp",
+    "answer": [
+      "Venous sinus of corpora cavernosa"
+    ],
+    "explanation": "此為富含平滑肌的 Corpora cavernosa，左側為充滿 collagen fiber 的 tunica albuginea。",
+    "description": "請問紅色箭頭所指的結構為何？"
+  },
+  {
+    "num": "b07lab-08",
+    "path": "B07期末考/b07lab-08.webp",
+    "answer": [
+      "Tarsal gland"
+    ],
+    "explanation": "位於角膜下方且可見 palpebral conjunctiva，故為 tarsal gland。Tarsal glands（為皮脂腺）有管道連通到 tarsal plate，分泌淚液的部分成分。",
+    "description": "請問圈起的是什麼 gland？"
+  },
+  {
+    "num": "b07lab-09",
+    "path": "B07期末考/b07lab-09.webp",
+    "answer": [
+      "Active mammary gland"
+    ],
+    "explanation": "和 inactive 比較:幾乎看不到結締組織和 duct。和 lacrimal gland 比較：管腔較大、細胞和較大。",
+    "description": "請問視野下為何時期的何種器官？"
+  },
+  {
+    "num": "b07lab-10",
+    "path": "B07期末考/b07lab-10.webp",
+    "answer": [
+      "Lacrimal gland"
+    ],
+    "explanation": "視野下大部分由 serous acini 構成。外圍可見 myoepithelium cell。",
+    "description": "請問視野下為何種組織？"
+  },
+  {
+    "num": "b07lab-11",
+    "path": "B07期末考/b07lab-11.webp",
+    "answer": [
+      "Cochlear duct",
+      "Scala media"
+    ],
+    "explanation": "Cochlear canal 會被分成三個空間，其中最小且被兩個 membrane 夾在中間的為 scala media。",
+    "description": "請問白色方格所示是何種管子？"
+  },
+  {
+    "num": "b07lab-12",
+    "path": "B07期末考/b07lab-12.webp",
+    "answer": [
+      "Cervix"
+    ],
+    "explanation": "可觀察到 Nabothian cysts(無開口)、 Simple columnar epithelium 與 Non-cornified stratified squamous epithelium。",
+    "description": "請問視野下為何種器官？"
+  },
+  {
+    "num": "b07lab-13",
+    "path": "B07期末考/b07lab-13.webp",
+    "answer": [
+      "Pineal gland"
+    ],
+    "explanation": "倍率低，看到 brain sand。",
+    "description": "視野下為何種器官?"
+  },
+  {
+    "num": "b07lab-14",
+    "path": "B07期末考/b07lab-14.webp",
+    "answer": [
+      "Interstitial gland"
+    ],
+    "explanation": "看不到 oocyte(因倍率高)，可見 antrum 中有 dead granulosa cell 陷落，判斷為 atretic follicle，可由中間細胞較圓、周圍細胞較扁判斷為 interstitial gland。",
+    "description": "何種構造？"
+  },
+  {
+    "num": "b07lab-15",
+    "path": "B07期末考/b07lab-15.webp",
+    "answer": [
+      "Proliferative phase uterus"
+    ],
+    "explanation": "本切片無法直接辨認出 early 或 late，但因為 glands 相對比較直，因此比較接近 early。",
+    "description": "以下為什麼時期，什麼器官？"
+  },
+  {
+    "num": "b07lab-16",
+    "path": "B07期末考/b07lab-16.webp",
+    "answer": [
+      "Placenta"
+    ],
+    "explanation": "右側切到 villi，可知為胎盤，左側為媽媽的 decidual plate。",
+    "description": "視野下的器官名稱為何？"
+  },
+  {
+    "num": "b07lab-17",
+    "path": "B07期末考/b07lab-17.webp",
+    "answer": [
+      "Oxyphil cell"
+    ],
+    "explanation": "視野下能發現兩種細胞，周圍為 basophilic，體型較小，排列緊密的 principle cell。 而中間細胞較大，胞核間距寬，含大量粒線體呈 eosinophilic 的細胞是 oxyphil cell。",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "b07lab-18",
+    "path": "B07期末考/b07lab-18.webp",
+    "answer": [
+      "Granulosa lutein cell"
+    ],
+    "explanation": "細胞較大、淡染的為 granulosa lutein cell，外側深染、較小為 theca lutein cell。",
+    "description": "左下角細胞為何？"
+  },
+  {
+    "num": "b07lab-19",
+    "path": "B07期末考/b07lab-19.webp",
+    "answer": [
+      "Decidual cell"
+    ],
+    "explanation": "decidual cell 的特徵為細胞大、圓型、淡染(和 granulosa lutein cell 比較：decidual cell 附近有 villi 和免疫細胞，granulosa lutein cell 附近有 theca lutein cell)。",
+    "description": "A 所指細胞為何？"
+  },
+  {
+    "num": "b07lab-20",
+    "path": "B07期末考/b07lab-20.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "視野中有整個管子，內皮呈蜂巢高度分支狀，和 prostate gland 相比，smooth muscle cell 較少。",
+    "description": "這是哪一種器官?"
+  },
+  {
+    "num": "b07lab-21",
+    "path": "B07期末考/b07lab-21.webp",
+    "answer": [
+      "Sertoli cell"
+    ],
+    "explanation": "圖為 semiferous tubule，紅色箭頭所指細胞附著於 basal lamina 上，核不規則，有明顯核仁。",
+    "description": "箭頭所指細胞為何？"
+  },
+  {
+    "num": "b07lab-22",
+    "path": "B07期末考/b07lab-22.webp",
+    "answer": [
+      "Vagina"
+    ],
+    "explanation": "Vagina 的 epithelium 是 non-cornified stratified squamous epithelium，加上上皮因為分泌 glycogen 所以呈現空泡狀。且其 lamina propria 沒有 gland。",
+    "description": "視野下的器官名稱為何？"
+  },
+  {
+    "num": "b07lab-23",
+    "path": "B07期末考/b07lab-23.webp",
+    "answer": [
+      "Late proliferative phase uterus"
+    ],
+    "explanation": "gland 增多，切面呈扭曲狀，但此時腺體本身還是較平滑、直條。因此為 late proliferative phase。",
+    "description": "這是什麼生理狀態下的器官(be specific)？"
+  },
+  {
+    "num": "b07lab-24",
+    "path": "B07期末考/b07lab-24.webp",
+    "answer": [
+      "Pituitary gland"
+    ],
+    "explanation": "可見視野下細胞聚集成 cell cord，cell cord 之間紅色為微血管，有 chromophils 和 chromophobes(細胞質淡染，只看得到核)。",
+    "description": "請問這是什麼器官？"
+  },
+  {
+    "num": "b07lab-25",
+    "path": "B07期末考/b07lab-25.webp",
+    "answer": [
+      "Tectorial membrane"
+    ],
+    "explanation": "從 hair cell 可以判斷出這是 organ of corti，由左側 spiral limbus 延伸到 outer hair cell 的膜狀構造為 tectorial membrane。",
+    "description": "所指構造為何？"
+  },
+  {
+    "num": "b07lab-26",
+    "path": "B07期末考/b07lab-26.webp",
+    "answer": [
+      "Penile urethra"
+    ],
+    "explanation": "管腔周圍可以看到被 orcein 染成深棕色的 elastic fiber，與被 picric acid 染成黃褐色的 epithelium。",
+    "description": "視野下為何種構造？"
+  },
+  {
+    "num": "b07lab-27",
+    "path": "B07期末考/b07lab-27.webp",
+    "answer": [
+      "Ductus efferentes"
+    ],
+    "explanation": "左半部明顯為 epididymis 管腔，可判斷是 male reproductive system 的一段管腔，根據管腔表面凹凸不平，判斷為 ductus efferentes。",
+    "description": "寫出虛線開邊之器官部位名稱"
+  },
+  {
+    "num": "b07lab-28",
+    "path": "B07期末考/b07lab-28.webp",
+    "answer": [
+      "Crista ampullaris"
+    ],
+    "explanation": "由 hair cell 和下方的 supporting cell 組成。有一層若有似無的 capsule 包覆在上方,下方有神經纖維延伸出去。",
+    "description": "寫出箭頭所指構造？"
+  },
+  {
+    "num": "b07lab-29",
+    "path": "B07期末考/b07lab-29.webp",
+    "answer": [
+      "Spermatozoa"
+    ],
+    "explanation": "管腔由大小不同的多層細胞判斷是 seminiferous tubule，最靠管腔側、發育出尾部的細胞即為 spermatozoa。備註：之前有學長姐問老師，此題寫 spermatozoa 和 late spermatid 應該都會給對，但老師強調前者已經游離到 lumen 中，後者還嵌在 Sertoli cell 中。",
+    "description": "B 所指為何種細胞？"
+  },
+  {
+    "num": "b07lab-30",
+    "path": "B07期末考/b07lab-30.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "管腔大小不同的多層細胞判斷是 seminiferous tubule，在其管腔之間、細胞質呈現紅色的細胞為 Leydig cell。",
+    "description": "是什麼細胞？"
+  },
+  {
+    "num": "b07lab-31",
+    "path": "B07期末考/b07lab-31.webp",
+    "answer": [
+      "Chromaffin cell"
+    ],
+    "explanation": "腎上腺髓質的細胞因為有嗜鉻的特性，在 Zenker-formalin 的染色下呈現深棕色。(且在視野下能看到所圍區域中有血管的分佈,應為 adrenal gland 中 medulla 的 central vein)",
+    "description": "寫出箭頭所指的細胞"
+  },
+  {
+    "num": "b07lab-32",
+    "path": "B07期末考/b07lab-32.webp",
+    "answer": [
+      "Pseudostratified columnar epithelium with stereocilia"
+    ],
+    "explanation": "管腔上皮為 pseudostratified columnar with stereocilia，管腔周圍有平滑肌，管腔內部平滑，可以判斷是 epididymis。",
+    "description": "請問視野中為何種上皮？"
+  },
+  {
+    "num": "b07lab-33",
+    "path": "B07期末考/b07lab-33.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "管腔大小不一、不規則，管腔中間有同心圓形物質，應為 corpora amylacea(Prostate concretions)，可以判斷這是老化檢體的 prostate gland。",
+    "description": "寫出視野下的器官"
+  },
+  {
+    "num": "b07lab-34",
+    "path": "B07期末考/b07lab-34.webp",
+    "answer": [
+      "Outer nuclear layer"
+    ],
+    "explanation": "Retina 分成 10 層，此為第四層的 outer nuclear layer,內含 rod cell 與 cone cell 的細胞核。",
+    "description": "紅色虛線內該層的構造名稱？"
+  },
+  {
+    "num": "b07lab-35",
+    "path": "B07期末考/b07lab-35.webp",
+    "answer": [
+      "Acidophil"
+    ],
+    "explanation": "在 pituitary gland 的 pars distalis(深染部分),可看到 3 種細胞: Acidophil:細胞較 basophils 小,細胞質呈紅色。Basophil:細胞較 acidophils 大,細胞質呈藍紫色。Chromophobes:細胞質極淡染,僅可見其細胞核。",
+    "description": "箭頭所指細胞名稱為何？"
+  }
+]

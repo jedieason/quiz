@@ -1,0 +1,190 @@
+[
+    {
+        "num": "B09_1",
+        "path": "B09/B09_1.webp",
+        "answer": [
+            "Trochlear nerve"
+        ],
+        "explanation": "此圖為上方觀，可見藍箭頭所指最明顯的 Frontal n.，其內側黃色箭頭所指為 Superior oblique m.， 一旁短短鑽入其中的神經即為 trochlear n.。",
+        "description": ""
+    },
+    {
+        "num": "B09_2",
+        "path": "B09/B09_2.webp",
+        "answer": [
+            "Granular foveolae"
+        ],
+        "explanation": "頭骨上的小凹溝就是了。",
+        "description": ""
+    },
+    {
+        "num": "B09_3",
+        "path": "B09/B09_3.webp",
+        "answer": [
+            "Anterior scalene muscle",
+            "Anterior scalene m."
+        ],
+        "explanation": "重要 landmark，上方躺著 phrenic nerve，並有 thyrocervical trunk 分支的 transverse cervical a.和 suprascapular a.跨過。",
+        "description": ""
+    },
+    {
+        "num": "B09_4",
+        "path": "B09/B09_4.webp",
+        "answer": [
+            "Infraorbital artery nerve"
+        ],
+        "explanation": "從 infraorbital foramen 走出。",
+        "description": ""
+    },
+    {
+        "num": "B09_5",
+        "path": "B09/B09_5.webp",
+        "answer": [
+            "Recurrent laryngeal nerve"
+        ],
+        "explanation": "在氣管旁，從下方穿入 thyroid gland 。",
+        "description": ""
+    },
+    {
+        "num": "B09_6",
+        "path": "B09/B09_6.webp",
+        "answer": [
+            "Superior thyroid artery"
+        ],
+        "explanation": "ECA 分支，再分出 superior laryngeal a.(2) 穿過 thyrohyoid membrane。 (1). Internal branch of superior laryngeal n. (2). Superior laryngeal a. (3). Superior thyroid a. (4). External carotid a. (5). External branch of superior laryngeal n.",
+        "description": ""
+    },
+    {
+        "num": "B09_7",
+        "path": "B09/B09_7.webp",
+        "answer": [
+            "Buccinator muscle",
+            "Buccinator m."
+        ],
+        "explanation": "parotid duct 鑽入。",
+        "description": ""
+    },
+    {
+        "num": "B09_8",
+        "path": "B09/B09_8.webp",
+        "answer": [
+            "Mandibular n.",
+            "Mandibular nerve",
+            "CN5-3"
+        ],
+        "explanation": "此孔洞為 Foramen ovale，CN5-3 由此穿出。",
+        "description": ""
+    },
+    {
+        "num": "B09_9",
+        "path": "B09/B09_9.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "由包覆 spinal cord 的 pia 向外延伸，與 dura 黏在一 起的構造 。功能是將 spinal cord 固定在 dura 上， 有 21 對。",
+        "description": ""
+    },
+    {
+        "num": "B09_10",
+        "path": "B09/B09_10.webp",
+        "answer": [
+            "Lacrimal gland"
+        ],
+        "explanation": "位於眼球外上側的肉色腺體，可觀察到有 Lacrimal vessels 走入。 實際跑台考為提供摘除的 左眼，Superior side 朝上，以細線綁住左側 Lacrimal gland 供辨識。",
+        "description": ""
+    },
+    {
+        "num": "B09_11",
+        "path": "B09/B09_11.webp",
+        "answer": [
+            "Anterior inferior cerebellar a.",
+            "Anterior inferior cerebellar artery"
+        ],
+        "explanation": "從 Basilar a.分支出的動脈，走至小腦的背側。",
+        "description": ""
+    },
+    {
+        "num": "B09_12",
+        "path": "B09/B09_12.webp",
+        "answer": [
+            "Superior oblique m.",
+            "Superior oblique muscle"
+        ],
+        "explanation": "位於眼球內上側的肌肉，由 Trochlear n. 支配。 實 際跑台考為提供摘除的左眼，Superior side 朝上， 以細線綁住右側的 Superior oblique m.供辨識。",
+        "description": ""
+    },
+    {
+        "num": "B09_13",
+        "path": "B09/B09_13.webp",
+        "answer": [
+            "Epidural space"
+        ],
+        "explanation": "位於脊髓 Dura mater 與脊椎骨之間的空間，有脂 肪襯墊與脊髓的血管、神經。",
+        "description": ""
+    },
+    {
+        "num": "B09_14",
+        "path": "B09/B09_14.webp",
+        "answer": [
+            "Phrenic n.",
+            "Phrenic nerve"
+        ],
+        "explanation": "躺在 Anterior scalene m. 之上的神經。",
+        "description": ""
+    },
+    {
+        "num": "B09_15",
+        "path": "B09/B09_15.webp",
+        "answer": [
+            "Mandibular nerve",
+            "CN5-3"
+        ],
+        "explanation": "此孔洞為 Foramen ovale，mandibular nerve(CN5-3) 由此穿出。",
+        "description": ""
+    },
+    {
+        "num": "B09_16",
+        "path": "B09/B09_16.webp",
+        "answer": [
+            "Hypoglossal nerve"
+        ],
+        "explanation": "此孔洞為 Hypoglossal canal，Hypoglossal nerve (CN12)由此穿出 。",
+        "description": ""
+    },
+    {
+        "num": "B09_17",
+        "path": "B09/B09_17.webp",
+        "answer": [
+            "Parathyroid gland"
+        ],
+        "explanation": "位於甲狀腺背側，可以從 Inferior thyroid artery 定 位(編號 8 為 Thyroid gland 和 Inferior thyroid artery，但此圖並無翻出 Parathyroid gland)。",
+        "description": ""
+    },
+    {
+        "num": "B09_18",
+        "path": "B09/B09_18.webp",
+        "answer": [
+            "Nasociliary nerve"
+        ],
+        "explanation": "源自 CN5-1，位於內側深層。",
+        "description": ""
+    },
+    {
+        "num": "B09_19",
+        "path": "B09/B09_19.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "由包覆 Spinal cord 的 Pia mater 向外延伸，區分 Dorsal 和 Ventral。",
+        "description": ""
+    },
+    {
+        "num": "B09_20",
+        "path": "B09/B09_20.webp",
+        "answer": [
+            "Abducens nerve"
+        ],
+        "explanation": "即 CN6，位於 Midbrain 和 Pon 之間(中間兩條)。",
+        "description": ""
+    }
+]

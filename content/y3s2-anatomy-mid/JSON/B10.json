@@ -1,0 +1,219 @@
+[
+    {
+        "num": "B10_1",
+        "path": "B10/B10_1.webp",
+        "answer": [
+            "Superior thyroid a.",
+            "Superior thyroid artery"
+        ],
+        "explanation": "由 external carotid artery 分出， 可以看到從側上方 進入 thyroid gland。有個悲傷口訣可以記 external carotid a. 的分支：Some Anatomists Like Freaking Out Poor Medical Students。S： superior thyroid a. A： ascending pharyngeal a. L： lingual a. F： facial a. O： occipital a. P： posterior auricular a. S： superficial temporal a. M： maxillary a.",
+        "description": ""
+    },
+    {
+        "num": "B10_2",
+        "path": "B10/B10_2.webp",
+        "answer": [
+            "posterior cerebral a.",
+            "posterior cerebral artery"
+        ],
+        "explanation": "與後方 Superior cerebellar a 夾住 oculomotor n.(CN3)。",
+        "description": ""
+    },
+    {
+        "num": "B10_3",
+        "path": "B10/B10_3.webp",
+        "answer": [
+            "Left Recurrent laryngeal nerve",
+            "Recurrent laryngeal nerve"
+        ],
+        "explanation": "在氣管旁，從下方穿入 thyroid gland 。",
+        "description": ""
+    },
+    {
+        "num": "B10_4",
+        "path": "B10/B10_4.webp",
+        "answer": [
+            "Anterior belly of digastric m.",
+            "Anterior belly of digastric muscle"
+        ],
+        "explanation": "最簡單的就是看他有兩個 belly~。 Ant. belly 附著 在 mandible 前方，post. belly 附著在 mastoid process。 補充：Omohyoid 也有 sup. 跟 inf. belly， 但連接的 地方分別是 hyoid bone 跟 upper border of the scapula。",
+        "description": ""
+    },
+    {
+        "num": "B10_5",
+        "path": "B10/B10_5.webp",
+        "answer": [
+            "Inferior belly of omohyoid m.",
+            "Inferior belly of omohyoid muscle"
+        ],
+        "explanation": "分隔 occipital triangle & supraclavicular triangle。由 ansa cervicalis 支配。其他：A-SCM； CO-clavicular origin",
+        "description": ""
+    },
+    {
+        "num": "B10_6",
+        "path": "B10/B10_6.webp",
+        "answer": [
+            "Anterior scalene m.",
+            "Anterior scalene muscle"
+        ],
+        "explanation": "(origin) C3-C6 transverse process -> (insertion) R1 scalene tubercle。為重要 landmark： (1) phrenic n. 橫越其上，(2)把 subclavian artery 分 成三段，(3) 與 middle scalene m.一同夾住 brachial plexus ， (4)transverse cervical a.、suprascapular a. 橫越其 上。",
+        "description": ""
+    },
+    {
+        "num": "B10_7",
+        "path": "B10/B10_7.webp",
+        "answer": [
+            "Buccinator m.",
+            "Buccinator muscle"
+        ],
+        "explanation": "判斷依據如下：(1) fiber 和 orbicularis oris 不可分 離。(2) parotid duct 會鑽入它，從上排第二大臼齒 的牙齦附近注入口腔。",
+        "description": ""
+    },
+    {
+        "num": "B10_8",
+        "path": "B10/B10_8.webp",
+        "answer": [
+            "basilar a.",
+            "basilar artery"
+        ],
+        "explanation": "視野下不難發現此切片上方為前面。此水平可看 到 cerebellum 與 pons，且前 方血管只有一條，故 可判斷其為 basilar artery.",
+        "description": ""
+    },
+    {
+        "num": "B10_9",
+        "path": "B10/B10_9.webp",
+        "answer": [
+            "internal terminal filum filum terminale internum"
+        ],
+        "explanation": "位在 conus medullaris 以下，與一旁很多條細細的 cauda equina 比起來較粗且質地不同。",
+        "description": ""
+    },
+    {
+        "num": "B10_10",
+        "path": "B10/B10_10.webp",
+        "answer": [
+            "groove of great petrosal n.",
+            "groove of great petrosal nerve"
+        ],
+        "explanation": "Greater petrosal n.從 greater petrosal hiatus 穿出後形 成的壓跡，會向內進入 foramen lacerum。可看到 其位於 foramen ovale 後方，內側有 foramen lacerum 。白色箭頭處為 hiatus and groove for lesser petrosal n.。",
+        "description": ""
+    },
+    {
+        "num": "B10_11",
+        "path": "B10/B10_11.webp",
+        "answer": [
+            "denticulate lig."
+        ],
+        "explanation": "由 pia mater 延伸，將 spinal cord 固定於兩側 dura mater 上，其前後分隔 anterior root 與 posterior root。此為 posterior view，其質地跟走向明顯與 root 不 同，上下方可見 posterior root 橫跨其上。",
+        "description": ""
+    },
+    {
+        "num": "B10_12",
+        "path": "B10/B10_12.webp",
+        "answer": [
+            "inferior division of CN3"
+        ],
+        "explanation": "箭頭處的構造為 inferior oblique m. ，可先確認在 眼球的下方處，有三角形的 肌肉，即為 inferior oblique m.，其為 inferior division of CN3 所支配。移除藍色框框可見標示如下：CNII ： optic nerve ； ID ： inferior branch of the oculomotor nerve ； IO ： inferior oblique muscle ； SR ： superior rectus muscle , NIO ： nerve to the inferior oblique muscle",
+        "description": ""
+    },
+    {
+        "num": "B10_13",
+        "path": "B10/B10_13.webp",
+        "answer": [
+            "nasociliary n.",
+            "nasociliary nerve"
+        ],
+        "explanation": "先用顱底分辨內外側，於內側之深層處有分別分 出 posterior ethmoidal n.與 anterior ethmoidal n. 向 內走，剩下向前走的 infratrochlear n. 會從眼眶內 緣 鑽出(此視野看不到)。",
+        "description": ""
+    },
+    {
+        "num": "B10_14",
+        "path": "B10/B10_14.webp",
+        "answer": [
+            "granular foveolae"
+        ],
+        "explanation": "頭骨上的凹溝，為 arachnoid granulation 長到突出 dura mater 形成的壓跡。",
+        "description": ""
+    },
+    {
+        "num": "B10_15",
+        "path": "B10/B10_15.webp",
+        "answer": [
+            "Temporal and zygomatic br. of facial n.",
+            "Temporal and zygomatic branch of facial nerve",
+            "Facial n.",
+            "Facial nerve"
+        ],
+        "explanation": "Facial nerve 從 trunk 出來後被 parotid gland 包覆， 分為 5 個 branch，可用 parotid duct 定位。考試時指了 temporal branch 跟 zygomatic branch， 但沒有寫 be specific，故寫 facial n.即可。",
+        "description": ""
+    },
+    {
+        "num": "B10_16",
+        "path": "B10/B10_16.webp",
+        "answer": [
+            "Abducens n.",
+            "Abducens nerve"
+        ],
+        "explanation": "Abducens n.的辨認重點是他會從 clivus (cranial fossa 中間的斜坡處) 鑽出",
+        "description": ""
+    },
+    {
+        "num": "B10_17",
+        "path": "B10/B10_17.webp",
+        "answer": [
+            "Inferior thyroid a.",
+            "Inferior thyroid artery"
+        ],
+        "explanation": "2 是 recurrent laryngeal nerve，兩者都會從 thyroid gland 外後下側鑽入 thyroid gland (Inferior thyroid artery、recurrent laryngeal artery、common carotid artery 三個會圍出 Beahrs’ triangle，可以去了解一 下這個構造，有助於建立這個空間概念)",
+        "description": ""
+    },
+    {
+        "num": "B10_18",
+        "path": "B10/B10_18.webp",
+        "answer": [
+            "Hypoglossal n.",
+            "Hypoglossal nerve"
+        ],
+        "explanation": "1 是 posterior belly of digastric muscle (這張圖片的 視角是從 neck 的偏側面(lateral side)看的，跑台和 實習課時的視角則會比這張圖片更偏正面一點)。Hypoglossal n. 在這個 region 的判斷要點是會和 posterior belly of digastric muscle 以及 stylohyoid muscle 的走向一致",
+        "description": ""
+    },
+    {
+        "num": "B10_19",
+        "path": "B10/B10_19.webp",
+        "answer": [
+            "Angular a.",
+            "Angular artery"
+        ],
+        "explanation": "facial a.的末端。和 facial v.區分方法是看在 mandible 下緣附近有沒 有蜿蜒曲折(facial a.有)。(不過近年來很少考 facial v.，實習課時也大多沒有特別保留之) Facial a.在 angle of mouth 處分出 superior & inferior labial a.。 angular a.和 ophthalmic a.有 anastomosis。 其他：1-angular v.、2-angular a.、3-superior labial a.、4-facial a.、5-facial v.、6-inferior labial a.、7- parotid duct、8-parotid gland、9-masseter m.",
+        "description": ""
+    },
+    {
+        "num": "B10_20",
+        "path": "B10/B10_20.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "會向前鑽入 superior oblique m.並支配之 SO ： superior oblique m. ， FN ： frontal n.",
+        "description": ""
+    },
+    {
+        "num": "B10_加分1",
+        "path": "B10/B10_加分1.webp",
+        "answer": [
+            "Choroid"
+        ],
+        "explanation": "考試時是考一個切片，問眼眶內黑色那圈是什麼 (請不要不小心寫成 choroid plexus)",
+        "description": ""
+    },
+    {
+        "num": "B10_加分2",
+        "path": "B10/B10_加分2.webp",
+        "answer": [
+            "Posterior ciliary a.",
+            "Posterior ciliary artery"
+        ],
+        "explanation": "(考試當下的考題是一個動、靜脈染成紅、藍色的 眼球) Posterior ciliary a.有很多細小分支，會從眼球後方 進入眼球，大多分支都會走在 optic nerve 附近。 Posterior ciliary a. 沒辦法直接從外觀區分 long 或 short(長度差異在眼球內)，所以不需寫 long/short posterior ciliary artery 。",
+        "description": ""
+    }
+]

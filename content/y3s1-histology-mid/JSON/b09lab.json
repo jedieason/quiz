@@ -1,0 +1,230 @@
+[
+    {
+        "num": "b09lab_01",
+        "path": "b09lab/b09lab_01.webp",
+        "answer": [
+            "Muscular artery"
+        ],
+        "explanation": "和vein的差別是tunica media很厚；和elastic artery的差別是intima的subendothelial CNT很薄，media的elastin比較少、smooth muscle多。\n【出處】07共筆Vol.10 P.49,50",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09lab_02",
+        "path": "b09lab/b09lab_02.webp",
+        "answer": [
+            "Dorsal root ganglion"
+        ],
+        "explanation": "圖中圈起處細胞較大，一旁有許多小細胞圍繞，為神經元的特徵。此外satellite cell和fiber有明顯分界，細胞呈圓形且核位於細胞中心，可判斷為Dorsal root ganglion(DRG)。\n【出處】07共筆Vol.7 P.27",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09lab_03",
+        "path": "b09lab/b09lab_03.webp",
+        "answer": [
+            "Nail matrix",
+            "持續分裂產生指甲"
+        ],
+        "explanation": "Nail plate延伸到根部稱為Nail root，下方較深染的構造稱為Nail matrix，是指甲分裂增生的地方。\n【出處】共筆Vol.9 P.43",
+        "description": "紅色箭頭所指為何構造？"
+    },
+    {
+        "num": "b09lab_04",
+        "path": "b09lab/b09lab_04.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "可見一串葡萄狀構造，為choroid plexus，緊密排列的ependymal cells包著血管與loose CNT。\n【出處】08共筆Vol.7 P.35",
+        "description": "下圖為何種構造？"
+    },
+    {
+        "num": "b09lab_05",
+        "path": "b09lab/b09lab_05.webp",
+        "answer": [
+            "Basophil"
+        ],
+        "explanation": "大小上比紅血球大很多，有許多basophilic的specific granule，核不明顯。\n【出處】共筆Vol.3 P.28",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b09lab_06",
+        "path": "b09lab/b09lab_06.webp",
+        "answer": [
+            "Skeletal muscle",
+            "body movement"
+        ],
+        "explanation": "有橫紋、多核，且核位於旁邊。其伸縮可以促成身體各部位的活動並支配整體的運動性。\n【出處】共筆Vol.2 P.77",
+        "description": "下圖為何種組織？其功能為何？"
+    },
+    {
+        "num": "b09lab_07",
+        "path": "b09lab/b09lab_07.webp",
+        "answer": [
+            "Monocyte"
+        ],
+        "explanation": "大小上是2-3倍紅血球大，核明顯凹陷呈馬蹄形。\n【出處】共筆Vol.3 P.29",
+        "description": "視野中央為何種細胞？"
+    },
+    {
+        "num": "b09lab_08",
+        "path": "b09lab/b09lab_08.webp",
+        "answer": [
+            "Cardiac muscle"
+        ],
+        "explanation": "可以用心肌細胞特有的心間盤(intercalated disc)來辨別。此外心肌在高倍下可見明顯橫紋，橢圓細胞核位於細胞中央。\n【出處】共筆Vol.2 P.59,79",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09lab_09",
+        "path": "b09lab/b09lab_09.webp",
+        "answer": [
+            "Ground bone section",
+            "Volkmann’s canal"
+        ],
+        "explanation": "由褐色背景判斷此為硬骨細胞的ground bone section，可以保留無機質部分。\n橫向黑色空腔構造為Volkmann’s canal。\n【出處】07共筆Vol.6 P.45",
+        "description": "下圖玻片採用何種製備方式？箭頭所指構造為何？"
+    },
+    {
+        "num": "b09lab_10",
+        "path": "b09lab/b09lab_10.webp",
+        "answer": [
+            "Fenestrated capillary"
+        ],
+        "explanation": "電顯圖中僅一層細胞圍成一個腔，應為微血管。此圖中可見微血管的內皮細胞出現許多孔洞，造成管壁在EM下呈現凹凸不平的樣子，為fenestrated capillary的特徵。\n【出處】08共筆Vol.9 P.34",
+        "description": "下圖為何種構造？"
+    },
+    {
+        "num": "b09lab_11",
+        "path": "b09lab/b09lab_11.webp",
+        "answer": [
+            "Motor neuron"
+        ],
+        "explanation": "圖中所指的細胞體積大、呈多角形，可見塊狀的Nissl bodies，且cell body周圍無satellite cells圍繞，為motor neuron的特徵。\n【出處】08共筆Vol.6 P.36",
+        "description": "請問箭頭所指為何種構造？"
+    },
+    {
+        "num": "b09lab_12",
+        "path": "b09lab/b09lab_12.webp",
+        "answer": [
+            "Meissner’s corpuscle"
+        ],
+        "explanation": "Epidermis和dermis交界處的dermal papilla中可以觀察到橢圓形結構，內有橫走fiber，此為Meissner’s corpuscle的特徵。\n【出處】08共筆Vol.8 P.44",
+        "description": "箭頭所指構造為何？"
+    },
+    {
+        "num": "b09lab_13",
+        "path": "b09lab/b09lab_13.webp",
+        "answer": [
+            "Glycocalyx"
+        ],
+        "explanation": "細胞膜上的一層醣蛋白構造。\n【出處】共筆Vol.1 P.10",
+        "description": "箭頭所指為何種構造？"
+    },
+    {
+        "num": "b09lab_14",
+        "path": "b09lab/b09lab_14.webp",
+        "answer": [
+            "Motor end-plate"
+        ],
+        "explanation": "運動神經軸突連接骨骼肌之處為motor end-plate。\n【出處】共筆Vol.2 P.52",
+        "description": "箭頭所指為何種構造？"
+    },
+    {
+        "num": "b09lab_15",
+        "path": "b09lab/b09lab_15.webp",
+        "answer": [
+            "Merocrine sweat gland"
+        ],
+        "explanation": "管腔很小，(apocrine sweat gland管腔大)，secretory component 外側一圈染成粉紅色的細胞。\n【出處】共筆Vol.9 P.25",
+        "description": "圖中為何種構造？"
+    },
+    {
+        "num": "b09lab_16",
+        "path": "b09lab/b09lab_16.webp",
+        "answer": [
+            "Neutrophil"
+        ],
+        "explanation": "3-5葉，為neutrophil\n【出處】共筆Vol.3 P.7",
+        "description": "視野中央為何種細胞？"
+    },
+    {
+        "num": "b09lab_17",
+        "path": "b09lab/b09lab_17.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "Spinal cord: 細胞核位於中心，沒有Satellite cell\nSympathetic ganglion:  細胞核偏心，Satellite cell密度低\nSpinal ganglia:  細胞核位於中心，Satellite cell密度高\n可知為sympathetic ganglion\n【出處】共筆Vol.6 P.39",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09lab_18",
+        "path": "b09lab/b09lab_18.webp",
+        "answer": [
+            "Dermal papilla of hair follicle"
+        ],
+        "explanation": "Hair follicle最底下的內凹處，為dermal papilla\n【出處】共筆Vol.9 P.19",
+        "description": "紅框中為何種構造？"
+    },
+    {
+        "num": "b09lab_19",
+        "path": "b09lab/b09lab_19.webp",
+        "answer": [
+            "Cerebellar cortex"
+        ],
+        "explanation": "由左到右可清楚看到分三層，分別為granular layer、Purkinje cell layer、molecular layer，是cerebellar cortex的特徵。\n【出處】共筆Vol.7 P.32",
+        "description": "圖中為何種組織？"
+    },
+    {
+        "num": "b09lab_20",
+        "path": "b09lab/b09lab_20.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "突出物為cilium，而下方則是basal body。\n【出處】共筆Vol.2 P.20",
+        "description": "指針所指為何種構造？"
+    },
+    {
+        "num": "b09lab_21",
+        "path": "b09lab/b09lab_21.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "兩葉，為eosinophil。\n【出處】共筆Vol.3 P.9",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b09lab_22",
+        "path": "b09lab/b09lab_22.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with cilia"
+        ],
+        "explanation": "排列不整齊的偽單層，又有cilia附著其上，為Pseudostratified columnar epithelium with cilia。\n【出處】共筆Vol.2 P.7",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09lab_23",
+        "path": "b09lab/b09lab_23.webp",
+        "answer": [
+            "Osteocyte"
+        ],
+        "explanation": "被bone matrix包圍的硬骨細胞osteocyte。\n【出處】共筆Vol.4 P.18",
+        "description": "黃色箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b09lab_24",
+        "path": "b09lab/b09lab_24.webp",
+        "answer": [
+            "Peroxisome"
+        ],
+        "explanation": "中間有明顯的結晶狀nucleoid。\n【出處】共筆Vol.1 P.35",
+        "description": "下圖為何種胞器？"
+    },
+    {
+        "num": "b09lab_25",
+        "path": "b09lab/b09lab_25.webp",
+        "answer": [
+            "Hyaline cartilage"
+        ],
+        "explanation": "可見多個chondrocyte聚合在lacuna中間，所以是hyaline cartilage。\n【出處】共筆Vol.4 P.5",
+        "description": "箭頭所指為何種組織？"
+    }
+]

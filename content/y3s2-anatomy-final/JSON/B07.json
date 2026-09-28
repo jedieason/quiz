@@ -1,0 +1,228 @@
+[
+    {
+        "num": "B07_1",
+        "path": "B07/B07_1.webp",
+        "answer": [
+            "Lateral pterygoid m."
+        ],
+        "explanation": "origin 為 greater wing of sphenoid 和 lateral pterygoid plate 的 lateral side。Insertion 為 TMJ joint。",
+        "description": ""
+    },
+    {
+        "num": "B07_2",
+        "path": "B07/B07_2.webp",
+        "answer": [
+            "Chorda tympani n."
+        ],
+        "explanation": "lingual n.在往下走的過程中，會在 maxillary a.附近，分出一條很細的神經。",
+        "description": ""
+    },
+    {
+        "num": "B07_3",
+        "path": "B07/B07_3.webp",
+        "answer": [
+            "Middle meningeal a."
+        ],
+        "explanation": "由 maxillary a.分支出的動脈，最大的特點就是會被 auriculotemporal n.圍繞。",
+        "description": ""
+    },
+    {
+        "num": "B07_4",
+        "path": "B07/B07_4.webp",
+        "answer": [
+            "Pterygoid canal"
+        ],
+        "explanation": "位在 sphenoid bone 的 posterior，通往 foramen lacerum，內有由 greater/deep petrosal n.組成的神經通過。",
+        "description": ""
+    },
+    {
+        "num": "B07_5",
+        "path": "B07/B07_5.webp",
+        "answer": [
+            "Stylopharyngeus m.",
+            "重要"
+        ],
+        "explanation": "origin 是 styloid process 內側，穿過 superior 與 middle constrictor m.之間，往下連到 thyroid cartilage。",
+        "description": ""
+    },
+    {
+        "num": "B07_6",
+        "path": "B07/B07_6.webp",
+        "answer": [
+            "Left incus"
+        ],
+        "explanation": "如何判斷左右? Incus 的 short process 往後，long process 朝向內側，articular surface 朝向前側方。",
+        "description": ""
+    },
+    {
+        "num": "B07_7",
+        "path": "B07/B07_7.webp",
+        "answer": [
+            "Hyoglossus m."
+        ],
+        "explanation": "此肌肉從舌骨接到舌頭的側邊，origin 是 body & greater horn of hyoid，是跑台的重要 landmark。",
+        "description": ""
+    },
+    {
+        "num": "B07_8",
+        "path": "B07/B07_8.webp",
+        "answer": [
+            "Lingual n."
+        ],
+        "explanation": "看和 submandibular duct 交叉，且有分出 submandibular ganglion。",
+        "description": ""
+    },
+    {
+        "num": "B07_9",
+        "path": "B07/B07_9.webp",
+        "answer": [
+            "Superior laryngeal a."
+        ],
+        "explanation": "可見其從上端 superior thyroid a. 分支出，往內側走進入 thyrohyoid membrane。",
+        "description": ""
+    },
+    {
+        "num": "B07_10",
+        "path": "B07/B07_10.webp",
+        "answer": [
+            "Greater palatine n"
+        ],
+        "explanation": "沿 palatine canal 向前、向下走，通往並支配 hard palate。",
+        "description": ""
+    },
+    {
+        "num": "B07_11",
+        "path": "B07/B07_11.webp",
+        "answer": [
+            "Levator veli palatini m."
+        ],
+        "explanation": "從 auditory tube 內側連到 palate 上，較 tensor veli palatini m. 還要 medial, posterior。",
+        "description": ""
+    },
+    {
+        "num": "B07_12",
+        "path": "B07/B07_12.webp",
+        "answer": [
+            "Posterior cricoarytenoid m."
+        ],
+        "explanation": "posterior cricoid lamina 連到 muscular process of arytenoid cartilage，為唯一的 vocal cord abductor。",
+        "description": ""
+    },
+    {
+        "num": "B07_13",
+        "path": "B07/B07_13.webp",
+        "answer": [
+            "Superior cervical ganglion"
+        ],
+        "explanation": "位在 internal carotid a. 更內側的膨大構造，約在 C2-C4 level。",
+        "description": ""
+    },
+    {
+        "num": "B07_14",
+        "path": "B07/B07_14.webp",
+        "answer": [
+            "Femoral v."
+        ],
+        "explanation": "femoral triangle 中，從外到內分別為:femoral n., a., v.。只有 a 跟 v 被包在 femoral sheath 裡面。",
+        "description": ""
+    },
+    {
+        "num": "B07_15",
+        "path": "B07/B07_15.webp",
+        "answer": [
+            "Vastus lateralis m."
+        ],
+        "explanation": "為 quadriceps femoris 中靠外側的肌肉，會從 lateral side 往前包覆。",
+        "description": ""
+    },
+    {
+        "num": "B07_16",
+        "path": "B07/B07_16.webp",
+        "answer": [
+            "Gracilis m."
+        ],
+        "explanation": "大腿最內側那條，很好認。",
+        "description": ""
+    },
+    {
+        "num": "B07_17",
+        "path": "B07/B07_17.webp",
+        "answer": [
+            "Obturator n., anterior branch"
+        ],
+        "explanation": "Obturator nerve 在 adductor brevis 上界分成 anterior 跟 posterior branches。",
+        "description": ""
+    },
+    {
+        "num": "B07_18",
+        "path": "B07/B07_18.webp",
+        "answer": [
+            "Semitendinosus m."
+        ],
+        "explanation": "大腿後方內側最上面的一條肌肉，形狀像香腸。下面較薄較寬的是 semimembranosus m.。",
+        "description": ""
+    },
+    {
+        "num": "B07_19",
+        "path": "B07/B07_19.webp",
+        "answer": [
+            "Soleus m."
+        ],
+        "explanation": "屬於 posterior compartment of leg，位在 gastrocnemius m.的深層(被覆蓋住)。",
+        "description": ""
+    },
+    {
+        "num": "B07_20",
+        "path": "B07/B07_20.webp",
+        "answer": [
+            "Anterior cruciate ligament"
+        ],
+        "explanation": "由內下前側連接到外上後側。",
+        "description": ""
+    },
+    {
+        "num": "B07_21",
+        "path": "B07/B07_21.webp",
+        "answer": [
+            "Tendon of tibialis posterior m."
+        ],
+        "explanation": "和 peroneus longus tendon 十字交叉。從 upper tibia & fibula 後側繞過 medial malleolus 進入足底。",
+        "description": ""
+    },
+    {
+        "num": "B07_22",
+        "path": "B07/B07_22.webp",
+        "answer": [
+            "Tibial n."
+        ],
+        "explanation": "Sciatic n.會分支成 tibial n.及 common fibular n.，而走在內側的是 tibial n.。",
+        "description": ""
+    },
+    {
+        "num": "B07_23",
+        "path": "B07/B07_23.webp",
+        "answer": [
+            "Superficial fibular n."
+        ],
+        "explanation": "支配 fibularis longus/brevis m.，再從小腿下 1/3 處穿出 deep fascia，走在小腿前側及腳背。",
+        "description": ""
+    },
+    {
+        "num": "B07_24",
+        "path": "B07/B07_24.webp",
+        "answer": [
+            "Tendon of extensor digitorum longus m."
+        ],
+        "explanation": "屬於 anterior compartment of leg，遠端附著到 lateral four digits。",
+        "description": ""
+    },
+    {
+        "num": "B07_25",
+        "path": "B07/B07_25.webp",
+        "answer": [
+            "Flexor hallucis longus m."
+        ],
+        "explanation": "起源在 fibula，走在小腿外側，再經過足底連接到大拇指。",
+        "description": ""
+    }
+]

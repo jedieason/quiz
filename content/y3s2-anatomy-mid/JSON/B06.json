@@ -1,0 +1,201 @@
+[
+    {
+        "num": "B06_1",
+        "path": "B06/B06_1.webp",
+        "answer": [
+            "Anterior scalene m.",
+            "Anterior scalene muscle"
+        ],
+        "explanation": "勾起為 phrenic n.。",
+        "description": ""
+    },
+    {
+        "num": "B06_2",
+        "path": "B06/B06_2.webp",
+        "answer": [
+            "Accessory n.",
+            "Accessory nerve"
+        ],
+        "explanation": "其他： 1-Spinal cord, 2-Vestibulocochlear n.(CNVIII 由 CNVII 的外側邊 發出，且似乎有說有兩分支的是 Facial n.所以是 Vestibulocochlear n.), 3-Vertebral a., 4-Vagus n., 5-Occipital bone (posterior cranial fossa), 6-Pituitary stalk (in Hypophyseal fossa), 7-Superior petrosal sinus, 8-Accessory n.",
+        "description": ""
+    },
+    {
+        "num": "B06_3",
+        "path": "B06/B06_3.webp",
+        "answer": [
+            "Angular a.",
+            "Angular artery"
+        ],
+        "explanation": "facial a.在嘴角上下緣會分支出 sup. labial a. 跟 inf. labial a.，但是圖片上可以看出血管是要繼續往上 走的，所以是走到眼角的 angular a.。 鑷子夾住的 是 facial v.，不要和 a.搞混。",
+        "description": ""
+    },
+    {
+        "num": "B06_4",
+        "path": "B06/B06_4.webp",
+        "answer": [
+            "Supraorbital a.",
+            "Supraorbital artery"
+        ],
+        "explanation": "其他： 1. Superficial temporal artery and vein and auriculotemporal nerve, 2. Tendon of temporal muscle, deep temporal nerves and artery, 3. Maxillary artery, 4. Middle meningeal artery, 5. Occipital artery, 6. Inferior alveolar artery and nerve, 7. Posterior belly of digastric muscle, 8. Great auricular nerve and sternocleidomastoid muscle, 9. Hypoglossal nerve and superior root of ansa cervicalis, 10. External carotid artery, 11. Supratrochlear nerve and medial branch of supra-orbital artery, 12. Angular artery, 13. Posterior superior alveolar artery, 14. Infra-orbital nerve, 15. Facial artery, 16. Parotid duct (divided) and buccinator muscle, 17. Buccal artery and nerve, 18. Mylohyoid nerve, 19. Lingual nerve and submandibular ganglion, 20. Mental nerve and foramen, 21. Inferior alveolar nerve, 22. Trigeminal nerve and ganglion, 23. Mandibular nerve (n. V3), 24. Auriculotemporal nerve and middle meningeal artery, 25. Superficial temporal artery, 26. Facial nerve, 27. Lateral branch of supra-orbital nerve, 28. Lacrimal gland, 29. Ciliary ganglion and short ciliary nerves, 30. Inferior branch of oculomotor nerve, 31. Maxillary nerve (n. V2), 32. Angular artery, 33. Infra-orbital nerve, 34. Posterior superior alveolar nerve, 35. Anterior superior alveolar nerve, 36. Submandibular gland, 37. Cerebellar tentorium, 38. Masseter muscle, 39. Superior root of ansa cervicalis, 40. Ophthalmic nerve (n. V1)",
+        "description": ""
+    },
+    {
+        "num": "B06_5",
+        "path": "B06/B06_5.webp",
+        "answer": [
+            "Superior ophthalmic v.",
+            "Superior ophthalmic vein"
+        ],
+        "explanation": "其他： A - Superior rectus muscle, B - Levator palpebrae superioris, C - oculomotor nerve, D - Superior oblique muscle E - ophthalmic artery, F - superior ophthalmic vein G - nasociliary nerve, H - Lacrimal nerve",
+        "description": ""
+    },
+    {
+        "num": "B06_6",
+        "path": "B06/B06_6.webp",
+        "answer": [
+            "Levator palpebrae superioris m.",
+            "Levator palpebrae superioris muscle"
+        ],
+        "explanation": "最淺層的眼球上方肌肉，上面只壓著 frontal n.( 走 在淺層中間)跟 fat。",
+        "description": ""
+    },
+    {
+        "num": "B06_7",
+        "path": "B06/B06_7.webp",
+        "answer": [
+            "Right recurrent laryngeal n.",
+            "Right recurrent laryngeal nerve"
+        ],
+        "explanation": "走在甲狀腺的 posterior medial side，從內側鑽出， 從 subclavian a.下方繞回來。比較：left recurrent laryngeal n.則從 aortic arch 繞 回來。",
+        "description": ""
+    },
+    {
+        "num": "B06_8",
+        "path": "B06/B06_8.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "會鑽入靠近 medial side 比較高的 superior oblique m.。",
+        "description": ""
+    },
+    {
+        "num": "B06_9",
+        "path": "B06/B06_9.webp",
+        "answer": [
+            "Granular foveola"
+        ],
+        "explanation": "頭骨上一點一點的壓跡就是了，左側由上往下數 第二條線指 的是 groove for superior sagittal sinus， 其他不重要。",
+        "description": ""
+    },
+    {
+        "num": "B06_10",
+        "path": "B06/B06_10.webp",
+        "answer": [
+            "Right vagus n.",
+            "Right vagus nerve"
+        ],
+        "explanation": "走在 Subclavian 前, Common Carotid a. 後。其他：STA=superior thyroid artery、CCA = Common carotid artery、ECA = External carotid artery、ICA = Internal carotid artery、IJV = Internal jugular vein、SLA = Superior laryngeal artery、 EBSLN = External branch of the superior laryngeal nerve.",
+        "description": ""
+    },
+    {
+        "num": "B06_11",
+        "path": "B06/B06_11.webp",
+        "answer": [
+            "Maxillary n.、Foramen rotundum",
+            "Maxillary nerve、Foramen rotundum"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B06_12",
+        "path": "B06/B06_12.webp",
+        "answer": [
+            "Sensory root of trigeminal n.",
+            "Sensory root of trigeminal nerve"
+        ],
+        "explanation": "CN V 是從 pons 分出的最粗的神經，然後可以分 成一 粗一細(粗的是 sensory，細的是 motor root)。",
+        "description": ""
+    },
+    {
+        "num": "B06_13",
+        "path": "B06/B06_13.webp",
+        "answer": [
+            "Internal carotid a. Basilar a.",
+            "Internal carotid artery Basilar artery"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B06_14",
+        "path": "B06/B06_14.webp",
+        "answer": [
+            "Tarsal plate",
+            "Tarsal plate"
+        ],
+        "explanation": "34 號為 superior tarsal plate，36 號為 inferior tarsal plate，不用區別。其他： 15.Levator palpebrae superioris muscle, 16.Superior rectus muscle, 17.Inferior rectus muscle, 18.Optic nerve (n. II), 19.Maxillary sinus, 20.Sclera, 21.Ophthalmic artery, 22.Orbital fatty tissue, 23.Tenon’s space, 24.Periorbita and maxilla, 25.Frontal sinus, 26.Superior conjunctival fornix, 27.Cornea, 28.Superior tarsal plate, 29.Lens, 30.Inferior tarsal plate, 31.Inferior conjunctival fornix",
+        "description": ""
+    },
+    {
+        "num": "B06_15",
+        "path": "B06/B06_15.webp",
+        "answer": [
+            "Superior oblique m.",
+            "Superior oblique muscle"
+        ],
+        "explanation": "其他： 1. Frontal sinus (enlarged), 2. Frontal nerve (divided and reflected), 3. Superior rectus muscle (divided) and eyeball, 4. Superior oblique muscle, 5. Short ciliary nerves and optic nerve (n. II), 6. Nasociliary nerve, 7. Abducent nerve (n. VI) and lateral rectus muscle, 8. Ciliary ganglion and superior rectus muscle (reflected), 9. Oculomotor nerve (n. III), 10. Trochlear nerve (n. IV), 11. Crus cerebri and midbrain, 12. Inferior wall of the third ventricle connected with cerebral aqueduct, 13. Lateral and medial branches of supra-orbital nerve, 14. Supratrochlear nerve, 15. Superior levator palpebrae muscle, 16. Lacrimal nerve, 17. Frontal nerve, 18. Ophthalmic nerve (n. V1), 19. Optic chiasma and internal carotid artery, 20. Trigeminal ganglion, 21. Trigeminal nerve (n. V), 22. Tentorial notch",
+        "description": ""
+    },
+    {
+        "num": "B06_16",
+        "path": "B06/B06_16.webp",
+        "answer": [
+            "Superior thyroid a.",
+            "Superior thyroid artery"
+        ],
+        "explanation": "external carotid a.的分支。Sup. thyroid a. 往下走， 供應甲狀腺。比較：Inf. thyroid a. 是 subclavian a. 的分支 thyrocervical a.的分支。",
+        "description": ""
+    },
+    {
+        "num": "B06_17",
+        "path": "B06/B06_17.webp",
+        "answer": [
+            "Anterior belly of digastric m.",
+            "Anterior belly of digastric muscle"
+        ],
+        "explanation": "最簡單的就是看他有兩個 belly~。 Ant. belly 附著 在 mandible 前方，post. belly 附著在 mastoid process。 補充：Omohyoid 也有 sup. 跟 inf. belly， 但連接的地方分別是 hyoid bone 跟 upper border of the scapula。其他： 1. Galea aponeurotica, 2. Temporal fascia, 3. Tendon of temporal muscle, 4. Zygomatic arch, 5. Lateral pterygoid plate, 6. Tensor veli palatini muscle (styloid process), 7. Superior constrictor muscle of pharynx, 8. Styloglossus muscle, 9. Posterior belly of digastric muscle, 10. Stylohyoid muscle, 11. Longus capitis muscle, 12. Sternocleidomastoid muscle (reflected), 13. Inferior constrictor of pharynx, 14. Frontal belly of occipitofrontalis muscle, 15. Orbital part of orbicularis oculi muscle, 16. Buccinator muscle, 17. Depressor anguli oris muscle, 18. Mylohyoid muscle, 19. Anterior belly of digastric muscle, 20. Thyrohyoid muscle, 21. Sternohyoid muscle, 22. Omohyoid muscle, 23. Hyoid bone, 24. Sternothyroid muscle Supra- and infrahyoid muscles (lateral aspect)., 25. Scalene muscles",
+        "description": ""
+    },
+    {
+        "num": "B06_18",
+        "path": "B06/B06_18.webp",
+        "answer": [
+            "Buccinator m.",
+            "Buccinator muscle"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B06_19",
+        "path": "B06/B06_19.webp",
+        "answer": [
+            "Anterior inferior cerebellar a.",
+            "Anterior inferior cerebellar artery"
+        ],
+        "explanation": "可以由分支判斷其為 Basilar a.的分支，接著往小 腦 的方向分布，故為 AICA。要注意不要跟 Superior cerebellar a. (上面第二個分 支) 搞混。",
+        "description": ""
+    },
+    {
+        "num": "B06_20",
+        "path": "B06/B06_20.webp",
+        "answer": [
+            "Superficial temporal a.",
+            "Superficial temporal artery"
+        ],
+        "explanation": "Superficial temporal a. 位 TM joint 跟 auricle 之間， 走在淺 層與 auriculotemporal n.伴行，可以摸到脈 搏。 其他：紅色箭頭所指為 auriculotemporal n.。",
+        "description": ""
+    }
+]

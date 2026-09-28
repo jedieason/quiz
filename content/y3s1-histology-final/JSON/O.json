@@ -1,0 +1,591 @@
+[
+  {
+    "num": "206233",
+    "path": "O/206233.webp",
+    "answer": [
+      "PST"
+    ],
+    "explanation": "細胞質染色較 eosinophilic，管腔髒髒的為 brush border，細胞\n核偏向底部。",
+    "description": "寫出箭頭所指虛線內整個構造名稱"
+  },
+  {
+    "num": "209208",
+    "path": "O/209208.webp",
+    "answer": [
+      "appositional stage",
+      "bell stage",
+      "epithelial root sheath"
+    ],
+    "explanation": "為發育中牙齒，因為看起來為鐘狀，故為bell stage （如果有看出分層寫appositional stage也可）。牙根處有IEE 和 OEE形成的雙層構造叫（Hertwig’s） epithelial root sheath。\n\n【出處】09共筆 Vol.13 P.35-37",
+    "description": "以下組織處於哪個階段？框起來的組織名稱？"
+  },
+  {
+    "num": "204131",
+    "path": "O/204131.webp",
+    "answer": [
+      "Foliate papilla with taste bud"
+    ],
+    "explanation": "沒有角質化，每個papilla內有2-3個dermal papilla突起，旁邊有taste buds。",
+    "description": "圖片中為什麼組織？（Be specific）"
+  },
+  {
+    "num": "204132",
+    "path": "O/204132.webp",
+    "answer": [
+      "Interglobular space"
+    ],
+    "explanation": "位於dentin接近enamel處，光折射下呈黑色不規則的塊狀構造，為dentin鈣化不完全的空腔。",
+    "description": "箭號所指為什麼構造？"
+  },
+  {
+    "num": "204133",
+    "path": "O/204133.webp",
+    "answer": [
+      "Dentin"
+    ],
+    "explanation": "緊臨深染的Enamel，有一條條dentinal tubule。",
+    "description": "箭號所指為何組織？"
+  },
+  {
+    "num": "204134",
+    "path": "O/204134.webp",
+    "answer": [
+      "Dental papillae"
+    ],
+    "explanation": "在Inner enamel epithelium下，細胞密度高，且為多角形的mesenchymal cells，將來會形成dental pulp。",
+    "description": "箭號所指區域名稱？"
+  },
+  {
+    "num": "204135",
+    "path": "O/204135.webp",
+    "answer": [
+      "Soft palate"
+    ],
+    "explanation": "上面口腔面是stratified squamous epithelium，下面鼻腔面是pseudostratified ciliated columnar epithelium。",
+    "description": "寫出整個結構名稱？"
+  },
+  {
+    "num": "210105",
+    "path": "O/210105.webp",
+    "answer": [
+      "filiform papilla"
+    ],
+    "explanation": "先看到表層角質化，只可能是口或肛門；在看到尖角狀構造可知為 filiform papilla。",
+    "description": "寫出框起之構造名稱"
+  },
+  {
+    "num": "210110",
+    "path": "O/210110.webp",
+    "answer": [
+      "dentin"
+    ],
+    "explanation": "緊臨深染的 Enamel,有一條條 dentinal tubule。",
+    "description": "請寫出箭頭所指構造名稱"
+  },
+  {
+    "num": "210120",
+    "path": "O/210120.webp",
+    "answer": [
+      "Cementocyte"
+    ],
+    "explanation": "裡面有一個個黑色水母狀的cementocyte，位於lacuna中間，觸手是canaliculi，圖片右方為periodontal ligament跟osteocyte比較的話，只有osteocyte有同心圓",
+    "description": "請問視野下為何種細胞?"
+  },
+  {
+    "num": "210131",
+    "path": "O/210131.webp",
+    "answer": [
+      "Odontoblast"
+    ],
+    "explanation": "由外而內:Outer enamel epithelium → Stellate reticulum → Stratum intermedium → Ameloblast(前身為 Inner enamel epithelium)→ Enamel → Dentin → Predentin → Odontoblast → Dental papillae。(要會分內外) Odontoblast在dental papillae 外圍，由 dental papillae 內的 mesenchymal cells 分化而來，並向外形成 predentin(淡染)，predentin 之後會進一步 鈣化形成 dentin(深染)。",
+    "description": "以下箭頭指的是何細胞？"
+  },
+  {
+    "num": "11104",
+    "path": "O/11104.webp",
+    "answer": [
+      "Circumvallate papilla"
+    ],
+    "explanation": "特徵為：\n1.\t外型呈現圓拱狀\n2.\tStratified squamous epithelium\n3.\t可見taste buds在papilla兩側\n4.\t其CNT相當發達且完整進入papilla中\n5.\t底下有serous gland\n6.\t體型較大",
+    "description": "視野內的構造是什麼？"
+  },
+  {
+    "num": "11106",
+    "path": "O/11106.webp",
+    "answer": [
+      "A: Inner enamel epithelium B: Ameloblast",
+      "Inner enamel epithelium Ameloblast"
+    ],
+    "explanation": "Inner enamel epithelium 會分化成ameloblast。",
+    "description": "A. 指針（箭頭）所指是什麼構造? B. 它將來會發育成什麼細胞?"
+  },
+  {
+    "num": "11130",
+    "path": "O/11130.webp",
+    "answer": [
+      "A: appositional stage B: Stellate reticulum",
+      "appositional stage Stellate reticulum"
+    ],
+    "explanation": "牙齒由外而內的分層要記一下（好像也每次都考這個stage）。",
+    "description": "下圖結構為牙齒發育的哪個階段？指針所指的構造為何？？"
+  },
+  {
+    "num": "11134",
+    "path": "O/11134.webp",
+    "answer": [
+      "A: ground section B: granular layer of Tomes",
+      "ground section granular layer of Tomes"
+    ],
+    "explanation": "A: 此為牙齒ground section，為物理研磨製成，未經脫鈣，因此可保留Dentin等高度鈣化組織。 \nB: 箭頭所指為root處，位於Dentin和Cementum交界處的顆粒狀區域，為 dentin鈣化不完全所形成，在ground section下呈黑色顆粒狀。",
+    "description": "A此玻片的製備方式？B所指的構造為何？"
+  },
+  {
+    "num": "205116",
+    "path": "O/205116.webp",
+    "answer": [
+      "Odontoblast"
+    ],
+    "explanation": "向外形成較白的predentin和較深一點的白的dentin。在外面一點的深色處則為enamel。 ",
+    "description": "箭號所指的細胞為何"
+  },
+  {
+    "num": "205117",
+    "path": "O/205117.webp",
+    "answer": [
+      "Filiform papilla"
+    ],
+    "explanation": "數量很多，呈典型的錐狀或鐮刀狀，具有highly keratinized stratified squamous epithelium。 ",
+    "description": "寫出框框內的構造名稱？"
+  },
+  {
+    "num": "205118",
+    "path": "O/205118.webp",
+    "answer": [
+      "Noncornified stratified squamous epithelium"
+    ],
+    "explanation": "此為palatine tonsil，有許多lymph nodule，且有深、分叉成人字形的crypt。其具有noncornified stratified squamous epithelium。 ",
+    "description": "方框內為何上皮組織？"
+  },
+  {
+    "num": "205119",
+    "path": "O/205119.webp",
+    "answer": [
+      "Cellular cementum"
+    ],
+    "explanation": "裡面有一個個黑色好像水母的cementocyte，身體在lacuna 裡面，觸手是canaliculi。 ",
+    "description": "箭號所指之構造為？"
+  },
+  {
+    "num": "208206",
+    "path": "O/208206.webp",
+    "answer": [
+      "Periodontal ligament"
+    ],
+    "explanation": "為 dense CNT，連結至 alveolar bone。\n【出處】08共筆Vol.13 P.51；09共筆Vol.13 P.51",
+    "description": "黃色實線範圍內的構造為何？"
+  },
+  {
+    "num": "208222",
+    "path": "O/208222.webp",
+    "answer": [
+      "tongue"
+    ],
+    "explanation": "表面多鐮刀狀的突起為filiform papillae。Fungiform papillae為圓拱型，表面為thin-keratinized，下方的CNT有指狀突起。\n【出處】08共筆Vol.13 P.7；09共筆Vol.13 P.8",
+    "description": "視野下整個範圍的構造名稱？（附圖局部放大）"
+  },
+  {
+    "num": "208232",
+    "path": "O/208232.webp",
+    "answer": [
+      "ameloblast"
+    ],
+    "explanation": "從外到內依序為，ameloblast（藍箭頭）→enamel→dentin→predentin→odontoblast（黃箭頭）。Ameloblast為單層柱狀細胞。\n【出處】08共筆Vol.13 P.53；09共筆Vol.13 P.53",
+    "description": "藍色箭頭位置？"
+  },
+  {
+    "num": "209202",
+    "path": "O/209202.webp",
+    "answer": [
+      "Foliate papillae"
+    ],
+    "explanation": "排列整齊，外型呈葉狀。兩個緊靠的 papillae 之間會形成較深、下陷的 cleft。注意papilla 內（cleft側面周圍）可見taste buds。\n【出處】09共筆 Vol.13 P.43",
+    "description": "圖片是什麼構造"
+  },
+  {
+    "num": "209206",
+    "path": "O/209206.webp",
+    "answer": [
+      "Odontoblast"
+    ],
+    "explanation": "此為發育中牙齒，常考。先判斷出顏色最深的那層是Enamel，Enamel旁白色那層是dentin，是由Odontoblast分泌出來（Odontoblast與dentin之間還夾了更淺那層是Predentin）。\n補充：由外而內：Outer enamel epithelium → Stellate reticulum → Stratum intermedium → Ameloblast（前身為 Inner enamel epithelium）→ Enamel → Dentin → Predentin → Odontoblast → Dental papillae。\n【出處】09共筆 Vol.13 P.53",
+    "description": "箭頭指出的是何種構造？"
+  },
+  {
+    "num": "209211",
+    "path": "O/209211.webp",
+    "answer": [
+      "Cellular cementum",
+      "Ground section"
+    ],
+    "explanation": "由切片的黑白顏色、光澤可知為ground section。圖中黑色呈細絲是dentin tubule，再外側是dentin，而最外側有許多黑色顆粒的是被雜質堵住的lacuna of cementocyte。該層屬於cellular cementum。\n【出處】09共筆 Vol.13 P.49",
+    "description": "1. 以下樣本製備方法為何 2.綠色箭頭處為種構造"
+  },
+  {
+    "num": "2092013",
+    "path": "O/2092013.webp",
+    "answer": [
+      "Bell stage",
+      "Hertwig’s epithelial root sheath",
+      "apposition stage"
+    ],
+    "explanation": "可能背題出現重複，請見第8題。",
+    "description": "下列是何種發育期；紅箭頭所指構造為何？"
+  },
+  {
+    "num": "2092024",
+    "path": "O/2092024.webp",
+    "answer": [
+      "Taste bud"
+    ],
+    "explanation": "可見卵圓形構造，且有狹長的supporting cell和sensory cell。上方Taste pore是tasting bud和外界接觸的小孔。\n【出處】09共筆 Vol.13 P.11",
+    "description": "這是什麼構造？"
+  },
+  {
+    "num": "208105",
+    "path": "O/208105.webp",
+    "answer": [
+      "Odontoblast"
+    ],
+    "explanation": "向外形成較白的predentin和較深一點的白的dentin。在外面一點的深色處則為enamel。\n【出處】共筆Vol.13 P.53",
+    "description": "箭號所指的細胞名稱？"
+  },
+  {
+    "num": "208115",
+    "path": "O/208115.webp",
+    "answer": [
+      "Dentin"
+    ],
+    "explanation": "從外到內依序為，ameloblast（整齊）→enamel→dentin（藍色箭頭）→predentin→odontoblast。\n【出處】共筆Vol.13 P.53",
+    "description": "畫面中箭頭所指為何種構造？"
+  },
+  {
+    "num": "208118",
+    "path": "O/208118.webp",
+    "answer": [
+      "Lip"
+    ],
+    "explanation": "可藉由形狀和表皮看出這是Lip的Sagittal section。\n【出處】共筆Vol.14 P.45",
+    "description": "寫出整個範圍的器官名稱？（Be specific）"
+  },
+  {
+    "num": "207203",
+    "path": "O/207203.webp",
+    "answer": [
+      "ameloblast"
+    ],
+    "explanation": "夾在深染的enamel和兩三層扁平的stratum intermedium之間，為單層柱狀細胞，向內分泌enamel。\n【出處】共筆Vol.13 P.37",
+    "description": "寫出箭頭所指排列整齊之細胞名稱"
+  },
+  {
+    "num": "206208",
+    "path": "O/206208.webp",
+    "answer": [
+      "Filiform papillae"
+    ],
+    "explanation": "數量很多，呈錐狀或鐮刀狀，為 highly keratinized stratified \nsquamous epithelium",
+    "description": "藍色虛線所圍之結構名稱"
+  },
+  {
+    "num": "206218",
+    "path": "O/206218.webp",
+    "answer": [
+      "Lip"
+    ],
+    "explanation": "可看到三區的上皮組織厚度有明顯差異。C 處為 cutaneous \npart，為 thin keratinized stratified squamous epithelium，很\n薄。B 為 vermilion border，A 為 mucocutaneous junction，為\n不完全角質化，epithelium 最厚。",
+    "description": "寫出中間黑粗框圖之器官名稱（ABC 於周邊分別有放大圖）"
+  },
+  {
+    "num": "206226",
+    "path": "O/206226.webp",
+    "answer": [
+      "Circumvallate",
+      "papillae"
+    ],
+    "explanation": "外型呈圓拱狀，papilla 兩側有大量 taste bud。",
+    "description": "寫出黑色匡之結構名稱"
+  },
+  {
+    "num": "206235",
+    "path": "O/206235.webp",
+    "answer": [
+      "Odontoblast"
+    ],
+    "explanation": "外有較白的 predentin 和較深的 dentin",
+    "description": "寫出黃色虛線所指之細胞名稱"
+  },
+  {
+    "num": "210210",
+    "path": "O/210210.webp",
+    "answer": [
+      "circumvallate papilla"
+    ],
+    "explanation": "呈圓拱狀,上皮為 stratified squamous epithelium。CNT 完整進入 papilla,papilla 兩側可見 taste buds。底下有serous glands(紫色較深)。",
+    "description": "寫出黑色框之結構名稱？"
+  },
+  {
+    "num": "210216",
+    "path": "O/210216.webp",
+    "answer": [
+      "Dentin"
+    ],
+    "explanation": "由外而內依序為：ameloblast（整齊排列細胞）、enamel（顏色最深）、dentin（藍色箭頭）、predentin、odontoblast",
+    "description": "箭頭所指為什麼構造？"
+  },
+  {
+    "num": "210225",
+    "path": "O/210225.webp",
+    "answer": [
+      "Ground bone section",
+      "Line of Retzius"
+    ],
+    "explanation": "Line of Retzius為enamel上方較明顯的斜線。其中第一條最深的又特稱Neonatal line。而此玻片有染出Enamel，因此可以確認為Ground bone section。",
+    "description": "請問上方箭頭所指為何種構造？玻片如何製作？"
+  },
+  {
+    "num": "210235",
+    "path": "O/210235.webp",
+    "answer": [
+      "ameloblast"
+    ],
+    "explanation": "夾在深染的 enamel 和兩三層扁平的 stratum intermedium 之 間，為單層柱狀細胞，向內分泌 enamel。",
+    "description": "下圖指的是什麼構造?"
+  },
+  {
+    "num": "204230",
+    "path": "O/204230.webp",
+    "answer": [
+      "Cellular cementum"
+    ],
+    "explanation": "一個個黑色好像水母的，身體是lacuna of cementocyte，觸手是canaliculi\n【出處】共筆Vol.13 P.49",
+    "description": "寫出紅色虛線內整個構造名稱（Be specific）"
+  },
+  {
+    "num": "204231",
+    "path": "O/204231.webp",
+    "answer": [
+      "Taste bud"
+    ],
+    "explanation": "\n【出處】共筆Vol.13 P.13",
+    "description": "請寫出箭號所指之構造名稱"
+  },
+  {
+    "num": "204232",
+    "path": "O/204232.webp",
+    "answer": [
+      "Filiform papilla"
+    ],
+    "explanation": "數量很多，呈錐狀或鐮刀狀，為highly keratinized stratified squamous epithelium，為四種papilla中唯一沒有taste bud的。\n【出處】共筆Vol.13 P.42",
+    "description": "寫出箭號所指範圍內的構造名稱（Be specific）"
+  },
+  {
+    "num": "204233",
+    "path": "O/204233.webp",
+    "answer": [
+      "Ameloblast"
+    ],
+    "explanation": "從外到內依序為，ameloblast（藍箭頭）→enamel→dentin→predentin→odontoblast（黃箭頭）Ameloblast為單層柱狀細胞\n【出處】共筆Vol.13 P.53",
+    "description": "藍箭號所指細胞名稱 （Be specific）"
+  },
+  {
+    "num": "204234",
+    "path": "O/204234.webp",
+    "answer": [
+      "A: Enamel B: Dentin",
+      "Enamel Dentin"
+    ],
+    "explanation": "上面的enamel有淡棕色斜走的incremental line of Retzius，下面的dentin有Tomes’ fiber（線狀）和Interglobular spaces（黑黑一坨一坨）。\n【出處】共筆Vol.13 P.47",
+    "description": "整個範圍是哪兩種構造（A=?, B=?）的交界處"
+  },
+  {
+    "num": "205224",
+    "path": "O/205224.webp",
+    "answer": [
+      "odontoblast"
+    ],
+    "explanation": "外有較白的predentin和較深的dentin。",
+    "description": "箭號所指的細胞為何？"
+  },
+  {
+    "num": "211218",
+    "path": "O/211218.webp",
+    "answer": [
+      "Filiform papilla；keratinized stratified squamous epithelium"
+    ],
+    "explanation": "數量很多，呈典型的錐狀或鐮刀狀，具有 highly keratinized stratified squamous epithelium。",
+    "description": "下方是什麼構造？上皮由何種組織構成？"
+  },
+  {
+    "num": "211220",
+    "path": "O/211220.webp",
+    "answer": [
+      "Decalcified section；Periodontal ligament"
+    ],
+    "explanation": "為 dense CNT，連結 alveolar bone 與 cementum。",
+    "description": "請問以下是什麼製備方式？請問藍線圈起來的是什麼構造？"
+  },
+  {
+    "num": "211222",
+    "path": "O/211222.webp",
+    "answer": [
+      "Tomes’ processes"
+    ],
+    "explanation": "在琺瑯質發育之分泌期，由內釉上皮（inner enamel epithelium）所分化出之成釉細胞（ameloblast）會生成淡染之妥姆斯氏突（Tomes’ process），開始分泌堆積琺瑯質（enamel）。\n（注意題幹所詢問者為構造而非細胞。）",
+    "description": "圖中黃綠色箭頭所指構造名稱為何？"
+  },
+  {
+    "num": "211234",
+    "path": "O/211234.webp",
+    "answer": [
+      "Acellular cementum"
+    ],
+    "explanation": "圖中右側具有明顯線條狀結構dentinal tubules的是dentin。箭頭所指為 dentin外側、root上部的一層乾淨、無細胞(無lacunae)構造，即為Acellular cementum。",
+    "description": "請問藍色箭頭指的是？"
+  },
+  {
+    "num": "209110",
+    "path": "O/209110.webp",
+    "answer": [
+      "Dentin tubules"
+    ],
+    "explanation": "橫走的黑色細線，其中含有odontoblast延伸出的cell process。\n【出處】共筆Vol.13 P.47",
+    "description": "箭頭所指的構造為？"
+  },
+  {
+    "num": "209120",
+    "path": "O/209120.webp",
+    "answer": [
+      "Circumvallate papilla"
+    ],
+    "explanation": "呈圓拱狀，上皮為stratified squamous epithelium。CNT完整進入papilla中，papilla兩側可見taste buds。底下有serous glands（紫色較深）。\n【出處】共筆Vol.13 P.45",
+    "description": "視野中的構造名稱"
+  },
+  {
+    "num": "209129",
+    "path": "O/209129.webp",
+    "answer": [
+      "Stellate reticulum"
+    ],
+    "explanation": "Tooth development中，在inner和outer enamel epithelium之間的疏鬆網狀結構。\n【出處】共筆Vol.13 P.52",
+    "description": "上方指針所指構造為何？"
+  },
+  {
+    "num": "206103",
+    "path": "O/206103.webp",
+    "answer": [
+      "Stellate reticulum"
+    ],
+    "explanation": "Tooth development的apposition stage，在inner和outer enamel epithelium之間的疏鬆網狀結構。 \n【出處】共筆Vol.13 P.53 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "206110",
+    "path": "O/206110.webp",
+    "answer": [
+      "Circumvallate papilla;  舌根",
+      "Circumvallate papilla; terminal sulcus前"
+    ],
+    "explanation": "呈圓拱狀，上皮為stratified squamous epithelium。CNT完整進入papilla中，papilla兩側可見taste buds。底下有 serous glands（紫色較深）。 \n【出處】共筆Vol.14 P.51 ",
+    "description": "框起處為何種構造？分布於人體何處？"
+  },
+  {
+    "num": "206128",
+    "path": "O/206128.webp",
+    "answer": [
+      "Periodontal ligament"
+    ],
+    "explanation": "為dense CNT，連結alveolar bone與cementum。 \n【出處】共筆Vol.14 P.51",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "206132",
+    "path": "O/206132.webp",
+    "answer": [
+      "Dental papilla"
+    ],
+    "explanation": "在 inner enamel epithelium下，細胞密度高，且為多角形的mesenchymal cells，將來會形成dental pulp。\n【出處】共筆Vol.13 P.53 ",
+    "description": "箭頭所指為何種構造？"
+  },
+  {
+    "num": "207103",
+    "path": "O/207103.webp",
+    "answer": [
+      "Stellate reticulum"
+    ],
+    "explanation": "Tooth development的apposition stage，在inner和outer enamel epithelium之間的疏鬆網狀結構。",
+    "description": "下圖中較上方被擋住的構造為何？"
+  },
+  {
+    "num": "207106",
+    "path": "O/207106.webp",
+    "answer": [
+      "Tomes’ fiber"
+    ],
+    "explanation": "Tomes’ fiber為odontoblast 的process，會沿著dentinal tubule，穿過predentin 和 dentin後，往外延伸到dentinoenamel junction。",
+    "description": "紅箭頭所指構造為何？"
+  },
+  {
+    "num": "207107",
+    "path": "O/207107.webp",
+    "answer": [
+      "Periodontal ligament"
+    ],
+    "explanation": "為dense CNT，連結alveolar bone與cementum。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "207129",
+    "path": "O/207129.webp",
+    "answer": [
+      "Circumvallate papilla，在舌根"
+    ],
+    "explanation": "呈圓拱狀，上皮為stratified squamous epithelium。CNT完整進入papilla中，papilla兩側可見taste buds。底下有serous glands（紫色較深）。",
+    "description": "下面構造為何？可在哪裡找到？ "
+  },
+  {
+    "num": "207135",
+    "path": "O/207135.webp",
+    "answer": [
+      "Dentinal tubule; 磨片"
+    ],
+    "explanation": "整顆牙齒ground section，緊臨深色enamel，dentin中有一條條dentinal tubule。",
+    "description": "請問此構造及此玻片製作方式？"
+  },
+  {
+    "num": "203122",
+    "path": "O/203122.webp",
+    "answer": [
+      "Taste bud"
+    ],
+    "explanation": "視野下構造為Foliate Papilla，箭頭為其側邊Taste bud的構造。\n【出處】共筆Vol.13 P.44",
+    "description": "箭號所指的為何？"
+  },
+  {
+    "num": "203123",
+    "path": "O/203123.webp",
+    "answer": [
+      "periodontal membrane"
+    ],
+    "explanation": "圈選的位置在牙齒的alveolar bone和dentin之間，為dense CNT，稱為periodontal membrane。\n【出處】共筆Vol.13 P.50",
+    "description": "箭號所指的為何？"
+  },
+  {
+    "num": "203124",
+    "path": "O/203124.webp",
+    "answer": [
+      "A: enamel B: dentin",
+      "enamel dentin"
+    ],
+    "explanation": "圖中上方A處為enamel，在交界處有黑色的enamel tufts/spindle，下方B處則為dentin，有Tomes’ fiber。\n【出處】共筆Vol.10 P.19",
+    "description": "A和B分別為什麼構造？"
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "num": "b09lab-01",
+    "path": "B09期末考/b09lab-01.webp",
+    "answer": [
+      "acidophil"
+    ],
+    "explanation": "此為腦垂腺前葉切片，視野下呈粉紅色之細胞為 acidophil。",
+    "description": "請問圖中指針所指細胞為何？"
+  },
+  {
+    "num": "b09lab-02",
+    "path": "B09期末考/b09lab-02.webp",
+    "answer": [
+      "granulosa lutein cell"
+    ],
+    "explanation": "此視野下為黃體，細胞大而淡染，需與侵入的 theca lutein cell(圖中下方)區分。除此之外，跟 placenta 構造的區別在於在此視野下看不到 villi 等構造，所以不是 decidual cell。",
+    "description": "請問圖中圈起來的細胞為何？"
+  },
+  {
+    "num": "b09lab-03",
+    "path": "B09期末考/b09lab-03.webp",
+    "answer": [
+      "Zona fasciculata"
+    ],
+    "explanation": "最外層可見 capsule，深色處可見清楚三層結構，箭頭左側為 zona glomerulosa，因此箭頭處為 zona fasciculata。",
+    "description": "請寫出黃色箭頭所涵蓋的構造？"
+  },
+  {
+    "num": "b09lab-05",
+    "path": "B09期末考/b09lab-05.webp",
+    "answer": [
+      "Tunica albuginea"
+    ],
+    "explanation": "右側為 corpus cavernosa，包裹在其外的組織即為 tunica albuginea，充滿 collagen fiber 因此特殊染色呈現藍綠色。",
+    "description": "請問紅色箭頭所指構造？"
+  },
+  {
+    "num": "b09lab-06",
+    "path": "B09期末考/b09lab-06.webp",
+    "answer": [
+      "Decidual cell"
+    ],
+    "explanation": "此組織為 placenta，右上可見 fetal villi。A 處箭頭可見大而細胞質淡染的 decidual cell。",
+    "description": "A 所指構造？"
+  },
+  {
+    "num": "b09lab-07",
+    "path": "B09期末考/b09lab-07.webp",
+    "answer": [
+      "Prostate gland"
+    ],
+    "explanation": "由豐富的 smooth muscle 還有 prostatic concretion(Corpora amylacea)可以判斷。",
+    "description": "問下圖為何構造？"
+  },
+  {
+    "num": "b09lab-08",
+    "path": "B09期末考/b09lab-08.webp",
+    "answer": [
+      "Spermatid"
+    ],
+    "explanation": "Spermatid 靠近 lumen，特徵為小細胞，深染，已經看不見染色質絲。",
+    "description": "請寫出視野下指針所指細胞名稱(黑色箭頭)"
+  },
+  {
+    "num": "b09lab-09",
+    "path": "B09期末考/b09lab-09.webp",
+    "answer": [
+      "glassy membrane basal lamina"
+    ],
+    "explanation": "Basal lamina 增厚形成的透明層，為 atretic follicle 的特徵。",
+    "description": "(A)視野下為何種構造？(B)為何種構造轉變而成？"
+  },
+  {
+    "num": "b09lab-10",
+    "path": "B09期末考/b09lab-10.webp",
+    "answer": [
+      "Outer plexiform layer",
+      "OPL"
+    ],
+    "explanation": "Outer plexiform layer(OPL)：有 rod 和 cone 細胞的 process，在 outer nuclear layer 和 inner nuclear layer 之間。",
+    "description": "請問這是哪一層？(數字 5)"
+  },
+  {
+    "num": "b09lab-11",
+    "path": "B09期末考/b09lab-11.webp",
+    "answer": [
+      "Leydig cell"
+    ],
+    "explanation": "先判斷出旁邊管道為 seminiferous tubule，間質中有 lipid droplets、發達的 sER、 mitochondria 的即為 Leydig cell。",
+    "description": "請寫出視野下細胞名稱？"
+  },
+  {
+    "num": "b09lab-12",
+    "path": "B09期末考/b09lab-12.webp",
+    "answer": [
+      "early secretory phase uterus"
+    ],
+    "explanation": "gland 大量增多，切面呈扭曲狀，但還沒有極度扭曲破碎，因此為 early secretory phase。註：此題無法使用 basal vacuolation 判斷，因解析度差。",
+    "description": "請問視野下的構造是在什麼生理狀態？請寫出器官名稱？"
+  },
+  {
+    "num": "b09lab-13",
+    "path": "B09期末考/b09lab-13.webp",
+    "answer": [
+      "Syncytiotrophoblast"
+    ],
+    "explanation": "判斷方式為明顯的 villi 層狀結構，外層的深染多核為Syncytiotrophoblast。",
+    "description": "請問指針(紅色箭頭)所指為什麼細胞？"
+  },
+  {
+    "num": "b09lab-14",
+    "path": "B09期末考/b09lab-14.webp",
+    "answer": [
+      "lacrimal gland"
+    ],
+    "explanation": "大部分是相對深染的 serous gland，和 parotid gland 類似，但是 fat infiltration 和 duct 較少。",
+    "description": "寫出視野下為何種腺體？"
+  },
+  {
+    "num": "b09lab-15",
+    "path": "B09期末考/b09lab-15.webp",
+    "answer": [
+      "Oviduct Peg cell"
+    ],
+    "explanation": "Oviduct 最內層具指狀突起，由 simple columnar epithelium 構成。Peg cell 不具 cilia 和 basal body，細胞凸向管腔。",
+    "description": "(A) 圖片為何種構造 (B) 紅框所指為何種細胞"
+  },
+  {
+    "num": "b09lab-17",
+    "path": "B09期末考/b09lab-17.webp",
+    "answer": [
+      "Sertoli cell"
+    ],
+    "explanation": "細胞邊界不明顯，核為橢圓或三角形，核仁明顯。",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "b09lab-19",
+    "path": "B09期末考/b09lab-19.webp",
+    "answer": [
+      "Vagina Glycogen"
+    ],
+    "explanation": "上方為 Non-cornified simple squamous epithelium，受 estrogen 影響而分泌 glycogen，褪染後呈空泡狀。下方 lamina propria 具有血管，不具有腺體。",
+    "description": "圖片為何種器官？ 細胞因含有( )，在染色後會呈現空染狀態。"
+  },
+  {
+    "num": "b09lab-20",
+    "path": "B09期末考/b09lab-20.webp",
+    "answer": [
+      "Herring body"
+    ],
+    "explanation": "粉紅色的實心構造，為 neurosecretory vesicles 堆積於 axon terminal。",
+    "description": "藍色圓圈內為何種構造？"
+  },
+  {
+    "num": "b09lab-21",
+    "path": "B09期末考/b09lab-21.webp",
+    "answer": [
+      "Syncytiotrophoblast"
+    ],
+    "explanation": "位於 villi 最外層，多核、細胞融合因此細胞界線不明顯。",
+    "description": "箭頭所指為何種細胞？"
+  },
+  {
+    "num": "b09lab-23",
+    "path": "B09期末考/b09lab-23.webp",
+    "answer": [
+      "Thyroid gland"
+    ],
+    "explanation": "視野下可以看見 thyroid follicles 以及其中的 colloids。",
+    "description": "視野下為何種器官？"
+  },
+  {
+    "num": "b09lab-24",
+    "path": "B09期末考/b09lab-24.webp",
+    "answer": [
+      "Seminal vesicle"
+    ],
+    "explanation": "視野中有整個管子，內皮呈蜂巢高度分支狀，和 prostate state 相比，smooth muscle cell 較少",
+    "description": "視野內構造為何？"
+  },
+  {
+    "num": "b09lab-26",
+    "path": "B09期末考/b09lab-26.webp",
+    "answer": [
+      "Ductus epididymis"
+    ],
+    "explanation": "與 Ductus efferents 相比，可見其管腔表面平滑，epithelium 明顯較高，且表腔面可見一絲一絲的 stereocilia 在其中，且其上皮細胞是 pseudostratified columnar epithelium",
+    "description": "請問圖中右方圈起來的構造為何？"
+  },
+  {
+    "num": "b09lab-27",
+    "path": "B09期末考/b09lab-27.webp",
+    "answer": [
+      "Spiral ganglion"
+    ],
+    "explanation": "圖片右方為 organ of Corti，spiral ganglion 是 cochlear nerve 的 ganglion。",
+    "description": "請問此圖甚麼構造？"
+  },
+  {
+    "num": "b09lab-28",
+    "path": "B09期末考/b09lab-28.webp",
+    "answer": [
+      "Oxyphil"
+    ],
+    "explanation": "視野下為副甲狀腺，可以看到密集的 principal cell 和偏紅色的 oxyphil cell。而 oxyphil cell 較大，胞核間距寬。",
+    "description": "請問箭頭所指的細胞為何？"
+  },
+  {
+    "num": "b09lab-29",
+    "path": "B09期末考/b09lab-29.webp",
+    "answer": [
+      "Granulosa lutein cell"
+    ],
+    "explanation": "此視野下為黃體，細胞淡染，核間距大，為 Granulosa lutein cell ，須與侵入的 theca lutein cell(圖中下方)區分。",
+    "description": "指針圈起的細胞為何？"
+  },
+  {
+    "num": "b09lab-30",
+    "path": "B09期末考/b09lab-30.webp",
+    "answer": [
+      "Scala vestibuli"
+    ],
+    "explanation": "被 Reissner’s membrane 與 Scala media 相隔。可由 organ of Corti 認出 scala media。",
+    "description": "標示的區域為何？"
+  },
+  {
+    "num": "b09lab-31",
+    "path": "B09期末考/b09lab-31.webp",
+    "answer": [
+      "Adrenal medulla"
+    ],
+    "explanation": "可以看出下方 adrenal cortex 的三層分層，由箭頭所指附近的空洞狀構造也可判斷為 medulla。",
+    "description": "箭頭所指構造為何？"
+  },
+  {
+    "num": "b09lab-32",
+    "path": "B09期末考/b09lab-32.webp",
+    "answer": [
+      "A"
+    ],
+    "explanation": "Iris 所在之處為前方。",
+    "description": "哪一側是 lens 的 anterior side？"
+  },
+  {
+    "num": "b09lab-34",
+    "path": "B09期末考/b09lab-34.webp",
+    "answer": [
+      "Organ of Corti"
+    ],
+    "explanation": "介於 scala media 以及 scala tympani 之間的構造即為 organ of Corti。",
+    "description": "寫出框起的構造"
+  },
+  {
+    "num": "b09lab-35",
+    "path": "B09期末考/b09lab-35.webp",
+    "answer": [
+      "Active mammary gland"
+    ],
+    "explanation": "多 glandular system。結締組織和脂肪。",
+    "description": "寫出視野下的構造名稱 (be specific)"
+  }
+]

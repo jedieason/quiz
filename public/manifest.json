@@ -1,0 +1,21 @@
+{
+  "name": "ntumedsa-quiz",
+  "short_name": "臺大醫跑臺",
+  "start_url": "/ntumedsa-quiz/",
+  "display": "standalone",
+  "scope": "/ntumedsa-quiz/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/ntumedsa-quiz/icons/icon-192.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ntumedsa-quiz/icons/icon-512.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,2625 @@
+[
+    {
+        "num": "egg_1",
+        "path": "egg/egg_1.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "大型蟲卵，有卵蓋（為有卵蓋第二大的蟲卵），透明。內含物為一個卵細胞與多個卵黃細胞。要特別留意卵蓋對側有無增厚，若卵蓋對面的卵殼會略增厚，則為Echinostoma spp. (與Fasciola hepatica/Fasciolopsis buski區分，後兩者無增厚，且卵蓋對面卵殼平滑)。Echinostoma malayanum 與 Echinostoma revolutum 蟲卵無法區分。",
+        "description": ""
+    },
+    {
+        "num": "2",
+        "path": "線蟲/IMG_5720.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "為雌性廣東血線蟲成蟲，具有理髮廳標誌 (barber's pole pattern)，此為一條黑色的腸子與一對白色的子宮纏繞形成。雌蟲長度約 2~3 公分。此蟲在人體內不會發育成成蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_2",
+        "path": "egg/egg_2.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲蟲卵。大型蟲卵、長橢圓形、無卵蓋、具有明顯的側刺。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "4",
+        "path": "form/IMG_5722.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體 (cyst)。成熟的cyst具有4個細胞核。可見吸盤 (sucking disc) 的碎片及軸絲 (axonemes)。與Endolimax nana cyst區分：Giardia lamblia cyst的4個核通常偏向一側，整體較長偏卵型；E. nana cyst的核分佈較隨意，整體更圓，且核在顯微鏡下看起來像小點。",
+        "description": ""
+    },
+    {
+        "num": "5",
+        "path": "絛蟲/IMG_5723.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈花瓣狀(rosette-shaped)。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於子宮後面(呈橫的長方形)。寄生人體最大的絛蟲，約3-10公尺。",
+        "description": ""
+    },
+    {
+        "num": "egg_3",
+        "path": "egg/egg_3.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲蟲卵。蟲卵不對稱，似D型（一邊尖一邊鈍）。有卵蓋。內含物為一個卵細胞與多個卵黃細胞。卵殼兩端較尖。需與廣節裂頭絛蟲卵區分，後者卵殼兩端較圓鈍，卵蓋像三角形。",
+        "description": ""
+    },
+    {
+        "num": "7",
+        "path": "原蟲/IMG_5725.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli trophozoite"
+        ],
+        "explanation": "大腸阿米巴營養體 (trophozoite)。僅有一個細胞核。其karyosome (核仁) 在核的偏中心位置 (靶心在旁邊)。會吃細菌，但不會吃RBC。大小：大於20 μm。核周染色質 (peripheral chromatin) 不均勻分佈在細胞核的周圍。",
+        "description": ""
+    },
+    {
+        "num": "8",
+        "path": "絛蟲/IMG_5726.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的受孕體節。體節呈直的長方形。單側子宮分枝數大於15 (通常15-30對)。豬肉絛蟲的單側子宮分枝數則小於13。",
+        "description": ""
+    },
+    {
+        "num": "egg_4",
+        "path": "egg/egg_4.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲蟲卵。大型蟲卵，圓形或橢圓形。無卵蓋。卵殼周圍常附著宿主組織細胞，看起來髒髒的。卵殼上可能有微小、不明顯的側突。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_5",
+        "path": "egg/egg_5.webp",
+        "answer": [
+            "Toxocara canis",
+            "Toxocara cati"
+        ],
+        "explanation": "犬貓蛔蟲卵。圓形，中型。卵殼外表呈現類似高爾夫球表面的坑洞狀 (pitted surface)。內含物可能是卵細胞，或是進一步分化為幼蟲。此蟲卵在人的糞便中不可能出現；若檢出，表示檢體受犬貓糞便污染。犬蛔蟲與貓蛔蟲的蟲卵可不用區分。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_1",
+        "path": "吸蟲/吸蟲_1.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。蟲體扁平葉狀，前端具有明顯的頭錐 (cephalic cone)。口吸盤與腹吸盤差不多大小。腸道、睪丸、卵巢、卵黃腺均呈現高度分枝。在瓶罐中約3公分大小。",
+        "description": ""
+    },
+    {
+        "num": "egg_6",
+        "path": "egg/egg_6.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼厚度為一層殼，很薄。內含物為卵細胞(通常已分裂成數個細胞)或是幼蟲。卵的兩端均較圓鈍。美洲鉤蟲與十二指腸鉤蟲的卵無法區分。需與東方毛線蟲卵區分，後者一端較尖。",
+        "description": ""
+    },
+    {
+        "num": "13",
+        "path": "線蟲/IMG_5731.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲雄蟲。具有交尾囊 (copulatory bursa)，內有兩根分開的交尾刺 (spicules)。",
+        "description": ""
+    },
+    {
+        "num": "14",
+        "path": "絛蟲/IMG_5732.webp",
+        "answer": [
+            "假葉目",
+            "擬葉目",
+            "Pseudophyllidea"
+        ],
+        "explanation": "假葉目(擬葉目)絛蟲成蟲的體節，其生殖孔位於體節的中間。圓葉目絛蟲的生殖孔在體節側面。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "egg_7",
+        "path": "egg/egg_7.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。半橢圓形，一邊平，一邊彎曲，似D型 (像柿的子)。中小型 (比蛔蟲卵略小一點)。卵殼不對稱。剛排出時內含物是卵細胞，在空氣中一段時間後會發育成蝌蚪狀幼蟲。常見於玻璃膠紙上的卵多為內含幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "16",
+        "path": "form/IMG_5734.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi trypomastigote"
+        ],
+        "explanation": "克氏錐蟲的錐鞭毛體 (Trypomastigote)。在血液中，其動基體 (kinetoplast) 為一個大點 (相較於岡比亞/羅得西亞錐蟲的kinetoplast為小點)。具有波動膜。常呈C型或S型。",
+        "description": ""
+    },
+    {
+        "num": "egg_8",
+        "path": "egg/egg_8.webp",
+        "answer": [
+            "Capillaria philippinensis"
+        ],
+        "explanation": "菲律賓毛線蟲卵。長橢圓形，似花生形。重要特徵為兩端各有一個透明的卵塞 (mucoid plug)。卵殼表面有細緻紋路。蟲卵側面觀可見輕微的腰身。",
+        "description": ""
+    },
+    {
+        "num": "18",
+        "path": "原蟲/IMG_5736.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli cyst"
+        ],
+        "explanation": "大腸阿米巴囊體 (cyst)。成熟的cyst大部分有8個細胞核 (痢疾阿米巴成熟cyst為4個核)。需調細調節輪才能看清楚所有核。未成熟囊體的類染色體 (chromatoidal body) 兩邊呈樹枝狀，似掃把狀。",
+        "description": "有大於四個核"
+    },
+    {
+        "num": "19",
+        "path": "絛蟲/IMG_5737.webp",
+        "answer": [
+            "Hymenolepis nana",
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "微小絛蟲或縮小絛蟲的成熟體節。體節呈橫的長方形。具有三個睪丸，兩個在右邊，一個在左邊。生殖孔一律在體節左邊。",
+        "description": ""
+    },
+    {
+        "num": "20",
+        "path": "原蟲/IMG_5738.webp",
+        "answer": [
+            "Acanthamoeba castellanii",
+            "Acanthamoeba castellanii trophozoite"
+        ],
+        "explanation": "棘阿米巴蟲營養體 (trophozoite)。具有透明棘狀偽足 (acanthopodia)。有一個細胞核，其Karyosome (核仁) 很大。",
+        "description": ""
+    },
+    {
+        "num": "21",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5739.webp",
+        "answer": [
+            "bed bug",
+            "臭蟲"
+        ],
+        "explanation": "臭蟲。身體扁平卵圓形，無翅。具有刺吸式口器。六隻腳，腳上無特殊鉤爪。胸部背板前緣凹陷，頭部部分嵌入其中。",
+        "description": ""
+    },
+    {
+        "num": "22",
+        "path": "線蟲/IMG_5740.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊 (buccal capsule) 腹側具有三對腹齒 (ventral teeth)。",
+        "description": ""
+    },
+    {
+        "num": "23",
+        "path": "線蟲/IMG_5741.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲成蟲。長度約1公分。具有頭翼 (cephalic alae) 與食道球 (esophagus bulb)。雄蟲尾部彎曲，只有一根交尾刺。雌蟲尾部平直，身體前1/3處為生殖道開口。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_2",
+        "path": "吸蟲/吸蟲_2.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "此為中華肝吸蟲的第一中間宿主：沼螺 (Parafossarulus manchouricus 或 Bithynia spp.)。特徵是螺殼開口處有蓋子 (operculum)。",
+        "description": ""
+    },
+    {
+        "num": "25",
+        "path": "絛蟲/IMG_5743.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的成熟體節或受孕體節。每一個體節均有兩套生殖系統與兩個位於體節兩側的生殖孔。",
+        "description": ""
+    },
+    {
+        "num": "26",
+        "path": "線蟲/IMG_5744.webp",
+        "answer": [
+            "Trichinella spiralis"
+        ],
+        "explanation": "旋毛蟲幼蟲 (encysted larva) 包裹在肌肉組織中。幼蟲在囊內呈螺旋狀盤捲。",
+        "description": ""
+    },
+    {
+        "num": "egg_9",
+        "path": "egg/egg_9.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲蟲卵。大型蟲卵。無卵蓋。具有一個小小的尾刺 (terminal spine)。內含物為miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_3",
+        "path": "吸蟲/吸蟲_3.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "異形吸蟲成蟲。蟲體小型，梨形。具有三個吸盤：口吸盤、腹吸盤、生殖吸盤 (位於腹吸盤後方)。身體後端有兩個上下斜列之圓形睪丸。身體表面有小刺。",
+        "description": ""
+    },
+    {
+        "num": "29",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5747.webp",
+        "answer": [
+            "tick",
+            "蜱"
+        ],
+        "explanation": "蜱。身體分為顎體 (capitulum/gnathosoma) 和軀體 (idiosoma)。成蟲及若蟲有八隻腳，幼蟲六隻腳。具有口下板 (hypostome) 用於吸血。背部可能有盾板 (scutum)。與蟎區分：蜱體型較大，口下板外露且具倒齒；蟎體型較小。與蝨區分：蝨為昆蟲，六隻腳。",
+        "description": ""
+    },
+    {
+        "num": "30",
+        "path": "form/IMG_5748.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體 (trophozoite)。蟲體梨形。具有一根明顯的軸柱 (axostyle) 貫穿蟲體並突出於後端。具有波動膜 (undulating membrane)，長度約為身體的1/3。有一個細胞核。身體前端有四根前鞭毛，另有一根鞭毛向後延伸構成波動膜邊緣。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_4",
+        "path": "吸蟲/吸蟲_4.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "圖為蜆 (Corbicula spp.)，是棘口吸蟲類 (如馬來棘口吸蟲、外旋棘口吸蟲) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "egg_10",
+        "path": "egg/egg_10.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。大小中型 (約鉤蟲卵大小)。短橢圓形或卵形。有卵蓋 (operculum)，卵蓋對面有時候會有一個小結節 (knob)，像鈕釦一樣。卵殼兩端較圓鈍。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "33",
+        "path": "線蟲/IMG_5751.webp",
+        "answer": [
+            "Dirofilaria immitis"
+        ],
+        "explanation": "犬心絲蟲 (Dirofilaria immitis) 的中間宿主為蚊子，且人不是其最終宿主(FH)，人感染屬於偶然感染，幼蟲可能在人體內移行但通常無法發育為成蟲。",
+        "description": "寫出人不是FH的線蟲"
+    },
+    {
+        "num": "34",
+        "path": "原蟲/IMG_5752.webp",
+        "answer": [
+            "Iodamoeba butschlii",
+            "Iodamoeba buetschlii",
+            "Iodamoeba butschlii cyst",
+            "Iodamoeba buetschlii cyst"
+        ],
+        "explanation": "嗜碘阿米巴囊體 (cyst)。成熟的cyst只有1個細胞核。核內的karyosome (核仁) 很大，常偏在一側，形態不規則 (有時可見核膜與核仁間有纖維連接，似籃子 basket nucleus)。細胞質內有一個很大的糖原泡 (glycogen vacuole)，在新鮮標本中用碘液染色呈棕色。細胞核沒有核周染色質 (peripheral chromatin)。",
+        "description": ""
+    },
+    {
+        "num": "egg_11",
+        "path": "egg/egg_11.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，短橢圓形或圓形。特徵是卵殼外層通常覆有凹凸不平的蛋白膜 (mammillated albuminous coat)，使其邊緣看起來像大波浪。若蛋白膜存在，蟲卵常被膽汁染成淡黃色或金黃色。卵殼本身很厚。內含物為卵細胞或已發育的幼蟲，且內含物與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_5",
+        "path": "吸蟲/吸蟲_5.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體呈短橢圓形，飽滿，似咖啡豆或水煮花生米。體表覆有小棘。具有口吸盤與腹吸盤。卵巢與睪丸均呈不規則指狀分枝 (卵巢分枝似六指琴魔)。在瓶罐中大小約一公分。",
+        "description": ""
+    },
+    {
+        "num": "37",
+        "path": "原蟲/IMG_5755.webp",
+        "answer": [
+            "Plasmodium malariae",
+            "Plasmodium malariae trophozoite"
+        ],
+        "explanation": "三日瘧原蟲感染的紅血球 (RBC) 不會漲大。其晚期營養體 (late trophozoite) 常見特有的帶狀型 (band form)，瘧原蟲橫跨紅血球。沒有許氏點 (Schüffner's dots)。瘧色素較粗。",
+        "description": ""
+    },
+    {
+        "num": "38",
+        "path": "線蟲/IMG_5756.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊 (buccal capsule) 腹側具有兩對腹齒 (ventral teeth)，其中一對較大，一對較小。",
+        "description": ""
+    },
+    {
+        "num": "39",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5757.webp",
+        "answer": [
+            "蟎",
+            "mite"
+        ],
+        "explanation": "蟎。體型微小。成蟲及若蟲有八隻腳，足較短。與蜱區分：蜱體型較大，口下板外露且發達；蟎的口器部分（顎體）相對較小。與蝨區分：蝨為昆蟲，六隻腳。圖中可能為疥蟎，足末端有爪或吸盤，部分足有長毛。",
+        "description": ""
+    },
+    {
+        "num": "40",
+        "path": "form/IMG_5758.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Leishmania donovani",
+            "Trypanosoma cruzi amastigote",
+            "Leishmania donovani amastigote"
+        ],
+        "explanation": "無鞭毛體 (amastigote)。在宿主細胞內，蟲體呈圓形或卵圓形。可見一個較大的細胞核 (大點) 和一個較小的動基體 (kinetoplast，小點)。克氏錐蟲 (T. cruzi) 和利什曼原蟲 (Leishmania spp.) 的無鞭毛體在形態上無法區分。",
+        "description": "寫出生物學名"
+    },
+    {
+        "num": "吸蟲_6",
+        "path": "吸蟲/吸蟲_6.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲。蟲體大型，肉質肥厚，長橢圓形，似薑片。無頭錐 (與牛羊肝吸蟲有頭錐區分)。腹吸盤顯著大於口吸盤 (約為口吸盤之四倍大)。睪丸、卵巢、卵黃腺均呈現高度分枝。腸道沒有分枝 (牛羊肝吸蟲腸道亦高度分枝)。為寄生人體最大的吸蟲，約2-7公分長。",
+        "description": ""
+    },
+    {
+        "num": "42",
+        "path": "線蟲/IMG_5760.webp",
+        "answer": [
+            "Brugia malayi",
+            "Brugia malayi microfilaria"
+        ],
+        "explanation": "馬來絲蟲微絲蚴 (microfilaria)。蟲體外有鞘 (sheath)。重要特徵是身體末端有兩個明顯的尾核 (terminal nuclei)，與蟲體主核柱不連續。身體內的核染色較深，排列較緊密。常見於夜間周邊血。",
+        "description": ""
+    },
+    {
+        "num": "43",
+        "path": "線蟲/IMG_5761.webp",
+        "answer": [
+            "Dracunculus medinensis"
+        ],
+        "explanation": "麥地那線蟲。人是其唯一最終宿主 (F.H.)。其中間宿主為劍水蚤。成蟲寄生於皮下組織。",
+        "description": "請寫出人是FH的線蟲"
+    },
+    {
+        "num": "egg_12",
+        "path": "egg/egg_12.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲蟲卵。卵殼略厚，表面可見放射狀或不規則紋路。卵殼內外膜之間有膠樣物質 (玻璃樣物質)。內含物為六鉤幼蟲 (oncosphere)。其胚膜 (embryophore/胎蟲被殼) 兩端有突起，但沒有極絲 (polar filaments) (與微小絛蟲卵有極絲區分)。",
+        "description": "殼有橫紋"
+    },
+    {
+        "num": "egg_13",
+        "path": "egg/egg_13.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的卵囊 (egg packet/capsule)。每個卵囊內含有多個 (2-40個) 蟲卵。每個蟲卵內均有一個六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "46",
+        "path": "絛蟲/IMG_5764.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的頭節 (scolex)。具有四個吸盤。無額嘴 (rostellum)，亦無鉤 (與豬肉絛蟲頭節有額嘴及兩圈鉤不同)。",
+        "description": ""
+    },
+    {
+        "num": "egg_14",
+        "path": "egg/egg_14.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲卵。形狀似啤酒桶或手榴彈。中型。兩端各有一個透明的黏液栓塞 (mucoid plug)。卵殼較厚，表面光滑，沒有紋路。若被膽汁染色，卵殼會呈黃褐色。內含物為卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "48",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5766.webp",
+        "answer": [
+            "陰蝨",
+            "Crab louse"
+        ],
+        "explanation": "陰蝨 (Phthirus pubis)。蟲體短而寬，略呈螃蟹狀。六隻腳，前對足細小，中後對足粗壯，末端有強大的鉤爪，適於抓握陰毛或粗毛。腹部節片癒合不明顯。",
+        "description": ""
+    },
+    {
+        "num": "egg_15",
+        "path": "egg/egg_15.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。長橢圓形，不對稱。中大型。蟲卵一端有卵蓋 (operculum)，卵蓋對面的卵殼厚度常有不均勻增厚或肩部突起。蟲卵常呈金黃色。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "50",
+        "path": "線蟲/IMG_5768.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊 (buccal capsule) 腹背側各有一對半月形的切板 (cutting plates)。雄蟲有交尾囊，其兩根交尾刺末端癒合形成小倒鉤。",
+        "description": ""
+    },
+    {
+        "num": "51",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5769.webp",
+        "answer": [
+            "跳蚤",
+            "flea"
+        ],
+        "explanation": "跳蚤。蟲體左右扁平。無翅。具有刺吸式口器。六隻腳，後腿強壯有力，適於跳躍。部分種類頭部或前胸背板具有櫛梳 (ctenidia)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_7",
+        "path": "吸蟲/吸蟲_7.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis spp. 或 Segmentina spp.)，是薑片蟲 (Fasciolopsis buski) 的第一中間宿主。螺殼扁平盤繞。",
+        "description": ""
+    },
+    {
+        "num": "53",
+        "path": "原蟲/IMG_5771.webp",
+        "answer": [
+            "Blastocystis hominis",
+            "Blastocystis hominis trophozoite"
+        ],
+        "explanation": "人芽胞原生物。常見形態為中央液泡型 (vacuolar form)，蟲體中央有一個大的液泡，將細胞質和細胞核擠壓到邊緣。可見周圍有多個細胞核。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_8",
+        "path": "吸蟲/吸蟲_8.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis)，是日本血吸蟲 (Schistosoma japonicum) 的唯一中間宿主。螺殼小，呈圓錐形，殼表常有縱肋。體型很小，像小釘子。",
+        "description": ""
+    },
+    {
+        "num": "55",
+        "path": "絛蟲/IMG_5773.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。為乳白色半透明囊泡，內含一個反折的頭節 (scolex)。大小約0.5-1公分。寄生於中間宿主的肌肉等組織中。",
+        "description": ""
+    },
+    {
+        "num": "egg_16",
+        "path": "egg/egg_16.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp. egg)。圓形或略橢圓形。卵殼厚，表面呈放射狀條紋 (似輪胎紋)。內含六鉤幼蟲 (oncosphere 或 hexacanth embryo)。豬肉絛蟲與牛肉絛蟲的蟲卵形態無法區分。",
+        "description": ""
+    },
+    {
+        "num": "57",
+        "path": "原蟲/IMG_5775.webp",
+        "answer": [
+            "Endolimax nana",
+            "Endolimax nana cyst"
+        ],
+        "explanation": "微小阿米巴囊體 (cyst)。大小：小於 10 μm。形狀：短橢圓形。成熟的cyst大部分有4個細胞核。細胞核沒有核周染色質 (peripheral chromatin)。在顯微鏡下，核看起來像4個小點。",
+        "description": "四個核"
+    },
+    {
+        "num": "58",
+        "path": "絛蟲/IMG_5776.webp",
+        "answer": [
+            "Raillietina celebensis"
+        ],
+        "explanation": "西里伯斯雷氏絛蟲的受孕體節，外觀似米粒。",
+        "description": ""
+    },
+    {
+        "num": "59",
+        "path": "線蟲/IMG_5777.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲成蟲。蟲體前3/5細長如鞭狀 (頭部)，後2/5粗大 (尾部)。雄蟲尾部捲曲，具一根交尾刺。雌蟲尾部鈍圓平直。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_9",
+        "path": "吸蟲/吸蟲_9.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是埃及血吸蟲 (Schistosoma haematobium) 的第一中間宿主。特徵是螺殼為左旋 (開口在左邊，尖端朝上時)。",
+        "description": ""
+    },
+    {
+        "num": "61",
+        "path": "線蟲/IMG_5779.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲成蟲。口囊 (buccal capsule) 腹側具有兩對大小差不多的腹齒 (ventral teeth) 及一對副齒。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_10",
+        "path": "吸蟲/吸蟲_10.webp",
+        "answer": [
+            "Dicrocoelium dendriticum"
+        ],
+        "explanation": "槍狀肝吸蟲成蟲。是唯一睪丸在身體前方的吸蟲。蟲體扁平，柳葉狀或槍頭狀。具有兩個睪丸，斜列或並列，位於腹吸盤與卵巢之間。子宮位於身體後半部，盤繞且充滿蟲卵，呈深褐色。",
+        "description": ""
+    },
+    {
+        "num": "63",
+        "path": "線蟲/IMG_5781.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis R-form larva"
+        ],
+        "explanation": "糞線蟲桿狀幼蟲 (Rhabditiform larva, R-form larva)。食道為桿狀，具有食道球。口腔短。具有明顯的生殖原基 (genital primordium)。口腔深度：體寬=1:3。",
+        "description": ""
+    },
+    {
+        "num": "64",
+        "path": "線蟲/IMG_5782.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主之一。",
+        "description": "這是哪隻寄生蟲的IH？"
+    },
+    {
+        "num": "egg_17",
+        "path": "egg/egg_17.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲蟲卵。短橢圓形。中型 (似鉤蟲卵大小)。卵殼很薄且透明。內含六鉤幼蟲。其胚膜 (embryophore/胎蟲被殼) 的兩端有突起，突起處發出6-8條極絲 (polar filaments) 伸向卵殼內膜與外膜之間。",
+        "description": ""
+    },
+    {
+        "num": "66",
+        "path": "原蟲/IMG_5784.webp",
+        "answer": [
+            "Plasmodium falciparum",
+            "Plasmodium falciparum gametocyte"
+        ],
+        "explanation": "惡性瘧原蟲的配子體 (gametocyte)。大小配子均呈特有的香蕉狀或臘腸狀。大配子 (雌配子體) 細胞核較緊密，小配子 (雄配子體) 細胞核較鬆散。均含有瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "egg_18",
+        "path": "egg/egg_18.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲蟲卵。為吸蟲卵中較小者之一。形狀似電燈泡或有肩花瓶。一端有卵蓋 (operculum)，其與卵殼連接處常形成明顯的肩部 (shoulders)。卵蓋對面常有一小突起 (abopercular knob/小逗點)。卵殼表面有網紋或顆粒狀紋路 (似甜瓜子紋)。內含已發育的毛幼 (miracidium)。",
+        "description": ""
+    },
+    {
+        "num": "68",
+        "path": "原蟲/IMG_5786.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica trophozoite"
+        ],
+        "explanation": "痢疾阿米巴營養體 (trophozoite)。僅有一個細胞核。其karyosome (核仁) 在核的中心 (靶心在中心)。核周染色質 (peripheral chromatin) 均勻細緻地分佈在核膜內緣。重要特徵是常可見其吞噬的紅血球 (RBC) 在細胞質內 (呈深色點)。大小：大於20 μm，活動力強，偽足呈指狀快速伸出。",
+        "description": ""
+    },
+    {
+        "num": "69",
+        "path": "form/IMG_5787.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。蟲體呈弓形、新月形或香蕉形，一端較尖，另一端較鈍圓。有一個細胞核，位於蟲體中央或偏後。常見於腹腔滲出液或組織抹片中，可游離或在宿主細胞內。",
+        "description": ""
+    },
+    {
+        "num": "70",
+        "path": "絛蟲/IMG_5788.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲 (有鉤絛蟲) 的頭節 (scolex)。具有四個吸盤。頂端有可伸縮的額嘴 (rostellum)，其上排列有兩圈角質鉤 (hooks)。",
+        "description": ""
+    },
+    {
+        "num": "71",
+        "path": "原蟲/IMG_5789.webp",
+        "answer": [
+            "Isospora belli",
+            "Cystoisospora belli",
+            "Isospora belli mature oocyst",
+            "Cystoisospora belli mature oocyst"
+        ],
+        "explanation": "貝氏等胞球蟲成熟卵囊 (mature oocyst)。卵囊呈橢圓形。內含有2個孢子囊 (sporocyst)。每個孢子囊內又各有4個鐮刀形的 sporozoites (子孢子)。",
+        "description": ""
+    },
+    {
+        "num": "egg_19",
+        "path": "egg/egg_19.webp",
+        "answer": [
+            "Heterophyes heterophyes",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。為最小的吸蟲卵之一。有卵蓋，但卵蓋與卵殼之間無明顯肩膀或突出。卵殼沒有紋路。需與中華肝吸蟲卵區分，後者有肩膀及紋路。",
+        "description": ""
+    },
+    {
+        "num": "73",
+        "path": "form/IMG_5791.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli trophozoite"
+        ],
+        "explanation": "大腸纖毛蟲營養體 (trophozoite)。為人體寄生最大的原蟲。全身披有纖毛。前端有胞口 (cytostome)。具有兩個細胞核：一個豆形或腎臟形的大核 (macronucleus) 和一個位於大核凹陷處的小核 (micronucleus)。",
+        "description": ""
+    },
+    {
+        "num": "egg_20",
+        "path": "egg/egg_20.webp",
+        "answer": [
+            "Capillaria hepatica"
+        ],
+        "explanation": "肝毛線蟲卵。長橢圓形。中型。兩端各有一個透明的卵塞。卵殼有紋路，蟲體看起來微胖，不像菲律賓毛線蟲卵有明顯腰身。若在人的糞檢出現此蟲卵，通常為假性感染 (食入帶蟲動物肝臟所致)。",
+        "description": ""
+    },
+    {
+        "num": "egg_21",
+        "path": "egg/egg_21.webp",
+        "answer": [
+            "Trichostrongylus orientalis"
+        ],
+        "explanation": "東方毛線蟲卵。長橢圓形，一端較尖，另一端較圓鈍。大小比鉤蟲卵大 (約鉤蟲卵的3/2倍)。卵殼薄，透明。內含物若為卵細胞，常見分裂為桑椹期的卵細胞。",
+        "description": ""
+    },
+    {
+        "num": "76",
+        "path": "舌蟲、蛭類、節肢動物/IMG_5794.webp",
+        "answer": [
+            "Armillifer agkistrodontis"
+        ],
+        "explanation": "百步蛇舌形蟲。雌成蟲身體呈念珠狀或佛珠狀，有明顯的環節。雄成蟲較小，環節不明顯。",
+        "description": ""
+    },
+    {
+        "num": "77",
+        "path": "線蟲/IMG_5795.webp",
+        "answer": [
+            "Gnathostoma spinigerum"
+        ],
+        "explanation": "棘顎口線蟲成蟲。長度約 1~5 公分，♂♀尾部均彎曲。具有頭球 (headbulb)，頭球上有4排以上的鉤。身體體表有棘 (spines)。人非其最終宿主 (F.H.)。",
+        "description": ""
+    },
+    {
+        "num": "78",
+        "path": "原蟲/IMG_5796.webp",
+        "answer": [
+            "Plasmodium ovale",
+            "Plasmodium ovale trophozoite"
+        ],
+        "explanation": "卵形瘧原蟲感染的紅血球 (RBC) 會漲大，且常呈卵形，邊緣不規則，似破破爛爛的。有許氏點 (Schüffner's dots)，且較粗大明顯。圖為滋養體。",
+        "description": ""
+    },
+    {
+        "num": "79",
+        "path": "原蟲/IMG_5797.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia trophozoite"
+        ],
+        "explanation": "梨形鞭毛蟲營養體 (trophozoite)。蟲體呈梨形，左右對稱。有2個細胞核。有4對鞭毛。腹面有一個大的吸盤。整體像一個笑臉。具有中體 (median bodies) 和軸絲 (axonemes)。活的trophozoite運動似落葉狀。",
+        "description": ""
+    },
+    {
+        "num": "80",
+        "path": "form/IMG_5798.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞錐蟲或羅得西亞錐蟲的錐鞭毛體 (trypomastigote)。在人體血液中，其動基體 (kinetoplast) 為一個小點 (與克氏錐蟲的大點區分)。具有波動膜。蟲體細長，呈S形或柳葉形。岡比亞錐蟲與羅得西亞錐蟲的trypomastigote形態上無法區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_22",
+        "path": "egg/egg_22.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。大小中型。短橢圓形或卵形。有卵蓋，卵蓋對面有時候會有一個小結節 (像鈕釦)。卵殼兩端較圓鈍。內含物為一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_23",
+        "path": "egg/egg_23.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。長橢圓形，不對稱。中大型。蟲卵一端有卵蓋，卵蓋對面的卵殼厚度常有不均勻增厚，使蟲卵呈金黃色。內含一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_24",
+        "path": "egg/egg_24.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄，透明。內含物通常為已分裂成2-8個細胞的卵細胞。卵的兩端均較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "egg_25",
+        "path": "egg/egg_25.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲蟲卵 (Echinostoma spp.)。大型蟲卵，有卵蓋。特徵是卵蓋對面的卵殼會略增厚。內含一個卵細胞與多個卵黃細胞。馬來棘口吸蟲與外旋棘口吸蟲的卵無法區分。",
+        "description": ""
+    },
+    {
+        "num": "egg_26",
+        "path": "egg/egg_26.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Fasciolopsis buski"
+        ],
+        "explanation": "牛羊肝吸蟲或薑片蟲蟲卵。為最大的吸蟲卵之一。有卵蓋。卵殼薄，透明。卵蓋對面卵殼平滑，無增厚 (與棘口吸蟲卵區分)。內含一個卵細胞與多個卵黃細胞。此兩種蟲卵形態相似，不易區分，通常合稱Fasciola/Fasciolopsis egg。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_11",
+        "path": "吸蟲/吸蟲_11.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "異形吸蟲成蟲。蟲體小型，梨形。具有三個吸盤：口吸盤、腹吸盤、生殖吸盤。身體後端有兩個上下斜列之圓形睪丸。體表有小刺。",
+        "description": ""
+    },
+    {
+        "num": "87",
+        "path": "線蟲/trichruis_adult.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura adult"
+        ],
+        "explanation": "鞭蟲成蟲。蟲體前3/5細長如鞭，後2/5粗大。雄蟲尾部捲曲，雌蟲尾部平直。",
+        "description": ""
+    },
+    {
+        "num": "88",
+        "path": "form/cysticercus.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。為乳白色半透明囊泡 (約0.5-1公分)，形似西米露，內含一個反折的頭節。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_12",
+        "path": "吸蟲/吸蟲_12.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲。蟲體狹長扁平，透明。大小約1-3公分。後方有兩個上下排列、呈樹枝狀分枝的睪丸，其分枝超出腸道。腸管不分枝。無陰莖及陰莖囊。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_13",
+        "path": "吸蟲/吸蟲_13.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲雄蟲。蟲體短粗。身體表面結節細小。腸管在身體中段癒合。睪丸有4-5粒，成團或短列。",
+        "description": ""
+    },
+    {
+        "num": "91",
+        "path": "線蟲/ancylostoma_caninum.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊腹側具有三對腹齒。",
+        "description": ""
+    },
+    {
+        "num": "92",
+        "path": "線蟲/ss_f-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis F-form larva"
+        ],
+        "explanation": "糞線蟲絲狀幼蟲 (Filariform larva, F-form larva)。蟲體細長。無鞘 (與鉤蟲F-form larva有鞘區分)。食道長約為體長的1/2。尾部末端呈倒V字型 (notched tail)。",
+        "description": ""
+    },
+    {
+        "num": "93",
+        "path": "線蟲/brugia-malayi.webp",
+        "answer": [
+            "Brugia malayi"
+        ],
+        "explanation": "馬來絲蟲微絲蚴。蟲體外有鞘。身體末端有兩個明顯分離的尾核。身體內的核染色較深，排列較緊密，不像班氏絲蟲核較鬆散且末端無核。",
+        "description": ""
+    },
+    {
+        "num": "94",
+        "path": "線蟲/IM-0000.webp",
+        "answer": [
+            "Gnathostoma spinigerum"
+        ],
+        "explanation": "棘顎口線蟲成蟲。具有頭球 (headbulb)，頭球上有4排以上的鉤 (幼蟲少於4排)。身體體表有棘。長約1-5公分，雌雄尾部均彎曲。",
+        "description": ""
+    },
+    {
+        "num": "95",
+        "path": "絛蟲/IM-0001.webp",
+        "answer": [
+            "Echinococcus granulosus"
+        ],
+        "explanation": "單包絛蟲成蟲。蟲體微小，僅由頭節、頸部及2-3個體節組成 (通常為未成熟節、成熟節、受孕節各一)。頭節具四吸盤及兩圈鉤。",
+        "description": ""
+    },
+    {
+        "num": "96",
+        "path": "線蟲/IM-0002.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "蛔蟲成蟲。大型線蟲，雌蟲可長達20-35cm，雄蟲15-30cm。蟲體乳白色或淡粉紅色，似蚯蚓。前端有三片唇瓣。雄蟲尾部向腹面彎曲。",
+        "description": ""
+    },
+    {
+        "num": "97",
+        "path": "絛蟲/IM-0003.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。體節寬大於長。生殖孔位於體節腹面中央。子宮呈玫瑰花瓣狀或旋鈕狀，位於體節中央。睪丸及卵黃腺呈濾泡狀散佈於體節兩側。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_14",
+        "path": "吸蟲/吸蟲_14.webp",
+        "answer": [
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲成蟲。蟲體小型，梨形。具有口吸盤、腹吸盤及一個特有的生殖腹吸盤 (acetabulo-genital apparatus)。身體後端有兩個上下斜列之圓形睪丸。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_15",
+        "path": "吸蟲/吸蟲_15.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲雄蟲。蟲體短粗，有抱雌溝。身體表面光滑，無結節。腸管在身體後段癒合。睪丸有7粒，排成一列。",
+        "description": ""
+    },
+    {
+        "num": "100",
+        "path": "絛蟲/IM-0006.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲 (無鉤絛蟲) 的受孕體節。體節呈長方形 (長大於寬)。子宮主幹居中，向兩側發出分支，單側分支數多於15條 (通常15-30條)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_16",
+        "path": "吸蟲/吸蟲_16.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體呈短橢圓形，飽滿。卵巢呈不規則指狀多分枝 (似六指琴魔)。睪丸亦為多分枝狀。口吸盤與腹吸盤大小相近。",
+        "description": ""
+    },
+    {
+        "num": "102",
+        "path": "線蟲/IM-0008.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊腹背側各有一對半月形的切板 (cutting plates)。",
+        "description": ""
+    },
+    {
+        "num": "103",
+        "path": "絛蟲/IM-0009.webp",
+        "answer": [
+            "圓葉目絛蟲",
+            "圓葉目"
+        ],
+        "explanation": "圓葉目絛蟲的體節，其生殖孔位於體節的側面。圖示為連續體節，可見生殖孔交替或單側位於邊緣。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "吸蟲_17",
+        "path": "吸蟲/吸蟲_17.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。蟲體扁平葉狀，前端具有明顯的頭錐。腸道、睪丸、卵巢、卵黃腺均呈現高度分枝。",
+        "description": ""
+    },
+    {
+        "num": "105",
+        "path": "絛蟲/IM-0011.webp",
+        "answer": [
+            "Hymenolepis nana",
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "微小絛蟲或縮小絛蟲的成熟體節。體節呈橫的長方形。具有三個睪丸，兩個在生殖孔的遠端，一個在近端 (通常兩個在右，一個在左)。生殖孔單側開口。",
+        "description": ""
+    },
+    {
+        "num": "106",
+        "path": "線蟲/IM-0012.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊腹側具有兩對腹齒，一對較大，一對較小。",
+        "description": ""
+    },
+    {
+        "num": "107",
+        "path": "線蟲/IM-0013.webp",
+        "answer": [
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "十二指腸鉤蟲成蟲。口囊腹側具有兩對大小差不多的腹齒及一對副齒。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_18",
+        "path": "吸蟲/吸蟲_18.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為菱角或荸薺，是薑片蟲 (Fasciolopsis buski) 的第二中間宿主 (在其表面形成囊狀幼蟲)。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_19",
+        "path": "吸蟲/吸蟲_19.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "圖為沼螺 (Parafossarulus manchouricus 或 Bithynia spp.)，是中華肝吸蟲 (Clonorchis sinensis) 的第一中間宿主。螺殼開口處有蓋子。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "110",
+        "path": "線蟲/IM-0016.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主之一。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_20",
+        "path": "吸蟲/吸蟲_20.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis)，是日本血吸蟲 (Schistosoma japonicum) 的唯一中間宿主。螺殼小而尖長，似釘子。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_21",
+        "path": "吸蟲/吸蟲_21.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體似水煮花生米，約一公分大小，身體小小圓圓。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_22",
+        "path": "吸蟲/吸蟲_22.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Echinostoma revolutum",
+            "Echinostoma malayanum"
+        ],
+        "explanation": "圖為錐實螺 (Lymnaea spp.)。螺殼呈圓錐形，約一公分，最後一螺層膨大。是牛羊肝吸蟲及某些棘口吸蟲的第一中間宿主。需與水泡螺區分，水泡螺為左旋。",
+        "description": "寫出一種以它為中間宿主的蟲？"
+    },
+    {
+        "num": "吸蟲_23",
+        "path": "吸蟲/吸蟲_23.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是埃及血吸蟲 (Schistosoma haematobium) 的第一中間宿主。螺殼為左旋 (尖端朝上，開口在左邊)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_24",
+        "path": "吸蟲/吸蟲_24.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水蟹或淡水蝦，是衛氏肺吸蟲 (Paragonimus westermani) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "116",
+        "path": "線蟲/IM-0022.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為非洲大蝸牛或扁蝸牛，是廣東血線蟲 (Angiostrongylus cantonensis) 的中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_25",
+        "path": "吸蟲/吸蟲_25.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "圖為蜆，是馬來棘口吸蟲 (Echinostoma malayanum) 和外旋棘口吸蟲 (Echinostoma revolutum) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "118",
+        "path": "絛蟲/IM-0024.webp",
+        "answer": [
+            "Gnathostoma spinigerum",
+            "Dracunculus medinensis",
+            "Diphyllobothrium latum",
+            "Spirometra mansoni"
+        ],
+        "explanation": "圖為劍水蚤 (Cyclops)，是棘顎口線蟲 (Gnathostoma spinigerum，人非FH)、麥地那線蟲 (Dracunculus medinensis，人是唯一FH)、廣節裂頭絛蟲 (Diphyllobothrium latum，人是FH) 和曼氏裂頭絛蟲 (Spirometra mansoni，人非FH) 的第一中間宿主。",
+        "description": "寫出一種以它為中間宿主的蟲？"
+    },
+    {
+        "num": "119",
+        "path": "",
+        "answer": [
+            "Wuchereria bancrofti",
+            "Brugia malayi",
+            "Brugia timori",
+            "Dirofilaria immitis"
+        ],
+        "explanation": "蚊子是多種絲蟲的中間宿主，包括班氏絲蟲 (Wuchereria bancrofti)、馬來絲蟲 (Brugia malayi)、帝汶絲蟲 (Brugia timori) 以及犬心絲蟲 (Dirofilaria immitis)。",
+        "description": "寫出一種以蚊子為中間宿主的蟲？"
+    },
+    {
+        "num": "120",
+        "path": "",
+        "answer": [
+            "fly",
+            "蒼蠅"
+        ],
+        "explanation": "Thelazia callipaeda (眼結膜吸吮線蟲) 的中間宿主是某些種類的果蠅或舐食性蠅類。",
+        "description": "寫出Thelazia callipaeda 的中間宿主？（可寫中文）"
+    },
+    {
+        "num": "吸蟲_26",
+        "path": "吸蟲/吸蟲_26.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水蟹，是衛氏肺吸蟲 (Paragonimus westermani) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "122",
+        "path": "",
+        "answer": [
+            "狗蚤",
+            "貓蚤",
+            "狗蝨",
+            "dog flea",
+            "Dog flea",
+            "Cat flea",
+            "cat flea"
+        ],
+        "explanation": "犬絛蟲 (Dipylidium caninum) 的中間宿主主要是狗蚤 (Ctenocephalides canis) 或貓蚤 (Ctenocephalides felis)，偶爾也可是狗蝨 (Trichodectes canis)。",
+        "description": "寫出一種Dipylidium caninum 的中間宿主？（可寫中文）（這題沒圖片）"
+    },
+    {
+        "num": "吸蟲_27",
+        "path": "吸蟲/吸蟲_27.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis spp. 或 Segmentina spp.)，是薑片蟲 (Fasciolopsis buski) 的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "124",
+        "path": "form/IM-0027.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi amastigote",
+            "Leishmania donovani",
+            "Leishmania donovani amastigote"
+        ],
+        "explanation": "無鞭毛體 (amastigote)。可見一個大點 (寄生蟲的細胞核) 與一個小點 (kinetoplast)。在組織細胞內。克氏錐蟲和利什曼原蟲的無鞭毛體形態上難以區分。",
+        "description": ""
+    },
+    {
+        "num": "125",
+        "path": "form/IM-0028.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。蟲體呈弓形或新月形，有一個細胞核。常在腹腔滲出液或組織抹片中發現。",
+        "description": ""
+    },
+    {
+        "num": "126",
+        "path": "原蟲/IM-0029.webp",
+        "answer": [
+            "Cystoisospora belli mature oocyst",
+            "Cystoisospora belli oocyst",
+            "Cystoisospora belli",
+            "Isospora belli mature oocyst",
+            "Isospora belli oocyst",
+            "Isospora belli"
+        ],
+        "explanation": "貝氏等胞球蟲成熟卵囊 (mature oocyst)。內含2個孢子囊 (sporocyst)，每個孢子囊內有4個子孢子 (sporozoites)。",
+        "description": ""
+    },
+    {
+        "num": "127",
+        "path": "form/IM-0030.webp",
+        "answer": [
+            "Plasmodium ovale",
+            "Plasmodium ovale trophozoite"
+        ],
+        "explanation": "卵形瘧原蟲感染的紅血球 (RBC) 會漲大，常呈卵形，邊緣不規則，似破爛。有許氏點 (Schüffner's dots)，且較粗。",
+        "description": ""
+    },
+    {
+        "num": "128",
+        "path": "form/IM-0031.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體。成熟囊體有4個細胞核。可見吸盤碎片和軸絲。與Endolimax nana囊體比較，Giardia的核偏向一側，整體較長卵形。",
+        "description": ""
+    },
+    {
+        "num": "129",
+        "path": "form/Plasmodium_falcipurum_gameto100x.webp",
+        "answer": [
+            "Plasmodium falciparum",
+            "Plasmodium falciparum gametocyte"
+        ],
+        "explanation": "惡性瘧原蟲的配子體，特徵為香蕉狀或臘腸狀。均有瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "130",
+        "path": "form/IM-0032.webp",
+        "answer": [
+            "Plasmodium malariae",
+            "Plasmodium malariae schizont"
+        ],
+        "explanation": "三日瘧原蟲裂殖體 (schizont)。通常含有6-12個裂殖子 (merozoites)，常為8個，排列成玫瑰花環狀或水果拼盤狀。被感染紅血球不漲大。有黃褐色瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "131",
+        "path": "原蟲/C_belli_spore_wtmt1.webp",
+        "answer": [
+            "Cystoisospora belli immature oocyst",
+            "Cystoisospora belli oocyst",
+            "Cystoisospora belli",
+            "Isospora belli immature oocyst",
+            "Isospora belli oocyst",
+            "Isospora belli"
+        ],
+        "explanation": "貝氏等胞球蟲未成熟卵囊 (immature oocyst)。卵囊內通常只有1個孢子母細胞 (sporoblast) 或稱為 sporocyst。",
+        "description": ""
+    },
+    {
+        "num": "132",
+        "path": "form/IM-0033.webp",
+        "answer": [
+            "Plasmodium malariae",
+            "Plasmodium malariae trophozoite"
+        ],
+        "explanation": "三日瘧原蟲營養體。被感染紅血球不漲大。晚期營養體常見帶狀型 (band form)。無許氏點。有瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "133",
+        "path": "form/IM-0034.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli trophozoite"
+        ],
+        "explanation": "大腸阿米巴營養體。其karyosome (核仁) 在核的偏中心位置。細胞質內可見食物泡，含細菌，但不含紅血球。核周染色質不均勻。",
+        "description": ""
+    },
+    {
+        "num": "134",
+        "path": "form/IM-0035.webp",
+        "answer": [
+            "Iodamoeba butschlii cyst",
+            "Iodamoeba buetschlii cyst",
+            "Iodamoeba butschlii",
+            "Iodamoeba buetschlii"
+        ],
+        "explanation": "嗜碘阿米巴囊體。成熟囊體只有1個細胞核，核內karyosome大。細胞質內有大的糖原泡。無核周染色質。",
+        "description": ""
+    },
+    {
+        "num": "135",
+        "path": "form/IM-0036.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia trophozoite"
+        ],
+        "explanation": "梨形鞭毛蟲營養體。梨形，有2個細胞核，4對鞭毛，大吸盤，像笑臉。",
+        "description": ""
+    },
+    {
+        "num": "136",
+        "path": "form/IM-0037.webp",
+        "answer": [
+            "Trypanosoma cruzi trypomastigote",
+            "Trypanosoma cruzi"
+        ],
+        "explanation": "克氏錐蟲錐鞭毛體。血液中，其kinetoplast為一大點。有波動膜。常呈C型或S型。",
+        "description": ""
+    },
+    {
+        "num": "137",
+        "path": "form/IM-0038.webp",
+        "answer": [
+            "Plasmodium vivax",
+            "Plasmodium vivax trophozoite"
+        ],
+        "explanation": "間日瘧原蟲營養體。被感染紅血球漲大。晚期營養體常呈不規則的阿米巴型 (ameboid form)。有細小的許氏點 (Schüffner's dot) 和黃褐色瘧色素。",
+        "description": ""
+    },
+    {
+        "num": "138",
+        "path": "form/IM-0039.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體。有一很明顯的軸柱 (axostyle)。有波動膜，約身體的1/3長。有1個細胞核。身體有四根前鞭毛與一根向後的鞭毛。",
+        "description": ""
+    },
+    {
+        "num": "139",
+        "path": "form/IM-0040.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica cyst"
+        ],
+        "explanation": "痢疾阿米巴囊體。成熟囊體大部分有4個細胞核。需調細調節輪才能看清楚。核仁位於中央，核周染色質均勻。未成熟囊體可見兩端圓鈍似香腸狀的類染色體 (chromatoidal body)。",
+        "description": ""
+    },
+    {
+        "num": "140",
+        "path": "form/IM-0041.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞/羅得西亞錐蟲的錐鞭毛體。血液中，其kinetoplast為一小點。有波動膜。",
+        "description": ""
+    },
+    {
+        "num": "141",
+        "path": "form/IM-0042.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli cyst"
+        ],
+        "explanation": "大腸纖毛蟲囊體。與營養體相似，但多一個囊壁。內有腎臟形的大核和小核。",
+        "description": ""
+    },
+    {
+        "num": "142",
+        "path": "form/IM-0043.webp",
+        "answer": [
+            "Acanthamoeba culbertsoni",
+            "Acanthamoeba castellanii",
+            "Acanthamoeba culbertsoni trophozoite",
+            "Acanthamoeba castellanii trophozoite"
+        ],
+        "explanation": "棘阿米巴蟲營養體。有透明棘狀偽足。一個細胞核，Karyosome很大。",
+        "description": ""
+    },
+    {
+        "num": "143",
+        "path": "form/IM-0044.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica trophozoite"
+        ],
+        "explanation": "痢疾阿米巴營養體。Karyosome在核的中心。核周染色質均勻。常吞噬紅血球。",
+        "description": ""
+    },
+    {
+        "num": "144",
+        "path": "form/IM-0045.webp",
+        "answer": [
+            "Endolimax nana",
+            "Endolimax nana cyst"
+        ],
+        "explanation": "微小阿米巴囊體。成熟囊體大部分有4個細胞核。細胞核無核周染色質，鏡下只看到4個小點。",
+        "description": ""
+    },
+    {
+        "num": "145",
+        "path": "舌蟲、蛭類、節肢動物/IM-0046.webp",
+        "answer": [
+            "蟎",
+            "疥蟎",
+            "Mite",
+            "mite",
+            "itch mite",
+            "Itch mite"
+        ],
+        "explanation": "疥蟎 (Human itch mite)。體型微小，圓形或卵圓形。成蟲八足。表皮有細橫紋及少量剛毛或棘。足短，部分足末端有長吸盤狀構造。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "146",
+        "path": "舌蟲、蛭類、節肢動物/IM-0047.webp",
+        "answer": [
+            "頭蝨",
+            "體蝨",
+            "Human head louse"
+        ],
+        "explanation": "頭蝨或體蝨。蟲體長橢圓形，背腹扁平。六隻腳，足末端有爪適於抓握毛髮。頭蝨通常在頭髮，體蝨在衣物縫線處。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "147",
+        "path": "舌蟲、蛭類、節肢動物/IM-0048.webp",
+        "answer": [
+            "Armillifer agkistrodontis",
+            "Armillifer agkistrodontis adult",
+            "Armillifer agkistrodontis female adult",
+            "Armillifer agkistrodontis 成蟲",
+            "Armillifer agkistrodontis 雌成蟲"
+        ],
+        "explanation": "百步蛇舌形蟲雌成蟲。身體呈念珠狀，有明顯環節。",
+        "description": ""
+    },
+    {
+        "num": "148",
+        "path": "舌蟲、蛭類、節肢動物/IM-0049.webp",
+        "answer": [
+            "tick",
+            "蜱",
+            "Tick"
+        ],
+        "explanation": "蜱。成蟲八足。身體分顎體和軀體。顎體有口下板。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "149",
+        "path": "舌蟲、蛭類、節肢動物/IM-0050.webp",
+        "answer": [
+            "Armillifer agkistrodontis",
+            "Armillifer agkistrodontis larva",
+            "Armillifer agkistrodontis 幼蟲"
+        ],
+        "explanation": "百步蛇舌形蟲幼蟲。蟲體呈C形或環形，有體環。",
+        "description": ""
+    },
+    {
+        "num": "150",
+        "path": "舌蟲、蛭類、節肢動物/IM-0051.webp",
+        "answer": [
+            "Leech",
+            "水蛭",
+            "山蛭",
+            "蛭",
+            "leech"
+        ],
+        "explanation": "蛭類 (Leech)。身體分節，前後端各有一個吸盤，後吸盤較大。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "151",
+        "path": "舌蟲、蛭類、節肢動物/IM-0052.webp",
+        "answer": [
+            "陰蝨",
+            "crab louse"
+        ],
+        "explanation": "陰蝨。蟲體短寬如蟹。中後對足粗壯，末端有強大鉤爪。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "152",
+        "path": "舌蟲、蛭類、節肢動物/IM-0053.webp",
+        "answer": [
+            "臭蟲",
+            "bed bug",
+            "Bed bug"
+        ],
+        "explanation": "臭蟲。身體扁平卵圓形。六足。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "153",
+        "path": "舌蟲、蛭類、節肢動物/IM-0054.webp",
+        "answer": [
+            "Ctenocephalides spp.",
+            "跳蚤",
+            "人蚤",
+            "貓蚤",
+            "狗蚤",
+            "Pulex irritans",
+            "flea",
+            "Flea"
+        ],
+        "explanation": "跳蚤。體側扁。後腿強壯適於跳躍。",
+        "description": "這是什麼？（可寫中文）"
+    },
+    {
+        "num": "154",
+        "path": "線蟲/hookworm-f-form.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale",
+            "Necator americanus  F-form larva",
+            "Ancylostoma duodenale F-form larva"
+        ],
+        "explanation": "鉤蟲絲狀幼蟲 (F-form larva)。有鞘。口部有明顯的槍狀構造 (矛狀食道)。食道長約體長1/3-1/4。尾端尖細。",
+        "description": ""
+    },
+    {
+        "num": "155",
+        "path": "線蟲/trichuris-female.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura female adult"
+        ],
+        "explanation": "鞭蟲雌成蟲。蟲體前3/5細長如鞭，後2/5粗大。雌蟲尾部平直。",
+        "description": ""
+    },
+    {
+        "num": "156",
+        "path": "線蟲/trichuris-male.webp",
+        "answer": [
+            "Trichuris trichiura",
+            "Trichuris trichiura male adult"
+        ],
+        "explanation": "鞭蟲雄成蟲。蟲體前3/5細長如鞭，後2/5粗大。雄蟲尾部向腹面彎曲，有一根交尾刺，交尾刺外面包一層鞘膜。",
+        "description": ""
+    },
+    {
+        "num": "egg_27",
+        "path": "egg/egg_27.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "未受精蛔蟲卵。長橢圓形 (較受精卵狹長)。卵殼較薄。卵細胞與卵殼之間沒有空隙。卵內充滿大小不等油滴狀的屈光性顆粒。外層可有或無蛋白膜。",
+        "description": ""
+    },
+    {
+        "num": "egg_28",
+        "path": "egg/egg_28.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Fasciolopsis buski"
+        ],
+        "explanation": "牛羊肝吸蟲或薑片蟲蟲卵。大型，有卵蓋。卵蓋對面卵殼平滑無增厚。",
+        "description": ""
+    },
+    {
+        "num": "159",
+        "path": "線蟲/hookworm-r-form.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale",
+            "Necator americanus  R-form larva",
+            "Ancylostoma duodenale R-form larva"
+        ],
+        "explanation": "鉤蟲桿狀幼蟲 (R-form larva)。食道為桿狀，具食道球。口腔較長且壁厚。口腔深度：體寬約等於1:1。生殖原基不明顯。",
+        "description": ""
+    },
+    {
+        "num": "160",
+        "path": "線蟲/ss-f-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis F-form larva"
+        ],
+        "explanation": "糞線蟲絲狀幼蟲 (F-form larva)。無鞘。尾部末端呈倒V字型 (notched tail)。",
+        "description": ""
+    },
+    {
+        "num": "161",
+        "path": "舌蟲、蛭類、節肢動物/IM-0055.webp",
+        "answer": [
+            "雜質"
+        ],
+        "explanation": "指針指的是雜質，因為沒有卵殼和內涵物(如卵細胞、幼蟲等寄生蟲結構)。",
+        "description": ""
+    },
+    {
+        "num": "162",
+        "path": "線蟲/ac-snail.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為非洲大蝸牛，是廣東血線蟲的中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "163",
+        "path": "線蟲/ac-snail2.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為扁蝸牛，是廣東血線蟲的中間宿主。與雙臍螺(曼氏血吸蟲IH)及扁蜷(薑片蟲IH)區分：扁蝸牛螺塔較為凸起，不像後兩者螺塔扁平，兩面中央凹陷。",
+        "description": ""
+    },
+    {
+        "num": "egg_29",
+        "path": "egg/egg_29.webp",
+        "answer": [
+            "Metagonimus yokogawai",
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。小型蟲卵。有卵蓋。卵殼沒有紋路。沒有肩膀 (卵蓋與卵殼之間沒有突出)。內含毛幼。",
+        "description": ""
+    },
+    {
+        "num": "egg_30",
+        "path": "egg/egg_30.webp",
+        "answer": [
+            "Metagonimus yokogawai",
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "橫川吸蟲或異形吸蟲蟲卵。小型蟲卵。有卵蓋。卵殼沒有紋路。沒有肩膀。內含毛幼。",
+        "description": ""
+    },
+    {
+        "num": "166",
+        "path": "線蟲/ancly-can.webp",
+        "answer": [
+            "Ancylostoma caninum"
+        ],
+        "explanation": "犬鉤蟲成蟲。口囊腹側有三對腹齒。",
+        "description": ""
+    },
+    {
+        "num": "167",
+        "path": "線蟲/ss-r-form.webp",
+        "answer": [
+            "Strongyloides stercoralis",
+            "Strongyloides stercoralis R-form larva"
+        ],
+        "explanation": "糞線蟲桿狀幼蟲 (R-form larva)。具有明顯的生殖原基。口腔短。口腔深度：體寬=1:3。",
+        "description": ""
+    },
+    {
+        "num": "168",
+        "path": "線蟲/wb.webp",
+        "answer": [
+            "Wuchereria bancrofti"
+        ],
+        "explanation": "班氏絲蟲微絲蚴 (microfilaria)。有鞘 (sheath)。身體末端有一段空白區域，沒有細胞核。身體內的核染色較淺，排列較鬆散。",
+        "description": ""
+    },
+    {
+        "num": "egg_31",
+        "path": "egg/egg_31.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp.)。卵殼厚，表面有放射狀條紋 (似輪胎)。內含六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_32",
+        "path": "egg/egg_32.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata"
+        ],
+        "explanation": "絛蟲卵 (Taenia spp.)。卵殼厚，呈放射狀條紋 (似輪胎)。內含六鉤幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "171",
+        "path": "線蟲/ac-snail3.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為圓田螺 (Cipangopaludina chinensis)，是廣東血線蟲的中間宿主之一。",
+        "description": ""
+    },
+    {
+        "num": "egg_33",
+        "path": "egg/egg_33.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲蟲卵。中大型，長橢圓形，不對稱。有卵蓋。卵蓋對面卵殼有不均勻增厚。呈金黃色。",
+        "description": ""
+    },
+    {
+        "num": "173",
+        "path": "線蟲/al-adult.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "蛔蟲成蟲。大型線蟲，乳白色或淡粉紅色，似蚯蚓。",
+        "description": ""
+    },
+    {
+        "num": "174",
+        "path": "線蟲/IM-0056.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖為福壽螺 (Ampullarium canaliculatus)，是廣東血線蟲的中間宿主之一。",
+        "description": ""
+    },
+    {
+        "num": "175",
+        "path": "線蟲/cp-female.webp",
+        "answer": [
+            "Capillaria philippinensis",
+            "Capillaria philippinensis female adult"
+        ],
+        "explanation": "菲律賓毛線蟲雌成蟲。蟲體細長，由stichocyte組成之stichosome包圍食道。子宮內可見特有的蟲卵 (花生形，兩端有卵塞)。長度約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_28",
+        "path": "吸蟲/吸蟲_28.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。有一個口吸盤和腹吸盤。身體呈短橢圓形，似咖啡豆。卵巢呈指狀分枝 (六指琴魔狀)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_29",
+        "path": "吸蟲/吸蟲_29.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。具有明顯的頭錐。蟲體扁平葉狀。各內部器官均高度分枝。",
+        "description": ""
+    },
+    {
+        "num": "egg_34",
+        "path": "egg/egg_34.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。半橢圓形 (D字型)，一邊平，一邊彎曲。卵殼不對稱。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_30",
+        "path": "吸蟲/吸蟲_30.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲。身體後方有兩個上下排列、呈樹枝狀分枝的睪丸，其分枝超出腸道。無陰莖(cirrus)與陰莖囊(cirrus sac)。",
+        "description": ""
+    },
+    {
+        "num": "egg_35",
+        "path": "egg/egg_35.webp",
+        "answer": [
+            "Capillaria hepatica"
+        ],
+        "explanation": "肝毛線蟲卵。長橢圓形，中型。兩端有透明卵塞。卵殼有紋路。蟲體微胖。若在人糞檢出現為假性感染。",
+        "description": ""
+    },
+    {
+        "num": "egg_36",
+        "path": "egg/egg_36.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲蟲卵。不對稱，一邊尖一邊鈍 (D型)。有卵蓋。卵殼兩端較尖。",
+        "description": ""
+    },
+    {
+        "num": "egg_37",
+        "path": "egg/egg_37.webp",
+        "answer": [
+            "Trichostrongylus orientalis"
+        ],
+        "explanation": "東方毛線蟲卵。長橢圓形，一邊尖一邊圓鈍。大小比鉤蟲卵大。鉤蟲卵約為東方毛線蟲蟲卵的2/3。內含物常見分裂為桑椹期的卵細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_38",
+        "path": "egg/egg_38.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，短橢圓形或圓形。卵殼厚。外層有凹凸不平的蛋白膜 (大波浪)，被膽汁染成淡黃色。卵細胞與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "egg_39",
+        "path": "egg/egg_39.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。中型，卵殼很厚。外圍有不規則沉積的蛋白膜。內含物(卵細胞)與卵殼兩端之間有空隙。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_31",
+        "path": "吸蟲/吸蟲_31.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲。無頭錐 (與牛羊肝吸蟲區分)。腹吸盤約為口吸盤之四倍大。睪丸、卵巢、卵黃腺均呈現高度分枝。腸道沒有分枝。為寄生人體最大的吸蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_40",
+        "path": "egg/egg_40.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲蟲卵。大型蟲卵，圓形或橢圓形。無卵蓋。卵殼周圍常附著宿主組織，看起來髒髒的。內含miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "187",
+        "path": "form/trichinella-cyst.webp",
+        "answer": [
+            "Trichinella spiralis",
+            "Trichinella spiralis encysted larva"
+        ],
+        "explanation": "旋毛蟲幼蟲包囊 (encysted larva) 在肌肉組織中。囊內幼蟲呈螺旋狀。",
+        "description": ""
+    },
+    {
+        "num": "egg_41",
+        "path": "egg/egg_41.webp",
+        "answer": [
+            "Capillaria philippinensis"
+        ],
+        "explanation": "菲律賓毛線蟲卵。長橢圓形，似花生形。兩端有透明卵塞。卵殼有紋路。蟲體有腰身。",
+        "description": ""
+    },
+    {
+        "num": "189",
+        "path": "線蟲/anal-swab.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "此為玻璃膠紙肛圍擦拭法採集蟯蟲卵的用具。",
+        "description": ""
+    },
+    {
+        "num": "egg_42",
+        "path": "egg/egg_42.webp",
+        "answer": [
+            "Enterobius vermicularis"
+        ],
+        "explanation": "蟯蟲卵。中小型。卵殼不對稱，一邊平，一邊彎曲 (D型)。內含物為卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_43",
+        "path": "egg/egg_43.webp",
+        "answer": [
+            "Trichuris trichiura"
+        ],
+        "explanation": "鞭蟲卵。中型，啤酒桶形或手榴彈形。兩端各有一個透明的卵塞。卵殼較厚，表面光滑，無紋路。被膽汁染後呈黃褐色。",
+        "description": ""
+    },
+    {
+        "num": "egg_44",
+        "path": "egg/egg_44.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄，透明。卵的兩端均較圓鈍。內含卵細胞或幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "egg_45",
+        "path": "egg/egg_45.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。卵殼厚度：一層殼，很薄。 內含物：卵細胞或是幼蟲。 卵的兩端均較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "egg_46",
+        "path": "egg/egg_46.webp",
+        "answer": [
+            "Necator americanus",
+            "Ancylostoma duodenale"
+        ],
+        "explanation": "鉤蟲蟲卵。橢圓形，中小型。卵殼薄。卵兩端較圓鈍。",
+        "description": ""
+    },
+    {
+        "num": "195",
+        "path": "線蟲/na.webp",
+        "answer": [
+            "Necator americanus"
+        ],
+        "explanation": "美洲鉤蟲成蟲。口囊 (buccal capsule) 有一對腹齒板 (cutting plates)。雄蟲有交尾囊，兩根交尾刺末端癒合有小倒鉤。長度約1公分。",
+        "description": ""
+    },
+    {
+        "num": "196",
+        "path": "線蟲/ac-ih.webp",
+        "answer": [
+            "Angiostrongylus cantonensis"
+        ],
+        "explanation": "圖中為蛞蝓，是廣東血線蟲的中間宿主。",
+        "description": "請寫出這是哪隻寄生蟲的IH"
+    },
+    {
+        "num": "197",
+        "path": "舌蟲、蛭類、節肢動物/IM-0057.webp",
+        "answer": [
+            "雜質"
+        ],
+        "explanation": "指針指的是雜質。因為沒有內涵物(如卵細胞、幼蟲等)。要判斷為蟲卵，必須要有卵殼和內涵物，缺一不可。",
+        "description": ""
+    },
+    {
+        "num": "egg_47",
+        "path": "egg/egg_47.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲蟲卵。大型蟲卵、有卵蓋、透明。卵蓋對面的卵殼會略增厚（與牛羊肝吸蟲/薑片蟲卵殼平滑區分）。內含一個卵細胞與多個卵黃細胞。",
+        "description": ""
+    },
+    {
+        "num": "egg_48",
+        "path": "egg/egg_48.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲蟲卵。大型蟲卵、長橢圓形。無卵蓋。具有一個明顯的側刺。內含miracidium毛幼。",
+        "description": ""
+    },
+    {
+        "num": "200",
+        "path": "線蟲/cp-male.webp",
+        "answer": [
+            "Capillaria philippinensis",
+            "Capillaria philippinensis male adult"
+        ],
+        "explanation": "菲律賓毛線蟲雄成蟲。蟲體細長，由stichocyte組成之stichosome包圍食道。雄蟲有一根很長的交尾刺。長度約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "egg_49",
+        "path": "egg/egg_49.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。中型，約鉤蟲卵大小。短橢圓形或卵形。有卵蓋。卵殼兩端較圓鈍。卵蓋對面有時候會有一個小結節，像鈕釦一樣。",
+        "description": ""
+    },
+    {
+        "num": "egg_50",
+        "path": "egg/egg_50.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲蟲卵。中型，短橢圓形或卵形。有卵蓋。卵殼兩端較圓鈍。卵蓋對面有時有小結節。",
+        "description": ""
+    },
+    {
+        "num": "egg_51",
+        "path": "egg/egg_51.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲蟲卵。短橢圓形，中型(鉤蟲卵大小)。卵殼很薄且透明。內含六鉤幼蟲。胎蟲胚殼的兩端有突起，突起處發出6-8條極絲。與縮小絛蟲卵區分，後者無極絲且卵殼有紋路。",
+        "description": ""
+    },
+    {
+        "num": "egg_52",
+        "path": "egg/egg_52.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。卵殼外層有凹凸不平的蛋白膜 (大波浪)。",
+        "description": ""
+    },
+    {
+        "num": "egg_53",
+        "path": "egg/egg_53.webp",
+        "answer": [
+            "Ascaris lumbricoides"
+        ],
+        "explanation": "受精蛔蟲卵。卵殼厚，外有蛋白膜沉積。內含物與卵殼兩端有空隙。",
+        "description": ""
+    },
+    {
+        "num": "206",
+        "path": "線蟲/t-spiral-female.webp",
+        "answer": [
+            "Trichinella spiralis",
+            "Trichinella spiralis female adult"
+        ],
+        "explanation": "旋毛蟲雌成蟲。蟲體前端由stichocyte組成stichosome包圍食道。雌蟲為胎生，子宮內可見許多幼蟲。長約0.3公分。",
+        "description": ""
+    },
+    {
+        "num": "egg_54",
+        "path": "egg/egg_54.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲蟲卵。卵殼有紋路，有玻璃樣物質。內含物為六鉤幼蟲。胎蟲被殼的兩端有突起，但沒有極絲 (與微小絛蟲卵有極絲區分)。",
+        "description": ""
+    },
+    {
+        "num": "208",
+        "path": "線蟲/a-duo-male.webp",
+        "answer": [
+            "Ancylostoma duodenale",
+            "Ancylostoma duodenale male adult"
+        ],
+        "explanation": "十二指腸鉤蟲雄蟲。尾部有交尾囊，內有兩根分開的交尾刺。",
+        "description": ""
+    },
+    {
+        "num": "209",
+        "path": "線蟲/a-cey.webp",
+        "answer": [
+            "Ancylostoma ceylanicum"
+        ],
+        "explanation": "錫蘭鉤蟲成蟲。口囊腹側有兩對腹齒，一對大一對小，形態似鳥嘴。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_32",
+        "path": "吸蟲/吸蟲_32.webp",
+        "answer": [
+            "Echinostoma revolutum"
+        ],
+        "explanation": "外旋棘口吸蟲成蟲。口吸盤附近有排列成馬蹄形的棘。有兩個上下排列的睪丸，睪丸呈圓形。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_33",
+        "path": "吸蟲/吸蟲_33.webp",
+        "answer": [
+            "Echinostoma malayanum"
+        ],
+        "explanation": "馬來棘口吸蟲成蟲。口吸盤附近有排列成馬蹄形的棘。有兩個上下排列的睪丸，睪丸呈樹枝狀。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_34",
+        "path": "吸蟲/吸蟲_34.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲類頭部特徵。口吸盤附近有排列成馬蹄形的頭棘 (collar spines)。大小約1公分。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_35",
+        "path": "吸蟲/吸蟲_35.webp",
+        "answer": [
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲成蟲。有生殖腹吸盤 (acetabulo-genital apparatus)。身體後端有兩個上下斜列之圓形睪丸。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_36",
+        "path": "吸蟲/吸蟲_36.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲雄蟲。雄蟲短粗，有抱雌溝。身體表面光滑，無結節。腸子在身體後段癒合。睪丸有7粒，排成一列。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_37",
+        "path": "吸蟲/吸蟲_37.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲雄蟲。雄蟲身體表面結節明顯。腸子在身体前段癒合。睪丸有6-9粒，排成兩排。雌蟲卵巢位於身體前段。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_38",
+        "path": "吸蟲/吸蟲_38.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲雄蟲。雄蟲身體表面結節細小。腸子在身体中段癒合。睪丸有4-5粒。雌蟲卵巢位於身体後段。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_39",
+        "path": "吸蟲/吸蟲_39.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲 (瓶罐標本)。看起來像水煮花生米，約一公分大小，身體小小圓圓。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_40",
+        "path": "吸蟲/吸蟲_40.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲 (瓶罐標本)。看起來像水煮花生米。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_41",
+        "path": "吸蟲/吸蟲_41.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲 (瓶罐標本)。蟲體有點厚，像薑片一樣。約2-7公分大小。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_42",
+        "path": "吸蟲/吸蟲_42.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲 (瓶罐標本)。蟲體厚實，似薑片。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_43",
+        "path": "吸蟲/吸蟲_43.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲 (瓶罐標本)。看起來扁扁的，約3公分大小，可以看到頭錐。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_44",
+        "path": "吸蟲/吸蟲_44.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲 (瓶罐標本)。身體是透明的，約1-3公分大小。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_45",
+        "path": "吸蟲/吸蟲_45.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水螃蟹或淡水蝦，是衛氏肺吸蟲的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_46",
+        "path": "吸蟲/吸蟲_46.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為菱角或荸薺，是薑片蟲的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_47",
+        "path": "吸蟲/吸蟲_47.webp",
+        "answer": [
+            "Paragonimus westermani",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "圖為川蜷 (Semisulcospira libertina)，其尖端常磨損斷頭，是衛氏肺吸蟲和橫川吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_48",
+        "path": "吸蟲/吸蟲_48.webp",
+        "answer": [
+            "Paragonimus westermani",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "圖為瘤蜷 (Thiara granifera)，螺殼表面有小突起像長了瘤，是衛氏肺吸蟲和橫川吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_49",
+        "path": "吸蟲/吸蟲_49.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Echinostoma revolutum",
+            "Echinostoma malayanum"
+        ],
+        "explanation": "圖為錐實螺 (Lymnaea swinhoei)，約一公分，最後一螺層很大，是牛羊肝吸蟲、馬來棘口吸蟲、外旋棘口吸蟲的第一中間宿主。需與水泡螺區分，水泡螺開口在左邊。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_50",
+        "path": "吸蟲/吸蟲_50.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis cantori 或 Segmentina spp.)，是薑片蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_51",
+        "path": "吸蟲/吸蟲_51.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "圖為錐形小塔螺 (Pirenella conica，俗稱燒酒螺)，是異形吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_52",
+        "path": "吸蟲/吸蟲_52.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis nosophora)，很小很小像小釘子，是日本血吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_53",
+        "path": "吸蟲/吸蟲_53.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "圖為雙臍螺 (Biomphalaria spp.)，銅板大小，正反面各有一個凹陷，是曼氏血吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_54",
+        "path": "吸蟲/吸蟲_54.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是唯一左旋的螺 (尖端朝上，開口朝上，開口在左邊)，是埃及血吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "233",
+        "path": "絛蟲/IM-0067.webp",
+        "answer": [
+            "假葉目",
+            "假葉目絛蟲",
+            "擬葉目",
+            "擬葉目絛蟲"
+        ],
+        "explanation": "假葉目(擬葉目)絛蟲成蟲，其生殖孔在體節的中間。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "234",
+        "path": "絛蟲/IM-0068.webp",
+        "answer": [
+            "圓葉目",
+            "圓葉目絛蟲"
+        ],
+        "explanation": "圓葉目絛蟲，其生殖孔在體節的側面。",
+        "description": "這是圓葉目絛蟲還是擬葉目絛蟲？"
+    },
+    {
+        "num": "235",
+        "path": "form/cysticercus-1.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus)。約一公分大小橢圓形囊泡，內有一個白色的頭節。",
+        "description": ""
+    },
+    {
+        "num": "236",
+        "path": "form/cysticercus-2.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "豬肉絛蟲或牛肉絛蟲的囊尾幼蟲 (cysticercus) 在肌肉組織中。呈橢圓形囊泡，內含頭節。",
+        "description": ""
+    },
+    {
+        "num": "237",
+        "path": "form/cysticercus-3.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "238",
+        "path": "form/cysticercus-4.webp",
+        "answer": [
+            "Taenia solium",
+            "Taenia saginata",
+            "Taenia solium cysticercus",
+            "Taenia saginata cysticercus"
+        ],
+        "explanation": "囊尾幼蟲 (Cysticercus)，約一公分大小，橢圓形，內有一個頭節。為豬肉絛蟲或牛肉絛蟲的幼蟲。",
+        "description": ""
+    },
+    {
+        "num": "239",
+        "path": "form/e-g-protoscolex.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "240",
+        "path": "form/e-g-protoscolex-2.webp",
+        "answer": [
+            "Echinococcus granulosus",
+            "Echinococcus granulosus protoscolex"
+        ],
+        "explanation": "單包絛蟲的原頭節 (protoscolex)。從包生囊 (hydatid cyst)中釋出，形態很像小香菇。具有吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "241",
+        "path": "絛蟲/pseudophyllidea.webp",
+        "answer": [
+            "Diphyllobothrium latum",
+            "Spirometra mansoni"
+        ],
+        "explanation": "假葉目絛蟲的頭節。特徵是頭節兩側各有一條縱走的吸溝 (bothria)，無吸盤和鉤。",
+        "description": ""
+    },
+    {
+        "num": "242",
+        "path": "絛蟲/taeni-solium.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲的頭節。有四個吸盤，頂端有額嘴，額嘴上有兩圈鉤。",
+        "description": ""
+    },
+    {
+        "num": "243",
+        "path": "絛蟲/taeni-sagi.webp",
+        "answer": [
+            "Taenia saginata"
+        ],
+        "explanation": "牛肉絛蟲的頭節。有四個吸盤，無額嘴，無鉤。",
+        "description": ""
+    },
+    {
+        "num": "244",
+        "path": "絛蟲/h-nana.webp",
+        "answer": [
+            "Hymenolepis nana"
+        ],
+        "explanation": "微小絛蟲的頭節。有四個吸盤，具可伸縮的額嘴，額嘴上有一圈鉤。有明顯的頸部。",
+        "description": ""
+    },
+    {
+        "num": "245",
+        "path": "絛蟲/h-diminuta.webp",
+        "answer": [
+            "Hymenolepis diminuta"
+        ],
+        "explanation": "縮小絛蟲的頭節。有四個吸盤，額嘴退化無鉤。看起來沒有明顯頸部。",
+        "description": ""
+    },
+    {
+        "num": "246",
+        "path": "絛蟲/dipy.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的頭節。有四個吸盤，具可伸縮的額嘴，額嘴上有數排(通常3-4排)玫瑰刺狀的小鉤。",
+        "description": ""
+    },
+    {
+        "num": "247",
+        "path": "絛蟲/r-cele.webp",
+        "answer": [
+            "Raillietina celebensis"
+        ],
+        "explanation": "台灣絛蟲(亞洲雷公絛蟲)的頭節。具有四個吸盤，吸盤上佈滿小鉤。額嘴上也有多圈鎚狀鉤。",
+        "description": ""
+    },
+    {
+        "num": "248",
+        "path": "絛蟲/d-latum.webp",
+        "answer": [
+            "Diphyllobothrium latum"
+        ],
+        "explanation": "廣節裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈花瓣狀。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於子宮後面。",
+        "description": ""
+    },
+    {
+        "num": "249",
+        "path": "絛蟲/spirometra.webp",
+        "answer": [
+            "Spirometra mansoni"
+        ],
+        "explanation": "曼氏裂頭絛蟲的成熟體節。生殖孔在體節中間，有子宮孔。子宮呈霜淇淋狀(螺旋狀)。睪丸與卵黃腺呈濾泡狀，散布在體節兩側。卵巢呈塊狀，位於體節後面。",
+        "description": ""
+    },
+    {
+        "num": "250",
+        "path": "絛蟲/taenia-solium.webp",
+        "answer": [
+            "Taenia solium"
+        ],
+        "explanation": "豬肉絛蟲的受孕體節。呈直的長方形。單側子宮分枝數小於13 (通常7-12對)，分枝粗呈樹枝狀。",
+        "description": ""
+    },
+    {
+        "num": "251",
+        "path": "絛蟲/dipy-segment.webp",
+        "answer": [
+            "Dipylidium caninum"
+        ],
+        "explanation": "犬絛蟲的成熟或受孕體節。每一個體節均有兩套生殖系統與兩個位於體節兩側的生殖孔。受孕體節內充滿卵囊。",
+        "description": ""
+    },
+    {
+        "num": "252",
+        "path": "form/bal-coli-cyst.webp",
+        "answer": [
+            "Balantidium coli",
+            "Balantidium coli cyst"
+        ],
+        "explanation": "大腸纖毛蟲囊體。圓形或卵圓形。有囊壁。內可見腎臟形的大核及小核。",
+        "description": ""
+    },
+    {
+        "num": "253",
+        "path": "form/gl-tro.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia trophozoite"
+        ],
+        "explanation": "梨形鞭毛蟲營養體。有2個細胞核，4對鞭毛，一個大的腹吸盤。像一個笑臉。有中體和軸絲。活體運動似落葉狀。",
+        "description": ""
+    },
+    {
+        "num": "254",
+        "path": "form/gb-cyst.webp",
+        "answer": [
+            "Giardia lamblia",
+            "Giardia lamblia cyst"
+        ],
+        "explanation": "梨形鞭毛蟲囊體。成熟囊體有4個細胞核。有吸盤的碎片和軸絲。",
+        "description": ""
+    },
+    {
+        "num": "255",
+        "path": "form/t-vaginalis-tro.webp",
+        "answer": [
+            "Trichomonas vaginalis",
+            "Trichomonas vaginalis trophozoite"
+        ],
+        "explanation": "陰道滴蟲營養體。有一很明顯的軸柱 (axostyle)。有波動膜，約身體的1/3長。有1個細胞核。身體有四根前鞭毛與一根向後的鞭毛。",
+        "description": ""
+    },
+    {
+        "num": "256",
+        "path": "form/t-brucei-trypo.webp",
+        "answer": [
+            "Trypanosoma brucei gambiense",
+            "Trypanosoma brucei rhodesiense",
+            "Trypanosoma brucei gambiense trypomastigote",
+            "Trypanosoma brucei rhodesiense trypomastigote",
+            "Trypanosoma gambiense",
+            "Trypanosoma rhodesiense",
+            "Trypanosoma gambiense trypomastigote",
+            "Trypanosoma rhodesiense trypomastigote"
+        ],
+        "explanation": "岡比亞/羅得西亞錐蟲的錐鞭毛體。在人體血液中，其kinetoplast為一個小點。有波動膜。此兩種錐蟲的trypomastigote無法區分。",
+        "description": ""
+    },
+    {
+        "num": "257",
+        "path": "form/t-cruzi-trypo.webp",
+        "answer": [
+            "Trypanosoma cruzi",
+            "Trypanosoma cruzi trypomastigote"
+        ],
+        "explanation": "克氏錐蟲的錐鞭毛體。血液中，其kinetoplast為一個大點。有波動膜。",
+        "description": ""
+    },
+    {
+        "num": "258",
+        "path": "form/toxoplamsa-tachy.webp",
+        "answer": [
+            "Toxoplasma gondii",
+            "Toxoplasma gondii tachyzoite"
+        ],
+        "explanation": "弓形蟲速殖子 (tachyzoite)。在腹腔滲出液中，有一個細胞核，像新月形。",
+        "description": ""
+    },
+    {
+        "num": "259",
+        "path": "form/pf-ring-form.webp",
+        "answer": [
+            "Plasmodium falciparum",
+            "Plasmodium falciparum ring form"
+        ],
+        "explanation": "惡性瘧原蟲的配子體呈香蕉狀。其環狀體(ring form trophozoite)常見於血液抹片，可見多個環狀體感染同一紅血球，或貼邊環 (appliqué form)。",
+        "description": ""
+    },
+    {
+        "num": "260",
+        "path": "form/p-vivax-amoeba-form.webp",
+        "answer": [
+            "Plasmodium vivax",
+            "Plasmodium vivax trophozoite"
+        ],
+        "explanation": "間日瘧原蟲。被感染紅血球漲大。早期營養體為環狀體 (ring-form)，約RBC直徑1/3。晚期營養體常見阿米巴型 (ameboid form)。各時期均有細小許氏點 (Schüffner's dot)與黃褐色瘧色素。裂殖體有12-24個裂殖子(通常16個)。",
+        "description": ""
+    },
+    {
+        "num": "261",
+        "path": "form/p-ovale.webp",
+        "answer": [
+            "Plasmodium ovale",
+            "Plasmodium ovale trophozoite"
+        ],
+        "explanation": "卵形瘧原蟲滋養體。被感染紅血球漲大，且常呈卵形，邊緣破破爛爛的。有許氏點，且很粗。",
+        "description": ""
+    },
+    {
+        "num": "262",
+        "path": "form/e-h-cyst.webp",
+        "answer": [
+            "Entamoeba histolytica",
+            "Entamoeba histolytica cyst"
+        ],
+        "explanation": "痢疾阿米巴囊體。成熟囊體大部分有4個細胞核。未成熟囊體的類染色體 (chromatoidal body) 兩邊圓鈍，似香腸狀。囊體大小大於10 μm。",
+        "description": "4個核"
+    },
+    {
+        "num": "263",
+        "path": "form/ent-coli-cyst.webp",
+        "answer": [
+            "Entamoeba coli",
+            "Entamoeba coli cyst"
+        ],
+        "explanation": "大腸阿米巴囊體。成熟囊體大部分有8個細胞核。需調細調節輪才能看清楚。未成熟囊體的類染色體兩邊呈樹枝狀，似掃把狀。囊體大小大於10 μm。",
+        "description": "8個核"
+    },
+    {
+        "num": "264",
+        "path": "form/e-nana-cyst.webp",
+        "answer": [
+            "Endolimax nana",
+            "Endolimax nana cyst"
+        ],
+        "explanation": "微小阿米巴囊體。大小：小於10 μm。形狀：短橢圓形。成熟囊體大部分有4個細胞核。細胞核沒有核周染色質。顯微鏡下，只看到4個小點。",
+        "description": "4個核"
+    },
+    {
+        "num": "265",
+        "path": "form/acanth.webp",
+        "answer": [
+            "Acanthamoeba castellanii",
+            "Acanthamoeba castellanii trophozoite"
+        ],
+        "explanation": "棘阿米巴蟲營養體。有透明棘狀偽足。一個細胞核，Karyosome很大。",
+        "description": ""
+    },
+    {
+        "num": "266",
+        "path": "原蟲/blast-hom.webp",
+        "answer": [
+            "Blastocystis hominis",
+            "Blastocystis hominis trophozoite"
+        ],
+        "explanation": "人芽胞原生物營養體。常見型態為中間有一大空泡，周圍有多個細胞核。",
+        "description": ""
+    },
+    {
+        "num": "267",
+        "path": "舌蟲、蛭類、節肢動物/leech.webp",
+        "answer": [
+            "Leech",
+            "水蛭",
+            "山蛭",
+            "蛭",
+            "leech",
+            "land leech"
+        ],
+        "explanation": "蛭類。身體分節，前後端各有一個吸盤。",
+        "description": ""
+    }
+]

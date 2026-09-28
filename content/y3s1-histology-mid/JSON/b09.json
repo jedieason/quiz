@@ -1,0 +1,292 @@
+[
+    {
+        "num": "b09_01",
+        "path": "b09/b09_01.webp",
+        "answer": [
+            "Heterochromatin"
+        ],
+        "explanation": "細胞核外圍為深染的heterochromatin，中間為核仁，之間的淺色區域為euchromatin。",
+        "description": "黃色箭頭所指的構造為何？（不要理紅色圈圈）"
+    },
+    {
+        "num": "b09_02",
+        "path": "b09/b09_02.webp",
+        "answer": [
+            "Elastic membrane"
+        ],
+        "explanation": "為辨識Elastic a.、Muscular a.的重要landmark，富含elastic fiber，可被Orcein特殊染色。",
+        "description": "深色線條構造名稱？"
+    },
+    {
+        "num": "b09_03",
+        "path": "b09/b09_03.webp",
+        "answer": [
+            "A"
+        ],
+        "explanation": "A可見許多process，為白質。",
+        "description": "請問 A 和 B 哪一區是白質？"
+    },
+    {
+        "num": "b09_04",
+        "path": "b09/b09_04.webp",
+        "answer": [
+            "Dense body",
+            "delta granule"
+        ],
+        "explanation": "血小板細胞質中散佈的小黑點狀構造為dense body。",
+        "description": "請問箭頭所指胞器名稱"
+    },
+    {
+        "num": "b09_05",
+        "path": "b09/b09_05.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圖片偏上方有一整片淡黃色不規則狀的組織，帶有許多小細胞，推測為骨小針(bone spicules)。箭頭所指細胞附於骨小針周圍，細胞大、多核、顏色偏紅，為osteoclast的特徵。",
+        "description": "下列圖片中 A,B 所指構造為何？"
+    },
+    {
+        "num": "b09_06",
+        "path": "b09/b09_06.webp",
+        "answer": [
+            "Clathrin-coated vesicle"
+        ],
+        "explanation": "網狀球體為有clathrin包覆的vesicle。",
+        "description": "圖中箭頭所指構造名稱？"
+    },
+    {
+        "num": "b09_07",
+        "path": "b09/b09_07.webp",
+        "answer": [
+            "Reticular connective tissue"
+        ],
+        "explanation": "黑色纖維呈隔間網絡狀分布，為reticular fiber最大特徵，而銀染(silver stain)下的reticular fiber呈黑色。",
+        "description": "下圖為何種組織？"
+    },
+    {
+        "num": "b09_08",
+        "path": "b09/b09_08.webp",
+        "answer": [
+            "Mast cell",
+            "Metachromasia"
+        ],
+        "explanation": "Metachromasia: Toluidine blue stains granules被mast cell中的大量陰離子抓住，使染劑折射率改變(藍色變為紫紅色)。",
+        "description": "請問下列呈紅色的細胞為何？並寫出將染劑由藍轉紅的特性為何？"
+    },
+    {
+        "num": "b09_09",
+        "path": "b09/b09_09.webp",
+        "answer": [
+            "Smooth muscle/Cardiac muscle"
+        ],
+        "explanation": "心肌細胞橫切面空隙較多。",
+        "description": "下列圖片中 A,B 各為何？(格式:A構造名稱/B構造名稱)"
+    },
+    {
+        "num": "b09_10",
+        "path": "b09/b09_10.webp",
+        "answer": [
+            "Plasma cell"
+        ],
+        "explanation": "此為plasma cell分布於組織間微血管的視野，其核為車輪狀，且核被發達的golgi擠到細胞邊邊。",
+        "description": "箭頭所指的細胞為何？"
+    },
+    {
+        "num": "b09_11",
+        "path": "b09/b09_11.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "此為EM下的影像，箭頭所指的構造縱切呈現管狀，橫切面則可明顯發現由9×3的管狀構造構成，即可知此構造為centriole。",
+        "description": "箭頭所指為何構造？"
+    },
+    {
+        "num": "b09_12",
+        "path": "b09/b09_12.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "長短不一不規則狀，為副睪和內耳毛細胞特有構造。",
+        "description": "圖中為何種組織？"
+    },
+    {
+        "num": "b09_13",
+        "path": "b09/b09_13.webp",
+        "answer": [
+            "A: tendon B: skeletal muscle fiber",
+            "tendon skeletal muscle fiber"
+        ],
+        "explanation": "上方組織多核、有橫紋、核位於邊緣，為骨骼肌。下方組織核長條狀、無橫紋、核位於細胞中央、不規則fiber多，為dense regular CNT。",
+        "description": "寫出 A,B 的構造分別為何？"
+    },
+    {
+        "num": "b09_14",
+        "path": "b09/b09_14.webp",
+        "answer": [
+            "Astrocyte"
+        ],
+        "explanation": "存在於CNS中，背景深染，因此為白質內的fibrous astrocyte，process較細長、分岔較少。",
+        "description": "箭頭所指細胞為何？(silver stain)"
+    },
+    {
+        "num": "b09_15",
+        "path": "b09/b09_15.webp",
+        "answer": [
+            "Elastic fiber"
+        ],
+        "explanation": "此為loose CNT，纖維較細、色深且會分岔者為Elastic fiber；纖維較粗、淡粉紅色者為Collagen fiber。",
+        "description": "圖中紫色細線為何種構造？"
+    },
+    {
+        "num": "b09_16",
+        "path": "b09/b09_16.webp",
+        "answer": [
+            "A: non-cornified stratified squamous epithelium B: dense irregular connective tissue",
+            "non-cornified stratified squamous epithelium dense irregular connective tissue"
+        ],
+        "explanation": "(A) 多層細胞，越上面越扁平，最表面一層為squamous，且表面無角質化，所以是non-cornified stratified squamous epithelium。(B) 分布在表皮下方的真皮(dermis)。",
+        "description": "圖中 A,B 分別為何種組織？"
+    },
+    {
+        "num": "b09_17",
+        "path": "b09/b09_17.webp",
+        "answer": [
+            "Cilium"
+        ],
+        "explanation": "紅色箭頭的突出物為cilium，而下方黃色箭頭則是basal body。",
+        "description": "紅色箭頭下構造為何？（不要理黃色箭頭）"
+    },
+    {
+        "num": "b09_18",
+        "path": "b09/b09_18.webp",
+        "answer": [
+            "Purkinje cell",
+            "of cerebellum"
+        ],
+        "explanation": "細胞呈現錐形，在granule cell layer跟molecular layer之間，為小腦重要辨別特徵。",
+        "description": "箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b09_19",
+        "path": "b09/b09_19.webp",
+        "answer": [
+            "brown adipose tissue/white adipose tissue"
+        ],
+        "explanation": "A:細胞核在中間，一個細胞含有多個脂肪油滴。B:中間融合一個大脂肪油滴，細胞核和其他胞器被擠到邊緣。",
+        "description": "寫出 A,B 分別為何種組織？(格式:A組織/B組織)"
+    },
+    {
+        "num": "b09_20",
+        "path": "b09/b09_20.webp",
+        "answer": [
+            "Simple cuboidal epithelium"
+        ],
+        "explanation": "細胞形狀為立方體，細胞核排列在細胞正中央。 （圖中不是goblet cell，應為follicular cell進行endocytosis所致）",
+        "description": "圖中為何種組織？"
+    },
+    {
+        "num": "b09_21",
+        "path": "b09/b09_21.webp",
+        "answer": [
+            "A: cardiac muscle cell B: Purkinje fiber",
+            "cardiac muscle cell Purkinje fiber"
+        ],
+        "explanation": "由細胞核在細胞中間可辨認為心肌細胞，非skeletal muscle cell，而Purkinje cell為特化心肌細胞，顏色更淺、細胞更大。",
+        "description": "寫出 A,B 分別為何種細胞？"
+    },
+    {
+        "num": "b09_22",
+        "path": "b09/b09_22.webp",
+        "answer": [
+            "Smooth muscle cell"
+        ],
+        "explanation": "不具橫紋、細胞呈紡錘形，可知為smooth muscle cell。",
+        "description": "寫出箭頭所指細胞名稱？"
+    },
+    {
+        "num": "b09_23",
+        "path": "b09/b09_23.webp",
+        "answer": [
+            "Sympathetic ganglion",
+            "multipolar neuron"
+        ],
+        "explanation": "Sympathetic ganglion細胞核偏心satellite cell密度低",
+        "description": "圖中為何種構造？"
+    },
+    {
+        "num": "b09_24",
+        "path": "b09/b09_24.webp",
+        "answer": [
+            "Mitochondrion"
+        ],
+        "explanation": "內膜有褶皺，為mitochondria重要辨認特徵。",
+        "description": "箭頭所指為何種構造？"
+    },
+    {
+        "num": "b09_25",
+        "path": "b09/b09_25.webp",
+        "answer": [
+            "Ground bone section",
+            "Haversian canal"
+        ],
+        "explanation": "保留無機物成分，觀察硬骨，而Haversian system呈現層狀的同心圓，是compact bone的基本組成。",
+        "description": "寫出以下組織製備方式以及黃色箭頭所指構造名稱？（不要理紅色箭頭）"
+    },
+    {
+        "num": "b09_26",
+        "path": "b09/b09_26.webp",
+        "answer": [
+            "Elastic cartilage",
+            "orcein stain"
+        ],
+        "explanation": "Elastic cartilage需要特殊染色，orcein stain下為紅棕色。",
+        "description": "寫出下圖組織及染色方式分別為何？"
+    },
+    {
+        "num": "b09_27",
+        "path": "b09/b09_27.webp",
+        "answer": [
+            "A: fibrous cartilage B: tendon",
+            "fibrous cartilage tendon"
+        ],
+        "explanation": "A:有lacuna，是chondrocyte，又排列整齊鏈狀，所以是fibrous cartilage。B:核長条型，fiber走向固定，為tendon。",
+        "description": "寫出 A,B 分別為何種組織？"
+    },
+    {
+        "num": "b09_28",
+        "path": "b09/b09_28.webp",
+        "answer": [
+            "Node of Ranvier"
+        ],
+        "explanation": "神經系統中未包覆myelin sheath的junction為蘭氏節(node of Ranvier)。",
+        "description": "下圖白線所指為何構造？"
+    },
+    {
+        "num": "b09_29",
+        "path": "b09/b09_29.webp",
+        "answer": [
+            "Venule"
+        ],
+        "explanation": "不規則，內皮薄、管徑比arteriole大。",
+        "description": "下圖綠色圈起處為何種構造？"
+    },
+    {
+        "num": "b09_30",
+        "path": "b09/b09_30.webp",
+        "answer": [
+            "Ependymal cell"
+        ],
+        "explanation": "在腦室系統中可見，為Simple cuboidal epithelium或Simple columnar epithelium。",
+        "description": "紅色箭頭所指為何種細胞？"
+    },
+    {
+        "num": "b09_31",
+        "path": "b09/b09_31.webp",
+        "answer": [
+            "A: tunica adventitia B: vasa vasorum",
+            "tunica adventitia vasa vasorum"
+        ],
+        "explanation": "在血管分層中最外層的為tunica adventitia，其中可能有vasa vasorum幫忙運輸養分及廢物。",
+        "description": "寫出圖中為何種組織以及紅線匡起處為何構造？"
+    }
+]

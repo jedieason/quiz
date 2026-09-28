@@ -1,0 +1,170 @@
+[
+    {
+        "num": "B05_1",
+        "path": "B05/B05_1.webp",
+        "answer": [
+            "Anterior belly of digastric m.",
+            "Anterior belly of digastric muscle"
+        ],
+        "explanation": "",
+        "description": ""
+    },
+    {
+        "num": "B05_2",
+        "path": "B05/B05_2.webp",
+        "answer": [
+            "Left recurrent laryngeal n.",
+            "Left recurrent laryngeal nerve"
+        ],
+        "explanation": "走在 trachea 旁，把 thyroid 移除後可見。",
+        "description": ""
+    },
+    {
+        "num": "B05_3",
+        "path": "B05/B05_3.webp",
+        "answer": [
+            "Infraorbital n.",
+            "Infraorbital nerve"
+        ],
+        "explanation": "與 Infraorbital v./a.，一起從 infraorbital foramen 走 出。",
+        "description": ""
+    },
+    {
+        "num": "B05_4",
+        "path": "B05/B05_4.webp",
+        "answer": [
+            "Anterior scalene m.",
+            "Anterior scalene muscle"
+        ],
+        "explanation": "C3-C6 transverse process -> R1 scalene tubercle。 此 為重要 landmark：(1) phrenic n.橫越其上，(2)把 SCA 分成三段，(3)遮住 brachial plexus 的 trunk， (4)transverse cervical a.、suprascapular a.橫越其 上。",
+        "description": ""
+    },
+    {
+        "num": "B05_5",
+        "path": "B05/B05_5.webp",
+        "answer": [
+            "Facial a.",
+            "Facial artery"
+        ],
+        "explanation": "和 facial v.區分方法是看在 mandible 下緣附近有沒 有蜿蜒曲折(facial a.有 )。",
+        "description": ""
+    },
+    {
+        "num": "B05_6",
+        "path": "B05/B05_6.webp",
+        "answer": [
+            "Buccinator m.",
+            "Buccinator muscle"
+        ],
+        "explanation": "(1) fiber 和 orbicularis oris 不可分離 (2)parotid duct 會鑽入它，進到 2nd maxillary molar 的地方。順帶 一提，這個大體老師有兩個 parotid duct(黑色箭頭 所指處)，不過這不是重點 。其他：染紅色者為 facial a.，旁邊藍色的為 facial v.。",
+        "description": ""
+    },
+    {
+        "num": "B05_7",
+        "path": "B05/B05_7.webp",
+        "answer": [
+            "Inferior thyroid a.",
+            "Inferior thyroid artery"
+        ],
+        "explanation": "為 thyrocervical trunk 的分支。",
+        "description": ""
+    },
+    {
+        "num": "B05_8",
+        "path": "B05/B05_8.webp",
+        "answer": [
+            "Trochlear n.",
+            "Trochlear nerve"
+        ],
+        "explanation": "先找到 oculomotor n. 在哪裡，然後 trochlear n. 會 出現在它的外側 後方。Trochlear n. 還有一個特點，那就是在這一帶的(與 CN III、V、VI 相比)腦神經中 ，Trochlear n.相對 來說算是比較細的。",
+        "description": ""
+    },
+    {
+        "num": "B05_9",
+        "path": "B05/B05_9.webp",
+        "answer": [
+            "Inferior oblique m.",
+            "Inferior oblique muscle"
+        ],
+        "explanation": "可由位置及走向判斷，由 oculomotor n. 支配，從 maxillary bone → lateral wall of eyeball。",
+        "description": ""
+    },
+    {
+        "num": "B05_10",
+        "path": "B05/B05_10.webp",
+        "answer": [
+            "Transverse sinus"
+        ],
+        "explanation": "橫走的 sinus。",
+        "description": ""
+    },
+    {
+        "num": "B05_11",
+        "path": "B05/B05_11.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "由包覆 spinal cord 的 pia 向外延伸，與 dura 黏在一 起的構造 。功能是將 spinal cord 固定在 dura 上， 有 21 對。",
+        "description": ""
+    },
+    {
+        "num": "B05_12",
+        "path": "B05/B05_12.webp",
+        "answer": [
+            "Internal carotid a.",
+            "Internal carotid artery"
+        ],
+        "explanation": "由 common carotid artery 分支出 internal 和 external carotid artery，internal 在後。",
+        "description": ""
+    },
+    {
+        "num": "B05_13",
+        "path": "B05/B05_13.webp",
+        "answer": [
+            "Superficial temporal a. Auriculotemporal n.",
+            "Superficial temporal artery Auriculotemporal nerve"
+        ],
+        "explanation": "Superficial temporal a.位於 TM joint 與 auricle 之 間。Auriculotemporal n.：sensory branch of CN V3， mandibular nerve。兩者與 superficial temporal vein 伴行走在耳前。",
+        "description": ""
+    },
+    {
+        "num": "B05_14",
+        "path": "B05/B05_14.webp",
+        "answer": [
+            "Superior cerebellar a.",
+            "Superior cerebellar artery"
+        ],
+        "explanation": "與前方 posterior cerebral a. 夾住 oculomotor n.(CN3)。",
+        "description": ""
+    },
+    {
+        "num": "B05_15",
+        "path": "B05/B05_15.webp",
+        "answer": [
+            "Nasociliary n.",
+            "Nasociliary nerve"
+        ],
+        "explanation": "此圖需先分辨左方為 medial side，nasociliary nerve 從 lateral side 跨過 optic nerve 至其 medial side，走 在 SO 旁邊或下面、MR 上方、trochlear nerve 下 方，常與 ophthalmic artery 伴行。其他：1 = optic nerve、2 = superior oblique muscle、3 = nasociliary nerve、4 = lacrimal artery",
+        "description": ""
+    },
+    {
+        "num": "B05_16",
+        "path": "B05/B05_16.webp",
+        "answer": [
+            "Abducens n.",
+            "Abducens nerve"
+        ],
+        "explanation": "從 pons 和 medulla oblongata 交界處中央發出。",
+        "description": ""
+    },
+    {
+        "num": "B05_17",
+        "path": "B05/B05_17.webp",
+        "answer": [
+            "Trochlea of superior oblique m.",
+            "Trochlea of superior oblique muscle"
+        ],
+        "explanation": "Origin：sphenoid bone，不是 common tendinous ring。 Insertion：eyeball(posterior equator line of eyeball)",
+        "description": ""
+    }
+]

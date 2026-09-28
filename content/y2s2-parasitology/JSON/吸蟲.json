@@ -1,0 +1,497 @@
+[
+    {
+        "num": "吸蟲_1",
+        "path": "吸蟲/吸蟲_1.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。蟲體扁平葉狀，前端具有明顯的頭錐 (cephalic cone)。口吸盤與腹吸盤差不多大小。腸道、睪丸、卵巢、卵黃腺均呈現高度分枝。在瓶罐中約3公分大小。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_2",
+        "path": "吸蟲/吸蟲_2.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "此為中華肝吸蟲的第一中間宿主：沼螺 (Parafossarulus manchouricus 或 Bithynia spp.)。特徵是螺殼開口處有蓋子 (operculum)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_3",
+        "path": "吸蟲/吸蟲_3.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "異形吸蟲成蟲。蟲體小型，梨形。具有三個吸盤：口吸盤、腹吸盤、生殖吸盤 (位於腹吸盤後方)。身體後端有兩個上下斜列之圓形睪丸。身體表面有小刺。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_4",
+        "path": "吸蟲/吸蟲_4.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "圖為蜆 (Corbicula spp.)，是棘口吸蟲類 (如馬來棘口吸蟲、外旋棘口吸蟲) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_5",
+        "path": "吸蟲/吸蟲_5.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體呈短橢圓形，飽滿，似咖啡豆或水煮花生米。體表覆有小棘。具有口吸盤與腹吸盤。卵巢與睪丸均呈不規則指狀分枝 (卵巢分枝似六指琴魔)。在瓶罐中大小約一公分。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_6",
+        "path": "吸蟲/吸蟲_6.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲。蟲體大型，肉質肥厚，長橢圓形，似薑片。無頭錐 (與牛羊肝吸蟲有頭錐區分)。腹吸盤顯著大於口吸盤 (約為口吸盤之四倍大)。睪丸、卵巢、卵黃腺均呈現高度分枝。腸道沒有分枝 (牛羊肝吸蟲腸道亦高度分枝)。為寄生人體最大的吸蟲，約2-7公分長。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_7",
+        "path": "吸蟲/吸蟲_7.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis spp. 或 Segmentina spp.)，是薑片蟲 (Fasciolopsis buski) 的第一中間宿主。螺殼扁平盤繞。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_8",
+        "path": "吸蟲/吸蟲_8.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis)，是日本血吸蟲 (Schistosoma japonicum) 的唯一中間宿主。螺殼小，呈圓錐形，殼表常有縱肋。體型很小，像小釘子。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_9",
+        "path": "吸蟲/吸蟲_9.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是埃及血吸蟲 (Schistosoma haematobium) 的第一中間宿主。特徵是螺殼為左旋 (開口在左邊，尖端朝上時)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_10",
+        "path": "吸蟲/吸蟲_10.webp",
+        "answer": [
+            "Dicrocoelium dendriticum"
+        ],
+        "explanation": "槍狀肝吸蟲成蟲。是唯一睪丸在身體前方的吸蟲。蟲體扁平，柳葉狀或槍頭狀。具有兩個睪丸，斜列或並列，位於腹吸盤與卵巢之間。子宮位於身體後半部，盤繞且充滿蟲卵，呈深褐色。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_11",
+        "path": "吸蟲/吸蟲_11.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "異形吸蟲成蟲。蟲體小型，梨形。具有三個吸盤：口吸盤、腹吸盤、生殖吸盤。身體後端有兩個上下斜列之圓形睪丸。體表有小刺。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_12",
+        "path": "吸蟲/吸蟲_12.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲。蟲體狹長扁平，透明。大小約1-3公分。後方有兩個上下排列、呈樹枝狀分枝的睪丸，其分枝超出腸道。腸管不分枝。無陰莖及陰莖囊。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_13",
+        "path": "吸蟲/吸蟲_13.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲雄蟲。蟲體短粗。身體表面結節細小。腸管在身體中段癒合。睪丸有4-5粒，成團或短列。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_14",
+        "path": "吸蟲/吸蟲_14.webp",
+        "answer": [
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲成蟲。蟲體小型，梨形。具有口吸盤、腹吸盤及一個特有的生殖腹吸盤 (acetabulo-genital apparatus)。身體後端有兩個上下斜列之圓形睪丸。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_15",
+        "path": "吸蟲/吸蟲_15.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲雄蟲。蟲體短粗，有抱雌溝。身體表面光滑，無結節。腸管在身體後段癒合。睪丸有7粒，排成一列。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_16",
+        "path": "吸蟲/吸蟲_16.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體呈短橢圓形，飽滿。卵巢呈不規則指狀多分枝 (似六指琴魔)。睪丸亦為多分枝狀。口吸盤與腹吸盤大小相近。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_17",
+        "path": "吸蟲/吸蟲_17.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。蟲體扁平葉狀，前端具有明顯的頭錐。腸道、睪丸、卵巢、卵黃腺均呈現高度分枝。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_18",
+        "path": "吸蟲/吸蟲_18.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為菱角或荸薺，是薑片蟲 (Fasciolopsis buski) 的第二中間宿主 (在其表面形成囊狀幼蟲)。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_19",
+        "path": "吸蟲/吸蟲_19.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "圖為沼螺 (Parafossarulus manchouricus 或 Bithynia spp.)，是中華肝吸蟲 (Clonorchis sinensis) 的第一中間宿主。螺殼開口處有蓋子。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_20",
+        "path": "吸蟲/吸蟲_20.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis)，是日本血吸蟲 (Schistosoma japonicum) 的唯一中間宿主。螺殼小而尖長，似釘子。",
+        "description": "這是誰的中間宿主？"
+    },
+    {
+        "num": "吸蟲_21",
+        "path": "吸蟲/吸蟲_21.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。蟲體似水煮花生米，約一公分大小，身體小小圓圓。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_22",
+        "path": "吸蟲/吸蟲_22.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Echinostoma revolutum",
+            "Echinostoma malayanum"
+        ],
+        "explanation": "圖為錐實螺 (Lymnaea spp.)。螺殼呈圓錐形，約一公分，最後一螺層膨大。是牛羊肝吸蟲及某些棘口吸蟲的第一中間宿主。需與水泡螺區分，水泡螺為左旋。",
+        "description": "寫出一種以它為中間宿主的蟲？"
+    },
+    {
+        "num": "吸蟲_23",
+        "path": "吸蟲/吸蟲_23.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是埃及血吸蟲 (Schistosoma haematobium) 的第一中間宿主。螺殼為左旋 (尖端朝上，開口在左邊)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_24",
+        "path": "吸蟲/吸蟲_24.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水蟹或淡水蝦，是衛氏肺吸蟲 (Paragonimus westermani) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_25",
+        "path": "吸蟲/吸蟲_25.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "圖為蜆，是馬來棘口吸蟲 (Echinostoma malayanum) 和外旋棘口吸蟲 (Echinostoma revolutum) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_26",
+        "path": "吸蟲/吸蟲_26.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水蟹，是衛氏肺吸蟲 (Paragonimus westermani) 的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_27",
+        "path": "吸蟲/吸蟲_27.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis spp. 或 Segmentina spp.)，是薑片蟲 (Fasciolopsis buski) 的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_28",
+        "path": "吸蟲/吸蟲_28.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲。有一個口吸盤和腹吸盤。身體呈短橢圓形，似咖啡豆。卵巢呈指狀分枝 (六指琴魔狀)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_29",
+        "path": "吸蟲/吸蟲_29.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲。具有明顯的頭錐。蟲體扁平葉狀。各內部器官均高度分枝。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_30",
+        "path": "吸蟲/吸蟲_30.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲。身體後方有兩個上下排列、呈樹枝狀分枝的睪丸，其分枝超出腸道。無陰莖(cirrus)與陰莖囊(cirrus sac)。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_31",
+        "path": "吸蟲/吸蟲_31.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲。無頭錐 (與牛羊肝吸蟲區分)。腹吸盤約為口吸盤之四倍大。睪丸、卵巢、卵黃腺均呈現高度分枝。腸道沒有分枝。為寄生人體最大的吸蟲。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_32",
+        "path": "吸蟲/吸蟲_32.webp",
+        "answer": [
+            "Echinostoma revolutum"
+        ],
+        "explanation": "外旋棘口吸蟲成蟲。口吸盤附近有排列成馬蹄形的棘。有兩個上下排列的睪丸，睪丸呈圓形。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_33",
+        "path": "吸蟲/吸蟲_33.webp",
+        "answer": [
+            "Echinostoma malayanum"
+        ],
+        "explanation": "馬來棘口吸蟲成蟲。口吸盤附近有排列成馬蹄形的棘。有兩個上下排列的睪丸，睪丸呈樹枝狀。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_34",
+        "path": "吸蟲/吸蟲_34.webp",
+        "answer": [
+            "Echinostoma malayanum",
+            "Echinostoma revolutum"
+        ],
+        "explanation": "棘口吸蟲類頭部特徵。口吸盤附近有排列成馬蹄形的頭棘 (collar spines)。大小約1公分。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_35",
+        "path": "吸蟲/吸蟲_35.webp",
+        "answer": [
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "橫川吸蟲成蟲。有生殖腹吸盤 (acetabulo-genital apparatus)。身體後端有兩個上下斜列之圓形睪丸。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_36",
+        "path": "吸蟲/吸蟲_36.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "日本血吸蟲雄蟲。雄蟲短粗，有抱雌溝。身體表面光滑，無結節。腸子在身體後段癒合。睪丸有7粒，排成一列。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_37",
+        "path": "吸蟲/吸蟲_37.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "曼氏血吸蟲雄蟲。雄蟲身體表面結節明顯。腸子在身体前段癒合。睪丸有6-9粒，排成兩排。雌蟲卵巢位於身體前段。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_38",
+        "path": "吸蟲/吸蟲_38.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "埃及血吸蟲雄蟲。雄蟲身體表面結節細小。腸子在身体中段癒合。睪丸有4-5粒。雌蟲卵巢位於身体後段。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_39",
+        "path": "吸蟲/吸蟲_39.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲 (瓶罐標本)。看起來像水煮花生米，約一公分大小，身體小小圓圓。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_40",
+        "path": "吸蟲/吸蟲_40.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "衛氏肺吸蟲成蟲 (瓶罐標本)。看起來像水煮花生米。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_41",
+        "path": "吸蟲/吸蟲_41.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲 (瓶罐標本)。蟲體有點厚，像薑片一樣。約2-7公分大小。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_42",
+        "path": "吸蟲/吸蟲_42.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "薑片蟲成蟲 (瓶罐標本)。蟲體厚實，似薑片。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_43",
+        "path": "吸蟲/吸蟲_43.webp",
+        "answer": [
+            "Fasciola hepatica"
+        ],
+        "explanation": "牛羊肝吸蟲成蟲 (瓶罐標本)。看起來扁扁的，約3公分大小，可以看到頭錐。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_44",
+        "path": "吸蟲/吸蟲_44.webp",
+        "answer": [
+            "Clonorchis sinensis"
+        ],
+        "explanation": "中華肝吸蟲成蟲 (瓶罐標本)。身體是透明的，約1-3公分大小。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_45",
+        "path": "吸蟲/吸蟲_45.webp",
+        "answer": [
+            "Paragonimus westermani"
+        ],
+        "explanation": "圖為淡水螃蟹或淡水蝦，是衛氏肺吸蟲的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_46",
+        "path": "吸蟲/吸蟲_46.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為菱角或荸薺，是薑片蟲的第二中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_47",
+        "path": "吸蟲/吸蟲_47.webp",
+        "answer": [
+            "Paragonimus westermani",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "圖為川蜷 (Semisulcospira libertina)，其尖端常磨損斷頭，是衛氏肺吸蟲和橫川吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_48",
+        "path": "吸蟲/吸蟲_48.webp",
+        "answer": [
+            "Paragonimus westermani",
+            "Metagonimus yokogawai"
+        ],
+        "explanation": "圖為瘤蜷 (Thiara granifera)，螺殼表面有小突起像長了瘤，是衛氏肺吸蟲和橫川吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_49",
+        "path": "吸蟲/吸蟲_49.webp",
+        "answer": [
+            "Fasciola hepatica",
+            "Echinostoma revolutum",
+            "Echinostoma malayanum"
+        ],
+        "explanation": "圖為錐實螺 (Lymnaea swinhoei)，約一公分，最後一螺層很大，是牛羊肝吸蟲、馬來棘口吸蟲、外旋棘口吸蟲的第一中間宿主。需與水泡螺區分，水泡螺開口在左邊。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_50",
+        "path": "吸蟲/吸蟲_50.webp",
+        "answer": [
+            "Fasciolopsis buski"
+        ],
+        "explanation": "圖為扁蜷 (Hippeutis cantori 或 Segmentina spp.)，是薑片蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_51",
+        "path": "吸蟲/吸蟲_51.webp",
+        "answer": [
+            "Heterophyes heterophyes"
+        ],
+        "explanation": "圖為錐形小塔螺 (Pirenella conica，俗稱燒酒螺)，是異形吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_52",
+        "path": "吸蟲/吸蟲_52.webp",
+        "answer": [
+            "Schistosoma japonicum"
+        ],
+        "explanation": "圖為釘螺 (Oncomelania hupensis nosophora)，很小很小像小釘子，是日本血吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_53",
+        "path": "吸蟲/吸蟲_53.webp",
+        "answer": [
+            "Schistosoma mansoni"
+        ],
+        "explanation": "圖為雙臍螺 (Biomphalaria spp.)，銅板大小，正反面各有一個凹陷，是曼氏血吸蟲的第一中間宿主。",
+        "description": ""
+    },
+    {
+        "num": "吸蟲_54",
+        "path": "吸蟲/吸蟲_54.webp",
+        "answer": [
+            "Schistosoma haematobium"
+        ],
+        "explanation": "圖為水泡螺 (Bulinus spp.)，是唯一左旋的螺 (尖端朝上，開口朝上，開口在左邊)，是埃及血吸蟲的第一中間宿主。",
+        "description": ""
+    }
+]

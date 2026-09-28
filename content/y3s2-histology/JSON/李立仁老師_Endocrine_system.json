@@ -1,0 +1,74 @@
+[
+  {
+    "num": "b11lab-01",
+    "path": "李立仁老師_Endocrine_system/b11lab-01.webp",
+    "answer": [
+      "Pineal gland"
+    ],
+    "explanation": "視野下可見紫黑色深染的腦沙（Brain sand; Corpora arenacea），此為 pineal gland 的辨識特徵。",
+    "description": "寫出器官名稱。"
+  },
+  {
+    "num": "b11lab-02",
+    "path": "李立仁老師_Endocrine_system/b11lab-02.webp",
+    "answer": [
+      "Oxyphil cell"
+    ],
+    "explanation": "視野下能發現兩種細胞，周圍為 basophilic，體型較小，排列緊密的 principle cell。而中間細胞較大，胞核間距寬，含大量粒線體呈 eosinophilic 的細胞是 oxyphil cell。",
+    "description": "箭頭所指的細胞名稱。"
+  },
+  {
+    "num": "b11lab-03",
+    "path": "李立仁老師_Endocrine_system/b11lab-03.webp",
+    "answer": [
+      "Chromaffin cells"
+    ],
+    "explanation": "腎上腺髓質的細胞因為有嗜鉻的特性，在 Zenker-formalin 的染色下呈現深棕色。（且在視野下能看到所圍區域中有血管的分佈，應為 adrenal gland 中 medulla 的 central vein）",
+    "description": "寫出箭頭所指範圍內的細胞名稱（Be specific）。"
+  },
+  {
+    "num": "b11lab-04",
+    "path": "李立仁老師_Endocrine_system/b11lab-04.webp",
+    "answer": [
+      "Zona fasciculata"
+    ],
+    "explanation": "約占 80%，可見縱走的 cell cords 以及交雜在其中的 sinusoids，細胞富含 lipid droplets 呈現空泡狀。",
+    "description": "框起的區域名稱。"
+  },
+  {
+    "num": "b11lab-05",
+    "path": "李立仁老師_Endocrine_system/b11lab-05.webp",
+    "answer": [
+      "Oxyphil cell"
+    ],
+    "explanation": "視野下為副甲狀腺，可以看到密集的 principal cell 和偏紅色 的 oxyphil cell 以及脂肪組織。而 oxyphil cell 較大，胞核間距寬。",
+    "description": "箭頭所指的細胞為何？"
+  },
+  {
+    "num": "b11lab-06",
+    "path": "李立仁老師_Endocrine_system/b11lab-06.webp",
+    "answer": [
+      "Pars distalis of pituitary gland acidophil cell"
+    ],
+    "explanation": "嗜酸紅色多於嗜鹼藍色，cell cord 間有 sinusoid，還可以觀察到只有核染色的細胞（chromophobe），此為 Pars distalis 之特色。【比較】Pars intermedia：basophils 比例大增，還會看到 follicle。Pars nervosa：性質為 nerve fiber、pituicyte 與 herring body，特徵完全不同。",
+    "description": "請問圖中構造為何？箭頭所指細胞為何？"
+  },
+  {
+    "num": "b11lab-07",
+    "path": "李立仁老師_Endocrine_system/b11lab-07.webp",
+    "answer": [
+      "Pineal gland"
+    ],
+    "explanation": "視野下可見紫黑色深染的腦沙（Corpora arenacea），此為 pineal gland 的辨識特徵。",
+    "description": "圖中構造為何？"
+  },
+  {
+    "num": "b11lab-08",
+    "path": "李立仁老師_Endocrine_system/b11lab-08.webp",
+    "answer": [
+      "Adrenal medulla chromaffin cell"
+    ],
+    "explanation": "可以看出下方 adrenal cortex 的三層分層，由箭頭所指附近的空洞狀構造也可判斷為 medulla。",
+    "description": "箭頭所指構造為何？大部分含有何種細胞？"
+  }
+]

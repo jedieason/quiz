@@ -1,1 +1,398 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
 
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="跑臺機">
+    <link rel="apple-touch-icon" href="public/assets/icons/apple-touch-icon.png">
+    <meta name="description" content="國立臺灣大學醫學系必修課跑臺機">
+    <meta name="keywords" content="國立臺灣大學醫學系必修課跑臺機">
+    <script>
+        // Suppress Safari + Firebase long-polling conflict.
+        // Safari extensions inject `SafariAppExtensionPage` into all iframes;
+        // Firebase's JSONP transport also tries to declare the same `var` inside the
+        // same iframe scope, causing a SyntaxError. This does NOT affect functionality
+        // — Firebase automatically retries with WebSocket after the failure.
+        (function () {
+            var _prev = window.onerror;
+            window.onerror = function (msg, src, line, col, err) {
+                if (typeof msg === 'string' && msg.indexOf('SafariAppExtensionPage') !== -1) {
+                    return true; // suppress
+                }
+                if (_prev) return _prev.apply(this, arguments);
+                return false;
+            };
+        })();
+    </script>
+    <script type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+    <title>臺大醫跑臺機</title>
+    <link rel="icon" type="image/svg+xml" href="public/assets/icons/icon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="src/css/style.css?v=1.0.1">
+    <link rel="stylesheet" href="src/css/flashcard.css?v=1.0.1">
+    <link rel="stylesheet" href="src/css/multiple-choice.css?v=1.0.1">
+
+</head>
+
+<body>
+
+    <header class="md-app-bar" id="mainHeader">
+        <a class="app-bar-brand">
+            <img src="public/assets/icons/icon.svg" alt="Logo" class="app-bar-logo">
+            <span>臺大醫跑臺機</span>
+        </a>
+        <div class="app-bar-actions">
+            <div id="account-container" class="account-container">
+                <button id="signInBtn" style="display:none;"
+                    class="shrink-0 transition-transform hover:scale-105 bg-white text-black border border-gray-300 dark:bg-[var(--bg-secondary)] dark:border-[var(--border-primary)] dark:text-[var(--text-primary)] rounded-full px-4 py-[6px] text-sm font-medium m-0 flex items-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 533.5 544.3">
+                        <path fill="#4285F4"
+                            d="M533.5 278.4c0-18.6-1.6-37-4.9-54.8H272.1v103.7h146.9c-6.3 34-25.1 62.8-53.6 82v68.1h86.8c50.8-46.8 81.3-115.8 81.3-199z" />
+                        <path fill="#35854b"
+                            d="M272.1 544.3c72.9 0 134.1-24.1 178.8-65.3l-86.8-68.1c-24.1 16.2-55 25.8-92 25.8-70.7 0-130.6-47.7-152-111.8h-90.3v70.2c44.6 88.4 135.7 149.2 242.3 149.2z" />
+                        <path fill="#FBBC05"
+                            d="M120.1 325c-10.2-30.4-10.2-63.3 0-93.7v-70.2H29.8c-39.7 80-39.7 174.1 0 254.1L120.1 325z" />
+                        <path fill="#EA4335"
+                            d="M272.1 107.7c39.6-.6 77.8 14.5 106.6 42.2l79.6-79.6C406.2 24.8 340.2-1.2 272.1 0 165.6 0 74.5 60.8 29.8 149.2l90.3 70.2c21.4-64.1 81.3-111.7 152-111.7z" />
+                    </svg>
+                    <span>登入</span>
+                </button>
+                <div id="user-avatar" class="user-avatar" style="display:none;">U</div>
+
+                <div id="profile-menu" class="profile-menu">
+                    <div class="user-info-section">
+                        <span id="menu-display-name" class="user-display-name">使用者名稱</span>
+                        <span id="menu-email" class="user-email">user@ntu.edu.tw</span>
+                    </div>
+                    <div class="menu-divider"></div>
+
+                    <div class="menu-item" id="menu-edit-nickname">
+                        <i data-lucide="edit-3"></i>
+                        <span>編輯暱稱</span>
+                    </div>
+                    <div class="menu-divider"></div>
+                    <div class="menu-item" id="menu-logout" style="color: var(--accent-red);">
+                        <i data-lucide="log-out"></i>
+                        <span>登出</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="start-screen">
+
+        <div class="flex flex-col lg:flex-row gap-8 container mx-auto px-4 max-w-[1400px]">
+            <!-- Left side: Subjects -->
+            <div class="flex-grow order-2 lg:order-1">
+
+                <main id="quiz-content-container" class="w-full flex-grow mb-10 overflow-y-visible"></main>
+            </div>
+            <!-- Right side: Leaderboard -->
+            <div class="w-full lg:w-80 shrink-0 order-1 lg:order-2">
+                <div class="leaderboard w-full">
+                    <div class="leaderboard-header" id="leaderboardToggle">
+                        <h3 class="text-lg font-semibold">排行榜</h3>
+                        <div class="leaderboard-toggle-icon">
+                            <i data-lucide="chevron-down"></i>
+                        </div>
+                    </div>
+                    <ol id="boardList"></ol>
+                </div>
+
+                <!-- Resume Progress: Show below leaderboard if progress exists -->
+                <div class="progress-actions mt-6 p-5 bg-[var(--bg-secondary)] border border-[var(--border-primary)] rounded-xl shadow-sm"
+                    id="resumeSection" style="display:none;">
+                    <h4 class="text-sm font-semibold mb-3 text-[var(--text-secondary)]">進度</h4>
+                    <button id="resumeButton" class="start-button w-full mb-3" style="display:none;">接續上次</button>
+                    <div id="resumeProgress" class="resume-progress mb-4" style="display:none;">
+                        <div class="resume-progress-bar h-2 bg-gray-100 rounded-full overflow-hidden">
+                            <div class="resume-progress-fill h-full bg-[var(--accent-blue)]" id="resumeProgressFill">
+                            </div>
+                        </div>
+                        <span class="resume-progress-text text-xs text-gray-500 mt-2 block"
+                            id="resumeProgressText">0%</span>
+                    </div>
+                    <div class="text-center mt-4">
+                        <button id="restartProgress" class="restart-progress-btn">
+                            <i data-lucide="rotate-ccw"></i>
+                            <span>重新開始</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="flashcard-container">
+        <div class="progress">
+            <div class="progress-item" id="correctArea">
+                <span id="correct">0</span>
+                <span>正確</span>
+            </div>
+
+            <div class="progress-item !bg-transparent !border-none !shadow-none !cursor-default !gap-1"
+                style="min-width:auto;">
+                <div style="display:flex; align-items:center; gap:12px;">
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:2px; min-width:45px;">
+                        <span id="score-display" style="font-size:1.5rem; font-weight:800;">0</span>
+                        <span
+                            style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase;">分數</span>
+                    </div>
+                    <span style="opacity:0.2; font-size:1.2rem; font-weight:300; align-self:stretch; display:flex; align-items:center;">|</span>
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:0px; min-width:60px;" id="fc-progress-display-wrapper">
+                        <div id="progress-display" style="height: 1.8rem; display: flex; align-items: center; justify-content: center; overflow: visible;">
+                            -
+                        </div>
+                        <span
+                            style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase; margin-top: 2px;">進度</span>
+                    </div>
+                    <span style="opacity:0.2; font-size:1.2rem; font-weight:300; align-self:stretch; display:flex; align-items:center;">|</span>
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:2px; min-width:45px;">
+                        <span id="rank-display"
+                            style="font-size:1.5rem; font-weight:800; color:var(--md-sys-color-primary);">N/A</span>
+                        <span
+                            style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase;">排名</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="progress-item" id="wrongArea">
+                <span id="wrong">0</span>
+                <span>錯誤</span>
+            </div>
+        </div>
+
+        <div class="card-content">
+            <div id="fcProgressDots" class="progress-dots" style="display: flex; margin-bottom: 16px; justify-content: center; width: 100%;"></div>
+            <div id="explanation-num-badge"
+                style="position: absolute; top: 16px; left: 16px; z-index: 2; opacity: 0.4; font-size: 0.8rem; color: var(--text-muted); font-weight: 500; pointer-events: none; display: none;">
+            </div>
+            <button id="starToggle" class="star-toggle" aria-label="加入星號">☆</button>
+            <div class="loading-screen">
+                <div class="spinner"></div>
+            </div>
+            <img id="image" loading="eager" decoding="async" fetchpriority="high" onload="handleMainImageLoad(this);"
+                src="" alt="Parasite Image">
+        </div>
+
+        <div class="card-answer">
+            <div id="showAnswer"></div>
+            <div id="showExplanation"></div>
+            <div class="card-answer-actions"
+                style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px; width: 100%; margin-top: 12px;">
+                <div style="display: flex; justify-content: flex-start; gap: 8px;">
+                    <button id="iAmRightBtn" class="i-am-right-btn" style="display: none;">我是對的</button>
+                    <button id="fcBackProgressBtnExpl" class="i-am-right-btn" style="display: none; background: var(--accent-blue); color: white; border: none;">回到原題目</button>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 4px;">
+                    <button id="toggleCommentsInner" class="comment-toggle-btn">
+                        <i data-lucide="message-square" class="w-4 h-4"></i>
+                        <span class="comment-count-text">留言 (0)</span>
+                    </button>
+                </div>
+                <div style="display: flex; justify-content: flex-end;">
+                    <button id="next" class="next-button">下題</button>
+                </div>
+            </div>
+        </div>
+        <div class="answer-input-container">
+            <input id="answer" type="text" placeholder="把答案打在這" class="answer-input" autocomplete="off"
+                autocorrect="off" autocapitalize="off" spellcheck="false">
+        </div>
+
+        <div class="bottom-buttons">
+            <button id="dontKnow" class="dont-know-button">母災</button>
+            <button id="fcBackProgressBtn" class="dont-know-button" style="display: none; background: var(--accent-blue); color: white; border: none;">回到原題目</button>
+            <button id="toggleComments" class="comment-toggle-btn">
+                <i data-lucide="message-square" class="w-4 h-4"></i>
+                <span class="comment-count-text">留言 (0)</span>
+            </button>
+            <button id="submitAnswer" class="answer-button">確定</button>
+        </div>
+
+        <!-- Comment Drawer inside container -->
+        <div id="commentDrawer" class="comment-drawer">
+            <div class="comment-header">
+                <h3 class="text-lg font-bold font-['Outfit']">留言板</h3>
+                <button id="closeComments"
+                    class="p-2 hover:bg-gray-100 rounded-full transition-colors dark:hover:bg-gray-800">
+                    <i data-lucide="x" class="w-6 h-6"></i>
+                </button>
+            </div>
+            <div id="commentList" class="comment-list">
+                <!-- Comments will be injected here -->
+            </div>
+            <div class="comment-input-area">
+                <input type="text" id="commentInput" class="comment-input" placeholder="寫下你的想法..." autocomplete="off">
+                <button id="sendCommentBtn" class="comment-send-btn">
+                    <i data-lucide="send" class="w-5 h-5"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Multiple Choice Container -->
+    <div id="multipleChoiceContainer" class="flashcard-container multiple-choice-container" style="display:none;">
+        <div class="progress">
+            <div class="progress-item" id="mcCorrectArea" style="cursor: pointer;">
+                <span id="mcCorrect">0</span>
+                <span>正確</span>
+            </div>
+
+            <div class="progress-item !bg-transparent !border-none !shadow-none !cursor-default !gap-1"
+                style="min-width:auto;">
+                <div style="display:flex; align-items:center; gap:12px;">
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:2px; min-width:45px;">
+                        <span id="mc-score-display" style="font-size:1.5rem; font-weight:800;">0</span>
+                        <span style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase;">分數</span>
+                    </div>
+                    <span style="opacity:0.2; font-size:1.2rem; font-weight:300; align-self:stretch; display:flex; align-items:center;">|</span>
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:0px; min-width:60px;" id="mc-progress-display-wrapper">
+                        <div id="mc-progress-display" style="height: 1.8rem; display: flex; align-items: center; justify-content: center; overflow: visible;">
+                            -
+                        </div>
+                        <span style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase; margin-top: 2px;">進度</span>
+                    </div>
+                    <span style="opacity:0.2; font-size:1.2rem; font-weight:300; align-self:stretch; display:flex; align-items:center;">|</span>
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:2px; min-width:45px;">
+                        <span id="mc-rank-display" style="font-size:1.5rem; font-weight:800; color:var(--md-sys-color-primary);">N/A</span>
+                        <span style="font-size:0.6rem; opacity:0.6; letter-spacing:0.2em; font-weight:700; text-transform:uppercase;">排名</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="progress-item" id="mcWrongArea" style="cursor: pointer;">
+                <span id="mcWrong">0</span>
+                <span>錯誤</span>
+            </div>
+        </div>
+
+        <div class="card-content">
+            <div id="mcProgressDots" class="progress-dots" style="display: flex; margin-bottom: 16px; justify-content: center; width: 100%;"></div>
+            <button id="mcStarToggle" class="star-toggle" aria-label="加入星號">☆</button>
+            <!-- Origin badge: absolute bottom-right, same as flashcard -->
+            <div id="mc-origin" style="position: absolute; bottom: 16px; right: 16px; z-index: 2; opacity: 0.45; font-size: 0.75rem; color: var(--text-muted); font-weight: 500; pointer-events: none; display: none;"></div>
+            <div class="question-content" id="mc-question-text"></div>
+            <!-- Wrap options and confirm buttons to align them perfectly to the same right boundary -->
+            <div style="width: 100%; max-width: 720px; margin: 0 auto; display: flex; flex-direction: column;">
+                <div class="options" id="mc-options-container" style="margin-bottom: 24px; width: 100%;"></div>
+
+                <!-- Confirm button right after the last option -->
+                <button id="mcConfirmBtn" class="confirm-button">確定</button>
+                <button id="mcBackProgressBtn" class="dont-know-button" style="display: none; background: var(--accent-blue); color: white; border: none; margin-top: 12px; align-self: flex-end;">回到原題目</button>
+            </div>
+
+            <!-- Explanation card INSIDE card-content so it scrolls with the question -->
+            <div class="card-answer" id="mcExplanationCard" style="display: none;">
+                <div class="card-answer-body">
+                    <div id="mcExplanationText" style="font-size: 1rem; line-height: 1.7; color: var(--text-primary);"></div>
+                </div>
+                <div class="card-answer-actions" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                    <div class="left-actions" style="display: flex; gap: 8px; align-items: center;">
+                        <button id="mcIAmRightBtn" class="i-am-right-btn" style="display: none;">我是對的</button>
+                    </div>
+                    <div class="right-actions" style="display: flex; gap: 8px; align-items: center;">
+                        <button id="mcBackProgressBtnExpl" style="display: none;">回到原題目</button>
+                        <button id="mcNextBtn">下一題</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Keep hidden to preserve keys listener compatibility in multiple-choice.js -->
+        <div class="answer-input-container" style="display: none;">
+            <input id="mcAnswerInput" type="text" placeholder="輸入 A, B, C, D 選擇答案" class="answer-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span id="closeModal" class="close">×</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <div id="unitSelectionModal" class="modal" style="display:none;">
+        <div class="modal-content" style="max-width: 500px;">
+            <span id="closeUnitModal" class="close">×</span>
+            <h2 id="unitModalTitle" class="text-xl font-bold mb-4 text-center">選擇單元</h2>
+
+            <div id="unitModalList" class="flex flex-col gap-2 max-h-[50vh] overflow-y-auto mb-6 scrollbar-thin px-2">
+                <p class="text-center text-gray-500 my-4">載入中...</p>
+            </div>
+
+            <div class="flex gap-4">
+                <button id="modalStartQuizBtn"
+                    class="start-button flex-1 py-3 opacity-50 cursor-not-allowed transition-opacity disabled:pointer-events-none"
+                    disabled>開始測驗</button>
+                <button id="modalOpenDocBtn"
+                    class="start-button flex-1 py-3 bg-transparent border border-[var(--accent-blue)] text-[var(--accent-blue)] opacity-50 cursor-not-allowed transition-opacity disabled:pointer-events-none"
+                    disabled>單元複習</button>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="nicknameModal" class="modal" style="display:none;">
+        <div class="modal-content">
+            <span id="closeNicknameModal" class="close">×</span>
+            <h2>編輯暱稱</h2>
+            <input type="text" id="nicknameInput" placeholder="請輸入新的暱稱" autocomplete="off" autocorrect="off"
+                autocapitalize="off" spellcheck="false">
+            <div class="modal-actions" style="margin-top: 16px; text-align: right;">
+                <button id="saveNicknameBtn">儲存</button>
+            </div>
+        </div>
+    </div>
+    <div id="alertModal" class="alert-modal" style="display: none;">
+        <span class="close" onclick="closeAlertModal()">×</span>
+        <div id="alertModalBody"></div>
+    </div>
+    <!-- Modern Unit Review Overlay -->
+    <div id="docContainer" class="doc-container" style="display:none;">
+        <div class="doc-header">
+            <div class="flex items-center gap-4">
+                <button onclick="document.getElementById('docContainer').style.display='none'"
+                    class="p-2 hover:bg-gray-100 rounded-full transition-colors">
+                    <i data-lucide="arrow-left" class="w-6 h-6"></i>
+                </button>
+                <h2 class="text-xl font-bold font-['Outfit']">單元複習</h2>
+            </div>
+            <div class="flex items-center gap-2">
+                <span id="docCount" class="text-sm font-medium px-3 py-1 bg-gray-100 rounded-full text-gray-600"></span>
+            </div>
+        </div>
+        <div class="doc-page">
+            <div id="docContent"></div>
+        </div>
+    </div>
+
+    <script>
+        // Define critical UI handlers globally to avoid timing issues with module loading
+        window.handleMainImageLoad = function (imgElement) {
+            if (imgElement && imgElement.classList) {
+                imgElement.classList.add('loaded');
+                const loadingScreen = imgElement.closest('.card-content')?.querySelector('.loading-screen');
+                if (loadingScreen) loadingScreen.style.display = 'none';
+            }
+        };
+    </script>
+    <script type="module" src="src/js/main.js"></script>
+</body>
+
+</html>

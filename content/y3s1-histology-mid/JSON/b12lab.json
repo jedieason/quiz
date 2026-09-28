@@ -1,0 +1,410 @@
+[
+    {
+        "num": "b12lab_01",
+        "path": "b12lab/b12lab_01.webp",
+        "answer": [
+            "Plasma cell"
+        ],
+        "explanation": "細胞橢圓形，細胞核偏向一邊且核外圍和中心較深染，呈現車輪狀，細胞質也有較為淡染、空泡狀的區域（為Golgi apparatus）",
+        "description": "箭頭所指這是什麼細胞？"
+    },
+    {
+        "num": "b12lab_02",
+        "path": "b12lab/b12lab_02.webp",
+        "answer": [
+            "Fibrocartilage"
+        ],
+        "explanation": "有 lacuna，是 chondrocyte，排列呈整齊鏈狀",
+        "description": "請寫出組織名稱 Be specific!"
+    },
+    {
+        "num": "b12lab_03",
+        "path": "b12lab/b12lab_03.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "有crystalloid body的granule，為eosinophil的特徵",
+        "description": "請寫出圖片中的血球名？"
+    },
+    {
+        "num": "b12lab_04",
+        "path": "b12lab/b12lab_04.webp",
+        "answer": [
+            "Simple cuboidal epithelium"
+        ],
+        "explanation": "細胞為立方體，核圓滾滾的，在細胞正中央",
+        "description": "圈起來的組織是什麼？"
+    },
+    {
+        "num": "b12lab_05",
+        "path": "b12lab/b12lab_05.webp",
+        "answer": [
+            "Brown adipose tissue"
+        ],
+        "explanation": "Brown Adipose tissue 核旁有需多小油滴，沒有合成大油滴；White adipose tissue 油滴大，細胞胞器被擠到旁邊",
+        "description": "下圖中A為什麼組織？"
+    },
+    {
+        "num": "b12lab_06",
+        "path": "b12lab/b12lab_06.webp",
+        "answer": [
+            "White adipose tissue"
+        ],
+        "explanation": "Brown Adipose tissue 核旁有需多小油滴，沒有合成大油滴；White adipose tissue 油滴大，細胞胞器被擠到旁邊",
+        "description": "下圖中B為什麼組織？"
+    },
+    {
+        "num": "b12lab_07",
+        "path": "b12lab/b12lab_07.webp",
+        "answer": [
+            "Glycocalyx"
+        ],
+        "explanation": "Glycocalyx為microvilli上方的構造，在TEM下看起來就像一層附著於細胞膜外的絨毛狀或絲狀物質。（這張圖 microvilli 看不出來，但共筆的圖是有明顯的microvilli 所以比較好分辨）",
+        "description": "請問箭頭所指構造是什麼？"
+    },
+    {
+        "num": "b12lab_08",
+        "path": "b12lab/b12lab_08.webp",
+        "answer": [
+            "Non-cornified stratified squamous epithelium"
+        ],
+        "explanation": "多層細胞所以是stratified，最表層的細胞是扁平的所以是squamous，上方沒有角質層",
+        "description": "黃色箭頭所指範圍的組織名稱為何？"
+    },
+    {
+        "num": "b12lab_09",
+        "path": "b12lab/b12lab_09.webp",
+        "answer": [
+            "Mast cell"
+        ],
+        "explanation": "Mast cell有metachromasia異染性的特質，toluidine blue本來是藍色，但是mast cell因為有大量負電離子，會抓住許多toluidine blue形成緊密結構，折射後反而變成紅色",
+        "description": "下圖紅色的細胞（黃色箭頭）為何？"
+    },
+    {
+        "num": "b12lab_10",
+        "path": "b12lab/b12lab_10.webp",
+        "answer": [
+            "Metachromasia"
+        ],
+        "explanation": "Mast cell有metachromasia異染性的特質，toluidine blue本來是藍色，但是mast cell因為有大量負電離子，會抓住許多toluidine blue形成緊密結構，折射後反而變成紅色",
+        "description": "下圖將染劑由藍轉紅的特性為何？"
+    },
+    {
+        "num": "b12lab_11",
+        "path": "b12lab/b12lab_11.webp",
+        "answer": [
+            "Pyramidal neuron",
+            "Multipolar neuron"
+        ],
+        "explanation": "Pyramidal neuron 有金字塔/三角形的細胞本體形狀。圖中的細胞沒有process綁住blood vessel，因此不能寫astrocyte。Multipolar neuron的定義是有一個軸突和多個樹突， Pyramidal neuron 是多極神經元的一種。",
+        "description": "這是什麼細胞？"
+    },
+    {
+        "num": "b12lab_12",
+        "path": "b12lab/b12lab_12.webp",
+        "answer": [
+            "Delta granule"
+        ],
+        "explanation": "圖中為血小板。血小板有兩個可以在TEM底下看到的顆粒。α-granules：數量較多、體積較大、電子密度中等（灰色）。δ-granules (Dense bodies)：數量較少、體積較小、非常electron dense（深黑色）。",
+        "description": "下列箭頭是血球的什麼構造？"
+    },
+    {
+        "num": "b12lab_13",
+        "path": "b12lab/b12lab_13.webp",
+        "answer": [
+            "Elastic artery"
+        ],
+        "explanation": "Tunica media非常厚，而且tunica media與tunica intima之間界線不明顯，internal elastic membrane不易辨認，為Elastic artery。血管最外層Tunica adventitia處可能有vasa vasorum幫助輸送養分。",
+        "description": "這是什麼組織？"
+    },
+    {
+        "num": "b12lab_14",
+        "path": "b12lab/b12lab_14.webp",
+        "answer": [
+            "Vasa vasorum"
+        ],
+        "explanation": "Tunica media非常厚，而且tunica media與tunica intima之間界線不明顯，internal elastic membrane不易辨認，為Elastic artery。血管最外層Tunica adventitia處可能有vasa vasorum幫助輸送養分。",
+        "description": "紅色箭頭所指的是什麼構造？"
+    },
+    {
+        "num": "b12lab_15",
+        "path": "b12lab/b12lab_15.webp",
+        "answer": [
+            "Primary lysosome"
+        ],
+        "explanation": "Lysosome在電子顯微鏡下為圓形或橢圓形、Electron-dense。若吞了其他胞器，則看起來不均質，為Secondary lysosome。Primary lysosome則看起來均質。",
+        "description": "圖中箭頭所指是什麼胞器？"
+    },
+    {
+        "num": "b12lab_16",
+        "path": "b12lab/b12lab_16.webp",
+        "answer": [
+            "Compact bone"
+        ],
+        "explanation": "可見一整片被染成淡紅色的組織，有許多圓形的大型空洞，空洞周圍有小黑點，圍繞圓形空洞排列，可知為Osteon，小黑點為Osteocyte，組織應為Compact bone。",
+        "description": "請問以下是什麼組織？（忽略箭頭）"
+    },
+    {
+        "num": "b12lab_17",
+        "path": "b12lab/b12lab_17.webp",
+        "answer": [
+            "Decalcified bone"
+        ],
+        "explanation": "可見一整片被染成淡紅色的組織，有許多圓形的大型空洞，空洞周圍有小黑點，圍繞圓形空洞排列，可知為Osteon，小黑點為Osteocyte，組織應為Compact bone。切片被染色為紅色，代表含有機質，為 decalcified bone。",
+        "description": "請問以下製備方式（忽略箭頭）"
+    },
+    {
+        "num": "b12lab_18",
+        "path": "b12lab/b12lab_18.webp",
+        "answer": [
+            "Node of Ranvier"
+        ],
+        "explanation": "神經系統中相鄰Schwann cell之間未包覆Myelin sheath的Junction為Node of Ranvier。",
+        "description": "請問箭頭所指是什麼構造？"
+    },
+    {
+        "num": "b12lab_19",
+        "path": "b12lab/b12lab_19.webp",
+        "answer": [
+            "Mitochondria"
+        ],
+        "explanation": "Mitochondria 具有雙層膜，內膜向內凹陷形成cristae，顯微鏡下看起來有皺摺。",
+        "description": "紅框中的胞器是什麼？"
+    },
+    {
+        "num": "b12lab_20",
+        "path": "b12lab/b12lab_20.webp",
+        "answer": [
+            "Volkmann's canal"
+        ],
+        "explanation": "在Haversian canals之間的橫向管道",
+        "description": "箭頭指的構造是什麼？"
+    },
+    {
+        "num": "b12lab_21",
+        "path": "b12lab/b12lab_21.webp",
+        "answer": [
+            "Reticular fiber"
+        ],
+        "explanation": "Silver stain將reticular fiber染成黑色或深紫色，reticular fiber會分隔出小區塊",
+        "description": "箭頭下指的結構名稱（silver stain）？（Be specific）"
+    },
+    {
+        "num": "b12lab_22",
+        "path": "b12lab/b12lab_22.webp",
+        "answer": [
+            "Pseudostratified columnar epithelium with stereocilia"
+        ],
+        "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是 pseudostratified columnar epithelium，其上可見一根根稀疏的構造，判斷為stereo cilia（microvilli只會是地毯狀）",
+        "description": "下圖為何種組織？（Be specific）"
+    },
+    {
+        "num": "b12lab_23",
+        "path": "b12lab/b12lab_23.webp",
+        "answer": [
+            "Pseudounipolar neuron"
+        ],
+        "explanation": "此為Dorsal root ganglion，細胞是pseudo-unipolar neuron，形狀較圓，核位於中央，且細胞聚集在一起，周邊的satellite cell數量多",
+        "description": "這個細胞為何？"
+    },
+    {
+        "num": "b12lab_24",
+        "path": "b12lab/b12lab_24.webp",
+        "answer": [
+            "Elastic cartilage"
+        ],
+        "explanation": "Elastic fiber被Orcein染成紅棕色，同時可見Perichondrium（微綠）、Lacuna （空腔）、Chondrocyte（腔內細胞）",
+        "description": "請寫出顯微鏡視野下的組織？（Be specific）"
+    },
+    {
+        "num": "b12lab_25",
+        "path": "b12lab/b12lab_25.webp",
+        "answer": [
+            "Orcein stain"
+        ],
+        "explanation": "Orcein：將Elastic fiber染成紅棕色",
+        "description": "染色方式？"
+    },
+    {
+        "num": "b12lab_26",
+        "path": "b12lab/b12lab_26.webp",
+        "answer": [
+            "Cilia"
+        ],
+        "explanation": "可見一絲一絲的構造，且長度比stereocilia短，故為cilia",
+        "description": "請問下圖綠色箭頭區域範圍的構造為何？"
+    },
+    {
+        "num": "b12lab_27",
+        "path": "b12lab/b12lab_27.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "可見一絲一絲的構造，且長度比stereocilia短，故為cilia；在cilia底部呈深紅色線條構造是由basal body所構成",
+        "description": "請問下圖黃色箭頭所指的構造為何？"
+    },
+    {
+        "num": "b12lab_28",
+        "path": "b12lab/b12lab_28.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "紅色長條為肌肉，肌肉之間有黑色樹枝狀構造為神經纖維，其末端可見到圓盤狀運動終板",
+        "description": "箭頭所指的是什麼構造？"
+    },
+    {
+        "num": "b12lab_29",
+        "path": "b12lab/b12lab_29.webp",
+        "answer": [
+            "Sympathetic ganglion",
+            "Multipolar neuron"
+        ],
+        "explanation": "細胞核位於細胞邊緣、周圍 satellite cell 少，皆為 sympathetic ganglion 的特徵（此詳解未經勘誤）",
+        "description": "寫出圖中紅色箭頭所指的細胞名稱"
+    },
+    {
+        "num": "b12lab_30",
+        "path": "b12lab/b12lab_30.webp",
+        "answer": [
+            "Barr body"
+        ],
+        "explanation": "細胞核中的Heterochromatin纏繞緊密，為不活化（不轉錄）的染色質，因電子密度高呈緻密深藍鼓棒狀為巴爾氏體(Barr Body)",
+        "description": "圖中箭頭所指構造為何？"
+    },
+    {
+        "num": "b12lab_31",
+        "path": "b12lab/b12lab_31.webp",
+        "answer": [
+            "Simple columnar epithelium with microvilli and goblet cell",
+            "Simple columnar epithelium with goblet cell and microvilli"
+        ],
+        "explanation": "每個細胞都接觸到basement membrane，細胞核在同一水平面且較靠近BM。細胞表面有一層淡粉色、分不出細絲狀的構造，為microvilli，白色空泡狀細胞為goblet cells。",
+        "description": "黃色框框組織名稱？"
+    },
+    {
+        "num": "b12lab_32",
+        "path": "b12lab/b12lab_32.webp",
+        "answer": [
+            "Cerebellum"
+        ],
+        "explanation": "圖中可見上方細胞核較多之顆粒層（granular layer）、下方細胞核少之分子層（molecular layer）以及兩層間之浦金耶氏細胞（Purkinje cell），故可判斷該器官為小腦（cerebellum）。",
+        "description": "這是什麼器官？"
+    },
+    {
+        "num": "b12lab_33",
+        "path": "b12lab/b12lab_33.webp",
+        "answer": [
+            "Basal body"
+        ],
+        "explanation": "可見由細胞表面伸出之纖毛（cilium），而纖毛基部電子密度較高之構造即為基體（basal body）",
+        "description": "紅框處為何種構造?"
+    },
+    {
+        "num": "b12lab_34",
+        "path": "b12lab/b12lab_34.webp",
+        "answer": [
+            "Large vein"
+        ],
+        "explanation": "可見黃色箭頭區域遍布縱走且束狀排列之平滑肌，為大靜脈血管外膜（tunica adventitia）之特徵",
+        "description": "視野下為何種器官"
+    },
+    {
+        "num": "b12lab_35",
+        "path": "b12lab/b12lab_35.webp",
+        "answer": [
+            "Tunica adventitia"
+        ],
+        "explanation": "可見黃色箭頭區域遍布縱走且束狀排列之平滑肌，為大靜脈血管外膜（tunica adventitia）之特徵",
+        "description": "寫出↕️所指的區域名稱"
+    },
+    {
+        "num": "b12lab_36",
+        "path": "b12lab/b12lab_36.webp",
+        "answer": [
+            "Endothelial cell"
+        ],
+        "explanation": "可見該構造管腔中有若干紅血球，且管壁細胞之細胞核被擠向管腔，可知該構造應為小動脈。小動脈之內膜（tunica intima）由內皮細胞組成，中膜（tunica media）則可見平滑肌細胞。",
+        "description": "請寫出A為什麼細胞"
+    },
+    {
+        "num": "b12lab_37",
+        "path": "b12lab/b12lab_37.webp",
+        "answer": [
+            "Smooth muscle cell"
+        ],
+        "explanation": "可見該構造管腔中有若干紅血球，且管壁細胞之細胞核被擠向管腔，可知該構造應為小動脈。小動脈之內膜（tunica intima）由內皮細胞組成，中膜（tunica media）則可見平滑肌細胞。",
+        "description": "請寫出B為什麼細胞"
+    },
+    {
+        "num": "b12lab_38",
+        "path": "b12lab/b12lab_38.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "可見排列緊密且大小不一之細胞截面，細胞核位於細胞中央且佔細胞比例較大，應為平滑肌之橫斷面",
+        "description": "請寫出左邊的組織名稱？（Be specific）"
+    },
+    {
+        "num": "b12lab_39",
+        "path": "b12lab/b12lab_39.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "右圖可見狹長之細胞核，細胞略呈紡錘狀且有明顯間隙，應為平滑肌之縱斷面",
+        "description": "請寫出右邊的組織名稱？（Be specific）"
+    },
+    {
+        "num": "b12lab_40",
+        "path": "b12lab/b12lab_40.webp",
+        "answer": [
+            "Myelin sheath"
+        ],
+        "explanation": "Osmium 染脂質（黑色），因此myelin sheath 會被染到，呈黑色環狀。",
+        "description": "藍色箭頭指的構造是什麼？"
+    },
+    {
+        "num": "b12lab_41",
+        "path": "b12lab/b12lab_41.webp",
+        "answer": [
+            "Epiphyseal plate"
+        ],
+        "explanation": "LM下低倍視野，藍色範圍上方是bone & articular cartilage，下方為bone，藍色範圍內為會不斷增生之cartilage，增加bone長度，為epiphyseal plate。",
+        "description": "請寫出虛線所指範圍之結構（structure）名稱？"
+    },
+    {
+        "num": "b12lab_42",
+        "path": "b12lab/b12lab_42.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "圍繞在硬骨組織的骨小針周遭，細胞較大、頂部多核，細胞核被染成較深紅色。",
+        "description": "這是哪個細胞？"
+    },
+    {
+        "num": "b12lab_43",
+        "path": "b12lab/b12lab_43.webp",
+        "answer": [
+            "Autophagosome"
+        ],
+        "explanation": "胞器外圍可以看出雙層膜（來自ER），內部有類似膜狀的物體，為被自噬之胞器，故為Autophagosome 。",
+        "description": "箭頭指的是何種胞器？"
+    },
+    {
+        "num": "b12lab_44",
+        "path": "b12lab/b12lab_44.webp",
+        "answer": [
+            "Muscular artery"
+        ],
+        "explanation": "和 vein 的差別是 tunica media 很厚，和 elastic artery 的差別在 intima 的 subendothelial CNT 很薄，media 的elastin 比較少，smooth muscle 多，而箭頭所指處便是smooth muscle cell。",
+        "description": "請問這是什麼器官？"
+    },
+    {
+        "num": "b12lab_45",
+        "path": "b12lab/b12lab_45.webp",
+        "answer": [
+            "Smooth muscle cell"
+        ],
+        "explanation": "這是 muscular artery ，和 vein 的差別是 tunica media 很厚，和 elastic artery 的差別在 intima 的 subendothelial CNT 很薄，media 的elastin 比較少，smooth muscle 多，而箭頭所指處便是smooth muscle cell。",
+        "description": "箭頭所指是什麼細胞？"
+    }
+]

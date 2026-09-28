@@ -1,0 +1,56 @@
+[
+    {
+        "num": "Spinal_Cord_1",
+        "path": "Spinal_Cord/Spinal_Cord_1.webp",
+        "answer": [
+            "Ventral root"
+        ],
+        "explanation": "從 spinal cord 前側面發出的神經，應注意它與 dorsal root 的相對位置關係。階級關係整理如下： spinal cord → rootlet → root → spinal nerve → ramus。",
+        "description": ""
+    },
+    {
+        "num": "Spinal_Cord_2",
+        "path": "Spinal_Cord/Spinal_Cord_2.webp",
+        "answer": [
+            "Filum terminale internum"
+        ],
+        "explanation": "可辨認 cauda equina 中顏色跟其他條不太一樣的就是 了，為 pia mater 從 conus medullaris 繼續往後延伸，分布範圍是 L2 level 到 S2 level 。",
+        "description": ""
+    },
+    {
+        "num": "Spinal_Cord_3",
+        "path": "Spinal_Cord/Spinal_Cord_3.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "包覆 spinal cord 的 pia 向外延伸，與 dura 黏在一起 的構造 。功能是將 spinal cord 固定在 dura 上，有 21 對。",
+        "description": ""
+    },
+    {
+        "num": "Spinal_Cord_4",
+        "path": "Spinal_Cord/Spinal_Cord_4.webp",
+        "answer": [
+            "Ligamentum flavum"
+        ],
+        "explanation": "連接相鄰 vertebra 的 lamina，鋸開 spine 之後應會在分離處附近有殘留。",
+        "description": ""
+    },
+    {
+        "num": "Spinal_Cord_5",
+        "path": "Spinal_Cord/Spinal_Cord_5.webp",
+        "answer": [
+            "Dorsal root ganglion"
+        ],
+        "explanation": "分布在脊柱兩側神經基部的膨大構造，內含感覺神經細胞本體。",
+        "description": ""
+    },
+    {
+        "num": "Spinal_Cord_6",
+        "path": "Spinal_Cord/Spinal_Cord_6.webp",
+        "answer": [
+            "Denticulate ligament"
+        ],
+        "explanation": "辨認方式同 spinal cord 第三題。藍色箭頭為 dorsal median sulcus。",
+        "description": ""
+    }
+]
