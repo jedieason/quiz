@@ -1,0 +1,324 @@
+[
+    {
+        "num": "b12_01",
+        "path": "b12/b12_01.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "組織一側為空腔，為上皮組織。多層、表面細胞邊緣呈圓拱狀，部分細胞有雙核，判斷為 transitional epithelium。Transitional epithelium能伸縮，出現在泌尿系統（腎盂、輸尿管、膀胱、部分尿道）的上皮。顯微鏡下的transitional epithelium為鬆弛狀態，有以下特徵：1. 表層細胞呈現弧形凸向管腔且大而淺色。2. 表層細胞靠外側的膜邊緣有一條深染線，為膀胱鬆弛，細胞變小時多餘細胞質聚集於邊緣造成。3. 有些細胞有雙核。",
+        "description": "請問以下是何種組織？"
+    },
+    {
+        "num": "b12_02",
+        "path": "b12/b12_02.webp",
+        "answer": [
+            "Smooth muscle cell, Tunica adventitia"
+        ],
+        "explanation": "出現縱走平滑肌構造，推測此為Large vein；以Orcein-Picroindigocarmine-Carmine特殊染色，黃色為smooth muscle，帶狀藍綠色為collagen fiber。Large vein的構造分三層：最內層 tunica intima 很薄，只有內皮、少量結締組織；中間的tunica media是環狀排列的平滑肌，不算特別厚；最外層tunica adventitia遠比前兩層厚，裡面有大量縱向排列成束的smooth muscle來撐住血管形狀，還能看到供應血管本身的小血管（vasa vasorum）和神經（nervi vascularis）",
+        "description": "請問下列為何種組織，位於？層(答案格式:答案1, 答案2)"
+    },
+    {
+        "num": "b12_03",
+        "path": "b12/b12_03.webp",
+        "answer": [
+            "Mitochondria"
+        ],
+        "explanation": "圖中灰黑色胞器內有多皺褶，並在皺褶中有黑色小點為matrix granule，而在胞器旁有許多皺褶與外界連結，因此推測這張圖為 basal infolding裡的Mitochondria。basal infolding是細胞基底面的很多摺疊，讓表面積變大，方便把需要的胞器藏在裡面。圖中basal infolding塞了很多Mitochondria，提供能量來幫助物質交換。在腎臟特別常見，因為腎小管底部皺褶很多，所以又叫basal striation。Mitochondria聚集在最需要能量的地方，腎臟細胞中Mitochondria集中在 basal infoldings，來驅動主動運輸。",
+        "description": "此為何種胞器（腎臟細胞）"
+    },
+    {
+        "num": "b12_04",
+        "path": "b12/b12_04.webp",
+        "answer": [
+            "Cornified stratifiedsquamous epithelium"
+        ],
+        "explanation": "最外層是squamous的細胞，再往上還有一層cornified layer，可以防止水分散失。它位在epidermis，主要功能是防止水分散失，同時提供保護。",
+        "description": "此為何種組織？"
+    },
+    {
+        "num": "b12_05",
+        "path": "b12/b12_05.webp",
+        "answer": [
+            "Muscle spindle"
+        ],
+        "explanation": "可見紡錘狀Spindle，被肌纖維夾住，在muscle fiber間有紡錘形膨大的構造。",
+        "description": "寫出藍色箭頭指的結構。"
+    },
+    {
+        "num": "b12_06",
+        "path": "b12/b12_06.webp",
+        "answer": [
+            "Fibrillar center"
+        ],
+        "explanation": "圖中白色處，為由第 13、14、15、21、22 條染色體散開的 DNA loops 所構成Fibrillar centers（FC），因在轉錄rRNA所以DNA解開較electron loose。圖中左側有雙層膜並黏著黑色絮狀物質，推測此為細胞核，而細胞核分成granular material， fibrillar material 和fibrillar centers，圖中白色處即為fibrillar center。",
+        "description": "圖中的箭頭構造為何？"
+    },
+    {
+        "num": "b12_07",
+        "path": "b12/b12_07.webp",
+        "answer": [
+            "Dorsal root ganglion",
+            "Spinal ganglia",
+            "Pseudounipolar neuron"
+        ],
+        "explanation": "圖中圈起處細胞較大，一旁有許多小細胞圍繞，為神經元的特徵。此外 satellite cell 和 fiber 有明顯分界，細胞呈圓形且核位於細胞中心，可判斷為 Dorsal root ganglion(DRG)。",
+        "description": "請問視野下構造為何(be specific)（忽略黃色圈）？"
+    },
+    {
+        "num": "b12_08",
+        "path": "b12/b12_08.webp",
+        "answer": [
+            "Simple squamous epithelim"
+        ],
+        "explanation": "觀察構造外緣的上皮組織，可發現扁平單層細胞，故為Simple squamous epithelium。",
+        "description": "何種上皮組織？"
+    },
+    {
+        "num": "b12_09",
+        "path": "b12/b12_09.webp",
+        "answer": [
+            "Lymphocyte"
+        ],
+        "explanation": "和 RBC 差不多大小，深藍色細胞核很大，天藍色的細胞質很少，沒有什麼顆粒（和 basophil 區分）。",
+        "description": "視野中央的血球為何？"
+    },
+    {
+        "num": "b12_10",
+        "path": "b12/b12_10.webp",
+        "answer": [
+            "Motor end plate"
+        ],
+        "explanation": "觀察肌肉與神經的交界處，可見到明顯黑色的樹枝狀構造為神經纖維，其末端為圓盤狀 motor end plate。",
+        "description": "寫出圖中紅色箭頭構造。"
+    },
+    {
+        "num": "b12_11",
+        "path": "b12/b12_11.webp",
+        "answer": [
+            "Simple columnar epithelium with goblet cells and microvilli"
+        ],
+        "explanation": "細胞為長條形，為柱狀細胞，上面有空泡狀的 goblet cell 及一層 microvilli（在LM 下不能看出一絲一絲，只會看到一層地毯狀、毛毛的東西在最上面）。",
+        "description": "這是什麼組織?"
+    },
+    {
+        "num": "b12_12",
+        "path": "b12/b12_12.webp",
+        "answer": [
+            "Macropinosome",
+            "membrane ruffle"
+        ],
+        "explanation": "整片細胞膜靠Actin filament向外伸出，形成membrane ruffle，包裹住物質，胞飲形成Macropinosome，為Macropinocytosis。Phagocytosis則是伸出偽足(Pseudopodia)，包裹住直徑大於250nm的大物質如細菌或死細胞碎片，膜會做更大的變形，且包裹住的地方會呈現electron-dense的固體顆粒，與Macropinocytosis包裹住胞外液體和溶解物的樣子不同。",
+        "description": "下列星號處是什麼構造？"
+    },
+    {
+        "num": "b12_13",
+        "path": "b12/b12_13.webp",
+        "answer": [
+            "Muscular artery",
+            "Medium-sized artery"
+        ],
+        "explanation": "Tunica intima 薄，Tunica media 的elastic fiber較elastic artery 少，大部分為 smooth muscle cell，且 muscular artery的external 及 internal elastic membrane 明顯，可知為Muscular artery。",
+        "description": "寫出此器官名稱。"
+    },
+    {
+        "num": "b12_14",
+        "path": "b12/b12_14.webp",
+        "answer": [
+            "Collagen fiber"
+        ],
+        "explanation": "Silver stain可以將reticular fiber染成黑色或深紫色，亦可將collagen fiber染成黑色或深紫色。因此圖中較粗的線條為Collagen fiber，形成外部保護；較細的線條為reticular fiber，將分隔成小區域。",
+        "description": "請問指針指的是什麼構造(silver stain)？"
+    },
+    {
+        "num": "b12_15",
+        "path": "b12/b12_15.webp",
+        "answer": [
+            "Centriole"
+        ],
+        "explanation": "為 EM 下的影像，箭頭所指的構造由 9×3 的管狀構造構成，此構造為centriole。",
+        "description": "請問箭頭所指是什麼構造？"
+    },
+    {
+        "num": "b12_16",
+        "path": "b12/b12_16.webp",
+        "answer": [
+            "Fibrocartilage"
+        ],
+        "explanation": "圖中可見lacuna（空洞）以及其中的chondrocyte，且isogenic group排為長鏈狀，故為纖維軟骨。圖中斜線玻片製作時的刮痕方向。",
+        "description": "顯微鏡下的組織是什麼？"
+    },
+    {
+        "num": "b12_17",
+        "path": "b12/b12_17.webp",
+        "answer": [
+            "Alpha granule"
+        ],
+        "explanation": "血小板可見的granule主要為alpha和delta granule。兩者區分：Alpha granule比較灰、體積大、各種形狀都有。Delta granule非常黑、圓形，看起來有另外一層膜、又稱dense body。",
+        "description": "指針指的構造為何？"
+    },
+    {
+        "num": "b12_18",
+        "path": "b12/b12_18.webp",
+        "answer": [
+            "Purkinje fiber"
+        ],
+        "explanation": "要和左半部的正常心肌做對比， Purkinje fiber的特色是細胞體積明顯比較大、染色較淺（因為glycogen多、myofibril少）、核在中央",
+        "description": "箭頭範圍之細胞名稱？be specific."
+    },
+    {
+        "num": "b12_19",
+        "path": "b12/b12_19.webp",
+        "answer": [
+            "Multipolar neuron",
+            "motor neuron"
+        ],
+        "explanation": "圖中為用silver stain染色的神經細胞，為多角形，故為multipolar neuron。",
+        "description": "所指細胞是什麼？"
+    },
+    {
+        "num": "b12_20",
+        "path": "b12/b12_20.webp",
+        "answer": [
+            "Sympathetic ganglion"
+        ],
+        "explanation": "Sympathetic ganglion屬於一種 multipolar neuron，其特色為周邊的statellite cell少、核偏心、細胞核淡染、有明顯核仁。要會和Dorsal root ganglion做區分，其特色為pseudounipolar neuron、細胞核在中心、周邊的satellite cell非常多但比和 Dorsal root ganglia相比分布較稀疏。",
+        "description": "請問視野下構造名稱，Be specific."
+    },
+    {
+        "num": "b12_21",
+        "path": "b12/b12_21.webp",
+        "answer": [
+            "Haversian canal, Ground bone section"
+        ],
+        "explanation": "Ground bone section指將骨頭切片研磨到極薄並做成玻片，只保留無機物的成分，可用來觀察硬骨組織的結構。圖中箭頭指向osteon中心，為Haversian canal。",
+        "description": "箭頭所指之構造為何？切片製法為何？(答案格式:答案1, 答案2)"
+    },
+    {
+        "num": "b12_22",
+        "path": "b12/b12_22.webp",
+        "answer": [
+            "Nuclear pore"
+        ],
+        "explanation": "圖中為雙層膜構造並附著有灰黑色顆粒，故可推測為核膜，而中間像被捏起來的就是Nuclear pore。",
+        "description": "下列構造為何？"
+    },
+    {
+        "num": "b12_23",
+        "path": "b12/b12_23.webp",
+        "answer": [
+            "Aorta"
+        ],
+        "explanation": "有多層elastic membrane，且每層大小：TM>TA>TI，在TA層有小血管和神經分布，可推測為elastic artery。",
+        "description": "請寫出視野下的器官名稱。"
+    },
+    {
+        "num": "b12_24",
+        "path": "b12/b12_24.webp",
+        "answer": [
+            "Osteoclast"
+        ],
+        "explanation": "大型的多核細胞，HE stain下呈淡紅色，且附近有許多osteocytes，可判斷為osteoclast。",
+        "description": "圖中是什麼細胞？"
+    },
+    {
+        "num": "b12_25",
+        "path": "b12/b12_25.webp",
+        "answer": [
+            "Eosinophil"
+        ],
+        "explanation": "核分成兩到三葉，和紅血球大小相似，許多粉紅色granule遮蓋，注意若為neutrophil其specific granule會呈現青灰色並且分成3-5葉。",
+        "description": "圖中是什麼細胞？"
+    },
+    {
+        "num": "b12_26",
+        "path": "b12/b12_26.webp",
+        "answer": [
+            "Choroid plexus"
+        ],
+        "explanation": "可見一串葡萄狀構造，為choroid plexus，緊密排列的ependymal cells包著血管與 loose CNT。",
+        "description": "這是什麼tissue？Be specific."
+    },
+    {
+        "num": "b12_27",
+        "path": "b12/b12_27.webp",
+        "answer": [
+            "Desmosome"
+        ],
+        "explanation": "此為穿透式電顯（transmission electron microscope，TEM）圖，電子密度高（electron-dense）的部分為兩細胞間的斑塊（plaque）和中間絲（intermediate filaments），考試方便可記長得像毛刷。",
+        "description": "紅色圓圈中所指是哪個構造？"
+    },
+    {
+        "num": "b12_28",
+        "path": "b12/b12_28.webp",
+        "answer": [
+            "Ligamentum nuchae",
+            "nuchal ligament",
+            "Elastic connective tissue"
+        ],
+        "explanation": "觀察圖片可發現核皆位於粗線條側邊，推測為skeletal muscle或CNT，又染色處無橫紋，故為CNT。而dense CNT中，若為dense collagen CNT則難以看清分界，但dense elastic CNT可以，且題目已說明使用special stain，故為Ligamentum nuchae（Nuchal ligament / Elastic connective tissue）。",
+        "description": "視野下的組織(構造)為何？special stain."
+    },
+    {
+        "num": "b12_29",
+        "path": "b12/b12_29.webp",
+        "answer": [
+            "Fenestrated capillary"
+        ],
+        "explanation": "電顯圖中僅一層細胞圍成一個腔，應為微血管。此圖中可見微血管的內皮細胞出現許多孔洞，造成管壁在EM下呈現凹凸不平的樣子，為fenestrated capillary的特徵。",
+        "description": "下是什麼構造？（忽略箭頭）"
+    },
+    {
+        "num": "b12_30",
+        "path": "b12/b12_30.webp",
+        "answer": [
+            "Smooth muscle"
+        ],
+        "explanation": "在細胞中間的細胞核可看到顆粒狀chromatin granule，細胞間排列起來沒有明顯界線，有些許空隙，且沒有intercalated disc和橫紋，可知為Smooth muscle。",
+        "description": "請寫出視野下的組織名稱。"
+    },
+    {
+        "num": "b12_31",
+        "path": "b12/b12_31.webp",
+        "answer": [
+            "Goblet cell"
+        ],
+        "explanation": "箭頭處細胞可見胞內具有大量囊泡狀構造，可推測其應屬腺體細胞；又該細胞兩側可見柱狀上皮細胞及細胞邊緣之微絨毛，故該細胞應為常見於腸道上皮之杯狀細胞（goblet cell）。",
+        "description": "指針所指細胞(GC) 為何？"
+    },
+    {
+        "num": "b12_32",
+        "path": "b12/b12_32.webp",
+        "answer": [
+            "Granular cell layer"
+        ],
+        "explanation": "圖中可見該組織明顯分為二層，層間可見浦金耶氏細胞（Purkinje cell），可知該器官應為小腦。右側細胞核較少之區域為小腦之分子層（molecular layer），左側細胞核較密集之構造則為顆粒層（granular cell layer）。",
+        "description": "請問箭頭指的是什麼構造？"
+    },
+    {
+        "num": "b12_33",
+        "path": "b12/b12_33.webp",
+        "answer": [
+            "Intramembranous ossification"
+        ],
+        "explanation": "圖中可見海綿狀之成骨結構，位於骨小樑（bone trabeculae）內之骨細胞（osteocyte）以及位於周圍之成骨細胞（osteoblast），為膜內成骨（intramembranous ossification）之型態。",
+        "description": "這是哪一種組織形成方式？"
+    },
+    {
+        "num": "b12_34",
+        "path": "b12/b12_34.webp",
+        "answer": [
+            "Collagen fiber"
+        ],
+        "explanation": "紅色圓圈處可見諸多纖維狀構造成束排列，從左側縱斷面可見單一纖維上有明暗相間之條紋，為膠原微纖維（collagen fibril）之特徵；而膠原微纖維束狀排列所組成之結構即為膠原纖維（collagen fiber）。",
+        "description": "請寫出紅色圓圈內的結構。"
+    },
+    {
+        "num": "b12_35",
+        "path": "b12/b12_35.webp",
+        "answer": [
+            "Cardiac muscle"
+        ],
+        "explanation": "圖中可見該組織具有肌小節（sarcomere），可知其應為橫紋肌之一種；又細胞間可見階梯狀之心間盤（intercalated disc），且肌原纖維間擁有較豐富之粒線體，可知該組織應為心肌（cardiac muscle）。此外，該影像放大倍率較低，心肌之二聯體（diad）似不甚可見。",
+        "description": "這是什麼組織？"
+    }
+]
